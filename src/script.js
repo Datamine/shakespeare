@@ -183,11 +183,14 @@ document.addEventListener('click', (e) => {
 const icon = document.querySelector('.icon');
 let duration = 3; // Start with 3 seconds per rotation
 let animationFrameId = null;
+let currentRotation = 0;
+let isSpinning = false;
 
 icon.addEventListener('mouseover', function() {
+    isSpinning = true;
     function accelerate() {
         if (document.querySelector('.icon:hover')) {  // Only continue if still hovering
-            duration = Math.max(1, duration * 0.99);  // Decrease duration, but not below 0.1s
+            duration = Math.max(0.5, duration * 0.99);  // Decrease duration, but not below 0.5s
             icon.style.animationDuration = duration + 's';
             animationFrameId = requestAnimationFrame(accelerate);
         }
@@ -195,7 +198,7 @@ icon.addEventListener('mouseover', function() {
     
     // Reset duration when starting to hover
     duration = 3;
-    icon.style.animationDuration = duration + 's';
+    icon.style.animation = 'spin ' + duration + 's linear infinite';
     animationFrameId = requestAnimationFrame(accelerate);
 });
 
@@ -203,13 +206,17 @@ icon.addEventListener('mouseout', function() {
     cancelAnimationFrame(animationFrameId);
     
     function decelerate() {
-        duration = Math.min(3, duration * 1.1);  // Increase duration, but not above 3s
+        duration = Math.min(5, duration * 1.01);  // Even slower deceleration (1.01 instead of 1.03)
         icon.style.animationDuration = duration + 's';
         
-        if (duration < 2.9) {  // Continue decelerating
+        if (duration < 5) {  // Continue spinning longer (2.95 instead of 2.9)
             animationFrameId = requestAnimationFrame(decelerate);
         } else {
-            icon.style.animation = '';  // Stop animation when nearly stopped
+            cancelAnimationFrame(animationFrameId);
+            icon.style.animation = 'none';
+            setTimeout(() => {  // Delay setting isSpinning to false
+                isSpinning = false;
+            }, 500);  // Wait half a second after animation stops
         }
     }
     
