@@ -1,0 +1,171 @@
+body {
+    background-color: white;
+    min-height: 100vh;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+#landing-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.icon-container {
+    width: 13rem;
+    height: 13rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.icon {
+    width: 12rem;
+    height: 12rem;
+    object-fit: contain;
+    cursor: pointer;
+}
+
+.icon:hover {
+    animation: spin 3s linear infinite;
+}
+
+.typeahead-container {
+    width: 100%;
+    max-width: 28rem;
+    position: relative;
+}
+
+.typeahead-input {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    color: rgb(55, 65, 81);
+    background-color: white;
+    border: 1px solid rgb(209, 213, 219);
+    border-radius: 0.5rem;
+}
+
+.typeahead-input:focus {
+    outline: none;
+    border-color: rgb(59, 130, 246);
+}
+
+.suggestions-list {
+    position: absolute;
+    width: 100%;
+    max-height: 300px;
+    overflow-y: auto;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+.suggestions-list li {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.suggestions-list li:hover {
+    background-color: #f3f4f6;
+}
+
+.hidden {
+    display: none;
+}
+
+.particle {
+    position: absolute;
+    pointer-events: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition: transform 1s ease-out, opacity 1s ease-out;
+    opacity: 1;
+}
+
+.particle.exploded {
+    opacity: 0;
+}
+
+.subtitle {
+    font-size: 2rem;
+    color: #1a1a1a;
+    text-align: center;
+    font-weight: 500;
+}
+
+.input-group {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+}
+
+.typeahead-input {
+    flex: 1;
+}
+
+.go-button {
+    padding: 8px 16px;
+    border-radius: 0.5rem;
+    background-color: #e5e7eb;
+    color: #6b7280;
+    cursor: not-allowed;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.go-button.active {
+    background-color: #1d4ed8;
+    color: white;
+    cursor: pointer;
+}
+
+.go-button.active:active {
+    background-color: #1e40af;
+}
+
+.go-button.loading {
+    color: transparent;
+}
+
+.spinner {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 16px;
+    height: 16px;
+    border: 2px solid white;
+    border-radius: 50%;
+    border-top-color: transparent;
+    animation: spin 0.8s linear infinite;
+}
+
+.go-button.loading .spinner {
+    display: block;
+}
+
+@keyframes spin {
+    to {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+} 

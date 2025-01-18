@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shakespeare AI Companion</title>
+    <link rel="icon" type="image/png" href="shakespeare_icon.png">
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div id="landing-content">
+            <!-- Icon placeholder -->
+            <div class="icon-container">
+                <img src="shakespeare_icon.png" alt="App Icon" class="icon">
+            </div>
+            
+            <h1 class="subtitle">Shakespeare AI Companion</h1>
+
+            <!-- Typeahead container -->
+            <div class="typeahead-container">
+                <div class="input-group">
+                    <input 
+                        type="text" 
+                        id="typeahead-input"
+                        class="typeahead-input"
+                        placeholder="Start typing to search..."
+                    >
+                    <button id="go-button" class="go-button" disabled>
+                        <span class="spinner"></span>
+                        Go
+                    </button>
+                </div>
+                <ul id="suggestions-list" class="suggestions-list">
+                </ul>
+            </div>
+        </div>
+
+        <!-- Content for the next page (hidden initially) -->
+        <div id="next-page-content" class="hidden">
+            <!-- Content will be populated when user makes a selection -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
