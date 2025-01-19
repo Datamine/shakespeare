@@ -13,4 +13,4 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 
 
 ### Text Sources
-All the Shakespeare plays in `src/texts` are from https://github.com/cobanov/shakespeare-dataset. That repository itself appears to be sourced from the Folger Shakespeare Library.
+All the Shakespeare plays in `plays/` are from https://github.com/cobanov/shakespeare-dataset. That repository itself appears to be sourced from the Folger Shakespeare Library.

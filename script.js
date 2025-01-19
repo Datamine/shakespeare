@@ -112,14 +112,16 @@ goButton.addEventListener('click', async () => {
         
         try {
             // Dynamically import the selected play
-            const playModule = await import(`/plays/${playFile}.js`);
-            const playText = playModule.text;
+            // LOCAL DEV ONLY const playModule = await import(`/plays/${playFile}.js`);
+            const playText = "Lorem Ipsum"; // playModule.text;
             
             // Replace the entire body content with our new layout
             document.body.innerHTML = `
                 <div class="three-pane-layout">
                     <div class="sidebar">
-                        <img src="shakespeare_icon.png" alt="App Icon" class="sidebar-icon">
+                        <div class="icon-container">
+                            <img src="shakespeare_icon.png" alt="App Icon" class="sidebar-icon">
+                        </div>
                         <div class="sidebar-tabs">
                             <div class="tab active">${selectedPlay}</div>
                             <div class="tab">Settings</div>
@@ -161,6 +163,18 @@ goButton.addEventListener('click', async () => {
                     top: scrollAmount,
                     behavior: 'smooth'
                 });
+            });
+            
+            // Add spinning effect and click handler to sidebar icon
+            const sidebarIcon = document.querySelector('.sidebar-icon');
+            
+            // Apply the same spinning effect
+            sidebarIcon.addEventListener('mouseover', () => handleIconMouseOver(sidebarIcon));
+            sidebarIcon.addEventListener('mouseout', () => handleIconMouseOut(sidebarIcon));
+
+            // Add click handler to return to home page
+            sidebarIcon.addEventListener('click', function() {
+                window.location.reload();
             });
             
         } catch (error) {
@@ -226,42 +240,46 @@ let animationFrameId = null;
 let currentRotation = 0;
 let isSpinning = false;
 
-icon.addEventListener('mouseover', function() {
+// Helper functions for icon spin animation
+function handleIconMouseOver(icon) {
     isSpinning = true;
     function accelerate() {
-        if (document.querySelector('.icon:hover')) {  // Only continue if still hovering
-            duration = Math.max(0.5, duration * 0.99);  // Decrease duration, but not below 0.5s
+        if (icon.matches(':hover')) {  // Changed to work with any icon
+            duration = Math.max(0.5, duration * 0.99);
             icon.style.animationDuration = duration + 's';
             animationFrameId = requestAnimationFrame(accelerate);
         }
     }
     
-    // Reset duration when starting to hover
     duration = 3;
     icon.style.animation = 'spin ' + duration + 's linear infinite';
     animationFrameId = requestAnimationFrame(accelerate);
-});
+}
 
-icon.addEventListener('mouseout', function() {
+function handleIconMouseOut(icon) {
     cancelAnimationFrame(animationFrameId);
     
     function decelerate() {
-        duration = Math.min(5, duration * 1.01);  // Even slower deceleration (1.01 instead of 1.03)
+        duration = Math.min(5, duration * 1.01);
         icon.style.animationDuration = duration + 's';
         
-        if (duration < 5) {  // Continue spinning longer (2.95 instead of 2.9)
+        if (duration < 5) {
             animationFrameId = requestAnimationFrame(decelerate);
         } else {
             cancelAnimationFrame(animationFrameId);
             icon.style.animation = 'none';
-            setTimeout(() => {  // Delay setting isSpinning to false
+            setTimeout(() => {
                 isSpinning = false;
-            }, 500);  // Wait half a second after animation stops
+            }, 500);
         }
     }
     
     animationFrameId = requestAnimationFrame(decelerate);
-});
+}
+
+// Landing page icon event listeners
+icon.addEventListener('mouseover', () => handleIconMouseOver(icon));
+icon.addEventListener('mouseout', () => handleIconMouseOut(icon));
 
 icon.addEventListener('click', function(e) {
     const rect = icon.getBoundingClientRect();
