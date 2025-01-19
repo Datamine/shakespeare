@@ -3,48 +3,48 @@ window.selectedOption = null;
 
 // Sample data - replace this with your actual data
 const options = [
-  {"name": "A Midsummer Night's Dream", "filename": "a-midsummer-nights-dream_TXT_FolgerShakespeare.txt"},
-  {"name": "All's Well That Ends Well", "filename": "alls-well-that-ends-well_TXT_FolgerShakespeare.txt"},
-  {"name": "Antony and Cleopatra", "filename": "antony-and-cleopatra_TXT_FolgerShakespeare.txt"},
-  {"name": "As You Like It", "filename": "as-you-like-it_TXT_FolgerShakespeare.txt"},
-  {"name": "Coriolanus", "filename": "coriolanus_TXT_FolgerShakespeare.txt"},
-  {"name": "Cymbeline", "filename": "cymbeline_TXT_FolgerShakespeare.txt"},
-  {"name": "Hamlet", "filename": "hamlet_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry IV, Part 1", "filename": "henry-iv-part-1_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry IV, Part 2", "filename": "henry-iv-part-2_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry V", "filename": "henry-v_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry VI, Part 1", "filename": "henry-vi-part-1_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry VI, Part 2", "filename": "henry-vi-part-2_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry VI, Part 3", "filename": "henry-vi-part-3_TXT_FolgerShakespeare.txt"},
-  {"name": "Henry VIII", "filename": "henry-viii_TXT_FolgerShakespeare.txt"},
-  {"name": "Julius Caesar", "filename": "julius-caesar_TXT_FolgerShakespeare.txt"},
-  {"name": "King John", "filename": "king-john_TXT_FolgerShakespeare.txt"},
-  {"name": "King Lear", "filename": "king-lear_TXT_FolgerShakespeare.txt"},
-  {"name": "Love's Labor's Lost", "filename": "loves-labors-lost_TXT_FolgerShakespeare.txt"},
-  {"name": "The Rape of Lucrece", "filename": "lucrece_TXT_FolgerShakespeare.txt"},
-  {"name": "Macbeth", "filename": "macbeth_TXT_FolgerShakespeare.txt"},
-  {"name": "Measure for Measure", "filename": "measure-for-measure_TXT_FolgerShakespeare.txt"},
-  {"name": "Much Ado About Nothing", "filename": "much-ado-about-nothing_TXT_FolgerShakespeare.txt"},
-  {"name": "Othello", "filename": "othello_TXT_FolgerShakespeare.txt"},
-  {"name": "Pericles", "filename": "pericles_TXT_FolgerShakespeare.txt"},
-  {"name": "Richard II", "filename": "richard-ii_TXT_FolgerShakespeare.txt"},
-  {"name": "Richard III", "filename": "richard-iii_TXT_FolgerShakespeare.txt"},
-  {"name": "Romeo and Juliet", "filename": "romeo-and-juliet_TXT_FolgerShakespeare.txt"},
-  {"name": "Shakespeare's Sonnets", "filename": "shakespeares-sonnets_TXT_FolgerShakespeare.txt"},
-  {"name": "The Comedy of Errors", "filename": "the-comedy-of-errors_TXT_FolgerShakespeare.txt"},
-  {"name": "The Merchant of Venice", "filename": "the-merchant-of-venice_TXT_FolgerShakespeare.txt"},
-  {"name": "The Merry Wives of Windsor", "filename": "the-merry-wives-of-windsor_TXT_FolgerShakespeare.txt"},
-  {"name": "The Phoenix and Turtle", "filename": "the-phoenix-and-turtle_TXT_FolgerShakespeare.txt"},
-  {"name": "The Taming of the Shrew", "filename": "the-taming-of-the-shrew_TXT_FolgerShakespeare.txt"},
-  {"name": "The Tempest", "filename": "the-tempest_TXT_FolgerShakespeare.txt"},
-  {"name": "The Two Gentlemen of Verona", "filename": "the-two-gentlemen-of-verona_TXT_FolgerShakespeare.txt"},
-  {"name": "The Two Noble Kinsmen", "filename": "the-two-noble-kinsmen_TXT_FolgerShakespeare.txt"},
-  {"name": "The Winter's Tale", "filename": "the-winters-tale_TXT_FolgerShakespeare.txt"},
-  {"name": "Timon of Athens", "filename": "timon-of-athens_TXT_FolgerShakespeare.txt"},
-  {"name": "Titus Andronicus", "filename": "titus-andronicus_TXT_FolgerShakespeare.txt"},
-  {"name": "Troilus and Cressida", "filename": "troilus-and-cressida_TXT_FolgerShakespeare.txt"},
-  {"name": "Twelfth Night", "filename": "twelfth-night_TXT_FolgerShakespeare.txt"},
-  {"name": "Venus and Adonis", "filename": "venus-and-adonis_TXT_FolgerShakespeare.txt"}
+  {"name": "A Midsummer Night's Dream", "filename": "a-midsummer-nights-dream"},
+  {"name": "All's Well That Ends Well", "filename": "alls-well-that-ends-well"},
+  {"name": "Antony and Cleopatra", "filename": "antony-and-cleopatra"},
+  {"name": "As You Like It", "filename": "as-you-like-it"},
+  {"name": "Coriolanus", "filename": "coriolanus"},
+  {"name": "Cymbeline", "filename": "cymbeline"},
+  {"name": "Hamlet", "filename": "hamlet"},
+  {"name": "Henry IV, Part 1", "filename": "henry-iv-part-1"},
+  {"name": "Henry IV, Part 2", "filename": "henry-iv-part-2"},
+  {"name": "Henry V", "filename": "henry-v"},
+  {"name": "Henry VI, Part 1", "filename": "henry-vi-part-1"},
+  {"name": "Henry VI, Part 2", "filename": "henry-vi-part-2"},
+  {"name": "Henry VI, Part 3", "filename": "henry-vi-part-3"},
+  {"name": "Henry VIII", "filename": "henry-viii"},
+  {"name": "Julius Caesar", "filename": "julius-caesar"},
+  {"name": "King John", "filename": "king-john"},
+  {"name": "King Lear", "filename": "king-lear"},
+  {"name": "Love's Labor's Lost", "filename": "loves-labors-lost"},
+  {"name": "The Rape of Lucrece", "filename": "lucrece"},
+  {"name": "Macbeth", "filename": "macbeth"},
+  {"name": "Measure for Measure", "filename": "measure-for-measure"},
+  {"name": "Much Ado About Nothing", "filename": "much-ado-about-nothing"},
+  {"name": "Othello", "filename": "othello"},
+  {"name": "Pericles", "filename": "pericles"},
+  {"name": "Richard II", "filename": "richard-ii"},
+  {"name": "Richard III", "filename": "richard-iii"},
+  {"name": "Romeo and Juliet", "filename": "romeo-and-juliet"},
+  {"name": "Shakespeare's Sonnets", "filename": "shakespeares-sonnets"},
+  {"name": "The Comedy of Errors", "filename": "the-comedy-of-errors"},
+  {"name": "The Merchant of Venice", "filename": "the-merchant-of-venice"},
+  {"name": "The Merry Wives of Windsor", "filename": "the-merry-wives-of-windsor"},
+  {"name": "The Phoenix and Turtle", "filename": "the-phoenix-and-turtle"},
+  {"name": "The Taming of the Shrew", "filename": "the-taming-of-the-shrew"},
+  {"name": "The Tempest", "filename": "the-tempest"},
+  {"name": "The Two Gentlemen of Verona", "filename": "the-two-gentlemen-of-verona"},
+  {"name": "The Two Noble Kinsmen", "filename": "the-two-noble-kinsmen"},
+  {"name": "The Winter's Tale", "filename": "the-winters-tale"},
+  {"name": "Timon of Athens", "filename": "timon-of-athens"},
+  {"name": "Titus Andronicus", "filename": "titus-andronicus"},
+  {"name": "Troilus and Cressida", "filename": "troilus-and-cressida"},
+  {"name": "Twelfth Night", "filename": "twelfth-night"},
+  {"name": "Venus and Adonis", "filename": "venus-and-adonis"}
 ]
 
 const input = document.getElementById('typeahead-input');
@@ -102,28 +102,70 @@ input.addEventListener('input', (e) => {
 });
 
 // Add click handler for the Go button
-goButton.addEventListener('click', () => {
+goButton.addEventListener('click', async () => {
     if (!goButton.disabled) {
         goButton.classList.add('loading');
         
-        // Replace the entire body content with our new layout
-        document.body.innerHTML = `
-            <div class="three-pane-layout">
-                <div class="sidebar">
-                    <!-- Sidebar content -->
-                </div>
-                <div class="main-content">
-                    <div class="cream-pane">
-                        <!-- Cream pane content -->
-                    </div>
-                    <div class="white-pane">
-                        <!-- White pane content -->
-                    </div>
-                </div>
-            </div>
-        `;
+        // Get the selected play name and filename
+        const selectedPlay = input.value;
+        const playFile = options.find(opt => opt.name === selectedPlay)?.filename;
         
-        // Remove loading state (though this won't be visible anymore)
+        try {
+            // Dynamically import the selected play
+            const playModule = await import(`/src/plays/${playFile}.js`);
+            const playText = playModule.text;
+            
+            // Replace the entire body content with our new layout
+            document.body.innerHTML = `
+                <div class="three-pane-layout">
+                    <div class="sidebar">
+                        <img src="shakespeare_icon.png" alt="App Icon" class="sidebar-icon">
+                        <div class="sidebar-tabs">
+                            <div class="tab active">${selectedPlay}</div>
+                            <div class="tab">Settings</div>
+                            <div class="tab">About</div>
+                        </div>
+                    </div>
+                    <div class="main-content">
+                        <div class="cream-pane">
+                            <div class="text-content">${playText}</div>
+                            <div class="scroll-controls">
+                                <button class="scroll-button" id="scroll-up">↑</button>
+                                <button class="scroll-button" id="scroll-down">↓</button>
+                            </div>
+                        </div>
+                        <div class="white-pane">
+                            <!-- White pane content -->
+                        </div>
+                    </div>
+                </div>
+            `;
+            
+            // Add scroll button handlers
+            const textContent = document.querySelector('.text-content');
+            const scrollUp = document.getElementById('scroll-up');
+            const scrollDown = document.getElementById('scroll-down');
+            
+            const scrollAmount = 300; // pixels to scroll
+            
+            scrollUp.addEventListener('click', () => {
+                textContent.scrollBy({
+                    top: -scrollAmount,
+                    behavior: 'smooth'
+                });
+            });
+            
+            scrollDown.addEventListener('click', () => {
+                textContent.scrollBy({
+                    top: scrollAmount,
+                    behavior: 'smooth'
+                });
+            });
+            
+        } catch (error) {
+            console.error('Error loading play:', error);
+        }
+        
         goButton.classList.remove('loading');
     }
 });
