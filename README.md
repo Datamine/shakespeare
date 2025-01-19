@@ -1,5 +1,8 @@
-# shakespeare
-LLM shakespeare tutor in the browser
+# Shakespeare
+The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor in the Browser
+
+### Current Version
+<!-- VERSION -->1.0.1<!-- /VERSION -->
 
 ### what is this?
 1. i always wanted an epub reading companion where i could use an LLM to interrogate the text live

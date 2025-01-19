@@ -280,4 +280,13 @@ body {
     flex: 1;
     background-color: white;
     padding: 1rem;
+}
+
+.version-number {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    font-size: 0.75rem;
+    color: #6b7280;
+    opacity: 0.8;
 } 

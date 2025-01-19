@@ -112,7 +112,7 @@ goButton.addEventListener('click', async () => {
         
         try {
             // Dynamically import the selected play
-            const playModule = await import(`/src/plays/${playFile}.js`);
+            const playModule = await import(`/plays/${playFile}.js`);
             const playText = playModule.text;
             
             // Replace the entire body content with our new layout
@@ -138,6 +138,7 @@ goButton.addEventListener('click', async () => {
                             <!-- White pane content -->
                         </div>
                     </div>
+                    <div class="version-number">v1.0.1</div>
                 </div>
             `;
             
