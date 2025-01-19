@@ -104,15 +104,27 @@ input.addEventListener('input', (e) => {
 // Add click handler for the Go button
 goButton.addEventListener('click', () => {
     if (!goButton.disabled) {
-        // Add loading state
         goButton.classList.add('loading');
         
-        // Simulate loading (replace with actual loading logic)
-        setTimeout(() => {
-            goButton.classList.remove('loading');
-            // Handle the Go action here
-            console.log('Go clicked with selection:', input.value);
-        }, 2000);
+        // Replace the entire body content with our new layout
+        document.body.innerHTML = `
+            <div class="three-pane-layout">
+                <div class="sidebar">
+                    <!-- Sidebar content -->
+                </div>
+                <div class="main-content">
+                    <div class="cream-pane">
+                        <!-- Cream pane content -->
+                    </div>
+                    <div class="white-pane">
+                        <!-- White pane content -->
+                    </div>
+                </div>
+            </div>
+        `;
+        
+        // Remove loading state (though this won't be visible anymore)
+        goButton.classList.remove('loading');
     }
 });
 
@@ -139,37 +151,22 @@ input.addEventListener('focus', () => {
 
 input.addEventListener('keydown', (e) => {
     const items = suggestionsList.querySelectorAll('li');
-    if (!items.length) return;
-
-    switch (e.key) {
-        case 'ArrowDown':
+    
+    if (e.key === 'Enter') {
+        if (selectedIndex >= 0 && selectedIndex < items.length) {
             e.preventDefault();
-            updateSelectedItem(selectedIndex < items.length - 1 ? selectedIndex + 1 : 0);
-            break;
-        case 'ArrowUp':
-            e.preventDefault();
-            updateSelectedItem(selectedIndex > 0 ? selectedIndex - 1 : items.length - 1);
-            break;
-        case 'Enter':
-            e.preventDefault();
-            if (!goButton.disabled) {  // If Go button is enabled (valid selection exists)
-                goButton.click();  // Trigger the Go button
-                return;
+            items[selectedIndex].click();
+            // Trigger the go button if it's enabled
+            if (!goButton.disabled) {
+                goButton.click();
             }
-            if (selectedIndex >= 0) {
-                const selectedOption = options.find(opt => 
-                    opt.name === items[selectedIndex].textContent
-                );
-                if (selectedOption) selectOption(selectedOption);
-            } else {
-                const exactMatch = options.find(opt => 
-                    opt.name.toLowerCase() === input.value.toLowerCase()
-                );
-                if (exactMatch) {
-                    selectOption(exactMatch);
-                }
-            }
-            break;
+        }
+    } else if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        updateSelectedItem(selectedIndex + 1);
+    } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        updateSelectedItem(selectedIndex - 1);
     }
 });
 

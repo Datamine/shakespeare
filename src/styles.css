@@ -174,4 +174,39 @@ body {
     to {
         transform: translate(-50%, -50%) rotate(360deg);
     }
+}
+
+.three-pane-layout {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 150px;
+    background-color: #f0f0f0;
+    flex-shrink: 0;
+    padding: 1rem;
+}
+
+.main-content {
+    flex: 1;
+    display: flex;
+}
+
+.cream-pane {
+    flex: 1;
+    background-color: #FDFBF7;
+    padding: 1rem;
+}
+
+.white-pane {
+    flex: 1;
+    background-color: white;
+    padding: 1rem;
 } 
