@@ -1201,12 +1201,19 @@ function selectAct(actCount, sceneCount = null) {
         item.classList.remove('active');
     });
     
-    // Mark active act and scene
+    // Hide all scenes containers first
+    document.querySelectorAll('.scenes-container').forEach(container => {
+        container.style.display = 'none';
+    });
+    
+    // Mark active act and show its scenes
     const actItems = document.querySelectorAll('.act-item');
     const scenesContainers = document.querySelectorAll('.scenes-container');
     
     if (actItems[actCount - 1]) {
         actItems[actCount - 1].classList.add('active');
+        // Show scenes for this act
+        scenesContainers[actCount - 1].style.display = 'block';
         
         if (sceneCount !== null) {
             const sceneItems = scenesContainers[actCount - 1].querySelectorAll('.scene-item');
