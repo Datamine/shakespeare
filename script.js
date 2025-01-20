@@ -683,40 +683,7 @@ next way:
 	Your marriage comes by destiny;
 	   Your cuckoo sings by kind.
 
-COUNTESS  Get you gone, sir. I'll talk with you more
-anon.
-
-STEWARD  May it please you, madam, that he bid Helen
-come to you. Of her I am to speak.
-
-COUNTESS  Sirrah, tell my gentlewoman I would speak
-with her--Helen, I mean.
-
-FOOL [sings]
-	"Was this fair face the cause," quoth she,
-	   "Why the Grecians sacked Troy?
-	Fond done, done fond.
-	   Was this King Priam's joy?"
-	With that she sighed as she stood,
-	With that she sighed as she stood,
-	   And gave this sentence then:
-	"Among nine bad if one be good,
-	Among nine bad if one be good,
-	   There's yet one good in ten."
-
-COUNTESS  What, one good in ten? You corrupt the
-song, sirrah.
-
-FOOL  One good woman in ten, madam, which is a
-purifying o' th' song. Would God would serve the
-world so all the year! We'd find no fault with the
-tithe-woman if I were the parson. One in ten,
-quoth he? An we might have a good woman born
-but or every blazing star or at an earthquake,
-'twould mend the lottery well. A man may draw his
-heart out ere he pluck one.
-
-COUNTESS  You'll be gone, sir knave, and do as I command
+COUNTESS  Get you gone, sir knave, and do as I command
 you!
 
 FOOL  That man should be at woman's command, and
@@ -1171,15 +1138,18 @@ function updateSidebar(playText, selectedPlay) {
             sceneCount = 0;  // Reset scene count for new act
             const actDiv = document.createElement('div');
             actDiv.className = 'act-item';
-            actDiv.textContent = line.replace(/<\/?b[^>]*>/g, '').trim();
+            const actText = line.replace(/<\/?b[^>]*>/g, '').trim();
+            actDiv.textContent = actText;
+            
+            const actNumber = actText.split(' ')[1]; // Get number from "Act N"
             
             const scenesContainer = document.createElement('div');
             scenesContainer.className = 'scenes-container';
             
             actDiv.onclick = () => {
-                const target = document.querySelector(`#act-${actCount}`);
+                const target = document.querySelector(`#act-${actNumber}`);
                 if (target) {
-                    selectAct(actCount);
+                    selectAct(actNumber);
                     target.scrollIntoView({ behavior: 'smooth' });
                 }
             };
@@ -1251,22 +1221,44 @@ function updateActiveActFromScroll(acts) {
     const textContent = document.querySelector('.text-content');
     const scrollPosition = textContent.scrollTop;
     const viewportHeight = textContent.clientHeight;
+    const buffer = viewportHeight * 0.2; // 20% buffer zone
     
     let mostVisibleAct = 1;
+    let mostVisibleScene = 1;
     let maxVisibility = 0;
     
-    acts.forEach((act, index) => {
-        const actElement = document.querySelector(`#act-${index + 1}`);
-        if (actElement) {
-            const rect = actElement.getBoundingClientRect();
-            const visibility = Math.min(rect.bottom, viewportHeight) - Math.max(rect.top, 0);
+    // First find all scene elements and check their visibility
+    for (let act = 1; act <= acts.length; act++) {
+        const actScenes = document.querySelectorAll(`[id^="act-${act}-scene-"]`);
+        actScenes.forEach((sceneElement) => {
+            const rect = sceneElement.getBoundingClientRect();
+            
+            // Calculate visibility with a bias towards elements near the top of the viewport
+            const elementTop = rect.top;
+            const elementBottom = rect.bottom;
+            const elementHeight = rect.height;
+            
+            // Give more weight to elements near the top of the viewport
+            let visibility = 0;
+            if (elementTop < buffer && elementBottom > 0) {
+                // Element is near the top of viewport
+                visibility = elementHeight + (buffer - elementTop);
+            } else if (elementTop >= 0 && elementTop < viewportHeight) {
+                // Element is in viewport but not at top
+                visibility = Math.min(elementBottom, viewportHeight) - elementTop;
+            }
             
             if (visibility > maxVisibility) {
                 maxVisibility = visibility;
-                mostVisibleAct = index + 1;
+                const [, actNum, , sceneNum] = sceneElement.id.split('-');
+                mostVisibleAct = parseInt(actNum);
+                mostVisibleScene = parseInt(sceneNum);
             }
-        }
-    });
+        });
+    }
     
-    selectAct(mostVisibleAct);
+    // Only update if we found a visible scene
+    if (maxVisibility > 0) {
+        selectAct(mostVisibleAct, mostVisibleScene);
+    }
 }
