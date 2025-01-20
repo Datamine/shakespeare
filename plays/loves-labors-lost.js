@@ -18,23 +18,22 @@ Ladies attending the Princess:
   ROSALINE
   MARIA
   KATHERINE
-<b>BOYET</b>, a lord attending the Princess
-<b>ARMADO</b>, the BRAGGART, also known as Don Adriano de Armado
-<b>BOY</b>, Armado's PAGE, also known as MOTE
-<b>JAQUENETTA</b>, the WENCH
-<b>COSTARD</b>, the CLOWN or SWAIN
-<b>DULL</b>, the CONSTABLE
-<b>HOLOFERNES</b>, the PEDANT, or schoolmaster
-<b>NATHANIEL</b>, the CURATE
+<b>BOYET,</b> a lord attending the Princess
+<b>ARMADO,</b> the BRAGGART, also known as Don Adriano de Armado
+<b>BOY,</b> Armado's PAGE, also known as MOTE
+<b>JAQUENETTA,</b> the WENCH
+<b>COSTARD,</b> the CLOWN or SWAIN
+<b>DULL,</b> the CONSTABLE
+<b>HOLOFERNES,</b> the PEDANT, or schoolmaster
+<b>NATHANIEL,</b> the CURATE
 FORESTER
-<b>MONSIEUR MARCADE</b>, a messenger from France
+<b>MONSIEUR MARCADE,</b> a messenger from France
 Lords, Blackamoors, Musicians
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ferdinand, King of Navarre, Berowne,
 Longaville, and Dumaine.]
@@ -316,7 +315,7 @@ person in flesh and blood.
 
 BEROWNE  This is he.
 
-<b>DULL</b>, [to King]  Signior Arm-, Arm-, commends you.
+<b>DULL,</b> [to King]  Signior Arm-, Arm-, commends you.
 There's villainy abroad. This letter will tell you
 more.	[He gives the letter to the King.]
 
@@ -414,7 +413,7 @@ COSTARD  Still me?
 
 KING [reads]  which, as I remember, hight Costard,--
 
-<b>COSTARD  O</b>, me!
+<b>COSTARD  O,</b> me!
 
 KING [reads]  sorted and consorted, contrary to thy
 established proclaimed edict and continent canon,
@@ -499,7 +498,7 @@ Affliction may one day smile again, and till
 then, sit thee down, sorrow.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Armado and Mote, his page.]
 
@@ -559,7 +558,7 @@ BOY  I am answered, sir.
 
 ARMADO  I love not to be crossed.
 
-<b>BOY</b>, [aside]  He speaks the mere contrary; crosses love
+<b>BOY,</b> [aside]  He speaks the mere contrary; crosses love
 not him.
 
 ARMADO  I have promised to study three years with the
@@ -596,7 +595,7 @@ will tell you.
 
 ARMADO  A most fine figure.
 
-<b>BOY</b>, [aside]  To prove you a cipher.
+<b>BOY,</b> [aside]  To prove you a cipher.
 
 ARMADO  I will hereupon confess I am in love; and as it
 is base for a soldier to love, so am I in love with a
@@ -618,7 +617,7 @@ BOY  Samson, master; he was a man of good carriage,
 great carriage, for he carried the town gates on his
 back like a porter, and he was in love.
 
-<b>ARMADO  O</b>, well-knit Samson, strong-jointed Samson;
+<b>ARMADO  O,</b> well-knit Samson, strong-jointed Samson;
 I do excel thee in my rapier as much as thou didst
 me in carrying gates. I am in love too. Who was
 Samson's love, my dear Mote?
@@ -684,12 +683,12 @@ Boy, I do love that country girl that I took in
 the park with the rational hind Costard. She deserves
 well.
 
-<b>BOY</b>, [aside]  To be whipped--and yet a better love than
+<b>BOY,</b> [aside]  To be whipped--and yet a better love than
 my master.
 
 ARMADO  Sing, boy. My spirit grows heavy in love.
 
-<b>BOY</b>, [aside]  And that's great marvel, loving a light
+<b>BOY,</b> [aside]  And that's great marvel, loving a light
 wench.
 
 ARMADO  I say sing.
@@ -700,14 +699,14 @@ BOY  Forbear till this company be past.
 (Jaquenetta.)]
 
 
-<b>DULL</b>, [to Armado]  Sir, the Duke's pleasure is that you
+<b>DULL,</b> [to Armado]  Sir, the Duke's pleasure is that you
 keep Costard safe, and you must suffer him to take
 no delight, nor no penance, but he must fast three
 days a week. For this damsel, I must keep her at the
 park. She is allowed for the dey-woman. Fare you
 well.
 
-<b>ARMADO</b>, [aside]  I do betray myself with blushing.--
+<b>ARMADO,</b> [aside]  I do betray myself with blushing.--
 Maid.
 
 JAQUENETTA  Man.
@@ -735,7 +734,7 @@ JAQUENETTA  Fair weather after you.
 DULL  Come, Jaquenetta, away.
 [Dull and Jaquenetta exit.]
 
-<b>ARMADO</b>, [to Costard]  Villain, thou shalt fast for thy
+<b>ARMADO,</b> [to Costard]  Villain, thou shalt fast for thy
 offenses ere thou be pardoned.
 
 COSTARD  Well, sir, I hope when I do it I shall do it on
@@ -746,11 +745,11 @@ ARMADO  Thou shalt be heavily punished.
 COSTARD  I am more bound to you than your fellows,
 for they are but lightly rewarded.
 
-<b>ARMADO</b>, [to Boy]  Take away this villain. Shut him up.
+<b>ARMADO,</b> [to Boy]  Take away this villain. Shut him up.
 
 BOY  Come, you transgressing slave, away.
 
-<b>COSTARD</b>, [to Armado]  Let me not be pent up, sir. I will
+<b>COSTARD,</b> [to Armado]  Let me not be pent up, sir. I will
 fast being loose.
 
 BOY  No, sir, that were fast and loose. Thou shalt to
@@ -790,10 +789,9 @@ am for whole volumes in folio.
 [He exits.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Princess of France, with three attending
 Ladies (Rosaline, Maria, and Katherine), Boyet
@@ -977,7 +975,7 @@ You will the sooner that I were away,
 For you'll prove perjured if you make me stay.
 [They walk aside while the King reads the paper.]
 
-<b>BEROWNE</b>, [to Rosaline]
+<b>BEROWNE,</b> [to Rosaline]
 Did not I dance with you in Brabant once?
 
 ROSALINE
@@ -1015,7 +1013,7 @@ ROSALINE  Amen, so you be none.
 
 BEROWNE  Nay, then, will I be gone.
 
-<b>KING</b>, [coming forward with the Princess]
+<b>KING,</b> [coming forward with the Princess]
 Madam, your father here doth intimate
 The payment of a hundred thousand crowns,
 Being but the one half of an entire sum
@@ -1086,7 +1084,7 @@ Thy own wish wish I thee in every place.
 [He exits with Dumaine,
 Longaville, and Attendants.]
 
-<b>BEROWNE</b>, [to Rosaline]  Lady, I will commend you to
+<b>BEROWNE,</b> [to Rosaline]  Lady, I will commend you to
 my own heart.
 
 ROSALINE  Pray you, do my commendations. I would
@@ -1117,7 +1115,7 @@ BEROWNE  I cannot stay thanksgiving.	[He exits.]
 [Enter Dumaine.]
 
 
-<b>DUMAINE</b>, [to Boyet]
+<b>DUMAINE,</b> [to Boyet]
 Sir, I pray you, a word. What lady is that same?
 
 BOYET
@@ -1129,7 +1127,7 @@ A gallant lady, monsieur. Fare you well.	[He exits.]
 [Enter Longaville.]
 
 
-<b>LONGAVILLE</b>, [to Boyet]
+<b>LONGAVILLE,</b> [to Boyet]
 I beseech you, a word. What is she in the white?
 
 BOYET
@@ -1160,7 +1158,7 @@ BOYET  Not unlike, sir, that may be.
 [Enter Berowne.]
 
 
-<b>BEROWNE</b>, [to Boyet]  What's her name in the cap?
+<b>BEROWNE,</b> [to Boyet]  What's her name in the cap?
 
 BOYET  Rosaline, by good hap.
 
@@ -1242,7 +1240,7 @@ That all eyes saw his eyes enchanted with gazes.
 I'll give you Aquitaine, and all that is his,
 An you give him for my sake but one loving kiss.
 
-<b>PRINCESS</b>, [to her Ladies]
+<b>PRINCESS,</b> [to her Ladies]
 Come, to our pavilion. Boyet is disposed.
 
 BOYET
@@ -1276,10 +1274,9 @@ BOYET  You are too hard for me.
 [They all exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Braggart Armado and his Boy.]
 
@@ -1481,7 +1478,7 @@ COSTARD  Till there be more matter in the shin.
 
 ARMADO  Sirrah Costard, I will enfranchise thee.
 
-<b>COSTARD  O</b>, marry me to one Frances! I smell some
+<b>COSTARD  O,</b> marry me to one Frances! I smell some
 l'envoi, some goose, in this.
 
 ARMADO  By my sweet soul, I mean, setting thee at
@@ -1601,10 +1598,9 @@ Some men must love my lady, and some Joan.
 [He exits.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Princess, a Forester, her Ladies, Boyet and
 her other Lords.]
@@ -1713,7 +1709,7 @@ O, thy letter, thy letter! He's a good friend of mine.
 Stand aside, good bearer.--Boyet, you can carve.
 Break up this capon.
 
-<b>BOYET</b>, [taking the letter]  I am bound to serve.
+<b>BOYET,</b> [taking the letter]  I am bound to serve.
 This letter is mistook; it importeth none here.
 It is writ to Jaquenetta.
 
@@ -1772,7 +1768,7 @@ A phantasime, a Monarcho, and one that makes
 sport
 To the Prince and his bookmates.
 
-<b>PRINCESS</b>, [to Costard]  Thou, fellow, a word.
+<b>PRINCESS,</b> [to Costard]  Thou, fellow, a word.
 Who gave thee this letter?
 
 COSTARD  I told you: my lord.
@@ -1867,7 +1863,7 @@ COSTARD
 Indeed, he must shoot nearer, or he'll ne'er hit the
 clout.
 
-<b>BOYET</b>, [to Maria]
+<b>BOYET,</b> [to Maria]
 An if my hand be out, then belike your hand is in.
 
 COSTARD
@@ -1876,7 +1872,7 @@ Then will she get the upshoot by cleaving the pin.
 MARIA
 Come, come, you talk greasily. Your lips grow foul.
 
-<b>COSTARD</b>, [to Boyet]
+<b>COSTARD,</b> [to Boyet]
 She's too hard for you at pricks, sir. Challenge her
 to bowl.
 
@@ -1902,7 +1898,7 @@ Ah heavens, it is a most pathetical nit.
 Sola, sola!
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Dull the Constable, Holofernes the Pedant, and
 Nathaniel the Curate.]
@@ -2012,7 +2008,7 @@ more "L."
 
 NATHANIEL  A rare talent.
 
-<b>DULL</b>, [aside]  If a talent be a claw, look how he claws
+<b>DULL,</b> [aside]  If a talent be a claw, look how he claws
 him with a talent.
 
 HOLOFERNES  This is a gift that I have, simple, simple--
@@ -2038,7 +2034,7 @@ loquitur. A soul feminine saluteth us.
 [Enter Jaquenetta and the Clown Costard.]
 
 
-<b>JAQUENETTA</b>, [to Nathaniel]  God give you good morrow,
+<b>JAQUENETTA,</b> [to Nathaniel]  God give you good morrow,
 Master Person.
 
 HOLOFERNES  Master Person, quasi pierce one. And
@@ -2051,7 +2047,7 @@ HOLOFERNES  Of piercing a hogshead! A good luster
 of conceit in a turf of earth; fire enough for a flint,
 pearl enough for a swine. 'Tis pretty, it is well.
 
-<b>JAQUENETTA</b>, [to Nathaniel]  Good Master Parson, be so
+<b>JAQUENETTA,</b> [to Nathaniel]  Good Master Parson, be so
 good as read me this letter. It was given me by
 Costard, and sent me from Don Armado. I beseech
 you, read it.
@@ -2075,7 +2071,7 @@ NATHANIEL  Ay, sir, and very learned.
 HOLOFERNES   Let me hear a staff, a stanza, a verse,
 Lege, domine.
 
-<b>NATHANIEL</b>, [reads]
+<b>NATHANIEL,</b> [reads]
 	If love make me forsworn, how shall I swear to love?
 	   Ah, never faith could hold, if not to beauty vowed!
 	Though to myself forsworn, to thee I'll faithful prove.
@@ -2156,7 +2152,7 @@ not say me nay. Pauca verba. Away! The gentles are
 at their game, and we will to our recreation.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Berowne with a paper in his hand, alone.]
 
@@ -2187,7 +2183,7 @@ a paper. God give him grace to groan.
 
 KING  Ay me!
 
-<b>BEROWNE</b>, [aside]  Shot, by heaven! Proceed, sweet
+<b>BEROWNE,</b> [aside]  Shot, by heaven! Proceed, sweet
 Cupid. Thou hast thumped him with thy birdbolt
 under the left pap. In faith, secrets!
 
@@ -2216,24 +2212,24 @@ Sweet leaves, shade folly. Who is he comes here?
 
 What, Longaville, and reading! Listen, ear.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 Now, in thy likeness, one more fool appear!
 
 LONGAVILLE  Ay me! I am forsworn.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 Why, he comes in like a perjure, wearing papers!
 
-<b>KING</b>, [aside]
+<b>KING,</b> [aside]
 In love, I hope! Sweet fellowship in shame.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 One drunkard loves another of the name.
 
 LONGAVILLE
 Am I the first that have been perjured so?
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 I could put thee in comfort: not by two that I know.
 Thou makest the triumviry, the corner-cap of
 society,
@@ -2245,11 +2241,11 @@ I fear these stubborn lines lack power to move.
 These numbers will I tear and write in prose.
 [He tears the paper.]
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 O, rhymes are guards on wanton Cupid's hose.
 Disfigure not his shop!
 
-<b>LONGAVILLE</b>, [taking another paper]  This same shall go.
+<b>LONGAVILLE,</b> [taking another paper]  This same shall go.
 [He reads the sonnet.]
 	Did not the heavenly rhetoric of thine eye,
 	   'Gainst whom the world cannot hold argument,
@@ -2267,7 +2263,7 @@ Disfigure not his shop!
 	If by me broke, what fool is not so wise
 	To lose an oath to win a paradise?
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 This is the liver vein, which makes flesh a deity,
 A green goose a goddess. Pure, pure idolatry.
 God amend us, God amend. We are much out o' th'
@@ -2280,7 +2276,7 @@ By whom shall I send this?--Company? Stay.
 [Enter Dumaine, with a paper.]
 
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 All hid, all hid--an old infant play.
 Like a demigod here sit I in the sky,
 And wretched fools' secrets heedfully o'ereye.
@@ -2289,53 +2285,53 @@ Dumaine transformed! Four woodcocks in a dish.
 
 DUMAINE  O most divine Kate!
 
-<b>BEROWNE</b>, [aside]  O most profane coxcomb!
+<b>BEROWNE,</b> [aside]  O most profane coxcomb!
 
 DUMAINE
 By heaven, the wonder in a mortal eye!
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 By Earth, she is not, corporal. There you lie.
 
 DUMAINE
 Her amber hairs for foul hath amber quoted.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 An amber-colored raven was well noted.
 
 DUMAINE
 As upright as the cedar.
 
-<b>BEROWNE</b>, [aside]  Stoop, I say.
+<b>BEROWNE,</b> [aside]  Stoop, I say.
 Her shoulder is with child.
 
 DUMAINE  As fair as day.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 Ay, as some days, but then no sun must shine.
 
 DUMAINE
 O, that I had my wish!
 
-<b>LONGAVILLE</b>, [aside]  And I had mine!
+<b>LONGAVILLE,</b> [aside]  And I had mine!
 
-<b>KING</b>, [aside]  And mine too, good Lord!
+<b>KING,</b> [aside]  And mine too, good Lord!
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 Amen, so I had mine. Is not that a good word?
 
 DUMAINE
 I would forget her, but a fever she
 Reigns in my blood, and will remembered be.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 A fever in your blood? Why, then incision
 Would let her out in saucers! Sweet misprision.
 
 DUMAINE
 Once more I'll read the ode that I have writ.
 
-<b>BEROWNE</b>, [aside]
+<b>BEROWNE,</b> [aside]
 Once more I'll mark how love can vary wit.
 
 DUMAINE [reads his sonnet.]
@@ -2366,13 +2362,13 @@ Were lovers too! Ill to example ill
 Would from my forehead wipe a perjured note,
 For none offend where all alike do dote.
 
-<b>LONGAVILLE</b>, [coming forward]
+<b>LONGAVILLE,</b> [coming forward]
 Dumaine, thy love is far from charity,
 That in love's grief desir'st society.
 You may look pale, but I should blush, I know,
 To be o'er-heard and taken napping so.
 
-<b>KING</b>, [coming forward]
+<b>KING,</b> [coming forward]
 [To Longaville.] Come, sir, you blush! As his, your
 case is such.
 You chide at him, offending twice as much.
@@ -2397,7 +2393,7 @@ How will he triumph, leap, and laugh at it!
 For all the wealth that ever I did see,
 I would not have him know so much by me.
 
-<b>BEROWNE</b>, [coming forward]
+<b>BEROWNE,</b> [coming forward]
 Now step I forth to whip hypocrisy.
 Ah, good my liege, I pray thee pardon me.
 Good heart, what grace hast thou thus to reprove
@@ -2477,12 +2473,12 @@ Berowne, read it over.
 
 JAQUENETTA  Of Costard.
 
-<b>KING</b>, [to Costard]  Where hadst thou it?
+<b>KING,</b> [to Costard]  Where hadst thou it?
 
 COSTARD  Of Dun Adramadio, Dun Adramadio.
 [Berowne tears the paper.]
 
-<b>KING</b>, [to Berowne]
+<b>KING,</b> [to Berowne]
 How now, what is in you? Why dost thou tear it?
 
 BEROWNE
@@ -2492,10 +2488,10 @@ LONGAVILLE
 It did move him to passion, and therefore let's hear
 it.
 
-<b>DUMAINE</b>, [picking up the papers]
+<b>DUMAINE,</b> [picking up the papers]
 It is Berowne's writing, and here is his name.
 
-<b>BEROWNE</b>, [to Costard]
+<b>BEROWNE,</b> [to Costard]
 Ah, you whoreson loggerhead, you were born to do
 me shame.--
 Guilty, my lord, guilty. I confess, I confess.
@@ -2622,7 +2618,7 @@ KING
 DUMAINE
 I never knew man hold vile stuff so dear.
 
-<b>LONGAVILLE</b>, [showing his shoe]
+<b>LONGAVILLE,</b> [showing his shoe]
    Look, here's thy love; my foot and her face see.
 
 BEROWNE
@@ -2653,7 +2649,7 @@ Some tricks, some quillets, how to cheat the devil.
 DUMAINE
    Some salve for perjury.
 
-<b>BEROWNE     O</b>, 'tis more than need.
+<b>BEROWNE     O,</b> 'tis more than need.
 Have at you, then, affection's men-at-arms!
 O, we have made a vow to study, lords,
 And in that vow we have forsworn our books.
@@ -2741,10 +2737,9 @@ Light wenches may prove plagues to men forsworn;
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Holofernes the Pedant, Nathaniel the Curate,
 and Dull the Constable.]
@@ -2804,18 +2799,18 @@ ARMADO  Men of peace, well encountered.
 
 HOLOFERNES  Most military sir, salutation.
 
-<b>BOY</b>, [aside to Costard]  They have been at a great feast
+<b>BOY,</b> [aside to Costard]  They have been at a great feast
 of languages and stolen the scraps.
 
-<b>COSTARD</b>, [aside to Boy]  O, they have lived long on the
+<b>COSTARD,</b> [aside to Boy]  O, they have lived long on the
 almsbasket of words. I marvel thy master hath not
 eaten thee for a word, for thou art not so long by the
 head as honorificabilitudinitatibus. Thou art easier
 swallowed than a flapdragon.
 
-<b>BOY</b>, [aside to Costard]  Peace, the peal begins.
+<b>BOY,</b> [aside to Costard]  Peace, the peal begins.
 
-<b>ARMADO</b>, [to Holofernes]  Monsieur, are you not
+<b>ARMADO,</b> [to Holofernes]  Monsieur, are you not
 lettered?
 
 BOY  Yes, yes, he teaches boys the hornbook.--What is
@@ -2945,7 +2940,7 @@ HOLOFERNES  I will play three myself.
 
 BOY  Thrice-worthy gentleman!
 
-<b>ARMADO</b>, [to Holofernes]  Shall I tell you a thing?
+<b>ARMADO,</b> [to Holofernes]  Shall I tell you a thing?
 
 HOLOFERNES  We attend.
 
@@ -2967,7 +2962,7 @@ HOLOFERNES  Most dull, honest Dull. To our sport!
 Away.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Ladies (the Princess, Rosaline,
 Katherine, and Maria.)]
@@ -3209,7 +3204,7 @@ Woo contrary, deceived by these removes.
 ROSALINE
 Come on, then, wear the favors most in sight.
 
-<b>KATHERINE</b>, [to Princess]
+<b>KATHERINE,</b> [to Princess]
 But in this changing, what is your intent?
 
 PRINCESS
@@ -3290,7 +3285,7 @@ BEROWNE
 Is this your perfectness? Begone, you rogue!
 [Boy exits.]
 
-<b>ROSALINE</b>, [speaking as the Princess]
+<b>ROSALINE,</b> [speaking as the Princess]
 What would these strangers? Know their minds,
 Boyet.
 If they do speak our language, 'tis our will
@@ -3424,10 +3419,10 @@ In private, then.
 KING  I am best pleased with that.
 [They move aside.]
 
-<b>BEROWNE</b>, [to the Princess]
+<b>BEROWNE,</b> [to the Princess]
 White-handed mistress, one sweet word with thee.
 
-<b>PRINCESS</b>, [speaking as Rosaline]
+<b>PRINCESS,</b> [speaking as Rosaline]
 Honey, and milk, and sugar--there is three.
 
 BEROWNE
@@ -3451,10 +3446,10 @@ PRINCESS  Gall! Bitter.
 BEROWNE  Therefore meet.
 [They move aside.]
 
-<b>DUMAINE</b>, [to Maria]
+<b>DUMAINE,</b> [to Maria]
 Will you vouchsafe with me to change a word?
 
-<b>MARIA</b>, [speaking as Katherine]
+<b>MARIA,</b> [speaking as Katherine]
 Name it.
 
 DUMAINE  Fair lady--
@@ -3466,7 +3461,7 @@ DUMAINE  Please it you
 As much in private, and I'll bid adieu.
 [They move aside.]
 
-<b>KATHERINE</b>, [speaking as Maria]
+<b>KATHERINE,</b> [speaking as Maria]
 What, was your vizard made without a tongue?
 
 LONGAVILLE
@@ -3628,7 +3623,7 @@ Whip to our tents, as roes runs o'er land.
 [Enter the King and the rest, as themselves.]
 
 
-<b>KING</b>, [to Boyet]
+<b>KING,</b> [to Boyet]
 Fair sir, God save you. Where's the Princess?
 
 BOYET
@@ -3675,7 +3670,7 @@ See where it comes! Behavior, what wert thou
 Till this madman showed thee? And what art thou
 now?
 
-<b>KING</b>, [to Princess]
+<b>KING,</b> [to Princess]
 All hail, sweet madam, and fair time of day.
 
 PRINCESS
@@ -3771,13 +3766,13 @@ ROSALINE
 There; then; that vizard; that superfluous case
 That hid the worse and showed the better face.
 
-<b>KING</b>, [aside to Dumaine]
+<b>KING,</b> [aside to Dumaine]
 We were descried. They'll mock us now downright.
 
-<b>DUMAINE</b>, [aside to King]
+<b>DUMAINE,</b> [aside to King]
 Let us confess and turn it to a jest.
 
-<b>PRINCESS</b>, [to King]
+<b>PRINCESS,</b> [to King]
 Amazed, my lord? Why looks your Highness sad?
 
 ROSALINE
@@ -3838,10 +3833,10 @@ Peace, for I will not have to do with you.
 ROSALINE
 Nor shall not, if I do as I intend.
 
-<b>BEROWNE</b>, [to King, Longaville, and Dumaine]
+<b>BEROWNE,</b> [to King, Longaville, and Dumaine]
 Speak for yourselves. My wit is at an end.
 
-<b>KING</b>, [to Princess]
+<b>KING,</b> [to Princess]
 Teach us, sweet madam, for our rude transgression
 Some fair excuse.
 
@@ -4018,7 +4013,7 @@ A right description of our sport, my lord.
 [Enter Braggart Armado.]
 
 
-<b>ARMADO</b>, [to King]  Anointed, I implore so much expense
+<b>ARMADO,</b> [to King]  Anointed, I implore so much expense
 of thy royal sweet breath as will utter a brace
 of words.	[Armado and King step aside, and
 Armado gives King a paper.]
@@ -4030,14 +4025,14 @@ BEROWNE  Why ask you?
 PRINCESS
 He speaks not like a man of God his making.
 
-<b>ARMADO</b>, [to King]  That is all one, my fair sweet honey
+<b>ARMADO,</b> [to King]  That is all one, my fair sweet honey
 monarch, for, I protest, the schoolmaster is exceeding
 fantastical, too, too vain, too, too vain. But
 we will put it, as they say, to fortuna de la guerra.--I
 wish you the peace of mind, most royal
 couplement!	[He exits.]
 
-<b>KING</b>, [reading the paper]  Here is like to be a good
+<b>KING,</b> [reading the paper]  Here is like to be a good
 presence of Worthies. He presents Hector of Troy,
 the swain Pompey the Great, the parish curate
 Alexander, Armado's page Hercules, the pedant
@@ -4115,7 +4110,7 @@ BOYET
 Your nose says no, you are not, for it stands too
 right.
 
-<b>BEROWNE</b>, [to Boyet]
+<b>BEROWNE,</b> [to Boyet]
 Your nose smells "no" in this, most tender-smelling
 knight.
 
@@ -4130,14 +4125,14 @@ commander--
 BOYET
 Most true; 'tis right. You were so, Alisander.
 
-<b>BEROWNE</b>, [to Costard]  Pompey the Great--
+<b>BEROWNE,</b> [to Costard]  Pompey the Great--
 
 COSTARD  Your servant, and Costard.
 
 BEROWNE  Take away the conqueror. Take away
 Alisander.
 
-<b>COSTARD</b>, [to Nathaniel]  O sir, you have overthrown
+<b>COSTARD,</b> [to Nathaniel]  O sir, you have overthrown
 Alisander the Conqueror. You will be scraped out of
 the painted cloth for this. Your lion, that holds his
 polax sitting on a close-stool, will be given to Ajax.
@@ -4155,7 +4150,7 @@ will speak their mind in some other sort.
 for Hercules.]
 
 
-<b>PRINCESS</b>, [to Costard]  Stand aside, good Pompey.
+<b>PRINCESS,</b> [to Costard]  Stand aside, good Pompey.
 
 HOLOFERNES
 Great Hercules is presented by this imp,
@@ -4358,7 +4353,7 @@ DUMAINE  Hector will challenge him.
 BEROWNE  Ay, if he have no more man's blood in his
 belly than will sup a flea.
 
-<b>ARMADO</b>, [to Costard]  By the North Pole, I do challenge
+<b>ARMADO,</b> [to Costard]  By the North Pole, I do challenge
 thee!
 
 COSTARD  I will not fight with a pole like a northern
@@ -4371,7 +4366,7 @@ COSTARD  I'll do it in my shirt.	[He removes his doublet.]
 
 DUMAINE  Most resolute Pompey!
 
-<b>BOY</b>, [to Armado]  Master, let me take you a buttonhole
+<b>BOY,</b> [to Armado]  Master, let me take you a buttonhole
 lower. Do you not see Pompey is uncasing for the
 combat? What mean you? You will lose your
 reputation.
@@ -4397,7 +4392,7 @@ next his heart for a favor.
 [Enter a Messenger, Monsieur Marcade.]
 
 
-<b>MARCADE</b>, [to Princess]  God save you, madam.
+<b>MARCADE,</b> [to Princess]  God save you, madam.
 
 PRINCESS  Welcome, Marcade,
 But that thou interruptest our merriment.
@@ -4419,7 +4414,7 @@ have seen the day of wrong through the little hole
 of discretion, and I will right myself like a soldier.
 [Worthies exit.]
 
-<b>KING</b>, [to Princess]  How fares your Majesty?
+<b>KING,</b> [to Princess]  How fares your Majesty?
 
 PRINCESS
 Boyet, prepare. I will away tonight.
@@ -4427,7 +4422,7 @@ Boyet, prepare. I will away tonight.
 KING
 Madam, not so. I do beseech you stay.
 
-<b>PRINCESS</b>, [to Boyet]
+<b>PRINCESS,</b> [to Boyet]
 Prepare, I say.--I thank you, gracious lords,
 For all your fair endeavors, and entreat,
 Out of a new-sad soul, that you vouchsafe
@@ -4539,7 +4534,7 @@ The sudden hand of death close up mine eye!
    Hence hermit, then. My heart is in thy breast.
 [They step aside.]
 
-<b>DUMAINE</b>, [to Katherine]
+<b>DUMAINE,</b> [to Katherine]
 But what to me, my love? But what to me?
 A wife?
 
@@ -4575,7 +4570,7 @@ MARIA
 The liker you; few taller are so young.
 [They step aside.]
 
-<b>BEROWNE</b>, [to Rosaline]
+<b>BEROWNE,</b> [to Rosaline]
 Studies my lady? Mistress, look on me.
 Behold the window of my heart, mine eye,
 What humble suit attends thy answer there.
@@ -4620,7 +4615,7 @@ BEROWNE
 A twelvemonth? Well, befall what will befall,
 I'll jest a twelvemonth in an hospital.
 
-<b>PRINCESS</b>, [to King]
+<b>PRINCESS,</b> [to King]
 Ay, sweet my lord, and so I take my leave.
 
 KING

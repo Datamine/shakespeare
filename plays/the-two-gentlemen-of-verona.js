@@ -8,27 +8,26 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>VALENTINE</b>, a gentleman of Verona
-<b>SPEED</b>, his servant
-<b>PROTEUS</b>, a gentleman of Verona
-<b>LANCE</b>, his servant
-<b>ANTONIO</b>, Proteus' father
-<b>PANTINO</b>, an attendant to Antonio
-<b>JULIA</b>, a lady of Verona
-<b>LUCETTA</b>, her waiting-gentlewoman
-<b>SYLVIA</b>, a lady of Milan
+<b>VALENTINE,</b> a gentleman of Verona
+<b>SPEED,</b> his servant
+<b>PROTEUS,</b> a gentleman of Verona
+<b>LANCE,</b> his servant
+<b>ANTONIO,</b> Proteus' father
+<b>PANTINO,</b> an attendant to Antonio
+<b>JULIA,</b> a lady of Verona
+<b>LUCETTA,</b> her waiting-gentlewoman
+<b>SYLVIA,</b> a lady of Milan
 DUKE (sometimes Emperor), Sylvia's father
-<b>THURIO</b>, a gentleman
-<b>EGLAMOUR</b>, a gentleman
-<b>HOST</b>, proprietor of an inn in Milan
-<b>OUTLAWS</b>, living in a forest near Mantua
+<b>THURIO,</b> a gentleman
+<b>EGLAMOUR,</b> a gentleman
+<b>HOST,</b> proprietor of an inn in Milan
+<b>OUTLAWS,</b> living in a forest near Mantua
 Servants; Musicians; Crab, a dog
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Valentine and Proteus.]
 
@@ -221,7 +220,7 @@ lover.
 
 PROTEUS  But what said she?
 
-<b>SPEED</b>, [nodding]  Ay.
+<b>SPEED,</b> [nodding]  Ay.
 
 PROTEUS  Nod--"Ay." Why, that's "noddy."
 
@@ -252,10 +251,10 @@ said she?
 SPEED  Open your purse, that the money and the matter
 may be both at once delivered.
 
-<b>PROTEUS</b>, [giving money]  Well, sir, here is for your
+<b>PROTEUS,</b> [giving money]  Well, sir, here is for your
 pains. What said she?
 
-<b>SPEED</b>, [looking at the money]  Truly, sir, I think you'll
+<b>SPEED,</b> [looking at the money]  Truly, sir, I think you'll
 hardly win her.
 
 PROTEUS  Why? Couldst thou perceive so much from
@@ -286,7 +285,7 @@ I fear my Julia would not deign my lines,
 Receiving them from such a worthless post.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Julia and Lucetta.]
 
@@ -372,7 +371,7 @@ O, they love least that let men know their love.
 
 JULIA  I would I knew his mind.
 
-<b>LUCETTA</b>, [handing her a paper]  Peruse this paper,
+<b>LUCETTA,</b> [handing her a paper]  Peruse this paper,
 madam.
 
 JULIA [reads]  "To Julia."--Say from whom.
@@ -396,7 +395,7 @@ And you an officer fit for the place.
 There, take the paper; see it be returned,
 Or else return no more into my sight.
 
-<b>LUCETTA</b>, [taking the paper]
+<b>LUCETTA,</b> [taking the paper]
 To plead for love deserves more fee than hate.
 
 JULIA
@@ -482,7 +481,7 @@ And why not you?
 
 LUCETTA  I cannot reach so high.
 
-<b>JULIA</b>, [taking the paper]
+<b>JULIA,</b> [taking the paper]
 Let's see your song. How now, minion!
 
 LUCETTA
@@ -575,7 +574,7 @@ I see things too, although you judge I wink.
 JULIA  Come, come, will 't please you go?
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Antonio and Pantino.]
 
@@ -648,7 +647,7 @@ Good company. With them shall Proteus go.
 
 And in good time! Now will we break with him.
 
-<b>PROTEUS</b>, [to himself]
+<b>PROTEUS,</b> [to himself]
 Sweet love, sweet lines, sweet life!
 Here is her hand, the agent of her heart;
 Here is her oath for love, her honor's pawn.
@@ -727,10 +726,9 @@ Why, this it is: my heart accords thereto.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Valentine and Speed, carrying a glove.]
 
@@ -748,7 +746,7 @@ Ha? Let me see. Ay, give it me, it's mine.
 Sweet ornament that decks a thing divine!
 Ah, Sylvia, Sylvia!
 
-<b>SPEED</b>, [calling]  Madam Sylvia! Madam Sylvia!
+<b>SPEED,</b> [calling]  Madam Sylvia! Madam Sylvia!
 
 VALENTINE  How now, sirrah?
 
@@ -886,19 +884,19 @@ Peace, here she comes.
 [Enter Sylvia.]
 
 
-<b>SPEED</b>, [aside]  O excellent motion! O exceeding puppet!
+<b>SPEED,</b> [aside]  O excellent motion! O exceeding puppet!
 Now will he interpret to her.
 
 VALENTINE  Madam and mistress, a thousand
 good-morrows.
 
-<b>SPEED</b>, [aside]  O, give ye good ev'n! Here's a million of
+<b>SPEED,</b> [aside]  O, give ye good ev'n! Here's a million of
 manners.
 
 SYLVIA  Sir Valentine, and servant, to you two
 thousand.
 
-<b>SPEED</b>, [aside]  He should give her interest, and she
+<b>SPEED,</b> [aside]  He should give her interest, and she
 gives it him.
 
 VALENTINE
@@ -931,7 +929,7 @@ And yet take this again.	[She holds out the paper.]
 And yet I thank you,
 Meaning henceforth to trouble you no more.
 
-<b>SPEED</b>, [aside]
+<b>SPEED,</b> [aside]
 And yet you will; and yet another "yet."
 
 VALENTINE
@@ -949,7 +947,7 @@ Ay, ay. You writ them, sir, at my request,
 But I will none of them. They are for you.
 I would have had them writ more movingly.
 
-<b>VALENTINE</b>, [taking the paper]
+<b>VALENTINE,</b> [taking the paper]
 Please you, I'll write your Ladyship another.
 
 SYLVIA
@@ -962,7 +960,7 @@ SYLVIA
 Why, if it please you, take it for your labor.
 And so good-morrow, servant.	[Sylvia exits.]
 
-<b>SPEED</b>, [aside]
+<b>SPEED,</b> [aside]
 O jest unseen, inscrutable, invisible
 As a nose on a man's face, or a weathercock on a
 steeple!
@@ -1030,7 +1028,7 @@ my victuals and would fain have meat. O, be not like
 your mistress! Be moved, be moved.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Proteus and Julia.]
 
@@ -1047,7 +1045,7 @@ If you turn not, you will return the sooner.
 Keep this remembrance for thy Julia's sake.
 [She gives him a ring.]
 
-<b>PROTEUS</b>, [giving her a ring]
+<b>PROTEUS,</b> [giving her a ring]
 Why, then we'll make exchange. Here, take you this.
 
 JULIA
@@ -1076,7 +1074,7 @@ PROTEUS  Go. I come, I come.
 [Aside.] Alas, this parting strikes poor lovers dumb.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lance, weeping, with his dog, Crab.]
 
@@ -1162,7 +1160,7 @@ PANTINO  Wilt thou go?
 LANCE  Well, I will go.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Valentine, Sylvia, Thurio, and Speed.]
 
@@ -1181,7 +1179,7 @@ VALENTINE  Of my mistress, then.
 
 SPEED  'Twere good you knocked him.
 
-<b>SYLVIA</b>, [to Valentine]  Servant, you are sad.
+<b>SYLVIA,</b> [to Valentine]  Servant, you are sad.
 
 VALENTINE  Indeed, madam, I seem so.
 
@@ -1548,7 +1546,7 @@ If I can check my erring love, I will;
 If not, to compass her I'll use my skill.
 [He exits.]
 
-<b>Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Speed and Lance, with his dog, Crab.]
 
@@ -1640,7 +1638,7 @@ as to go to the ale with a Christian. Wilt thou go?
 SPEED  At thy service.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Proteus alone.]
 
@@ -1691,7 +1689,7 @@ Love, lend me wings to make my purpose swift,
 As thou hast lent me wit to plot this drift.
 [He exits.]
 
-<b>Scene 7</b>
+<b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Julia and Lucetta.]
 
@@ -1837,10 +1835,9 @@ I am impatient of my tarriance.
 [They exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke, Thurio, and Proteus.]
 
@@ -2284,12 +2281,12 @@ LANCE  I will try thee. Tell me this, who begot thee?
 
 SPEED  Marry, the son of my grandfather.
 
-<b>LANCE  O</b>, illiterate loiterer, it was the son of thy grandmother.
+<b>LANCE  O,</b> illiterate loiterer, it was the son of thy grandmother.
 This proves that thou canst not read.
 
 SPEED  Come, fool, come. Try me in thy paper.
 
-<b>LANCE</b>, [giving him the paper]  There, and Saint Nicholas
+<b>LANCE,</b> [giving him the paper]  There, and Saint Nicholas
 be thy speed.
 
 SPEED [reads]  Imprimis, She can milk.
@@ -2416,7 +2413,7 @@ SPEED  And must I go to him?
 LANCE  Thou must run to him, for thou hast stayed so
 long that going will scarce serve the turn.
 
-<b>SPEED</b>, [handing him the paper]  Why didst not tell me
+<b>SPEED,</b> [handing him the paper]  Why didst not tell me
 sooner? Pox of your love letters!	[He exits.]
 
 LANCE  Now will he be swinged for reading my letter;
@@ -2424,7 +2421,7 @@ an unmannerly slave, that will thrust himself into
 secrets. I'll after, to rejoice in the boy's correction.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke and Thurio.]
 
@@ -2570,7 +2567,7 @@ This, or else nothing, will inherit her.
 DUKE
 This discipline shows thou hast been in love.
 
-<b>THURIO</b>, [to Proteus]
+<b>THURIO,</b> [to Proteus]
 And thy advice this night I'll put in practice.
 Therefore, sweet Proteus, my direction-giver,
 Let us into the city presently
@@ -2589,10 +2586,9 @@ Even now about it! I will pardon you.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter certain Outlaws.]
 
@@ -2610,7 +2606,7 @@ THIRD OUTLAW
 Stand, sir, and throw us that you have about you.
 If not, we'll make you sit, and rifle you.
 
-<b>SPEED</b>, [to Valentine]
+<b>SPEED,</b> [to Valentine]
 Sir, we are undone; these are the villains
 That all the travelers do fear so much.
 
@@ -2682,7 +2678,7 @@ of thievery.
 
 VALENTINE  Peace, villain.
 
-<b>SECOND OUTLAW</b>, [advancing]
+<b>SECOND OUTLAW,</b> [advancing]
 Tell us this: have you anything to take to?
 
 VALENTINE  Nothing but my fortune.
@@ -2739,7 +2735,7 @@ And show thee all the treasure we have got,
 Which, with ourselves, all rest at thy dispose.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Proteus.]
 
@@ -2796,22 +2792,22 @@ page, Sebastian. They stand at a distance and talk.]
 HOST  Now, my young guest, methinks you're allycholly.
 I pray you, why is it?
 
-<b>JULIA</b>, [as Sebastian]  Marry, mine host, because I
+<b>JULIA,</b> [as Sebastian]  Marry, mine host, because I
 cannot be merry.
 
 HOST  Come, we'll have you merry. I'll bring you where
 you shall hear music and see the gentleman that you
 asked for.
 
-<b>JULIA</b>, [as Sebastian]  But shall I hear him speak?
+<b>JULIA,</b> [as Sebastian]  But shall I hear him speak?
 
 HOST  Ay, that you shall.
 
-<b>JULIA</b>, [as Sebastian]  That will be music.
+<b>JULIA,</b> [as Sebastian]  That will be music.
 
 HOST  Hark, hark.	[Music plays.]
 
-<b>JULIA</b>, [as Sebastian]  Is he among these?
+<b>JULIA,</b> [as Sebastian]  Is he among these?
 
 HOST  Ay. But peace; let's hear 'em.
 
@@ -2840,35 +2836,35 @@ PROTEUS	Who is Sylvia? What is she,
 HOST  How now? Are you sadder than you were before?
 How do you, man? The music likes you not.
 
-<b>JULIA</b>, [as Sebastian]  You mistake. The musician likes me
+<b>JULIA,</b> [as Sebastian]  You mistake. The musician likes me
 not.
 
 HOST  Why, my pretty youth?
 
-<b>JULIA</b>, [as Sebastian]  He plays false, father.
+<b>JULIA,</b> [as Sebastian]  He plays false, father.
 
 HOST  How, out of tune on the strings?
 
-<b>JULIA</b>, [as Sebastian]  Not so; but yet so false that he
+<b>JULIA,</b> [as Sebastian]  Not so; but yet so false that he
 grieves my very heart-strings.
 
 HOST  You have a quick ear.
 
-<b>JULIA</b>, [as Sebastian]  Ay, I would I were deaf; it makes
+<b>JULIA,</b> [as Sebastian]  Ay, I would I were deaf; it makes
 me have a slow heart.
 
 HOST  I perceive you delight not in music.
 
-<b>JULIA</b>, [as Sebastian]  Not a whit when it jars so.
+<b>JULIA,</b> [as Sebastian]  Not a whit when it jars so.
 
 HOST  Hark, what fine change is in the music!
 
-<b>JULIA</b>, [as Sebastian]  Ay; that change is the spite.
+<b>JULIA,</b> [as Sebastian]  Ay; that change is the spite.
 
 HOST  You would have them always play but one
 thing?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 I would always have one play but one thing.
 But, host, doth this Sir Proteus, that we talk on,
 Often resort unto this gentlewoman?
@@ -2876,13 +2872,13 @@ Often resort unto this gentlewoman?
 HOST  I tell you what Lance his man told me: he loved
 her out of all nick.
 
-<b>JULIA</b>, [as Sebastian]  Where is Lance?
+<b>JULIA,</b> [as Sebastian]  Where is Lance?
 
 HOST  Gone to seek his dog, which tomorrow, by his
 master's command, he must carry for a present to
 his lady.	[Music ends.]
 
-<b>JULIA</b>, [as Sebastian]  Peace. Stand aside. The company
+<b>JULIA,</b> [as Sebastian]  Peace. Stand aside. The company
 parts.	[Host and Julia move away.]
 
 PROTEUS
@@ -2939,7 +2935,7 @@ PROTEUS
 I grant, sweet love, that I did love a lady,
 But she is dead.
 
-<b>JULIA</b>, [aside]  'Twere false if I should speak it,
+<b>JULIA,</b> [aside]  'Twere false if I should speak it,
 For I am sure she is not buried.
 
 SYLVIA
@@ -2962,7 +2958,7 @@ SYLVIA
 Go to thy lady's grave and call hers thence,
 Or, at the least, in hers sepulcher thine.
 
-<b>JULIA</b>, [aside]  He heard not that.
+<b>JULIA,</b> [aside]  He heard not that.
 
 PROTEUS
 Madam, if your heart be so obdurate,
@@ -2973,7 +2969,7 @@ For since the substance of your perfect self
 Is else devoted, I am but a shadow;
 And to your shadow will I make true love.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 If 'twere a substance you would sure deceive it
 And make it but a shadow, as I am.
 
@@ -2987,21 +2983,21 @@ And so, good rest.	[Sylvia exits.]
 PROTEUS  As wretches have o'ernight
 That wait for execution in the morn.	[Proteus exits.]
 
-<b>JULIA</b>, [as Sebastian]  Host, will you go?
+<b>JULIA,</b> [as Sebastian]  Host, will you go?
 
 HOST  By my halidom, I was fast asleep.
 
-<b>JULIA</b>, [as Sebastian]  Pray you, where lies Sir Proteus?
+<b>JULIA,</b> [as Sebastian]  Pray you, where lies Sir Proteus?
 
 HOST  Marry, at my house. Trust me, I think 'tis almost
 day.
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 Not so; but it hath been the longest night
 That e'er I watched, and the most heaviest.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Eglamour.]
 
@@ -3081,7 +3077,7 @@ SYLVIA
 Good morrow, kind Sir Eglamour.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lance, with his dog, Crab.]
 
@@ -3134,7 +3130,7 @@ PROTEUS
 Sebastian is thy name? I like thee well
 And will employ thee in some service presently.
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 In what you please. I'll do what I can.
 
 PROTEUS
@@ -3182,21 +3178,21 @@ Deliver it to Madam Sylvia.
 She loved me well delivered it to me.
 [He gives her a ring.]
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 It seems you loved not her, to leave her token.
 She is dead belike?
 
 PROTEUS  Not so; I think she lives.
 
-<b>JULIA</b>, [as Sebastian]  Alas!
+<b>JULIA,</b> [as Sebastian]  Alas!
 
 PROTEUS  Why dost thou cry "Alas"?
 
-<b>JULIA</b>, [as Sebastian]  I cannot choose but pity her.
+<b>JULIA,</b> [as Sebastian]  I cannot choose but pity her.
 
 PROTEUS  Wherefore shouldst thou pity her?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 Because methinks that she loved you as well
 As you do love your lady Sylvia.
 She dreams on him that has forgot her love;
@@ -3243,26 +3239,26 @@ To bring me where to speak with Madam Sylvia.
 SYLVIA
 What would you with her, if that I be she?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 If you be she, I do entreat your patience
 To hear me speak the message I am sent on.
 
 SYLVIA  From whom?
 
-<b>JULIA</b>, [as Sebastian]  From my master, Sir Proteus,
+<b>JULIA,</b> [as Sebastian]  From my master, Sir Proteus,
 madam.
 
-<b>SYLVIA  O</b>, he sends you for a picture?
+<b>SYLVIA  O,</b> he sends you for a picture?
 
-<b>JULIA</b>, [as Sebastian]  Ay, madam.
+<b>JULIA,</b> [as Sebastian]  Ay, madam.
 
-<b>SYLVIA</b>, [calling]  Ursula, bring my picture there.
+<b>SYLVIA,</b> [calling]  Ursula, bring my picture there.
 [She is brought the picture.]
 Go, give your master this. Tell him from me,
 One Julia, that his changing thoughts forget,
 Would better fit his chamber than this shadow.
 
-<b>JULIA</b>, [as Sebastian]  Madam, please you peruse this
+<b>JULIA,</b> [as Sebastian]  Madam, please you peruse this
 letter.	[She gives Sylvia a paper.]
 Pardon me, madam, I have unadvised
 Delivered you a paper that I should not.
@@ -3273,7 +3269,7 @@ and hands Sylvia another.]
 SYLVIA
 I pray thee let me look on that again.
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 It may not be; good madam, pardon me.
 
 SYLVIA  There, hold.
@@ -3283,7 +3279,7 @@ And full of new-found oaths, which he will break
 As easily as I do tear his paper.
 [She tears the second paper.]
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 Madam, he sends your Ladyship this ring.
 [She offers Sylvia a ring.]
 
@@ -3294,17 +3290,17 @@ His Julia gave it him at his departure.
 Though his false finger have profaned the ring,
 Mine shall not do his Julia so much wrong.
 
-<b>JULIA</b>, [as Sebastian]  She thanks you.
+<b>JULIA,</b> [as Sebastian]  She thanks you.
 
 SYLVIA  What sayst thou?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 I thank you, madam, that you tender her;
 Poor gentlewoman, my master wrongs her much.
 
 SYLVIA  Dost thou know her?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 Almost as well as I do know myself.
 To think upon her woes, I do protest
 That I have wept a hundred several times.
@@ -3312,12 +3308,12 @@ That I have wept a hundred several times.
 SYLVIA
 Belike she thinks that Proteus hath forsook her?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 I think she doth, and that's her cause of sorrow.
 
 SYLVIA  Is she not passing fair?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 She hath been fairer, madam, than she is;
 When she did think my master loved her well,
 She, in my judgment, was as fair as you.
@@ -3329,7 +3325,7 @@ That now she is become as black as I.
 
 SYLVIA  How tall was she?
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 About my stature; for at Pentecost,
 When all our pageants of delight were played,
 Our youth got me to play the woman's part,
@@ -3356,7 +3352,7 @@ I give thee this
 For thy sweet mistress' sake, because thou lov'st her.
 Farewell.
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 And she shall thank you for 't if e'er you know her.
 [Sylvia exits.]
 A virtuous gentlewoman, mild and beautiful.
@@ -3389,10 +3385,9 @@ To make my master out of love with thee.
 [She exits.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Eglamour.]
 
@@ -3419,7 +3414,7 @@ Fear not. The forest is not three leagues off;
 If we recover that, we are sure enough.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Thurio, Proteus, and Julia, disguised as
 Sebastian.]
@@ -3439,7 +3434,7 @@ PROTEUS  No, that it is too little.
 THURIO
 I'll wear a boot to make it somewhat rounder.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 But love will not be spurred to what it loathes.
 
 THURIO  What says she to my face?
@@ -3453,7 +3448,7 @@ PROTEUS
 But pearls are fair, and the old saying is,
 Black men are pearls in beauteous ladies' eyes.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 'Tis true, such pearls as put out ladies' eyes,
 For I had rather wink than look on them.
 
@@ -3464,34 +3459,34 @@ PROTEUS  Ill, when you talk of war.
 THURIO
 But well when I discourse of love and peace.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 But better, indeed, when you hold your peace.
 
 THURIO  What says she to my valor?
 
-<b>PROTEUS  O</b>, sir, she makes no doubt of that.
+<b>PROTEUS  O,</b> sir, she makes no doubt of that.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 She needs not when she knows it cowardice.
 
 THURIO  What says she to my birth?
 
 PROTEUS  That you are well derived.
 
-<b>JULIA</b>, [aside]  True, from a gentleman to a fool.
+<b>JULIA,</b> [aside]  True, from a gentleman to a fool.
 
 THURIO  Considers she my possessions?
 
-<b>PROTEUS  O</b>, ay, and pities them.
+<b>PROTEUS  O,</b> ay, and pities them.
 
 THURIO  Wherefore?
 
-<b>JULIA</b>, [aside]  That such an ass should owe them.
+<b>JULIA,</b> [aside]  That such an ass should owe them.
 
 PROTEUS
 That they are out by lease.
 
-<b>JULIA</b>, [as Sebastian]  Here comes the Duke.
+<b>JULIA,</b> [as Sebastian]  Here comes the Duke.
 
 [Enter Duke.]
 
@@ -3542,7 +3537,7 @@ And I will follow, more to cross that love
 Than hate for Sylvia, that is gone for love.
 [She exits.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sylvia and Outlaws.]
 
@@ -3577,7 +3572,7 @@ SYLVIA
 O Valentine, this I endure for thee!
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Valentine.]
 
@@ -3617,7 +3612,7 @@ Vouchsafe me for my meed but one fair look;
 A smaller boon than this I cannot beg,
 And less than this I am sure you cannot give.
 
-<b>VALENTINE</b>, [aside]
+<b>VALENTINE,</b> [aside]
 How like a dream is this I see and hear!
 Love, lend me patience to forbear awhile.
 
@@ -3631,7 +3626,7 @@ But by my coming, I have made you happy.
 SYLVIA
 By thy approach thou mak'st me most unhappy.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 And me, when he approacheth to your presence.
 
 SYLVIA
@@ -3678,7 +3673,7 @@ O, heaven!
 
 PROTEUS  I'll force thee yield to my desire.
 
-<b>VALENTINE</b>, [advancing]
+<b>VALENTINE,</b> [advancing]
 Ruffian, let go that rude uncivil touch,
 Thou friend of an ill fashion.
 
@@ -3712,7 +3707,7 @@ By penitence th' Eternal's wrath's appeased.
 And that my love may appear plain and free,
 All that was mine in Sylvia I give thee.
 
-<b>JULIA</b>, [aside]
+<b>JULIA,</b> [aside]
 O me unhappy!	[She swoons.]
 
 PROTEUS  Look to the boy.
@@ -3721,19 +3716,19 @@ VALENTINE  Why, boy!
 Why, wag, how now? What's the matter? Look up.
 Speak.
 
-<b>JULIA</b>, [as Sebastian]  O, good sir, my master charged
+<b>JULIA,</b> [as Sebastian]  O, good sir, my master charged
 me to deliver a ring to Madam Sylvia, which out of
 my neglect was never done.
 
 PROTEUS  Where is that ring, boy?
 
-<b>JULIA</b>, [as Sebastian]  Here 'tis; this is it.
+<b>JULIA,</b> [as Sebastian]  Here 'tis; this is it.
 [She rises, and hands him a ring.]
 
 PROTEUS  How, let me see.
 Why, this is the ring I gave to Julia.
 
-<b>JULIA</b>, [as Sebastian]
+<b>JULIA,</b> [as Sebastian]
 O, cry you mercy, sir, I have mistook.
 This is the ring you sent to Sylvia.
 [She offers another ring.]
@@ -3770,7 +3765,7 @@ Inconstancy falls off ere it begins.
 What is in Sylvia's face but I may spy
 More fresh in Julia's, with a constant eye?
 
-<b>VALENTINE</b>, [to Julia and Proteus]  Come, come, a
+<b>VALENTINE,</b> [to Julia and Proteus]  Come, come, a
 hand from either.
 Let me be blest to make this happy close.
 'Twere pity two such friends should be long foes.

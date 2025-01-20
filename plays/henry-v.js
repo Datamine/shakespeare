@@ -9,8 +9,8 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 Characters in the Play
 <hr>
 CHORUS
-<b>HENRY V</b>, KING OF ENGLAND
-<b>THOMAS</b>, DUKE OF EXETER, uncle to the King
+<b>HENRY V,</b> KING OF ENGLAND
+<b>THOMAS,</b> DUKE OF EXETER, uncle to the King
 Brothers to the King:
   HUMPHREY, DUKE OF GLOUCESTER
   JOHN, DUKE OF BEDFORD
@@ -30,7 +30,7 @@ Former companions of Henry, now in his army:
   PISTOL
   NYM
   BARDOLPH
-<b>BOY</b>, their servant
+<b>BOY,</b> their servant
 Officers in Henry's army:
   SIR THOMAS ERPINGHAM
   CAPTAIN FLUELLEN
@@ -47,8 +47,8 @@ BISHOP OF ELY
 
 KING OF FRANCE
 QUEEN ISABEL OF FRANCE
-<b>KATHERINE</b>, Princess of France
-<b>ALICE</b>, a gentlewoman attending on Katherine
+<b>KATHERINE,</b> Princess of France
+<b>ALICE,</b> a gentlewoman attending on Katherine
 DAUPHIN (i.e., Prince) of France
 French nobles:
   DUKE OF BERRI
@@ -60,9 +60,9 @@ French nobles:
   LORD GRANDPRE
   LORD RAMBURES
   LORD BEAUMONT
-<b>MONTJOY</b>, French herald
+<b>MONTJOY,</b> French herald
 French ambassadors to England
-<b>MONSIEUR LE FER</b>, a French soldier
+<b>MONSIEUR LE FER,</b> a French soldier
 Governor of Harfleur
 Lords, Attendants, Soldiers, French Prisoners, Messengers
 
@@ -113,10 +113,9 @@ Gently to hear, kindly to judge our play.
 [He exits.]
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the two Bishops of Canterbury and Ely.]
 
@@ -263,7 +262,7 @@ BISHOP OF ELY
 I'll wait upon you, and I long to hear it.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the King of England, Humphrey Duke of
 Gloucester, Bedford, Clarence, Warwick, Westmoreland,
@@ -658,8 +657,7 @@ That this fair action may on foot be brought.
 [Flourish. They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
 
 [Enter Chorus.]
@@ -710,7 +708,7 @@ But, till the King come forth, and not till then,
 Unto Southampton do we shift our scene.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Corporal Nym and Lieutenant Bardolph.]
 
@@ -812,7 +810,7 @@ sheathe their swords.]
 Give me thy fist, thy forefoot to me give. Thy spirits
 are most tall.
 
-<b>NYM</b>, [to Pistol]  I will cut thy throat one time or other
+<b>NYM,</b> [to Pistol]  I will cut thy throat one time or other
 in fair terms, that is the humor of it.
 
 PISTOL  Couple a gorge, that is the word. I defy thee
@@ -856,18 +854,18 @@ NYM  That now I will have, that's the humor of it.
 PISTOL  As manhood shall compound. Push home.
 [They draw.]
 
-<b>BARDOLPH</b>, [drawing his sword]  By this sword, he that
+<b>BARDOLPH,</b> [drawing his sword]  By this sword, he that
 makes the first thrust, I'll kill him. By this sword, I
 will.
 
-<b>PISTOL</b>, [sheathing his sword]  "Sword" is an oath, and
+<b>PISTOL,</b> [sheathing his sword]  "Sword" is an oath, and
 oaths must have their course.
 
 BARDOLPH  Corporal Nym, an thou wilt be friends, be
 friends; an thou wilt not, why then be enemies with
 me too. Prithee, put up.
 
-<b>PISTOL</b>, [to Nym]  A noble shalt thou have, and present
+<b>PISTOL,</b> [to Nym]  A noble shalt thou have, and present
 pay, and liquor likewise will I give to thee, and
 friendship shall combine, and brotherhood. I'll live
 by Nym, and Nym shall live by me. Is not this just?
@@ -902,7 +900,7 @@ PISTOL  Let us condole the knight, for, lambkins, we
 will live.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Exeter, Bedford, and Westmoreland.]
 
@@ -987,7 +985,7 @@ That's mercy, but too much security.
 Let him be punished, sovereign, lest example
 Breed, by his sufferance, more of such a kind.
 
-<b>KING HENRY  O</b>, let us yet be merciful.
+<b>KING HENRY  O,</b> let us yet be merciful.
 
 CAMBRIDGE
 So may your Highness, and yet punish too.
@@ -1018,7 +1016,7 @@ SCROOP  So did you me, my liege.
 
 GREY  And I, my royal sovereign.
 
-<b>KING HENRY</b>, [giving them papers]
+<b>KING HENRY,</b> [giving them papers]
 Then Richard, Earl of Cambridge, there is yours--
 There yours, Lord Scroop of Masham.--And, sir
 knight,
@@ -1168,7 +1166,7 @@ Cheerly to sea. The signs of war advance.
 No king of England if not king of France.
 [Flourish. They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pistol, Nym, Bardolph, Boy, and Hostess.]
 
@@ -1248,17 +1246,17 @@ BOY  And that's but unwholesome food, they say.
 
 PISTOL  Touch her soft mouth, and march.
 
-<b>BARDOLPH</b>, [kissing the Hostess]  Farewell, hostess.
+<b>BARDOLPH,</b> [kissing the Hostess]  Farewell, hostess.
 
 NYM  I cannot kiss, that is the humor of it. But adieu.
 
-<b>PISTOL</b>, [to the Hostess]  Let huswifery appear. Keep
+<b>PISTOL,</b> [to the Hostess]  Let huswifery appear. Keep
 close, I thee command.
 
 HOSTESS  Farewell. Adieu.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. Enter the French King, the Dauphin, the Dukes
  of Berri and Brittany, the Constable, and others.]
@@ -1415,7 +1413,7 @@ For us, we will consider of this further.
 Tomorrow shall you bear our full intent
 Back to our brother of England.
 
-<b>DAUPHIN</b>, [to Exeter]  For the Dauphin,
+<b>DAUPHIN,</b> [to Exeter]  For the Dauphin,
 I stand here for him. What to him from England?
 
 EXETER
@@ -1463,8 +1461,7 @@ To answer matters of this consequence.
 [Flourish. They exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
 
 [Enter Chorus.]
@@ -1511,7 +1508,7 @@ And down goes all before them. Still be kind,
 And eke out our performance with your mind.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King of England, Exeter, Bedford, and
 Gloucester. Alarum. Enter Soldiers with scaling
@@ -1559,7 +1556,7 @@ Cry "God for Harry, England, and Saint George!"
 [Alarum, and chambers go off.]
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Nym, Bardolph, Pistol, and Boy.]
 
@@ -1602,7 +1599,7 @@ thy rage, abate thy manly rage, abate thy rage, great
 duke. Good bawcock, 'bate thy rage. Use lenity,
 sweet chuck.
 
-<b>NYM</b>, [to Fluellen]  These be good humors. Your Honor
+<b>NYM,</b> [to Fluellen]  These be good humors. Your Honor
 wins bad humors.
 [All but the Boy exit.]
 
@@ -1755,13 +1752,13 @@ be so bold as to tell you I know the disciplines of
 war, and there is an end.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King of England and all his train
 before the gates.]
 
 
-<b>KING HENRY</b>, [to the men of Harfleur]
+<b>KING HENRY,</b> [to the men of Harfleur]
 How yet resolves the Governor of the town?
 This is the latest parle we will admit.
 Therefore to our best mercy give yourselves
@@ -1830,7 +1827,7 @@ Tonight in Harfleur will we be your guest.
 Tomorrow for the march are we addressed.
 [Flourish, and enter the town.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Katherine and Alice, an old Gentlewoman.]
 
@@ -1931,7 +1928,7 @@ KATHERINE  C'est assez pour une fois. Allons-nous a
 diner.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter the King of France, the Dauphin, the Duke of
 Brittany, the Constable of France, and others.]
@@ -2031,7 +2028,7 @@ Now forth, Lord Constable and princes all,
 And quickly bring us word of England's fall.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Captains, English and Welsh, Gower and Fluellen.]
 
@@ -2271,7 +2268,7 @@ Beyond the river we'll encamp ourselves,
 And on tomorrow bid them march away.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter the Constable of France, the Lord Rambures,
 Orleans, Dauphin, with others.]
@@ -2350,7 +2347,7 @@ DAUPHIN  So perhaps did yours.
 
 CONSTABLE  Mine was not bridled.
 
-<b>DAUPHIN  O</b>, then belike she was old and gentle, and
+<b>DAUPHIN  O,</b> then belike she was old and gentle, and
 you rode like a kern of Ireland, your French hose
 off, and in your strait strossers.
 
@@ -2518,8 +2515,7 @@ We shall have each a hundred Englishmen.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
 [Enter Chorus.]
 
@@ -2581,7 +2577,7 @@ The name of Agincourt. Yet sit and see,
 Minding true things by what their mock'ries be.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King of England, Bedford, and Gloucester.]
 
@@ -3020,7 +3016,7 @@ I know thy errand. I will go with thee.
 The day, my friends, and all things stay for me.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Dauphin, Orleans, Rambures, and Beaumont.]
 
@@ -3125,7 +3121,7 @@ And use it for my haste. Come, come away.
 The sun is high, and we outwear the day.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Gloucester, Bedford, Exeter, Erpingham with all
 his host, Salisbury, and Westmoreland.]
@@ -3167,7 +3163,7 @@ Princely in both.
 [Enter the King of England.]
 
 
-<b>WESTMORELAND  O</b>, that we now had here
+<b>WESTMORELAND  O,</b> that we now had here
 But one ten thousand of those men in England
 That do no work today.
 
@@ -3316,7 +3312,7 @@ for a ransom.	[Montjoy exits.]
 [Enter York.
 ]
 
-<b>YORK</b>, [kneeling]
+<b>YORK,</b> [kneeling]
 My lord, most humbly on my knee I beg
 The leading of the vaward.
 
@@ -3326,7 +3322,7 @@ Now, soldiers, march away,
 And how Thou pleasest, God, dispose the day.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Excursions. Enter Pistol, French Soldier,
 and Boy.]
@@ -3342,12 +3338,12 @@ What is thy name? Discuss.
 
 FRENCH SOLDIER  O Seigneur Dieu!
 
-<b>PISTOL  O</b>, Seigneur Dew should be a gentleman. Perpend
+<b>PISTOL  O,</b> Seigneur Dew should be a gentleman. Perpend
 my words, O Seigneur Dew, and mark: O
 Seigneur Dew, thou diest on point of fox, except, O
 Seigneur, thou do give to me egregious ransom.
 
-<b>FRENCH SOLDIER  O</b>, prenez misericorde! Ayez pitie de
+<b>FRENCH SOLDIER  O,</b> prenez misericorde! Ayez pitie de
 moi!
 
 PISTOL  Moy shall not serve. I will have forty moys, or
@@ -3360,7 +3356,7 @@ de ton bras?
 PISTOL  Brass, cur? Thou damned and luxurious
 mountain goat, offer'st me brass?
 
-<b>FRENCH SOLDIER  O</b>, pardonnez-moi!
+<b>FRENCH SOLDIER  O,</b> pardonnez-moi!
 
 PISTOL  Say'st thou me so? Is that a ton of moys?--
 Come hither, boy. Ask me this slave in French what
@@ -3380,7 +3376,7 @@ and "firk."
 
 PISTOL  Bid him prepare, for I will cut his throat.
 
-<b>FRENCH SOLDIER</b>, [to the Boy]  Que dit-il, monsieur?
+<b>FRENCH SOLDIER,</b> [to the Boy]  Que dit-il, monsieur?
 
 BOY  Il me commande a vous dire que vous faites vous
 pret, car ce soldat ici est dispose tout a cette heure de
@@ -3390,7 +3386,7 @@ PISTOL  Owy, cuppele gorge, permafoy, peasant, unless
 thou give me crowns, brave crowns, or mangled
 shalt thou be by this my sword.
 
-<b>FRENCH SOLDIER  O</b>, je vous supplie, pour l'amour de
+<b>FRENCH SOLDIER  O,</b> je vous supplie, pour l'amour de
 Dieu, me pardonner. Je suis le gentilhomme de bonne
 maison. Gardez ma vie, et je vous donnerai deux
 cents ecus.
@@ -3404,7 +3400,7 @@ hundred crowns.
 PISTOL  Tell him my fury shall abate, and I the crowns
 will take.
 
-<b>FRENCH SOLDIER</b>, [to the Boy]  Petit monsieur, que dit-il?
+<b>FRENCH SOLDIER,</b> [to the Boy]  Petit monsieur, que dit-il?
 
 BOY  Encore qu'il est contre son jurement de pardonner
 aucun prisonnier; neanmoins, pour les ecus que vous
@@ -3442,7 +3438,7 @@ camp. The French might have a good prey of us if he
 knew of it, for there is none to guard it but boys.
 [He exits.]
 
-<b>Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Constable, Orleans, Bourbon, Dauphin, and
 Rambures.]
@@ -3492,7 +3488,7 @@ The devil take order now! I'll to the throng.
 Let life be short, else shame will be too long.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Alarum. Enter the King of England and his train,
 with prisoners.]
@@ -3550,7 +3546,7 @@ Then every soldier kill his prisoners.
 Give the word through.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Fluellen and Gower.]
 
@@ -3779,7 +3775,7 @@ KING HENRY  Call him hither to me, soldier.
 
 WILLIAMS  I will, my liege.	[He exits.]
 
-<b>KING HENRY</b>, [giving Fluellen Williams's glove]  Here,
+<b>KING HENRY,</b> [giving Fluellen Williams's glove]  Here,
 Fluellen, wear thou this favor for me, and stick it in
 thy cap. When Alencon and myself were down
 together, I plucked this glove from his helm. If any
@@ -3787,7 +3783,7 @@ man challenge this, he is a friend to Alencon and an
 enemy to our person. If thou encounter any such,
 apprehend him, an thou dost me love.
 
-<b>FLUELLEN</b>, [putting the glove in his cap]  Your Grace
+<b>FLUELLEN,</b> [putting the glove in his cap]  Your Grace
 does me as great honors as can be desired in the
 hearts of his subjects. I would fain see the man that
 has but two legs that shall find himself aggriefed at
@@ -3820,7 +3816,7 @@ Follow, and see there be no harm between them.--
 Go you with me, uncle of Exeter.
 [They exit.]
 
-<b>Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Gower and Williams.]
 
@@ -3830,12 +3826,12 @@ WILLIAMS  I warrant it is to knight you, captain.
 [Enter Fluellen, wearing Williams's glove.]
 
 
-<b>FLUELLEN</b>, [to Gower]  God's will and His pleasure,
+<b>FLUELLEN,</b> [to Gower]  God's will and His pleasure,
 captain, I beseech you now, come apace to the
 King. There is more good toward you peradventure
 than is in your knowledge to dream of.
 
-<b>WILLIAMS</b>, [to Fluellen, pointing to the glove in his own
+<b>WILLIAMS,</b> [to Fluellen, pointing to the glove in his own
 hat]  Sir, know you this glove?
 
 FLUELLEN  Know the glove? I know the glove is a glove.
@@ -3846,7 +3842,7 @@ WILLIAMS  I know this, and thus I challenge it.
 FLUELLEN  'Sblood, an arrant traitor as any 's in the
 universal world, or in France, or in England!
 
-<b>GOWER</b>, [to Williams]  How now, sir? You villain!
+<b>GOWER,</b> [to Williams]  How now, sir? You villain!
 
 WILLIAMS  Do you think I'll be forsworn?
 
@@ -3892,7 +3888,7 @@ testimony and witness and will avouchment that
 this is the glove of Alencon that your Majesty is give
 me, in your conscience now.
 
-<b>KING HENRY</b>, [to Williams]  Give me thy glove, soldier.
+<b>KING HENRY,</b> [to Williams]  Give me thy glove, soldier.
 Look, here is the fellow of it.
 'Twas I indeed thou promised'st to strike,
 And thou hast given me most bitter terms.
@@ -3900,7 +3896,7 @@ And thou hast given me most bitter terms.
 FLUELLEN  An please your Majesty, let his neck answer
 for it, if there is any martial law in the world.
 
-<b>KING HENRY</b>, [to Williams]  How canst thou make me
+<b>KING HENRY,</b> [to Williams]  How canst thou make me
 satisfaction?
 
 WILLIAMS  All offenses, my lord, come from the heart.
@@ -3944,10 +3940,10 @@ change it.
 
 KING HENRY  Now, herald, are the dead numbered?
 
-<b>HERALD</b>, [giving the King a paper]
+<b>HERALD,</b> [giving the King a paper]
 Here is the number of the slaughtered French.
 
-<b>KING HENRY</b>, [to Exeter]
+<b>KING HENRY,</b> [to Exeter]
 What prisoners of good sort are taken, uncle?
 
 EXETER
@@ -4018,8 +4014,7 @@ Where ne'er from France arrived more happy men.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
 [Enter Chorus.]
 
@@ -4074,7 +4069,7 @@ Then brook abridgment, and your eyes advance
 After your thoughts, straight back again to France.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Fluellen and Gower.]
 
@@ -4202,7 +4197,7 @@ And patches will I get unto these cudgeled scars,
 And swear I got them in the Gallia wars.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter at one door, King Henry, Exeter, Bedford,
 Warwick, Westmoreland, and other Lords. At another,
@@ -4360,7 +4355,7 @@ me."
 KING HENRY  An angel is like you, Kate, and you are
 like an angel.
 
-<b>KATHERINE</b>, [to Alice]  Que dit-il? Que je suis semblable a
+<b>KATHERINE,</b> [to Alice]  Que dit-il? Que je suis semblable a
 les anges?
 
 ALICE  Oui, vraiment, sauf votre Grace, ainsi dit-il.
@@ -4371,7 +4366,7 @@ blush to affirm it.
 KATHERINE  O bon Dieu, les langues des hommes sont
 pleines de tromperies.
 
-<b>KING HENRY</b>, [to Alice]  What says she, fair one? That the
+<b>KING HENRY,</b> [to Alice]  What says she, fair one? That the
 tongues of men are full of deceits?
 
 ALICE  Oui, dat de tongues of de mans is be full of

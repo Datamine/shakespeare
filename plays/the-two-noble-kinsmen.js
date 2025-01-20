@@ -12,10 +12,10 @@ PROLOGUE
 The two noble kinsmen, cousins, nephews of Creon, King of Thebes:
   ARCITE
   PALAMON
-<b>THESEUS</b>, Duke of Athens
-<b>HIPPOLYTA</b>, Queen of the Amazons, later Duchess of Athens
-<b>EMILIA</b>, her sister
-<b>PIRITHOUS</b>, friend to Theseus
+<b>THESEUS,</b> Duke of Athens
+<b>HIPPOLYTA,</b> Queen of the Amazons, later Duchess of Athens
+<b>EMILIA,</b> her sister
+<b>PIRITHOUS,</b> friend to Theseus
 Three QUEENS, widows of the kings killed in laying siege to Thebes
 The JAILER of Theseus's prison
 The Jailer's DAUGHTER
@@ -23,14 +23,14 @@ The Jailer's BROTHER
 The WOOER of the Jailer's daughter
 Two FRIENDS of the Jailer
 A DOCTOR
-<b>ARTESIUS</b>, an Athenian soldier
-<b>VALERIUS</b>, a Theban
-<b>WOMAN</b>, attending on Emilia
+<b>ARTESIUS,</b> an Athenian soldier
+<b>VALERIUS,</b> a Theban
+<b>WOMAN,</b> attending on Emilia
 An Athenian GENTLEMAN
 Six KNIGHTS, three accompanying Arcite, three Palamon
 Six COUNTRYMEN, one dressed as a BAVIAN or baboon
 A SCHOOLMASTER
-<b>NELL</b>, a countrywoman
+<b>NELL,</b> a countrywoman
 A TABORER
 A singing BOY, a HERALD, MESSENGERS, a SERVANT
 EPILOGUE
@@ -78,10 +78,9 @@ Our losses fall so thick we must needs leave.
 
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Music. Enter Hymen with a torch burning, a Boy in
 a white robe before, singing and strewing flowers.
@@ -127,16 +126,16 @@ of Theseus; the second falls down at the foot of
 Hippolyta; the third before Emilia.]
 
 
-<b>FIRST QUEEN</b>, [to Theseus]
+<b>FIRST QUEEN,</b> [to Theseus]
 For pity's sake and true gentility's,
 Hear and respect me.
 
-<b>SECOND QUEEN</b>, [to Hippolyta]  For your mother's sake,
+<b>SECOND QUEEN,</b> [to Hippolyta]  For your mother's sake,
 And as you wish your womb may thrive with fair
 ones,
 Hear and respect me.
 
-<b>THIRD QUEEN</b>, [to Emilia]
+<b>THIRD QUEEN,</b> [to Emilia]
 Now for the love of him whom Jove hath marked
 The honor of your bed, and for the sake
 Of clear virginity, be advocate
@@ -144,16 +143,16 @@ For us and our distresses. This good deed
 Shall raze you out o' th' book of trespasses
 All you are set down there.
 
-<b>THESEUS</b>, [to First Queen]
+<b>THESEUS,</b> [to First Queen]
 Sad lady, rise.
 
-<b>HIPPOLYTA</b>, [to Second Queen]  Stand up.
+<b>HIPPOLYTA,</b> [to Second Queen]  Stand up.
 
-<b>EMILIA</b>, [to Third Queen]  No knees to me.
+<b>EMILIA,</b> [to Third Queen]  No knees to me.
 What woman I may stead that is distressed
 Does bind me to her.
 
-<b>THESEUS</b>, [to First Queen]
+<b>THESEUS,</b> [to First Queen]
 What's your request? Deliver you for all.
 
 FIRST QUEEN
@@ -195,12 +194,12 @@ He tumbled down upon his Nemean hide
 And swore his sinews thawed. O grief and time,
 Fearful consumers, you will all devour!
 
-<b>FIRST QUEEN  O</b>, I hope some god,
+<b>FIRST QUEEN  O,</b> I hope some god,
 Some god hath put his mercy in your manhood,
 Whereto he'll infuse power, and press you forth
 Our undertaker.
 
-<b>THESEUS  O</b>, no knees, none, widow!
+<b>THESEUS  O,</b> no knees, none, widow!
 Unto the helmeted Bellona use them
 And pray for me, your soldier.	[The First Queen rises.]
 Troubled I am.	[Turns away.]
@@ -238,7 +237,7 @@ Went I so willing way. My lord is taken
 Heart-deep with your distress; let him consider.
 I'll speak anon.	[Second Queen rises.]
 
-<b>THIRD QUEEN  O</b>, my petition was
+<b>THIRD QUEEN  O,</b> my petition was
 Set down in ice, which by hot grief uncandied
 Melts into drops; so sorrow, wanting form,
 Is pressed with deeper matter.
@@ -246,7 +245,7 @@ Is pressed with deeper matter.
 EMILIA  Pray stand up.
 Your grief is written in your cheek.
 
-<b>THIRD QUEEN  O</b>, woe!
+<b>THIRD QUEEN  O,</b> woe!
 You cannot read it there.	[She rises.]
 There through my tears,
 Like wrinkled pebbles in a glassy stream,
@@ -271,11 +270,11 @@ My brother's heart and warm it to some pity,
 Though it were made of stone. Pray have good
 comfort.
 
-<b>THESEUS</b>, [coming forward]
+<b>THESEUS,</b> [coming forward]
 Forward to th' temple. Leave not out a jot
 O' th' sacred ceremony.
 
-<b>FIRST QUEEN  O</b>, this celebration
+<b>FIRST QUEEN  O,</b> this celebration
 Will longer last and be more costly than
 Your suppliants' war. Remember that your fame
 Knolls in the ear o' th' world; what you do quickly
@@ -327,7 +326,7 @@ Our worthiest instruments, whilst we dispatch
 This grand act of our life, this daring deed
 Of fate in wedlock.
 
-<b>FIRST QUEEN</b>, [to Second and Third Queens]
+<b>FIRST QUEEN,</b> [to Second and Third Queens]
 Dowagers, take hands.
 Let us be widows to our woes. Delay
 Commends us to a famishing hope.
@@ -360,7 +359,7 @@ Take hostage of thee for a hundred, and
 Thou shalt remember nothing more than what
 That banquet bids thee to.
 
-<b>HIPPOLYTA</b>, [to Theseus]  Though much unlike
+<b>HIPPOLYTA,</b> [to Theseus]  Though much unlike
 You should be so transported, as much sorry
 I should be such a suitor, yet I think
 Did I not, by th' abstaining of my joy--
@@ -377,10 +376,10 @@ Your shield afore your heart--about that neck
 Which is my fee, and which I freely lend
 To do these poor queens service.
 
-<b>ALL QUEENS</b>, [to Emilia]  O, help now!
+<b>ALL QUEENS,</b> [to Emilia]  O, help now!
 Our cause cries for your knee.
 
-<b>EMILIA</b>, [to Theseus, kneeling]  If you grant not
+<b>EMILIA,</b> [to Theseus, kneeling]  If you grant not
 My sister her petition in that force,
 With that celerity and nature which
 She makes it in, from henceforth I'll not dare
@@ -437,7 +436,7 @@ We lose our human title. Good cheer, ladies.
 Now turn we towards your comforts.
 [Flourish. They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Palamon and Arcite.]
 
@@ -603,7 +602,7 @@ When we know all ourselves, and let us follow
 The becking of our chance.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pirithous, Hippolyta, Emilia.]
 
@@ -736,7 +735,7 @@ EMILIA  I am not
 Against your faith, yet I continue mine.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Cornets. A battle struck within; then a retreat.
 Flourish. Then enter, through one door, Theseus,
@@ -821,7 +820,7 @@ Where, having bound things scattered, we will post
 To Athens 'fore our army.
 [Flourish. They exit.]
 
-<b>Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Music. Enter the Queens with the hearses of their
 knights, in a funeral solemnity, &c.]
@@ -839,14 +838,14 @@ The dirge.
 	   We convent naught else but woes.
 	   We convent naught else but woes.
 
-<b>THIRD QUEEN</b>, [to Second Queen]
+<b>THIRD QUEEN,</b> [to Second Queen]
 This funeral path brings to your household's grave.
 Joy seize on you again; peace sleep with him.
 
-<b>SECOND QUEEN</b>, [to First Queen]
+<b>SECOND QUEEN,</b> [to First Queen]
 And this to yours.
 
-<b>FIRST QUEEN</b>, [to Third Queen]  Yours this way. Heavens
+<b>FIRST QUEEN,</b> [to Third Queen]  Yours this way. Heavens
 lend
 A thousand differing ways to one sure end.
 
@@ -856,10 +855,9 @@ And death's the market-place where each one meets.
 [They exit severally.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Jailer and Wooer.]
 
@@ -887,7 +885,7 @@ When that shall be seen, I tender my consent.
 
 WOOER  I have sir. Here she comes.
 
-<b>JAILER</b>, [to Daughter]  Your friend and I have chanced
+<b>JAILER,</b> [to Daughter]  Your friend and I have chanced
 to name you here, upon the old business. But no
 more of that now; so soon as the court hurry is
 over, we will have an end of it. I' th' meantime,
@@ -947,7 +945,7 @@ DAUGHTER  It is a holiday to look on them. Lord, the
 diff'rence of men!
 [Jailer, Daughter, and Wooer exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Palamon and Arcite remain, above.]
 
@@ -967,7 +965,7 @@ ARCITE  I believe it,
 And to that destiny have patiently
 Laid up my hour to come.
 
-<b>PALAMON  O</b>, cousin Arcite,
+<b>PALAMON  O,</b> cousin Arcite,
 Where is Thebes now? Where is our noble country?
 Where are our friends and kindreds? Never more
 Must we behold those comforts, never see
@@ -1113,7 +1111,7 @@ To those that love eternally.	[Palamon catches sight
 of Emilia.]
 Speak on, sir.
 
-<b>EMILIA</b>, [to her Woman]
+<b>EMILIA,</b> [to her Woman]
 This garden has a world of pleasures in 't.
 What flower is this?
 
@@ -1123,12 +1121,12 @@ EMILIA
 That was a fair boy certain, but a fool
 To love himself. Were there not maids enough?
 
-<b>ARCITE</b>, [to Palamon, who is stunned by the sight of Emilia]
+<b>ARCITE,</b> [to Palamon, who is stunned by the sight of Emilia]
 Pray, forward.
 
 PALAMON  Yes.
 
-<b>EMILIA</b>, [to Woman]  Or were they all hard-hearted?
+<b>EMILIA,</b> [to Woman]  Or were they all hard-hearted?
 
 WOMAN
 They could not be to one so fair.
@@ -1147,10 +1145,10 @@ madam?
 EMILIA
 Men are mad things.
 
-<b>ARCITE</b>, [to Palamon]  Will you go forward,
+<b>ARCITE,</b> [to Palamon]  Will you go forward,
 cousin?
 
-<b>EMILIA</b>, [to Woman]
+<b>EMILIA,</b> [to Woman]
 Canst not thou work such flowers in silk, wench?
 
 WOMAN  Yes.
@@ -1162,7 +1160,7 @@ Rarely upon a skirt, wench?
 
 WOMAN  Dainty, madam.
 
-<b>ARCITE</b>, [to Palamon]
+<b>ARCITE,</b> [to Palamon]
 Cousin, cousin! How do you, sir? Why, Palamon!
 
 PALAMON
@@ -1174,12 +1172,12 @@ Why, what's the matter, man?
 PALAMON  Behold, and wonder!
 By heaven, she is a goddess.
 
-<b>ARCITE</b>, [seeing Emilia]  Ha!
+<b>ARCITE,</b> [seeing Emilia]  Ha!
 
 PALAMON  Do reverence.
 She is a goddess, Arcite.
 
-<b>EMILIA</b>, [to Woman]  Of all flowers
+<b>EMILIA,</b> [to Woman]  Of all flowers
 Methinks a rose is best.
 
 WOMAN  Why, gentle madam?
@@ -1202,12 +1200,12 @@ To take example by her.
 
 EMILIA  Thou art wanton!
 
-<b>ARCITE</b>, [to Palamon]
+<b>ARCITE,</b> [to Palamon]
 She is wondrous fair.
 
 PALAMON  She is all the beauty extant.
 
-<b>EMILIA</b>, [to Woman]
+<b>EMILIA,</b> [to Woman]
 The sun grows high. Let's walk in. Keep these
 flowers.
 We'll see how near art can come near their colors.
@@ -1347,7 +1345,7 @@ You play the child extremely. I will love her;
 I must, I ought to do so, and I dare,
 And all this justly.
 
-<b>PALAMON  O</b>, that now, that now,
+<b>PALAMON  O,</b> that now, that now,
 Thy false self and thy friend had but this fortune
 To be one hour at liberty, and grasp
 Our good swords in our hands, I would quickly
@@ -1486,7 +1484,7 @@ If ever thou hast felt what sorrow was,
 Dream how I suffer.--Come; now bury me.
 [Palamon and Jailer exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arcite.]
 
@@ -1620,11 +1618,11 @@ ARCITE  Not yet, sir.
 FOURTH COUNTRYMAN  Well, sir,
 Take your own time.--Come, boys.
 
-<b>FIRST COUNTRYMAN</b>, [aside to the others]  My mind misgives
+<b>FIRST COUNTRYMAN,</b> [aside to the others]  My mind misgives
 me. This fellow has a vengeance trick o' th'
 hip. Mark how his body's made for 't.
 
-<b>SECOND COUNTRYMAN</b>, [aside to the others]  I'll be
+<b>SECOND COUNTRYMAN,</b> [aside to the others]  I'll be
 hanged, though, if he dare venture. Hang him,
 plum porridge! He wrestle? He roast eggs! Come,
 let's be gone, lads.	[The four exit.]
@@ -1641,7 +1639,7 @@ And happiness prefer me to a place
 Where I may ever dwell in sight of her?
 [Arcite exits.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Jailer's Daughter, alone.]
 
@@ -1682,14 +1680,14 @@ Thus much for law or kindred! I will do it,
 And this night, or tomorrow, he shall love me.
 [She exits.]
 
-<b>Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [This short flourish of cornets and shouts within.
 Enter Theseus, Hippolyta, Pirithous, Emilia, Arcite
 in disguise, with a garland, Attendants, and others.]
 
 
-<b>THESEUS</b>, [to Arcite]
+<b>THESEUS,</b> [to Arcite]
 You have done worthily. I have not seen,
 Since Hercules, a man of tougher sinews.
 Whate'er you are, you run the best and wrestle
@@ -1731,7 +1729,7 @@ Upon my soul, a proper man.
 
 EMILIA  He is so.
 
-<b>PIRITHOUS</b>, [to Hippolyta]
+<b>PIRITHOUS,</b> [to Hippolyta]
 How do you like him, lady?
 
 HIPPOLYTA  I admire him.
@@ -1751,7 +1749,7 @@ Breaks through his baser garments.
 
 HIPPOLYTA  He's well got, sure.
 
-<b>THESEUS</b>, [to Arcite]
+<b>THESEUS,</b> [to Arcite]
 What made you seek this place, sir?
 
 ARCITE  Noble Theseus,
@@ -1790,7 +1788,7 @@ If you deserve well, sir, I shall soon see 't.
 You're mine, and somewhat better than your rank
 I'll use you.
 
-<b>PIRITHOUS</b>, [to Arcite]
+<b>PIRITHOUS,</b> [to Arcite]
 I'll see you furnished, and because you say
 You are a horseman, I must needs entreat you
 This afternoon to ride--but 'tis a rough one.
@@ -1799,7 +1797,7 @@ ARCITE
 I like him better, prince; I shall not then
 Freeze in my saddle.
 
-<b>THESEUS</b>, [to Hippolyta]  Sweet, you must be ready,--
+<b>THESEUS,</b> [to Hippolyta]  Sweet, you must be ready,--
 And you, Emilia,--and you, friend,--and all,
 Tomorrow by the sun, to do observance
 To flowery May in Dian's wood.--Wait well, sir,
@@ -1826,7 +1824,7 @@ But you are wise.
 EMILIA  I hope too wise for that, sir.
 [Flourish. They all exit.]
 
-<b>Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Jailer's Daughter alone.]
 
@@ -1874,10 +1872,9 @@ And shortly you may keep yourself. Now to him.
 [She exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Cornets in sundry places. Noise and hallowing
 as people a-Maying. Enter Arcite alone.]
@@ -2059,7 +2056,7 @@ You have a vantage o'er me, but enjoy 't till
 I may enforce my remedy. Farewell.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Jailer's Daughter, alone.]
 
@@ -2106,7 +2103,7 @@ Save what I fail in. But the point is this--
 An end, and that is all.
 [She exits.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arcite with meat, wine, and files.]
 
@@ -2114,7 +2111,7 @@ An end, and that is all.
 ARCITE
 I should be near the place.--Ho! Cousin Palamon!
 
-<b>PALAMON</b>, [within]
+<b>PALAMON,</b> [within]
 Arcite?
 
 ARCITE  The same. I have brought you food and files.
@@ -2268,7 +2265,7 @@ I'll hear no more.
 PALAMON  If he keep touch, he dies for 't.
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Jailer's Daughter.]
 
@@ -2306,7 +2303,7 @@ O, for a prick now, like a nightingale,
 To put my breast against. I shall sleep like a top else.
 [She exits.]
 
-<b>Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter a Schoolmaster and six Countrymen,
 one dressed as a Bavian.]
@@ -2414,7 +2411,7 @@ thee!
 [Enter Jailer's Daughter.]
 
 
-<b>DAUGHTER</b>, [sings]
+<b>DAUGHTER,</b> [sings]
 	The George Alow came from the south,
 	From the coast of Barbary-a,
 	And there he met with brave gallants of war,
@@ -2436,7 +2433,7 @@ her, she'll do the rarest gambols.
 
 FIRST COUNTRYMAN  A madwoman? We are made, boys.
 
-<b>SCHOOLMASTER</b>, [to Jailer's Daughter]  And are you mad,
+<b>SCHOOLMASTER,</b> [to Jailer's Daughter]  And are you mad,
 good woman?
 
 DAUGHTER  I would be sorry else. Give me your hand.
@@ -2483,7 +2480,7 @@ THESEUS  What have we here?
 
 PIRITHOUS  Some country sport, upon my life, sir.
 
-<b>THESEUS</b>, [to Schoolmaster]  Well, sir, go forward. We
+<b>THESEUS,</b> [to Schoolmaster]  Well, sir, go forward. We
 will "edify."	[Chairs and stools brought out.]
 Ladies, sit down. We'll stay it.
 [Theseus, Hippolyta, and Emilia sit.]
@@ -2491,7 +2488,7 @@ Ladies, sit down. We'll stay it.
 SCHOOLMASTER
 Thou doughty duke, all hail!--All hail, sweet ladies!
 
-<b>THESEUS</b>, [aside]  This is a cold beginning.
+<b>THESEUS,</b> [aside]  This is a cold beginning.
 
 SCHOOLMASTER
 If you but favor, our country pastime made is.
@@ -2582,7 +2579,7 @@ Come, we are all made. Dii deaeque omnes,
 You have danced rarely, wenches.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Palamon from the bush.]
 
@@ -2802,7 +2799,7 @@ A place prepared for those that sleep in honor,
 I wish his weary soul that falls may win it.
 Fight bravely, cousin. Give me thy noble hand.
 
-<b>ARCITE</b>, [as they shake hands]
+<b>ARCITE,</b> [as they shake hands]
 Here, Palamon. This hand shall never more
 Come near thee with such friendship.
 
@@ -3017,7 +3014,7 @@ And my oath equally. I have said they die.
 Better they fall by th' law than one another.
 Bow not my honor.
 
-<b>EMILIA  O</b>, my noble brother,
+<b>EMILIA  O,</b> my noble brother,
 That oath was rashly made, and in your anger;
 Your reason will not hold it. If such vows
 Stand for express will, all the world must perish.
@@ -3114,7 +3111,7 @@ ARCITE
 If she refuse me, yet my grave will wed me,
 And soldiers sing my epitaph.
 
-<b>THESEUS</b>, [to Emilia]  Make choice, then.
+<b>THESEUS,</b> [to Emilia]  Make choice, then.
 
 EMILIA
 I cannot, sir; they are both too excellent.
@@ -3148,7 +3145,7 @@ Are you content, sister?
 EMILIA  Yes, I must, sir,
 Else both miscarry.
 
-<b>THESEUS</b>, [to Palamon and Arcite]
+<b>THESEUS,</b> [to Palamon and Arcite]
 Come, shake hands again, then,
 And take heed, as you are gentlemen, this quarrel
 Sleep till the hour prefixed, and hold your course.
@@ -3164,10 +3161,9 @@ Who loses, yet I'll weep upon his bier.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Jailer and his Friend.]
 
@@ -3249,7 +3245,7 @@ JAILER  Why do you ask?
 WOOER
 O, sir, when did you see her?
 
-<b>SECOND FRIEND</b>, [aside]  How he looks!
+<b>SECOND FRIEND,</b> [aside]  How he looks!
 
 JAILER
 This morning.
@@ -3257,7 +3253,7 @@ This morning.
 WOOER  Was she well? Was she in health?
 Sir, when did she sleep?
 
-<b>FIRST FRIEND</b>, [aside]  These are strange questions.
+<b>FIRST FRIEND,</b> [aside]  These are strange questions.
 
 JAILER
 I do not think she was very well--for now
@@ -3372,11 +3368,11 @@ And hither came to tell you.
 
 Here they are.
 
-<b>DAUGHTER</b>, [sings]
+<b>DAUGHTER,</b> [sings]
 	May you never more enjoy the light, etc.
 Is not this a fine song?
 
-<b>BROTHER  O</b>, a very fine one.
+<b>BROTHER  O,</b> a very fine one.
 
 DAUGHTER  I can sing twenty more.
 
@@ -3397,7 +3393,7 @@ lose my maidenhead by cocklight. 'Twill never
 thrive else.
 [Sings.]O fair, O sweet, etc.
 
-<b>BROTHER</b>, [to Jailer]  You must e'en take it patiently.
+<b>BROTHER,</b> [to Jailer]  You must e'en take it patiently.
 
 JAILER  'Tis true.
 
@@ -3410,13 +3406,13 @@ DAUGHTER  Is 't not a fine young gentleman?
 
 JAILER  'Tis, love.
 
-<b>BROTHER</b>, [aside to others]  By no mean cross her; she
+<b>BROTHER,</b> [aside to others]  By no mean cross her; she
 is then distempered far worse than now she
 shows.
 
-<b>FIRST FRIEND</b>, [to Daughter]  Yes, he's a fine man.
+<b>FIRST FRIEND,</b> [to Daughter]  Yes, he's a fine man.
 
-<b>DAUGHTER  O </b>, is he so? You have a sister.
+<b>DAUGHTER  O ,</b> is he so? You have a sister.
 
 FIRST FRIEND  Yes.
 
@@ -3447,14 +3443,14 @@ to him; I'll warrant you, he had not so few last
 night as twenty to dispatch. He'll tickle 't up in two
 hours, if his hand be in.
 
-<b>JAILER</b>, [aside]  She's lost past all cure.
+<b>JAILER,</b> [aside]  She's lost past all cure.
 
 BROTHER  Heaven forbid, man!
 
-<b>DAUGHTER</b>, [to Jailer]  Come hither; you are a wise
+<b>DAUGHTER,</b> [to Jailer]  Come hither; you are a wise
 man.
 
-<b>FIRST FRIEND</b>, [aside]  Does she know him?
+<b>FIRST FRIEND,</b> [aside]  Does she know him?
 
 SECOND FRIEND  No; would she did.
 
@@ -3471,7 +3467,7 @@ course to th' wood, where Palamon lies longing for
 me. For the tackling, let me alone.--Come, weigh,
 my hearts, cheerly.
 
-<b>ALL</b>, [as if sailing a ship]  Owgh, owgh, owgh!--'Tis up!
+<b>ALL,</b> [as if sailing a ship]  Owgh, owgh, owgh!--'Tis up!
 The wind's fair!--Top the bowline!--Out with the
 main sail! Where's your whistle, master?
 
@@ -3492,7 +3488,7 @@ DAUGHTER  Bear for it, master. Tack about!
 	When Cynthia with her borrowed light, etc.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Emilia alone, with two pictures.]
 
@@ -3584,7 +3580,7 @@ To my unhappy beauty?
 [Enter Theseus, Hippolyta, Pirithous and Attendants.]
 
 
-<b>THESEUS</b>, [to Attendant]  Bring 'em in
+<b>THESEUS,</b> [to Attendant]  Bring 'em in
 Quickly, by any means; I long to see 'em.
 [To Emilia.] Your two contending lovers are
 returned,
@@ -3725,7 +3721,7 @@ Bravely about the titles of two kingdoms;
 O, my soft-hearted sister, what think you?
 Weep not till they weep blood. Wench, it must be.
 
-<b>THESEUS</b>, [to Emilia]
+<b>THESEUS,</b> [to Emilia]
 You have steeled 'em with your beauty. [(To
 Pirithous.)] Honored friend,
 To you I give the field; pray order it
@@ -3746,7 +3742,7 @@ Poor wench, go weep, for whosoever wins
 Loses a noble cousin for thy sins.
 [She exits.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Jailer, Wooer, Doctor.]
 
@@ -3773,7 +3769,7 @@ too, as ever he may go upon 's legs, for in
 the next world will Dido see Palamon, and then
 will she be out of love with Aeneas.
 
-<b>DOCTOR</b>, [aside to Jailer and Wooer]  What stuff's here?
+<b>DOCTOR,</b> [aside to Jailer and Wooer]  What stuff's here?
 Poor soul.
 
 JAILER  E'en thus all day long.
@@ -3883,10 +3879,9 @@ forth comfort.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter Theseus, Pirithous, Hippolyta,
 and Attendants. Three altars set up onstage.]
@@ -4130,7 +4125,7 @@ Unclasp thy mystery!--I hope she's pleased;
 Her signs were gracious.
 [They curtsy and exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Doctor, Jailer, and Wooer in
 the habit of Palamon.]
@@ -4235,7 +4230,7 @@ DOCTOR  You'll find it so.
 She comes; pray humor her.
 [Wooer and Doctor stand aside.]
 
-<b>JAILER</b>, [to Daughter]
+<b>JAILER,</b> [to Daughter]
 Come, your love Palamon stays for you, child,
 And has done this long hour, to visit you.
 
@@ -4299,7 +4294,7 @@ And twenty strike of oats, but he'll ne'er have her.
 He lisps in 's neighing able to entice
 A miller's mare. He'll be the death of her.
 
-<b>DOCTOR</b>, [aside]  What stuff she utters!
+<b>DOCTOR,</b> [aside]  What stuff she utters!
 
 [Wooer and Doctor come forward.]
 
@@ -4319,7 +4314,7 @@ How far is 't now to th' end o' th' world, my masters?
 DOCTOR
 Why, a day's journey, wench.
 
-<b>DAUGHTER</b>, [to Wooer]  Will you go with me?
+<b>DAUGHTER,</b> [to Wooer]  Will you go with me?
 
 WOOER
 What shall we do there, wench?
@@ -4350,7 +4345,7 @@ That's all one; I will have you.
 
 DAUGHTER  Will you surely?
 
-<b>WOOER</b>, [taking her hand]
+<b>WOOER,</b> [taking her hand]
 Yes, by this fair hand, will I.
 
 DAUGHTER  We'll to bed then.
@@ -4358,7 +4353,7 @@ DAUGHTER  We'll to bed then.
 WOOER
 E'en when you will.	[He kisses her.]
 
-<b>DAUGHTER</b>, [wiping her face]  O , sir, you would fain
+<b>DAUGHTER,</b> [wiping her face]  O , sir, you would fain
 be nibbling.
 
 WOOER
@@ -4377,7 +4372,7 @@ DAUGHTER  Do you think he'll have me?
 DOCTOR
 Yes, without doubt.
 
-<b>DAUGHTER</b>, [to Jailer]  Do you think so too?
+<b>DAUGHTER,</b> [to Jailer]  Do you think so too?
 
 JAILER  Yes.
 
@@ -4407,7 +4402,7 @@ I must e'en leave you here.
 DOCTOR  Nay, we'll go with you.
 I will not lose the sight.
 
-<b>JAILER</b>, [aside to Doctor]  How did you like her?
+<b>JAILER,</b> [aside to Doctor]  How did you like her?
 
 DOCTOR
 I'll warrant you, within these three or four days
@@ -4435,7 +4430,7 @@ WOOER  Ay, and twenty.
 DAUGHTER
 And then we'll sleep together.
 
-<b>DOCTOR</b>, [to Wooer]  Take her offer.
+<b>DOCTOR,</b> [to Wooer]  Take her offer.
 
 WOOER
 Yes, marry, will we.
@@ -4448,7 +4443,7 @@ I will not, sweet.
 DAUGHTER  If you do, love, I'll cry.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter Theseus, Hippolyta,
 Emilia, Pirithous, and some Attendants.]
@@ -4470,10 +4465,10 @@ With what shall happen, 'gainst the which there is
 No deafing but to hear; not taint mine eye
 With dread sights it may shun.
 
-<b>PIRITHOUS</b>, [to Theseus]  Sir, my good lord,
+<b>PIRITHOUS,</b> [to Theseus]  Sir, my good lord,
 Your sister will no further.
 
-<b>THESEUS  O</b>, she must.
+<b>THESEUS  O,</b> she must.
 She shall see deeds of honor in their kind,
 Which sometime show well, penciled. Nature now
 Shall make and act the story, the belief
@@ -4687,7 +4682,7 @@ That two must needs be blind for 't.
 THESEUS  So it is.
 [Flourish. They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Guard with Palamon and his Knights,
 pinioned; Jailer, Executioner and Others,
@@ -4788,7 +4783,7 @@ PIRITHOUS
 Arise, great sir, and give the tidings ear
 That are most dearly sweet and bitter.
 
-<b>PALAMON</b>, [rising]  What
+<b>PALAMON,</b> [rising]  What
 Hath waked us from our dream?
 
 PIRITHOUS  List then: your

@@ -8,30 +8,29 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>PROSPERO</b>, the former duke of Milan, now a magician on a Mediterranean island
-<b>MIRANDA</b>, Prospero's daughter
-<b>ARIEL</b>, a spirit, servant to Prospero
-<b>CALIBAN</b>, an inhabitant of the island, servant to Prospero
-<b>FERDINAND</b>, prince of Naples
-<b>ALONSO</b>, king of Naples
-<b>ANTONIO</b>, duke of Milan and Prospero's brother
-<b>SEBASTIAN</b>, Alonso's brother
-<b>GONZALO</b>, councillor to Alonso and friend to Prospero
+<b>PROSPERO,</b> the former duke of Milan, now a magician on a Mediterranean island
+<b>MIRANDA,</b> Prospero's daughter
+<b>ARIEL,</b> a spirit, servant to Prospero
+<b>CALIBAN,</b> an inhabitant of the island, servant to Prospero
+<b>FERDINAND,</b> prince of Naples
+<b>ALONSO,</b> king of Naples
+<b>ANTONIO,</b> duke of Milan and Prospero's brother
+<b>SEBASTIAN,</b> Alonso's brother
+<b>GONZALO,</b> councillor to Alonso and friend to Prospero
 Courtiers in attendance on Alonso:
   ADRIAN
   FRANCISCO
-<b>TRINCULO</b>, servant to Alonso
-<b>STEPHANO</b>, Alonso's butler
+<b>TRINCULO,</b> servant to Alonso
+<b>STEPHANO,</b> Alonso's butler
 SHIPMASTER
 BOATSWAIN
 MARINERS
 Players who, as spirits, take the roles of Iris, Ceres, Juno, Nymphs, and Reapers in Prospero's masque, and who, in other scenes, take the roles of "islanders" and of hunting dogs
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [A tempestuous noise of thunder and lightning heard.
 Enter a Shipmaster and a Boatswain.]
@@ -162,7 +161,7 @@ furze, anything. The wills above be done, but I
 would fain die a dry death.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prospero and Miranda.]
 
@@ -186,7 +185,7 @@ PROSPERO  Be collected.
 No more amazement. Tell your piteous heart
 There's no harm done.
 
-<b>MIRANDA  O</b>, woe the day!
+<b>MIRANDA  O,</b> woe the day!
 
 PROSPERO  No harm.
 I have done nothing but in care of thee,
@@ -262,7 +261,7 @@ She said thou wast my daughter. And thy father
 Was Duke of Milan, and his only heir
 And princess no worse issued.
 
-<b>MIRANDA  O</b>, the heavens!
+<b>MIRANDA  O,</b> the heavens!
 What foul play had we that we came from thence?
 Or blessed was 't we did?
 
@@ -270,7 +269,7 @@ PROSPERO  Both, both, my girl.
 By foul play, as thou sayst, were we heaved thence,
 But blessedly holp hither.
 
-<b>MIRANDA  O</b>, my heart bleeds
+<b>MIRANDA  O,</b> my heart bleeds
 To think o' th' teen that I have turned you to,
 Which is from my remembrance. Please you,
 farther.
@@ -341,7 +340,7 @@ Subject his coronet to his crown, and bend
 The dukedom, yet unbowed--alas, poor Milan!--
 To most ignoble stooping.
 
-<b>MIRANDA  O</b>, the heavens!
+<b>MIRANDA  O,</b> the heavens!
 
 PROSPERO
 Mark his condition and th' event. Then tell me
@@ -395,7 +394,7 @@ Did us but loving wrong.
 MIRANDA  Alack, what trouble
 Was I then to you!
 
-<b>PROSPERO  O</b>, a cherubin
+<b>PROSPERO  O,</b> a cherubin
 Thou wast that did preserve me. Thou didst smile,
 Infused with a fortitude from heaven,
 When I have decked the sea with drops full salt,
@@ -420,7 +419,7 @@ I prize above my dukedom.
 MIRANDA  Would I might
 But ever see that man.
 
-<b>PROSPERO</b>, [standing]  Now I arise.
+<b>PROSPERO,</b> [standing]  Now I arise.
 Sit still, and hear the last of our sea-sorrow.
 Here in this island we arrived, and here
 Have I, thy schoolmaster, made thee more profit
@@ -576,7 +575,7 @@ Thou hast. Where was she born? Speak. Tell me.
 ARIEL
 Sir, in Argier.
 
-<b>PROSPERO  O</b>, was she so? I must
+<b>PROSPERO  O,</b> was she so? I must
 Once in a month recount what thou hast been,
 Which thou forget'st. This damned witch Sycorax,
 For mischiefs manifold, and sorceries terrible
@@ -650,7 +649,7 @@ PROSPERO  Shake it off. Come on,
 We'll visit Caliban, my slave, who never
 Yields us kind answer.
 
-<b>MIRANDA</b>, [rising]  'Tis a villain, sir,
+<b>MIRANDA,</b> [rising]  'Tis a villain, sir,
 I do not love to look on.
 
 PROSPERO  But, as 'tis,
@@ -659,7 +658,7 @@ Fetch in our wood, and serves in offices
 That profit us.--What ho, slave, Caliban!
 Thou earth, thou, speak!
 
-<b>CALIBAN</b>, [within]  There's wood enough within.
+<b>CALIBAN,</b> [within]  There's wood enough within.
 
 PROSPERO
 Come forth, I say. There's other business for thee.
@@ -672,7 +671,7 @@ Hark in thine ear.	[He whispers to Ariel.]
 
 ARIEL  My lord, it shall be done.	[He exits.]
 
-<b>PROSPERO</b>, [to Caliban]
+<b>PROSPERO,</b> [to Caliban]
 Thou poisonous slave, got by the devil himself
 Upon thy wicked dam, come forth!
 
@@ -810,7 +809,7 @@ The ditty does remember my drowned father.
 This is no mortal business, nor no sound
 That the Earth owes. I hear it now above me.
 
-<b>PROSPERO</b>, [to Miranda]
+<b>PROSPERO,</b> [to Miranda]
 The fringed curtains of thine eye advance
 And say what thou seest yond.
 
@@ -831,12 +830,12 @@ MIRANDA  I might call him
 A thing divine, for nothing natural
 I ever saw so noble.
 
-<b>PROSPERO</b>, [aside]  It goes on, I see,
+<b>PROSPERO,</b> [aside]  It goes on, I see,
 As my soul prompts it. [To Ariel.] Spirit, fine spirit,
 I'll free thee
 Within two days for this.
 
-<b>FERDINAND</b>, [seeing Miranda]  Most sure, the goddess
+<b>FERDINAND,</b> [seeing Miranda]  Most sure, the goddess
 On whom these airs attend!--Vouchsafe my prayer
 May know if you remain upon this island,
 And that you will some good instruction give
@@ -867,7 +866,7 @@ FERDINAND
 Yes, faith, and all his lords, the Duke of Milan
 And his brave son being twain.
 
-<b>PROSPERO</b>, [aside]  The Duke of Milan
+<b>PROSPERO,</b> [aside]  The Duke of Milan
 And his more braver daughter could control thee,
 If now 'twere fit to do 't. At the first sight
 They have changed eyes.--Delicate Ariel,
@@ -881,7 +880,7 @@ Is the third man that e'er I saw, the first
 That e'er I sighed for. Pity move my father
 To be inclined my way.
 
-<b>FERDINAND  O</b>, if a virgin,
+<b>FERDINAND  O,</b> if a virgin,
 And your affection not gone forth, I'll make you
 The Queen of Naples.
 
@@ -903,7 +902,7 @@ There's nothing ill can dwell in such a temple.
 If the ill spirit have so fair a house,
 Good things will strive to dwell with 't.
 
-<b>PROSPERO</b>, [to Ferdinand]  Follow me.
+<b>PROSPERO,</b> [to Ferdinand]  Follow me.
 [To Miranda.] Speak not you for him. He's a traitor.
 [To Ferdinand.] Come,
 I'll manacle thy neck and feet together.
@@ -948,7 +947,7 @@ MIRANDA  My affections
 Are then most humble. I have no ambition
 To see a goodlier man.
 
-<b>PROSPERO</b>, [to Ferdinand]  Come on, obey.
+<b>PROSPERO,</b> [to Ferdinand]  Come on, obey.
 Thy nerves are in their infancy again
 And have no vigor in them.
 
@@ -962,37 +961,36 @@ Behold this maid. All corners else o' th' Earth
 Let liberty make use of. Space enough
 Have I in such a prison.
 
-<b>PROSPERO</b>, [aside]  It works.--Come on.--
+<b>PROSPERO,</b> [aside]  It works.--Come on.--
 Thou hast done well, fine Ariel.--Follow me.
 [To Ariel.] Hark what thou else shalt do me.
 
-<b>MIRANDA</b>, [to Ferdinand]  Be of
+<b>MIRANDA,</b> [to Ferdinand]  Be of
 comfort.
 My father's of a better nature, sir,
 Than he appears by speech. This is unwonted
 Which now came from him.
 
-<b>PROSPERO</b>, [to Ariel]  Thou shalt be as free
+<b>PROSPERO,</b> [to Ariel]  Thou shalt be as free
 As mountain winds; but then exactly do
 All points of my command.
 
 ARIEL  To th' syllable.
 
-<b>PROSPERO</b>, [to Ferdinand]
+<b>PROSPERO,</b> [to Ferdinand]
 Come follow. [To Miranda.] Speak not for him.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian,
 Francisco, and others.]
 
 
-<b>GONZALO</b>, [to Alonso]
+<b>GONZALO,</b> [to Alonso]
 Beseech you, sir, be merry. You have cause--
 So have we all--of joy, for our escape
 Is much beyond our loss. Our hint of woe
@@ -1005,7 +1003,7 @@ Our sorrow with our comfort.
 
 ALONSO  Prithee, peace.
 
-<b>SEBASTIAN</b>, [aside to Antonio]  He receives comfort like
+<b>SEBASTIAN,</b> [aside to Antonio]  He receives comfort like
 cold porridge.
 
 ANTONIO  The visitor will not give him o'er so.
@@ -1013,7 +1011,7 @@ ANTONIO  The visitor will not give him o'er so.
 SEBASTIAN  Look, he's winding up the watch of his wit.
 By and by it will strike.
 
-<b>GONZALO</b>, [to Alonso]  Sir--
+<b>GONZALO,</b> [to Alonso]  Sir--
 
 SEBASTIAN  One. Tell.
 
@@ -1028,17 +1026,17 @@ truer than you purposed.
 SEBASTIAN  You have taken it wiselier than I meant you
 should.
 
-<b>GONZALO</b>, [to Alonso]  Therefore, my lord--
+<b>GONZALO,</b> [to Alonso]  Therefore, my lord--
 
 ANTONIO  Fie, what a spendthrift is he of his tongue.
 
-<b>ALONSO</b>, [to Gonzalo]  I prithee, spare.
+<b>ALONSO,</b> [to Gonzalo]  I prithee, spare.
 
 GONZALO  Well, I have done. But yet--
 
-<b>SEBASTIAN</b>, [aside to Antonio]  He will be talking.
+<b>SEBASTIAN,</b> [aside to Antonio]  He will be talking.
 
-<b>ANTONIO</b>, [aside to Sebastian]  Which, of he or Adrian,
+<b>ANTONIO,</b> [aside to Sebastian]  Which, of he or Adrian,
 for a good wager, first begins to crow?
 
 SEBASTIAN  The old cock.
@@ -1130,7 +1128,7 @@ in? Widow Dido!
 SEBASTIAN  What if he had said "widower Aeneas" too?
 Good Lord, how you take it!
 
-<b>ADRIAN</b>, [to Gonzalo]  "Widow Dido," said you? You
+<b>ADRIAN,</b> [to Gonzalo]  "Widow Dido," said you? You
 make me study of that. She was of Carthage, not of
 Tunis.
 
@@ -1157,7 +1155,7 @@ GONZALO  Ay.
 
 ANTONIO  Why, in good time.
 
-<b>GONZALO</b>, [to Alonso]  Sir, we were talking that our
+<b>GONZALO,</b> [to Alonso]  Sir, we were talking that our
 garments seem now as fresh as when we were at
 Tunis at the marriage of your daughter, who is now
 queen.
@@ -1166,14 +1164,14 @@ ANTONIO  And the rarest that e'er came there.
 
 SEBASTIAN  Bate, I beseech you, widow Dido.
 
-<b>ANTONIO  O</b>, widow Dido? Ay, widow Dido.
+<b>ANTONIO  O,</b> widow Dido? Ay, widow Dido.
 
-<b>GONZALO</b>, [to Alonso]  Is not, sir, my doublet as fresh as
+<b>GONZALO,</b> [to Alonso]  Is not, sir, my doublet as fresh as
 the first day I wore it? I mean, in a sort.
 
 ANTONIO  That "sort" was well fished for.
 
-<b>GONZALO</b>, [to Alonso]  When I wore it at your daughter's
+<b>GONZALO,</b> [to Alonso]  When I wore it at your daughter's
 marriage.
 
 ALONSO
@@ -1230,7 +1228,7 @@ SEBASTIAN  Very well.
 
 ANTONIO  And most chirurgeonly.
 
-<b>GONZALO</b>, [to Alonso]
+<b>GONZALO,</b> [to Alonso]
 It is foul weather in us all, good sir,
 When you are cloudy.
 
@@ -1318,7 +1316,7 @@ continue in it five weeks without changing.
 
 SEBASTIAN  We would so, and then go a-batfowling.
 
-<b>ANTONIO</b>, [to Gonzalo]  Nay, good my lord, be not angry.
+<b>ANTONIO,</b> [to Gonzalo]  Nay, good my lord, be not angry.
 
 GONZALO  No, I warrant you, I will not adventure my
 discretion so weakly. Will you laugh me asleep?
@@ -1396,7 +1394,7 @@ I'll teach you how to flow.
 SEBASTIAN  Do so. To ebb
 Hereditary sloth instructs me.
 
-<b>ANTONIO  O</b>,
+<b>ANTONIO  O,</b>
 If you but knew how you the purpose cherish
 Whiles thus you mock it, how in stripping it
 You more invest it. Ebbing men indeed
@@ -1420,7 +1418,7 @@ As he that sleeps here swims.
 SEBASTIAN  I have no hope
 That he's undrowned.
 
-<b>ANTONIO  O</b>, out of that no hope
+<b>ANTONIO  O,</b> out of that no hope
 What great hope have you! No hope that way is
 Another way so high a hope that even
 Ambition cannot pierce a wink beyond,
@@ -1506,13 +1504,13 @@ ANTONIO  Draw together,
 And when I rear my hand, do you the like
 To fall it on Gonzalo.	[They draw their swords.]
 
-<b>SEBASTIAN  O</b>, but one word.
+<b>SEBASTIAN  O,</b> but one word.
 [They talk apart.]
 
 [Enter Ariel, invisible, with music and song.]
 
 
-<b>ARIEL</b>, [to the sleeping Gonzalo]
+<b>ARIEL,</b> [to the sleeping Gonzalo]
 My master through his art foresees the danger
 That you, his friend, are in, and sends me forth--
 For else his project dies--to keep them living.
@@ -1524,16 +1522,16 @@ For else his project dies--to keep them living.
 	Shake off slumber and beware.
 	   Awake, awake!
 
-<b>ANTONIO</b>, [to Sebastian]  Then let us both be sudden.
+<b>ANTONIO,</b> [to Sebastian]  Then let us both be sudden.
 
-<b>GONZALO</b>, [waking]  Now, good angels preserve the
+<b>GONZALO,</b> [waking]  Now, good angels preserve the
 King!	[He wakes Alonso.]
 
-<b>ALONSO</b>, [to Sebastian]
+<b>ALONSO,</b> [to Sebastian]
 Why, how now, ho! Awake? Why are you drawn?
 Wherefore this ghastly looking?
 
-<b>GONZALO</b>, [to Sebastian]  What's the matter?
+<b>GONZALO,</b> [to Sebastian]  What's the matter?
 
 SEBASTIAN
 Whiles we stood here securing your repose,
@@ -1567,12 +1565,12 @@ For he is, sure, i' th' island.
 
 ALONSO  Lead away.
 
-<b>ARIEL</b>, [aside]
+<b>ARIEL,</b> [aside]
 Prospero my lord shall know what I have done.
 So, king, go safely on to seek thy son.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Caliban with a burden of wood. A noise of
 thunder heard.]
@@ -1729,12 +1727,12 @@ Stephano? O Stephano, two Neapolitans scaped!
 STEPHANO  Prithee, do not turn me about. My stomach
 is not constant.
 
-<b>CALIBAN</b>, [aside]  These be fine things, an if they be not
+<b>CALIBAN,</b> [aside]  These be fine things, an if they be not
 sprites. That's a brave god and bears celestial liquor.
 I will kneel to him.
 [He crawls out from under the cloak.]
 
-<b>STEPHANO</b>, [to Trinculo]  How didst thou scape? How
+<b>STEPHANO,</b> [to Trinculo]  How didst thou scape? How
 cam'st thou hither? Swear by this bottle how thou
 cam'st hither--I escaped upon a butt of sack, which
 the sailors heaved o'erboard--by this bottle, which
@@ -1744,7 +1742,7 @@ since I was cast ashore.
 CALIBAN  I'll swear upon that bottle to be thy true
 subject, for the liquor is not earthly.
 
-<b>STEPHANO</b>, [to Trinculo]  Here. Swear then how thou
+<b>STEPHANO,</b> [to Trinculo]  Here. Swear then how thou
 escapedst.
 
 TRINCULO  Swum ashore, man, like a duck. I can swim
@@ -1808,7 +1806,7 @@ Thou wondrous man.
 TRINCULO  A most ridiculous monster, to make a wonder
 of a poor drunkard.
 
-<b>CALIBAN</b>, [standing]
+<b>CALIBAN,</b> [standing]
 I prithee, let me bring thee where crabs grow,
 And I with my long nails will dig thee pignuts,
 Show thee a jay's nest, and instruct thee how
@@ -1841,10 +1839,9 @@ STEPHANO  O brave monster! Lead the way.
 [They exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ferdinand bearing a log.]
 
@@ -1896,7 +1893,7 @@ As well as it does you, and I should do it
 With much more ease, for my good will is to it,
 And yours it is against.
 
-<b>PROSPERO</b>, [aside]  Poor worm, thou art infected.
+<b>PROSPERO,</b> [aside]  Poor worm, thou art infected.
 This visitation shows it.
 
 MIRANDA  You look wearily.
@@ -1958,7 +1955,7 @@ Do love, prize, honor you.
 MIRANDA  I am a fool
 To weep at what I am glad of.
 
-<b>PROSPERO</b>, [aside]  Fair encounter
+<b>PROSPERO,</b> [aside]  Fair encounter
 Of two most rare affections. Heavens rain grace
 On that which breeds between 'em!
 
@@ -1986,7 +1983,7 @@ My husband, then?
 FERDINAND  Ay, with a heart as willing
 As bondage e'er of freedom. Here's my hand.
 
-<b>MIRANDA</b>, [clasping his hand]
+<b>MIRANDA,</b> [clasping his hand]
 And mine, with my heart in 't. And now farewell
 Till half an hour hence.
 
@@ -2001,12 +1998,12 @@ For yet ere suppertime must I perform
 Much business appertaining.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Caliban, Stephano, and Trinculo.]
 
 
-<b>STEPHANO</b>, [to Trinculo]  Tell not me. When the butt is
+<b>STEPHANO,</b> [to Trinculo]  Tell not me. When the butt is
 out, we will drink water; not a drop before. Therefore
 bear up and board 'em.--Servant monster,
 drink to me.
@@ -2072,13 +2069,13 @@ stand, and so shall Trinculo.
 [Enter Ariel, invisible.]
 
 
-<b>CALIBAN</b>, [kneeling]  As I told thee before, I am subject
+<b>CALIBAN,</b> [kneeling]  As I told thee before, I am subject
 to a tyrant, a sorcerer, that by his cunning hath
 cheated me of the island.
 
-<b>ARIEL</b>, [in Trinculo's voice]  Thou liest.
+<b>ARIEL,</b> [in Trinculo's voice]  Thou liest.
 
-<b>CALIBAN</b>, [to Trinculo]  Thou liest, thou jesting monkey,
+<b>CALIBAN,</b> [to Trinculo]  Thou liest, thou jesting monkey,
 thou. [He stands.] I would my valiant master would
 destroy thee. I do not lie.
 
@@ -2109,7 +2106,7 @@ CALIBAN
 Yea, yea, my lord. I'll yield him thee asleep,
 Where thou mayst knock a nail into his head.
 
-<b>ARIEL</b>, [in Trinculo's voice]  Thou liest. Thou canst not.
+<b>ARIEL,</b> [in Trinculo's voice]  Thou liest. Thou canst not.
 
 CALIBAN
 What a pied ninny's this!--Thou scurvy patch!--
@@ -2128,7 +2125,7 @@ farther off.
 
 STEPHANO  Didst thou not say he lied?
 
-<b>ARIEL</b>, [in Trinculo's voice]  Thou liest.
+<b>ARIEL,</b> [in Trinculo's voice]  Thou liest.
 
 STEPHANO  Do I so? Take thou that.	[He beats Trinculo.]
 As you like this, give me the lie another time.
@@ -2192,7 +2189,7 @@ Wilt thou destroy him then?
 
 STEPHANO  Ay, on mine honor.
 
-<b>ARIEL</b>, [aside]  This will I tell my master.
+<b>ARIEL,</b> [aside]  This will I tell my master.
 
 CALIBAN
 Thou mak'st me merry. I am full of pleasure.
@@ -2214,11 +2211,11 @@ STEPHANO  What is this same?
 TRINCULO  This is the tune of our catch played by the
 picture of Nobody.
 
-<b>STEPHANO</b>, [to the invisible musician]  If thou be'st a
+<b>STEPHANO,</b> [to the invisible musician]  If thou be'st a
 man, show thyself in thy likeness. If thou be'st a
 devil, take 't as thou list.
 
-<b>TRINCULO  O</b>, forgive me my sins!
+<b>TRINCULO  O,</b> forgive me my sins!
 
 STEPHANO  He that dies pays all debts.--I defy thee!--
 Mercy upon us!
@@ -2255,7 +2252,7 @@ could see this taborer. He lays it on. Wilt come?
 TRINCULO  I'll follow, Stephano.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian,
 Francisco, etc.]
@@ -2276,20 +2273,20 @@ No longer for my flatterer. He is drowned
 Whom thus we stray to find, and the sea mocks
 Our frustrate search on land. Well, let him go.
 
-<b>ANTONIO</b>, [aside to Sebastian]
+<b>ANTONIO,</b> [aside to Sebastian]
 I am right glad that he's so out of hope.
 Do not, for one repulse, forgo the purpose
 That you resolved t' effect.
 
-<b>SEBASTIAN</b>, [aside to Antonio]  The next advantage
+<b>SEBASTIAN,</b> [aside to Antonio]  The next advantage
 Will we take throughly.
 
-<b>ANTONIO</b>, [aside to Sebastian]  Let it be tonight;
+<b>ANTONIO,</b> [aside to Sebastian]  Let it be tonight;
 For now they are oppressed with travel, they
 Will not nor cannot use such vigilance
 As when they are fresh.
 
-<b>SEBASTIAN</b>, [aside to Antonio]  I say tonight. No more.
+<b>SEBASTIAN,</b> [aside to Antonio]  I say tonight. No more.
 
 [Solemn and strange music, and enter Prospero on the
 top invisible.]
@@ -2327,7 +2324,7 @@ Their manners are more gentle, kind, than of
 Our human generation you shall find
 Many, nay, almost any.
 
-<b>PROSPERO</b>, [aside]  Honest lord,
+<b>PROSPERO,</b> [aside]  Honest lord,
 Thou hast said well, for some of you there present
 Are worse than devils.
 
@@ -2337,7 +2334,7 @@ expressing--
 Although they want the use of tongue--a kind
 Of excellent dumb discourse.
 
-<b>PROSPERO</b>, [aside]  Praise in departing.
+<b>PROSPERO,</b> [aside]  Praise in departing.
 [Inviting the King, etc., to eat, the shapes depart.]
 
 FRANCISCO  They vanished strangely.
@@ -2412,7 +2409,7 @@ with mocks and mows, and carrying out the table.]
 
 
 
-<b>PROSPERO</b>, [aside]
+<b>PROSPERO,</b> [aside]
 Bravely the figure of this Harpy hast thou
 Performed, my Ariel. A grace it had, devouring.
 Of my instruction hast thou nothing bated
@@ -2426,11 +2423,11 @@ And in these fits I leave them while I visit
 Young Ferdinand, whom they suppose is drowned,
 And his and mine loved darling.	[He exits, above.]
 
-<b>GONZALO</b>, [to Alonso]
+<b>GONZALO,</b> [to Alonso]
 I' th' name of something holy, sir, why stand you
 In this strange stare?
 
-<b>ALONSO  O</b>, it is monstrous, monstrous!
+<b>ALONSO  O,</b> it is monstrous, monstrous!
 Methought the billows spoke and told me of it;
 The winds did sing it to me, and the thunder,
 That deep and dreadful organ pipe, pronounced
@@ -2457,15 +2454,14 @@ ADRIAN  Follow, I pray you.
 [They all exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prospero, Ferdinand, and Miranda.]
 
 
-<b>PROSPERO</b>, [to Ferdinand]
+<b>PROSPERO,</b> [to Ferdinand]
 If I have too austerely punished you,
 Your compensation makes amends, for I
 Have given you here a third of mine own life,
@@ -2543,7 +2539,7 @@ Till thou dost hear me call.
 ARIEL  Well; I conceive.
 [He exits.]
 
-<b>PROSPERO</b>, [to Ferdinand]
+<b>PROSPERO,</b> [to Ferdinand]
 Look thou be true; do not give dalliance
 Too much the rein. The strongest oaths are straw
 To th' fire i' th' blood. Be more abstemious,
@@ -2697,14 +2693,14 @@ Is almost come.--Well done. Avoid. No more.
 [To a strange, hollow, and confused noise,
 the spirits heavily vanish.]
 
-<b>FERDINAND</b>, [to Miranda]
+<b>FERDINAND,</b> [to Miranda]
 This is strange. Your father's in some passion
 That works him strongly.
 
 MIRANDA  Never till this day
 Saw I him touched with anger, so distempered.
 
-<b>PROSPERO</b>, [to Ferdinand]
+<b>PROSPERO,</b> [to Ferdinand]
 You do look, my son, in a moved sort,
 As if you were dismayed. Be cheerful, sir.
 Our revels now are ended. These our actors,
@@ -2831,7 +2827,7 @@ For aye thy foot-licker.
 STEPHANO  Give me thy hand. I do begin to have bloody
 thoughts.
 
-<b>TRINCULO</b>, [seeing the apparel]  O King Stephano, O
+<b>TRINCULO,</b> [seeing the apparel]  O King Stephano, O
 peer, O worthy Stephano, look what a wardrobe
 here is for thee!
 
@@ -2913,10 +2909,9 @@ Follow and do me service.
 
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prospero in his magic robes, and Ariel.]
 
@@ -3074,7 +3069,7 @@ All torment, trouble, wonder, and amazement
 Inhabits here. Some heavenly power guide us
 Out of this fearful country!
 
-<b>PROSPERO</b>, [to Alonso]  Behold, sir king,
+<b>PROSPERO,</b> [to Alonso]  Behold, sir king,
 The wronged Duke of Milan, Prospero.
 For more assurance that a living prince
 Does now speak to thee, I embrace thy body,
@@ -3094,7 +3089,7 @@ Thou pardon me my wrongs. But how should
 Prospero
 Be living and be here?
 
-<b>PROSPERO</b>, [to Gonzalo]  First, noble friend,
+<b>PROSPERO,</b> [to Gonzalo]  First, noble friend,
 Let me embrace thine age, whose honor cannot
 Be measured or confined.
 
@@ -3110,9 +3105,9 @@ I here could pluck his Highness' frown upon you
 And justify you traitors. At this time
 I will tell no tales.
 
-<b>SEBASTIAN</b>, [aside]  The devil speaks in him.
+<b>SEBASTIAN,</b> [aside]  The devil speaks in him.
 
-<b>PROSPERO</b>, [aside to Sebastian]  No.
+<b>PROSPERO,</b> [aside to Sebastian]  No.
 [To Antonio.] For you, most wicked sir, whom to
 call brother
 Would even infect my mouth, I do forgive
@@ -3178,7 +3173,7 @@ As much as me my dukedom.
 [Here Prospero discovers Ferdinand and Miranda,
 playing at chess.]
 
-<b>MIRANDA</b>, [to Ferdinand]
+<b>MIRANDA,</b> [to Ferdinand]
 Sweet lord, you play me false.
 
 FERDINAND  No, my dearest love,
@@ -3194,7 +3189,7 @@ Shall I twice lose.
 
 SEBASTIAN  A most high miracle!
 
-<b>FERDINAND</b>, [seeing Alonso and coming forward]
+<b>FERDINAND,</b> [seeing Alonso and coming forward]
 Though the seas threaten, they are merciful.
 I have cursed them without cause.	[He kneels.]
 
@@ -3204,14 +3199,14 @@ Of a glad father compass thee about!
 Arise, and say how thou cam'st here.
 [Ferdinand stands.]
 
-<b>MIRANDA</b>, [rising and coming forward]  O wonder!
+<b>MIRANDA,</b> [rising and coming forward]  O wonder!
 How many goodly creatures are there here!
 How beauteous mankind is! O, brave new world
 That has such people in 't!
 
 PROSPERO  'Tis new to thee.
 
-<b>ALONSO</b>, [to Ferdinand]
+<b>ALONSO,</b> [to Ferdinand]
 What is this maid with whom thou wast at play?
 Your eld'st acquaintance cannot be three hours.
 Is she the goddess that hath severed us
@@ -3255,7 +3250,7 @@ Where he himself was lost; Prospero his dukedom
 In a poor isle; and all of us ourselves
 When no man was his own.
 
-<b>ALONSO</b>, [to Ferdinand and Miranda]  Give me your
+<b>ALONSO,</b> [to Ferdinand and Miranda]  Give me your
 hands.
 Let grief and sorrow still embrace his heart
 That doth not wish you joy!
@@ -3279,10 +3274,10 @@ Which, but three glasses since, we gave out split,
 Is tight and yare and bravely rigged as when
 We first put out to sea.
 
-<b>ARIEL</b>, [aside to Prospero]  Sir, all this service
+<b>ARIEL,</b> [aside to Prospero]  Sir, all this service
 Have I done since I went.
 
-<b>PROSPERO</b>, [aside to Ariel]  My tricksy spirit!
+<b>PROSPERO,</b> [aside to Ariel]  My tricksy spirit!
 
 ALONSO
 These are not natural events. They strengthen
@@ -3305,9 +3300,9 @@ Cap'ring to eye her. On a trice, so please you,
 Even in a dream were we divided from them
 And were brought moping hither.
 
-<b>ARIEL</b>, [aside to Prospero]  Was 't well done?
+<b>ARIEL,</b> [aside to Prospero]  Was 't well done?
 
-<b>PROSPERO</b>, [aside to Ariel]
+<b>PROSPERO,</b> [aside to Ariel]
 Bravely, my diligence. Thou shalt be free.
 
 ALONSO
@@ -3381,14 +3376,14 @@ shall not fear flyblowing.
 
 SEBASTIAN  Why, how now, Stephano?
 
-<b>STEPHANO  O</b>, touch me not! I am not Stephano, but a
+<b>STEPHANO  O,</b> touch me not! I am not Stephano, but a
 cramp.
 
 PROSPERO  You'd be king o' the isle, sirrah?
 
 STEPHANO  I should have been a sore one, then.
 
-<b>ALONSO</b>, [indicating Caliban]
+<b>ALONSO,</b> [indicating Caliban]
 This is as strange a thing as e'er I looked on.
 
 PROSPERO
@@ -3405,7 +3400,7 @@ And worship this dull fool!
 
 PROSPERO  Go to, away!
 
-<b>ALONSO</b>, [to Stephano and Trinculo]
+<b>ALONSO,</b> [to Stephano and Trinculo]
 Hence, and bestow your luggage where you found it.
 
 SEBASTIAN  Or stole it, rather.
@@ -3438,7 +3433,7 @@ That is thy charge. Then to the elements
 Be free, and fare thou well.--Please you, draw near.
 [They all exit.]
 
-<b>EPILOGUE</b>,
+<b>EPILOGUE,</b>
 [spoken by Prospero.]
 <hr>
 

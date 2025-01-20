@@ -9,13 +9,13 @@ Created on May 11, 2016, from FDT version 0.9.2.1
 Characters in the Play
 <hr>
 Caius MARTIUS, later Caius Martius CORIOLANUS
-<b>VOLUMNIA</b>, his mother
-<b>VIRGILIA</b>, his wife
-<b>YOUNG MARTIUS</b>, their son
-<b>VALERIA</b>, friend to Volumnia and Virgilia
+<b>VOLUMNIA,</b> his mother
+<b>VIRGILIA,</b> his wife
+<b>YOUNG MARTIUS,</b> their son
+<b>VALERIA,</b> friend to Volumnia and Virgilia
 A GENTLEWOMAN, Volumnia's attendant
 MENENIUS Agrippa, patrician
-<b>COMINIUS</b>, patrician and general
+<b>COMINIUS,</b> patrician and general
 Titus LARTIUS, patrician and military officer
 SICINIUS Velutus, tribune
 Junius BRUTUS, tribune
@@ -41,10 +41,9 @@ CITIZEN of Antium
 Roman Lords, Gentry, Captains, Lictors, Trumpeters, Drummers, Musicians, Attendants, and Usher
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a company of mutinous Citizens with staves,
 clubs, and other weapons.]
@@ -431,19 +430,19 @@ LARTIUS  No, Caius Martius,
 I'll lean upon one crutch and fight with t' other
 Ere stay behind this business.
 
-<b>MENENIUS  O</b>, true bred!
+<b>MENENIUS  O,</b> true bred!
 
 FIRST SENATOR
 Your company to th' Capitol, where I know
 Our greatest friends attend us.
 
-<b>LARTIUS</b>, [to Cominius]  Lead you on.--
+<b>LARTIUS,</b> [to Cominius]  Lead you on.--
 [To Martius.] Follow Cominius. We must follow you;
 Right worthy you priority.
 
 COMINIUS  Noble Martius.
 
-<b>FIRST SENATOR</b>, [to the Citizens]
+<b>FIRST SENATOR,</b> [to the Citizens]
 Hence to your homes, begone.
 
 MARTIUS  Nay, let them follow.
@@ -509,7 +508,7 @@ Upon this present action.
 BRUTUS  Let's along.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Tullus Aufidius with Senators of Corioles.]
 
@@ -556,7 +555,7 @@ If they set down before 's, for the remove
 Bring up your army. But I think you'll find
 They've not prepared for us.
 
-<b>AUFIDIUS  O</b>, doubt not that;
+<b>AUFIDIUS  O,</b> doubt not that;
 I speak from certainties. Nay, more,
 Some parcels of their power are forth already,
 And only hitherward. I leave your Honors.
@@ -575,7 +574,7 @@ SECOND SENATOR  Farewell.
 ALL  Farewell.
 [All exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Volumnia and Virgilia, mother and wife
 to Martius. They set them down on two low stools
@@ -718,7 +717,7 @@ not forth.
 VALERIA  In truth, la, go with me, and I'll tell you excellent
 news of your husband.
 
-<b>VIRGILIA  O</b>, good madam, there can be none yet.
+<b>VIRGILIA  O,</b> good madam, there can be none yet.
 
 VALERIA  Verily, I do not jest with you. There came
 news from him last night.
@@ -751,7 +750,7 @@ wish you much mirth.
 VALERIA  Well, then, farewell.
 [Ladies exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Martius, Titus Lartius, with Trumpet, Drum,
 and Colors, with Captains and Soldiers, as before
@@ -768,7 +767,7 @@ MARTIUS  'Tis done.
 
 LARTIUS  Agreed.
 
-<b>MARTIUS</b>, [to Messenger]
+<b>MARTIUS,</b> [to Messenger]
 Say, has our general met the enemy?
 
 MESSENGER
@@ -813,7 +812,7 @@ There is Aufidius. List what work he makes
 Amongst your cloven army.
 [They exit from the walls.]
 
-<b>MARTIUS  O</b>, they are at it!
+<b>MARTIUS  O,</b> they are at it!
 
 LARTIUS
 Their noise be our instruction.--Ladders, ho!
@@ -887,7 +886,7 @@ With them he enters, who upon the sudden
 Clapped to their gates. He is himself alone,
 To answer all the city.
 
-<b>LARTIUS  O</b>, noble fellow,
+<b>LARTIUS  O,</b> noble fellow,
 Who sensibly outdares his senseless sword,
 And when it bows, stand'st up! Thou art left,
 Martius.
@@ -905,11 +904,11 @@ by the enemy.]
 
 FIRST SOLDIER  Look, sir.
 
-<b>LARTIUS  O</b>, 'tis Martius!
+<b>LARTIUS  O,</b> 'tis Martius!
 Let's fetch him off or make remain alike.
 [They fight, and all enter the city, exiting the stage.]
 
-<b>Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter certain Romans, with spoils.]
 
@@ -962,7 +961,7 @@ Call thither all the officers o' th' town,
 Where they shall know our mind. Away!
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Cominius as it were in retire, with Soldiers.]
 
@@ -1027,7 +1026,7 @@ COMINIUS
 Ay, if you come not in the blood of others,
 But mantled in your own.
 
-<b>MARTIUS  O</b>, let me clip you
+<b>MARTIUS  O,</b> let me clip you
 In arms as sound as when I wooed, in heart
 As merry as when our nuptial day was done
 And tapers burnt to bedward!	[They embrace.]
@@ -1118,7 +1117,7 @@ Make good this ostentation, and you shall
 Divide in all with us.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-1-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Titus Lartius, having set a guard upon Corioles, going
 with Drum and Trumpet toward Cominius and Caius
@@ -1140,7 +1139,7 @@ LARTIUS  Hence, and shut your gates upon 's.
 camp conduct us.
 [They exit, the Lieutenant one way, Lartius another.]
 
-<b>Scene 8</b>
+<b id="act-1-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Alarum, as in battle.
 Enter Martius and Aufidius at several doors.]
@@ -1181,14 +1180,14 @@ In your condemned seconds.
 [Martius fights till they be driven in breathless.
 Aufidius and Martius exit, separately.]
 
-<b>Scene 9</b>
+<b id="act-1-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Alarum. A retreat is sounded. Flourish. Enter, at one
 door, Cominius with the Romans; at another door
 Martius, with his arm in a scarf.]
 
 
-<b>COMINIUS</b>, [to Martius]
+<b>COMINIUS,</b> [to Martius]
 If I should tell thee o'er this thy day's work,
 Thou 't not believe thy deeds. But I'll report it
 Where senators shall mingle tears with smiles;
@@ -1313,7 +1312,7 @@ But then Aufidius was within my view,
 And wrath o'erwhelmed my pity. I request you
 To give my poor host freedom.
 
-<b>COMINIUS  O</b>, well begged!
+<b>COMINIUS  O,</b> well begged!
 Were he the butcher of my son, he should
 Be free as is the wind.--Deliver him, Titus.
 
@@ -1329,7 +1328,7 @@ The blood upon your visage dries; 'tis time
 It should be looked to. Come.
 [A flourish of cornets. They exit.]
 
-<b>Scene 10</b>
+<b id="act-1-scene-10" class="scene-header">Scene 10</b>
 <hr>
 [Enter Tullus Aufidius bloody, with two or three Soldiers.]
 
@@ -1384,10 +1383,9 @@ SOLDIER  I shall, sir.
 Soldiers through another.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Menenius with the two Tribunes of the people,
 Sicinius and Brutus.]
@@ -1540,7 +1538,7 @@ MENENIUS  Take my cap, Jupiter, and I thank thee! [(He
 throws his cap in the air.)] Hoo! Martius coming
 home?
 
-<b>VALERIA</b>, VIRGILIA  Nay, 'tis true.
+<b>VALERIA,</b> VIRGILIA  Nay, 'tis true.
 
 VOLUMNIA  Look, here's a letter from him. [She produces
 a paper.] The state hath another, his wife another,
@@ -1560,7 +1558,7 @@ wounded? He was wont to come home wounded.
 
 VIRGILIA  O no, no, no!
 
-<b>VOLUMNIA  O</b>, he is wounded, I thank the gods for 't.
+<b>VOLUMNIA  O,</b> he is wounded, I thank the gods for 't.
 
 MENENIUS  So do I too, if it be not too much. Brings he
 victory in his pocket, the wounds become him.
@@ -1642,7 +1640,7 @@ Pray now, no more.
 
 COMINIUS  Look, sir, your mother.
 
-<b>CORIOLANUS  O</b>,
+<b>CORIOLANUS  O,</b>
 You have, I know, petitioned all the gods
 For my prosperity.	[Kneels.]
 
@@ -1690,7 +1688,7 @@ CORIOLANUS  Menenius ever, ever.
 HERALD
 Give way there, and go on!
 
-<b>CORIOLANUS</b>, [to Volumnia and Virgilia]  Your hand
+<b>CORIOLANUS,</b> [to Volumnia and Virgilia]  Your hand
 and yours.
 Ere in our own house I do shade my head,
 The good patricians must be visited,
@@ -1822,7 +1820,7 @@ But hearts for the event.
 SICINIUS  Have with you.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter two Officers, to lay cushions, as it were
 in the Capitol.]
@@ -2044,7 +2042,7 @@ SICINIUS  Sir, the people
 Must have their voices; neither will they bate
 One jot of ceremony.
 
-<b>MENENIUS</b>, [to Coriolanus]  Put them not to 't.
+<b>MENENIUS,</b> [to Coriolanus]  Put them not to 't.
 Pray you, go fit you to the custom, and
 Take to you, as your predecessors have,
 Your honor with your form.
@@ -2053,7 +2051,7 @@ CORIOLANUS  It is a part
 That I shall blush in acting, and might well
 Be taken from the people.
 
-<b>BRUTUS</b>, [to Sicinius]  Mark you that?
+<b>BRUTUS,</b> [to Sicinius]  Mark you that?
 
 CORIOLANUS
 To brag unto them "Thus I did, and thus!"
@@ -2084,7 +2082,7 @@ Of our proceedings here. On th' marketplace
 I know they do attend us.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter seven or eight Citizens.]
 
@@ -2216,7 +2214,7 @@ SECOND CITIZEN  You shall ha 't, worthy sir.
 CORIOLANUS  A match, sir. There's in all two worthy
 voices begged. I have your alms. Adieu.
 
-<b>THIRD CITIZEN</b>, [to the other Citizens]  But this is something
+<b>THIRD CITIZEN,</b> [to the other Citizens]  But this is something
 odd.
 
 SECOND CITIZEN  An 'twere to give again--but 'tis no
@@ -2514,10 +2512,9 @@ Which we have goaded onward.
 [They exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Cornets. Enter Coriolanus, Menenius, all the Gentry,
 Cominius, Titus Lartius, and other Senators.]
@@ -2850,9 +2847,9 @@ CORIOLANUS  Hence, old goat.
 ALL PATRICIANS
 We'll surety him.
 
-<b>COMINIUS</b>, [to Sicinius]  Aged sir, hands off.
+<b>COMINIUS,</b> [to Sicinius]  Aged sir, hands off.
 
-<b>CORIOLANUS</b>, [to Sicinius]
+<b>CORIOLANUS,</b> [to Sicinius]
 Hence, rotten thing, or I shall shake thy bones
 Out of thy garments.
 
@@ -2972,7 +2969,7 @@ ALL PLEBEIANS  Down with him, down with him!
 are beat in.]
 
 
-<b>MENENIUS</b>, [to Coriolanus]
+<b>MENENIUS,</b> [to Coriolanus]
 Go, get you to your house. Begone, away.
 All will be naught else.
 
@@ -3019,7 +3016,7 @@ Before the tag return, whose rage doth rend
 Like interrupted waters and o'erbear
 What they are used to bear?
 
-<b>MENENIUS</b>, [to Coriolanus]  Pray you, begone.
+<b>MENENIUS,</b> [to Coriolanus]  Pray you, begone.
 I'll try whether my old wit be in request
 With those that have but little. This must be patched
 With cloth of any color.
@@ -3185,7 +3182,7 @@ Or what is worst will follow.
 FIRST SENATOR  Pray you, let's to him.
 [All exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Coriolanus with Nobles.]
 
@@ -3235,7 +3232,7 @@ VOLUMNIA  Ay, and burn too.
 [Enter Menenius with the Senators.]
 
 
-<b>MENENIUS</b>, [to Coriolanus]
+<b>MENENIUS,</b> [to Coriolanus]
 Come, come, you have been too rough, something
 too rough.
 You must return and mend it.
@@ -3433,7 +3430,7 @@ MENENIUS  Ay, but mildly.
 CORIOLANUS  Well, mildly be it, then. Mildly.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sicinius and Brutus.]
 
@@ -3506,10 +3503,10 @@ others (Senators).]
 
 SICINIUS  Well, here he comes.
 
-<b>MENENIUS</b>, [aside to Coriolanus]  Calmly, I do beseech
+<b>MENENIUS,</b> [aside to Coriolanus]  Calmly, I do beseech
 you.
 
-<b>CORIOLANUS</b>, [aside to Menenius]
+<b>CORIOLANUS,</b> [aside to Menenius]
 Ay, as an hostler that for th' poorest piece
 Will bear the knave by th' volume.--Th' honored
 gods
@@ -3709,10 +3706,9 @@ The gods preserve our noble tribunes! Come!
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Coriolanus, Volumnia, Virgilia, Menenius,
 Cominius, with the young nobility of Rome.]
@@ -3803,7 +3799,7 @@ CORIOLANUS  Give me thy hand.
 Come.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the two Tribunes, Sicinius, and Brutus,
 with the Aedile.]
@@ -3844,16 +3840,16 @@ Requite your love!
 
 MENENIUS  Peace, peace! Be not so loud.
 
-<b>VOLUMNIA</b>, [to the Tribunes]
+<b>VOLUMNIA,</b> [to the Tribunes]
 If that I could for weeping, you should hear--
 Nay, and you shall hear some. [(To Sicinius.)] Will
 you be gone?
 
-<b>VIRGILIA</b>, [to Brutus]
+<b>VIRGILIA,</b> [to Brutus]
 You shall stay too. I would I had the power
 To say so to my husband.
 
-<b>SICINIUS</b>, [to Volumnia]  Are you mankind?
+<b>SICINIUS,</b> [to Volumnia]  Are you mankind?
 
 VOLUMNIA
 Ay, fool, is that a shame? Note but this, fool.
@@ -3893,7 +3889,7 @@ Cats, that can judge as fitly of his worth
 As I can of those mysteries which heaven
 Will not have Earth to know.
 
-<b>BRUTUS</b>, [to Sicinius]  Pray, let's go.
+<b>BRUTUS,</b> [to Sicinius]  Pray, let's go.
 
 VOLUMNIA  Now, pray, sir, get you gone.
 You have done a brave deed. Ere you go, hear this:
@@ -3929,7 +3925,7 @@ In anger, Juno-like. Come, come, come.	[They exit.]
 MENENIUS  Fie, fie, fie!
 [He exits.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Roman (Nicanor) and a Volsce (Adrian).]
 
@@ -4007,7 +4003,7 @@ cause to be glad of yours.
 ROMAN  Well, let us go together.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Coriolanus in mean apparel, disguised,
 and muffled.]
@@ -4061,7 +4057,7 @@ He does fair justice; if he give me way,
 I'll do his country service.
 [He exits.]
 
-<b>Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Music plays. Enter a Servingman.]
 
@@ -4184,7 +4180,7 @@ AUFIDIUS  Whence com'st thou? What wouldst thou?
 Thy name? Why speak'st not? Speak, man. What's
 thy name?
 
-<b>CORIOLANUS</b>, [removing his muffler]  If, Tullus,
+<b>CORIOLANUS,</b> [removing his muffler]  If, Tullus,
 Not yet thou know'st me, and seeing me, dost not
 Think me for the man I am, necessity
 Commands me name myself.
@@ -4444,7 +4440,7 @@ within.)] They are rising; they are rising.
 FIRST AND SECOND SERVINGMEN  In, in, in, in!
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter the two Tribunes. Sicinius and Brutus.]
 
@@ -4490,7 +4486,7 @@ His mother and his wife hear nothing from him.
 [Enter three or four Citizens.]
 
 
-<b>ALL CITIZENS</b>, [to the Tribunes]
+<b>ALL CITIZENS,</b> [to the Tribunes]
 The gods preserve
 you both!
 
@@ -4622,19 +4618,19 @@ What lay before them.
 [Enter Cominius.]
 
 
-<b>COMINIUS</b>, [to the Tribunes]  O, you have made good
+<b>COMINIUS,</b> [to the Tribunes]  O, you have made good
 work!
 
 MENENIUS  What news? What news?
 
-<b>COMINIUS</b>, [to the Tribunes]
+<b>COMINIUS,</b> [to the Tribunes]
 You have holp to ravish your own daughters and
 To melt the city leads upon your pates,
 To see your wives dishonored to your noses--
 
 MENENIUS  What's the news? What's the news?
 
-<b>COMINIUS</b>, [to the Tribunes]
+<b>COMINIUS,</b> [to the Tribunes]
 Your temples burned in their cement, and
 Your franchises, whereon you stood, confined
 Into an auger's bore.
@@ -4652,7 +4648,7 @@ Against us brats with no less confidence
 Than boys pursuing summer butterflies
 Or butchers killing flies.
 
-<b>MENENIUS</b>, [to the Tribunes]  You have made good work,
+<b>MENENIUS,</b> [to the Tribunes]  You have made good work,
 You and your apron-men, you that stood so much
 Upon the voice of occupation and
 The breath of garlic eaters!
@@ -4745,7 +4741,7 @@ MENENIUS
 You have made good work, you and your cry!--
 Shall 's to the Capitol?
 
-<b>COMINIUS  O</b>, ay, what else?	[Both exit.]
+<b>COMINIUS  O,</b> ay, what else?	[Both exit.]
 
 SICINIUS
 Go, masters, get you home. Be not dismayed.
@@ -4771,7 +4767,7 @@ Would buy this for a lie.
 SICINIUS  Pray, let's go.
 [Tribunes exit.]
 
-<b>Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Aufidius with his Lieutenant.]
 
@@ -4850,10 +4846,9 @@ Thou art poor'st of all; then shortly art thou mine.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Menenius, Cominius, Sicinius, Brutus (the two
 Tribunes), with others.]
@@ -4882,7 +4877,7 @@ He was a kind of nothing, titleless,
 Till he had forged himself a name o' th' fire
 Of burning Rome.
 
-<b>MENENIUS</b>, [to the Tribunes]
+<b>MENENIUS,</b> [to the Tribunes]
 Why, so; you have made good work!
 A pair of tribunes that have wracked Rome
 To make coals cheap! A noble memory!
@@ -4978,7 +4973,7 @@ For mercy to his country. Therefore let's hence
 And with our fair entreaties haste them on.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Menenius to the Watch, or Guard.]
 
@@ -5146,7 +5141,7 @@ SECOND WATCH  The worthy fellow is our general. He's
 the rock, the oak not to be wind-shaken.
 [Watch exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Coriolanus and Aufidius.]
 
@@ -5224,7 +5219,7 @@ Leave unsaluted. Sink, my knee, i' th' earth;	[Kneels.]
 Of thy deep duty more impression show
 Than that of common sons.
 
-<b>VOLUMNIA  O</b>, stand up blest,
+<b>VOLUMNIA  O,</b> stand up blest,
 [He rises.]
 Whilst with no softer cushion than the flint
 I kneel before thee and unproperly
@@ -5249,19 +5244,19 @@ The moon of Rome, chaste as the icicle
 That's curdied by the frost from purest snow
 And hangs on Dian's temple!--Dear Valeria.
 
-<b>VOLUMNIA</b>, [presenting young Martius]
+<b>VOLUMNIA,</b> [presenting young Martius]
 This is a poor epitome of yours,
 Which by th' interpretation of full time
 May show like all yourself.
 
-<b>CORIOLANUS</b>, [to young Martius]  The god of soldiers,
+<b>CORIOLANUS,</b> [to young Martius]  The god of soldiers,
 With the consent of supreme Jove, inform
 Thy thoughts with nobleness, that thou mayst prove
 To shame unvulnerable, and stick i' th' wars
 Like a great seamark standing every flaw
 And saving those that eye thee.
 
-<b>VOLUMNIA</b>, [to young Martius]  Your knee, sirrah.
+<b>VOLUMNIA,</b> [to young Martius]  Your knee, sirrah.
 [He kneels.]
 
 CORIOLANUS  That's my brave boy!
@@ -5280,7 +5275,7 @@ Wherein I seem unnatural; desire not
 T' allay my rages and revenges with
 Your colder reasons.
 
-<b>VOLUMNIA  O</b>, no more, no more!
+<b>VOLUMNIA  O,</b> no more, no more!
 You have said you will not grant us anything;
 For we have nothing else to ask but that
 Which you deny already. Yet we will ask,
@@ -5422,12 +5417,12 @@ I'll not to Rome. I'll back with you; and pray you,
 Stand to me in this cause.--O mother!--Wife!
 [He speaks with them aside.]
 
-<b>AUFIDIUS</b>, [aside]
+<b>AUFIDIUS,</b> [aside]
 I am glad thou hast set thy mercy and thy honor
 At difference in thee. Out of that I'll work
 Myself a former fortune.
 
-<b>CORIOLANUS</b>, [to the Women]  Ay, by and by;
+<b>CORIOLANUS,</b> [to the Women]  Ay, by and by;
 But we will drink together, and you shall bear
 A better witness back than words, which we,
 On like conditions, will have countersealed.
@@ -5437,7 +5432,7 @@ In Italy, and her confederate arms,
 Could not have made this peace.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Menenius and Sicinius.]
 
@@ -5492,7 +5487,7 @@ respect not us.
 [Enter a Messenger.]
 
 
-<b>MESSENGER</b>, [to Sicinius]
+<b>MESSENGER,</b> [to Sicinius]
 Sir, if you'd save your life, fly to your house.
 The plebeians have got your fellow tribune
 And hale him up and down, all swearing if
@@ -5535,7 +5530,7 @@ This morning for ten thousand of your throats
 I'd not have given a doit. Hark, how they joy!
 [Sound still with the shouts.]
 
-<b>SICINIUS</b>, [to Second Messenger]  First, the gods bless
+<b>SICINIUS,</b> [to Second Messenger]  First, the gods bless
 you for your tidings; next, accept my thankfulness.
 
 SECOND MESSENGER
@@ -5548,7 +5543,7 @@ SECOND MESSENGER  Almost at point to enter.
 SICINIUS  We'll meet them, and help the joy.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter two Senators, with Ladies (Volumnia, Virgilia,
 Valeria) passing over the stage, with other Lords.]
@@ -5567,7 +5562,7 @@ ALL  Welcome, ladies, welcome!
 [A flourish with drums and trumpets.]
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Tullus Aufidius, with Attendants.]
 
@@ -5786,7 +5781,7 @@ This orb o' th' Earth. His last offenses to us
 Shall have judicious hearing. Stand, Aufidius,
 And trouble not the peace.
 
-<b>CORIOLANUS</b>, [drawing his sword]  O, that I had him,
+<b>CORIOLANUS,</b> [drawing his sword]  O, that I had him,
 With six Aufidiuses, or more, his tribe,
 To use my lawful sword.
 

@@ -8,40 +8,40 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>GOWER</b>, fourteenth-century poet and Chorus of the play
-<b>PERICLES</b>, prince of Tyre
-<b>THAISA</b>, princess of Pentapolis and wife to Pericles
-<b>MARINA</b>, daughter of Pericles and Thaisa
+<b>GOWER,</b> fourteenth-century poet and Chorus of the play
+<b>PERICLES,</b> prince of Tyre
+<b>THAISA,</b> princess of Pentapolis and wife to Pericles
+<b>MARINA,</b> daughter of Pericles and Thaisa
 Lords of Tyre:
   HELICANUS
   ESCANES
 Three other LORDS of Tyre
-<b>ANTIOCHUS</b>, king of Antioch
-<b>DAUGHTER</b>, princess of Antioch
-<b>THALIARD</b>, nobleman of Antioch
+<b>ANTIOCHUS,</b> king of Antioch
+<b>DAUGHTER,</b> princess of Antioch
+<b>THALIARD,</b> nobleman of Antioch
 MESSENGER
-<b>CLEON</b>, governor of Tarsus
-<b>DIONYZA</b>, wife to Cleon
-<b>LEONINE</b>, servant to Dionyza
+<b>CLEON,</b> governor of Tarsus
+<b>DIONYZA,</b> wife to Cleon
+<b>LEONINE,</b> servant to Dionyza
 A LORD of Tarsus
 Three PIRATES
-<b>SIMONIDES</b>, king of Pentapolis
+<b>SIMONIDES,</b> king of Pentapolis
 Three FISHERMEN
 MARSHAL
 Five KNIGHTS, suitors for the hand of Thaisa
 LORDS of Pentapolis
-<b>LYCHORIDA</b>, attendant to Thaisa and, later, to Marina
+<b>LYCHORIDA,</b> attendant to Thaisa and, later, to Marina
 Two SAILORS, mariners onboard ship from Pentapolis
-<b>LORD CERIMON</b>, a wiseman/physician in Ephesus
-<b>PHILEMON</b>, servant to Cerimon
+<b>LORD CERIMON,</b> a wiseman/physician in Ephesus
+<b>PHILEMON,</b> servant to Cerimon
 Two SUPPLIANTS
 Two GENTLEMEN of Ephesus
 SERVANT
-<b>DIANA</b>, goddess of chastity
-<b>LYSIMACHUS</b>, governor of Mytilene
-<b>PANDER</b>, owner of brothel
-<b>BAWD</b>, mistress of brothel and wife to Pander
-<b>BOLT</b>, servant to Pander and Bawd
+<b>DIANA,</b> goddess of chastity
+<b>LYSIMACHUS,</b> governor of Mytilene
+<b>PANDER,</b> owner of brothel
+<b>BAWD,</b> mistress of brothel and wife to Pander
+<b>BOLT,</b> servant to Pander and Bawd
 Two GENTLEMEN, visitors to brothel
 Tyrian SAILOR
 SAILOR from Mytilene
@@ -50,8 +50,7 @@ LORD of Mytilene
 Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana's temple, Messenger from Tyre
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
 1 Chorus
 <hr>
@@ -104,7 +103,7 @@ What now ensues, to the judgment of your eye
 I give my cause, who best can justify.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Antiochus, Prince Pericles, and followers.]
 
@@ -252,7 +251,7 @@ What being more known grows worse, to smother it.
 All love the womb that their first being bred;
 Then give my tongue like leave to love my head.
 
-<b>ANTIOCHUS</b>, [aside]
+<b>ANTIOCHUS,</b> [aside]
 Heaven, that I had thy head! He has found the
 meaning.
 But I will gloze with him.--Young Prince of Tyre,
@@ -330,7 +329,7 @@ Let your breath cool yourself, telling your haste.
 
 MESSENGER  My lord, Prince Pericles is fled.	[He exits.]
 
-<b>ANTIOCHUS</b>, [to Thaliard]  As thou wilt live, fly after,
+<b>ANTIOCHUS,</b> [to Thaliard]  As thou wilt live, fly after,
 and like an arrow shot from a well-experienced
 archer hits the mark his eye doth level at, so thou
 never return unless thou say Prince Pericles is
@@ -345,7 +344,7 @@ Thaliard, adieu. Till Pericles be dead,
 My heart can lend no succor to my head.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pericles with an Attendant.]
 
@@ -520,7 +519,7 @@ That time of both this truth shall ne'er convince.
 Thou showed'st a subject's shine, I a true prince.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Thaliard alone.]
 
@@ -545,7 +544,7 @@ Further to question me of your king's departure.
 His sealed commission left in trust with me
 Does speak sufficiently he's gone to travel.
 
-<b>THALIARD</b>, [aside]  How? The King gone?
+<b>THALIARD,</b> [aside]  How? The King gone?
 
 HELICANUS
 If further yet you will be satisfied
@@ -553,7 +552,7 @@ Why, as it were, unlicensed of your loves
 He would depart, I'll give some light unto you.
 Being at Antioch--
 
-<b>THALIARD</b>, [aside]  What from Antioch?
+<b>THALIARD,</b> [aside]  What from Antioch?
 
 HELICANUS
 Royal Antiochus, on what cause I know not,
@@ -563,7 +562,7 @@ To show his sorrow, he'd correct himself;
 So puts himself unto the shipman's toil,
 With whom each minute threatens life or death.
 
-<b>THALIARD</b>, [aside]  Well, I perceive I shall not be hanged
+<b>THALIARD,</b> [aside]  Well, I perceive I shall not be hanged
 now, although I would; but since he's gone, the
 King's ears it must please. He 'scaped the land to
 perish at the sea. I'll present myself.--Peace to the
@@ -583,7 +582,7 @@ Yet ere you shall depart, this we desire:
 As friends to Antioch, we may feast in Tyre.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Cleon the Governor of Tarsus, with his wife
 Dionyza and others.]
@@ -629,7 +628,7 @@ And not so much to feed on as delight;
 All poverty was scorned, and pride so great,
 The name of help grew odious to repeat.
 
-<b>DIONYZA  O</b>, 'tis too true.
+<b>DIONYZA  O,</b> 'tis too true.
 
 CLEON
 But see what heaven can do by this our change:
@@ -721,7 +720,7 @@ With bloody veins expecting overthrow,
 Are stored with corn to make your needy bread
 And give them life whom hunger starved half dead.
 
-<b>ALL</b>, [kneeling]
+<b>ALL,</b> [kneeling]
 The gods of Greece protect you, and we'll pray for
 you.
 
@@ -729,7 +728,7 @@ PERICLES  Arise, I pray you, rise.
 We do not look for reverence, but for love,
 And harborage for ourself, our ships, and men.
 
-<b>CLEON</b>, [rising, with the others]
+<b>CLEON,</b> [rising, with the others]
 The which when any shall not gratify
 Or pay you with unthankfulness in thought,
 Be it our wives, our children, or ourselves,
@@ -743,8 +742,7 @@ Until our stars that frown lend us a smile.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
 2 Chorus
 <hr>
@@ -804,7 +802,7 @@ And here he comes. What shall be next,
 Pardon old Gower--this 'longs the text.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pericles, wet.]
 
@@ -859,7 +857,7 @@ whales have I heard on a' the land, who never leave
 gaping till they swallowed the whole parish--
 church, steeple, bells and all.
 
-<b>PERICLES</b>, [aside]  A pretty moral.
+<b>PERICLES,</b> [aside]  A pretty moral.
 
 THIRD FISHERMAN  But, master, if I had been the sexton,
 I would have been that day in the belfry.
@@ -873,12 +871,12 @@ never have left till he cast bells, steeple, church, and
 parish up again. But if the good King Simonides
 were of my mind--
 
-<b>PERICLES</b>, [aside]  Simonides?
+<b>PERICLES,</b> [aside]  Simonides?
 
 THIRD FISHERMAN  We would purge the land of these
 drones that rob the bee of her honey.
 
-<b>PERICLES</b>, [aside]
+<b>PERICLES,</b> [aside]
 How from the finny subject of the sea
 These fishers tell the infirmities of men,
 And from their wat'ry empire recollect
@@ -905,7 +903,7 @@ FIRST FISHERMAN  No, friend, cannot you beg? Here's
 them in our country of Greece gets more with begging
 than we can do with working.
 
-<b>SECOND FISHERMAN</b>, [to Pericles]  Canst thou catch any
+<b>SECOND FISHERMAN,</b> [to Pericles]  Canst thou catch any
 fishes, then?
 
 PERICLES  I never practiced it.
@@ -943,12 +941,12 @@ too, and so I shall 'scape whipping.
 
 PERICLES  Why, are your beggars whipped, then?
 
-<b>SECOND FISHERMAN  O</b>, not all, my friend, not all; for if
+<b>SECOND FISHERMAN  O,</b> not all, my friend, not all; for if
 all your beggars were whipped, I would wish no
 better office than to be beadle.--But, master, I'll go
 draw up the net.	[He exits with Third Fisherman.]
 
-<b>PERICLES</b>, [aside]
+<b>PERICLES,</b> [aside]
 How well this honest mirth becomes their labor!
 
 FIRST FISHERMAN  Hark you, sir, do you know where
@@ -977,7 +975,7 @@ for her love.
 PERICLES  Were my fortunes equal to my desires, I
 could wish to make one there.
 
-<b>FIRST FISHERMAN  O</b>, sir, things must be as they may;
+<b>FIRST FISHERMAN  O,</b> sir, things must be as they may;
 and what a man cannot get he may lawfully deal
 for his wife's soul.
 
@@ -1053,7 +1051,7 @@ Then honor be but a goal to my will;
 This day I'll rise or else add ill to ill.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King Simonides, with Lords, Attendants,
 and Thaisa.]
@@ -1196,7 +1194,7 @@ We will withdraw into the gallery.
 
 [Great shouts offstage, and all cry, "The mean knight."]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King Simonides, Thaisa, Marshal, Ladies,
 Lords, Attendants, and Knights in armor, from tilting.]
@@ -1211,7 +1209,7 @@ Since every worth in show commends itself.
 Prepare for mirth, for mirth becomes a feast.
 You are princes and my guests.
 
-<b>THAISA</b>, [to Pericles]  But you my knight and guest,
+<b>THAISA,</b> [to Pericles]  But you my knight and guest,
 To whom this wreath of victory I give
 And crown you king of this day's happiness.
 [She places a wreath on Pericles' head.]
@@ -1236,7 +1234,7 @@ SIMONIDES
 Your presence glads our days. Honor we love,
 For who hates honor hates the gods above.
 
-<b>MARSHAL</b>, [to Pericles]  Sir, yonder is your place.
+<b>MARSHAL,</b> [to Pericles]  Sir, yonder is your place.
 
 PERICLES  Some other is more fit.
 
@@ -1252,7 +1250,7 @@ SIMONIDES  Sit, sir, sit.	[They sit.]
 [Aside.] By Jove I wonder, that is king of thoughts,
 These cates resist me, he not thought upon.
 
-<b>THAISA</b>, [aside]
+<b>THAISA,</b> [aside]
 By Juno, that is queen of marriage,
 All viands that I eat do seem unsavory,
 Wishing him my meat.--Sure, he's a gallant
@@ -1263,10 +1261,10 @@ He's but a country gentleman;
 Has done no more than other knights have done;
 Has broken a staff or so. So let it pass.
 
-<b>THAISA</b>, [aside]
+<b>THAISA,</b> [aside]
 To me he seems like diamond to glass.
 
-<b>PERICLES</b>, [aside]
+<b>PERICLES,</b> [aside]
 Yon king's to me like to my father's picture,
 Which tells in that glory once he was--
 Had princes sit like stars about his throne,
@@ -1318,14 +1316,14 @@ Since men take women's gifts for impudence.
 SIMONIDES  How?
 Do as I bid you, or you'll move me else.
 
-<b>THAISA</b>, [aside]
+<b>THAISA,</b> [aside]
 Now, by the gods, he could not please me better.
 
 SIMONIDES
 And furthermore tell him we desire to know of him
 Of whence he is, his name and parentage.
 
-<b>THAISA</b>, [going to Pericles]
+<b>THAISA,</b> [going to Pericles]
 The King, my father, sir, has drunk to you.
 
 PERICLES  I thank him.
@@ -1348,7 +1346,7 @@ Who, looking for adventures in the world,
 Was by the rough seas reft of ships and men,
 And after shipwrack driven upon this shore.
 
-<b>THAISA</b>, [returning to her place]
+<b>THAISA,</b> [returning to her place]
 He thanks your Grace; names himself Pericles,
 A gentleman of Tyre,
 Who only by misfortune of the seas,
@@ -1395,7 +1393,7 @@ Therefore each one betake him to his rest,
 Tomorrow all for speeding do their best.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Helicanus and Escanes.]
 
@@ -1495,7 +1493,7 @@ Then you love us, we you, and we'll clasp hands.
 When peers thus knit, a kingdom ever stands.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter the King, Simonides, reading of a letter at one
 door; the Knights meet him.]
@@ -1577,7 +1575,7 @@ I am unworthy for her schoolmaster.
 SIMONIDES
 She thinks not so. Peruse this writing else.
 
-<b>PERICLES</b>, [aside]  What's here?
+<b>PERICLES,</b> [aside]  What's here?
 A letter that she loves the knight of Tyre?
 'Tis the King's subtlety to have my life.--
 O, seek not to entrap me, gracious lord,
@@ -1605,7 +1603,7 @@ PERICLES
 Even in his throat, unless it be the King
 That calls me traitor, I return the lie.
 
-<b>SIMONIDES</b>, [aside]
+<b>SIMONIDES,</b> [aside]
 Now, by the gods, I do applaud his courage.
 
 PERICLES
@@ -1665,8 +1663,7 @@ And then with what haste you can, get you to bed.
 [They exit.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
 3 Chorus
 <hr>
@@ -1750,7 +1747,7 @@ This stage the ship upon whose deck
 The sea-tossed Pericles appears to speak.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pericles, a-shipboard.]
 
@@ -1797,7 +1794,7 @@ Use honor with you.
 LYCHORIDA  Patience, good sir,
 Even for this charge.	[She hands him the infant.]
 
-<b>PERICLES</b>, [to the infant]  Now mild may be thy life,
+<b>PERICLES,</b> [to the infant]  Now mild may be thy life,
 For a more blusterous birth had never babe.
 Quiet and gentle thy conditions, for
 Thou art the rudeliest welcome to this world
@@ -1871,14 +1868,14 @@ Alter thy course for Tyre. When canst thou reach it?
 
 SECOND SAILOR  By break of day if the wind cease.
 
-<b>PERICLES  O</b>, make for Tarsus!
+<b>PERICLES  O,</b> make for Tarsus!
 There will I visit Cleon, for the babe
 Cannot hold out to Tyrus. There I'll leave it
 At careful nursing. Go thy ways, good mariner.
 I'll bring the body presently.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lord Cerimon with two Suppliants.]
 
@@ -1926,7 +1923,7 @@ SECOND GENTLEMAN
 That is the cause we trouble you so early.
 'Tis not our husbandry.
 
-<b>CERIMON  O</b>, you say well.
+<b>CERIMON  O,</b> you say well.
 
 FIRST GENTLEMAN
 But I much marvel that your Lordship, having
@@ -2079,7 +2076,7 @@ For her relapse is mortal. Come, come;
 And Aesculapius guide us.
 [They carry her away as they all exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pericles, at Tarsus, with Cleon and Dionyza, and
 Lychorida with the child.]
@@ -2150,7 +2147,7 @@ Look to your little mistress, on whose grace
 You may depend hereafter.--Come, my lord.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Cerimon and Thaisa.]
 
@@ -2182,8 +2179,7 @@ Yet my good will is great, though the gift small.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
 4 Chorus
 <hr>
@@ -2245,7 +2241,7 @@ Dionyza does appear,
 With Leonine, a murderer.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Dionyza with Leonine.]
 
@@ -2417,7 +2413,7 @@ Not carry her aboard. If she remain,
 Whom they have ravished must by me be slain.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pander, Bawd, and Bolt.]
 
@@ -2464,7 +2460,7 @@ pretty a proportion to live quietly, and so give over.
 BAWD  Why to give over, I pray you? Is it a shame to get
 when we are old?
 
-<b>PANDER  O</b>, our credit comes not in like the commodity,
+<b>PANDER  O,</b> our credit comes not in like the commodity,
 nor the commodity wages not with the danger.
 Therefore, if in our youths we could pick up some
 pretty estate, 'twere not amiss to keep our door
@@ -2483,7 +2479,7 @@ calling. But here comes Bolt.
 BOLT  Come your ways, my masters. You say she's a
 virgin?
 
-<b>PIRATE  O</b>, sir, we doubt it not.
+<b>PIRATE  O,</b> sir, we doubt it not.
 
 BOLT  Master, I have gone through for this piece you
 see. If you like her, so; if not, I have lost my
@@ -2597,7 +2593,7 @@ sun.
 BOLT  Well, if we had of every nation a traveler, we
 should lodge them with this sign.
 
-<b>BAWD</b>, [to Marina]  Pray you, come hither awhile. You
+<b>BAWD,</b> [to Marina]  Pray you, come hither awhile. You
 have fortunes coming upon you. Mark me: you
 must seem to do that fearfully which you commit
 willingly, despise profit where you have most gain.
@@ -2607,7 +2603,7 @@ opinion, and that opinion a mere profit.
 
 MARINA  I understand you not.
 
-<b>BOLT  O</b>, take her home, mistress, take her home!
+<b>BOLT  O,</b> take her home, mistress, take her home!
 These blushes of hers must be quenched with
 some present practice.
 
@@ -2639,7 +2635,7 @@ awake the beds of eels as my giving out her beauty
 stirs up the lewdly inclined. I'll bring home some
 tonight.
 
-<b>BAWD</b>, [to Marina]  Come your ways. Follow me.
+<b>BAWD,</b> [to Marina]  Come your ways. Follow me.
 
 MARINA
 If fires be hot, knives sharp, or waters deep,
@@ -2650,7 +2646,7 @@ BAWD  What have we to do with Diana, pray you? Will
 you go with us?
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cleon and Dionyza.]
 
@@ -2683,7 +2679,7 @@ Unless you play the impious innocent
 And, for an honest attribute, cry out
 "She died by foul play!"
 
-<b>CLEON  O</b>, go to. Well, well,
+<b>CLEON  O,</b> go to. Well, well,
 Of all the faults beneath the heavens, the gods
 Do like this worst.
 
@@ -2731,7 +2727,7 @@ Do swear to the gods that winter kills the flies.
 But yet I know you'll do as I advise.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Gower.]
 
@@ -2800,7 +2796,7 @@ By Lady Fortune, while our scene must play
 His daughter's woe and heavy welladay
 In her unholy service. Patience, then,
 And think you now are all in Mytilene.	[He exits.]
-<b>Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter two Gentlemen.]
 
@@ -2820,7 +2816,7 @@ FIRST GENTLEMAN  I'll do anything now that is virtuous,
 but I am out of the road of rutting forever.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Bawd, Pander, and Bolt.]
 
@@ -2852,7 +2848,7 @@ Here comes the Lord Lysimachus disguised.
 BOLT  We should have both lord and lown, if the peevish
 baggage would but give way to customers.
 
-<b>LYSIMACHUS</b>, [removing his disguise]  How now! How a
+<b>LYSIMACHUS,</b> [removing his disguise]  How now! How a
 dozen of virginities?
 
 BAWD  Now the gods to-bless your Honor!
@@ -2880,7 +2876,7 @@ but--
 
 LYSIMACHUS  What, prithee?
 
-<b>BOLT  O</b>, sir, I can be modest.
+<b>BOLT  O,</b> sir, I can be modest.
 
 LYSIMACHUS  That dignifies the renown of a bawd no
 less than it gives a good report to a number to be
@@ -2902,7 +2898,7 @@ I'll have done presently.
 
 LYSIMACHUS  I beseech you, do.	[He moves aside.]
 
-<b>BAWD</b>, [to Marina]  First, I would have you note this is
+<b>BAWD,</b> [to Marina]  First, I would have you note this is
 an honorable man.
 
 MARINA  I desire to find him so, that I may worthily
@@ -2922,7 +2918,7 @@ with gold.
 MARINA  What he will do graciously, I will thankfully
 receive.
 
-<b>LYSIMACHUS</b>, [coming forward]  Ha' you done?
+<b>LYSIMACHUS,</b> [coming forward]  Ha' you done?
 
 BAWD  My lord, she's not paced yet. You must take some
 pains to work her to your manage.--Come, we will
@@ -3006,7 +3002,7 @@ That robs thee of thy goodness! If thou dost
 Hear from me, it shall be for thy good.
 [He begins to exit.]
 
-<b>BOLT</b>, [at the door]  I beseech your Honor, one piece
+<b>BOLT,</b> [at the door]  I beseech your Honor, one piece
 for me.
 
 LYSIMACHUS  Avaunt, thou damned doorkeeper!
@@ -3034,7 +3030,7 @@ BAWD  How now, what's the matter?
 BOLT  Worse and worse, mistress. She has here spoken
 holy words to the Lord Lysimachus!
 
-<b>BAWD  O</b>, abominable!
+<b>BAWD  O,</b> abominable!
 
 BOLT  He makes our profession as it were to stink afore
 the face of the gods.
@@ -3130,8 +3126,7 @@ Come your ways.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
 
 [Enter Gower.]
@@ -3164,13 +3159,13 @@ Where what is done in action--more, if might--
    Shall be discovered. Please you sit and hark.
 [He exits.]
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Helicanus, to him two Sailors, one from the
 Tyrian ship and one from Mytilene.]
 
 
-<b>TYRIAN SAILOR</b>, [to Sailor from Mytilene]
+<b>TYRIAN SAILOR,</b> [to Sailor from Mytilene]
 Where is Lord Helicanus? He can resolve you.
 O, here he is.--
 Sir, there is a barge put off from Mytilene,
@@ -3196,11 +3191,11 @@ I pray, greet him fairly.
 [Enter Lysimachus, with Lords and Sailor from Mytilene.]
 
 
-<b>SAILOR FROM MYTILENE</b>, [to Lysimachus]  Sir,
+<b>SAILOR FROM MYTILENE,</b> [to Lysimachus]  Sir,
 This is the man that can, in aught you would,
 Resolve you.
 
-<b>LYSIMACHUS</b>, [to Helicanus]
+<b>LYSIMACHUS,</b> [to Helicanus]
 Hail, reverend sir. The gods preserve you.
 
 HELICANUS  And you, to outlive the age I am,
@@ -3274,7 +3269,7 @@ That for our gold we may provision have,
 Wherein we are not destitute for want,
 But weary for the staleness.
 
-<b>LYSIMACHUS  O</b>, sir, a courtesy
+<b>LYSIMACHUS  O,</b> sir, a courtesy
 Which, if we should deny, the most just God
 For every graft would send a caterpillar,
 And so inflict our province. Yet once more
@@ -3288,7 +3283,7 @@ I am prevented.
 [Enter Lord with Marina and her companion.]
 
 
-<b>LYSIMACHUS  O</b>, here's the lady that I sent for.--
+<b>LYSIMACHUS  O,</b> here's the lady that I sent for.--
 Welcome, fair one.--Is 't not a goodly presence?
 
 HELICANUS  She's a gallant lady.
@@ -3318,15 +3313,15 @@ MARINA [sings]
 
 
 
-<b>LYSIMACHUS</b>, [coming forward]
+<b>LYSIMACHUS,</b> [coming forward]
 Marked he your music?
 
 MARINA  No, nor looked on us.
 
-<b>LYSIMACHUS</b>, [moving aside]
+<b>LYSIMACHUS,</b> [moving aside]
 See, she will speak to him.
 
-<b>MARINA</b>, [to Pericles]  Hail, sir! My lord, lend ear.
+<b>MARINA,</b> [to Pericles]  Hail, sir! My lord, lend ear.
 
 PERICLES  Hum, ha!	[He pushes her away.]
 
@@ -3422,7 +3417,7 @@ Recount, I do beseech thee. Come, sit by me.
 MARINA
 My name is Marina.
 
-<b>PERICLES  O</b>, I am mocked,
+<b>PERICLES  O,</b> I am mocked,
 And thou by some incensed god sent hither
 To make the world to laugh at me!
 
@@ -3460,7 +3455,7 @@ Who died the minute I was born,
 As my good nurse Lychorida hath oft
 Delivered weeping.
 
-<b>PERICLES  O</b>, stop there a little!
+<b>PERICLES  O,</b> stop there a little!
 [Aside.] This is the rarest dream that e'er dull sleep
 Did mock sad fools withal. This cannot be
 My daughter, buried.--Well, where were you bred?
@@ -3549,7 +3544,7 @@ Sir, 'tis the Governor of Mytilene,
 Who, hearing of your melancholy state,
 Did come to see you.
 
-<b>PERICLES</b>, [to Lysimachus]  I embrace you.--
+<b>PERICLES,</b> [to Lysimachus]  I embrace you.--
 Give me my robes.--I am wild in my beholding.
 [They put fresh garments on him.]
 O heavens bless my girl! But hark, what music?
@@ -3629,7 +3624,7 @@ Sir, lend me your arm.
 PERICLES  Come, my Marina.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Gower.]
 
@@ -3657,7 +3652,7 @@ That he can hither come so soon
 Is by your fancies' thankful doom.
 [He exits.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cerimon and Diana's Priestesses, including
 Thaisa; at another door enter Pericles, Marina,
@@ -3712,7 +3707,7 @@ Great sir, they shall be brought you to my house,
 Whither I invite you. Look, Thaisa
 Is recovered.	[Thaisa rises.]
 
-<b>THAISA  O</b>, let me look!
+<b>THAISA  O,</b> let me look!
 If he be none of mine, my sanctity
 Will to my sense bend no licentious ear,
 But curb it, spite of seeing.--O, my lord,
@@ -3741,7 +3736,7 @@ That on the touching of her lips I may
 Melt and no more be seen.--O, come, be buried
 A second time within these arms!	[They embrace.]
 
-<b>MARINA</b>, [kneeling]  My heart
+<b>MARINA,</b> [kneeling]  My heart
 Leaps to be gone into my mother's bosom.
 
 PERICLES
@@ -3749,7 +3744,7 @@ Look who kneels here, flesh of thy flesh, Thaisa,
 Thy burden at the sea, and called Marina
 For she was yielded there.
 
-<b>THAISA</b>, [embracing Marina]  Blessed, and mine own!
+<b>THAISA,</b> [embracing Marina]  Blessed, and mine own!
 
 HELICANUS
 Hail, madam, and my queen.

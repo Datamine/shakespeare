@@ -29,7 +29,7 @@ Sons of Richard, Duke of York:
   RICHARD, later Duke of GLOUCESTER
   RUTLAND
 SIR JOHN Mortimer, York's uncle
-<b>LADY GREY</b>, later QUEEN ELIZABETH
+<b>LADY GREY,</b> later QUEEN ELIZABETH
 Earl RIVERS, brother to the queen
 Yorkist supporters:
   Duke of NORFOLK
@@ -39,7 +39,7 @@ Yorkist supporters:
   Sir William STANLEY
   Sir John MONTGOMERY
 KING LEWIS of France
-<b>LADY BONA</b>, his sister-in-law
+<b>LADY BONA,</b> his sister-in-law
 Rutland's TUTOR
 A SON that has killed his father
 A FATHER that has killed his son
@@ -60,10 +60,9 @@ SOLDIER
 Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Alarum. Enter Richard Plantagenet, Duke of York;
 Edward; Richard; Norfolk; Montague; Warwick; and
@@ -90,11 +89,11 @@ I cleft his beaver with a downright blow.
 That this is true, father, behold his blood.
 [He shows his bloody sword.]
 
-<b>MONTAGUE</b>, [to York, showing his sword]
+<b>MONTAGUE,</b> [to York, showing his sword]
 And, brother, here's the Earl of Wiltshire's blood,
 Whom I encountered as the battles joined.
 
-<b>RICHARD</b>, [holding up a severed head]
+<b>RICHARD,</b> [holding up a severed head]
 Speak thou for me, and tell them what I did.
 
 YORK
@@ -234,13 +233,13 @@ Whom should he follow but his natural king?
 WARWICK
 True, Clifford, that's Richard, Duke of York.
 
-<b>KING HENRY</b>, [to York]
+<b>KING HENRY,</b> [to York]
 And shall I stand, and thou sit in my throne?
 
 YORK
 It must and shall be so. Content thyself.
 
-<b>WARWICK</b>, [to King Henry]
+<b>WARWICK,</b> [to King Henry]
 Be Duke of Lancaster. Let him be king.
 
 WESTMORLAND
@@ -297,7 +296,7 @@ Father, tear the crown from the usurper's head.
 EDWARD
 Sweet father, do so. Set it on your head.
 
-<b>MONTAGUE</b>, [to York]
+<b>MONTAGUE,</b> [to York]
 Good brother, as thou lov'st and honorest arms,
 Let's fight it out and not stand caviling thus.
 
@@ -332,7 +331,7 @@ Henry the Fourth by conquest got the crown.
 YORK
 'Twas by rebellion against his king.
 
-<b>KING HENRY</b>, [aside]
+<b>KING HENRY,</b> [aside]
 I know not what to say; my title's weak.--
 Tell me, may not a king adopt an heir?
 
@@ -368,10 +367,10 @@ Why whisper you, my lords, and answer not?
 EXETER
 My conscience tells me he is lawful king.
 
-<b>KING HENRY</b>, [aside]
+<b>KING HENRY,</b> [aside]
 All will revolt from me and turn to him.
 
-<b>NORTHUMBERLAND</b>, [to York]
+<b>NORTHUMBERLAND,</b> [to York]
 Plantagenet, for all the claim thou lay'st,
 Think not that Henry shall be so deposed.
 
@@ -397,7 +396,7 @@ YORK
 Henry of Lancaster, resign thy crown.--
 What mutter you, or what conspire you, lords?
 
-<b>WARWICK</b>, [to King Henry]
+<b>WARWICK,</b> [to King Henry]
 Do right unto this princely Duke of York,
 Or I will fill the house with armed men,
 And over the chair of state, where now he sits,
@@ -480,7 +479,7 @@ WARWICK
 Long live King Henry! Plantagenet, embrace him.
 [York stands, and King Henry ascends the dais.]
 
-<b>KING HENRY</b>, [to York]
+<b>KING HENRY,</b> [to York]
 And long live thou and these thy forward sons!
 [They embrace.]
 
@@ -491,7 +490,7 @@ EXETER
 Accursed be he that seeks to make them foes.
 [Sennet. Here they come down.]
 
-<b>YORK</b>, [to King Henry]
+<b>YORK,</b> [to King Henry]
 Farewell, my gracious lord. I'll to my castle.
 
 WARWICK
@@ -611,7 +610,7 @@ EXETER
 And I, I hope, shall reconcile them all.
 [Flourish. They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Richard, Edward, and Montague,
 all wearing the white rose.]
@@ -758,7 +757,7 @@ Whenas the enemy hath been ten to one.
 Why should I not now have the like success?
 [Alarum. They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Rutland and his Tutor.]
 
@@ -785,7 +784,7 @@ Ah, Clifford, murder not this innocent child,
 Lest thou be hated both of God and man.
 [He exits, dragged off by Soldiers.]
 
-<b>CLIFFORD</b>, [approaching Rutland]
+<b>CLIFFORD,</b> [approaching Rutland]
 How now? Is he dead already? Or is it fear
 That makes him close his eyes? I'll open them.
 
@@ -856,7 +855,7 @@ Shall rust upon my weapon till thy blood,
 Congealed with this, do make me wipe off both.
 [He exits, with Soldiers carrying off Rutland's body.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Enter Richard, Duke of York, wearing the
 white rose.]
@@ -958,7 +957,7 @@ So triumph thieves upon their conquered booty;
 So true men yield with robbers, so o'ermatched.
 [York is overcome.]
 
-<b>NORTHUMBERLAND</b>, [to Queen Margaret]
+<b>NORTHUMBERLAND,</b> [to Queen Margaret]
 What would your Grace have done unto him now?
 
 QUEEN MARGARET
@@ -1060,7 +1059,7 @@ And every drop cries vengeance for his death
 'Gainst thee, fell Clifford, and thee, false
 Frenchwoman!
 
-<b>NORTHUMBERLAND</b>, [aside]
+<b>NORTHUMBERLAND,</b> [aside]
 Beshrew me, but his passions moves me so
 That hardly can I check my eyes from tears.
 
@@ -1097,10 +1096,10 @@ What, weeping ripe, my Lord Northumberland?
 Think but upon the wrong he did us all,
 And that will quickly dry thy melting tears.
 
-<b>CLIFFORD</b>, [stabbing York twice]
+<b>CLIFFORD,</b> [stabbing York twice]
 Here's for my oath; here's for my father's death!
 
-<b>QUEEN MARGARET</b>, [stabbing York]
+<b>QUEEN MARGARET,</b> [stabbing York]
 And here's to right our gentle-hearted king.
 
 YORK
@@ -1114,10 +1113,9 @@ So York may overlook the town of York.
 [Flourish. They exit, Soldiers carrying York's body.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [A march. Enter Edward, Richard, and their power,
 all wearing the white rose.]
@@ -1408,7 +1406,7 @@ WARWICK
 Why, then it sorts. Brave warriors, let's away!
 [They all exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Flourish. Enter King Henry, Queen Margaret,
 Clifford, Northumberland, and young Prince Edward,
@@ -1416,7 +1414,7 @@ all wearing the red rose with Drum and Trumpets,
 the head of York fixed above them.]
 
 
-<b>QUEEN MARGARET</b>, [to King Henry]
+<b>QUEEN MARGARET,</b> [to King Henry]
 Welcome, my lord, to this brave town of York.
 Yonder's the head of that arch-enemy
 That sought to be encompassed with your crown.
@@ -1486,11 +1484,11 @@ You promised knighthood to our forward son.
 Unsheathe your sword and dub him presently.--
 Edward, kneel down.	[He kneels.]
 
-<b>KING HENRY</b>, [dubbing him knight]
+<b>KING HENRY,</b> [dubbing him knight]
 Edward Plantagenet, arise a knight,
 And learn this lesson: draw thy sword in right.
 
-<b>PRINCE EDWARD</b>, [rising]
+<b>PRINCE EDWARD,</b> [rising]
 My gracious father, by your kingly leave,
 I'll draw it as apparent to the crown
 And in that quarrel use it to the death.
@@ -1700,13 +1698,13 @@ No, wrangling woman, we'll no longer stay.
 These words will cost ten thousand lives this day.
 [They all exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarum. Excursions. Enter Warwick,
 wearing the white rose.]
 
 
-<b>WARWICK</b>, [lying down]
+<b>WARWICK,</b> [lying down]
 Forspent with toil, as runners with a race,
 I lay me down a little while to breathe,
 For strokes received and many blows repaid
@@ -1723,7 +1721,7 @@ For this world frowns and Edward's sun is clouded.
 [Enter George, wearing the white rose.]
 
 
-<b>WARWICK</b>, [standing]
+<b>WARWICK,</b> [standing]
 How now, my lord, what hap? What hope of good?
 
 GEORGE
@@ -1797,7 +1795,7 @@ For yet is hope of life and victory.
 Forslow no longer; make we hence amain.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Excursions. Enter, at separate doors, Richard wearing
 the white rose, and Clifford, wearing the red rose.]
@@ -1826,7 +1824,7 @@ Nay, Warwick, single out some other chase,
 For I myself will hunt this wolf to death.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Alarum. Enter King Henry alone, wearing the red rose.]
 
@@ -2023,7 +2021,7 @@ Not that I fear to stay, but love to go
 Whither the Queen intends. Forward, away!
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [A loud alarum. Enter Clifford,
 wearing the red rose, wounded.]
@@ -2197,10 +2195,9 @@ To see these honors in possession.
 [They exit, with Clifford's body.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gamekeepers,
 with crossbows in their hands.]
@@ -2240,7 +2237,7 @@ No humble suitors press to speak for right,
 No, not a man comes for redress of thee;
 For how can I help them an not myself?
 
-<b>FIRST GAMEKEEPER</b>, [aside to Second Gamekeeper]
+<b>FIRST GAMEKEEPER,</b> [aside to Second Gamekeeper]
 Ay, here's a deer whose skin's a keeper's fee.
 This is the quondam king. Let's seize upon him.
 
@@ -2248,10 +2245,10 @@ KING HENRY
 Let me embrace the sour adversaries,
 For wise men say it is the wisest course.
 
-<b>SECOND GAMEKEEPER</b>, [aside to First Gamekeeper]
+<b>SECOND GAMEKEEPER,</b> [aside to First Gamekeeper]
 Why linger we? Let us lay hands upon him.
 
-<b>FIRST GAMEKEEPER</b>, [aside to Second Gamekeeper]
+<b>FIRST GAMEKEEPER,</b> [aside to Second Gamekeeper]
 Forbear awhile; we'll hear a little more.
 
 KING HENRY
@@ -2366,7 +2363,7 @@ And what God will, that let your king perform.
 And what he will, I humbly yield unto.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King Edward, Richard, Duke of Gloucester,
 George, Duke of Clarence, Lady Grey,
@@ -2389,14 +2386,14 @@ It were dishonor to deny it her.
 KING EDWARD
 It were no less, but yet I'll make a pause.
 
-<b>RICHARD</b>, [aside to Clarence]  Yea, is it so?
+<b>RICHARD,</b> [aside to Clarence]  Yea, is it so?
 I see the lady hath a thing to grant
 Before the King will grant her humble suit.
 
-<b>CLARENCE</b>, [formerly GEORGE, aside to Richard]
+<b>CLARENCE,</b> [formerly GEORGE, aside to Richard]
 He knows the game; how true he keeps the wind!
 
-<b>RICHARD</b>, [aside to Clarence]  Silence!
+<b>RICHARD,</b> [aside to Clarence]  Silence!
 
 KING EDWARD
 Widow, we will consider of your suit,
@@ -2407,29 +2404,29 @@ Right gracious lord, I cannot brook delay.
 May it please your Highness to resolve me now,
 And what your pleasure is shall satisfy me.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 Ay, widow? Then I'll warrant you all your lands,
 An if what pleases him shall pleasure you.
 Fight closer, or, good faith, you'll catch a blow.
 
-<b>CLARENCE</b>, [aside to Richard]
+<b>CLARENCE,</b> [aside to Richard]
 I fear her not, unless she chance to fall.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 God forbid that, for he'll take vantages.
 
 KING EDWARD
 How many children hast thou, widow? Tell me.
 
-<b>CLARENCE</b>, [aside to Richard]
+<b>CLARENCE,</b> [aside to Richard]
 I think he means to beg a child of her.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 Nay, then, whip me; he'll rather give her two.
 
 LADY GREY  Three, my most gracious lord.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 You shall have four if you'll be ruled by him.
 
 KING EDWARD
@@ -2442,7 +2439,7 @@ KING EDWARD
 Lords, give us leave. I'll try this widow's wit.
 [Richard and Clarence stand aside.]
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 Ay, good leave have you, for you will have leave
 Till youth take leave and leave you to the crutch.
 
@@ -2488,10 +2485,10 @@ Ay, but thou canst do what I mean to ask.
 LADY GREY
 Why, then, I will do what your Grace commands.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 He plies her hard, and much rain wears the marble.
 
-<b>CLARENCE</b>, [aside to Richard]
+<b>CLARENCE,</b> [aside to Richard]
 As red as fire! Nay, then, her wax must melt.
 
 LADY GREY
@@ -2510,7 +2507,7 @@ LADY GREY
 I take my leave with many thousand thanks.
 [She curtsies and begins to exit.]
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 The match is made; she seals it with a cursy.
 
 KING EDWARD
@@ -2569,13 +2566,13 @@ No, if thou dost say "no" to my demand.
 LADY GREY
 Then no, my lord; my suit is at an end.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 The widow likes him not; she knits her brows.
 
-<b>CLARENCE</b>, [aside to Richard]
+<b>CLARENCE,</b> [aside to Richard]
 He is the bluntest wooer in Christendom.
 
-<b>KING EDWARD</b>, [aside]
+<b>KING EDWARD,</b> [aside]
 Her looks doth argue her replete with modesty;
 Her words doth show her wit incomparable;
 All her perfections challenge sovereignty.
@@ -2613,10 +2610,10 @@ Have other some. Why, 'tis a happy thing
 To be the father unto many sons.
 Answer no more, for thou shalt be my queen.
 
-<b>RICHARD</b>, [aside to Clarence]
+<b>RICHARD,</b> [aside to Clarence]
 The ghostly father now hath done his shrift.
 
-<b>CLARENCE</b>, [aside to Richard]
+<b>CLARENCE,</b> [aside to Richard]
 When he was made a shriver, 'twas for shift.
 
 KING EDWARD
@@ -2737,7 +2734,7 @@ Can I do this and cannot get a crown?
 Tut, were it farther off, I'll pluck it down.
 [He exits.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter Lewis the French king, his sister
 the Lady Bona, his Admiral called Bourbon,
@@ -2823,11 +2820,11 @@ What's he approacheth boldly to our presence?
 QUEEN MARGARET
 Our Earl of Warwick, Edward's greatest friend.
 
-<b>KING LEWIS</b>, [standing]
+<b>KING LEWIS,</b> [standing]
 Welcome, brave Warwick. What brings thee to France?
 [He descends. She ariseth.]
 
-<b>QUEEN MARGARET</b>, [aside]
+<b>QUEEN MARGARET,</b> [aside]
 Ay, now begins a second storm to rise,
 For this is he that moves both wind and tide.
 
@@ -2842,10 +2839,10 @@ With nuptial knot, if thou vouchsafe to grant
 That virtuous Lady Bona, thy fair sister,
 To England's king in lawful marriage.
 
-<b>QUEEN MARGARET</b>, [aside]
+<b>QUEEN MARGARET,</b> [aside]
 If that go forward, Henry's hope is done.
 
-<b>WARWICK</b>, [speaking to Lady Bona]
+<b>WARWICK,</b> [speaking to Lady Bona]
 And, gracious madam, in our king's behalf,
 I am commanded, with your leave and favor,
 Humbly to kiss your hand, and with my tongue
@@ -2923,7 +2920,7 @@ Vouchsafe, at our request, to stand aside
 While I use further conference with Warwick.
 [They stand aloof.]
 
-<b>QUEEN MARGARET</b>, [aside]
+<b>QUEEN MARGARET,</b> [aside]
 Heavens grant that Warwick's words bewitch him
 not.
 
@@ -3019,11 +3016,11 @@ Sent from your brother, Marquess Montague.
 [(To Margaret.)] And, madam, these for you--from
 whom, I know not.	[They all read their letters.]
 
-<b>OXFORD</b>, [aside]
+<b>OXFORD,</b> [aside]
 I like it well that our fair queen and mistress
 Smiles at her news, while Warwick frowns at his.
 
-<b>PRINCE EDWARD</b>, [aside]
+<b>PRINCE EDWARD,</b> [aside]
 Nay, mark how Lewis stamps as he were nettled.
 I hope all's for the best.
 
@@ -3177,10 +3174,9 @@ But seek revenge on Edward's mockery.
 [He exits.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Richard of Gloucester, Clarence, Somerset,
 and Montague, all wearing the white rose.]
@@ -3330,7 +3326,7 @@ Unless they seek for hatred at my hands;
 Which if they do, yet will I keep thee safe,
 And they shall feel the vengeance of my wrath.
 
-<b>RICHARD</b>, [aside]
+<b>RICHARD,</b> [aside]
 I hear, yet say not much, but think the more.
 
 [Enter a Post.]
@@ -3397,7 +3393,7 @@ friendship
 That young Prince Edward marries Warwick's
 daughter.
 
-<b>CLARENCE</b>, [aside]
+<b>CLARENCE,</b> [aside]
 Belike the elder; Clarence will have the younger.--
 Now, brother king, farewell, and sit you fast,
 For I will hence to Warwick's other daughter,
@@ -3406,7 +3402,7 @@ I may not prove inferior to yourself.
 You that love me and Warwick, follow me.
 [Clarence exits, and Somerset follows.]
 
-<b>RICHARD</b>, [aside]
+<b>RICHARD,</b> [aside]
 Not I. My thoughts aim at a further matter:
 I stay not for the love of Edward, but the crown.
 
@@ -3447,7 +3443,7 @@ Now therefore let us hence and lose no hour
 Till we meet Warwick with his foreign power.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Warwick and Oxford in England,
 wearing the red rose, with French Soldiers.]
@@ -3493,7 +3489,7 @@ Why then, let's on our way in silent sort.
 For Warwick and his friends, God and Saint George!
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter three Watchmen to guard King Edward's tent,
 all wearing the white rose.]
@@ -3623,7 +3619,7 @@ To free King Henry from imprisonment
 And see him seated in the regal throne.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Rivers and Queen Elizabeth,
 wearing the white rose.]
@@ -3685,7 +3681,7 @@ Come, therefore, let us fly while we may fly.
 If Warwick take us, we are sure to die.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Richard of Gloucester, Lord Hastings,
 and Sir William Stanley, with Soldiers,
@@ -3753,7 +3749,7 @@ Bishop, farewell; shield thee from Warwick's frown,
 And pray that I may repossess the crown.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Flourish. Enter King Henry the Sixth, Clarence,
 Warwick, Somerset, young Henry Earl of Richmond,
@@ -3863,7 +3859,7 @@ Of whom you seem to have so tender care?
 SOMERSET
 My liege, it is young Henry, Earl of Richmond.
 
-<b>KING HENRY</b>, [to Richmond]
+<b>KING HENRY,</b> [to Richmond]
 Come hither, England's hope.
 [Lays his hand on Richmond's head.]
 If secret powers
@@ -3901,7 +3897,7 @@ But let us hence, my sovereign, to provide
 A salve for any sore that may betide.
 [All but Somerset, Richmond, and Oxford exit.]
 
-<b>SOMERSET</b>, [to Oxford]
+<b>SOMERSET,</b> [to Oxford]
 My lord, I like not of this flight of Edward's,
 For doubtless Burgundy will yield him help,
 And we shall have more wars before 't be long.
@@ -3923,7 +3919,7 @@ It shall be so. He shall to Brittany.
 Come, therefore, let's about it speedily.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Flourish. Enter King Edward, Richard, Hastings,
 and Soldiers, all wearing the white rose.]
@@ -3975,7 +3971,7 @@ KING EDWARD
 Why, and I challenge nothing but my dukedom,
 As being well content with that alone.
 
-<b>RICHARD</b>, [aside]
+<b>RICHARD,</b> [aside]
 But when the fox hath once got in his nose,
 He'll soon find means to make the body follow.
 
@@ -4097,7 +4093,7 @@ Come on, brave soldiers; doubt not of the day;
 And that once gotten, doubt not of large pay.
 [They exit.]
 
-<b>Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Flourish. Enter King Henry, Warwick, Montague,
 Clarence, Oxford, and Exeter, all wearing the red rose.]
@@ -4211,10 +4207,9 @@ Brave warriors, march amain towards Coventry.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Warwick, wearing the red rose, the Mayor of
 Coventry, two Messengers, and others, upon the walls.]
@@ -4458,7 +4453,7 @@ Yes, Warwick, Edward dares, and leads the way.--
 Lords, to the field! Saint George and victory!
 [They exit. March. Warwick and his company follows.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum and excursions. Enter King Edward,
 wearing the white rose, bringing forth Warwick,
@@ -4537,7 +4532,7 @@ OXFORD
 Away, away, to meet the Queen's great power!
 [Here they bear away his body. They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter King Edward in triumph, with Richard,
 Clarence, and the rest, all wearing the white rose.]
@@ -4576,7 +4571,7 @@ In every county as we go along.
 Strike up the drum, cry "Courage!" and away.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. March. Enter Queen Margaret,
 young Prince Edward, Somerset, Oxford,
@@ -4678,7 +4673,7 @@ Here pitch our battle; hence we will not budge.
 Clarence, and Soldiers, all wearing the white rose.]
 
 
-<b>KING EDWARD</b>, [to his army]
+<b>KING EDWARD,</b> [to his army]
 Brave followers, yonder stands the thorny wood
 Which by the heavens' assistance and your strength
 Must by the roots be hewn up yet ere night.
@@ -4686,7 +4681,7 @@ I need not add more fuel to your fire,
 For, well I wot, you blaze to burn them out.
 Give signal to the fight, and to it, lords!
 
-<b>QUEEN MARGARET</b>, [to her army]
+<b>QUEEN MARGARET,</b> [to her army]
 Lords, knights, and gentlemen, what I should say
 My tears gainsay, for every word I speak
 You see I drink the water of my eye.
@@ -4699,7 +4694,7 @@ You fight in justice. Then, in God's name, lords,
 Be valiant, and give signal to the fight!
 [Alarum, retreat, excursions. They exit.]
 
-<b>Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Flourish. Enter King Edward, Richard, and
 Clarence, all wearing the white rose, with Soldiers
@@ -4775,7 +4770,7 @@ Nay, take away this scolding crookback, rather.
 KING EDWARD
 Peace, willful boy, or I will charm your tongue.
 
-<b>CLARENCE</b>, [to Prince Edward]
+<b>CLARENCE,</b> [to Prince Edward]
 Untutored lad, thou art too malapert.
 
 PRINCE EDWARD
@@ -4796,7 +4791,7 @@ CLARENCE
 And there's for twitting me with perjury.
 [Clarence stabs him.]
 
-<b>QUEEN MARGARET  O</b>, kill me too!
+<b>QUEEN MARGARET  O,</b> kill me too!
 
 RICHARD  Marry, and shall.	[Offers to kill her.]
 
@@ -4811,7 +4806,7 @@ KING EDWARD
 What, doth she swoon? Use means for her recovery.
 [They attempt to revive her.]
 
-<b>RICHARD</b>, [taking Clarence aside]
+<b>RICHARD,</b> [taking Clarence aside]
 Clarence, excuse me to the King my brother.
 I'll hence to London on a serious matter.
 Ere you come there, be sure to hear some news.
@@ -4820,7 +4815,7 @@ CLARENCE  What? What?
 
 RICHARD  The Tower, the Tower!	[He exits.]
 
-<b>QUEEN MARGARET</b>, [rising from her swoon]
+<b>QUEEN MARGARET,</b> [rising from her swoon]
 O Ned, sweet Ned, speak to thy mother, boy.
 Canst thou not speak? O traitors, murderers!
 They that stabbed Caesar shed no blood at all,
@@ -4888,7 +4883,7 @@ And see our gentle queen how well she fares.
 By this I hope she hath a son for me.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter King Henry the Sixth, wearing the red rose,
 and Richard of Gloucester, wearing the white rose,
@@ -4904,7 +4899,7 @@ Ay, my good lord--"my lord," I should say rather.
 "Good Gloucester" and "good devil" were alike,
 And both preposterous: therefore, not "good lord."
 
-<b>RICHARD</b>, [to Lieutenant]
+<b>RICHARD,</b> [to Lieutenant]
 Sirrah, leave us to ourselves; we must confer.
 [Lieutenant exits.]
 
@@ -5024,7 +5019,7 @@ I'll throw thy body in another room,
 And triumph, Henry, in thy day of doom.
 [He exits, carrying out the body.]
 
-<b>Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Flourish. Enter King Edward, Queen Elizabeth,
 Clarence, Richard of Gloucester, Hastings, Nurse,
@@ -5054,7 +5049,7 @@ Went all afoot in summer's scalding heat,
 That thou mightst repossess the crown in peace,
 And of our labors thou shalt reap the gain.
 
-<b>RICHARD</b>, [aside]
+<b>RICHARD,</b> [aside]
 I'll blast his harvest, if your head were laid;
 For yet I am not looked on in the world.
 This shoulder was ordained so thick to heave,

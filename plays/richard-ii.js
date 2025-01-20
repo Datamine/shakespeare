@@ -15,12 +15,12 @@ Richard's friends:
   Sir Henry GREEN
 Richard's QUEEN
 Queen's LADIES-IN-WAITING
-<b>JOHN OF GAUNT</b>, Duke of Lancaster
-<b>HENRY BOLINGBROKE</b>, Duke of HEREFORD, son to John of Gaunt, and later King Henry IV
-<b>DUCHESS OF GLOUCESTER</b>, widow to Thomas, Duke of Gloucester
+<b>JOHN OF GAUNT,</b> Duke of Lancaster
+<b>HENRY BOLINGBROKE,</b> Duke of HEREFORD, son to John of Gaunt, and later King Henry IV
+<b>DUCHESS OF GLOUCESTER,</b> widow to Thomas, Duke of Gloucester
 Edmund, DUKE OF YORK
 DUCHESS OF YORK
-<b>DUKE OF AUMERLE</b>, Earl of Rutland, son to Duke and Duchess of York
+<b>DUKE OF AUMERLE,</b> Earl of Rutland, son to Duke and Duchess of York
 York's SERVINGMEN
 Thomas MOWBRAY, Duke of Norfolk
 Officials in trial by combat:
@@ -51,10 +51,9 @@ Servingmen to Exton
 Lords, Attendants, Officers, Soldiers, Servingmen, Exton's Men
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King Richard, John of Gaunt, with other Nobles
 and Attendants.]
@@ -153,7 +152,7 @@ Wherever Englishman durst set his foot.
 Meantime let this defend my loyalty:
 By all my hopes, most falsely doth he lie.
 
-<b>BOLINGBROKE</b>, [throwing down a gage]
+<b>BOLINGBROKE,</b> [throwing down a gage]
 Pale trembling coward, there I throw my gage,
 Disclaiming here the kindred of the King,
 And lay aside my high blood's royalty,
@@ -164,7 +163,7 @@ By that and all the rites of knighthood else
 Will I make good against thee, arm to arm,
 What I have spoke or thou canst worse devise.
 
-<b>MOWBRAY</b>, [picking up the gage]
+<b>MOWBRAY,</b> [picking up the gage]
 I take it up, and by that sword I swear
 Which gently laid my knighthood on my shoulder,
 I'll answer thee in any fair degree
@@ -294,7 +293,7 @@ Which breathed this poison.
 KING RICHARD  Rage must be withstood.
 Give me his gage. Lions make leopards tame.
 
-<b>MOWBRAY</b>, [standing]
+<b>MOWBRAY,</b> [standing]
 Yea, but not change his spots. Take but my shame
 And I resign my gage. My dear dear lord,
 The purest treasure mortal times afford
@@ -307,7 +306,7 @@ Take honor from me and my life is done.
 Then, dear my liege, mine honor let me try.
 In that I live, and for that will I die.
 
-<b>KING RICHARD</b>, [to Bolingbroke]
+<b>KING RICHARD,</b> [to Bolingbroke]
 Cousin, throw up your gage. Do you begin.
 
 BOLINGBROKE
@@ -334,7 +333,7 @@ Lord Marshal, command our officers-at-arms
 Be ready to direct these home alarms.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter John of Gaunt with the Duchess of Gloucester.]
 
@@ -432,7 +431,7 @@ Desolate, desolate, will I hence and die.
 The last leave of thee takes my weeping eye.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lord Marshal and the Duke of Aumerle.]
 
@@ -462,7 +461,7 @@ The cause of his arrival here in arms,
 Ask him his name, and orderly proceed
 To swear him in the justice of his cause.
 
-<b>MARSHAL</b>, [to Mowbray]
+<b>MARSHAL,</b> [to Mowbray]
 In God's name and the King's, say who thou art
 And why thou comest thus knightly clad in arms,
 Against what man thou com'st, and what thy quarrel.
@@ -491,7 +490,7 @@ Thus plated in habiliments of war,
 And formally, according to our law,
 Depose him in the justice of his cause.
 
-<b>MARSHAL</b>, [to Bolingbroke]
+<b>MARSHAL,</b> [to Bolingbroke]
 What is thy name? And wherefore com'st thou hither,
 Before King Richard in his royal lists?
 Against whom comest thou? And what's thy quarrel?
@@ -520,11 +519,11 @@ That vow a long and weary pilgrimage.
 Then let us take a ceremonious leave
 And loving farewell of our several friends.
 
-<b>MARSHAL</b>, [to King Richard]
+<b>MARSHAL,</b> [to King Richard]
 The appellant in all duty greets your Highness
 And craves to kiss your hand and take his leave.
 
-<b>KING RICHARD</b>, [coming down]
+<b>KING RICHARD,</b> [coming down]
 We will descend and fold him in our arms.
 [He embraces Bolingbroke.]
 Cousin of Hereford, as thy cause is right,
@@ -591,7 +590,7 @@ Receive thy lance; and God defend the right.
 BOLINGBROKE
 Strong as a tower in hope, I cry "Amen!"
 
-<b>MARSHAL</b>, [to an Officer]
+<b>MARSHAL,</b> [to an Officer]
 Go bear this lance to Thomas, Duke of Norfolk.
 [An Officer presents a lance to Mowbray.]
 
@@ -737,7 +736,7 @@ Farewell, my liege. Now no way can I stray;
 Save back to England, all the world's my way.
 [He exits.]
 
-<b>KING RICHARD</b>, [to Gaunt]
+<b>KING RICHARD,</b> [to Gaunt]
 Uncle, even in the glasses of thine eyes
 I see thy grieved heart. Thy sad aspect
 Hath from the number of his banished years
@@ -792,20 +791,20 @@ I was too strict, to make mine own away.
 But you gave leave to my unwilling tongue
 Against my will to do myself this wrong.
 
-<b>KING RICHARD</b>, [to Bolingbroke]
+<b>KING RICHARD,</b> [to Bolingbroke]
 Cousin, farewell.--And, uncle, bid him so.
 Six years we banish him, and he shall go.
 [Flourish. King Richard exits with his Attendants.]
 
-<b>AUMERLE</b>, [to Bolingbroke]
+<b>AUMERLE,</b> [to Bolingbroke]
 Cousin, farewell. What presence must not know,
 From where you do remain let paper show.
 
-<b>MARSHAL</b>, [to Bolingbroke]
+<b>MARSHAL,</b> [to Bolingbroke]
 My lord, no leave take I, for I will ride,
 As far as land will let me, by your side.
 
-<b>GAUNT</b>, [to Bolingbroke]
+<b>GAUNT,</b> [to Bolingbroke]
 O, to what purpose dost thou hoard thy words,
 That thou returnest no greeting to thy friends?
 
@@ -892,7 +891,7 @@ Where'er I wander, boast of this I can,
 Though banished, yet a trueborn Englishman.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the King with Green and Bagot, at one door,
 and the Lord Aumerle at another.]
@@ -992,10 +991,9 @@ ALL  Amen!
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter John of Gaunt sick, with the Duke of York, and
 Attendants.]
@@ -1093,10 +1091,10 @@ YORK
 The King is come. Deal mildly with his youth,
 For young hot colts being reined do rage the more.
 
-<b>QUEEN</b>, [to Gaunt]
+<b>QUEEN,</b> [to Gaunt]
 How fares our noble uncle Lancaster?
 
-<b>KING RICHARD</b>, [to Gaunt]
+<b>KING RICHARD,</b> [to Gaunt]
 What comfort, man? How is 't with aged Gaunt?
 
 GAUNT
@@ -1259,7 +1257,7 @@ Or else he never would compare between.
 KING RICHARD
 Why, uncle, what's the matter?
 
-<b>YORK  O</b>, my liege,
+<b>YORK  O,</b> my liege,
 Pardon me if you please. If not, I, pleased
 Not to be pardoned, am content withal.
 Seek you to seize and gripe into your hands
@@ -1326,7 +1324,7 @@ NORTHUMBERLAND
 Nay, speak thy mind, and let him ne'er speak more
 That speaks thy words again to do thee harm!
 
-<b>WILLOUGHBY</b>, [to Ross]
+<b>WILLOUGHBY,</b> [to Ross]
 Tends that thou wouldst speak to the Duke of
 Hereford?
 If it be so, out with it boldly, man.
@@ -1434,7 +1432,7 @@ WILLOUGHBY
 Hold out my horse, and I will first be there.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Queen, Bushy, and Bagot.]
 
@@ -1678,7 +1676,7 @@ Well, we may meet again.
 BAGOT  I fear me, never.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Bolingbroke, Duke of Hereford, and
 Northumberland.]
@@ -1750,7 +1748,7 @@ I never in my life did look on him.
 NORTHUMBERLAND
 Then learn to know him now. This is the Duke.
 
-<b>PERCY</b>, [to Bolingbroke]
+<b>PERCY,</b> [to Bolingbroke]
 My gracious lord, I tender you my service,
 Such as it is, being tender, raw, and young,
 Which elder days shall ripen and confirm
@@ -1765,7 +1763,7 @@ It shall be still thy true love's recompense.
 My heart this covenant makes, my hand thus seals it.
 [Gives Percy his hand.]
 
-<b>NORTHUMBERLAND</b>, [to Percy]
+<b>NORTHUMBERLAND,</b> [to Percy]
 How far is it to Berkeley, and what stir
 Keeps good old York there with his men of war?
 
@@ -1806,7 +1804,7 @@ Stands for my bounty. But who comes here?
 NORTHUMBERLAND
 It is my Lord of Berkeley, as I guess.
 
-<b>BERKELEY</b>, [to Bolingbroke]
+<b>BERKELEY,</b> [to Bolingbroke]
 My Lord of Hereford, my message is to you.
 
 BOLINGBROKE
@@ -1836,7 +1834,7 @@ YORK
 Show me thy humble heart and not thy knee,
 Whose duty is deceivable and false.
 
-<b>BOLINGBROKE</b>, [standing]  My gracious uncle--
+<b>BOLINGBROKE,</b> [standing]  My gracious uncle--
 
 YORK  Tut, tut!
 Grace me no grace, nor uncle me no uncle.
@@ -1896,13 +1894,13 @@ And I challenge law. Attorneys are denied me,
 And therefore personally I lay my claim
 To my inheritance of free descent.
 
-<b>NORTHUMBERLAND</b>, [to York]
+<b>NORTHUMBERLAND,</b> [to York]
 The noble duke hath been too much abused.
 
-<b>ROSS</b>, [to York]
+<b>ROSS,</b> [to York]
 It stands your Grace upon to do him right.
 
-<b>WILLOUGHBY</b>, [to York]
+<b>WILLOUGHBY,</b> [to York]
 Base men by his endowments are made great.
 
 YORK
@@ -1948,7 +1946,7 @@ Nor friends nor foes, to me welcome you are.
 Things past redress are now with me past care.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Earl of Salisbury and a Welsh Captain.]
 
@@ -1988,10 +1986,9 @@ And crossly to thy good all fortune goes.
 [He exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Bolingbroke, Duke of Hereford, York,
 Northumberland, with other Lords, and Bushy and
@@ -2057,7 +2054,7 @@ To fight with Glendower and his complices.
 A while to work, and after holiday.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Drums. Flourish and colors. Enter the King, Aumerle,
 Carlisle, and Soldiers.]
@@ -2352,7 +2349,7 @@ Discharge my followers. Let them hence away,
 From Richard's night to Bolingbroke's fair day.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter with Drum and Colors Bolingbroke, York,
 Northumberland, with Soldiers and Attendants.]
@@ -2415,7 +2412,7 @@ Of holy reverence--who, I cannot learn.
 NORTHUMBERLAND
 O, belike it is the Bishop of Carlisle.
 
-<b>BOLINGBROKE</b>, [to Northumberland]  Noble lord,
+<b>BOLINGBROKE,</b> [to Northumberland]  Noble lord,
 Go to the rude ribs of that ancient castle,
 Through brazen trumpet send the breath of parley
 Into his ruined ears, and thus deliver:
@@ -2464,7 +2461,7 @@ As bright as is the eagle's, lightens forth
 Controlling majesty. Alack, alack for woe
 That any harm should stain so fair a show!
 
-<b>KING RICHARD</b>, [to Northumberland, below]
+<b>KING RICHARD,</b> [to Northumberland, below]
 We are amazed, and thus long have we stood
 To watch the fearful bending of thy knee,
 Because we thought ourself thy lawful king.
@@ -2626,7 +2623,7 @@ Up, cousin, up. Your heart is up, I know,
 Thus high at least [indicating his crown,] although
 your knee be low.
 
-<b>BOLINGBROKE</b>, [standing]
+<b>BOLINGBROKE,</b> [standing]
 My gracious lord, I come but for mine own.
 
 KING RICHARD
@@ -2653,7 +2650,7 @@ Yea, my good lord.
 KING RICHARD  Then I must not say no.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the Queen with her Ladies-in-waiting.]
 
@@ -2713,7 +2710,7 @@ They will talk of state, for everyone doth so
 Against a change. Woe is forerun with woe.
 [Queen and Ladies step aside.]
 
-<b>GARDENER</b>, [to one Servingman]
+<b>GARDENER,</b> [to one Servingman]
 Go, bind thou up young dangling apricokes
 Which, like unruly children, make their sire
 Stoop with oppression of their prodigal weight.
@@ -2820,10 +2817,9 @@ In the remembrance of a weeping queen.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Bolingbroke with the Lords Aumerle,
 Northumberland, Harry Percy, Fitzwater, Surrey, the
@@ -2882,7 +2878,7 @@ AUMERLE
 Excepting one, I would he were the best
 In all this presence that hath moved me so.
 
-<b>FITZWATER</b>, [throwing down a gage]
+<b>FITZWATER,</b> [throwing down a gage]
 If that thy valor stand on sympathy,
 There is my gage, Aumerle, in gage to thine.
 By that fair sun which shows me where thou
@@ -2893,7 +2889,7 @@ If thou deniest it twenty times, thou liest,
 And I will turn thy falsehood to thy heart,
 Where it was forged, with my rapier's point.
 
-<b>AUMERLE</b>, [taking up the gage]
+<b>AUMERLE,</b> [taking up the gage]
 Thou dar'st not, coward, live to see that day.
 
 FITZWATER
@@ -2910,19 +2906,19 @@ And that thou art so, there I throw my gage,
 To prove it on thee to the extremest point
 Of mortal breathing. Seize it if thou dar'st.
 
-<b>AUMERLE</b>, [taking up the gage]
+<b>AUMERLE,</b> [taking up the gage]
 An if I do not, may my hands rot off
 And never brandish more revengeful steel
 Over the glittering helmet of my foe!
 
-<b>ANOTHER LORD</b>, [throwing down a gage]
+<b>ANOTHER LORD,</b> [throwing down a gage]
 I task the earth to the like, forsworn Aumerle,
 And spur thee on with full as many lies
 As may be holloed in thy treacherous ear
 From sun to sun. There is my honor's pawn.
 Engage it to the trial if thou darest.
 
-<b>AUMERLE</b>, [taking up the gage]
+<b>AUMERLE,</b> [taking up the gage]
 Who sets me else? By heaven, I'll throw at all!
 I have a thousand spirits in one breast
 To answer twenty thousand such as you.
@@ -2950,7 +2946,7 @@ In earth as quiet as thy father's skull.
 In proof whereof, there is my honor's pawn.
 Engage it to the trial if thou dar'st.
 
-<b>FITZWATER</b>, [taking up the gage]
+<b>FITZWATER,</b> [taking up the gage]
 How fondly dost thou spur a forward horse!
 If I dare eat or drink or breathe or live,
 I dare meet Surrey in a wilderness
@@ -3156,7 +3152,7 @@ God save King Henry, unkinged Richard says,
 And send him many years of sunshine days.
 What more remains?
 
-<b>NORTHUMBERLAND</b>, [offering Richard a paper]
+<b>NORTHUMBERLAND,</b> [offering Richard a paper]
 No more, but that you read
 These accusations and these grievous crimes
 Committed by your person and your followers
@@ -3332,10 +3328,9 @@ A plot shall show us all a merry day.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Queen with her Attendants.]
 
@@ -3450,7 +3445,7 @@ And must we be divided? Must we part?
 KING RICHARD
 Ay, hand from hand, my love, and heart from heart.
 
-<b>QUEEN</b>, [to Northumberland]
+<b>QUEEN,</b> [to Northumberland]
 Banish us both, and send the King with me.
 
 NORTHUMBERLAND
@@ -3489,7 +3484,7 @@ We make woe wanton with this fond delay.
 Once more, adieu! The rest let sorrow say.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke of York and the Duchess.]
 
@@ -3620,13 +3615,13 @@ Treason! Foul treason! Villain, traitor, slave!
 
 DUCHESS  What is the matter, my lord?
 
-<b>YORK</b>, [calling offstage]
+<b>YORK,</b> [calling offstage]
 Ho, who is within there? Saddle my horse!--
 God for his mercy, what treachery is here!
 
 DUCHESS  Why, what is it, my lord?
 
-<b>YORK</b>, [calling offstage]
+<b>YORK,</b> [calling offstage]
 Give me my boots, I say! Saddle my horse!--
 Now by mine honor, by my life, by my troth,
 I will appeach the villain.
@@ -3644,7 +3639,7 @@ Than my poor life must answer.
 
 DUCHESS  Thy life answer?
 
-<b>YORK</b>, [calling offstage]
+<b>YORK,</b> [calling offstage]
 Bring me my boots!--I will unto the King.
 
 [His man enters with his boots.]
@@ -3703,7 +3698,7 @@ And never will I rise up from the ground
 Till Bolingbroke have pardoned thee. Away, begone!
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King with his Nobles.]
 
@@ -3752,12 +3747,12 @@ AUMERLE
 God save your Grace. I do beseech your Majesty
 To have some conference with your Grace alone.
 
-<b>KING HENRY</b>, [to his Nobles]
+<b>KING HENRY,</b> [to his Nobles]
 Withdraw yourselves, and leave us here alone.
 [The Nobles exit.]
 What is the matter with our cousin now?
 
-<b>AUMERLE</b>, [kneeling]
+<b>AUMERLE,</b> [kneeling]
 Forever may my knees grow to the earth,
 My tongue cleave to my roof within my mouth,
 Unless a pardon ere I rise or speak.
@@ -3767,24 +3762,24 @@ Intended or committed was this fault?
 If on the first, how heinous e'er it be,
 To win thy after-love I pardon thee.
 
-<b>AUMERLE</b>, [standing]
+<b>AUMERLE,</b> [standing]
 Then give me leave that I may turn the key
 That no man enter till my tale be done.
 
 KING HENRY  Have thy desire.	[Aumerle locks the door.]
 [The Duke of York knocks at the door and crieth.]
 
-<b>YORK</b>, [within]
+<b>YORK,</b> [within]
 My liege, beware! Look to thyself!
 Thou hast a traitor in thy presence there.
 
-<b>KING HENRY</b>, [to Aumerle]  Villain, I'll make thee safe.
+<b>KING HENRY,</b> [to Aumerle]  Villain, I'll make thee safe.
 [He draws his sword.]
 
 AUMERLE
 Stay thy revengeful hand. Thou hast no cause to fear.
 
-<b>YORK</b>, [within]
+<b>YORK,</b> [within]
 Open the door, secure, foolhardy king!
 Shall I for love speak treason to thy face?
 Open the door, or I will break it open.
@@ -3797,11 +3792,11 @@ KING HENRY  What is the matter, uncle? Speak.
 Recover breath. Tell us how near is danger
 That we may arm us to encounter it.
 
-<b>YORK</b>, [giving King Henry a paper]
+<b>YORK,</b> [giving King Henry a paper]
 Peruse this writing here, and thou shalt know
 The treason that my haste forbids me show.
 
-<b>AUMERLE</b>, [to King Henry]
+<b>AUMERLE,</b> [to King Henry]
 Remember, as thou read'st, thy promise passed.
 I do repent me. Read not my name there.
 My heart is not confederate with my hand.
@@ -3832,13 +3827,13 @@ Or my shamed life in his dishonor lies.
 Thou kill'st me in his life: giving him breath,
 The traitor lives, the true man's put to death.
 
-<b>DUCHESS</b>, [within]
+<b>DUCHESS,</b> [within]
 What ho, my liege! For God's sake, let me in!
 
 KING HENRY
 What shrill-voiced suppliant makes this eager cry?
 
-<b>DUCHESS</b>, [within]
+<b>DUCHESS,</b> [within]
 A woman and thy aunt, great king. 'Tis I.
 Speak with me, pity me. Open the door!
 A beggar begs that never begged before.
@@ -3879,10 +3874,10 @@ And never see day that the happy sees,
 Till thou give joy, until thou bid me joy
 By pardoning Rutland, my transgressing boy.
 
-<b>AUMERLE</b>, [kneeling]
+<b>AUMERLE,</b> [kneeling]
 Unto my mother's prayers I bend my knee.
 
-<b>YORK</b>, [kneeling]
+<b>YORK,</b> [kneeling]
 Against them both my true joints bended be.
 Ill mayst thou thrive if thou grant any grace.
 
@@ -3959,11 +3954,11 @@ But I will have them, if I once know where.
 Uncle, farewell,--and cousin, adieu.
 Your mother well hath prayed; and prove you true.
 
-<b>DUCHESS</b>, [to Aumerle]
+<b>DUCHESS,</b> [to Aumerle]
 Come, my old son. I pray God make thee new.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Sir Pierce Exton and Servants.]
 
@@ -3989,7 +3984,7 @@ Meaning the king at Pomfret. Come, let's go.
 I am the King's friend and will rid his foe.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Richard alone.]
 
@@ -4108,10 +4103,10 @@ Spurred, galled, and tired by jauncing Bolingbroke.
 [Enter one, the Keeper, to Richard with meat.]
 
 
-<b>KEEPER</b>, [to Groom]
+<b>KEEPER,</b> [to Groom]
 Fellow, give place. Here is no longer stay.
 
-<b>RICHARD</b>, [to Groom]
+<b>RICHARD,</b> [to Groom]
 If thou love me, 'tis time thou wert away.
 
 GROOM
@@ -4128,7 +4123,7 @@ My lord, I dare not. Sir Pierce of Exton,
 Who lately came from the King, commands the
 contrary.
 
-<b>RICHARD</b>, [attacking the Keeper]
+<b>RICHARD,</b> [attacking the Keeper]
 The devil take Henry of Lancaster and thee!
 Patience is stale, and I am weary of it.
 
@@ -4162,7 +4157,7 @@ This dead king to the living king I'll bear.
 Take hence the rest and give them burial here.
 [They exit with the bodies.]
 
-<b>Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter King Henry, with the Duke of York.]
 

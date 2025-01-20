@@ -13,15 +13,15 @@ Duke of NORFOLK
 Duke of SUFFOLK
 Cardinal WOLSEY, Archbishop of Canterbury
 SECRETARIES to Wolsey
-<b>CROMWELL</b>, servant to Wolsey, later secretary to the Privy Council
+<b>CROMWELL,</b> servant to Wolsey, later secretary to the Privy Council
 Cardinal CAMPEIUS, Papal Legate
-<b>GARDINER</b>, secretary to the king, later Bishop of Winchester
+<b>GARDINER,</b> secretary to the king, later Bishop of Winchester
 PAGE to Gardiner
-<b>QUEEN KATHERINE</b>, Henry's first wife, later Princess Dowager
-<b>GRIFFITH</b>, attendant on Katherine
-<b>PATIENCE</b>, woman to Katherine
+<b>QUEEN KATHERINE,</b> Henry's first wife, later Princess Dowager
+<b>GRIFFITH,</b> attendant on Katherine
+<b>PATIENCE,</b> woman to Katherine
 Queen's GENTLEMAN USHER
-<b>CAPUCHIUS</b>, ambassador from the Emperor Charles
+<b>CAPUCHIUS,</b> ambassador from the Emperor Charles
 Duke of BUCKINGHAM
 Lord ABERGAVENNY, Buckingham's son-in-law
 Earl of SURREY, Buckingham's son-in-law
@@ -32,13 +32,13 @@ SERGEANT at Arms
 FIRST GENTLEMAN
 SECOND GENTLEMAN
 ANNE Bullen, Katherine's lady-in-waiting, later Henry's second wife and queen
-<b>OLD LADY</b>, with Anne Bullen
+<b>OLD LADY,</b> with Anne Bullen
 Lord CHAMBERLAIN
 Lord SANDS (also Sir Walter SANDS)
 Sir Thomas LOVELL
 Sir Henry GUILFORD
 Bishop of LINCOLN
-<b>CRANMER</b>, later Archbishop of Canterbury
+<b>CRANMER,</b> later Archbishop of Canterbury
 Lord CHANCELLOR
 GARTER King of Arms
 THIRD GENTLEMAN
@@ -92,10 +92,9 @@ A man may weep upon his wedding day.
 [He exits.]
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Duke of Norfolk at one door; at the other, the
 Duke of Buckingham and the Lord Abergavenny.]
@@ -152,7 +151,7 @@ Beyond thought's compass, that former fabulous story,
 Being now seen possible enough, got credit
 That Bevis was believed.
 
-<b>BUCKINGHAM  O</b>, you go far.
+<b>BUCKINGHAM  O,</b> you go far.
 
 NORFOLK
 As I belong to worship, and affect
@@ -219,7 +218,7 @@ Kinsmen of mine, three at the least, that have
 By this so sickened their estates that never
 They shall abound as formerly.
 
-<b>BUCKINGHAM  O</b>, many
+<b>BUCKINGHAM  O,</b> many
 Have broke their backs with laying manors on 'em
 For this great journey. What did this vanity
 But minister communication of
@@ -274,7 +273,7 @@ The Cardinal in his passage fixeth his eye on Buckingham,
 and Buckingham on him, both full of disdain.]
 
 
-<b>WOLSEY</b>, [aside to a Secretary]
+<b>WOLSEY,</b> [aside to a Secretary]
 The Duke of Buckingham's surveyor, ha?
 Where's his examination?
 
@@ -402,13 +401,13 @@ or three of the Guard.]
 BRANDON
 Your office, Sergeant: execute it.
 
-<b>SERGEANT</b>, [to Buckingham]  Sir,
+<b>SERGEANT,</b> [to Buckingham]  Sir,
 My lord the Duke of Buckingham and Earl
 Of Hertford, Stafford, and Northampton, I
 Arrest thee of high treason, in the name
 Of our most sovereign king.
 
-<b>BUCKINGHAM</b>, [to Norfolk]  Lo you, my lord,
+<b>BUCKINGHAM,</b> [to Norfolk]  Lo you, my lord,
 The net has fall'n upon me. I shall perish
 Under device and practice.
 
@@ -443,7 +442,7 @@ These are the limbs o' th' plot. No more, I hope.
 BRANDON
 A monk o' th' Chartreux.
 
-<b>BUCKINGHAM  O</b>, Michael Hopkins?
+<b>BUCKINGHAM  O,</b> Michael Hopkins?
 
 BRANDON  He.
 
@@ -456,7 +455,7 @@ By dark'ning my clear sun. [To Norfolk.] My lord,
 farewell.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Cornets. Enter King Henry, leaning on the Cardinal's
 shoulder, with the Nobles, Sir Thomas Lovell, and
@@ -465,7 +464,7 @@ The Cardinal places himself under the King's feet on
 his right side.]
 
 
-<b>KING</b>, [to Wolsey]
+<b>KING,</b> [to Wolsey]
 My life itself, and the best heart of it,
 Thanks you for this great care. I stood i' th' level
 Of a full-charged confederacy, and give thanks
@@ -608,7 +607,7 @@ Free pardon to each man that has denied
 The force of this commission. Pray look to 't;
 I put it to your care.
 
-<b>WOLSEY</b>, [aside to his Secretary]  A word with you.
+<b>WOLSEY,</b> [aside to his Secretary]  A word with you.
 Let there be letters writ to every shire
 Of the King's grace and pardon. The grieved commons
 Hardly conceive of me. Let it be noised
@@ -619,7 +618,7 @@ Further in the proceeding.	[Secretary exits.]
 [Enter Buckingham's Surveyor.]
 
 
-<b>QUEEN KATHERINE</b>, [to the King]
+<b>QUEEN KATHERINE,</b> [to the King]
 I am sorry that the Duke of Buckingham
 Is run in your displeasure.
 
@@ -668,7 +667,7 @@ Beyond you to your friends.
 QUEEN KATHERINE  My learned Lord Cardinal,
 Deliver all with charity.
 
-<b>KING</b>, [to Surveyor]  Speak on.
+<b>KING,</b> [to Surveyor]  Speak on.
 How grounded he his title to the crown
 Upon our fail? To this point hast thou heard him
 At any time speak aught?
@@ -762,7 +761,7 @@ And this man out of prison?
 
 QUEEN KATHERINE  God mend all.
 
-<b>KING</b>, [to Surveyor]
+<b>KING,</b> [to Surveyor]
 There's something more would out of thee. What sayst?
 
 SURVEYOR
@@ -782,7 +781,7 @@ Let him not seek 't of us. By day and night,
 He's traitor to th' height!
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lord Chamberlain and Lord Sands.]
 
@@ -879,7 +878,7 @@ Whither were you a-going?
 LOVELL  To the Cardinal's.
 Your Lordship is a guest too.
 
-<b>CHAMBERLAIN  O</b>, 'tis true.
+<b>CHAMBERLAIN  O,</b> 'tis true.
 This night he makes a supper, and a great one,
 To many lords and ladies. There will be
 The beauty of this kingdom, I'll assure you.
@@ -908,7 +907,7 @@ This night to be comptrollers.
 SANDS  I am your Lordship's.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Hautboys. A small table under a state for the Cardinal, a
 longer table for the guests. Then enter Anne Bullen and
@@ -1112,7 +1111,7 @@ By all your good leaves, gentlemen.
 Here I'll make
 My royal choice.
 
-<b>KING</b>, [unmasking]  You have found him, cardinal.
+<b>KING,</b> [unmasking]  You have found him, cardinal.
 You hold a fair assembly; you do well, lord.
 You are a churchman, or I'll tell you, cardinal,
 I should judge now unhappily.
@@ -1159,10 +1158,9 @@ Who's best in favor. Let the music knock it.
 [They exit, with Trumpets.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen at several doors.]
 
@@ -1170,7 +1168,7 @@ Who's best in favor. Let the music knock it.
 FIRST GENTLEMAN
 Whither away so fast?
 
-<b>SECOND GENTLEMAN  O</b>, God save you.
+<b>SECOND GENTLEMAN  O,</b> God save you.
 E'en to the Hall to hear what shall become
 Of the great Duke of Buckingham.
 
@@ -1331,7 +1329,7 @@ To th' waterside I must conduct your Grace,
 Then give my charge up to Sir Nicholas Vaux,
 Who undertakes you to your end.
 
-<b>VAUX</b>, [calling as to Officers offstage]  Prepare there!
+<b>VAUX,</b> [calling as to Officers offstage]  Prepare there!
 The Duke is coming. See the barge be ready,
 And fit it with such furniture as suits
 The greatness of his person.
@@ -1431,7 +1429,7 @@ We are too open here to argue this.
 Let's think in private more.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lord Chamberlain, reading this letter.]
 
@@ -1539,13 +1537,13 @@ Chamberlain.
 [Lord Chamberlain exits; and the King draws
 the curtain and sits reading pensively.]
 
-<b>SUFFOLK</b>, [to Norfolk]
+<b>SUFFOLK,</b> [to Norfolk]
 How sad he looks! Sure he is much afflicted.
 
 KING
 Who's there? Ha?
 
-<b>NORFOLK</b>, [to Suffolk]  Pray God he be not angry.
+<b>NORFOLK,</b> [to Suffolk]  Pray God he be not angry.
 
 KING
 Who's there, I say? How dare you thrust yourselves
@@ -1575,19 +1573,19 @@ WOLSEY  Sir, you cannot.
 I would your Grace would give us but an hour
 Of private conference.
 
-<b>KING</b>, [to Norfolk and Suffolk]  We are busy. Go.
+<b>KING,</b> [to Norfolk and Suffolk]  We are busy. Go.
 
-<b>NORFOLK</b>, [aside to Suffolk]
+<b>NORFOLK,</b> [aside to Suffolk]
 This priest has no pride in him?
 
-<b>SUFFOLK</b>, [aside to Norfolk]  Not to speak of.
+<b>SUFFOLK,</b> [aside to Norfolk]  Not to speak of.
 I would not be so sick, though for his place.
 But this cannot continue.
 
-<b>NORFOLK</b>, [aside to Suffolk]  If it do,
+<b>NORFOLK,</b> [aside to Suffolk]  If it do,
 I'll venture one have-at-him.
 
-<b>SUFFOLK</b>, [aside to Norfolk]  I another.
+<b>SUFFOLK,</b> [aside to Norfolk]  I another.
 [Norfolk and Suffolk exit.]
 
 WOLSEY
@@ -1611,7 +1609,7 @@ And thank the holy conclave for their loves.
 They have sent me such a man I would have wished
 for.	[He embraces Campeius.]
 
-<b>CAMPEIUS</b>, [handing the King a paper]
+<b>CAMPEIUS,</b> [handing the King a paper]
 Your Grace must needs deserve all strangers' loves,
 You are so noble. To your Highness' hand
 I tender my commission--by whose virtue,
@@ -1638,11 +1636,11 @@ I find him a fit fellow.	[Wolsey goes to the door.]
 [Enter Gardiner to Wolsey.]
 
 
-<b>WOLSEY</b>, [aside to Gardiner]
+<b>WOLSEY,</b> [aside to Gardiner]
 Give me your hand. Much joy and favor to you.
 You are the King's now.
 
-<b>GARDINER</b>, [aside to Wolsey]  But to be commanded
+<b>GARDINER,</b> [aside to Wolsey]  But to be commanded
 Forever by your Grace, whose hand has raised me.
 
 KING  Come hither, Gardiner.
@@ -1679,7 +1677,7 @@ If I command him follows my appointment.
 I will have none so near else. Learn this, brother:
 We live not to be griped by meaner persons.
 
-<b>KING</b>, [to Gardiner]
+<b>KING,</b> [to Gardiner]
 Deliver this with modesty to th' Queen.
 [Gardiner exits.]
 The most convenient place that I can think of
@@ -1691,7 +1689,7 @@ So sweet a bedfellow? But, conscience, conscience!
 O, 'tis a tender place, and I must leave her.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Anne Bullen and an old Lady.]
 
@@ -1712,7 +1710,7 @@ Would move a monster.
 OLD LADY  Hearts of most hard temper
 Melt and lament for her.
 
-<b>ANNE  O</b>, God's will! Much better
+<b>ANNE  O,</b> God's will! Much better
 She ne'er had known pomp; though 't be temporal,
 Yet if that quarrel, Fortune, do divorce
 It from the bearer, 'tis a sufferance panging
@@ -1871,7 +1869,7 @@ What here you've heard to her.
 OLD LADY  What do you think me?
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Trumpets, sennet, and cornets. Enter two Vergers, with
 short silver wands; next them, two Scribes, in the habit of
@@ -2194,7 +2192,7 @@ Meanwhile must be an earnest motion
 Made to the Queen to call back her appeal
 She intends unto his Holiness.
 
-<b>KING</b>, [aside]  I may perceive
+<b>KING,</b> [aside]  I may perceive
 These cardinals trifle with me. I abhor
 This dilatory sloth and tricks of Rome.
 My learned and well-beloved servant Cranmer,
@@ -2204,10 +2202,9 @@ I say, set on.
 [They exit, in manner as they entered.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Queen and her Women, as at work.]
 
@@ -2284,7 +2281,7 @@ Out with it boldly. Truth loves open dealing.
 WOLSEY  Tanta est erga te mentis integritas, regina
 serenissima--
 
-<b>QUEEN KATHERINE  O</b>, good my lord, no Latin!
+<b>QUEEN KATHERINE  O,</b> good my lord, no Latin!
 I am not such a truant since my coming
 As not to know the language I have lived in.
 A strange tongue makes my cause more strange,
@@ -2316,7 +2313,7 @@ Both of his truth and him--which was too far--
 Offers, as I do, in a sign of peace,
 His service and his counsel.
 
-<b>QUEEN KATHERINE</b>, [aside]  To betray me.--
+<b>QUEEN KATHERINE,</b> [aside]  To betray me.--
 My lords, I thank you both for your good wills.
 You speak like honest men; pray God you prove so.
 But how to make you suddenly an answer
@@ -2478,7 +2475,7 @@ That little thought, when she set footing here,
 She should have bought her dignities so dear.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Duke of Norfolk, Duke of Suffolk, Lord Surrey,
 and Lord Chamberlain.]
@@ -2511,7 +2508,7 @@ Bar his access to th' King, never attempt
 Anything on him, for he hath a witchcraft
 Over the King in 's tongue.
 
-<b>NORFOLK  O</b>, fear him not.
+<b>NORFOLK  O,</b> fear him not.
 His spell in that is out. The King hath found
 Matter against him that forever mars
 The honey of his language. No, he's settled,
@@ -2531,7 +2528,7 @@ His practices to light?
 
 SUFFOLK  Most strangely.
 
-<b>SURREY  O</b>, how, how?
+<b>SURREY  O,</b> how, how?
 
 SUFFOLK
 The Cardinal's letters to the Pope miscarried
@@ -2663,7 +2660,7 @@ Does whet his anger to him.
 SURREY  Sharp enough,
 Lord, for thy justice!
 
-<b>WOLSEY</b>, [aside]
+<b>WOLSEY,</b> [aside]
 The late queen's gentlewoman, a knight's daughter,
 To be her mistress' mistress? The Queen's queen?
 This candle burns not clear. 'Tis I must snuff it;
@@ -2696,7 +2693,7 @@ Does he rake this together? [Seeing the nobles.] Now,
 my lords,
 Saw you the Cardinal?
 
-<b>NORFOLK</b>, [indicating Wolsey]  My lord, we have
+<b>NORFOLK,</b> [indicating Wolsey]  My lord, we have
 Stood here observing him. Some strange commotion
 Is in his brain. He bites his lip, and starts,
 Stops on a sudden, looks upon the ground,
@@ -2721,7 +2718,7 @@ NORFOLK  It's heaven's will!
 Some spirit put this paper in the packet
 To bless your eye withal.
 
-<b>KING</b>, [studying Wolsey]  If we did think
+<b>KING,</b> [studying Wolsey]  If we did think
 His contemplation were above the Earth
 And fixed on spiritual object, he should still
 Dwell in his musings, but I am afraid
@@ -2767,9 +2764,9 @@ Employed you where high profits might come home,
 But pared my present havings to bestow
 My bounties upon you.
 
-<b>WOLSEY</b>, [aside]  What should this mean?
+<b>WOLSEY,</b> [aside]  What should this mean?
 
-<b>SURREY</b>, [aside]
+<b>SURREY,</b> [aside]
 The Lord increase this business!
 
 KING  Have I not made you
@@ -3016,7 +3013,7 @@ Of all the kingdom. Many more there are
 Which, since they are of you, and odious,
 I will not taint my mouth with.
 
-<b>CHAMBERLAIN  O</b>, my lord,
+<b>CHAMBERLAIN  O,</b> my lord,
 Press not a falling man too far! 'Tis virtue.
 His faults lie open to the laws; let them,
 Not you, correct him. My heart weeps to see him
@@ -3150,7 +3147,7 @@ Thy hopeful service perish too. Good Cromwell,
 Neglect him not. Make use now, and provide
 For thine own future safety.
 
-<b>CROMWELL</b>, [weeping]  O, my lord,
+<b>CROMWELL,</b> [weeping]  O, my lord,
 Must I then leave you? Must I needs forgo
 So good, so noble, and so true a master?
 Bear witness, all that have not hearts of iron,
@@ -3158,7 +3155,7 @@ With what a sorrow Cromwell leaves his lord.
 The King shall have my service, but my prayers
 Forever and forever shall be yours.
 
-<b>WOLSEY</b>, [weeping]
+<b>WOLSEY,</b> [weeping]
 Cromwell, I did not think to shed a tear
 In all my miseries, but thou hast forced me,
 Out of thy honest truth, to play the woman.
@@ -3198,10 +3195,9 @@ The hopes of court! My hopes in heaven do dwell.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen, meeting one another, the First
 Gentleman carrying a paper.]
@@ -3461,7 +3457,7 @@ I'll tell you more.
 BOTH  You may command us, sir.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Katherine Dowager, sick, led between Griffith, her
 gentleman usher, and Patience, her woman.]
@@ -3599,7 +3595,7 @@ the garland with them.]
 
 [The music continues.]
 
-<b>KATHERINE</b>, [waking]
+<b>KATHERINE,</b> [waking]
 Spirits of peace, where are you? Are you all gone,
 And leave me here in wretchedness behind you?
 
@@ -3626,12 +3622,12 @@ Possess your fancy.
 KATHERINE  Bid the music leave.
 They are harsh and heavy to me.	[Music ceases.]
 
-<b>PATIENCE</b>, [aside to Griffith]  Do you note
+<b>PATIENCE,</b> [aside to Griffith]  Do you note
 How much her Grace is altered on the sudden?
 How long her face is drawn? How pale she looks,
 And of an earthy cold? Mark her eyes.
 
-<b>GRIFFITH</b>, [aside to Patience]
+<b>GRIFFITH,</b> [aside to Patience]
 She is going, wench. Pray, pray.
 
 PATIENCE  Heaven comfort her!
@@ -3639,17 +3635,17 @@ PATIENCE  Heaven comfort her!
 [Enter a Messenger.]
 
 
-<b>MESSENGER</b>, [to Katherine]
+<b>MESSENGER,</b> [to Katherine]
 An 't like your Grace--
 
 KATHERINE  You are a saucy fellow.
 Deserve we no more reverence?
 
-<b>GRIFFITH</b>, [to Messenger]  You are to blame,
+<b>GRIFFITH,</b> [to Messenger]  You are to blame,
 Knowing she will not lose her wonted greatness,
 To use so rude behavior. Go to. Kneel.
 
-<b>MESSENGER</b>, [kneeling]
+<b>MESSENGER,</b> [kneeling]
 I humbly do entreat your Highness' pardon.
 My haste made me unmannerly. There is staying
 A gentleman sent from the King to see you.
@@ -3756,10 +3752,9 @@ I can no more.
 [They exit, leading Katherine.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Gardiner, Bishop of Winchester, a Page with a
 torch before him, met by Sir Thomas Lovell.]
@@ -3920,7 +3915,7 @@ He attends your Highness' pleasure.
 KING  Bring him to us.
 [Denny exits.]
 
-<b>LOVELL</b>, [aside]
+<b>LOVELL,</b> [aside]
 This is about that which the Bishop spake.
 I am happily come hither.
 
@@ -3932,14 +3927,14 @@ Avoid the gallery.	[Lovell seems to stay.]
 Ha! I have said. Be gone!
 What!	[Lovell and Denny exit.]
 
-<b>CRANMER</b>, [aside]  I am fearful. Wherefore frowns he thus?
+<b>CRANMER,</b> [aside]  I am fearful. Wherefore frowns he thus?
 'Tis his aspect of terror. All's not well.
 
 KING
 How now, my lord? You do desire to know
 Wherefore I sent for you.
 
-<b>CRANMER</b>, [kneeling]  It is my duty
+<b>CRANMER,</b> [kneeling]  It is my duty
 T' attend your Highness' pleasure.
 
 KING  Pray you arise,
@@ -3963,7 +3958,7 @@ To make your house our Tower. You a brother of us,
 It fits we thus proceed, or else no witness
 Would come against you.
 
-<b>CRANMER</b>, [kneeling]  I humbly thank your
+<b>CRANMER,</b> [kneeling]  I humbly thank your
 Highness,
 And am right glad to catch this good occasion
 Most throughly to be winnowed, where my chaff
@@ -4069,7 +4064,7 @@ I'll have more or else unsay 't. And now,
 While 'tis hot, I'll put it to the issue.
 [Old Lady exits, with Lovell.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cranmer, Archbishop of Canterbury. (Pages,
 Footboys, Grooms, and other servants attend at the
@@ -4100,12 +4095,12 @@ CRANMER  So.
 [Enter Doctor Butts.]
 
 
-<b>BUTTS</b>, [aside]
+<b>BUTTS,</b> [aside]
 This is a piece of malice. I am glad
 I came this way so happily. The King
 Shall understand it presently.	[Butts exits.]
 
-<b>CRANMER</b>, [aside]  'Tis Butts,
+<b>CRANMER,</b> [aside]  'Tis Butts,
 The King's physician. As he passed along
 How earnestly he cast his eyes upon me!
 Pray heaven he sound not my disgrace. For certain
@@ -4169,7 +4164,7 @@ Has he had knowledge of it?
 
 CROMWELL  Yes.
 
-<b>NORFOLK</b>, [to Keeper]  Who waits there?
+<b>NORFOLK,</b> [to Keeper]  Who waits there?
 
 KEEPER
 Without, my noble lords?
@@ -4182,7 +4177,7 @@ And has done half an hour, to know your pleasures.
 CHANCELLOR
 Let him come in.
 
-<b>KEEPER</b>, [at door]  Your Grace may enter now.
+<b>KEEPER,</b> [at door]  Your Grace may enter now.
 [Cranmer approaches the council table.]
 
 CHANCELLOR
@@ -4303,7 +4298,7 @@ GARDINER  I have done.
 
 CROMWELL  And I.
 
-<b>CHANCELLOR</b>, [to Cranmer]
+<b>CHANCELLOR,</b> [to Cranmer]
 Then thus for you, my lord: it stands agreed,
 I take it, by all voices, that forthwith
 You be conveyed to th' Tower a prisoner,
@@ -4443,7 +4438,7 @@ Embrace and love this man.
 GARDINER  With a true heart
 And brother-love I do it.	[He embraces Cranmer.]
 
-<b>CRANMER</b>, [weeping]  And let heaven
+<b>CRANMER,</b> [weeping]  And let heaven
 Witness how dear I hold this confirmation.
 
 KING
@@ -4457,7 +4452,7 @@ As I have made you one, lords, one remain.
 So I grow stronger, you more honor gain.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Noise and tumult within. Enter Porter and his Man,
 carrying cudgels.]
@@ -4467,7 +4462,7 @@ PORTER  You'll leave your noise anon, you rascals! Do
 you take the court for Parish Garden? You rude
 slaves, leave your gaping!
 
-<b>ONE</b>, [within]  Good Master Porter, I belong to th'
+<b>ONE,</b> [within]  Good Master Porter, I belong to th'
 larder.
 
 PORTER  Belong to th' gallows and be hanged, you rogue!
@@ -4502,7 +4497,7 @@ He or she, cuckold or cuckold-maker,
 Let me ne'er hope to see a chine again--
 And that I would not for a cow, God save her!
 
-<b>ONE</b>, [within]  Do you hear, Master Porter?
+<b>ONE,</b> [within]  Do you hear, Master Porter?
 
 PORTER  I shall be with you presently, good master
 puppy.-- Keep the door close, sirrah.
@@ -4590,7 +4585,7 @@ You i' th' camlet, get up o' th' rail!
 I'll peck you o'er the pales else.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Trumpets, sounding. Then two Aldermen, Lord
 Mayor, Garter, Cranmer, Duke of Norfolk with his
@@ -4610,7 +4605,7 @@ and mighty princess of England, Elizabeth.
 [Flourish. Enter King and Guard.]
 
 
-<b>CRANMER</b>, [kneeling]
+<b>CRANMER,</b> [kneeling]
 And to your royal Grace and the good queen,
 My noble partners and myself thus pray
 All comfort, joy, in this most gracious lady
@@ -4631,7 +4626,7 @@ Into whose hand I give thy life.
 
 CRANMER  Amen.
 
-<b>KING</b>, [to the two godmothers]
+<b>KING,</b> [to the two godmothers]
 My noble gossips, you've been too prodigal.
 I thank you heartily; so shall this lady
 When she has so much English.

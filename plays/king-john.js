@@ -8,24 +8,24 @@ Created on Oct 4, 2017, from FDT version 0.9.2.2
 
 Characters in the Play
 <hr>
-<b>JOHN</b>, King of England, with dominion over assorted Continental territories
-<b>QUEEN ELEANOR</b>, King John's mother, widow of King Henry II
+<b>JOHN,</b> King of England, with dominion over assorted Continental territories
+<b>QUEEN ELEANOR,</b> King John's mother, widow of King Henry II
 BLANCHE of Spain, niece to King John
-<b>PRINCE HENRY</b>, son to King John
-<b>CONSTANCE</b>, widow of Geoffrey, King John's elder brother
-<b>ARTHUR</b>, Duke of Brittany, her son
+<b>PRINCE HENRY,</b> son to King John
+<b>CONSTANCE,</b> widow of Geoffrey, King John's elder brother
+<b>ARTHUR,</b> Duke of Brittany, her son
 KING PHILIP II of France
-<b>LOUIS THE DAUPHIN</b>, his son
+<b>LOUIS THE DAUPHIN,</b> his son
 DUKE OF AUSTRIA (also called LIMOGES)
-<b>CHATILLION</b>, ambassador from France to King John
+<b>CHATILLION,</b> ambassador from France to King John
 COUNT MELUN
 A FRENCH HERALD
-<b>CARDINAL PANDULPH</b>, Papal Legate
+<b>CARDINAL PANDULPH,</b> Papal Legate
 LADY FAULCONBRIDGE
 The BASTARD, PHILIP FAULCONBRIDGE, her son by King Richard I
-<b>ROBERT FAULCONBRIDGE</b>, her son by Sir Robert Faulconbridge
-<b>JAMES GURNEY</b>, her servant
-<b>HUBERT</b>, supporter of King John
+<b>ROBERT FAULCONBRIDGE,</b> her son by Sir Robert Faulconbridge
+<b>JAMES GURNEY,</b> her servant
+<b>HUBERT,</b> supporter of King John
 English nobles:
   EARL OF SALISBURY
   EARL OF PEMBROKE
@@ -38,10 +38,9 @@ EXECUTIONERS
 English MESSENGER, French MESSENGER, Sheriff, Lords, Soldiers, Attendants
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King John, Queen Eleanor, Pembroke, Essex, and
 Salisbury, with the Chatillion of France.]
@@ -98,7 +97,7 @@ An honorable conduct let him have.
 Pembroke, look to 't.--Farewell, Chatillion.
 [Chatillion and Pembroke exit.]
 
-<b>QUEEN ELEANOR</b>, [aside to King John]
+<b>QUEEN ELEANOR,</b> [aside to King John]
 What now, my son! Have I not ever said
 How that ambitious Constance would not cease
 Till she had kindled France and all the world
@@ -108,10 +107,10 @@ With very easy arguments of love,
 Which now the manage of two kingdoms must
 With fearful bloody issue arbitrate.
 
-<b>KING JOHN</b>, [aside to Queen Eleanor]
+<b>KING JOHN,</b> [aside to Queen Eleanor]
 Our strong possession and our right for us.
 
-<b>QUEEN ELEANOR</b>, [aside to King John]
+<b>QUEEN ELEANOR,</b> [aside to King John]
 Your strong possession much more than your right,
 Or else it must go wrong with you and me--
 So much my conscience whispers in your ear,
@@ -140,7 +139,7 @@ As I suppose, to Robert Faulconbridge,
 A soldier, by the honor-giving hand
 Of Coeur de Lion knighted in the field.
 
-<b>KING JOHN</b>, [to Robert Faulconbridge]  What art thou?
+<b>KING JOHN,</b> [to Robert Faulconbridge]  What art thou?
 
 ROBERT FAULCONBRIDGE
 The son and heir to that same Faulconbridge.
@@ -188,13 +187,13 @@ I give heaven thanks I was not like to thee!
 KING JOHN
 Why, what a madcap hath heaven lent us here!
 
-<b>QUEEN ELEANOR</b>, [aside to King John]
+<b>QUEEN ELEANOR,</b> [aside to King John]
 He hath a trick of Coeur de Lion's face;
 The accent of his tongue affecteth him.
 Do you not read some tokens of my son
 In the large composition of this man?
 
-<b>KING JOHN</b>, [aside to Queen Eleanor]
+<b>KING JOHN,</b> [aside to Queen Eleanor]
 Mine eye hath well examined his parts
 And finds them perfect Richard. [To Robert
 Faulconbridge] Sirrah, speak.
@@ -306,7 +305,7 @@ Kneel thou down Philip, but rise more great.
 tapping him on the shoulder with his sword.]
 Arise Sir Richard and Plantagenet.
 
-<b>BASTARD</b>, [rising, to Robert Faulconbridge]
+<b>BASTARD,</b> [rising, to Robert Faulconbridge]
 Brother by th' mother's side, give me your hand.
 My father gave me honor, yours gave land.
 Now blessed be the hour, by night or day,
@@ -325,7 +324,7 @@ Who dares not stir by day must walk by night,
 Near or far off, well won is still well shot,
 And I am I, howe'er I was begot.
 
-<b>KING JOHN</b>, [to Robert Faulconbridge]
+<b>KING JOHN,</b> [to Robert Faulconbridge]
 Go, Faulconbridge, now hast thou thy desire.
 A landless knight makes thee a landed squire.--
 Come, madam,--and come, Richard. We must
@@ -463,10 +462,9 @@ If thou hadst said him nay, it had been sin.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter, before Angiers, at one side, with Forces, Philip
 King of France, Louis the Dauphin, Constance, Arthur,
@@ -498,7 +496,7 @@ Welcome before the gates of Angiers, duke.
 DAUPHIN
 A noble boy. Who would not do thee right?
 
-<b>AUSTRIA</b>, [to Arthur]
+<b>AUSTRIA,</b> [to Arthur]
 Upon thy cheek lay I this zealous kiss
 As seal to this indenture of my love:
 That to my home I will no more return
@@ -659,7 +657,7 @@ My boy a bastard? By my soul, I think
 His father never was so true begot.
 It cannot be, an if thou wert his mother.
 
-<b>QUEEN ELEANOR</b>, [to Arthur]
+<b>QUEEN ELEANOR,</b> [to Arthur]
 There's a good mother, boy, that blots thy father.
 
 CONSTANCE
@@ -719,7 +717,7 @@ Give grandam kingdom, and it grandam will
 Give it a plum, a cherry, and a fig.
 There's a good grandam.
 
-<b>ARTHUR</b>, [weeping]  Good my mother, peace.
+<b>ARTHUR,</b> [weeping]  Good my mother, peace.
 I would that I were low laid in my grave.
 I am not worth this coil that's made for me.
 
@@ -919,14 +917,14 @@ AUSTRIA  Peace! No more.
 BASTARD
 O, tremble, for you hear the lion roar.
 
-<b>KING JOHN</b>, [to his officers]
+<b>KING JOHN,</b> [to his officers]
 Up higher to the plain, where we'll set forth
 In best appointment all our regiments.
 
 BASTARD
 Speed, then, to take advantage of the field.
 
-<b>KING PHILIP</b>, [to his officers]
+<b>KING PHILIP,</b> [to his officers]
 It shall be so, and at the other hill
 Command the rest to stand. God and our right!
 [They exit. Citizens remain, above.]
@@ -1006,7 +1004,7 @@ Or add a royal number to the dead,
 Gracing the scroll that tells of this war's loss
 With slaughter coupled to the name of kings.
 
-<b>BASTARD</b>, [aside]
+<b>BASTARD,</b> [aside]
 Ha, majesty! How high thy glory towers
 When the rich blood of kings is set on fire!
 O, now doth Death line his dead chaps with steel,
@@ -1076,7 +1074,7 @@ I like it well. France, shall we knit our powers
 And lay this Angiers even with the ground,
 Then after fight who shall be king of it?
 
-<b>BASTARD</b>, [to King Philip]
+<b>BASTARD,</b> [to King Philip]
 An if thou hast the mettle of a king,
 Being wronged as we are by this peevish town,
 Turn thou the mouth of thy artillery,
@@ -1097,7 +1095,7 @@ AUSTRIA  I from the north.
 KING PHILIP  Our thunder from the south
 Shall rain their drift of bullets on this town.
 
-<b>BASTARD</b>, [aside]
+<b>BASTARD,</b> [aside]
 O, prudent discipline! From north to south,
 Austria and France shoot in each other's mouth.
 I'll stir them to it. -- Come, away, away!
@@ -1151,7 +1149,7 @@ As we to keep this city.
 [King Philip and Louis the Dauphin
 walk aside and talk.]
 
-<b>BASTARD</b>, [aside]  Here's a stay
+<b>BASTARD,</b> [aside]  Here's a stay
 That shakes the rotten carcass of old Death
 Out of his rags! Here's a large mouth indeed
 That spits forth death and mountains, rocks and
@@ -1167,7 +1165,7 @@ But buffets better than a fist of France.
 Zounds, I was never so bethumped with words
 Since I first called my brother's father Dad.
 
-<b>QUEEN ELEANOR</b>, [aside to King John]
+<b>QUEEN ELEANOR,</b> [aside to King John]
 Son, list to this conjunction; make this match.
 Give with our niece a dowry large enough,
 For by this knot thou shalt so surely tie
@@ -1217,7 +1215,7 @@ Till now infixed I beheld myself
 Drawn in the flattering table of her eye.
 [He whispers with Blanche.]
 
-<b>BASTARD</b>, [aside]
+<b>BASTARD,</b> [aside]
 "Drawn in the flattering table of her eye"?
    Hanged in the frowning wrinkle of her brow
 And quartered in her heart! He doth espy
@@ -1226,7 +1224,7 @@ That hanged and drawn and quartered there should
 be
 In such a love so vile a lout as he.
 
-<b>BLANCHE</b>, [aside to Dauphin]
+<b>BLANCHE,</b> [aside to Dauphin]
 My uncle's will in this respect is mine.
 If he see aught in you that makes him like,
 That anything he sees which moves his liking
@@ -1349,15 +1347,14 @@ Gain, be my lord, for I will worship thee!
 [He exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Constance, Arthur, and Salisbury.]
 
 
-<b>CONSTANCE</b>, [to Salisbury]
+<b>CONSTANCE,</b> [to Salisbury]
 Gone to be married? Gone to swear a peace?
 False blood to false blood joined? Gone to be friends?
 Shall Louis have Blanche and Blanche those
@@ -1457,7 +1454,7 @@ France, Louis the Dauphin, Blanche, Queen Eleanor,
 Bastard, Austria, and Attendants.]
 
 
-<b>KING PHILIP</b>, [to Blanche]
+<b>KING PHILIP,</b> [to Blanche]
 'Tis true, fair daughter, and this blessed day
 Ever in France shall be kept festival.
 To solemnize this day the glorious sun
@@ -1467,7 +1464,7 @@ The meager cloddy earth to glittering gold.
 The yearly course that brings this day about
 Shall never see it but a holy day.
 
-<b>CONSTANCE</b>, [rising]
+<b>CONSTANCE,</b> [rising]
 A wicked day, and not a holy day!
 What hath this day deserved? What hath it done
 That it in golden letters should be set
@@ -1601,7 +1598,7 @@ Canonized and worshiped as a saint,
 That takes away by any secret course
 Thy hateful life.
 
-<b>CONSTANCE  O</b>, lawful let it be
+<b>CONSTANCE  O,</b> lawful let it be
 That I have room with Rome to curse awhile!
 Good father cardinal, cry thou "Amen"
 To my keen curses, for without my wrong
@@ -1665,7 +1662,7 @@ BLANCHE
 The Lady Constance speaks not from her faith,
 But from her need.
 
-<b>CONSTANCE</b>, [to King Philip]
+<b>CONSTANCE,</b> [to King Philip]
 O, if thou grant my need,
 Which only lives but by the death of faith,
 That need must needs infer this principle:
@@ -1676,7 +1673,7 @@ Keep my need up, and faith is trodden down.
 KING JOHN
 The King is moved, and answers not to this.
 
-<b>CONSTANCE</b>, [to King Philip]
+<b>CONSTANCE,</b> [to King Philip]
 O, be removed from him, and answer well!
 
 AUSTRIA
@@ -1796,13 +1793,13 @@ Which till this time my tongue did ne'er pronounce,
 Upon my knee I beg, go not to arms
 Against mine uncle.
 
-<b>CONSTANCE</b>, [kneeling]
+<b>CONSTANCE,</b> [kneeling]
 O, upon my knee
 Made hard with kneeling, I do pray to thee,
 Thou virtuous Dauphin, alter not the doom
 Forethought by heaven!
 
-<b>BLANCHE</b>, [to Dauphin]
+<b>BLANCHE,</b> [to Dauphin]
 Now shall I see thy love. What motive may
 Be stronger with thee than the name of wife?
 
@@ -1810,18 +1807,18 @@ CONSTANCE
 That which upholdeth him that thee upholds,
 His honor.--O, thine honor, Louis, thine honor!
 
-<b>DAUPHIN</b>, [to King Philip]
+<b>DAUPHIN,</b> [to King Philip]
 I muse your Majesty doth seem so cold,
 When such profound respects do pull you on.
 
 PANDULPH
 I will denounce a curse upon his head.
 
-<b>KING PHILIP</b>, [dropping King John's hand]
+<b>KING PHILIP,</b> [dropping King John's hand]
 Thou shalt not need.--England, I will fall from
 thee.
 
-<b>CONSTANCE</b>, [rising]
+<b>CONSTANCE,</b> [rising]
 O, fair return of banished majesty!
 
 QUEEN ELEANOR
@@ -1834,7 +1831,7 @@ BASTARD
 Old Time the clock-setter, that bald sexton Time,
 Is it as he will? Well, then, France shall rue.
 
-<b>BLANCHE</b>, [rising]
+<b>BLANCHE,</b> [rising]
 The sun's o'ercast with blood. Fair day, adieu.
 Which is the side that I must go withal?
 I am with both, each army hath a hand,
@@ -1853,7 +1850,7 @@ Lady, with me, with me thy fortune lies.
 BLANCHE
 There where my fortune lives, there my life dies.
 
-<b>KING JOHN</b>, [to Bastard]
+<b>KING JOHN,</b> [to Bastard]
 Cousin, go draw our puissance together.
 [Bastard exits.]
 France, I am burned up with inflaming wrath,
@@ -1870,7 +1867,7 @@ KING JOHN
 No more than he that threats.--To arms let's hie!
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarums, excursions.
 Enter Bastard with Austria's head.]
@@ -1896,14 +1893,14 @@ But on, my liege, for very little pains
 Will bring this labor to an happy end.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums, excursions, retreat.
 Enter King John, Queen Eleanor, Arthur, Bastard,
 Hubert, Lords.]
 
 
-<b>KING JOHN</b>, [to Queen Eleanor]
+<b>KING JOHN,</b> [to Queen Eleanor]
 So shall it be. Your Grace shall stay behind
 So strongly guarded. [To Arthur.] Cousin, look not sad.
 Thy grandam loves thee, and thy uncle will
@@ -1912,7 +1909,7 @@ As dear be to thee as thy father was.
 ARTHUR
 O, this will make my mother die with grief!
 
-<b>KING JOHN</b>, [to Bastard]
+<b>KING JOHN,</b> [to Bastard]
 Cousin, away for England! Haste before,
 And ere our coining see thou shake the bags
 Of hoarding abbots; imprisoned angels
@@ -1932,7 +1929,7 @@ Farewell, gentle cousin.
 
 KING JOHN  Coz, farewell.	[Bastard exits.]
 
-<b>QUEEN ELEANOR</b>, [to Arthur]
+<b>QUEEN ELEANOR,</b> [to Arthur]
 Come hither, little kinsman. Hark, a word.
 [They walk aside.]
 
@@ -2014,12 +2011,12 @@ I'll send those powers o'er to your Majesty.
 
 QUEEN ELEANOR  My blessing go with thee.
 
-<b>KING JOHN</b>, [to Arthur]  For England, cousin, go.
+<b>KING JOHN,</b> [to Arthur]  For England, cousin, go.
 Hubert shall be your man, attend on you
 With all true duty.--On toward Calais, ho!
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter King Philip of France,Louis the Dauphin,
 Pandulph, Attendants.]
@@ -2285,10 +2282,9 @@ If you say ay, the King will not say no.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hubert and Executioners, with irons and rope.]
 
@@ -2337,7 +2333,7 @@ Is it my fault that I was Geoffrey's son?
 No, indeed, is 't not. And I would to heaven
 I were your son, so you would love me, Hubert.
 
-<b>HUBERT</b>, [aside]
+<b>HUBERT,</b> [aside]
 If I talk to him, with his innocent prate
 He will awake my mercy, which lies dead.
 Therefore I will be sudden and dispatch.
@@ -2348,7 +2344,7 @@ In sooth, I would you were a little sick
 That I might sit all night and watch with you.
 I warrant I love you more than you do me.
 
-<b>HUBERT</b>, [aside]
+<b>HUBERT,</b> [aside]
 His words do take possession of my bosom.
 [He shows Arthur a paper.]
 Read here, young Arthur. [(Aside.)] How now,
@@ -2433,7 +2429,7 @@ Nor look upon the iron angerly.
 Thrust but these men away, and I'll forgive you,
 Whatever torment you do put me to.
 
-<b>HUBERT</b>, [to Executioners]
+<b>HUBERT,</b> [to Executioners]
 Go stand within. Let me alone with him.
 
 EXECUTIONER
@@ -2475,7 +2471,7 @@ Though to no use but still to look on you.
 Lo, by my troth, the instrument is cold,
 And would not harm me.
 
-<b>HUBERT</b>, [taking back the iron]
+<b>HUBERT,</b> [taking back the iron]
 I can heat it, boy.
 
 ARTHUR
@@ -2524,7 +2520,7 @@ Silence. No more. Go closely in with me.
 Much danger do I undergo for thee.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King John, Pembroke, Salisbury, and other
 Lords. King John ascends the throne.]
@@ -2643,7 +2639,7 @@ PEMBROKE
 And when it breaks, I fear will issue thence
 The foul corruption of a sweet child's death.
 
-<b>KING JOHN</b>, [coming forward with Hubert]
+<b>KING JOHN,</b> [coming forward with Hubert]
 We cannot hold mortality's strong hand.--
 Good lords, although my will to give is living,
 The suit which you demand is gone and dead.
@@ -2710,7 +2706,7 @@ The Lady Constance in a frenzy died
 Three days before. But this from rumor's tongue
 I idly heard. If true or false, I know not.
 
-<b>KING JOHN</b>, [aside]
+<b>KING JOHN,</b> [aside]
 Withhold thy speed, dreadful occasion!
 O, make a league with me till I have pleased
 My discontented peers. What? Mother dead?
@@ -2754,7 +2750,7 @@ To whom he sung in rude harsh-sounding rhymes
 That ere the next Ascension Day at noon,
 Your Highness should deliver up your crown.
 
-<b>KING JOHN</b>, [to Peter]
+<b>KING JOHN,</b> [to Peter]
 Thou idle dreamer, wherefore didst thou so?
 
 PETER
@@ -2856,7 +2852,7 @@ To understand a law, to know the meaning
 Of dangerous majesty, when perchance it frowns
 More upon humor than advised respect.
 
-<b>HUBERT</b>, [showing a paper]
+<b>HUBERT,</b> [showing a paper]
 Here is your hand and seal for what I did.
 
 KING JOHN
@@ -2924,7 +2920,7 @@ The angry lords with all expedient haste.
 I conjure thee but slowly; run more fast.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arthur on the walls, dressed as a shipboy.]
 
@@ -3013,7 +3009,7 @@ BIGOT
 Or when he doomed this beauty to a grave,
 Found it too precious-princely for a grave.
 
-<b>SALISBURY</b>, [to Bastard]
+<b>SALISBURY,</b> [to Bastard]
 Sir Richard, what think you? You have beheld.
 Or have you read or heard, or could you think,
 Or do you almost think, although you see,
@@ -3053,7 +3049,7 @@ Nor conversant with ease and idleness,
 Till I have set a glory to this hand
 By giving it the worship of revenge.
 
-<b>PEMBROKE</b>, BIGOT, [kneeling]
+<b>PEMBROKE,</b> BIGOT, [kneeling]
 Our souls religiously confirm thy words.
 [They rise.]
 
@@ -3071,7 +3067,7 @@ Avaunt, thou hateful villain, get thee gone!
 HUBERT
 I am no villain.
 
-<b>SALISBURY</b>, [drawing his sword]  Must I rob the law?
+<b>SALISBURY,</b> [drawing his sword]  Must I rob the law?
 
 BASTARD
 Your sword is bright, sir. Put it up again.
@@ -3102,10 +3098,10 @@ HUBERT  Do not prove me so.
 Yet I am none. Whose tongue soe'er speaks false,
 Not truly speaks. Who speaks not truly, lies.
 
-<b>PEMBROKE</b>, [drawing his sword]
+<b>PEMBROKE,</b> [drawing his sword]
 Cut him to pieces.
 
-<b>BASTARD</b>, [drawing his sword]  Keep the peace, I say.
+<b>BASTARD,</b> [drawing his sword]  Keep the peace, I say.
 
 SALISBURY
 Stand by, or I shall gall you, Faulconbridge.
@@ -3209,10 +3205,9 @@ And heaven itself doth frown upon the land.
 [They exit, with Hubert carrying Arthur's body.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King John and Pandulph with the crown, and
 their Attendants.]
@@ -3222,7 +3217,7 @@ KING JOHN
 Thus have I yielded up into your hand
 The circle of my glory.
 
-<b>PANDULPH</b>, [handing John the crown]  Take again
+<b>PANDULPH,</b> [handing John the crown]  Take again
 From this my hand, as holding of the Pope,
 Your sovereign greatness and authority.
 
@@ -3331,13 +3326,13 @@ know
 Our party may well meet a prouder foe.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter, in arms, Louis the Dauphin, Salisbury, Melun,
 Pembroke, Bigot, and French and English Soldiers.]
 
 
-<b>DAUPHIN</b>, [handing a paper to Melun]
+<b>DAUPHIN,</b> [handing a paper to Melun]
 My Lord Melun, let this be copied out,
 And keep it safe for our remembrance.
 Return the precedent to these lords again,
@@ -3559,7 +3554,7 @@ BASTARD
 And thou shalt find it, dauphin, do not doubt.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums. Enter King John and Hubert.]
 
@@ -3599,7 +3594,7 @@ Set on toward Swinstead. To my litter straight.
 Weakness possesseth me, and I am faint.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Salisbury, Pembroke, and Bigot.]
 
@@ -3693,7 +3688,7 @@ Right in thine eye.--Away, my friends! New flight,
 And happy newness, that intends old right.
 [They exit, assisting Melun.]
 
-<b>Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Louis, the Dauphin and his train.]
 
@@ -3739,7 +3734,7 @@ The day shall not be up so soon as I
 To try the fair adventure of tomorrow.
 [They exit.]
 
-<b>Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Bastard and Hubert, severally.]
 
@@ -3828,7 +3823,7 @@ Away before. Conduct me to the King.
 I doubt he will be dead or ere I come.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Prince Henry, Salisbury, and Bigot.]
 

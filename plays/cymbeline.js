@@ -8,18 +8,18 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>CYMBELINE</b>, King of Britain
+<b>CYMBELINE,</b> King of Britain
 Cymbeline's QUEEN
-<b>IMOGEN</b>, daughter to Cymbeline by his former queen
-<b>POSTHUMUS LEONATUS</b>, husband to Imogen
-<b>CLOTEN</b>, son to the present queen by a former husband
-<b>PISANIO</b>, Posthumus's servant
-<b>CORNELIUS</b>, a physician in Cymbeline's court
-<b>PHILARIO</b>, Posthumus's host in Rome
-<b>IACHIMO</b>, friend to Philario
+<b>IMOGEN,</b> daughter to Cymbeline by his former queen
+<b>POSTHUMUS LEONATUS,</b> husband to Imogen
+<b>CLOTEN,</b> son to the present queen by a former husband
+<b>PISANIO,</b> Posthumus's servant
+<b>CORNELIUS,</b> a physician in Cymbeline's court
+<b>PHILARIO,</b> Posthumus's host in Rome
+<b>IACHIMO,</b> friend to Philario
 A FRENCHMAN, friend to Philario
-<b>CAIUS LUCIUS</b>, a Roman general
-<b>BELARIUS</b>, an exiled nobleman
+<b>CAIUS LUCIUS,</b> a Roman general
+<b>BELARIUS,</b> an exiled nobleman
 Sons to Cymbeline by his former queen:
   GUIDERIUS
   ARVIRAGUS
@@ -42,10 +42,9 @@ The Ghosts of Posthumus's two BROTHERS
 Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen.]
 
@@ -181,7 +180,7 @@ I'll fetch a turn about the garden, pitying
 The pangs of barred affections, though the King
 Hath charged you should not speak together.	[She exits.]
 
-<b>IMOGEN  O</b>,
+<b>IMOGEN  O,</b>
 Dissembling courtesy! How fine this tyrant
 Can tickle where she wounds! My dearest husband,
 I something fear my father's wrath, but nothing--
@@ -353,21 +352,21 @@ To bring him to the haven, left these notes
 Of what commands I should be subject to
 When 't pleased you to employ me.
 
-<b>QUEEN</b>, [to Imogen]  This hath been
+<b>QUEEN,</b> [to Imogen]  This hath been
 Your faithful servant. I dare lay mine honor
 He will remain so.
 
 PISANIO  I humbly thank your Highness.
 
-<b>QUEEN</b>, [to Imogen]
+<b>QUEEN,</b> [to Imogen]
 Pray, walk awhile.
 
-<b>IMOGEN</b>, [to Pisanio]  About some half hour hence,
+<b>IMOGEN,</b> [to Pisanio]  About some half hour hence,
 Pray you, speak with me. You shall at least
 Go see my lord aboard. For this time leave me.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cloten and two Lords.]
 
@@ -380,50 +379,50 @@ none abroad so wholesome as that you vent.
 CLOTEN  If my shirt were bloody, then to shift it. Have I
 hurt him?
 
-<b>SECOND LORD</b>, [aside]  No, faith, not so much as his
+<b>SECOND LORD,</b> [aside]  No, faith, not so much as his
 patience.
 
 FIRST LORD  Hurt him? His body's a passable carcass if
 he be not hurt. It is a thoroughfare for steel if it be
 not hurt.
 
-<b>SECOND LORD</b>, [aside]  His steel was in debt; it went o'
+<b>SECOND LORD,</b> [aside]  His steel was in debt; it went o'
 th' backside the town.
 
 CLOTEN  The villain would not stand me.
 
-<b>SECOND LORD</b>, [aside]  No, but he fled forward still,
+<b>SECOND LORD,</b> [aside]  No, but he fled forward still,
 toward your face.
 
 FIRST LORD  Stand you? You have land enough of your
 own, but he added to your having, gave you some
 ground.
 
-<b>SECOND LORD</b>, [aside]  As many inches as you have
+<b>SECOND LORD,</b> [aside]  As many inches as you have
 oceans. Puppies!
 
 CLOTEN  I would they had not come between us.
 
-<b>SECOND LORD</b>, [aside]  So would I, till you had measured
+<b>SECOND LORD,</b> [aside]  So would I, till you had measured
 how long a fool you were upon the ground.
 
 CLOTEN  And that she should love this fellow and
 refuse me!
 
-<b>SECOND LORD</b>, [aside]  If it be a sin to make a true election,
+<b>SECOND LORD,</b> [aside]  If it be a sin to make a true election,
 she is damned.
 
 FIRST LORD  Sir, as I told you always, her beauty and
 her brain go not together. She's a good sign, but I
 have seen small reflection of her wit.
 
-<b>SECOND LORD</b>, [aside]  She shines not upon fools, lest
+<b>SECOND LORD,</b> [aside]  She shines not upon fools, lest
 the reflection should hurt her.
 
 CLOTEN  Come, I'll to my chamber. Would there had
 been some hurt done!
 
-<b>SECOND LORD</b>, [aside]  I wish not so, unless it had been
+<b>SECOND LORD,</b> [aside]  I wish not so, unless it had been
 the fall of an ass, which is no great hurt.
 
 CLOTEN  You'll go with us?
@@ -435,7 +434,7 @@ CLOTEN  Nay, come, let's go together.
 SECOND LORD  Well, my lord.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Imogen and Pisanio.]
 
@@ -506,14 +505,14 @@ Shakes all our buds from growing.
 LADY  The Queen, madam,
 Desires your Highness' company.
 
-<b>IMOGEN</b>, [to Pisanio]
+<b>IMOGEN,</b> [to Pisanio]
 Those things I bid you do, get them dispatched.
 I will attend the Queen.
 
 PISANIO  Madam, I shall.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Philario, Iachimo, a Frenchman, a Dutchman,
 and a Spaniard.]
@@ -564,7 +563,7 @@ to you as a noble friend of mine. How worthy
 he is I will leave to appear hereafter rather
 than story him in his own hearing.
 
-<b>FRENCHMAN</b>, [to Posthumus]  Sir, we have known together
+<b>FRENCHMAN,</b> [to Posthumus]  Sir, we have known together
 in Orleans.
 
 POSTHUMUS  Since when I have been debtor to you for
@@ -756,7 +755,7 @@ PHILARIO  Signior Iachimo will not from it. Pray, let us
 follow 'em.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Queen, Ladies, and Cornelius.]
 
@@ -765,7 +764,7 @@ QUEEN
 Whiles yet the dew's on ground, gather those flowers.
 Make haste. Who has the note of them?
 
-<b>LADY  I</b>, madam.
+<b>LADY  I,</b> madam.
 
 QUEEN  Dispatch.	[Ladies exit.]
 Now, Master Doctor, have you brought those drugs?
@@ -800,7 +799,7 @@ Shall from this practice but make hard your heart.
 Besides, the seeing these effects will be
 Both noisome and infectious.
 
-<b>QUEEN  O</b>, content thee.
+<b>QUEEN  O,</b> content thee.
 
 [Enter Pisanio.]
 
@@ -810,12 +809,12 @@ And enemy to my son.--How now, Pisanio?--
 Doctor, your service for this time is ended.
 Take your own way.
 
-<b>CORNELIUS</b>, [aside]  I do suspect you, madam,
+<b>CORNELIUS,</b> [aside]  I do suspect you, madam,
 But you shall do no harm.
 
-<b>QUEEN</b>, [to Pisanio]  Hark thee, a word.
+<b>QUEEN,</b> [to Pisanio]  Hark thee, a word.
 
-<b>CORNELIUS</b>, [aside]
+<b>CORNELIUS,</b> [aside]
 I do not like her. She doth think she has
 Strange ling'ring poisons. I do know her spirit,
 And will not trust one of her malice with
@@ -887,7 +886,7 @@ But when to my good lord I prove untrue,
 I'll choke myself; there's all I'll do for you.
 [He exits.]
 
-<b>Scene 6</b>
+<b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Imogen alone.]
 
@@ -919,7 +918,7 @@ And greets your Highness dearly.
 IMOGEN  Thanks, good sir.
 You're kindly welcome.
 
-<b>IACHIMO</b>, [aside]
+<b>IACHIMO,</b> [aside]
 All of her that is out of door, most rich!
 If she be furnished with a mind so rare,
 She is alone th' Arabian bird, and I
@@ -1205,7 +1204,7 @@ To see your Grace.
 IMOGEN  I thank you for your pains.
 But not away tomorrow.
 
-<b>IACHIMO  O</b>, I must, madam.
+<b>IACHIMO  O,</b> I must, madam.
 Therefore I shall beseech you, if you please
 To greet your lord with writing, do 't tonight.
 I have outstood my time, which is material
@@ -1217,10 +1216,9 @@ And truly yielded you. You're very welcome.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cloten and the two Lords.]
 
@@ -1235,7 +1233,7 @@ them at my pleasure.
 FIRST LORD  What got he by that? You have broke his
 pate with your bowl.
 
-<b>SECOND LORD</b>, [aside]  If his wit had been like him that
+<b>SECOND LORD,</b> [aside]  If his wit had been like him that
 broke it, it would have run all out.
 
 CLOTEN  When a gentleman is disposed to swear, it is
@@ -1247,7 +1245,7 @@ of them.
 CLOTEN  Whoreson dog! I gave him satisfaction. Would
 he had been one of my rank.
 
-<b>SECOND LORD</b>, [aside]  To have smelled like a fool.
+<b>SECOND LORD,</b> [aside]  To have smelled like a fool.
 
 CLOTEN  I am not vexed more at anything in th' Earth.
 A pox on 't! I had rather not be so noble as I am.
@@ -1256,7 +1254,7 @@ my mother. Every jack-slave hath his bellyful of
 fighting, and I must go up and down like a cock
 that nobody can match.
 
-<b>SECOND LORD</b>, [aside]  You are cock and capon too, and
+<b>SECOND LORD,</b> [aside]  You are cock and capon too, and
 you crow cock with your comb on.
 
 CLOTEN  Sayest thou?
@@ -1276,7 +1274,7 @@ court tonight?
 
 CLOTEN  A stranger, and I not know on 't?
 
-<b>SECOND LORD</b>, [aside]  He's a strange fellow himself and
+<b>SECOND LORD,</b> [aside]  He's a strange fellow himself and
 knows it not.
 
 FIRST LORD  There's an Italian come, and 'tis thought
@@ -1294,7 +1292,7 @@ SECOND LORD  You cannot derogate, my lord.
 
 CLOTEN  Not easily, I think.
 
-<b>SECOND LORD</b>, [aside]  You are a fool granted; therefore
+<b>SECOND LORD,</b> [aside]  You are a fool granted; therefore
 your issues, being foolish, do not derogate.
 
 CLOTEN  Come, I'll go see this Italian. What I have lost
@@ -1318,7 +1316,7 @@ That temple, thy fair mind, that thou mayst stand
 T' enjoy thy banished lord and this great land.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [A trunk is brought in. Enter Imogen, reading, in her
 bed, and a Lady.]
@@ -1398,7 +1396,7 @@ One, two, three. Time, time!
 [He exits into the trunk. The trunk
 and bed are removed.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cloten and Lords.]
 
@@ -1474,7 +1472,7 @@ She hath not yet forgot him. Some more time
 Must wear the print of his remembrance on 't,
 And then she's yours.
 
-<b>QUEEN</b>, [to Cloten]  You are most bound to th' King,
+<b>QUEEN,</b> [to Cloten]  You are most bound to th' King,
 Who lets go by no vantages that may
 Prefer you to his daughter. Frame yourself
 To orderly solicits and be friended
@@ -1490,7 +1488,7 @@ CLOTEN  Senseless? Not so.
 [Enter a Messenger.]
 
 
-<b>MESSENGER</b>, [to Cymbeline]
+<b>MESSENGER,</b> [to Cymbeline]
 So like you, sir, ambassadors from Rome;
 The one is Caius Lucius.	[Messenger exits.]
 
@@ -1641,13 +1639,13 @@ Were they all made such men.--How now, Pisanio!
 
 CLOTEN  "His garment"? Now the devil--
 
-<b>IMOGEN</b>, [to Pisanio]
+<b>IMOGEN,</b> [to Pisanio]
 To Dorothy, my woman, hie thee presently.
 
 CLOTEN
 "His garment"?
 
-<b>IMOGEN</b>, [to Pisanio]  I am sprighted with a fool,
+<b>IMOGEN,</b> [to Pisanio]  I am sprighted with a fool,
 Frighted and angered worse. Go bid my woman
 Search for a jewel that too casually
 Hath left mine arm. It was thy master's. Shrew me
@@ -1681,7 +1679,7 @@ CLOTEN
 I'll be revenged! "His mean'st garment"? Well.
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Posthumus and Philario.]
 
@@ -1747,7 +1745,7 @@ And therewithal the best, or let her beauty
 Look thorough a casement to allure false hearts
 And be false with them.
 
-<b>IACHIMO</b>, [handing him a paper]  Here are letters for you.
+<b>IACHIMO,</b> [handing him a paper]  Here are letters for you.
 
 POSTHUMUS
 Their tenor good, I trust.
@@ -1961,7 +1959,7 @@ He hath against himself.
 IACHIMO  With all my heart.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Posthumus.]
 
@@ -2006,10 +2004,9 @@ The very devils cannot plague them better.
 [He exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter in state Cymbeline, Queen, Cloten, and Lords at
 one door, and, at another, Caius Lucius and Attendants.]
@@ -2073,7 +2070,7 @@ Caesar can hide the sun from us with a blanket or
 put the moon in his pocket, we will pay him tribute
 for light; else, sir, no more tribute, pray you now.
 
-<b>CYMBELINE</b>, [to Lucius]  You must know,
+<b>CYMBELINE,</b> [to Lucius]  You must know,
 Till the injurious Romans did extort
 This tribute from us, we were free. Caesar's ambition,
 Which swelled so much that it did almost stretch
@@ -2126,7 +2123,7 @@ I know your master's pleasure, and he mine.
 All the remain is welcome.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pisanio reading of a letter.]
 
@@ -2237,13 +2234,13 @@ Do as I bid thee. There's no more to say.
 Accessible is none but Milford way.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter, as from a cave, Belarius as Morgan, Guiderius
 as Polydor, and Arviragus as Cadwal.]
 
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 A goodly day not to keep house with such
 Whose roof's as low as ours! Stoop, boys. This gate
 Instructs you how t' adore the heavens and bows you
@@ -2254,11 +2251,11 @@ Good morrow to the sun. Hail, thou fair heaven!
 We house i' th' rock, yet use thee not so hardly
 As prouder livers do.
 
-<b>GUIDERIUS</b>, [as Polydor]  Hail, heaven!
+<b>GUIDERIUS,</b> [as Polydor]  Hail, heaven!
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Hail, heaven!
+<b>ARVIRAGUS,</b> [as Cadwal]  Hail, heaven!
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Now for our mountain sport. Up to yond hill;
 Your legs are young. I'll tread these flats. Consider,
 When you above perceive me like a crow,
@@ -2277,7 +2274,7 @@ Prouder than rustling in unpaid-for silk:
 Such gain the cap of him that makes him fine
 Yet keeps his book uncrossed. No life to ours.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Out of your proof you speak. We poor unfledged
 Have never winged from view o' th' nest, nor know
 not
@@ -2289,7 +2286,7 @@ A cell of ignorance, traveling abed,
 A prison for a debtor that not dares
 To stride a limit.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  What should we speak of
+<b>ARVIRAGUS,</b> [as Cadwal]  What should we speak of
 When we are old as you? When we shall hear
 The rain and wind beat dark December, how
 In this our pinching cave shall we discourse
@@ -2300,7 +2297,7 @@ Our valor is to chase what flies. Our cage
 We make a choir, as doth the prisoned bird,
 And sing our bondage freely.
 
-<b>BELARIUS</b>, [as Morgan]  How you speak!
+<b>BELARIUS,</b> [as Morgan]  How you speak!
 Did you but know the city's usuries
 And felt them knowingly; the art o' th' court,
 As hard to leave as keep, whose top to climb
@@ -2322,9 +2319,9 @@ A storm or robbery, call it what you will,
 Shook down my mellow hangings, nay, my leaves,
 And left me bare to weather.
 
-<b>GUIDERIUS</b>, [as Polydor]  Uncertain favor!
+<b>GUIDERIUS,</b> [as Polydor]  Uncertain favor!
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 My fault being nothing, as I have told you oft,
 But that two villains, whose false oaths prevailed
 Before my perfect honor, swore to Cymbeline
@@ -2375,7 +2372,7 @@ Myself, Belarius, that am Morgan called,
 They take for natural father. The game is up!
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Pisanio and Imogen.]
 
@@ -2418,7 +2415,7 @@ my letter for the purpose--where, if thou fear to
 strike and to make me certain it is done, thou art the
 pander to her dishonor and equally to me disloyal.
 
-<b>PISANIO</b>, [aside]
+<b>PISANIO,</b> [aside]
 What shall I need to draw my sword? The paper
 Hath cut her throat already. No, 'tis slander,
 Whose edge is sharper than the sword, whose tongue
@@ -2474,7 +2471,7 @@ The riches of it. Do his bidding; strike.
 Thou mayst be valiant in a better cause,
 But now thou seem'st a coward.
 
-<b>PISANIO</b>, [throwing down the sword]  Hence, vile
+<b>PISANIO,</b> [throwing down the sword]  Hence, vile
 instrument!
 Thou shalt not damn my hand.
 
@@ -2595,7 +2592,7 @@ That though his actions were not visible, yet
 Report should render him hourly to your ear
 As truly as he moves.
 
-<b>IMOGEN  O</b>, for such means,
+<b>IMOGEN  O,</b> for such means,
 Though peril to my modesty, not death on 't,
 I would adventure.
 
@@ -2631,7 +2628,7 @@ And, doubling that, most holy. Your means abroad:
 You have me, rich, and I will never fail
 Beginning nor supplyment.
 
-<b>IMOGEN</b>, [taking the cloakbag]  Thou art all the comfort
+<b>IMOGEN,</b> [taking the cloakbag]  Thou art all the comfort
 The gods will diet me with. Prithee, away.
 There's more to be considered, but we'll even
 All that good time will give us. This attempt
@@ -2653,7 +2650,7 @@ Direct you to the best.
 IMOGEN  Amen. I thank thee.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cymbeline, Queen, Cloten, Lucius, Lords, and
 Attendants.]
@@ -2676,12 +2673,12 @@ LUCIUS  So, sir. I desire of you
 A conduct overland to Milford Haven.--
 Madam, all joy befall your Grace--and you.
 
-<b>CYMBELINE</b>, [to Lords]
+<b>CYMBELINE,</b> [to Lords]
 My lords, you are appointed for that office.
 The due of honor in no point omit.--
 So, farewell, noble Lucius.
 
-<b>LUCIUS</b>, [to Cloten]  Your hand, my lord.
+<b>LUCIUS,</b> [to Cloten]  Your hand, my lord.
 
 CLOTEN
 Receive it friendly, but from this time forth
@@ -2782,7 +2779,7 @@ CLOTEN  'Tis certain she is fled.
 Go in and cheer the King. He rages; none
 Dare come about him.
 
-<b>QUEEN</b>, [aside]  All the better. May
+<b>QUEEN,</b> [aside]  All the better. May
 This night forestall him of the coming day!
 [Queen exits, with Attendants.]
 
@@ -2807,7 +2804,7 @@ Where is thy lady? In a word, or else
 Thou art straightway with the fiends.
 [He draws his sword.]
 
-<b>PISANIO  O</b>, good my lord--
+<b>PISANIO  O,</b> good my lord--
 
 CLOTEN
 Where is thy lady? Or, by Jupiter--
@@ -2841,13 +2838,13 @@ Touching her flight.	[He gives Cloten a paper.]
 CLOTEN  Let's see 't. I will pursue her
 Even to Augustus' throne.
 
-<b>PISANIO</b>, [aside]  Or this or perish.
+<b>PISANIO,</b> [aside]  Or this or perish.
 She's far enough, and what he learns by this
 May prove his travail, not her danger.
 
 CLOTEN  Humh!
 
-<b>PISANIO</b>, [aside]
+<b>PISANIO,</b> [aside]
 I'll write to my lord she's dead. O Imogen,
 Safe mayst thou wander, safe return again!
 
@@ -2932,7 +2929,7 @@ You heavenly blessings, on her. This fool's speed
 Be crossed with slowness. Labor be his meed.
 [He exits.]
 
-<b>Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Imogen alone, dressed as a boy, Fidele.]
 
@@ -2972,7 +2969,7 @@ Such a foe, good heavens!
 Arviragus as Cadwal.]
 
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 You, Polydor, have proved best woodman and
 Are master of the feast. Cadwal and I
 Will play the cook and servant; 'tis our match.
@@ -2983,24 +2980,24 @@ Can snore upon the flint when resty sloth
 Finds the down pillow hard. Now peace be here,
 Poor house, that keep'st thyself.
 
-<b>GUIDERIUS</b>, [as Polydor]  I am throughly weary.
+<b>GUIDERIUS,</b> [as Polydor]  I am throughly weary.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 I am weak with toil, yet strong in appetite.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 There is cold meat i' th' cave. We'll browse on that
 Whilst what we have killed be cooked.
 
-<b>BELARIUS</b>, [as Morgan, looking into the cave]
+<b>BELARIUS,</b> [as Morgan, looking into the cave]
 Stay, come
 not in!
 But that it eats our victuals, I should think
 Here were a fairy.
 
-<b>GUIDERIUS</b>, [as Polydor]  What's the matter, sir?
+<b>GUIDERIUS,</b> [as Polydor]  What's the matter, sir?
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 By Jupiter, an angel! Or, if not,
 An earthly paragon. Behold divineness
 No elder than a boy.
@@ -3008,7 +3005,7 @@ No elder than a boy.
 [Enter Imogen as Fidele.]
 
 
-<b>IMOGEN</b>, [as Fidele]  Good masters, harm me not.
+<b>IMOGEN,</b> [as Fidele]  Good masters, harm me not.
 Before I entered here, I called, and thought
 To have begged or bought what I have took. Good
 troth,
@@ -3020,62 +3017,62 @@ I would have left it on the board so soon
 As I had made my meal, and parted
 With prayers for the provider.
 
-<b>GUIDERIUS</b>, [as Polydor]  Money, youth?
+<b>GUIDERIUS,</b> [as Polydor]  Money, youth?
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 All gold and silver rather turn to dirt,
 As 'tis no better reckoned but of those
 Who worship dirty gods.
 
-<b>IMOGEN</b>, [as Fidele]  I see you're angry.
+<b>IMOGEN,</b> [as Fidele]  I see you're angry.
 Know, if you kill me for my fault, I should
 Have died had I not made it.
 
-<b>BELARIUS</b>, [as Morgan]  Whither bound?
+<b>BELARIUS,</b> [as Morgan]  Whither bound?
 
-<b>IMOGEN</b>, [as Fidele]  To Milford Haven.
+<b>IMOGEN,</b> [as Fidele]  To Milford Haven.
 
-<b>BELARIUS</b>, [as Morgan]  What's your name?
+<b>BELARIUS,</b> [as Morgan]  What's your name?
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 Fidele, sir. I have a kinsman who
 Is bound for Italy. He embarked at Milford,
 To whom being going, almost spent with hunger,
 I am fall'n in this offense.
 
-<b>BELARIUS</b>, [as Morgan]  Prithee, fair youth,
+<b>BELARIUS,</b> [as Morgan]  Prithee, fair youth,
 Think us no churls, nor measure our good minds
 By this rude place we live in. Well encountered!
 'Tis almost night; you shall have better cheer
 Ere you depart, and thanks to stay and eat it.--
 Boys, bid him welcome.
 
-<b>GUIDERIUS</b>, [as Polydor]  Were you a woman, youth,
+<b>GUIDERIUS,</b> [as Polydor]  Were you a woman, youth,
 I should woo hard but be your groom in honesty,
 Ay, bid for you as I do buy.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  I'll make 't my comfort
+<b>ARVIRAGUS,</b> [as Cadwal]  I'll make 't my comfort
 He is a man. I'll love him as my brother.--
 And such a welcome as I'd give to him
 After long absence, such is yours. Most welcome.
 Be sprightly, for you fall 'mongst friends.
 
-<b>IMOGEN</b>, [as Fidele]  'Mongst
+<b>IMOGEN,</b> [as Fidele]  'Mongst
 friends?
 If brothers--[(aside)] Would it had been so, that they
 Had been my father's sons! Then had my prize
 Been less, and so more equal ballasting
 To thee, Posthumus.
 
-<b>BELARIUS</b>, [as Morgan]  He wrings at some distress.
+<b>BELARIUS,</b> [as Morgan]  He wrings at some distress.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Would I could free 't!
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Or I, whate'er it be,
+<b>ARVIRAGUS,</b> [as Cadwal]  Or I, whate'er it be,
 What pain it cost, what danger. Gods!
 
-<b>BELARIUS</b>, [as Morgan]  Hark, boys.
+<b>BELARIUS,</b> [as Morgan]  Hark, boys.
 [They talk aside.]
 
 IMOGEN  Great men
@@ -3087,24 +3084,24 @@ Could not outpeer these twain. Pardon me, gods!
 I'd change my sex to be companion with them,
 Since Leonatus false.
 
-<b>BELARIUS</b>, [as Morgan]  It shall be so.
+<b>BELARIUS,</b> [as Morgan]  It shall be so.
 Boys, we'll go dress our hunt.--Fair youth, come in.
 Discourse is heavy, fasting. When we have supped,
 We'll mannerly demand thee of thy story
 So far as thou wilt speak it.
 
-<b>GUIDERIUS</b>, [as Polydor]  Pray, draw near.
+<b>GUIDERIUS,</b> [as Polydor]  Pray, draw near.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 The night to th' owl and morn to th' lark less
 welcome.
 
-<b>IMOGEN</b>, [as Fidele]  Thanks, sir.
+<b>IMOGEN,</b> [as Fidele]  Thanks, sir.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  I pray, draw near.
+<b>ARVIRAGUS,</b> [as Cadwal]  I pray, draw near.
 [They exit.]
 
-<b>Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter two Roman Senators, and Tribunes.]
 
@@ -3139,10 +3136,9 @@ TRIBUNE  We will discharge our duty.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cloten alone, dressed in Posthumus's garments.]
 
@@ -3175,28 +3171,28 @@ hand! This is the very description of their meeting
 place, and the fellow dares not deceive me.
 [He draws his sword and exits.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Belarius as Morgan, Guiderius as Polydor,
 Arviragus as Cadwal, and Imogen as Fidele, from the
 cave.]
 
 
-<b>BELARIUS</b>, [as Morgan, to Fidele]
+<b>BELARIUS,</b> [as Morgan, to Fidele]
 You are not well. Remain here in the cave.
 We'll come to you after hunting.
 
-<b>ARVIRAGUS</b>, [as Cadwal, to Fidele]  Brother, stay here.
+<b>ARVIRAGUS,</b> [as Cadwal, to Fidele]  Brother, stay here.
 Are we not brothers?
 
-<b>IMOGEN</b>, [as Fidele]  So man and man should be,
+<b>IMOGEN,</b> [as Fidele]  So man and man should be,
 But clay and clay differs in dignity,
 Whose dust is both alike. I am very sick.
 
-<b>GUIDERIUS</b>, [as Polydor, to Morgan and Cadwal]
+<b>GUIDERIUS,</b> [as Polydor, to Morgan and Cadwal]
 Go you to hunting. I'll abide with him.
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 So sick I am not, yet I am not well;
 But not so citizen a wanton as
 To seem to die ere sick. So please you, leave me.
@@ -3208,14 +3204,14 @@ Since I can reason of it. Pray you trust me here--
 I'll rob none but myself--and let me die,
 Stealing so poorly.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 I love thee--I have spoke it--
 How much the quantity, the weight as much
 As I do love my father.
 
-<b>BELARIUS</b>, [as Morgan]  What? How, how?
+<b>BELARIUS,</b> [as Morgan]  What? How, how?
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 If it be sin to say so, sir, I yoke me
 In my good brother's fault. I know not why
 I love this youth, and I have heard you say
@@ -3223,7 +3219,7 @@ Love's reason's without reason. The bier at door,
 And a demand who is 't shall die, I'd say
 "My father, not this youth."
 
-<b>BELARIUS</b>, [aside]  O, noble strain!
+<b>BELARIUS,</b> [aside]  O, noble strain!
 O, worthiness of nature, breed of greatness!
 Cowards father cowards and base things sire base;
 Nature hath meal and bran, contempt and grace.
@@ -3231,14 +3227,14 @@ I'm not their father, yet who this should be
 Doth miracle itself, loved before me.--
 'Tis the ninth hour o' th' morn.
 
-<b>ARVIRAGUS</b>, [as Cadwal, to Fidele]  Brother, farewell.
+<b>ARVIRAGUS,</b> [as Cadwal, to Fidele]  Brother, farewell.
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 I wish you sport.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  You health.--So please you, sir.
+<b>ARVIRAGUS,</b> [as Cadwal]  You health.--So please you, sir.
 
-<b>IMOGEN</b>, [aside]
+<b>IMOGEN,</b> [aside]
 These are kind creatures. Gods, what lies I have heard!
 Our courtiers say all's savage but at court;
 Experience, O, thou disprov'st report!
@@ -3247,73 +3243,73 @@ Poor tributary rivers as sweet fish.
 I am sick still, heart-sick. Pisanio,
 I'll now taste of thy drug.	[She swallows the drug.]
 
-<b>GUIDERIUS</b>, [as Polydor, to Morgan and Cadwal]
+<b>GUIDERIUS,</b> [as Polydor, to Morgan and Cadwal]
 I could not stir him.
 He said he was gentle but unfortunate,
 Dishonestly afflicted but yet honest.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 Thus did he answer me, yet said hereafter
 I might know more.
 
-<b>BELARIUS</b>, [as Morgan]  To th' field, to th' field!
+<b>BELARIUS,</b> [as Morgan]  To th' field, to th' field!
 [To Fidele.] We'll leave you for this time. Go in and
 rest.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 We'll not be long away.
 
-<b>BELARIUS</b>, [as Morgan]  Pray, be not sick,
+<b>BELARIUS,</b> [as Morgan]  Pray, be not sick,
 For you must be our huswife.
 
-<b>IMOGEN</b>, [as Fidele]  Well or ill,
+<b>IMOGEN,</b> [as Fidele]  Well or ill,
 I am bound to you.
 
-<b>BELARIUS</b>, [as Morgan]  And shalt be ever.
+<b>BELARIUS,</b> [as Morgan]  And shalt be ever.
 [Imogen exits as into the cave.]
 This youth, howe'er distressed, appears he hath had
 Good ancestors.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  How angel-like he sings!
+<b>ARVIRAGUS,</b> [as Cadwal]  How angel-like he sings!
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 But his neat cookery! He cut our roots in characters
 And sauced our broths as Juno had been sick
 And he her dieter.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Nobly he yokes
+<b>ARVIRAGUS,</b> [as Cadwal]  Nobly he yokes
 A smiling with a sigh, as if the sigh
 Was that it was for not being such a smile,
 The smile mocking the sigh that it would fly
 From so divine a temple to commix
 With winds that sailors rail at.
 
-<b>GUIDERIUS</b>, [as Polydor]  I do note
+<b>GUIDERIUS,</b> [as Polydor]  I do note
 That grief and patience, rooted in them both,
 Mingle their spurs together.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Grow, patience,
+<b>ARVIRAGUS,</b> [as Cadwal]  Grow, patience,
 And let the stinking elder, grief, untwine
 His perishing root with the increasing vine!
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 It is great morning. Come, away. Who's there?
 
 [Enter Cloten.]
 
 
-<b>CLOTEN</b>, [to himself]
+<b>CLOTEN,</b> [to himself]
 I cannot find those runagates. That villain
 Hath mocked me. I am faint.
 
-<b>BELARIUS</b>, [as Morgan, to Polydor and Cadwal]
+<b>BELARIUS,</b> [as Morgan, to Polydor and Cadwal]
 "Those runagates"?
 Means he not us? I partly know him. 'Tis
 Cloten, the son o' th' Queen. I fear some ambush.
 I saw him not these many years, and yet
 I know 'tis he. We are held as outlaws. Hence.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 He is but one. You and my brother search
 What companies are near. Pray you, away.
 Let me alone with him.	[Belarius and Arviragus exit.]
@@ -3322,14 +3318,14 @@ CLOTEN  Soft, what are you
 That fly me thus? Some villain mountaineers?
 I have heard of such.--What slave art thou?
 
-<b>GUIDERIUS</b>, [as Polydor]  A thing
+<b>GUIDERIUS,</b> [as Polydor]  A thing
 More slavish did I ne'er than answering
 A slave without a knock.
 
 CLOTEN  Thou art a robber,
 A lawbreaker, a villain. Yield thee, thief.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 To who? To thee? What art thou? Have not I
 An arm as big as thine? A heart as big?
 Thy words, I grant, are bigger, for I wear not
@@ -3339,7 +3335,7 @@ Why I should yield to thee.
 CLOTEN  Thou villain base,
 Know'st me not by my clothes?
 
-<b>GUIDERIUS</b>, [as Polydor]  No, nor thy tailor,
+<b>GUIDERIUS,</b> [as Polydor]  No, nor thy tailor,
 rascal.
 Who is thy grandfather? He made those clothes,
 Which, as it seems, make thee.
@@ -3347,18 +3343,18 @@ Which, as it seems, make thee.
 CLOTEN  Thou precious varlet,
 My tailor made them not.
 
-<b>GUIDERIUS</b>, [as Polydor]  Hence then, and thank
+<b>GUIDERIUS,</b> [as Polydor]  Hence then, and thank
 The man that gave them thee. Thou art some fool.
 I am loath to beat thee.
 
 CLOTEN  Thou injurious thief,
 Hear but my name, and tremble.
 
-<b>GUIDERIUS</b>, [as Polydor]  What's thy name?
+<b>GUIDERIUS,</b> [as Polydor]  What's thy name?
 
 CLOTEN  Cloten, thou villain.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Cloten, thou double villain, be thy name,
 I cannot tremble at it. Were it Toad, or Adder, Spider,
 'Twould move me sooner.
@@ -3367,12 +3363,12 @@ CLOTEN  To thy further fear,
 Nay, to thy mere confusion, thou shalt know
 I am son to th' Queen.
 
-<b>GUIDERIUS</b>, [as Polydor]  I am sorry for 't, not seeming
+<b>GUIDERIUS,</b> [as Polydor]  I am sorry for 't, not seeming
 So worthy as thy birth.
 
 CLOTEN  Art not afeard?
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Those that I reverence, those I fear--the wise;
 At fools I laugh, not fear them.
 
@@ -3387,23 +3383,23 @@ Yield, rustic mountaineer!
 Cadwal.]
 
 
-<b>BELARIUS</b>, [as Morgan]  No company's abroad?
+<b>BELARIUS,</b> [as Morgan]  No company's abroad?
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 None in the world. You did mistake him sure.
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 I cannot tell. Long is it since I saw him,
 But time hath nothing blurred those lines of favor
 Which then he wore. The snatches in his voice
 And burst of speaking were as his. I am absolute
 'Twas very Cloten.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  In this place we left them.
+<b>ARVIRAGUS,</b> [as Cadwal]  In this place we left them.
 I wish my brother make good time with him,
 You say he is so fell.
 
-<b>BELARIUS</b>, [as Morgan]  Being scarce made up,
+<b>BELARIUS,</b> [as Morgan]  Being scarce made up,
 I mean to man, he had not apprehension
 Of roaring terrors; for defect of judgment
 Is oft the cause of fear.
@@ -3412,16 +3408,16 @@ Is oft the cause of fear.
 
 But see, thy brother.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 This Cloten was a fool, an empty purse;
 There was no money in 't. Not Hercules
 Could have knocked out his brains, for he had none.
 Yet I not doing this, the fool had borne
 My head as I do his.
 
-<b>BELARIUS</b>, [as Morgan]  What hast thou done?
+<b>BELARIUS,</b> [as Morgan]  What hast thou done?
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 I am perfect what: cut off one Cloten's head,
 Son to the Queen, after his own report,
 Who called me traitor mountaineer, and swore
@@ -3430,9 +3426,9 @@ Displace our heads where, thank the gods, they
 grow,
 And set them on Lud's Town.
 
-<b>BELARIUS</b>, [as Morgan]  We are all undone.
+<b>BELARIUS,</b> [as Morgan]  We are all undone.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Why, worthy father, what have we to lose
 But that he swore to take, our lives? The law
 Protects not us. Then why should we be tender
@@ -3441,7 +3437,7 @@ Play judge and executioner all himself,
 For we do fear the law? What company
 Discover you abroad?
 
-<b>BELARIUS</b>, [as Morgan]  No single soul
+<b>BELARIUS,</b> [as Morgan]  No single soul
 Can we set eye on, but in all safe reason
 He must have some attendants. Though his humor
 Was nothing but mutation--ay, and that
@@ -3459,26 +3455,26 @@ Or they so suffering. Then on good ground we fear,
 If we do fear this body hath a tail
 More perilous than the head.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Let ord'nance
+<b>ARVIRAGUS,</b> [as Cadwal]  Let ord'nance
 Come as the gods foresay it. Howsoe'er,
 My brother hath done well.
 
-<b>BELARIUS</b>, [as Morgan]  I had no mind
+<b>BELARIUS,</b> [as Morgan]  I had no mind
 To hunt this day. The boy Fidele's sickness
 Did make my way long forth.
 
-<b>GUIDERIUS</b>, [as Polydor]  With his own sword,
+<b>GUIDERIUS,</b> [as Polydor]  With his own sword,
 Which he did wave against my throat, I have ta'en
 His head from him. I'll throw 't into the creek
 Behind our rock, and let it to the sea
 And tell the fishes he's the Queen's son, Cloten.
 That's all I reck.	[He exits.]
 
-<b>BELARIUS</b>, [as Morgan]  I fear 'twill be revenged.
+<b>BELARIUS,</b> [as Morgan]  I fear 'twill be revenged.
 Would, Polydor, thou hadst not done 't, though valor
 Becomes thee well enough.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Would I had done 't,
+<b>ARVIRAGUS,</b> [as Cadwal]  Would I had done 't,
 So the revenge alone pursued me. Polydor,
 I love thee brotherly, but envy much
 Thou hast robbed me of this deed. I would revenges
@@ -3486,14 +3482,14 @@ That possible strength might meet would seek us
 through
 And put us to our answer.
 
-<b>BELARIUS</b>, [as Morgan]  Well, 'tis done.
+<b>BELARIUS,</b> [as Morgan]  Well, 'tis done.
 We'll hunt no more today, nor seek for danger
 Where there's no profit. I prithee, to our rock.
 You and Fidele play the cooks. I'll stay
 Till hasty Polydor return, and bring him
 To dinner presently.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Poor sick Fidele.
+<b>ARVIRAGUS,</b> [as Cadwal]  Poor sick Fidele.
 I'll willingly to him. To gain his color
 I'd let a parish of such Clotens blood,
 And praise myself for charity.	[He exits.]
@@ -3517,21 +3513,21 @@ Or what his death will bring us.
 [Enter Guiderius as Polydor.]
 
 
-<b>GUIDERIUS</b>, [as Polydor]  Where's my brother?
+<b>GUIDERIUS,</b> [as Polydor]  Where's my brother?
 I have sent Cloten's clotpole down the stream
 In embassy to his mother. His body's hostage
 For his return.	[Solemn music.]
 
-<b>BELARIUS</b>, [as Morgan]  My ingenious instrument!
+<b>BELARIUS,</b> [as Morgan]  My ingenious instrument!
 Hark, Polydor, it sounds! But what occasion
 Hath Cadwal now to give it motion? Hark.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Is he at home?
 
-<b>BELARIUS</b>, [as Morgan]  He went hence even now.
+<b>BELARIUS,</b> [as Morgan]  He went hence even now.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 What does he mean? Since death of my dear'st
 mother
 It did not speak before. All solemn things
@@ -3544,21 +3540,21 @@ Is Cadwal mad?
 bearing her in his arms.]
 
 
-<b>BELARIUS</b>, [as Morgan]  Look, here he comes,
+<b>BELARIUS,</b> [as Morgan]  Look, here he comes,
 And brings the dire occasion in his arms
 Of what we blame him for.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  The bird is dead
+<b>ARVIRAGUS,</b> [as Cadwal]  The bird is dead
 That we have made so much on. I had rather
 Have skipped from sixteen years of age to sixty,
 To have turned my leaping time into a crutch,
 Than have seen this.
 
-<b>GUIDERIUS</b>, [as Polydor]  O sweetest, fairest lily!
+<b>GUIDERIUS,</b> [as Polydor]  O sweetest, fairest lily!
 My brother wears thee not the one half so well
 As when thou grew'st thyself.
 
-<b>BELARIUS</b>, [as Morgan]  O melancholy,
+<b>BELARIUS,</b> [as Morgan]  O melancholy,
 Whoever yet could sound thy bottom, find
 The ooze, to show what coast thy sluggish crare
 Might eas'liest harbor in?--Thou blessed thing,
@@ -3566,24 +3562,24 @@ Jove knows what man thou mightst have made; but I,
 Thou died'st, a most rare boy, of melancholy.--
 How found you him?
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Stark, as you see;
+<b>ARVIRAGUS,</b> [as Cadwal]  Stark, as you see;
 Thus smiling, as some fly had tickled slumber,
 Not as Death's dart being laughed at; his right cheek
 Reposing on a cushion.
 
-<b>GUIDERIUS</b>, [as Polydor]  Where?
+<b>GUIDERIUS,</b> [as Polydor]  Where?
 
-<b>ARVIRAGUS</b>, [as Cadwal]  O' th' floor,
+<b>ARVIRAGUS,</b> [as Cadwal]  O' th' floor,
 His arms thus leagued. I thought he slept, and put
 My clouted brogues from off my feet, whose rudeness
 Answered my steps too loud.
 
-<b>GUIDERIUS</b>, [as Polydor]  Why, he but sleeps.
+<b>GUIDERIUS,</b> [as Polydor]  Why, he but sleeps.
 If he be gone, he'll make his grave a bed;
 With female fairies will his tomb be haunted--
 And worms will not come to thee.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  With fairest flowers,
+<b>ARVIRAGUS,</b> [as Cadwal]  With fairest flowers,
 Whilst summer lasts and I live here, Fidele,
 I'll sweeten thy sad grave. Thou shalt not lack
 The flower that's like thy face, pale primrose; nor
@@ -3596,32 +3592,32 @@ Without a monument--bring thee all this,
 Yea, and furred moss besides, when flowers are none
 To winter-ground thy corse.
 
-<b>GUIDERIUS</b>, [as Polydor]  Prithee, have done,
+<b>GUIDERIUS,</b> [as Polydor]  Prithee, have done,
 And do not play in wench-like words with that
 Which is so serious. Let us bury him
 And not protract with admiration what
 Is now due debt. To th' grave.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Say, where shall 's lay
+<b>ARVIRAGUS,</b> [as Cadwal]  Say, where shall 's lay
 him?
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 By good Euriphile, our mother.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Be 't so.
+<b>ARVIRAGUS,</b> [as Cadwal]  Be 't so.
 And let us, Polydor, though now our voices
 Have got the mannish crack, sing him to th' ground
 As once to our mother; use like note and words,
 Save that "Euriphile" must be "Fidele."
 
-<b>GUIDERIUS</b>, [as Polydor]  Cadwal,
+<b>GUIDERIUS,</b> [as Polydor]  Cadwal,
 I cannot sing. I'll weep, and word it with thee,
 For notes of sorrow, out of tune, are worse
 Than priests and fanes that lie.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  We'll speak it then.
+<b>ARVIRAGUS,</b> [as Cadwal]  We'll speak it then.
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Great griefs, I see, med'cine the less, for Cloten
 Is quite forgot. He was a queen's son, boys,
 And though he came our enemy, remember
@@ -3632,31 +3628,31 @@ Of place 'tween high and low. Our foe was princely,
 And though you took his life as being our foe,
 Yet bury him as a prince.
 
-<b>GUIDERIUS</b>, [as Polydor, to Morgan]  Pray you fetch him
+<b>GUIDERIUS,</b> [as Polydor, to Morgan]  Pray you fetch him
 hither.
 Thersites' body is as good as Ajax'
 When neither are alive.
 
-<b>ARVIRAGUS</b>, [as Cadwal, to Morgan]  If you'll go fetch
+<b>ARVIRAGUS,</b> [as Cadwal, to Morgan]  If you'll go fetch
 him,
 We'll say our song the whilst.--Brother, begin.
 [Belarius exits.]
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Nay, Cadwal, we must lay his head to th' east;
 My father hath a reason for 't.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  'Tis true.
+<b>ARVIRAGUS,</b> [as Cadwal]  'Tis true.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 Come on then, and remove him.
 [They move Imogen's body.]
 
-<b>ARVIRAGUS</b>, [as Cadwal]  So, begin.
+<b>ARVIRAGUS,</b> [as Cadwal]  So, begin.
 
 Song.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 	Fear no more the heat o' th' sun,
 	   Nor the furious winter's rages;
 	Thou thy worldly task hast done,
@@ -3664,7 +3660,7 @@ Song.
 	Golden lads and girls all must,
 	As chimney-sweepers, come to dust.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 	Fear no more the frown o' th' great;
 	   Thou art past the tyrant's stroke.
 	Care no more to clothe and eat;
@@ -3672,31 +3668,31 @@ Song.
 	The scepter, learning, physic must
 	All follow this and come to dust.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 	Fear no more the lightning flash.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 	   Nor th' all-dreaded thunderstone.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 	Fear not slander, censure rash;
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 	   Thou hast finished joy and moan.
 
 BOTH	All lovers young, all lovers must
 	Consign to thee and come to dust.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 	No exorciser harm thee,
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 	Nor no witchcraft charm thee.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 	Ghost unlaid forbear thee.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 	Nothing ill come near thee.
 
 BOTH	Quiet consummation have,
@@ -3705,11 +3701,11 @@ BOTH	Quiet consummation have,
 [Enter Belarius as Morgan, with the body of Cloten.]
 
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 We have done our obsequies. Come, lay him down.
 [Cloten's body is placed by Imogen's.]
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Here's a few flowers, but 'bout midnight more.
 The herbs that have on them cold dew o' th' night
 Are strewings fitt'st for graves. Upon their faces.--
@@ -3827,7 +3823,7 @@ Hath altered that good picture? What's thy interest
 In this sad wrack? How came 't? Who is 't?
 What art thou?
 
-<b>IMOGEN</b>, [as Fidele]  I am nothing; or if not,
+<b>IMOGEN,</b> [as Fidele]  I am nothing; or if not,
 Nothing to be were better. This was my master,
 A very valiant Briton, and a good,
 That here by mountaineers lies slain. Alas,
@@ -3841,14 +3837,14 @@ LUCIUS  'Lack, good youth,
 Thou mov'st no less with thy complaining than
 Thy master in bleeding. Say his name, good friend.
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 Richard du Champ. [Aside.] If I do lie and do
 No harm by it, though the gods hear, I hope
 They'll pardon it.--Say you, sir?
 
 LUCIUS  Thy name?
 
-<b>IMOGEN</b>, [as Fidele]  Fidele, sir.
+<b>IMOGEN,</b> [as Fidele]  Fidele, sir.
 
 LUCIUS
 Thou dost approve thyself the very same;
@@ -3859,7 +3855,7 @@ No less beloved. The Roman Emperor's letters
 Sent by a consul to me should not sooner
 Than thine own worth prefer thee. Go with me.
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 I'll follow, sir. But first, an 't please the gods,
 I'll hide my master from the flies as deep
 As these poor pickaxes can dig; and when
@@ -3881,7 +3877,7 @@ As soldiers can. Be cheerful; wipe thine eyes.
 Some falls are means the happier to arise.
 [They exit, the Soldiers carrying Cloten's body.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cymbeline, Lords, Pisanio, and Attendants.]
 
@@ -3955,28 +3951,28 @@ All other doubts, by time let them be cleared.
 Fortune brings in some boats that are not steered.
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Belarius as Morgan, Guiderius as Polydor,
 and Arviragus as Cadwal.]
 
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 The noise is round about us.
 
-<b>BELARIUS</b>, [as Morgan]  Let us from it.
+<b>BELARIUS,</b> [as Morgan]  Let us from it.
 
-<b>ARVIRAGUS</b>, [as Cadwal]
+<b>ARVIRAGUS,</b> [as Cadwal]
 What pleasure, sir, find we in life, to lock it
 From action and adventure?
 
-<b>GUIDERIUS</b>, [as Polydor]  Nay, what hope
+<b>GUIDERIUS,</b> [as Polydor]  Nay, what hope
 Have we in hiding us? This way the Romans
 Must or for Britons slay us or receive us
 For barbarous and unnatural revolts
 During their use, and slay us after.
 
-<b>BELARIUS</b>, [as Morgan]  Sons,
+<b>BELARIUS,</b> [as Morgan]  Sons,
 We'll higher to the mountains, there secure us.
 To the King's party there's no going. Newness
 Of Cloten's death--we being not known, not mustered
@@ -3985,18 +3981,18 @@ Where we have lived, and so extort from 's that
 Which we have done, whose answer would be death
 Drawn on with torture.
 
-<b>GUIDERIUS</b>, [as Polydor]  This is, sir, a doubt
+<b>GUIDERIUS,</b> [as Polydor]  This is, sir, a doubt
 In such a time nothing becoming you
 Nor satisfying us.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  It is not likely
+<b>ARVIRAGUS,</b> [as Cadwal]  It is not likely
 That when they hear the Roman horses neigh,
 Behold their quartered fires, have both their eyes
 And ears so cloyed importantly as now,
 That they will waste their time upon our note,
 To know from whence we are.
 
-<b>BELARIUS</b>, [as Morgan]  O, I am known
+<b>BELARIUS,</b> [as Morgan]  O, I am known
 Of many in the army. Many years,
 Though Cloten then but young, you see not wore him
 From my remembrance. And besides, the King
@@ -4007,13 +4003,13 @@ To have the courtesy your cradle promised,
 But to be still hot summer's tanlings and
 The shrinking slaves of winter.
 
-<b>GUIDERIUS</b>, [as Polydor]  Than be so
+<b>GUIDERIUS,</b> [as Polydor]  Than be so
 Better to cease to be. Pray, sir, to th' army.
 I and my brother are not known; yourself
 So out of thought, and thereto so o'ergrown,
 Cannot be questioned.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  By this sun that shines,
+<b>ARVIRAGUS,</b> [as Cadwal]  By this sun that shines,
 I'll thither. What thing is 't that I never
 Did see man die, scarce ever looked on blood
 But that of coward hares, hot goats, and venison!
@@ -4024,15 +4020,15 @@ To look upon the holy sun, to have
 The benefit of his blest beams, remaining
 So long a poor unknown.
 
-<b>GUIDERIUS</b>, [as Polydor]  By heavens, I'll go!
+<b>GUIDERIUS,</b> [as Polydor]  By heavens, I'll go!
 If you will bless me, sir, and give me leave,
 I'll take the better care, but if you will not,
 The hazard therefore due fall on me by
 The hands of Romans.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  So say I. Amen.
+<b>ARVIRAGUS,</b> [as Cadwal]  So say I. Amen.
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 No reason I--since of your lives you set
 So slight a valuation--should reserve
 My cracked one to more care. Have with you, boys!
@@ -4044,10 +4040,9 @@ Till it fly out and show them princes born.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Posthumus alone, wearing Roman garments and
 carrying a bloody cloth.]
@@ -4089,7 +4084,7 @@ To shame the guise o' th' world, I will begin
 The fashion: less without and more within.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lucius, Iachimo, and the Roman army at one
 door, and the Briton army at another, Leonatus Posthumus
@@ -4117,19 +4112,19 @@ taken. Then enter, to his rescue, Belarius as Morgan,
 Guiderius as Polydor, and Arviragus as Cadwal.]
 
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Stand, stand! We have th' advantage of the ground.
 The lane is guarded. Nothing routs us but
 The villainy of our fears.
 
-<b>GUIDERIUS</b>, as Polydor, and ARVIRAGUS, as Cadwal  Stand, stand, and fight!
+<b>GUIDERIUS,</b> as Polydor, and ARVIRAGUS, as Cadwal  Stand, stand, and fight!
 
 [Enter Posthumus, and seconds the Britons. They rescue
 Cymbeline and exit. Then enter Lucius, Iachimo, and
 Imogen as Fidele.]
 
 
-<b>LUCIUS</b>, [to Fidele]
+<b>LUCIUS,</b> [to Fidele]
 Away, boy, from the troops, and save thyself,
 For friends kill friends, and the disorder's such
 As war were hoodwinked.
@@ -4141,7 +4136,7 @@ It is a day turned strangely. Or betimes
 Let's reinforce, or fly.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Posthumus and a Briton Lord.]
 
@@ -4288,7 +4283,7 @@ Posthumus to Cymbeline, who delivers him over to a
 Jailer.]
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Posthumus in chains, and two Jailers.]
 
@@ -4472,7 +4467,7 @@ His radiant roof. Away, and, to be blest,
 Let us with care perform his great behest.
 [He places the tablet on Posthumus' breast. They vanish.]
 
-<b>POSTHUMUS</b>, [waking]
+<b>POSTHUMUS,</b> [waking]
 Sleep, thou hast been a grandsire and begot
 A father to me, and thou hast created
 A mother and two brothers. But, O scorn,
@@ -4585,14 +4580,14 @@ and gallowses! I speak against my present profit,
 but my wish hath a preferment in 't.
 [He exits.]
 
-<b>Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cymbeline, Belarius as Morgan, Guiderius as
 Polydor, Arviragus as Cadwal, Pisanio, Attendants,
 and Lords.]
 
 
-<b>CYMBELINE</b>, [to Morgan, Polydor, and Cadwal]
+<b>CYMBELINE,</b> [to Morgan, Polydor, and Cadwal]
 Stand by my side, you whom the gods have made
 Preservers of my throne. Woe is my heart
 That the poor soldier that so richly fought,
@@ -4601,7 +4596,7 @@ Stepped before targes of proof, cannot be found.
 He shall be happy that can find him, if
 Our grace can make him so.
 
-<b>BELARIUS</b>, [as Morgan]  I never saw
+<b>BELARIUS,</b> [as Morgan]  I never saw
 Such noble fury in so poor a thing,
 Such precious deeds in one that promised naught
 But beggary and poor looks.
@@ -4612,14 +4607,14 @@ PISANIO
 He hath been searched among the dead and living,
 But no trace of him.
 
-<b>CYMBELINE</b>, [to Morgan, Polydor, and Cadwal]
+<b>CYMBELINE,</b> [to Morgan, Polydor, and Cadwal]
 To my grief, I am
 The heir of his reward, which I will add
 To you, the liver, heart, and brain of Britain,
 By whom I grant she lives. 'Tis now the time
 To ask of whence you are. Report it.
 
-<b>BELARIUS</b>, [as Morgan]  Sir,
+<b>BELARIUS,</b> [as Morgan]  Sir,
 In Cambria are we born, and gentlemen.
 Further to boast were neither true nor modest,
 Unless I add we are honest.
@@ -4672,7 +4667,7 @@ Was as a scorpion to her sight, whose life,
 But that her flight prevented it, she had
 Ta'en off by poison.
 
-<b>CYMBELINE  O</b>, most delicate fiend!
+<b>CYMBELINE  O,</b> most delicate fiend!
 Who is 't can read a woman? Is there more?
 
 CORNELIUS
@@ -4744,13 +4739,13 @@ Fitting my bounty and thy state, I'll give it,
 Yea, though thou do demand a prisoner,
 The noblest ta'en.
 
-<b>IMOGEN</b>, [as Fidele]  I humbly thank your Highness.
+<b>IMOGEN,</b> [as Fidele]  I humbly thank your Highness.
 
 LUCIUS
 I do not bid thee beg my life, good lad,
 And yet I know thou wilt.
 
-<b>IMOGEN</b>, [as Fidele]  No, no, alack,
+<b>IMOGEN,</b> [as Fidele]  No, no, alack,
 There's other work in hand. I see a thing
 Bitter to me as death. Your life, good master,
 Must shuffle for itself.
@@ -4767,52 +4762,52 @@ What's best to ask. Know'st him thou look'st on?
 Speak.
 Wilt have him live? Is he thy kin? Thy friend?
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 He is a Roman, no more kin to me
 Than I to your Highness, who, being born your vassal,
 Am something nearer.
 
 CYMBELINE  Wherefore ey'st him so?
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 I'll tell you, sir, in private, if you please
 To give me hearing.
 
 CYMBELINE  Ay, with all my heart,
 And lend my best attention. What's thy name?
 
-<b>IMOGEN</b>, [as Fidele]
+<b>IMOGEN,</b> [as Fidele]
 Fidele, sir.
 
 CYMBELINE  Thou 'rt my good youth, my page.
 I'll be thy master. Walk with me. Speak freely.
 [Cymbeline and Imogen walk aside and talk.]
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Is not this boy revived from death?
 
-<b>ARVIRAGUS</b>, [as Cadwal]  One sand another
+<b>ARVIRAGUS,</b> [as Cadwal]  One sand another
 Not more resembles that sweet rosy lad
 Who died, and was Fidele. What think you?
 
-<b>GUIDERIUS</b>, [as Polydor]  The same dead thing alive.
+<b>GUIDERIUS,</b> [as Polydor]  The same dead thing alive.
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Peace, peace. See further. He eyes us not. Forbear.
 Creatures may be alike. Were 't he, I am sure
 He would have spoke to us.
 
-<b>GUIDERIUS</b>, [as Polydor]  But we see him dead.
+<b>GUIDERIUS,</b> [as Polydor]  But we see him dead.
 
-<b>BELARIUS</b>, [as Morgan]
+<b>BELARIUS,</b> [as Morgan]
 Be silent. Let's see further.
 
-<b>PISANIO</b>, [aside]  It is my mistress!
+<b>PISANIO,</b> [aside]  It is my mistress!
 Since she is living, let the time run on
 To good or bad.
 [Cymbeline and Imogen come forward.]
 
-<b>CYMBELINE</b>, [to Imogen]  Come, stand thou by our side.
+<b>CYMBELINE,</b> [to Imogen]  Come, stand thou by our side.
 Make thy demand aloud. [(To Iachimo.)] Sir, step
 you forth.
 Give answer to this boy, and do it freely,
@@ -4821,11 +4816,11 @@ Which is our honor, bitter torture shall
 Winnow the truth from falsehood.--On. Speak to
 him.
 
-<b>IMOGEN</b>, [as Fidele, pointing to Iachimo's hand]
+<b>IMOGEN,</b> [as Fidele, pointing to Iachimo's hand]
 My boon is that this gentleman may render
 Of whom he had this ring.
 
-<b>POSTHUMUS</b>, [aside]  What's that to him?
+<b>POSTHUMUS,</b> [aside]  What's that to him?
 
 CYMBELINE
 That diamond upon your finger, say
@@ -4926,7 +4921,7 @@ But think her bond of chastity quite cracked,
 I having ta'en the forfeit. Whereupon--
 Methinks I see him now--
 
-<b>POSTHUMUS</b>, [coming forward]  Ay, so thou dost,
+<b>POSTHUMUS,</b> [coming forward]  Ay, so thou dost,
 Italian fiend.--Ay me, most credulous fool,
 Egregious murderer, thief, anything
 That's due to all the villains past, in being,
@@ -4946,14 +4941,14 @@ Be villainy less than 'twas. O Imogen!
 My queen, my life, my wife! O Imogen,
 Imogen, Imogen!
 
-<b>IMOGEN</b>, [running to Posthumus]  Peace, my lord!
+<b>IMOGEN,</b> [running to Posthumus]  Peace, my lord!
 Hear, hear--
 
 POSTHUMUS
 Shall 's have a play of this? Thou scornful page,
 There lie thy part.	[He pushes her away; she falls.]
 
-<b>PISANIO  O</b>, gentlemen, help!--
+<b>PISANIO  O,</b> gentlemen, help!--
 Mine and your mistress! O my lord Posthumus,
 You ne'er killed Imogen till now! Help, help!
 Mine honored lady--
@@ -4971,7 +4966,7 @@ To death with mortal joy.
 
 PISANIO  How fares my mistress?
 
-<b>IMOGEN  O</b>, get thee from my sight!
+<b>IMOGEN  O,</b> get thee from my sight!
 Thou gav'st me poison. Dangerous fellow, hence.
 Breathe not where princes are.
 
@@ -5012,12 +5007,12 @@ Do their due functions.--Have you ta'en of it?
 IMOGEN
 Most like I did, for I was dead.
 
-<b>BELARIUS</b>, [as Morgan, aside to Guiderius and Arviragus]  My boys,
+<b>BELARIUS,</b> [as Morgan, aside to Guiderius and Arviragus]  My boys,
 There was our error.
 
-<b>GUIDERIUS</b>, [as Polydor]  This is sure Fidele.
+<b>GUIDERIUS,</b> [as Polydor]  This is sure Fidele.
 
-<b>IMOGEN</b>, [to Posthumus]
+<b>IMOGEN,</b> [to Posthumus]
 Why did you throw your wedded lady from you?
 Think that you are upon a rock, and now
 Throw me again.	[She embraces him.]
@@ -5025,17 +5020,17 @@ Throw me again.	[She embraces him.]
 POSTHUMUS  Hang there like fruit, my soul,
 Till the tree die.
 
-<b>CYMBELINE</b>, [to Imogen]  How now, my flesh, my child?
+<b>CYMBELINE,</b> [to Imogen]  How now, my flesh, my child?
 What, mak'st thou me a dullard in this act?
 Wilt thou not speak to me?
 
-<b>IMOGEN</b>, [kneeling]  Your blessing, sir.
+<b>IMOGEN,</b> [kneeling]  Your blessing, sir.
 
-<b>BELARIUS</b>, [as Morgan, aside to Guiderius and Arviragus]
+<b>BELARIUS,</b> [as Morgan, aside to Guiderius and Arviragus]
 Though you did love this youth, I blame you not.
 You had a motive for 't.
 
-<b>CYMBELINE</b>, [to Imogen]  My tears that fall
+<b>CYMBELINE,</b> [to Imogen]  My tears that fall
 Prove holy water on thee. Imogen,
 Thy mother's dead.
 
@@ -5063,7 +5058,7 @@ With unchaste purpose and with oath to violate
 My lady's honor. What became of him
 I further know not.
 
-<b>GUIDERIUS</b>, [as Polydor]  Let me end the story.
+<b>GUIDERIUS,</b> [as Polydor]  Let me end the story.
 I slew him there.
 
 CYMBELINE  Marry, the gods forfend!
@@ -5071,11 +5066,11 @@ I would not thy good deeds should from my lips
 Pluck a hard sentence. Prithee, valiant youth,
 Deny 't again.
 
-<b>GUIDERIUS</b>, [as Polydor]  I have spoke it, and I did it.
+<b>GUIDERIUS,</b> [as Polydor]  I have spoke it, and I did it.
 
 CYMBELINE  He was a prince.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 A most incivil one. The wrongs he did me
 Were nothing princelike, for he did provoke me
 With language that would make me spurn the sea
@@ -5094,7 +5089,7 @@ CYMBELINE  Bind the offender,
 And take him from our presence.
 [Attendants bind Guiderius.]
 
-<b>BELARIUS</b>, [as Morgan]  Stay, sir king.
+<b>BELARIUS,</b> [as Morgan]  Stay, sir king.
 This man is better than the man he slew,
 As well descended as thyself, and hath
 More of thee merited than a band of Clotens
@@ -5106,23 +5101,23 @@ Wilt thou undo the worth thou art unpaid for
 By tasting of our wrath? How of descent
 As good as we?
 
-<b>ARVIRAGUS</b>, [as Cadwal]  In that he spake too far.
+<b>ARVIRAGUS,</b> [as Cadwal]  In that he spake too far.
 
-<b>CYMBELINE</b>, [to Morgan]
+<b>CYMBELINE,</b> [to Morgan]
 And thou shalt die for 't.
 
-<b>BELARIUS</b>, [as Morgan]  We will die all three
+<b>BELARIUS,</b> [as Morgan]  We will die all three
 But I will prove that two on 's are as good
 As I have given out him.--My sons, I must
 For mine own part unfold a dangerous speech,
 Though haply well for you.
 
-<b>ARVIRAGUS</b>, [as Cadwal]  Your danger's ours.
+<b>ARVIRAGUS,</b> [as Cadwal]  Your danger's ours.
 
-<b>GUIDERIUS</b>, [as Polydor]
+<b>GUIDERIUS,</b> [as Polydor]
 And our good his.
 
-<b>BELARIUS</b>, [as Morgan]  Have at it, then.--By leave,
+<b>BELARIUS,</b> [as Morgan]  Have at it, then.--By leave,
 Thou hadst, great king, a subject who
 Was called Belarius.
 
@@ -5202,7 +5197,7 @@ Who hath upon him still that natural stamp.
 It was wise Nature's end in the donation
 To be his evidence now.
 
-<b>CYMBELINE  O</b>, what am I,
+<b>CYMBELINE  O,</b> what am I,
 A mother to the birth of three? Ne'er mother
 Rejoiced deliverance more.--Blest pray you be,
 That after this strange starting from your orbs,
@@ -5227,7 +5222,7 @@ Continued so until we thought he died.
 CORNELIUS
 By the Queen's dram she swallowed.
 
-<b>CYMBELINE</b>, [to Imogen]  O, rare instinct!
+<b>CYMBELINE,</b> [to Imogen]  O, rare instinct!
 When shall I hear all through? This fierce
 abridgment
 Hath to it circumstantial branches which
@@ -5250,7 +5245,7 @@ Is severally in all. Let's quit this ground,
 And smoke the temple with our sacrifices.
 Thou art my brother, so we'll hold thee ever.
 
-<b>IMOGEN</b>, [to Belarius]
+<b>IMOGEN,</b> [to Belarius]
 You are my father too, and did relieve me
 To see this gracious season.
 
@@ -5258,7 +5253,7 @@ CYMBELINE  All o'erjoyed
 Save these in bonds; let them be joyful too,
 For they shall taste our comfort.
 
-<b>IMOGEN</b>, [to Lucius]  My good master,
+<b>IMOGEN,</b> [to Lucius]  My good master,
 I will yet do you service.
 
 LUCIUS  Happy be you!
@@ -5275,7 +5270,7 @@ The purpose I then followed. That I was he,
 Speak, Iachimo. I had you down and might
 Have made you finish.
 
-<b>IACHIMO</b>, [kneeling]  I am down again,
+<b>IACHIMO,</b> [kneeling]  I am down again,
 But now my heavy conscience sinks my knee,
 As then your force did. Take that life, beseech you,
 Which I so often owe; but your ring first,
@@ -5292,7 +5287,7 @@ CYMBELINE  Nobly doomed.
 We'll learn our freeness of a son-in-law:
 Pardon's the word to all.	[Iachimo rises.]
 
-<b>ARVIRAGUS</b>, [to Posthumus]  You holp us, sir,
+<b>ARVIRAGUS,</b> [to Posthumus]  You holp us, sir,
 As you did mean indeed to be our brother.
 Joyed are we that you are.
 
@@ -5309,7 +5304,7 @@ His skill in the construction.
 
 LUCIUS  Philarmonus!
 
-<b>SOOTHSAYER</b>, [coming forward]
+<b>SOOTHSAYER,</b> [coming forward]
 Here, my good lord.
 
 LUCIUS  Read, and declare the meaning.

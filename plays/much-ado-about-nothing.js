@@ -8,25 +8,25 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>LEONATO</b>, Governor of Messina
-<b>HERO</b>, his daughter
-<b>BEATRICE</b>, his niece
+<b>LEONATO,</b> Governor of Messina
+<b>HERO,</b> his daughter
+<b>BEATRICE,</b> his niece
 LEONATO'S BROTHER
 Waiting gentlewomen to Hero:
   MARGARET
   URSULA
-<b>DON PEDRO</b>, Prince of Aragon
-<b>COUNT CLAUDIO</b>, a young lord from Florence
-<b>SIGNIOR BENEDICK</b>, a gentleman from Padua
+<b>DON PEDRO,</b> Prince of Aragon
+<b>COUNT CLAUDIO,</b> a young lord from Florence
+<b>SIGNIOR BENEDICK,</b> a gentleman from Padua
 BALTHASAR
 SIGNIOR ANTONIO
-<b>DON JOHN</b>, Don Pedro's brother
+<b>DON JOHN,</b> Don Pedro's brother
 Don John's followers:
   BORACHIO
   CONRADE
-<b>DOGBERRY</b>, Master Constable in Messina
-<b>VERGES</b>, Dogberry's partner
-<b>GEORGE SEACOAL</b>, leader of the Watch
+<b>DOGBERRY,</b> Master Constable in Messina
+<b>VERGES,</b> Dogberry's partner
+<b>GEORGE SEACOAL,</b> leader of the Watch
 FIRST WATCHMAN
 SECOND WATCHMAN
 SEXTON
@@ -37,16 +37,15 @@ BOY
 Musicians, Lords, Attendants, Son to Leonato's brother
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato, Governor of Messina, Hero his daughter,
 and Beatrice his niece, with a Messenger.]
 
 
-<b>LEONATO</b>, [with a letter]  I learn in this letter that Don
+<b>LEONATO,</b> [with a letter]  I learn in this letter that Don
 Pedro of Aragon comes this night to Messina.
 
 MESSENGER  He is very near by this. He was not three
@@ -96,7 +95,7 @@ LEONATO  What is he that you ask for, niece?
 
 HERO  My cousin means Signior Benedick of Padua.
 
-<b>MESSENGER  O</b>, he's returned, and as pleasant as ever
+<b>MESSENGER  O,</b> he's returned, and as pleasant as ever
 he was.
 
 BEATRICE  He set up his bills here in Messina and
@@ -461,7 +460,7 @@ PRINCE
 No child but Hero; she's his only heir.
 Dost thou affect her, Claudio?
 
-<b>CLAUDIO  O</b>, my lord,
+<b>CLAUDIO  O,</b> my lord,
 When you went onward on this ended action,
 I looked upon her with a soldier's eye,
 That liked, but had a rougher task in hand
@@ -502,7 +501,7 @@ And the conclusion is, she shall be thine.
 In practice let us put it presently.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Leonato, meeting an old man, brother to
 Leonato.]
@@ -547,7 +546,7 @@ your skill.--Good cousin, have a care this busy
 time.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sir John the Bastard, and Conrade, his
 companion.]
@@ -653,10 +652,9 @@ BORACHIO  We'll wait upon your Lordship.
 [They exit.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato, his brother, Hero his daughter, and
 Beatrice his niece, with Ursula and Margaret.]
@@ -746,7 +744,7 @@ an account of her life to a clod of wayward marl?
 No, uncle, I'll none. Adam's sons are my brethren,
 and truly I hold it a sin to match in my kindred.
 
-<b>LEONATO</b>, [to Hero]  Daughter, remember what I told
+<b>LEONATO,</b> [to Hero]  Daughter, remember what I told
 you. If the Prince do solicit you in that kind, you
 know your answer.
 
@@ -775,7 +773,7 @@ Benedick, Signior Antonio, and Balthasar, all in
 masks, with Borachio and Don John.]
 
 
-<b>PRINCE</b>, [to Hero]  Lady, will you walk a bout with your
+<b>PRINCE,</b> [to Hero]  Lady, will you walk a bout with your
 friend?	[They begin to dance.]
 
 HERO  So you walk softly, and look sweetly, and say
@@ -800,7 +798,7 @@ PRINCE  Speak low if you speak love.
 [They move aside;
 Benedick and Margaret move forward.]
 
-<b>BENEDICK</b>, [to Margaret]  Well, I would you did like me.
+<b>BENEDICK,</b> [to Margaret]  Well, I would you did like me.
 
 MARGARET  So would not I for your own sake, for I have
 many ill qualities.
@@ -894,7 +892,7 @@ at the next turning.
 [Dance. Then exit all except
 Don John, Borachio, and Claudio.]
 
-<b>DON JOHN</b>, [to Borachio]  Sure my brother is amorous
+<b>DON JOHN,</b> [to Borachio]  Sure my brother is amorous
 on Hero, and hath withdrawn her father to break
 with him about it. The ladies follow her, and but one
 visor remains.
@@ -902,7 +900,7 @@ visor remains.
 BORACHIO  And that is Claudio. I know him by his
 bearing.
 
-<b>DON JOHN</b>, [to Claudio]  Are not you Signior Benedick?
+<b>DON JOHN,</b> [to Claudio]  Are not you Signior Benedick?
 
 CLAUDIO  You know me well. I am he.
 
@@ -921,7 +919,7 @@ her tonight.
 DON JOHN  Come, let us to the banquet.
 [They exit. Claudio remains.]
 
-<b>CLAUDIO</b>, [unmasking]
+<b>CLAUDIO,</b> [unmasking]
 Thus answer I in name of Benedick,
 But hear these ill news with the ears of Claudio.
 'Tis certain so. The Prince woos for himself.
@@ -1015,7 +1013,7 @@ PRINCE  The Lady Beatrice hath a quarrel to you. The
 gentleman that danced with her told her she is
 much wronged by you.
 
-<b>BENEDICK  O</b>, she misused me past the endurance of a
+<b>BENEDICK  O,</b> she misused me past the endurance of a
 block! An oak but with one green leaf on it would
 have answered her. My very visor began to assume
 life and scold with her. She told me, not thinking I
@@ -1058,7 +1056,7 @@ PRINCE  None but to desire your good company.
 BENEDICK  O God, sir, here's a dish I love not! I cannot
 endure my Lady Tongue.	[He exits.]
 
-<b>PRINCE</b>, [to Beatrice]  Come, lady, come, you have lost
+<b>PRINCE,</b> [to Beatrice]  Come, lady, come, you have lost
 the heart of Signior Benedick.
 
 BEATRICE  Indeed, my lord, he lent it me awhile, and I
@@ -1157,7 +1155,7 @@ waked herself with laughing.
 
 PRINCE  She cannot endure to hear tell of a husband.
 
-<b>LEONATO  O</b>, by no means. She mocks all her wooers
+<b>LEONATO  O,</b> by no means. She mocks all her wooers
 out of suit.
 
 PRINCE  She were an excellent wife for Benedick.
@@ -1175,7 +1173,7 @@ LEONATO  Not till Monday, my dear son, which is hence
 a just sevennight, and a time too brief, too, to have
 all things answer my mind.
 
-<b>PRINCE</b>, [to Claudio]  Come, you shake the head at so
+<b>PRINCE,</b> [to Claudio]  Come, you shake the head at so
 long a breathing, but I warrant thee, Claudio, the
 time shall not go dully by us. I will in the interim
 undertake one of Hercules' labors, which is to bring
@@ -1208,7 +1206,7 @@ glory shall be ours, for we are the only love gods. Go
 in with me, and I will tell you my drift.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Don John and Borachio.]
 
@@ -1287,7 +1285,7 @@ DON JOHN  I will presently go learn their day of
 marriage.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Benedick alone.]
 
@@ -1347,10 +1345,10 @@ CLAUDIO
 Yea, my good lord. How still the evening is,
 As hushed on purpose to grace harmony!
 
-<b>PRINCE</b>, [aside to Claudio]
+<b>PRINCE,</b> [aside to Claudio]
 See you where Benedick hath hid himself?
 
-<b>CLAUDIO</b>, [aside to Prince]
+<b>CLAUDIO,</b> [aside to Prince]
 O, very well my lord. The music ended,
 We'll fit the kid-fox with a pennyworth.
 
@@ -1383,7 +1381,7 @@ PRINCE
 Why, these are very crotchets that he speaks!
 Note notes, forsooth, and nothing.	[Music plays.]
 
-<b>BENEDICK</b>, [aside]  Now, divine air! Now is his soul
+<b>BENEDICK,</b> [aside]  Now, divine air! Now is his soul
 ravished. Is it not strange that sheeps' guts should
 hale souls out of men's bodies? Well, a horn for my
 money, when all's done.
@@ -1414,7 +1412,7 @@ BALTHASAR  And an ill singer, my lord.
 PRINCE  Ha, no, no, faith, thou sing'st well enough for a
 shift.
 
-<b>BENEDICK</b>, [aside]  An he had been a dog that should
+<b>BENEDICK,</b> [aside]  An he had been a dog that should
 have howled thus, they would have hanged him. And
 I pray God his bad voice bode no mischief. I had as
 lief have heard the night raven, come what plague
@@ -1432,7 +1430,7 @@ Come hither, Leonato. What was it you told me of
 today, that your niece Beatrice was in love with
 Signior Benedick?
 
-<b>CLAUDIO  O</b>, ay. [Aside to Prince.] Stalk on, stalk on; the
+<b>CLAUDIO  O,</b> ay. [Aside to Prince.] Stalk on, stalk on; the
 fowl sits.--I did never think that lady would have
 loved any man.
 
@@ -1441,7 +1439,7 @@ she should so dote on Signior Benedick, whom she
 hath in all outward behaviors seemed ever to
 abhor.
 
-<b>BENEDICK</b>, [aside]  Is 't possible? Sits the wind in that
+<b>BENEDICK,</b> [aside]  Is 't possible? Sits the wind in that
 corner?
 
 LEONATO  By my troth, my lord, I cannot tell what to
@@ -1458,7 +1456,7 @@ she discovers it.
 
 PRINCE  Why, what effects of passion shows she?
 
-<b>CLAUDIO</b>, [aside to Leonato]  Bait the hook well; this fish
+<b>CLAUDIO,</b> [aside to Leonato]  Bait the hook well; this fish
 will bite.
 
 LEONATO  What effects, my lord? She will sit you--you
@@ -1473,11 +1471,11 @@ all assaults of affection.
 LEONATO  I would have sworn it had, my lord, especially
 against Benedick.
 
-<b>BENEDICK</b>, [aside]  I should think this a gull but that the
+<b>BENEDICK,</b> [aside]  I should think this a gull but that the
 white-bearded fellow speaks it. Knavery cannot,
 sure, hide himself in such reverence.
 
-<b>CLAUDIO</b>, [aside to Prince]  He hath ta'en th' infection.
+<b>CLAUDIO,</b> [aside to Prince]  He hath ta'en th' infection.
 Hold it up.
 
 PRINCE  Hath she made her affection known to
@@ -1498,13 +1496,13 @@ a sheet of paper. My daughter tells us all.
 CLAUDIO  Now you talk of a sheet of paper, I remember
 a pretty jest your daughter told us of.
 
-<b>LEONATO  O</b>, when she had writ it and was reading it
+<b>LEONATO  O,</b> when she had writ it and was reading it
 over, she found "Benedick" and "Beatrice" between
 the sheet?
 
 CLAUDIO  That.
 
-<b>LEONATO  O</b>, she tore the letter into a thousand halfpence,
+<b>LEONATO  O,</b> she tore the letter into a thousand halfpence,
 railed at herself that she should be so
 immodest to write to one that she knew would flout
 her. "I measure him," says she, "by my own spirit,
@@ -1534,7 +1532,7 @@ CLAUDIO  And she is exceeding wise.
 
 PRINCE  In everything but in loving Benedick.
 
-<b>LEONATO  O</b>, my lord, wisdom and blood combating in
+<b>LEONATO  O,</b> my lord, wisdom and blood combating in
 so tender a body, we have ten proofs to one that
 blood hath the victory. I am sorry for her, as I have
 just cause, being her uncle and her guardian.
@@ -1595,11 +1593,11 @@ see how much he is unworthy so good a lady.
 LEONATO  My lord, will you walk? Dinner is ready.
 [Leonato, Prince, and Claudio begin to exit.]
 
-<b>CLAUDIO</b>, [aside to Prince and Leonato]  If he do not
+<b>CLAUDIO,</b> [aside to Prince and Leonato]  If he do not
 dote on her upon this, I will never trust my
 expectation.
 
-<b>PRINCE</b>, [aside to Leonato]  Let there be the same net
+<b>PRINCE,</b> [aside to Leonato]  Let there be the same net
 spread for her, and that must your daughter and her
 gentlewomen carry. The sport will be when they
 hold one an opinion of another's dotage, and no
@@ -1608,7 +1606,7 @@ which will be merely a dumb show. Let us send her
 to call him in to dinner.
 [Prince, Leonato, and Claudio exit.]
 
-<b>BENEDICK</b>, [coming forward]  This can be no trick. The
+<b>BENEDICK,</b> [coming forward]  This can be no trick. The
 conference was sadly borne; they have the truth of
 this from Hero; they seem to pity the lady. It seems
 her affections have their full bent. Love me? Why, it
@@ -1663,10 +1661,9 @@ do not love her, I am a Jew. I will go get her picture.
 [He exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hero and two gentlewomen, Margaret and Ursula.]
 
@@ -1707,7 +1704,7 @@ Close by the ground, to hear our conference.
 [Enter Beatrice, who hides in the bower.]
 
 
-<b>URSULA</b>, [aside to Hero]
+<b>URSULA,</b> [aside to Hero]
 The pleasant'st angling is to see the fish
 Cut with her golden oars the silver stream
 And greedily devour the treacherous bait.
@@ -1715,7 +1712,7 @@ So angle we for Beatrice, who even now
 Is couched in the woodbine coverture.
 Fear you not my part of the dialogue.
 
-<b>HERO</b>, [aside to Ursula]
+<b>HERO,</b> [aside to Ursula]
 Then go we near her, that her ear lose nothing
 Of the false sweet bait that we lay for it.--
 [They walk near the bower.]
@@ -1829,16 +1826,16 @@ I'll show thee some attires and have thy counsel
 Which is the best to furnish me tomorrow.
 [They move away from the bower.]
 
-<b>URSULA</b>, [aside to Hero]
+<b>URSULA,</b> [aside to Hero]
 She's limed, I warrant you. We have caught her,
 madam.
 
-<b>HERO</b>, [aside to Ursula]
+<b>HERO,</b> [aside to Ursula]
 If it prove so, then loving goes by haps;
 Some Cupid kills with arrows, some with traps.
 [Hero and Ursula exit.]
 
-<b>BEATRICE</b>, [coming forward]
+<b>BEATRICE,</b> [coming forward]
 What fire is in mine ears? Can this be true?
    Stand I condemned for pride and scorn so much?
 Contempt, farewell, and maiden pride, adieu!
@@ -1851,7 +1848,7 @@ For others say thou dost deserve, and I
 Believe it better than reportingly.
 [She exits.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prince, Claudio, Benedick, and Leonato.]
 
@@ -1980,7 +1977,7 @@ hear, for what I would speak of concerns him.
 
 PRINCE  What's the matter?
 
-<b>DON JOHN</b>, [to Claudio]  Means your Lordship to be
+<b>DON JOHN,</b> [to Claudio]  Means your Lordship to be
 married tomorrow?
 
 PRINCE  You know he does.
@@ -2020,7 +2017,7 @@ night before her wedding day. If you love her then,
 tomorrow wed her. But it would better fit your
 honor to change your mind.
 
-<b>CLAUDIO</b>, [to Prince]  May this be so?
+<b>CLAUDIO,</b> [to Prince]  May this be so?
 
 PRINCE  I will not think it.
 
@@ -2048,7 +2045,7 @@ DON JOHN  O plague right well prevented! So will you
 say when you have seen the sequel.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Dogberry and his compartner Verges
 with the Watch.]
@@ -2140,7 +2137,7 @@ partner.
 DOGBERRY  Truly, I would not hang a dog by my will,
 much more a man who hath any honesty in him.
 
-<b>VERGES</b>, [to the Watch]  If you hear a child cry in the
+<b>VERGES,</b> [to the Watch]  If you hear a child cry in the
 night, you must call to the nurse and bid her still it.
 
 SECOND WATCHMAN  How if the nurse be asleep and
@@ -2188,7 +2185,7 @@ tonight. Adieu, be vigitant, I beseech you.
 
 BORACHIO  What, Conrade!
 
-<b>SEACOAL</b>, [aside]  Peace, stir not.
+<b>SEACOAL,</b> [aside]  Peace, stir not.
 
 BORACHIO  Conrade, I say!
 
@@ -2204,7 +2201,7 @@ BORACHIO  Stand thee close, then, under this penthouse,
 for it drizzles rain, and I will, like a true
 drunkard, utter all to thee.
 
-<b>SEACOAL</b>, [aside]  Some treason, masters. Yet stand
+<b>SEACOAL,</b> [aside]  Some treason, masters. Yet stand
 close.
 
 BORACHIO  Therefore know, I have earned of Don
@@ -2234,7 +2231,7 @@ BORACHIO  Tush, I may as well say the fool's the fool.
 But seest thou not what a deformed thief this
 fashion is?
 
-<b>FIRST WATCHMAN</b>, [aside]  I know that Deformed. He
+<b>FIRST WATCHMAN,</b> [aside]  I know that Deformed. He
 has been a vile thief this seven year. He goes up and
 down like a gentleman. I remember his name.
 
@@ -2298,20 +2295,20 @@ know him; he wears a lock.
 
 DOGBERRY  Masters, masters--
 
-<b>FIRST WATCHMAN</b>, [to Borachio]  You'll be made bring
+<b>FIRST WATCHMAN,</b> [to Borachio]  You'll be made bring
 Deformed forth, I warrant you.
 
-<b>DOGBERRY</b>, [to Borachio and Conrade]  Masters, never
+<b>DOGBERRY,</b> [to Borachio and Conrade]  Masters, never
 speak, we charge you, let us obey you to go with us.
 
-<b>BORACHIO</b>, [to Conrade]  We are like to prove a goodly
+<b>BORACHIO,</b> [to Conrade]  We are like to prove a goodly
 commodity, being taken up of these men's bills.
 
 CONRADE  A commodity in question, I warrant you.--
 Come, we'll obey you.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Hero, and Margaret, and Ursula.]
 
@@ -2341,7 +2338,7 @@ hair were a thought browner; and your gown's a
 most rare fashion, i' faith. I saw the Duchess of
 Milan's gown that they praise so.
 
-<b>HERO  O</b>, that exceeds, they say.
+<b>HERO  O,</b> that exceeds, they say.
 
 MARGARET  By my troth, 's but a nightgown in respect
 of yours--cloth o' gold, and cuts, and laced with
@@ -2387,7 +2384,7 @@ BEATRICE  You light o' love with your heels! Then, if
 your husband have stables enough, you'll see he
 shall lack no barns.
 
-<b>MARGARET  O</b>, illegitimate construction! I scorn that
+<b>MARGARET  O,</b> illegitimate construction! I scorn that
 with my heels.
 
 BEATRICE  'Tis almost five o'clock, cousin. 'Tis time
@@ -2414,7 +2411,7 @@ BEATRICE  I am stuffed, cousin. I cannot smell.
 MARGARET  A maid, and stuffed! There's goodly catching
 of cold.
 
-<b>BEATRICE  O</b>, God help me, God help me! How long
+<b>BEATRICE  O,</b> God help me, God help me! How long
 have you professed apprehension?
 
 MARGARET  Ever since you left it. Doth not my wit
@@ -2461,7 +2458,7 @@ HERO  Help to dress me, good coz, good Meg, good
 Ursula.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Leonato, and Dogberry, the Constable, and
 Verges, the Headborough.]
@@ -2564,10 +2561,9 @@ and meet me at the jail.
 [They exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prince, John the Bastard, Leonato, Friar,
 Claudio, Benedick, Hero, and Beatrice, with
@@ -2578,7 +2574,7 @@ LEONATO  Come, Friar Francis, be brief, only to the
 plain form of marriage, and you shall recount their
 particular duties afterwards.
 
-<b>FRIAR</b>, [to Claudio]  You come hither, my lord, to marry
+<b>FRIAR,</b> [to Claudio]  You come hither, my lord, to marry
 this lady?
 
 CLAUDIO  No.
@@ -2603,7 +2599,7 @@ FRIAR  Know you any, count?
 
 LEONATO  I dare make his answer, none.
 
-<b>CLAUDIO  O</b>, what men dare do! What men may do!
+<b>CLAUDIO  O,</b> what men dare do! What men may do!
 What men daily do, not knowing what they do!
 
 BENEDICK  How now, interjections? Why, then, some
@@ -2779,9 +2775,9 @@ That may be wished for.
 
 BEATRICE  How now, cousin Hero?	[Hero stirs.]
 
-<b>FRIAR</b>, [to Hero]  Have comfort, lady.
+<b>FRIAR,</b> [to Hero]  Have comfort, lady.
 
-<b>LEONATO</b>, [to Hero]
+<b>LEONATO,</b> [to Hero]
 Dost thou look up?
 
 FRIAR  Yea, wherefore should she not?
@@ -3090,7 +3086,7 @@ As you hear of me, so think of me. Go comfort your
 cousin. I must say she is dead, and so farewell.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Constables Dogberry and Verges, and the
 Town Clerk, or Sexton, in gowns, with the Watch,
@@ -3099,7 +3095,7 @@ Conrade, and Borachio.]
 
 DOGBERRY  Is our whole dissembly appeared?
 
-<b>VERGES  O</b>, a stool and a cushion for the Sexton.
+<b>VERGES  O,</b> a stool and a cushion for the Sexton.
 [A stool is brought in; the Sexton sits.]
 
 SEXTON  Which be the malefactors?
@@ -3169,7 +3165,7 @@ BORACHIO  Master constable--
 DOGBERRY  Pray thee, fellow, peace. I do not like thy
 look, I promise thee.
 
-<b>SEXTON</b>, [to Watch]  What heard you him say else?
+<b>SEXTON,</b> [to Watch]  What heard you him say else?
 
 SEACOAL  Marry, that he had received a thousand
 ducats of Don John for accusing the Lady Hero
@@ -3185,7 +3181,7 @@ FIRST WATCHMAN  And that Count Claudio did mean,
 upon his words, to disgrace Hero before the whole
 assembly, and not marry her.
 
-<b>DOGBERRY</b>, [to Borachio]  O, villain! Thou wilt be condemned
+<b>DOGBERRY,</b> [to Borachio]  O, villain! Thou wilt be condemned
 into everlasting redemption for this!
 
 SEXTON  What else?
@@ -3229,10 +3225,9 @@ had been writ down an ass!
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato and his brother.]
 
@@ -3430,7 +3425,7 @@ See, see, here comes the man we went to seek.
 
 CLAUDIO  Now, signior, what news?
 
-<b>BENEDICK</b>, [to Prince]  Good day, my lord.
+<b>BENEDICK,</b> [to Prince]  Good day, my lord.
 
 PRINCE  Welcome, signior. You are almost come to
 part almost a fray.
@@ -3460,7 +3455,7 @@ the minstrels: draw to pleasure us.
 PRINCE  As I am an honest man, he looks pale.--Art
 thou sick, or angry?
 
-<b>CLAUDIO</b>, [to Benedick]  What, courage, man! What
+<b>CLAUDIO,</b> [to Benedick]  What, courage, man! What
 though care killed a cat? Thou hast mettle enough
 in thee to kill care.
 
@@ -3468,7 +3463,7 @@ BENEDICK  Sir, I shall meet your wit in the career, an
 you charge it against me. I pray you, choose another
 subject.
 
-<b>CLAUDIO</b>, [to Prince]  Nay, then, give him another staff.
+<b>CLAUDIO,</b> [to Prince]  Nay, then, give him another staff.
 This last was broke 'cross.
 
 PRINCE  By this light, he changes more and more. I
@@ -3480,7 +3475,7 @@ BENEDICK  Shall I speak a word in your ear?
 
 CLAUDIO  God bless me from a challenge!
 
-<b>BENEDICK</b>, [aside to Claudio]  You are a villain. I jest
+<b>BENEDICK,</b> [aside to Claudio]  You are a villain. I jest
 not. I will make it good how you dare, with what you
 dare, and when you dare. Do me right, or I will
 protest your cowardice. You have killed a sweet
@@ -3589,7 +3584,7 @@ to their charge.
 CLAUDIO  Rightly reasoned, and in his own division;
 and, by my troth, there's one meaning well suited.
 
-<b>PRINCE</b>, [to Borachio and Conrade]  Who have you offended,
+<b>PRINCE,</b> [to Borachio and Conrade]  Who have you offended,
 masters, that you are thus bound to your
 answer? This learned constable is too cunning to be
 understood. What's your offense?
@@ -3610,13 +3605,13 @@ dead upon mine and my master's false accusation.
 And, briefly, I desire nothing but the reward of a
 villain.
 
-<b>PRINCE</b>, [to Claudio]
+<b>PRINCE,</b> [to Claudio]
 Runs not this speech like iron through your blood?
 
 CLAUDIO
 I have drunk poison whiles he uttered it.
 
-<b>PRINCE</b>, [to Borachio]
+<b>PRINCE,</b> [to Borachio]
 But did my brother set thee on to this?
 
 BORACHIO  Yea, and paid me richly for the practice of
@@ -3691,7 +3686,7 @@ And she alone is heir to both of us.
 Give her the right you should have giv'n her cousin,
 And so dies my revenge.
 
-<b>CLAUDIO  O</b>, noble sir!
+<b>CLAUDIO  O,</b> noble sir!
 Your overkindness doth wring tears from me.
 I do embrace your offer and dispose
 For henceforth of poor Claudio.
@@ -3708,7 +3703,7 @@ Nor knew not what she did when she spoke to me,
 But always hath been just and virtuous
 In anything that I do know by her.
 
-<b>DOGBERRY</b>, [to Leonato]  Moreover, sir, which indeed is
+<b>DOGBERRY,</b> [to Leonato]  Moreover, sir, which indeed is
 not under white and black, this plaintiff here, the
 offender, did call me ass. I beseech you, let it be
 remembered in his punishment. And also the watch
@@ -3724,7 +3719,7 @@ LEONATO  I thank thee for thy care and honest pains.
 DOGBERRY  Your Worship speaks like a most thankful
 and reverent youth, and I praise God for you.
 
-<b>LEONATO</b>, [giving him money]  There's for thy pains.
+<b>LEONATO,</b> [giving him money]  There's for thy pains.
 
 DOGBERRY  God save the foundation.
 
@@ -3750,13 +3745,13 @@ We will not fail.
 
 CLAUDIO  Tonight I'll mourn with Hero.
 
-<b>LEONATO</b>, [to Watch]
+<b>LEONATO,</b> [to Watch]
 Bring you these fellows on.--We'll talk with
 Margaret,
 How her acquaintance grew with this lewd fellow.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Benedick and Margaret.]
 
@@ -3821,7 +3816,7 @@ thee?
 
 BEATRICE  Yea, signior, and depart when you bid me.
 
-<b>BENEDICK  O</b>, stay but till then!
+<b>BENEDICK  O,</b> stay but till then!
 
 BEATRICE  "Then" is spoken. Fare you well now. And
 yet, ere I go, let me go with that I came, which is,
@@ -3905,7 +3900,7 @@ buried in thy eyes--and, moreover, I will go with
 thee to thy uncle's.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Claudio, Prince, and three or four Lords with
 tapers, and Musicians.]
@@ -3915,7 +3910,7 @@ CLAUDIO  Is this the monument of Leonato?
 
 FIRST LORD  It is, my lord.
 
-<b>CLAUDIO</b>, [reading an Epitaph.]
+<b>CLAUDIO,</b> [reading an Epitaph.]
 
 	Done to death by slanderous tongues
 	   Was the Hero that here lies.
@@ -3965,7 +3960,7 @@ And Hymen now with luckier issue speed 's,
    Than this for whom we rendered up this woe.
 [They exit.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Leonato, Benedick, Beatrice, Margaret, Ursula,
 Leonato's brother, Friar, Hero.]
@@ -4086,7 +4081,7 @@ LEONATO
 No, that you shall not till you take her hand
 Before this friar and swear to marry her.
 
-<b>CLAUDIO</b>, [to Hero]
+<b>CLAUDIO,</b> [to Hero]
 Give me your hand before this holy friar.
 [They take hands.]
 I am your husband, if you like of me.
@@ -4119,7 +4114,7 @@ And to the chapel let us presently.
 BENEDICK
 Soft and fair, friar.--Which is Beatrice?
 
-<b>BEATRICE</b>, [unmasking]
+<b>BEATRICE,</b> [unmasking]
 I answer to that name. What is your will?
 
 BENEDICK
@@ -4213,11 +4208,11 @@ with horn.
 [Enter Messenger.]
 
 
-<b>MESSENGER</b>, [to Prince]
+<b>MESSENGER,</b> [to Prince]
 My lord, your brother John is ta'en in flight,
 And brought with armed men back to Messina.
 
-<b>BENEDICK</b>, [to Prince]  Think not on him till tomorrow.
+<b>BENEDICK,</b> [to Prince]  Think not on him till tomorrow.
 I'll devise thee brave punishments for him.--Strike
 up, pipers!	[Music plays. They dance.]
 [They exit.]`;

@@ -8,15 +8,15 @@ Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
 <hr>
-<b>TIMON</b>, a noble Athenian
-<b>FLAVIUS</b>, his steward
+<b>TIMON,</b> a noble Athenian
+<b>FLAVIUS,</b> his steward
 Servants of Timon:
   LUCILIUS
   FLAMINIUS
   SERVILIUS
 Other SERVANTS of Timon
-<b>APEMANTUS</b>, a Cynic philosopher
-<b>ALCIBIADES</b>, an Athenian Captain
+<b>APEMANTUS,</b> a Cynic philosopher
+<b>ALCIBIADES,</b> an Athenian Captain
 His concubines:
   PHRYNIA
   TIMANDRA
@@ -44,15 +44,14 @@ An OLD ATHENIAN
 FOOL
 PAGE
 Three STRANGERS, one called HOSTILIUS
-<b>BANDITTI</b>, theives
+<b>BANDITTI,</b> theives
 "Cupid" and other Maskers (as Amazons)
 Soldiers, Servants, Messengers, Attendants, Musicians
 
 
-<b>ACT 1</b>
-<hr>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b>Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Poet, Painter, Jeweler, and Merchant, at several
 doors.]
@@ -76,7 +75,7 @@ Hath conjured to attend. I know the merchant.
 
 PAINTER  I know them both. Th' other's a jeweler.
 
-<b>MERCHANT</b>, [to Jeweler]
+<b>MERCHANT,</b> [to Jeweler]
 O, 'tis a worthy lord!
 
 JEWELER  Nay, that's most fixed.
@@ -94,17 +93,17 @@ O, pray, let's see 't. For the Lord Timon, sir?
 JEWELER
 If he will touch the estimate. But for that--
 
-<b>POET</b>, [to Painter]
+<b>POET,</b> [to Painter]
 When we for recompense have praised the vile,
 It stains the glory in that happy verse
 Which aptly sings the good.
 
-<b>MERCHANT</b>, [looking at the jewel]
+<b>MERCHANT,</b> [looking at the jewel]
 'Tis a good form.
 
 JEWELER  And rich. Here is a water, look ye.
 
-<b>PAINTER</b>, [to Poet]
+<b>PAINTER,</b> [to Poet]
 You are rapt, sir, in some work, some dedication
 To the great lord.
 
@@ -310,7 +309,7 @@ OLD MAN  She is young and apt.
 Our own precedent passions do instruct us
 What levity's in youth.
 
-<b>TIMON</b>, [to Lucilius]  Love you the maid?
+<b>TIMON,</b> [to Lucilius]  Love you the maid?
 
 LUCILIUS
 Ay, my good lord, and she accepts of it.
@@ -346,7 +345,7 @@ That state or fortune fall into my keeping
 Which is not owed to you.
 [He exits with the old Athenian.]
 
-<b>POET</b>, [presenting his poem to Timon]
+<b>POET,</b> [presenting his poem to Timon]
 Vouchsafe my labor, and long live your Lordship.
 
 TIMON
@@ -455,7 +454,7 @@ APEMANTUS  No. I eat not lords.
 
 TIMON  An thou shouldst, thou 'dst anger ladies.
 
-<b>APEMANTUS  O</b>, they eat lords. So they come by great
+<b>APEMANTUS  O,</b> they eat lords. So they come by great
 bellies.
 
 TIMON  That's a lascivious apprehension.
@@ -538,14 +537,14 @@ Show me this piece.--I am joyful of your sights.
 
 Most welcome, sir.	[They bow to each other.]
 
-<b>APEMANTUS</b>, [apart]  So, so, there!
+<b>APEMANTUS,</b> [apart]  So, so, there!
 Aches contract and starve your supple joints!
 That there should be small love amongst these sweet
 knaves,
 And all this courtesy! The strain of man's bred out
 Into baboon and monkey.
 
-<b>ALCIBIADES</b>, [to Timon]
+<b>ALCIBIADES,</b> [to Timon]
 Sir, you have saved my longing, and I feed
 Most hungerly on your sight.
 
@@ -614,7 +613,7 @@ Long may he live in fortunes. Shall we in?
 I'll keep you company.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Hautboys playing loud music. A great banquet served
 in, and then enter Lord Timon, the States, the Athenian
@@ -633,7 +632,7 @@ To your free heart, I do return those talents,
 Doubled with thanks and service, from whose help
 I derived liberty.	[He offers a purse.]
 
-<b>TIMON  O</b>, by no means,
+<b>TIMON  O,</b> by no means,
 Honest Ventidius. You mistake my love.
 I gave it freely ever, and there's none
 Can truly say he gives if he receives.
@@ -694,12 +693,12 @@ notes.
 Great men should drink with harness on their
 throats.
 
-<b>TIMON</b>, [responding to a toast]
+<b>TIMON,</b> [responding to a toast]
 My lord, in heart! And let the health go round.
 
 SECOND LORD  Let it flow this way, my good lord.
 
-<b>APEMANTUS</b>, [apart]  "Flow this way"? A brave fellow.
+<b>APEMANTUS,</b> [apart]  "Flow this way"? A brave fellow.
 He keeps his tides well. Those healths will make
 thee and thy state look ill, Timon.
 Here's that which is too weak to be a sinner,
@@ -733,7 +732,7 @@ ALCIBIADES  So they were bleeding new, my lord,
 there's no meat like 'em. I could wish my best
 friend at such a feast.
 
-<b>APEMANTUS</b>, [apart]  Would all those flatterers were
+<b>APEMANTUS,</b> [apart]  Would all those flatterers were
 thine enemies, then, that then thou mightst kill
 'em and bid me to 'em.
 
@@ -742,7 +741,7 @@ lord, that you would once use our hearts, whereby
 we might express some part of our zeals, we
 should think ourselves forever perfect.
 
-<b>TIMON  O</b>, no doubt, my good friends, but the gods
+<b>TIMON  O,</b> no doubt, my good friends, but the gods
 themselves have provided that I shall have much
 help from you. How had you been my friends else?
 Why have you that charitable title from thousands,
@@ -764,20 +763,20 @@ another's fortunes. O, joy's e'en made away ere 't
 can be born! Mine eyes cannot hold out water,
 methinks. To forget their faults, I drink to you.
 
-<b>APEMANTUS</b>, [apart]  Thou weep'st to make them drink,
+<b>APEMANTUS,</b> [apart]  Thou weep'st to make them drink,
 Timon.
 
 SECOND LORD
 Joy had the like conception in our eyes
 And, at that instant, like a babe sprung up.
 
-<b>APEMANTUS</b>, [apart]
+<b>APEMANTUS,</b> [apart]
 Ho, ho! I laugh to think that babe a bastard.
 
 THIRD LORD
 I promise you, my lord, you moved me much.
 
-<b>APEMANTUS</b>, [apart]  Much!	[Sound tucket.]
+<b>APEMANTUS,</b> [apart]  Much!	[Sound tucket.]
 
 TIMON  What means that trump?
 
@@ -817,7 +816,7 @@ You see, my lord, how ample you're beloved.
 with lutes in their hands, dancing and playing.]
 
 
-<b>APEMANTUS</b>, [apart]  Hoy-day!
+<b>APEMANTUS,</b> [apart]  Hoy-day!
 What a sweep of vanity comes this way.
 They dance? They are madwomen.
 Like madness is the glory of this life
@@ -851,7 +850,7 @@ I am to thank you for 't.
 FIRST LADY
 My lord, you take us even at the best.
 
-<b>APEMANTUS</b>, [apart]  Faith, for the worst is filthy and
+<b>APEMANTUS,</b> [apart]  Faith, for the worst is filthy and
 would not hold taking, I doubt me.
 
 TIMON
@@ -915,7 +914,7 @@ Near? Why, then, another time I'll hear thee.
 I prithee, let's be provided to show them
 entertainment.
 
-<b>FLAVIUS</b>, [aside]  I scarce know how.
+<b>FLAVIUS,</b> [aside]  I scarce know how.
 
 [Enter another Servant.]
 
@@ -942,7 +941,7 @@ TIMON
 I'll hunt with him; and let them be received,
 Not without fair reward.	[Servant exits.]
 
-<b>FLAVIUS</b>, [aside]  What will this come to?
+<b>FLAVIUS,</b> [aside]  What will this come to?
 He commands us to provide, and give great gifts,
 And all out of an empty coffer.
 Nor will he know his purse or yield me this--
@@ -958,14 +957,14 @@ Happier is he that has no friend to feed
 Than such that do e'en enemies exceed.
 I bleed inwardly for my lord.	[He exits.]
 
-<b>TIMON</b>, [to Lords]  You do yourselves much wrong.
+<b>TIMON,</b> [to Lords]  You do yourselves much wrong.
 You bate too much of your own merits.
 [(Offering a gift.)] Here, my lord, a trifle of our love.
 
 SECOND LORD
 With more than common thanks I will receive it.
 
-<b>THIRD LORD  O</b>, he's the very soul of bounty!
+<b>THIRD LORD  O,</b> he's the very soul of bounty!
 
 TIMON  And now I remember, my lord, you gave good
 words the other day of a bay courser I rode on. 'Tis
@@ -980,7 +979,7 @@ Can justly praise but what he does affect.
 I weigh my friends' affection with mine own.
 I'll tell you true, I'll call to you.
 
-<b>ALL LORDS  O</b>, none so welcome.
+<b>ALL LORDS  O,</b> none so welcome.
 
 TIMON
 I take all and your several visitations
@@ -1038,10 +1037,9 @@ To counsel deaf, but not to flattery!
 [He exits.]
 
 
-<b>ACT 2</b>
-<hr>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b>Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Senator, with papers.]
 
@@ -1099,7 +1097,7 @@ CAPHIS  I will, sir.
 SENATOR  Go.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Steward Flavius, with many bills in his hand.]
 
@@ -1142,7 +1140,7 @@ So soon as dinner's done we'll forth again,
 My Alcibiades. [(To Caphis.)] With me? What is your
 will?
 
-<b>CAPHIS</b>, [offering Timon a paper]
+<b>CAPHIS,</b> [offering Timon a paper]
 My lord, here is a note of certain dues.
 
 TIMON  Dues? Whence are you?
@@ -1194,7 +1192,7 @@ With clamorous demands of debt, broken bonds,
 And the detention of long-since-due debts
 Against my honor?
 
-<b>FLAVIUS</b>, [to the creditors' Men]  Please you, gentlemen,
+<b>FLAVIUS,</b> [to the creditors' Men]  Please you, gentlemen,
 The time is unagreeable to this business.
 Your importunacy cease till after dinner,
 That I may make his Lordship understand
@@ -1231,7 +1229,7 @@ on your back already.
 APEMANTUS  No, thou stand'st single; thou 'rt not on
 him yet.
 
-<b>CAPHIS</b>, [to Isidore's Man]  Where's the fool now?
+<b>CAPHIS,</b> [to Isidore's Man]  Where's the fool now?
 
 APEMANTUS  He last asked the question. Poor rogues
 and usurers' men, bawds between gold and want.
@@ -1260,7 +1258,7 @@ APEMANTUS  Good. Gramercy.
 
 FOOL  Look you, here comes my master's page.
 
-<b>PAGE</b>, [to Fool]  Why, how now, captain? What do you in
+<b>PAGE,</b> [to Fool]  Why, how now, captain? What do you in
 this wise company?--How dost thou, Apemantus?
 
 APEMANTUS  Would I had a rod in my mouth that I
@@ -1340,7 +1338,7 @@ FOOL  I do not always follow lover, elder brother, and
 woman; sometime the philosopher.
 [Apemantus and the Fool exit.]
 
-<b>FLAVIUS</b>, [to the creditors' Men]
+<b>FLAVIUS,</b> [to the creditors' Men]
 Pray you, walk near. I'll speak with you anon.
 [The Men exit.]
 
@@ -1359,7 +1357,7 @@ When my indisposition put you back,
 And that unaptness made your minister
 Thus to excuse yourself.
 
-<b>FLAVIUS  O</b>, my good lord,
+<b>FLAVIUS  O,</b> my good lord,
 At many times I brought in my accounts,
 Laid them before you. You would throw them off
 And say you found them in mine honesty.
@@ -1452,7 +1450,7 @@ supply of money. Let the request be fifty talents.
 
 FLAMINIUS  As you have said, my lord.	[Servants exit.]
 
-<b>FLAVIUS</b>, [aside]  Lord Lucius and Lucullus? Humh!
+<b>FLAVIUS,</b> [aside]  Lord Lucius and Lucullus? Humh!
 
 TIMON  Go you, sir, to the Senators,
 Of whom, even to the state's best health, I have
@@ -1506,10 +1504,9 @@ Being free itself, it thinks all others so.
 [He exits.]
 
 
-<b>ACT 3</b>
-<hr>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b>Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Flaminius waiting to speak with Lucullus,
 from his master.]
@@ -1527,7 +1524,7 @@ FLAMINIUS  I thank you, sir.
 
 SERVANT  Here's my lord.
 
-<b>LUCULLUS</b>, [aside]  One of Lord Timon's men? A gift, I
+<b>LUCULLUS,</b> [aside]  One of Lord Timon's men? A gift, I
 warrant. Why, this hits right. I dreamt of a silver
 basin and ewer tonight.--Flaminius, honest
 Flaminius, you are very respectively welcome, sir.
@@ -1609,7 +1606,7 @@ Which my lord paid for be of any power
 To expel sickness, but prolong his hour.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lucius, with three Strangers.]
 
@@ -1648,7 +1645,7 @@ should ne'er have denied his occasion fifty talents.
 [Enter Servilius.]
 
 
-<b>SERVILIUS</b>, [aside]  See, by good hap, yonder's my lord.
+<b>SERVILIUS,</b> [aside]  See, by good hap, yonder's my lord.
 I have sweat to see his Honor. [To Lucius.] My
 honored lord.
 
@@ -1743,7 +1740,7 @@ Men must learn now with pity to dispense,
 For policy sits above conscience.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Third Servant of Timon's with Sempronius,
 another of Timon's friends.]
@@ -1800,7 +1797,7 @@ And this is all a liberal course allows:
 Who cannot keep his wealth must keep his house.
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Varro's two Men, meeting Titus and others, all
 being Men of Timon's creditors to wait for his coming
@@ -1948,7 +1945,7 @@ may rail against great buildings.
 [Enter Servilius.]
 
 
-<b>TITUS  O</b>, here's Servilius. Now we shall know some
+<b>TITUS  O,</b> here's Servilius. Now we shall know some
 answer.
 
 SERVILIUS  If I might beseech you, gentlemen, to repair
@@ -1967,7 +1964,7 @@ SERVILIUS  Good gods!
 
 TITUS  We cannot take this for answer, sir.
 
-<b>FLAMINIUS</b>, [within]  Servilius, help! My lord, my lord!
+<b>FLAMINIUS,</b> [within]  Servilius, help! My lord, my lord!
 
 [Enter Timon in a rage.]
 
@@ -2054,13 +2051,13 @@ I charge thee, invite them all. Let in the tide
 Of knaves once more. My cook and I'll provide.
 [They exit.]
 
-<b>Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter three Senators at one door, Alcibiades meeting
 them, with Attendants.]
 
 
-<b>FIRST SENATOR</b>, [to the Second Senator]
+<b>FIRST SENATOR,</b> [to the Second Senator]
 My lord, you have my voice to 't. The fault's
 Bloody. 'Tis necessary he should die.
 Nothing emboldens sin so much as mercy.
@@ -2225,7 +2222,7 @@ My discontented troops and lay for hearts.
 Soldiers should brook as little wrongs as gods.
 [He exits.]
 
-<b>Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Music. Enter divers Friends at several doors.]
 
@@ -2279,7 +2276,7 @@ Lordship.
 SECOND FRIEND  The swallow follows not summer
 more willing than we your Lordship.
 
-<b>TIMON</b>, [aside]  Nor more willingly leaves winter, such
+<b>TIMON,</b> [aside]  Nor more willingly leaves winter, such
 summer birds are men.--Gentlemen, our dinner
 will not recompense this long stay. Feast your ears
 with the music awhile, if they will fare so harshly
@@ -2288,7 +2285,7 @@ o' th' trumpets' sound. We shall to 't presently.
 FIRST FRIEND  I hope it remains not unkindly with your
 Lordship that I returned you an empty messenger.
 
-<b>TIMON  O</b>, sir, let it not trouble you.
+<b>TIMON  O,</b> sir, let it not trouble you.
 
 SECOND FRIEND  My noble lord--
 
@@ -2431,10 +2428,9 @@ One day he gives us diamonds, next day stones.
 [The Senators and the others exit.]
 
 
-<b>ACT 4</b>
-<hr>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b>Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Timon.]
 
@@ -2483,7 +2479,7 @@ To the whole race of mankind, high and low!
 Amen.
 [He exits.]
 
-<b>Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Steward Flavius with two or three Servants.]
 
@@ -2560,7 +2556,7 @@ I'll ever serve his mind with my best will.
 Whilst I have gold, I'll be his steward still.
 [He exits.]
 
-<b>Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Timon in the woods, with a spade.]
 
@@ -2853,7 +2849,7 @@ TIMON
 Men daily find it. Get thee away, and take
 Thy beagles with thee.
 
-<b>ALCIBIADES</b>, [to the Women]  We but offend him.--
+<b>ALCIBIADES,</b> [to the Women]  We but offend him.--
 Strike.	[The drum sounds; all but Timon exit.]
 
 TIMON
@@ -3007,15 +3003,15 @@ Art thou proud yet?
 
 TIMON  Ay, that I am not thee.
 
-<b>APEMANTUS  I</b>, that I was no prodigal.
+<b>APEMANTUS  I,</b> that I was no prodigal.
 
-<b>TIMON  I</b>, that I am one now.
+<b>TIMON  I,</b> that I am one now.
 Were all the wealth I have shut up in thee,
 I'd give thee leave to hang it. Get thee gone.
 That the whole life of Athens were in this!
 Thus would I eat it.	[He gnaws a root.]
 
-<b>APEMANTUS</b>, [offering food]  Here, I will mend thy feast.
+<b>APEMANTUS,</b> [offering food]  Here, I will mend thy feast.
 
 TIMON
 First mend my company. Take away thyself.
@@ -3411,7 +3407,7 @@ woods,
 And may diseases lick up their false bloods!
 And so farewell and thrive.
 
-<b>FLAVIUS  O</b>, let me stay
+<b>FLAVIUS  O,</b> let me stay
 And comfort you, my master.
 
 TIMON  If thou hat'st curses,
@@ -3420,10 +3416,9 @@ Ne'er see thou man, and let me ne'er see thee.
 [They exit.]
 
 
-<b>ACT 5</b>
-<hr>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b>Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Poet and Painter.]
 
@@ -3470,7 +3465,7 @@ and fashionable. Performance is a kind of will or
 testament which argues a great sickness in his
 judgment that makes it.
 
-<b>TIMON</b>, [aside]  Excellent workman! Thou canst not
+<b>TIMON,</b> [aside]  Excellent workman! Thou canst not
 paint a man so bad as is thyself.
 
 POET  I am thinking what I shall say I have provided
@@ -3479,7 +3474,7 @@ satire against the softness of prosperity, with a discovery
 of the infinite flatteries that follow youth
 and opulency.
 
-<b>TIMON</b>, [aside]  Must thou needs stand for a villain in
+<b>TIMON,</b> [aside]  Must thou needs stand for a villain in
 thine own work? Wilt thou whip thine own faults
 in other men? Do so. I have gold for thee.
 
@@ -3492,7 +3487,7 @@ When the day serves, before black-cornered night,
 Find what thou want'st by free and offered light.
 Come.
 
-<b>TIMON</b>, [aside]
+<b>TIMON,</b> [aside]
 I'll meet you at the turn. What a god's gold
 That he is worshiped in a baser temple
 Than where swine feed!
@@ -3669,7 +3664,7 @@ TIMON
 I thank them and would send them back the plague,
 Could I but catch it for them.
 
-<b>FIRST SENATOR  O</b>, forget
+<b>FIRST SENATOR  O,</b> forget
 What we are sorry for ourselves in thee.
 The Senators with one consent of love
 Entreat thee back to Athens, who have thought
@@ -3729,7 +3724,7 @@ The reverend'st throat in Athens. So I leave you
 To the protection of the prosperous gods
 As thieves to keepers.
 
-<b>FLAVIUS</b>, [to Senators]  Stay not. All's in vain.
+<b>FLAVIUS,</b> [to Senators]  Stay not. All's in vain.
 
 TIMON
 Why, I was writing of my epitaph.
@@ -3768,7 +3763,7 @@ In life's uncertain voyage, I will some kindness do
 them.
 I'll teach them to prevent wild Alcibiades' wrath.
 
-<b>FIRST SENATOR</b>, [to Second Senator]
+<b>FIRST SENATOR,</b> [to Second Senator]
 I like this well. He will return again.
 
 TIMON
@@ -3781,7 +3776,7 @@ To stop affliction, let him take his haste,
 Come hither ere my tree hath felt the ax,
 And hang himself. I pray you, do my greeting.
 
-<b>FLAVIUS</b>, [to Senators]
+<b>FLAVIUS,</b> [to Senators]
 Trouble him no further. Thus you still shall find him.
 
 TIMON
@@ -3809,7 +3804,7 @@ In our dear peril.
 FIRST SENATOR  It requires swift foot.
 [They exit.]
 
-<b>Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter two other Senators, with a Messenger.]
 
@@ -3847,7 +3842,7 @@ Doth choke the air with dust. In, and prepare.
 Ours is the fall, I fear, our foe's the snare.
 [They exit.]
 
-<b>Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Soldier in the woods, seeking Timon.]
 
@@ -3866,7 +3861,7 @@ Before proud Athens he's set down by this,
 Whose fall the mark of his ambition is.
 [He exits.]
 
-<b>Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Trumpets sound. Enter Alcibiades with his Powers
 before Athens.]
