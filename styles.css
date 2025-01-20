@@ -266,6 +266,12 @@ body {
     font-family: 'EB Garamond', serif;
 }
 
+.text-content hr {
+    margin: 0.5rem 0;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
 .white-pane {
     flex: 1;
     background-color: white;
@@ -324,4 +330,23 @@ body {
 
 .scenes-container.hidden {
     display: none;
+}
+
+.act-header, .scene-header {
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+}
+
+.scene-header {
+    margin-top: 0.25rem;  /* Even smaller margin above scene headers */
+}
+
+.text-content b {
+    display: inline-block;  /* Change from block to inline-block */
+}
+
+.play-title:hover {
+    background-color: transparent !important;
 }

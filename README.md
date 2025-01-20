@@ -10,7 +10,9 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 
 ### TODO
 - return shakespeare head to original position during rotation
-
+- add line numbering on the left
+- fix the sidebar tabs, visual style wise
+- make it consistent that characters have their names ABOVE their verse, not on the same line.
 
 ### Text Sources
 All the Shakespeare plays in `plays/` are from https://github.com/cobanov/shakespeare-dataset. That repository itself appears to be sourced from the Folger Shakespeare Library.

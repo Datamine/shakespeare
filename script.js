@@ -939,9 +939,7 @@ Bertram Count Rossillion, and Parolles.]`;
                     <div class="icon-container">
                         <img src="shakespeare_icon.png" alt="App Icon" class="sidebar-icon">
                     </div>
-                    <div class="sidebar-tabs">
-                        <div class="tab active">${selectedPlay}</div>
-                    </div>
+                    <div class="sidebar-acts"></div>
                 </div>
                 <div class="main-content">
                     <div class="cream-pane">
@@ -1113,12 +1111,21 @@ icon.addEventListener('click', function(e) {
 });
 
 function updateSidebar(playText, selectedPlay) {
-    const sidebar = document.querySelector('.sidebar-tabs');
+    const sidebar = document.querySelector('.sidebar-acts');
     
-    // Clear existing tabs except the first one (play name)
-    while (sidebar.children.length > 1) {
+    // Clear existing content
+    while (sidebar.children.length > 0) {
         sidebar.removeChild(sidebar.lastChild);
     }
+    
+    // Add play title
+    const playTitle = document.createElement('div');
+    playTitle.className = 'act-item play-title';
+    playTitle.style.cursor = 'default';
+    playTitle.style.pointerEvents = 'none';
+    playTitle.style.backgroundColor = 'transparent';
+    playTitle.textContent = selectedPlay;
+    sidebar.appendChild(playTitle);
     
     // Create acts container
     const actsContainer = document.createElement('div');
@@ -1141,7 +1148,7 @@ function updateSidebar(playText, selectedPlay) {
             const actText = line.replace(/<\/?b[^>]*>/g, '').trim();
             actDiv.textContent = actText;
             
-            const actNumber = actText.split(' ')[1]; // Get number from "Act N"
+            const actNumber = actCount; // Use actCount directly instead of parsing text
             
             const scenesContainer = document.createElement('div');
             scenesContainer.className = 'scenes-container';
@@ -1191,8 +1198,12 @@ function updateSidebar(playText, selectedPlay) {
         updateActiveActFromScroll(acts);
     }, 100));
     
-    // Initial selection
+    // Initial selection - select Act 1 and show its scenes
     selectAct(1);
+    const firstScenesContainer = document.querySelector('.scenes-container');
+    if (firstScenesContainer) {
+        firstScenesContainer.style.display = 'block';
+    }
 }
 
 function selectAct(actCount, sceneCount = null) {
@@ -1210,15 +1221,25 @@ function selectAct(actCount, sceneCount = null) {
     const actItems = document.querySelectorAll('.act-item');
     const scenesContainers = document.querySelectorAll('.scenes-container');
     
-    if (actItems[actCount - 1]) {
-        actItems[actCount - 1].classList.add('active');
-        // Show scenes for this act
-        scenesContainers[actCount - 1].style.display = 'block';
-        
-        if (sceneCount !== null) {
-            const sceneItems = scenesContainers[actCount - 1].querySelectorAll('.scene-item');
-            if (sceneItems[sceneCount - 1]) {
-                sceneItems[sceneCount - 1].classList.add('active');
+    // Skip the play title when selecting acts
+    const actIndex = actCount;  // Changed from actCount - 1
+    const targetAct = Array.from(actItems).find((item, index) => 
+        index > 0 && item.textContent.includes(`Act ${actCount}`));
+    
+    if (targetAct) {
+        targetAct.classList.add('active');
+        // Find the scenes container that comes after this act
+        const targetScenesContainer = targetAct.nextElementSibling;
+        if (targetScenesContainer && targetScenesContainer.classList.contains('scenes-container')) {
+            targetScenesContainer.style.display = 'block';
+            
+            if (sceneCount !== null) {
+                const sceneItems = targetScenesContainer.querySelectorAll('.scene-item');
+                const targetScene = Array.from(sceneItems).find(item => 
+                    item.textContent.includes(`Scene ${sceneCount}`));
+                if (targetScene) {
+                    targetScene.classList.add('active');
+                }
             }
         }
     }
