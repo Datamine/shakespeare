@@ -932,6 +932,9 @@ Bertram Count Rossillion, and Parolles.]`;
 
         const playText = rawPlayText;
 
+        // Process the text to add line numbers before setting it
+        const processedText = addLineNumbers(playText);
+
         // Replace the entire body content with our new layout
         document.body.innerHTML = `
             <div class="three-pane-layout">
@@ -943,7 +946,7 @@ Bertram Count Rossillion, and Parolles.]`;
                 </div>
                 <div class="main-content">
                     <div class="cream-pane">
-                        <div class="text-content">${playText}</div>
+                        <div class="text-content">${processedText}</div>
                     </div>
                     <div class="white-pane">
                         <!-- White pane content -->
@@ -1111,6 +1114,9 @@ icon.addEventListener('click', function(e) {
 });
 
 function updateSidebar(playText, selectedPlay) {
+    // First, process the text to add line numbers
+    const processedText = addLineNumbers(playText);
+    
     const sidebar = document.querySelector('.sidebar-acts');
     
     // Clear existing content
@@ -1137,7 +1143,7 @@ function updateSidebar(playText, selectedPlay) {
     let actCount = 0;
     let sceneCount = 0;
     
-    const lines = playText.split('\n');
+    const lines = processedText.split('\n');
     lines.forEach((line) => {
         // Check for Act headers
         if (line.includes('class="act-header"')) {
@@ -1289,4 +1295,49 @@ function updateActiveActFromScroll(acts) {
     if (maxVisibility > 0) {
         selectAct(mostVisibleAct, mostVisibleScene);
     }
+}
+
+function addLineNumbers(playText) {
+    const lines = playText.split('\n');
+    let currentLineNumber = 0;
+    let inScene = false;
+    let processedLines = [];
+    
+    for (let line of lines) {
+        // Skip empty lines
+        if (!line.trim()) {
+            processedLines.push(line);
+            continue;
+        }
+
+        // If this is a scene header, reset line counter
+        if (line.includes('class="scene-header"')) {
+            currentLineNumber = 0;
+            inScene = true;
+            processedLines.push(line);
+            continue;
+        }
+        
+        // Skip headers, stage directions, and HTML elements
+        if (line.includes('class="act-header"') || 
+            line.includes('<hr>') ||
+            line.trim().startsWith('<') ||
+            line.trim().startsWith('[')) {
+            processedLines.push(line);
+            continue;
+        }
+        
+        // If we're in a scene and the line has actual text content
+        if (inScene && line.trim()) {
+            currentLineNumber++;
+            // Only show line numbers for every 5th line
+            const lineNumber = currentLineNumber % 5 === 0 ? currentLineNumber : '&nbsp;&nbsp;&nbsp;';
+            // Add the line number in a span with right padding
+            processedLines.push(`<span class="line-number">${lineNumber}</span>${line}`);
+        } else {
+            processedLines.push(line);
+        }
+    }
+    
+    return processedLines.join('\n');
 }
