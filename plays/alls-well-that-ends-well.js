@@ -34,9 +34,9 @@ A WIDOW of Florence
 Attendants, Soldiers, Citizens of Florence, Servants
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter young Bertram Count of Rossillion, his mother
 the Countess, and Helen, Lord Lafew, all in black.]
@@ -351,7 +351,7 @@ The King's disease--my project may deceive me,
 But my intents are fixed and will not leave me.
 [She exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Flourish cornets. Enter the King of France with letters,
 two Lords, and divers Attendants.]
@@ -473,7 +473,7 @@ My son's no dearer.
 BERTRAM  Thank your Majesty.
 [They exit. Flourish.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Countess, Steward, and Fool.]
 
@@ -834,9 +834,9 @@ What I can help thee to thou shalt not miss.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish cornets. Enter the King, attended, with divers
 young Lords, taking leave for the Florentine war;
@@ -1181,7 +1181,7 @@ Give me some help here, ho!--If thou proceed
 As high as word, my deed shall match thy deed.
 [Flourish. They exit, the King assisted.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Countess and Fool.]
 
@@ -1285,7 +1285,7 @@ FOOL  Most fruitfully. I am there before my legs.
 COUNTESS  Haste you again.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Count Bertram, Lafew, and Parolles.]
 
@@ -1763,7 +1763,7 @@ Therefore away, and leave her bravely. Go.
 The King has done you wrong, but hush, 'tis so.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Helen with a paper, and Fool.]
 
@@ -1860,7 +1860,7 @@ PAROLLES  I shall report it so.	[Parolles exits.]
 <b>HELEN,</b> [to Fool]  I pray you, come, sirrah.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Lafew and Bertram.]
 
@@ -2028,9 +2028,9 @@ PAROLLES  Bravely, coraggio!
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter the Duke of Florence, the two French
 Lords, with a troop of Soldiers.]
@@ -2074,7 +2074,7 @@ When better fall, for your avails they fell.
 Tomorrow to th' field.
 [Flourish. They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Countess, with a paper, and Fool.]
 
@@ -2284,7 +2284,7 @@ To consolate thine ear. Come, night; end, day;
 For with the dark, poor thief, I'll steal away.
 [She exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter the Duke of Florence, Bertram Count
 Rossillion, Drum and Trumpets, Soldiers, Parolles.]
@@ -2310,7 +2310,7 @@ Make me but like my thoughts, and I shall prove
 A lover of thy drum, hater of love.
 [All exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Countess and Steward, with a paper.]
 
@@ -2368,7 +2368,7 @@ My heart is heavy, and mine age is weak.
 Grief would have tears, and sorrow bids me speak.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [A tucket afar off. Enter old Widow of Florence, her
 daughter Diana, and Mariana, with other Citizens.]
@@ -2565,7 +2565,7 @@ Worthy the note.
 BOTH  We'll take your offer kindly.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Bertram Count Rossillion and the French
 Lords, as at first.]
@@ -2739,7 +2739,7 @@ Will you go see her?
 SECOND LORD  With all my heart, my lord.
 [They exit.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Helen and Widow.]
 
@@ -2813,9 +2813,9 @@ But let's about it.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter one of the French Lords, with five or six other
 Soldiers in ambush.]
@@ -2983,7 +2983,7 @@ LORD
 Till then I'll keep him dark and safely locked.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Bertram and the maid called Diana.]
 
@@ -3107,7 +3107,7 @@ Only, in this disguise I think 't no sin
 To cozen him that would unjustly win.
 [She exits.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the two French Lords and some two
 or three Soldiers.]
@@ -3609,7 +3609,7 @@ Safest in shame. Being fooled, by fool'ry thrive.
 There's place and means for every man alive.
 I'll after them.	[He exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Helen, Widow, and Diana.]
 
@@ -3661,7 +3661,7 @@ All's well that ends well. Still the fine's the crown.
 Whate'er the course, the end is the renown.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Fool, Countess, and Lafew.]
 
@@ -3817,9 +3817,9 @@ head and nod at every man.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Helen, Widow, and Diana, with two Attendants.]
 
@@ -3895,7 +3895,7 @@ Whate'er falls more. We must to horse again.--
 Go, go, provide.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Fool and Parolles.]
 
@@ -3978,7 +3978,7 @@ and a knave, you shall eat. Go to, follow.
 PAROLLES  I praise God for you.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter King, Countess, Lafew, the two French
 Lords, with Attendants.]
@@ -4562,4 +4562,5 @@ That you express content, which we will pay,
 With strift to please you, day exceeding day.
 Ours be your patience, then, and yours our parts.
 Your gentle hands lend us, and take our hearts.
-[All exit.]`;
+[All exit.]
+`;

@@ -28,9 +28,9 @@ MARINERS
 Players who, as spirits, take the roles of Iris, Ceres, Juno, Nymphs, and Reapers in Prospero's masque, and who, in other scenes, take the roles of "islanders" and of hunting dogs
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [A tempestuous noise of thunder and lightning heard.
 Enter a Shipmaster and a Boatswain.]
@@ -161,7 +161,7 @@ furze, anything. The wills above be done, but I
 would fain die a dry death.
 [He exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prospero and Miranda.]
 
@@ -982,9 +982,9 @@ Come follow. [To Miranda.] Speak not for him.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian,
 Francisco, and others.]
@@ -1570,7 +1570,7 @@ Prospero my lord shall know what I have done.
 So, king, go safely on to seek thy son.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Caliban with a burden of wood. A noise of
 thunder heard.]
@@ -1839,9 +1839,9 @@ STEPHANO  O brave monster! Lead the way.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ferdinand bearing a log.]
 
@@ -1998,7 +1998,7 @@ For yet ere suppertime must I perform
 Much business appertaining.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Caliban, Stephano, and Trinculo.]
 
@@ -2252,7 +2252,7 @@ could see this taborer. He lays it on. Wilt come?
 TRINCULO  I'll follow, Stephano.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian,
 Francisco, etc.]
@@ -2454,9 +2454,9 @@ ADRIAN  Follow, I pray you.
 [They all exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prospero, Ferdinand, and Miranda.]
 
@@ -2909,9 +2909,9 @@ Follow and do me service.
 
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prospero in his magic robes, and Ariel.]
 
@@ -3458,4 +3458,5 @@ Which pierces so that it assaults
 Mercy itself, and frees all faults.
    As you from crimes would pardoned be,
    Let your indulgence set me free.
-[He exits.]`;
+[He exits.]
+`;

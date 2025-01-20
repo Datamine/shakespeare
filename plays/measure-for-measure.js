@@ -35,9 +35,9 @@ POMPEY the Clown, her servant
 Lords, Officers, Citizens, Servants, and Attendants
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke, Escalus, Lords, and Attendants.]
 
@@ -162,7 +162,7 @@ Touching that point.
 ESCALUS  I'll wait upon your Honor.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lucio and two other Gentlemen.]
 
@@ -465,7 +465,7 @@ LUCIO  Within two hours.
 CLAUDIO  Come, officer, away.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Duke and Friar Thomas.]
 
@@ -539,7 +539,7 @@ Is more to bread than stone. Hence shall we see,
 If power change purpose, what our seemers be.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Isabella and Francisca, a Nun.]
 
@@ -700,9 +700,9 @@ ISABELLA  Good sir, adieu.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Angelo, Escalus, Servants, and a Justice.]
 
@@ -1139,7 +1139,7 @@ But yet, poor Claudio. There is no remedy.
 Come, sir.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Provost and a Servant.]
 
@@ -1488,7 +1488,7 @@ Subdues me quite. Ever till now
 When men were fond, I smiled and wondered how.
 [He exits.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Duke, disguised as a Friar, and Provost.]
 
@@ -1581,7 +1581,7 @@ Is still a dying horror.
 PROVOST  'Tis pity of him.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Angelo.]
 
@@ -1873,9 +1873,9 @@ And fit his mind to death, for his soul's rest.
 [She exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke as a Friar, Claudio, and Provost.]
 
@@ -2282,7 +2282,7 @@ ISABELLA  I thank you for this comfort. Fare you well,
 good father.
 [She exits. The Duke remains.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Elbow, Pompey, and Officers.]
 
@@ -2676,9 +2676,9 @@ And perform an old contracting.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Mariana, and Boy singing.]
 
@@ -2820,7 +2820,7 @@ Doth flourish the deceit. Come, let us go.
 Our corn's to reap, for yet our tithe's to sow.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Provost, Pompey, and Officer.]
 
@@ -3154,7 +3154,7 @@ amazed, but this shall absolutely resolve you.
 Come away; it is almost clear dawn.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pompey.]
 
@@ -3463,7 +3463,7 @@ bawdy talk offend you, we'll have very little of it.
 Nay, friar, I am a kind of burr. I shall stick.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Angelo and Escalus.]
 
@@ -3513,7 +3513,7 @@ Alack, when once our grace we have forgot,
 Nothing goes right. We would, and we would not.
 [He exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Duke and Friar Peter.]
 
@@ -3541,7 +3541,7 @@ Come, we will walk. There's other of our friends
 Will greet us here anon. My gentle Varrius.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Isabella and Mariana.]
 
@@ -3579,9 +3579,9 @@ The Duke is entering. Therefore hence, away.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke, Varrius, Lords, Angelo, Escalus, Lucio,
 Provost, Officers, and Citizens at several doors.]
@@ -4469,4 +4469,5 @@ Whereto if you'll a willing ear incline,
 What's mine is yours, and what is yours is mine.--
 So, bring us to our palace, where we'll show
 What's yet behind that's meet you all should know.
-[They exit.]`;
+[They exit.]
+`;

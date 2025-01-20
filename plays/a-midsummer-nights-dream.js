@@ -36,9 +36,9 @@ Lords and Attendants on Theseus and Hippolyta
 Other Fairies in the trains of Titania and Oberon
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Theseus, Hippolyta, and Philostrate, with others.]
 
@@ -406,7 +406,7 @@ But herein mean I to enrich my pain,
 To have his sight thither and back again.
 [She exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Quince the carpenter, and Snug the joiner, and
 Bottom the weaver, and Flute the bellows-mender, and
@@ -565,9 +565,9 @@ BOTTOM  Enough. Hold or cut bowstrings.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Fairy at one door and Robin Goodfellow at
 another.]
@@ -937,7 +937,7 @@ ROBIN
 Fear not, my lord. Your servant shall do so.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Titania, Queen of Fairies, with her train.]
 
@@ -1182,9 +1182,9 @@ Either death or you I'll find immediately.
 [She exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [With Titania still asleep onstage, enter the Clowns,
 Bottom, Quince, Snout, Starveling, Snug, and Flute.]
@@ -1501,7 +1501,7 @@ And when she weeps, weeps every little flower,
 Tie up my lover's tongue. Bring him silently.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Oberon, King of Fairies.]
 
@@ -2258,9 +2258,9 @@ well.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [With the four lovers still asleep onstage, enter
 Titania, Queen of Fairies, and Bottom and Fairies,
@@ -2601,7 +2601,7 @@ to make it the more gracious, I shall sing it at her
 death.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Quince, Flute, Snout, and Starveling.]
 
@@ -2673,9 +2673,9 @@ words. Away! Go, away!
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Theseus, Hippolyta, and Philostrate, Lords, and
 Attendants.]
@@ -3333,4 +3333,5 @@ ROBIN
 	So good night unto you all.
 	Give me your hands, if we be friends,
 	And Robin shall restore amends.
-[He exits.]`;
+[He exits.]
+`;

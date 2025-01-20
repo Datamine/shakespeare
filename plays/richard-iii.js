@@ -61,9 +61,9 @@ GHOSTS of King Henry VI, his son Prince Edward, Clarence, Rivers, Grey, Vaughan,
 Guards, Tressel, Berkeley, Halberds, Gentlemen, Anthony Woodeville and Lord Scales (brothers to Queen Elizabeth), Two Bishops, Sir William Brandon, Lords, Attendants, Citizens, Aldermen, Councillors, Soldiers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Richard, Duke of Gloucester, alone.]
 
@@ -298,7 +298,7 @@ Clarence still breathes; Edward still lives and reigns.
 When they are gone, then must I count my gains.
 [He exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the corse of Henry the Sixth on a bier, with
 Halberds to guard it, Lady Anne being the mourner,
@@ -751,7 +751,7 @@ Shine out, fair sun, till I have bought a glass,
 That I may see my shadow as I pass.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Queen Elizabeth, the Lord Marquess of Dorset,
 Lord Rivers, and Lord Grey.]
@@ -1357,7 +1357,7 @@ Go, go, dispatch.
 MURDERERS  We will, my noble lord.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Clarence and Keeper.]
 
@@ -1830,9 +1830,9 @@ For this will out, and then I must not stay.
 [He exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter King Edward, sick, Queen Elizabeth,
 Lord Marquess Dorset, Rivers, Hastings, Buckingham,
@@ -2060,7 +2060,7 @@ To comfort Edward with our company?
 BUCKINGHAM  We wait upon your Grace.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the old Duchess of York with the two
 children of Clarence.]
@@ -2315,7 +2315,7 @@ I, as a child, will go by thy direction.
 Toward Ludlow then, for we'll not stay behind.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter one Citizen at one door, and another at the other.]
 
@@ -2417,7 +2417,7 @@ THIRD CITIZEN
 And so was I. I'll bear you company.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Archbishop, the young Duke of York,
 Queen Elizabeth, and the Duchess of York.]
@@ -2568,9 +2568,9 @@ Go. I'll conduct you to the sanctuary.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [The trumpets sound. Enter young Prince Edward,
 Richard Duke of Gloucester, Buckingham,
@@ -2952,7 +2952,7 @@ Come, let us sup betimes, that afterwards
 We may digest our complots in some form.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter a Messenger to the door of Hastings.]
 
@@ -3183,7 +3183,7 @@ Come, will you go?
 HASTINGS  I'll wait upon your Lordship.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sir Richard Ratcliffe, with Halberds, carrying the
 nobles Rivers, Grey, and Vaughan to death at Pomfret.]
@@ -3235,7 +3235,7 @@ Come, Grey. Come, Vaughan. Let us here embrace.
 Farewell until we meet again in heaven.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Buckingham, Lord Stanley, Earl of Derby,
 Hastings, Bishop of Ely, Norfolk, Ratcliffe, Lovell, with
@@ -3427,7 +3427,7 @@ Come, lead me to the block. Bear him my head.
 They smile at me who shortly shall be dead.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Richard and Buckingham, in rotten armor,
 marvelous ill-favored.]
@@ -3602,7 +3602,7 @@ And to give order that no manner person
 Have any time recourse unto the Princes.
 [He exits.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter a Scrivener.]
 
@@ -3624,7 +3624,7 @@ Bad is the world, and all will come to naught
 When such ill dealing must be seen in thought.
 [He exits.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Richard and Buckingham at several doors.]
 
@@ -3986,9 +3986,9 @@ Farewell, my cousin. Farewell, gentle friends.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Queen Elizabeth, with the Duchess of York, and
 the Lord Marquess of Dorset, at one door; Anne,
@@ -4169,7 +4169,7 @@ For tender princes, use my babies well.
 So foolish sorrows bids your stones farewell.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Sound a sennet. Enter Richard in pomp; Buckingham,
 Catesby, Ratcliffe, Lovell, and others, including a Page.]
@@ -4417,7 +4417,7 @@ O, let me think on Hastings and be gone
 To Brecknock, while my fearful head is on!
 [He exits.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Tyrrel.]
 
@@ -4515,7 +4515,7 @@ Go, muster men. My counsel is my shield.
 We must be brief when traitors brave the field.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter old Queen Margaret.]
 
@@ -5457,7 +5457,7 @@ Someone take order Buckingham be brought
 To Salisbury. The rest march on with me.
 [Flourish. They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Stanley, Earl of Derby, and Sir Christopher.]
 
@@ -5494,9 +5494,9 @@ Farewell.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Buckingham, with Sheriff and Halberds, led to
 execution.]
@@ -5542,7 +5542,7 @@ Come, lead me, officers, to the block of shame.
 Wrong hath but wrong, and blame the due of blame.
 [Buckingham exits with Officers.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Richmond, Oxford, Blunt, Herbert, and others,
 with Drum and Colors.]
@@ -5584,7 +5584,7 @@ True hope is swift, and flies with swallow's wings;
 Kings it makes gods, and meaner creatures kings.
 [All exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter King Richard, in arms, with Norfolk, Ratcliffe, and
 the Earl of Surrey, with Soldiers.]
@@ -6183,7 +6183,7 @@ Inspire us with the spleen of fiery dragons.
 Upon them! Victory sits on our helms.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Excursions. Enter Norfolk, with Soldiers, and
 Catesby.]
@@ -6215,7 +6215,7 @@ Five have I slain today instead of him.
 A horse, a horse, my kingdom for a horse!
 [They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Alarum. Enter Richard and Richmond. They fight.
 Richard is slain. Then retreat being sounded, Richmond
@@ -6278,4 +6278,5 @@ Let them not live to taste this land's increase,
 That would with treason wound this fair land's peace.
 Now civil wounds are stopped, peace lives again.
 That she may long live here, God say amen.
-[They exit.]`;
+[They exit.]
+`;

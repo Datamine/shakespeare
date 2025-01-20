@@ -35,9 +35,9 @@ Abraham SLENDER, his nephew, a young gentleman suitor to Anne Page
 <b>SIMPLE,</b> Slender's servant
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Justice Shallow, Slender, and Sir Hugh Evans.]
 
@@ -508,7 +508,7 @@ SLENDER  I'll rather be unmannerly than troublesome.
 You do yourself wrong, indeed, la!
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Sir Hugh Evans and Simple.]
 
@@ -530,7 +530,7 @@ you, be gone. I will make an end of my dinner;
 there's pippins and cheese to come.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sir John Falstaff, Host, Bardolph, Nym, Pistol,
 and Robin, Falstaff's Page.]
@@ -695,7 +695,7 @@ PISTOL  Thou art the Mars of malcontents. I second
 thee. Troop on.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Mistress Quickly and Simple.]
 
@@ -961,9 +961,9 @@ does. Out upon 't! What have I forgot?
 [She exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Mistress Page reading a letter.]
 
@@ -1306,7 +1306,7 @@ sound Falstaff. If I find her honest, I lose not my
 labor. If she be otherwise, 'tis labor well bestowed.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Sir John Falstaff and Pistol.]
 
@@ -1730,7 +1730,7 @@ than a minute too late. Fie, fie, fie! Cuckold, cuckold,
 cuckold!
 [He exits.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Doctor Caius and Rugby.]
 
@@ -1884,9 +1884,9 @@ DOCTOR CAIUS  Come at my heels, Jack Rugby.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Sir Hugh Evans (with a book and a sword)
 and Simple (carrying Sir Hugh's gown).]
@@ -2081,7 +2081,7 @@ SIR HUGH  Well, I will smite his noddles. Pray you,
 follow.
 [Sir Hugh, Caius, Simple, and Rugby exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Robin followed by Mistress Page.]
 
@@ -2218,7 +2218,7 @@ gentles?
 see this monster.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Mistress Ford and Mistress Page.]
 
@@ -2591,7 +2591,7 @@ SIR HUGH  A lousy knave, to have his gibes and his
 mockeries!
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Fenton and Anne Page.]
 
@@ -2781,7 +2781,7 @@ I must of another errand to Sir John Falstaff from
 my two mistresses. What a beast am I to slack it!
 [She exits.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Sir John Falstaff.]
 
@@ -2999,9 +2999,9 @@ with me: I'll be horn-mad.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Mistress Page, Mistress Quickly, and William.]
 
@@ -3143,7 +3143,7 @@ boy. [(To Mistress Quickly.)] Come. We stay too
 long.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Sir John Falstaff and Mistress Ford.]
 
@@ -3491,7 +3491,7 @@ MISTRESS PAGE  Come, to the forge with it, then shape
 it. I would not have things cool.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Host and Bardolph.]
 
@@ -3512,7 +3512,7 @@ week at command; I have turned away my other
 guests. They must come off. I'll sauce them. Come.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Page, Ford, Mistress Page, Mistress Ford, and
 Sir Hugh Evans.]
@@ -3655,7 +3655,7 @@ Potent at court. He, none but he, shall have her,
 Though twenty thousand worthier come to crave her.
 [She exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Host and Simple.]
 
@@ -3852,7 +3852,7 @@ crossed.
 FALSTAFF  Come up into my chamber.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Fenton and Host.]
 
@@ -3928,9 +3928,9 @@ Besides, I'll make a present recompense.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Sir John Falstaff and Mistress Quickly.]
 
@@ -3976,7 +3976,7 @@ Follow. Strange things in hand, Master Brook!
 Follow.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Page, Shallow, and Slender.]
 
@@ -4000,7 +4000,7 @@ evil but the devil, and we shall know him by his
 horns. Let's away. Follow me.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Mistress Page, Mistress Ford, and Doctor Caius.]
 
@@ -4043,7 +4043,7 @@ MISTRESS FORD  The hour draws on. To the oak, to the
 oak!
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Sir Hugh Evans and boys disguised,
 like him, as Fairies.]
@@ -4054,7 +4054,7 @@ your parts. Be pold, I pray you. Follow me into the
 pit, and when I give the watch-'ords, do as I pid
 you. Come, come; trib, trib.	[They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Sir John Falstaff wearing a buck's head.]
 
@@ -4438,4 +4438,5 @@ Sir John and all.
 FORD  Let it be so, Sir John.
 To Master Brook you yet shall hold your word,
 For he tonight shall lie with Mistress Ford.
-[They exit.]`;
+[They exit.]
+`;

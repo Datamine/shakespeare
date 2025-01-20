@@ -39,9 +39,9 @@ Messenger
 Musicians
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Antonio, Salarino, and Solanio.]
 
@@ -301,7 +301,7 @@ Where money is, and I no question make
 To have it of my trust, or for my sake.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Portia with her waiting woman Nerissa.]
 
@@ -473,7 +473,7 @@ Whiles we shut the gate upon one wooer, another
 knocks at the door.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Bassanio with Shylock the Jew.]
 
@@ -746,9 +746,9 @@ My ships come home a month before the day.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Prince of Morocco, a tawny Moor all in
 white, and three or four followers accordingly, with
@@ -816,7 +816,7 @@ MOROCCO  Good fortune then,
 To make me blest--or cursed'st among men!
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lancelet Gobbo the Clown, alone.]
 
@@ -1111,7 +1111,7 @@ And I must to Lorenzo and the rest.
 But we will visit you at supper time.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Jessica and Lancelet Gobbo.]
 
@@ -1143,7 +1143,7 @@ If thou keep promise, I shall end this strife,
 Become a Christian and thy loving wife.
 [She exits.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Gratiano, Lorenzo, Salarino, and Solanio.]
 
@@ -1227,7 +1227,7 @@ Come, go with me. Peruse this as thou goest;
 Fair Jessica shall be my torchbearer.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Shylock, the Jew, and Lancelet,
 his man that was, the Clown.]
@@ -1318,7 +1318,7 @@ Farewell, and if my fortune be not crossed,
 I have a father, you a daughter, lost.
 [She exits.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter the masquers, Gratiano and Salarino.]
 
@@ -1447,7 +1447,7 @@ I am glad on 't. I desire no more delight
 Than to be under sail and gone tonight.
 [They exit.]
 
-<b id="act-2-scene-7" class="scene-header">Scene 7</b>
+<b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Portia with the Prince of Morocco and both
 their trains.]
@@ -1557,7 +1557,7 @@ A gentle riddance! Draw the curtains, go.
 Let all of his complexion choose me so.
 [They exit.]
 
-<b id="act-2-scene-8" class="scene-header">Scene 8</b>
+<b id="act-2-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Salarino and Solanio.]
 
@@ -1639,7 +1639,7 @@ With some delight or other.
 SALARINO  Do we so.
 [They exit.]
 
-<b id="act-2-scene-9" class="scene-header">Scene 9</b>
+<b id="act-2-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Enter Nerissa and a Servitor.]
 
@@ -1796,9 +1796,9 @@ Bassanio, Lord Love, if thy will it be!
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Solanio and Salarino.]
 
@@ -1982,7 +1982,7 @@ Go, Tubal, and meet me at our synagogue. Go, good
 Tubal, at our synagogue, Tubal.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Bassanio, Portia, and all their trains, Gratiano,
 Nerissa.]
@@ -2422,7 +2422,7 @@ No bed shall e'er be guilty of my stay,
 Nor rest be interposer 'twixt us twain.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Shylock, the Jew, and Solanio, and Antonio,
 and the Jailer.]
@@ -2482,7 +2482,7 @@ Well, jailer, on.--Pray God Bassanio come
 To see me pay his debt, and then I care not.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Portia, Nerissa, Lorenzo, Jessica, and Balthazar,
 a man of Portia's.]
@@ -2601,7 +2601,7 @@ At the park gate; and therefore haste away,
 For we must measure twenty miles today.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Lancelet, the Clown, and Jessica.]
 
@@ -2736,9 +2736,9 @@ JESSICA  Well, I'll set you forth.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Duke, the Magnificoes, Antonio, Bassanio,
 Salerio, and Gratiano, with Attendants.]
@@ -3488,7 +3488,7 @@ And in the morning early will we both
 Fly toward Belmont.--Come, Antonio.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Portia and Nerissa, still in disguise.]
 
@@ -3534,9 +3534,9 @@ Come, good sir, will you show me to this house?
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Lorenzo and Jessica.]
 
@@ -4047,4 +4047,5 @@ But were the day come, I should wish it dark
 Till I were couching with the doctor's clerk.
 Well, while I live, I'll fear no other thing
 So sore as keeping safe Nerissa's ring.
-[They exit.]`;
+[They exit.]
+`;

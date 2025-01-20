@@ -25,9 +25,9 @@ DUKE (sometimes Emperor), Sylvia's father
 Servants; Musicians; Crab, a dog
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Valentine and Proteus.]
 
@@ -285,7 +285,7 @@ I fear my Julia would not deign my lines,
 Receiving them from such a worthless post.
 [He exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Julia and Lucetta.]
 
@@ -574,7 +574,7 @@ I see things too, although you judge I wink.
 JULIA  Come, come, will 't please you go?
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Antonio and Pantino.]
 
@@ -726,9 +726,9 @@ Why, this it is: my heart accords thereto.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Valentine and Speed, carrying a glove.]
 
@@ -1028,7 +1028,7 @@ my victuals and would fain have meat. O, be not like
 your mistress! Be moved, be moved.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Proteus and Julia.]
 
@@ -1074,7 +1074,7 @@ PROTEUS  Go. I come, I come.
 [Aside.] Alas, this parting strikes poor lovers dumb.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lance, weeping, with his dog, Crab.]
 
@@ -1160,7 +1160,7 @@ PANTINO  Wilt thou go?
 LANCE  Well, I will go.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Valentine, Sylvia, Thurio, and Speed.]
 
@@ -1546,7 +1546,7 @@ If I can check my erring love, I will;
 If not, to compass her I'll use my skill.
 [He exits.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Speed and Lance, with his dog, Crab.]
 
@@ -1638,7 +1638,7 @@ as to go to the ale with a Christian. Wilt thou go?
 SPEED  At thy service.
 [They exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Proteus alone.]
 
@@ -1689,7 +1689,7 @@ Love, lend me wings to make my purpose swift,
 As thou hast lent me wit to plot this drift.
 [He exits.]
 
-<b id="act-2-scene-7" class="scene-header">Scene 7</b>
+<b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Julia and Lucetta.]
 
@@ -1835,9 +1835,9 @@ I am impatient of my tarriance.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke, Thurio, and Proteus.]
 
@@ -2421,7 +2421,7 @@ an unmannerly slave, that will thrust himself into
 secrets. I'll after, to rejoice in the boy's correction.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke and Thurio.]
 
@@ -2586,9 +2586,9 @@ Even now about it! I will pardon you.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter certain Outlaws.]
 
@@ -2735,7 +2735,7 @@ And show thee all the treasure we have got,
 Which, with ourselves, all rest at thy dispose.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Proteus.]
 
@@ -2997,7 +2997,7 @@ Not so; but it hath been the longest night
 That e'er I watched, and the most heaviest.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Eglamour.]
 
@@ -3077,7 +3077,7 @@ SYLVIA
 Good morrow, kind Sir Eglamour.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lance, with his dog, Crab.]
 
@@ -3385,9 +3385,9 @@ To make my master out of love with thee.
 [She exits.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Eglamour.]
 
@@ -3414,7 +3414,7 @@ Fear not. The forest is not three leagues off;
 If we recover that, we are sure enough.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Thurio, Proteus, and Julia, disguised as
 Sebastian.]
@@ -3537,7 +3537,7 @@ And I will follow, more to cross that love
 Than hate for Sylvia, that is gone for love.
 [She exits.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sylvia and Outlaws.]
 
@@ -3572,7 +3572,7 @@ SYLVIA
 O Valentine, this I endure for thee!
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Valentine.]
 
@@ -3864,4 +3864,5 @@ Come, Proteus, 'tis your penance but to hear
 The story of your loves discovered.
 That done, our day of marriage shall be yours,
 One feast, one house, one mutual happiness.
-[They exit.]`;
+[They exit.]
+`;

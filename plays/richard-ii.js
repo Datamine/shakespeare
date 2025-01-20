@@ -51,9 +51,9 @@ Servingmen to Exton
 Lords, Attendants, Officers, Soldiers, Servingmen, Exton's Men
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King Richard, John of Gaunt, with other Nobles
 and Attendants.]
@@ -333,7 +333,7 @@ Lord Marshal, command our officers-at-arms
 Be ready to direct these home alarms.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter John of Gaunt with the Duchess of Gloucester.]
 
@@ -431,7 +431,7 @@ Desolate, desolate, will I hence and die.
 The last leave of thee takes my weeping eye.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lord Marshal and the Duke of Aumerle.]
 
@@ -891,7 +891,7 @@ Where'er I wander, boast of this I can,
 Though banished, yet a trueborn Englishman.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the King with Green and Bagot, at one door,
 and the Lord Aumerle at another.]
@@ -991,9 +991,9 @@ ALL  Amen!
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter John of Gaunt sick, with the Duke of York, and
 Attendants.]
@@ -1432,7 +1432,7 @@ WILLOUGHBY
 Hold out my horse, and I will first be there.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Queen, Bushy, and Bagot.]
 
@@ -1676,7 +1676,7 @@ Well, we may meet again.
 BAGOT  I fear me, never.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Bolingbroke, Duke of Hereford, and
 Northumberland.]
@@ -1946,7 +1946,7 @@ Nor friends nor foes, to me welcome you are.
 Things past redress are now with me past care.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Earl of Salisbury and a Welsh Captain.]
 
@@ -1986,9 +1986,9 @@ And crossly to thy good all fortune goes.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Bolingbroke, Duke of Hereford, York,
 Northumberland, with other Lords, and Bushy and
@@ -2054,7 +2054,7 @@ To fight with Glendower and his complices.
 A while to work, and after holiday.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Drums. Flourish and colors. Enter the King, Aumerle,
 Carlisle, and Soldiers.]
@@ -2349,7 +2349,7 @@ Discharge my followers. Let them hence away,
 From Richard's night to Bolingbroke's fair day.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter with Drum and Colors Bolingbroke, York,
 Northumberland, with Soldiers and Attendants.]
@@ -2650,7 +2650,7 @@ Yea, my good lord.
 KING RICHARD  Then I must not say no.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the Queen with her Ladies-in-waiting.]
 
@@ -2817,9 +2817,9 @@ In the remembrance of a weeping queen.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Bolingbroke with the Lords Aumerle,
 Northumberland, Harry Percy, Fitzwater, Surrey, the
@@ -3328,9 +3328,9 @@ A plot shall show us all a merry day.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Queen with her Attendants.]
 
@@ -3484,7 +3484,7 @@ We make woe wanton with this fond delay.
 Once more, adieu! The rest let sorrow say.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke of York and the Duchess.]
 
@@ -3698,7 +3698,7 @@ And never will I rise up from the ground
 Till Bolingbroke have pardoned thee. Away, begone!
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King with his Nobles.]
 
@@ -3958,7 +3958,7 @@ Your mother well hath prayed; and prove you true.
 Come, my old son. I pray God make thee new.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Sir Pierce Exton and Servants.]
 
@@ -3984,7 +3984,7 @@ Meaning the king at Pomfret. Come, let's go.
 I am the King's friend and will rid his foe.
 [They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Richard alone.]
 
@@ -4157,7 +4157,7 @@ This dead king to the living king I'll bear.
 Take hence the rest and give them burial here.
 [They exit with the bodies.]
 
-<b id="act-5-scene-6" class="scene-header">Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter King Henry, with the Duke of York.]
 
@@ -4249,4 +4249,5 @@ To wash this blood off from my guilty hand.
 [Servingmen lift the coffin to carry it out.]
 March sadly after. Grace my mournings here
 In weeping after this untimely bier.
-[They exit, following the coffin.]`;
+[They exit, following the coffin.]
+`;

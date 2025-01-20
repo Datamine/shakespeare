@@ -41,9 +41,9 @@ Attending Duke Senior in exile:
 Lords, Attendants, Musicians
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Orlando and Adam.]
 
@@ -271,7 +271,7 @@ shall clear all. Nothing remains but that I kindle the
 boy thither, which now I'll go about.
 [He exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Rosalind and Celia.]
 
@@ -710,7 +710,7 @@ From tyrant duke unto a tyrant brother.
 But heavenly Rosalind!
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Celia and Rosalind.]
 
@@ -933,9 +933,9 @@ To liberty, and not to banishment.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke Senior, Amiens, and two or three Lords, like
 foresters.]
@@ -1031,7 +1031,7 @@ For then he's full of matter.
 FIRST LORD  I'll bring you to him straight.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke Frederick with Lords.]
 
@@ -1066,7 +1066,7 @@ And let not search and inquisition quail
 To bring again these foolish runaways.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Orlando and Adam, meeting.]
 
@@ -1166,7 +1166,7 @@ Yet fortune cannot recompense me better
 Than to die well, and not my master's debtor.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Rosalind for Ganymede, Celia for Aliena, and
 Clown, alias Touchstone.]
@@ -1336,7 +1336,7 @@ I will your very faithful feeder be
 And buy it with your gold right suddenly.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Amiens, Jaques, and others.]
 
@@ -1428,7 +1428,7 @@ AMIENS  And I'll go seek the Duke. His banquet is
 prepared.
 [They exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Orlando and Adam.]
 
@@ -1454,7 +1454,7 @@ there live anything in this desert. Cheerly, good
 Adam.
 [They exit.]
 
-<b id="act-2-scene-7" class="scene-header">Scene 7</b>
+<b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Duke Senior and Lords, like outlaws.]
 
@@ -1755,9 +1755,9 @@ And let me all your fortunes understand.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Duke Frederick, Lords, and Oliver.]
 
@@ -1787,7 +1787,7 @@ Make an extent upon his house and lands.
 Do this expediently, and turn him going.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Orlando, with a paper.]
 
@@ -2398,7 +2398,7 @@ ORLANDO  With all my heart, good youth.
 Rosalind.--Come, sister, will you go?
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Touchstone and Audrey, followed by Jaques.]
 
@@ -2546,7 +2546,7 @@ OLIVER MARTEXT  'Tis no matter. Ne'er a fantastical
 knave of them all shall flout me out of my calling.
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Rosalind, dressed as Ganymede, and Celia,
 dressed as Aliena.]
@@ -2642,7 +2642,7 @@ Bring us to this sight, andyou shall say
 I'll prove a busy actor in their play.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Silvius and Phoebe.]
 
@@ -2844,9 +2844,9 @@ Go with me, Silvius.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Rosalind as Ganymede, and Celia as Aliena,
 and Jaques.]
@@ -3172,7 +3172,7 @@ shadow and sigh till he come.
 CELIA  And I'll sleep.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Jaques and Lords, like foresters.]
 
@@ -3211,7 +3211,7 @@ SECOND LORD [sings]
 	Is not a thing to laugh to scorn.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Rosalind dressed as Ganymede and Celia
 dressed as Aliena.]
@@ -3498,9 +3498,9 @@ Will you go?
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Touchstone and Audrey.]
 
@@ -3606,7 +3606,7 @@ TOUCHSTONE  Trip, Audrey, trip, Audrey.--I attend, I
 attend.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Orlando, with his arm in a sling, and Oliver.]
 
@@ -3799,7 +3799,7 @@ PHOEBE  Nor I.
 ORLANDO  Nor I.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Touchstone and Audrey.]
 
@@ -3874,7 +3874,7 @@ to hear such a foolish song. God be wi' you, and
 God mend your voices.--Come, Audrey.
 [They rise and exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Duke Senior, Amiens, Jaques, Orlando, Oliver,
 and Celia as Aliena.]
@@ -4216,4 +4216,5 @@ pleased me, complexions that liked me, and breaths
 that I defied not. And I am sure as many as have
 good beards, or good faces, or sweet breaths will for
 my kind offer, when I make curtsy, bid me farewell.
-[She exits.]`;
+[She exits.]
+`;

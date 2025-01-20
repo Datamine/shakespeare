@@ -50,7 +50,7 @@ LORD of Mytilene
 Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana's temple, Messenger from Tyre
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
 1 Chorus
 <hr>
@@ -103,7 +103,7 @@ What now ensues, to the judgment of your eye
 I give my cause, who best can justify.
 [He exits.]
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Antiochus, Prince Pericles, and followers.]
 
@@ -344,7 +344,7 @@ Thaliard, adieu. Till Pericles be dead,
 My heart can lend no succor to my head.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pericles with an Attendant.]
 
@@ -519,7 +519,7 @@ That time of both this truth shall ne'er convince.
 Thou showed'st a subject's shine, I a true prince.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Thaliard alone.]
 
@@ -582,7 +582,7 @@ Yet ere you shall depart, this we desire:
 As friends to Antioch, we may feast in Tyre.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Cleon the Governor of Tarsus, with his wife
 Dionyza and others.]
@@ -742,7 +742,7 @@ Until our stars that frown lend us a smile.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
 2 Chorus
 <hr>
@@ -802,7 +802,7 @@ And here he comes. What shall be next,
 Pardon old Gower--this 'longs the text.
 [He exits.]
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pericles, wet.]
 
@@ -1051,7 +1051,7 @@ Then honor be but a goal to my will;
 This day I'll rise or else add ill to ill.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King Simonides, with Lords, Attendants,
 and Thaisa.]
@@ -1194,7 +1194,7 @@ We will withdraw into the gallery.
 
 [Great shouts offstage, and all cry, "The mean knight."]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King Simonides, Thaisa, Marshal, Ladies,
 Lords, Attendants, and Knights in armor, from tilting.]
@@ -1393,7 +1393,7 @@ Therefore each one betake him to his rest,
 Tomorrow all for speeding do their best.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Helicanus and Escanes.]
 
@@ -1493,7 +1493,7 @@ Then you love us, we you, and we'll clasp hands.
 When peers thus knit, a kingdom ever stands.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter the King, Simonides, reading of a letter at one
 door; the Knights meet him.]
@@ -1663,7 +1663,7 @@ And then with what haste you can, get you to bed.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
 3 Chorus
 <hr>
@@ -1747,7 +1747,7 @@ This stage the ship upon whose deck
 The sea-tossed Pericles appears to speak.
 [He exits.]
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pericles, a-shipboard.]
 
@@ -1875,7 +1875,7 @@ At careful nursing. Go thy ways, good mariner.
 I'll bring the body presently.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lord Cerimon with two Suppliants.]
 
@@ -2076,7 +2076,7 @@ For her relapse is mortal. Come, come;
 And Aesculapius guide us.
 [They carry her away as they all exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pericles, at Tarsus, with Cleon and Dionyza, and
 Lychorida with the child.]
@@ -2147,7 +2147,7 @@ Look to your little mistress, on whose grace
 You may depend hereafter.--Come, my lord.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Cerimon and Thaisa.]
 
@@ -2179,7 +2179,7 @@ Yet my good will is great, though the gift small.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
 4 Chorus
 <hr>
@@ -2241,7 +2241,7 @@ Dionyza does appear,
 With Leonine, a murderer.
 [He exits.]
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Dionyza with Leonine.]
 
@@ -2413,7 +2413,7 @@ Not carry her aboard. If she remain,
 Whom they have ravished must by me be slain.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pander, Bawd, and Bolt.]
 
@@ -2646,7 +2646,7 @@ BAWD  What have we to do with Diana, pray you? Will
 you go with us?
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cleon and Dionyza.]
 
@@ -2727,7 +2727,7 @@ Do swear to the gods that winter kills the flies.
 But yet I know you'll do as I advise.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Gower.]
 
@@ -2796,7 +2796,7 @@ By Lady Fortune, while our scene must play
 His daughter's woe and heavy welladay
 In her unholy service. Patience, then,
 And think you now are all in Mytilene.	[He exits.]
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter two Gentlemen.]
 
@@ -2816,7 +2816,7 @@ FIRST GENTLEMAN  I'll do anything now that is virtuous,
 but I am out of the road of rutting forever.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Bawd, Pander, and Bolt.]
 
@@ -3126,7 +3126,7 @@ Come your ways.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
 
 [Enter Gower.]
@@ -3159,7 +3159,7 @@ Where what is done in action--more, if might--
    Shall be discovered. Please you sit and hark.
 [He exits.]
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Helicanus, to him two Sailors, one from the
 Tyrian ship and one from Mytilene.]
@@ -3624,7 +3624,7 @@ Sir, lend me your arm.
 PERICLES  Come, my Marina.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Gower.]
 
@@ -3652,7 +3652,7 @@ That he can hither come so soon
 Is by your fancies' thankful doom.
 [He exits.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cerimon and Diana's Priestesses, including
 Thaisa; at another door enter Pericles, Marina,
@@ -3829,4 +3829,5 @@ The gods for murder seemed so content
 To punish, although not done, but meant.
 So on your patience evermore attending,
 New joy wait on you. Here our play has ending.
-[He exits.]`;
+[He exits.]
+`;

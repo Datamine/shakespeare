@@ -41,9 +41,9 @@ Doctor of Divinity
 Attendants, Lords, Guards, Musicians, Laertes's Followers, Soldiers, Officers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Barnardo and Francisco, two sentinels.]
 
@@ -345,7 +345,7 @@ Let's do 't, I pray, and I this morning know
 Where we shall find him most convenient.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Flourish. Enter Claudius, King of Denmark, Gertrude the
 Queen, the Council, as Polonius, and his son Laertes,
@@ -763,7 +763,7 @@ Though all the earth o'erwhelm them, to men's
 eyes.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Laertes and Ophelia, his sister.]
 
@@ -959,7 +959,7 @@ Look to 't, I charge you. Come your ways.
 OPHELIA  I shall obey, my lord.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Hamlet, Horatio, and Marcellus.]
 
@@ -1119,7 +1119,7 @@ Heaven will direct it.
 MARCELLUS  Nay, let's follow him.
 [They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Ghost and Hamlet.]
 
@@ -1431,9 +1431,9 @@ Nay, come, let's go together.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter old Polonius with his man Reynaldo.]
 
@@ -1628,7 +1628,7 @@ More grief to hide than hate to utter love.
 Come.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Flourish. Enter King and Queen, Rosencrantz and
 Guildenstern and Attendants.]
@@ -2492,9 +2492,9 @@ Wherein I'll catch the conscience of the King.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King, Queen, Polonius, Ophelia, Rosencrantz,
 Guildenstern, and Lords.]
@@ -2772,7 +2772,7 @@ KING  It shall be so.
 Madness in great ones must not unwatched go.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Hamlet and three of the Players.]
 
@@ -3402,7 +3402,7 @@ How in my words somever she be shent,
 To give them seals never, my soul, consent.
 [He exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter King, Rosencrantz, and Guildenstern.]
 
@@ -3536,7 +3536,7 @@ My words fly up, my thoughts remain below;
 Words without thoughts never to heaven go.
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Queen and Polonius.]
 
@@ -3879,9 +3879,9 @@ Good night, mother.
 [They exit, Hamlet tugging in Polonius.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King and Queen, with Rosencrantz and
 Guildenstern.]
@@ -3950,7 +3950,7 @@ And hit the woundless air. O, come away!
 My soul is full of discord and dismay.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Hamlet.]
 
@@ -4010,7 +4010,7 @@ HAMLET  Of nothing. Bring me to him. Hide fox, and
 all after!
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter King and two or three.]
 
@@ -4136,7 +4136,7 @@ And thou must cure me. Till I know 'tis done,
 Howe'er my haps, my joys will ne'er begin.
 [He exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Fortinbras with his army over the stage.]
 
@@ -4240,7 +4240,7 @@ To hide the slain? O, from this time forth
 My thoughts be bloody or be nothing worth!
 [He exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Horatio, Queen, and a Gentleman.]
 
@@ -4594,7 +4594,7 @@ And where th' offense is, let the great ax fall.
 I pray you, go with me.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Horatio and others.]
 
@@ -4644,7 +4644,7 @@ And do 't the speedier that you may direct me
 To him from whom you brought them.
 [They exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter King and Laertes.]
 
@@ -4933,9 +4933,9 @@ Therefore, let's follow.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Gravedigger and Another.]
 
@@ -5395,7 +5395,7 @@ An hour of quiet thereby shall we see.
 Till then in patience our proceeding be.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Hamlet and Horatio.]
 
@@ -6072,4 +6072,5 @@ Take up the bodies. Such a sight as this
 Becomes the field but here shows much amiss.
 Go, bid the soldiers shoot.
 [They exit, marching, after the which, a peal of
-ordnance are shot off.]`;
+ordnance are shot off.]
+`;

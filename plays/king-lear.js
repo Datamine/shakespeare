@@ -34,9 +34,9 @@ HERALD
 Knights in Lear's train, Servants, Officers, Soldiers, Attendants, Gentlemen
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Kent, Gloucester, and Edmund.]
 
@@ -522,7 +522,7 @@ REGAN  We shall further think of it.
 GONERIL  We must do something, and i' th' heat.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Edmund, the Bastard.]
 
@@ -779,7 +779,7 @@ Let me, if not by birth, have lands by wit.
 All with me's meet that I can fashion fit.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Goneril and Oswald, her Steward.]
 
@@ -824,7 +824,7 @@ That I may speak. I'll write straight to my sister
 To hold my very course. Prepare for dinner.
 [They exit in different directions.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Kent in disguise.]
 
@@ -1366,7 +1366,7 @@ GONERIL  Nay, then--
 ALBANY  Well, well, th' event.
 [They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Lear, Kent in disguise, Gentleman, and Fool.]
 
@@ -1459,9 +1459,9 @@ shorter.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Edmund, the Bastard and Curan, severally.]
 
@@ -1691,7 +1691,7 @@ GLOUCESTER  I serve you, madam.
 Your Graces are right welcome.
 [Flourish. They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Kent in disguise and Oswald, the Steward,
 severally.]
@@ -1979,7 +1979,7 @@ Fortune, good night. Smile once more; turn thy
 wheel.
 [Sleeps.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Edgar.]
 
@@ -2007,7 +2007,7 @@ Enforce their charity. "Poor Turlygod! Poor Tom!"
 That's something yet. "Edgar" I nothing am.
 [He exits.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lear, Fool, and Gentleman.]
 
@@ -2527,9 +2527,9 @@ My Regan counsels well. Come out o' th' storm.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Storm still. Enter Kent in disguise, and a Gentleman,
 severally.]
@@ -2616,7 +2616,7 @@ That way, I'll this--he that first lights on him
 Holla the other.
 [They exit separately.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Storm still. Enter Lear and Fool.]
 
@@ -2749,7 +2749,7 @@ This prophecy Merlin shall make, for I live before
 his time.
 [He exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Gloucester and Edmund.]
 
@@ -2785,7 +2785,7 @@ That which my father loses--no less than all.
 The younger rises when the old doth fall.
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lear, Kent in disguise, and Fool.]
 
@@ -3077,7 +3077,7 @@ EDGAR
 	I smell the blood of a British man."
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cornwall, and Edmund with a paper.]
 
@@ -3118,7 +3118,7 @@ CORNWALL  I will lay trust upon thee, and thou shalt
 find a dearer father in my love.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Kent in disguise, and Gloucester.]
 
@@ -3307,7 +3307,7 @@ What will hap more tonight, safe 'scape the King!
 Lurk, lurk.
 [He exits.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Cornwall, Regan, Goneril, Edmund, the Bastard,
 and Servants.]
@@ -3545,9 +3545,9 @@ To apply to his bleeding face. Now heaven help him!
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Edgar in disguise.]
 
@@ -3692,7 +3692,7 @@ EDGAR  Give me thy arm.
 Poor Tom shall lead thee.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Goneril and Edmund, the Bastard.]
 
@@ -3869,7 +3869,7 @@ And to revenge thine eyes.--Come hither, friend.
 Tell me what more thou know'st.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Kent in disguise and a Gentleman.]
 
@@ -3970,7 +3970,7 @@ Lending me this acquaintance. I pray you, go
 Along with me.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter with Drum and Colors, Cordelia, Doctor,
 Gentlemen, and Soldiers.]
@@ -4019,7 +4019,7 @@ But love, dear love, and our aged father's right.
 Soon may I hear and see him.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Regan and Oswald, the Steward.]
 
@@ -4099,7 +4099,7 @@ What party I do follow.
 REGAN  Fare thee well.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Gloucester and Edgar dressed as a peasant.]
 
@@ -4564,7 +4564,7 @@ Far off methinks I hear the beaten drum.
 Come, father, I'll bestow you with a friend.
 [They exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Cordelia, Kent in disguise, Doctor, and
 Gentleman.]
@@ -4748,9 +4748,9 @@ Or well, or ill, as this day's battle's fought.
 [He exits.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter, with Drum and Colors, Edmund, Regan,
 Gentlemen, and Soldiers.]
@@ -4899,7 +4899,7 @@ Shall never see his pardon, for my state
 Stands on me to defend, not to debate.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum within. Enter, with Drum and Colors, Lear,
 Cordelia, and Soldiers, over the stage, and exit.
@@ -4935,7 +4935,7 @@ Ripeness is all. Come on.
 GLOUCESTER  And that's true too.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter in conquest, with Drum and Colors, Edmund;
 Lear and Cordelia as prisoners; Soldiers, Captain.]
@@ -5555,4 +5555,5 @@ The weight of this sad time we must obey,
 Speak what we feel, not what we ought to say.
 The oldest hath borne most; we that are young
 Shall never see so much nor live so long.
-[They exit with a dead march.]`;
+[They exit with a dead march.]
+`;

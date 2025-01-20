@@ -109,9 +109,9 @@ true wrongs.
 [Rumor exits.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Lord Bardolph at one door.]
 
@@ -424,7 +424,7 @@ Get posts and letters, and make friends with speed.
 Never so few, and never yet more need.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Sir John Falstaff, with his Page bearing his sword
 and buckler.]
@@ -763,7 +763,7 @@ will make use of anything. I will turn diseases to
 commodity.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter th' Archbishop of York, Thomas Mowbray (Earl
 Marshal), the Lord Hastings, and Lord Bardolph.]
@@ -924,9 +924,9 @@ We are time's subjects, and time bids begone.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hostess Quickly of the tavern with two Officers,
 Fang and Snare, who lags behind.]
@@ -1224,7 +1224,7 @@ CHIEF JUSTICE  Now the Lord lighten thee. Thou art a
 great fool.
 [They separate and exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Prince and Poins.]
 
@@ -1481,7 +1481,7 @@ the purpose must weigh with the folly. Follow me,
 Ned.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Northumberland, his wife, and the wife to
 Harry Percy.]
@@ -1573,7 +1573,7 @@ I will resolve for Scotland. There am I
 Till time and vantage crave my company.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Francis and another Drawer.]
 
@@ -2162,9 +2162,9 @@ She comes blubbered.--Yea! Will you come, Doll?
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King in his nightgown with a Page.]
 
@@ -2306,7 +2306,7 @@ And were these inward wars once out of hand,
 We would, dear lords, unto the Holy Land.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Justice Shallow and Justice Silence.]
 
@@ -2802,9 +2802,9 @@ there an end.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Archbishop of York, Mowbray, Lord
 Bardolph, Hastings, and their officers within the Forest
@@ -3349,7 +3349,7 @@ Some guard these traitors to the block of death,
 Treason's true bed and yielder-up of breath.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum. Excursions. Enter Falstaff and Colevile.]
 
@@ -3537,7 +3537,7 @@ finger and my thumb, and shortly will I seal with
 him. Come away.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King in a chair, Warwick, Thomas Duke of
 Clarence, Humphrey Duke of Gloucester, and
@@ -4115,9 +4115,9 @@ In that Jerusalem shall Harry die.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Shallow, Falstaff, Page, and Bardolph.]
 
@@ -4241,7 +4241,7 @@ FALSTAFF  I come, Master Shallow, I come, Master
 Shallow.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Warwick and Lord Chief Justice.]
 
@@ -4455,7 +4455,7 @@ No prince nor peer shall have just cause to say
 God shorten Harry's happy life one day.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sir John Falstaff, Shallow, Silence, Davy,
 Bardolph, and Page.]
@@ -4689,7 +4689,7 @@ Let vultures vile seize on his lungs also!
 Why, here it is. Welcome these pleasant days.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Hostess Quickly, Doll Tearsheet, and Beadles.]
 
@@ -4741,7 +4741,7 @@ DOLL  Come, you thin thing, come, you rascal.
 BEADLE  Very well.
 [They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter two Grooms.]
 

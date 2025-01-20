@@ -40,9 +40,9 @@ SECOND GOTH
 Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter the Tribunes (including Marcus
 Andronicus) and Senators aloft. And then enter, below,
@@ -847,9 +847,9 @@ Be it so, Titus, and gramercy too.
 [Sound trumpets. All but Aaron exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 
 AARON
@@ -1046,7 +1046,7 @@ To cool this heat, a charm to calm these fits,
 Per Stygia, per manes vehor.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Titus Andronicus and his three sons, and
 Marcus, making a noise with hounds and horns.]
@@ -1103,7 +1103,7 @@ Chiron, we hunt not, we, with horse nor hound,
 But hope to pluck a dainty doe to ground.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Aaron, alone, carrying a bag of gold.]
 
@@ -1604,7 +1604,7 @@ Come, Lucius, come. Stay not to talk with them.
 [They exit, with Attendants leading Martius and
 Quintus and bearing the body of Bassianus.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the Empress' sons, Demetrius and Chiron,
 with Lavinia, her hands cut off, and her tongue cut out,
@@ -1690,9 +1690,9 @@ O, could our mourning ease thy misery!
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Judges and Senators with Titus' two sons
 (Quintus and Martius) bound, passing on the stage to
@@ -2137,7 +2137,7 @@ Now will I to the Goths and raise a power
 To be revenged on Rome and Saturnine.
 [Lucius exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [A banquet. Enter Titus Andronicus, Marcus, Lavinia,
 and the boy Young Lucius, with Servants.]
@@ -2259,9 +2259,9 @@ And thou shalt read when mine begin to dazzle.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Lucius' son and Lavinia running after him, and
 the boy flies from her with his books under his arm.
@@ -2468,7 +2468,7 @@ But yet so just that he will not revenge.
 Revenge the heavens for old Andronicus!
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Aaron, Chiron, and Demetrius at one door, and at
 the other door young Lucius and another, with a bundle
@@ -2781,7 +2781,7 @@ And cabin in a cave, and bring you up
 To be a warrior and command a camp.
 [He exits with the baby.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Titus, old Marcus, his son Publius, young
 Lucius, and other gentlemen (Caius and Sempronius)
@@ -2968,7 +2968,7 @@ COUNTRY FELLOW  God be with you, sir. I will.
 TITUS  Come, Marcus, let us go.--Publius, follow me.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Emperor Saturninus and Empress Tamora
 and her two sons Chiron and Demetrius, with
@@ -3141,9 +3141,9 @@ Then go successantly, and plead to him.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter Lucius with an army of Goths, with
 Drums and Soldiers.]
@@ -3392,7 +3392,7 @@ Unto my father and my uncle Marcus,
 And we will come. March away.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Tamora and her two sons, disguised.]
 
@@ -3705,7 +3705,7 @@ So. Now bring them in, for I'll play the cook
 And see them ready against their mother comes.
 [They exit, carrying the dead bodies.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lucius, Marcus, and the Goths, with Aaron,
 Guards, and an Attendant carrying the baby.]
@@ -4025,4 +4025,5 @@ No mournful bell shall ring her burial;
 But throw her forth to beasts and birds to prey.
 Her life was beastly and devoid of pity,
 And being dead, let birds on her take pity.
-[They exit, carrying the dead bodies.]`;
+[They exit, carrying the dead bodies.]
+`;

@@ -92,9 +92,9 @@ A man may weep upon his wedding day.
 [He exits.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Duke of Norfolk at one door; at the other, the
 Duke of Buckingham and the Lord Abergavenny.]
@@ -455,7 +455,7 @@ By dark'ning my clear sun. [To Norfolk.] My lord,
 farewell.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Cornets. Enter King Henry, leaning on the Cardinal's
 shoulder, with the Nobles, Sir Thomas Lovell, and
@@ -781,7 +781,7 @@ Let him not seek 't of us. By day and night,
 He's traitor to th' height!
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lord Chamberlain and Lord Sands.]
 
@@ -907,7 +907,7 @@ This night to be comptrollers.
 SANDS  I am your Lordship's.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Hautboys. A small table under a state for the Cardinal, a
 longer table for the guests. Then enter Anne Bullen and
@@ -1158,9 +1158,9 @@ Who's best in favor. Let the music knock it.
 [They exit, with Trumpets.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen at several doors.]
 
@@ -1429,7 +1429,7 @@ We are too open here to argue this.
 Let's think in private more.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lord Chamberlain, reading this letter.]
 
@@ -1689,7 +1689,7 @@ So sweet a bedfellow? But, conscience, conscience!
 O, 'tis a tender place, and I must leave her.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Anne Bullen and an old Lady.]
 
@@ -1869,7 +1869,7 @@ What here you've heard to her.
 OLD LADY  What do you think me?
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Trumpets, sennet, and cornets. Enter two Vergers, with
 short silver wands; next them, two Scribes, in the habit of
@@ -2202,9 +2202,9 @@ I say, set on.
 [They exit, in manner as they entered.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Queen and her Women, as at work.]
 
@@ -2475,7 +2475,7 @@ That little thought, when she set footing here,
 She should have bought her dignities so dear.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Duke of Norfolk, Duke of Suffolk, Lord Surrey,
 and Lord Chamberlain.]
@@ -3195,9 +3195,9 @@ The hopes of court! My hopes in heaven do dwell.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen, meeting one another, the First
 Gentleman carrying a paper.]
@@ -3457,7 +3457,7 @@ I'll tell you more.
 BOTH  You may command us, sir.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Katherine Dowager, sick, led between Griffith, her
 gentleman usher, and Patience, her woman.]
@@ -3752,9 +3752,9 @@ I can no more.
 [They exit, leading Katherine.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Gardiner, Bishop of Winchester, a Page with a
 torch before him, met by Sir Thomas Lovell.]
@@ -4064,7 +4064,7 @@ I'll have more or else unsay 't. And now,
 While 'tis hot, I'll put it to the issue.
 [Old Lady exits, with Lovell.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cranmer, Archbishop of Canterbury. (Pages,
 Footboys, Grooms, and other servants attend at the
@@ -4452,7 +4452,7 @@ As I have made you one, lords, one remain.
 So I grow stronger, you more honor gain.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Noise and tumult within. Enter Porter and his Man,
 carrying cudgels.]
@@ -4585,7 +4585,7 @@ You i' th' camlet, get up o' th' rail!
 I'll peck you o'er the pales else.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Trumpets, sounding. Then two Aldermen, Lord
 Mayor, Garter, Cranmer, Duke of Norfolk with his
@@ -4722,4 +4722,5 @@ For such a one we showed 'em. If they smile
 And say 'twill do, I know within a while
 All the best men are ours; for 'tis ill hap
 If they hold when their ladies bid 'em clap.
-[He exits.]`;
+[He exits.]
+`;

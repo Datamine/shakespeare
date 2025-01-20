@@ -38,9 +38,9 @@ EXECUTIONERS
 English MESSENGER, French MESSENGER, Sheriff, Lords, Soldiers, Attendants
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King John, Queen Eleanor, Pembroke, Essex, and
 Salisbury, with the Chatillion of France.]
@@ -462,9 +462,9 @@ If thou hadst said him nay, it had been sin.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter, before Angiers, at one side, with Forces, Philip
 King of France, Louis the Dauphin, Constance, Arthur,
@@ -1347,9 +1347,9 @@ Gain, be my lord, for I will worship thee!
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Constance, Arthur, and Salisbury.]
 
@@ -1867,7 +1867,7 @@ KING JOHN
 No more than he that threats.--To arms let's hie!
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarums, excursions.
 Enter Bastard with Austria's head.]
@@ -1893,7 +1893,7 @@ But on, my liege, for very little pains
 Will bring this labor to an happy end.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums, excursions, retreat.
 Enter King John, Queen Eleanor, Arthur, Bastard,
@@ -2016,7 +2016,7 @@ Hubert shall be your man, attend on you
 With all true duty.--On toward Calais, ho!
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter King Philip of France,Louis the Dauphin,
 Pandulph, Attendants.]
@@ -2282,9 +2282,9 @@ If you say ay, the King will not say no.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hubert and Executioners, with irons and rope.]
 
@@ -2520,7 +2520,7 @@ Silence. No more. Go closely in with me.
 Much danger do I undergo for thee.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King John, Pembroke, Salisbury, and other
 Lords. King John ascends the throne.]
@@ -2920,7 +2920,7 @@ The angry lords with all expedient haste.
 I conjure thee but slowly; run more fast.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arthur on the walls, dressed as a shipboy.]
 
@@ -3205,9 +3205,9 @@ And heaven itself doth frown upon the land.
 [They exit, with Hubert carrying Arthur's body.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King John and Pandulph with the crown, and
 their Attendants.]
@@ -3326,7 +3326,7 @@ know
 Our party may well meet a prouder foe.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter, in arms, Louis the Dauphin, Salisbury, Melun,
 Pembroke, Bigot, and French and English Soldiers.]
@@ -3554,7 +3554,7 @@ BASTARD
 And thou shalt find it, dauphin, do not doubt.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums. Enter King John and Hubert.]
 
@@ -3594,7 +3594,7 @@ Set on toward Swinstead. To my litter straight.
 Weakness possesseth me, and I am faint.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Salisbury, Pembroke, and Bigot.]
 
@@ -3688,7 +3688,7 @@ Right in thine eye.--Away, my friends! New flight,
 And happy newness, that intends old right.
 [They exit, assisting Melun.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Louis, the Dauphin and his train.]
 
@@ -3734,7 +3734,7 @@ The day shall not be up so soon as I
 To try the fair adventure of tomorrow.
 [They exit.]
 
-<b id="act-5-scene-6" class="scene-header">Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Bastard and Hubert, severally.]
 
@@ -3823,7 +3823,7 @@ Away before. Conduct me to the King.
 I doubt he will be dead or ere I come.
 [They exit.]
 
-<b id="act-5-scene-7" class="scene-header">Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Prince Henry, Salisbury, and Bigot.]
 
@@ -4012,4 +4012,5 @@ Now these her princes are come home again,
 Come the three corners of the world in arms
 And we shall shock them. Naught shall make us rue,
 If England to itself do rest but true.
-[They exit, bearing the body of King John.]`;
+[They exit, bearing the body of King John.]
+`;

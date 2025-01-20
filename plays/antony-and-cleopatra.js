@@ -56,9 +56,9 @@ A COUNTRYMAN
 Ladies, Eunuchs, Captains, Officers, Soldiers, Attendants, Servants (Lamprius, Rannius, Lucillius: mute characters named in the opening stage direction to 1.2)
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Demetrius and Philo.]
 
@@ -171,7 +171,7 @@ Thus speaks of him at Rome; but I will hope
 Of better deeds tomorrow. Rest you happy!
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Enobarbus, Lamprius, a Soothsayer, Rannius,
 Lucillius, Charmian, Iras, Mardian the Eunuch, Alexas,
@@ -528,7 +528,7 @@ Our quick remove from hence.
 ENOBARBUS  I shall do 't.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cleopatra, Charmian, Alexas, and Iras.]
 
@@ -723,7 +723,7 @@ And I, hence fleeting, here remain with thee.
 Away!
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Octavius Caesar, reading a letter,
 Lepidus, and their Train.]
@@ -852,7 +852,7 @@ CAESAR
 Doubt not, sir. I knew it for my bond.
 [They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cleopatra, Charmian, Iras, and Mardian.]
 
@@ -998,9 +998,9 @@ Or I'll unpeople Egypt.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pompey, Menecrates, and Menas,
 in warlike manner.]
@@ -1090,7 +1090,7 @@ Our lives upon to use our strongest hands.
 Come, Menas.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Enobarbus and Lepidus.]
 
@@ -1511,7 +1511,7 @@ Whilst you abide here.
 ENOBARBUS  Humbly, sir, I thank you.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Antony, Caesar; Octavia between them.]
 
@@ -1590,7 +1590,7 @@ You must to Parthia; your commission's ready.
 Follow me and receive 't.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lepidus, Maecenas, and Agrippa.]
 
@@ -1619,7 +1619,7 @@ BOTH  Sir, good success.
 LEPIDUS  Farewell.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cleopatra, Charmian, Iras, and Alexas.]
 
@@ -1871,7 +1871,7 @@ Charmian,
 But do not speak to me. Lead me to my chamber.
 [They exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Flourish. Enter Pompey and Menas at one door,
 with Drum and Trumpet; at another Caesar, Lepidus,
@@ -2127,7 +2127,7 @@ in Egypt.
 MENAS  Come, let's away.
 [They exit.]
 
-<b id="act-2-scene-7" class="scene-header">Scene 7</b>
+<b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Music plays. Enter two or three Servants
 with a banquet.]
@@ -2407,9 +2407,9 @@ MENAS  Hoo! Noble captain, come.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ventidius as it were in triumph, the dead body of
 Pacorus borne before him; with Silius and Soldiers.]
@@ -2468,7 +2468,7 @@ The weight we must convey with 's will permit,
 We shall appear before him.--On there, pass along!
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Agrippa at one door, Enobarbus at another.]
 
@@ -2621,7 +2621,7 @@ CAESAR  Farewell, farewell.	[Kisses Octavia.]
 ANTONY  Farewell.
 [Trumpets sound. They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cleopatra, Charmian, Iras, and Alexas.]
 
@@ -2754,7 +2754,7 @@ Where I will write. All may be well enough.
 CHARMIAN  I warrant you, madam.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Antony and Octavia.]
 
@@ -2808,7 +2808,7 @@ Choose your own company, and command what cost
 Your heart has mind to.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Enobarbus and Eros.]
 
@@ -2856,7 +2856,7 @@ But let it be. Bring me to Antony.
 EROS  Come, sir.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Agrippa, Maecenas, and Caesar.]
 
@@ -3019,7 +3019,7 @@ Most certain. Sister, welcome. Pray you
 Be ever known to patience. My dear'st sister!
 [They exit.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Cleopatra and Enobarbus.]
 
@@ -3196,7 +3196,7 @@ With news the time's in labor, and throws forth
 Each minute some.
 [They exit.]
 
-<b id="act-3-scene-8" class="scene-header">Scene 8</b>
+<b id="act-3-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Caesar with his army, and Taurus, marching.]
 
@@ -3213,7 +3213,7 @@ Our fortune lies
 Upon this jump.
 [They exit.]
 
-<b id="act-3-scene-9" class="scene-header">Scene 9</b>
+<b id="act-3-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Enter Antony and Enobarbus.]
 
@@ -3225,7 +3225,7 @@ We may the number of the ships behold
 And so proceed accordingly.
 [They exit.]
 
-<b id="act-3-scene-10" class="scene-header">Scene 10</b>
+<b id="act-3-scene-10" class="scene-header">Scene 10</b>
 <hr>
 [Canidius marcheth with his land army one way
 over the stage, and Taurus the lieutenant of Caesar
@@ -3309,7 +3309,7 @@ The wounded chance of Antony, though my reason
 Sits in the wind against me.
 [He exits.]
 
-<b id="act-3-scene-11" class="scene-header">Scene 11</b>
+<b id="act-3-scene-11" class="scene-header">Scene 11</b>
 <hr>
 [Enter Antony with Attendants.]
 
@@ -3438,7 +3438,7 @@ Within there, and our viands! Fortune knows
 We scorn her most when most she offers blows.
 [They exit.]
 
-<b id="act-3-scene-12" class="scene-header">Scene 12</b>
+<b id="act-3-scene-12" class="scene-header">Scene 12</b>
 <hr>
 [Enter Caesar, Agrippa, Thidias, and
 Dolabella, with others.]
@@ -3510,7 +3510,7 @@ In every power that moves.
 THIDIAS  Caesar, I shall.
 [They exit.]
 
-<b id="act-3-scene-13" class="scene-header">Scene 13</b>
+<b id="act-3-scene-13" class="scene-header">Scene 13</b>
 <hr>
 [Enter Cleopatra, Enobarbus, Charmian, and Iras.]
 
@@ -3876,9 +3876,9 @@ Some way to leave him.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Caesar, Agrippa, and Maecenas, with his army,
 Caesar reading a letter.]
@@ -3908,7 +3908,7 @@ And feast the army; we have store to do 't,
 And they have earned the waste. Poor Antony.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Antony, Cleopatra, Enobarbus, Charmian, Iras,
 with others.]
@@ -3999,7 +3999,7 @@ Than death and honor. Let's to supper, come,
 And drown consideration.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a company of Soldiers.]
 
@@ -4077,7 +4077,7 @@ Let's see how it will give off.
 ALL  Content. 'Tis strange.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Antony and Cleopatra, with
 Charmian, and others.]
@@ -4166,7 +4166,7 @@ Determine this great war in single fight,
 Then Antony--but now--. Well, on.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Trumpets sound. Enter Antony and Eros, and a Soldier
 who meets them.]
@@ -4212,7 +4212,7 @@ To change a master. O, my fortunes have
 Corrupted honest men. Dispatch.--Enobarbus!
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Flourish. Enter Agrippa, Caesar, with
 Enobarbus and Dolabella.]
@@ -4283,7 +4283,7 @@ Some ditch wherein to die; the foul'st best fits
 My latter part of life.
 [He exits.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Alarum, Drums and Trumpets. Enter Agrippa,
 with other of Caesar's soldiers.]
@@ -4332,7 +4332,7 @@ For thy good valor. Come thee on.
 SCARUS  I'll halt after.
 [They exit.]
 
-<b id="act-4-scene-8" class="scene-header">Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Alarum. Enter Antony again in a march;
 Scarus, with others.]
@@ -4400,7 +4400,7 @@ together,
 Applauding our approach.
 [They exit.]
 
-<b id="act-4-scene-9" class="scene-header">Scene 9</b>
+<b id="act-4-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Enter a Sentry and his company. Enobarbus follows.]
 
@@ -4470,7 +4470,7 @@ Is fully out.
 SECOND WATCH  Come on then. He may recover yet.
 [They exit, carrying Enobarbus' body.]
 
-<b id="act-4-scene-10" class="scene-header">Scene 10</b>
+<b id="act-4-scene-10" class="scene-header">Scene 10</b>
 <hr>
 [Enter Antony and Scarus, with their army.]
 
@@ -4491,7 +4491,7 @@ Where their appointment we may best discover
 And look on their endeavor.
 [They exit.]
 
-<b id="act-4-scene-11" class="scene-header">Scene 11</b>
+<b id="act-4-scene-11" class="scene-header">Scene 11</b>
 <hr>
 [Enter Caesar and his army.]
 
@@ -4503,7 +4503,7 @@ Is forth to man his galleys. To the vales,
 And hold our best advantage.
 [They exit.]
 
-<b id="act-4-scene-12" class="scene-header">Scene 12</b>
+<b id="act-4-scene-12" class="scene-header">Scene 12</b>
 <hr>
 [Enter Antony and Scarus.]
 
@@ -4581,7 +4581,7 @@ fall
 Under this plot. She dies for 't.--Eros, ho!
 [He exits.]
 
-<b id="act-4-scene-13" class="scene-header">Scene 13</b>
+<b id="act-4-scene-13" class="scene-header">Scene 13</b>
 <hr>
 [Enter Cleopatra, Charmian, Iras, and Mardian.]
 
@@ -4605,7 +4605,7 @@ And bring me how he takes my death.--To th'
 monument!
 [They exit.]
 
-<b id="act-4-scene-14" class="scene-header">Scene 14</b>
+<b id="act-4-scene-14" class="scene-header">Scene 14</b>
 <hr>
 [Enter Antony and Eros.]
 
@@ -4884,7 +4884,7 @@ I have led you oft; carry me now, good friends,
 And have my thanks for all.
 [They exit bearing Antony and the body of Eros.]
 
-<b id="act-4-scene-15" class="scene-header">Scene 15</b>
+<b id="act-4-scene-15" class="scene-header">Scene 15</b>
 <hr>
 [Enter Cleopatra and her maids aloft, with
 Charmian and Iras.]
@@ -5045,9 +5045,9 @@ But resolution and the briefest end.
 [They exit, bearing off Antony's body.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Caesar with Agrippa, Dolabella, Maecenas,
 Gallus, and Proculeius, his council of war.]
@@ -5184,7 +5184,7 @@ In all my writings. Go with me and see
 What I can show in this.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cleopatra, Charmian, and Iras.]
 
@@ -5862,4 +5862,5 @@ In solemn show attend this funeral,
 And then to Rome. Come, Dolabella, see
 High order in this great solemnity.
 [They all exit, the Guards
-bearing the dead bodies.]`;
+bearing the dead bodies.]
+`;

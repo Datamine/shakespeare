@@ -62,9 +62,9 @@ First and Second Soldiers in Antony's army
 Citizens, Senators, Petitioners, Plebeians, Soldiers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Flavius, Marullus, and certain Commoners,
 including a Carpenter and a Cobbler, over the stage.]
@@ -179,7 +179,7 @@ Who else would soar above the view of men
 And keep us all in servile fearfulness.
 [They exit in different directions.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Caesar, Antony for the course, Calphurnia, Portia,
 Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer;
@@ -662,7 +662,7 @@ And after this, let Caesar seat him sure,
 For we will shake him, or worse days endure.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Thunder and lightning. Enter Casca and Cicero.]
 
@@ -914,9 +914,9 @@ We will awake him and be sure of him.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Brutus in his orchard.]
 
@@ -1460,7 +1460,7 @@ That Brutus leads me on.	[Thunder.]
 BRUTUS  Follow me then.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Thunder and lightning. Enter Julius Caesar in his
 nightgown.]
@@ -1681,7 +1681,7 @@ That every like is not the same, O Caesar,
 The heart of Brutus earns to think upon.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Artemidorus reading a paper.]
 
@@ -1704,7 +1704,7 @@ If thou read this, O Caesar, thou mayest live;
 If not, the Fates with traitors do contrive.
 [He exits.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Portia and Lucius.]
 
@@ -1798,9 +1798,9 @@ And bring me word what he doth say to thee.
 [They exit separately.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter Caesar, Antony, Lepidus; Brutus, Cassius,
 Casca, Decius, Metellus, Trebonius, Cinna; Publius,
@@ -2303,7 +2303,7 @@ To young Octavius of the state of things.
 Lend me your hand.
 [They exit with Caesar's body.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Brutus and Cassius with the Plebeians.]
 
@@ -2758,7 +2758,7 @@ Belike they had some notice of the people
 How I had moved them. Bring me to Octavius.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cinna the poet and after him the Plebeians.]
 
@@ -2831,9 +2831,9 @@ Ligarius'. Away, go!
 [All the Plebeians exit, carrying off Cinna.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Antony, Octavius, and Lepidus.]
 
@@ -2917,7 +2917,7 @@ And some that smile have in their hearts, I fear,
 Millions of mischiefs.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Drum. Enter Brutus, Lucilius, Lucius, and the Army.
 Titinius and Pindarus meet them.]
@@ -3018,7 +3018,7 @@ Come to our tent till we have done our conference.
 Let Lucilius and Titinius guard our door.
 [All but Brutus and Cassius exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 
 CASSIUS
@@ -3636,9 +3636,9 @@ BOTH  It shall be done, my lord.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Octavius, Antony, and their army.]
 
@@ -3864,7 +3864,7 @@ But it sufficeth that the day will end,
 And then the end is known.--Come ho, away!
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum. Enter Brutus and Messala.]
 
@@ -3880,7 +3880,7 @@ And sudden push gives them the overthrow.
 Ride, ride, Messala! Let them all come down.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums. Enter Cassius carrying a standard and
 Titinius.]
@@ -4081,7 +4081,7 @@ Labeo and Flavius, set our battles on.
 We shall try fortune in a second fight.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Enter Brutus, Messala, Cato, Lucilius, and
 Flavius.]
@@ -4150,7 +4150,7 @@ And bring us word unto Octavius' tent
 How everything is chanced.
 [They exit in different directions.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Brutus, Dardanus, Clitus, Strato, and Volumnius.]
 
@@ -4317,4 +4317,5 @@ Within my tent his bones tonight shall lie,
 Most like a soldier, ordered honorably.
 So call the field to rest, and let's away
 To part the glories of this happy day.
-[They all exit.]`;
+[They all exit.]
+`;

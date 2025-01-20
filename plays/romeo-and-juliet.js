@@ -62,9 +62,9 @@ What here shall miss, our toil shall strive to mend.
 [Chorus exits.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Sampson and Gregory, with swords and bucklers,
 of the house of Capulet.]
@@ -483,7 +483,7 @@ BENVOLIO
 I'll pay that doctrine or else die in debt.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Capulet, County Paris, and a Servingman.]
 
@@ -646,7 +646,7 @@ I'll go along, no such sight to be shown,
 But to rejoice in splendor of mine own.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Lady Capulet and Nurse.]
 
@@ -823,7 +823,7 @@ NURSE
 Go, girl, seek happy nights to happy days.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Romeo, Mercutio, Benvolio, with five or six other
 Maskers, Torchbearers, and a Boy with a drum.]
@@ -1001,7 +1001,7 @@ BENVOLIO  Strike, drum.
 [They march about the stage
 and then withdraw to the side.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Servingmen come forth with napkins.]
 
@@ -1268,7 +1268,7 @@ Come, let's away. The strangers all are gone.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
 
 
@@ -1291,7 +1291,7 @@ But passion lends them power, time means, to meet,
 Temp'ring extremities with extreme sweet.
 [Chorus exits.]
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Romeo alone.]
 
@@ -1363,7 +1363,7 @@ BENVOLIO  Go, then, for 'tis in vain
 To seek him here that means not to be found.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Romeo comes forward.]
 
@@ -1682,7 +1682,7 @@ Hence will I to my ghostly friar's close cell,
 His help to crave, and my dear hap to tell.
 [He exits.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Friar Lawrence alone with a basket.]
 
@@ -1827,7 +1827,7 @@ FRIAR LAWRENCE
 Wisely and slow. They stumble that run fast.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Benvolio and Mercutio.]
 
@@ -2159,7 +2159,7 @@ PETER  Anon.
 NURSE  Before and apace.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Juliet.]
 
@@ -2284,7 +2284,7 @@ JULIET
 Hie to high fortune! Honest nurse, farewell.
 [They exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Friar Lawrence and Romeo.]
 
@@ -2349,9 +2349,9 @@ Till Holy Church incorporate two in one.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Mercutio, Benvolio, and their men.]
 
@@ -2686,7 +2686,7 @@ Mercy but murders, pardoning those that kill.
 [They exit, the Capulet men
 bearing off Tybalt's body.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Juliet alone.]
 
@@ -2896,7 +2896,7 @@ Give this ring to my true knight
 And bid him come to take his last farewell.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Friar Lawrence.]
 
@@ -3173,7 +3173,7 @@ It were a grief so brief to part with thee.
 Farewell.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter old Capulet, his Wife, and Paris.]
 
@@ -3232,7 +3232,7 @@ Afore me, it is so very late that we
 May call it early by and by.--Good night.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Romeo and Juliet aloft.]
 
@@ -3627,9 +3627,9 @@ If all else fail, myself have power to die.
 [She exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Friar Lawrence and County Paris.]
 
@@ -3834,7 +3834,7 @@ afford.
 Farewell, dear father.
 [They exit in different directions.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Father Capulet, Mother, Nurse, and Servingmen,
 two or three.]
@@ -3927,7 +3927,7 @@ Against tomorrow. My heart is wondrous light
 Since this same wayward girl is so reclaimed.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Juliet and Nurse.]
 
@@ -4008,7 +4008,7 @@ Romeo, Romeo, Romeo! Here's drink. I drink to
 thee.	[She drinks and falls upon her bed
 within the curtains.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Lady Capulet and Nurse.]
 
@@ -4080,7 +4080,7 @@ Make haste. The bridegroom he is come already.
 Make haste, I say.
 [He exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 
 <b>NURSE,</b> [approaching the bed]
@@ -4324,9 +4324,9 @@ here, tarry for the mourners, and stay dinner.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Romeo.]
 
@@ -4459,7 +4459,7 @@ Come, cordial and not poison, go with me
 To Juliet's grave, for there must I use thee.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Friar John.]
 
@@ -4515,7 +4515,7 @@ And keep her at my cell till Romeo come.
 Poor living corse, closed in a dead man's tomb!
 [He exits.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Paris and his Page.]
 
@@ -5003,4 +5003,5 @@ Go hence to have more talk of these sad things.
 Some shall be pardoned, and some punished.
 For never was a story of more woe
 Than this of Juliet and her Romeo.
-[All exit.]`;
+[All exit.]
+`;

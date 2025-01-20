@@ -130,9 +130,9 @@ Now, good or bad, 'tis but the chance of war.
 [Prologue exits.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Pandarus and Troilus.]
 
@@ -317,7 +317,7 @@ In all swift haste.
 TROILUS  Come, go we then together.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cressida and her man Alexander.]
 
@@ -805,7 +805,7 @@ Then though my heart's content firm love doth bear,
 Nothing of that shall from mine eyes appear.
 [She exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes,
 Menelaus, with others.]
@@ -1300,9 +1300,9 @@ Must tar the mastiffs on, as 'twere a bone.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ajax and Thersites.]
 
@@ -1524,7 +1524,7 @@ He knew his man.	[Achilles and Patroclus exit.]
 <b>AJAX  O,</b> meaning you? I will go learn more of it.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Priam, Hector, Troilus, Paris and Helenas.]
 
@@ -1797,7 +1797,7 @@ Whilst emulation in the army crept.
 This, I presume, will wake him.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Thersites, alone.]
 
@@ -2226,9 +2226,9 @@ Light boats sail swift, though greater hulks draw deep.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Music sounds within. Enter Pandarus and Paris's
 Servingman.]
@@ -2483,7 +2483,7 @@ Yea, overshines ourself.
 PARIS  Sweet, above thought I love thee.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pandarus and Troilus's Man, meeting.]
 
@@ -2785,7 +2785,7 @@ And Cupid grant all tongue-tied maidens here
 Bed, chamber, pander to provide this gear.
 [He exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter Ulysses, Diomedes, Nestor,
 Agamemnon, Calchas, Menelaus, and Ajax.]
@@ -3225,9 +3225,9 @@ be a tick in a sheep than such a valiant ignorance.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter at one door Aeneas with a Torchbearer, at
 another Paris, Deiphobus, Antenor, Diomedes and
@@ -3356,7 +3356,7 @@ We'll not commend that not intend to sell.
 Here lies our way.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Troilus and Cressida.]
 
@@ -3562,7 +3562,7 @@ Crack my clear voice with sobs, and break my heart
 With sounding "Troilus." I will not go from Troy.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Paris, Troilus, Aeneas, Deiphobus, Antenor,
 and Diomedes.]
@@ -3586,7 +3586,7 @@ And would, as I shall pity, I could help.--
 Please you walk in, my lords?
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Pandarus and Cressida, weeping.]
 
@@ -3835,7 +3835,7 @@ The glory of our Troy doth this day lie
 On his fair worth and single chivalry.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Ajax, armed, Achilles, Patroclus, Agamemnon,
 Menelaus, Ulysses, Nestor, etc. and Trumpeter.]
@@ -4385,9 +4385,9 @@ But still sweet love is food for Fortune's tooth.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Achilles and Patroclus.]
 
@@ -4567,7 +4567,7 @@ Trojan drab and uses the traitor Calchas his tent.
 I'll after. Nothing but lechery! All incontinent varlets!
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Diomedes.]
 
@@ -4990,7 +4990,7 @@ Lechery, lechery, still wars and lechery! Nothing
 else holds fashion. A burning devil take them!
 [He exits.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Hector, armed, and Andromache.]
 
@@ -5213,7 +5213,7 @@ My love with words and errors still she feeds,
 But edifies another with her deeds.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Excursions. Enter Thersites.]
 
@@ -5275,7 +5275,7 @@ that miracle--yet, in a sort, lechery eats itself. I'll
 seek them.
 [He exits.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Diomedes and Servingman.]
 
@@ -5362,7 +5362,7 @@ Know what it is to meet Achilles angry.
 Hector! Where's Hector? I will none but Hector.
 [He exits, with the others.]
 
-<b id="act-5-scene-6" class="scene-header">Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Ajax.]
 
@@ -5452,7 +5452,7 @@ Wilt thou not, beast, abide?
 Why then, fly on. I'll hunt thee for thy hide.
 [He exits.]
 
-<b id="act-5-scene-7" class="scene-header">Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Achilles, with Myrmidons.]
 
@@ -5468,7 +5468,7 @@ Follow me, sirs, and my proceedings eye.
 It is decreed Hector the great must die.
 [They exit.]
 
-<b id="act-5-scene-8" class="scene-header">Scene 8</b>
+<b id="act-5-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Thersites; then Menelaus fighting Paris.]
 
@@ -5499,7 +5499,7 @@ he tempts judgment. Farewell, bastard.	[He exits.]
 BASTARD  The devil take thee, coward!
 [He exits.]
 
-<b id="act-5-scene-9" class="scene-header">Scene 9</b>
+<b id="act-5-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Enter Hector, with the body of the Greek in armor.]
 
@@ -5546,7 +5546,7 @@ Come, tie his body to my horse's tail;
 Along the field I will the Trojan trail.
 [They exit with the bodies.]
 
-<b id="act-5-scene-10" class="scene-header">Scene 10</b>
+<b id="act-5-scene-10" class="scene-header">Scene 10</b>
 <hr>
 [Sound retreat. Enter Agamemnon, Ajax, Menelaus,
 Nestor, Diomedes, and the rest, marching to the beat of
@@ -5574,7 +5574,7 @@ If in his death the gods have us befriended,
 Great Troy is ours, and our sharp wars are ended.
 [They exit, marching.]
 
-<b id="act-5-scene-11" class="scene-header">Scene 11</b>
+<b id="act-5-scene-11" class="scene-header">Scene 11</b>
 <hr>
 [Enter Aeneas, Paris, Antenor, Deiphobus, and Trojan
 soldiers.]
@@ -5660,4 +5660,5 @@ It should be now, but that my fear is this:
 Some galled goose of Winchester would hiss.
 Till then I'll sweat and seek about for eases,
 And at that time bequeath you my diseases.
-[He exits.]`;
+[He exits.]
+`;

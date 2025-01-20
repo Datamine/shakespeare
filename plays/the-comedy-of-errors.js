@@ -29,9 +29,9 @@ LADY ABBESS (also called Emilia), head of a priory in Ephesus
 Attendants, Servants to Pinch, Headsman, Officers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Solinus the Duke of Ephesus, with Egeon the
 Merchant of Syracuse, Jailer, and other Attendants.]
@@ -219,7 +219,7 @@ Hopeless and helpless doth Egeon wend,
 But to procrastinate his lifeless end.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Antipholus of Syracuse, First Merchant, and
 Dromio of Syracuse.]
@@ -389,9 +389,9 @@ I greatly fear my money is not safe.
 [He exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Adriana, wife to Antipholus of Ephesus, with
 Luciana, her sister.]
@@ -595,7 +595,7 @@ LUCIANA
 How many fond fools serve mad jealousy!
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Antipholus of Syracuse.]
 
@@ -959,9 +959,9 @@ Come, come, Antipholus, we dine too late.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Antipholus of Ephesus, his man Dromio, Angelo
 the goldsmith, and Balthasar the merchant.]
@@ -1266,7 +1266,7 @@ ANTIPHOLUS OF EPHESUS
 Do so. This jest shall cost me some expense.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Luciana with Antipholus of Syracuse.]
 
@@ -1569,9 +1569,9 @@ If any ship put out, then straight away.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Second Merchant, Angelo the Goldsmith,
 and an Officer.]
@@ -1785,7 +1785,7 @@ Thither I must, although against my will,
 For servants must their masters' minds fulfill.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Adriana and Luciana.]
 
@@ -1940,7 +1940,7 @@ Come, sister, I am pressed down with conceit:
 Conceit, my comfort and my injury.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Antipholus of Syracuse, wearing the chain.]
 
@@ -2090,7 +2090,7 @@ My ring away. This course I fittest choose,
 For forty ducats is too much to lose.
 [She exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Antipholus of Ephesus with a Jailer, the Officer.]
 
@@ -2444,9 +2444,9 @@ Therefore, away, to get our stuff aboard.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Second Merchant and Angelo the
 Goldsmith.]
@@ -3193,4 +3193,5 @@ DROMIO OF EPHESUS  Nay, then, thus:
 We came into the world like brother and brother,
 And now let's go hand in hand, not one before
 another.
-[They exit.]`;
+[They exit.]
+`;

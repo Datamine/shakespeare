@@ -78,9 +78,9 @@ Our losses fall so thick we must needs leave.
 
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Music. Enter Hymen with a torch burning, a Boy in
 a white robe before, singing and strewing flowers.
@@ -436,7 +436,7 @@ We lose our human title. Good cheer, ladies.
 Now turn we towards your comforts.
 [Flourish. They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Palamon and Arcite.]
 
@@ -602,7 +602,7 @@ When we know all ourselves, and let us follow
 The becking of our chance.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pirithous, Hippolyta, Emilia.]
 
@@ -735,7 +735,7 @@ EMILIA  I am not
 Against your faith, yet I continue mine.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Cornets. A battle struck within; then a retreat.
 Flourish. Then enter, through one door, Theseus,
@@ -820,7 +820,7 @@ Where, having bound things scattered, we will post
 To Athens 'fore our army.
 [Flourish. They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Music. Enter the Queens with the hearses of their
 knights, in a funeral solemnity, &c.]
@@ -855,9 +855,9 @@ And death's the market-place where each one meets.
 [They exit severally.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Jailer and Wooer.]
 
@@ -945,7 +945,7 @@ DAUGHTER  It is a holiday to look on them. Lord, the
 diff'rence of men!
 [Jailer, Daughter, and Wooer exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Palamon and Arcite remain, above.]
 
@@ -1484,7 +1484,7 @@ If ever thou hast felt what sorrow was,
 Dream how I suffer.--Come; now bury me.
 [Palamon and Jailer exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arcite.]
 
@@ -1639,7 +1639,7 @@ And happiness prefer me to a place
 Where I may ever dwell in sight of her?
 [Arcite exits.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Jailer's Daughter, alone.]
 
@@ -1680,7 +1680,7 @@ Thus much for law or kindred! I will do it,
 And this night, or tomorrow, he shall love me.
 [She exits.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [This short flourish of cornets and shouts within.
 Enter Theseus, Hippolyta, Pirithous, Emilia, Arcite
@@ -1824,7 +1824,7 @@ But you are wise.
 EMILIA  I hope too wise for that, sir.
 [Flourish. They all exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Jailer's Daughter alone.]
 
@@ -1872,9 +1872,9 @@ And shortly you may keep yourself. Now to him.
 [She exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Cornets in sundry places. Noise and hallowing
 as people a-Maying. Enter Arcite alone.]
@@ -2056,7 +2056,7 @@ You have a vantage o'er me, but enjoy 't till
 I may enforce my remedy. Farewell.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Jailer's Daughter, alone.]
 
@@ -2103,7 +2103,7 @@ Save what I fail in. But the point is this--
 An end, and that is all.
 [She exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Arcite with meat, wine, and files.]
 
@@ -2265,7 +2265,7 @@ I'll hear no more.
 PALAMON  If he keep touch, he dies for 't.
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Jailer's Daughter.]
 
@@ -2303,7 +2303,7 @@ O, for a prick now, like a nightingale,
 To put my breast against. I shall sleep like a top else.
 [She exits.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter a Schoolmaster and six Countrymen,
 one dressed as a Bavian.]
@@ -2579,7 +2579,7 @@ Come, we are all made. Dii deaeque omnes,
 You have danced rarely, wenches.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Palamon from the bush.]
 
@@ -3161,9 +3161,9 @@ Who loses, yet I'll weep upon his bier.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Jailer and his Friend.]
 
@@ -3488,7 +3488,7 @@ DAUGHTER  Bear for it, master. Tack about!
 	When Cynthia with her borrowed light, etc.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Emilia alone, with two pictures.]
 
@@ -3742,7 +3742,7 @@ Poor wench, go weep, for whosoever wins
 Loses a noble cousin for thy sins.
 [She exits.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Jailer, Wooer, Doctor.]
 
@@ -3879,9 +3879,9 @@ forth comfort.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter Theseus, Pirithous, Hippolyta,
 and Attendants. Three altars set up onstage.]
@@ -4125,7 +4125,7 @@ Unclasp thy mystery!--I hope she's pleased;
 Her signs were gracious.
 [They curtsy and exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Doctor, Jailer, and Wooer in
 the habit of Palamon.]
@@ -4443,7 +4443,7 @@ I will not, sweet.
 DAUGHTER  If you do, love, I'll cry.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter Theseus, Hippolyta,
 Emilia, Pirithous, and some Attendants.]
@@ -4682,7 +4682,7 @@ That two must needs be blind for 't.
 THESEUS  So it is.
 [Flourish. They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Guard with Palamon and his Knights,
 pinioned; Jailer, Executioner and Others,
@@ -4930,4 +4930,5 @@ We have our end; and you shall have ere long,
 I dare say, many a better, to prolong
 Your old loves to us. We, and all our might,
 Rest at your service. Gentlemen, good night.
-[Flourish. He exits.]`;
+[Flourish. He exits.]
+`;

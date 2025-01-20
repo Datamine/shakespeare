@@ -48,7 +48,7 @@ Servants to Baptista and Petruchio
 INDUCTION
 <hr>
 
-<b id="act-0-scene-1" class="scene-header">Scene 1</b>
+<b id="act-0-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Beggar (Christopher Sly) and Hostess.]
 
@@ -262,7 +262,7 @@ May well abate the over-merry spleen
 Which otherwise would grow into extremes.
 [They exit.]
 
-<b id="act-0-scene-2" class="scene-header">Scene 2</b>
+<b id="act-0-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter aloft Christopher Sly, the drunkard, with
 Attendants, some with apparel, basin and ewer, and
@@ -498,9 +498,9 @@ younger.
 [They sit.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter Lucentio and his man Tranio.]
 
@@ -890,7 +890,7 @@ SLY  'Tis a very excellent piece of work, madam lady.
 Would 'twere done.
 [They sit and mark.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Petruchio and his man Grumio.]
 
@@ -1346,9 +1346,9 @@ Petruchio, I shall be your ben venuto.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Katherine and Bianca with her hands tied.]
 
@@ -2074,9 +2074,9 @@ A child shall get a sire, if I fail not of my cunning.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Lucentio as Cambio, Hortensio as Litio, and
 Bianca.]
@@ -2237,7 +2237,7 @@ Seize thee that list! If once I find thee ranging,
 Hortensio will be quit with thee by changing.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Baptista, Gremio, Tranio as Lucentio, Katherine,
 Bianca, Lucentio as Cambio, and others, Attendants.]
@@ -2663,9 +2663,9 @@ She shall, Lucentio. Come, gentlemen, let's go.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Grumio.]
 
@@ -2995,7 +2995,7 @@ He that knows better how to tame a shrew,
 Now let him speak; 'tis charity to shew.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Tranio as Lucentio and Hortensio as Litio.]
 
@@ -3229,7 +3229,7 @@ In all these circumstances I'll instruct you.
 Go with me to clothe you as becomes you.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Katherine and Grumio.]
 
@@ -3572,7 +3572,7 @@ It shall be what o'clock I say it is.
 Why, so, this gallant will command the sun!
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Tranio as Lucentio, and the Merchant, booted,
 and dressed like Vincentio.]
@@ -3756,7 +3756,7 @@ Hap what hap may, I'll roundly go about her.
 It shall go hard if "Cambio" go without her.
 [He exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Petruchio, Katherine, Hortensio, and Servants.]
 
@@ -3900,9 +3900,9 @@ Then hast thou taught Hortensio to be untoward.
 [He exits.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Biondello, Lucentio as himself, and Bianca.
 Gremio is out before and stands to the side.]
@@ -4179,7 +4179,7 @@ Is not this well? Come, my sweet Kate.
 Better once than never, for never too late.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Baptista, Vincentio, Gremio, the Merchant,
 Lucentio, and Bianca; Hortensio and the Widow,
@@ -4571,4 +4571,5 @@ Now, go thy ways, thou hast tamed a curst shrow.
 
 LUCENTIO
 'Tis a wonder, by your leave, she will be tamed so.
-[They exit.]`;
+[They exit.]
+`;

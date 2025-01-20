@@ -60,9 +60,9 @@ SOLDIER
 Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Alarum. Enter Richard Plantagenet, Duke of York;
 Edward; Richard; Norfolk; Montague; Warwick; and
@@ -610,7 +610,7 @@ EXETER
 And I, I hope, shall reconcile them all.
 [Flourish. They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Richard, Edward, and Montague,
 all wearing the white rose.]
@@ -757,7 +757,7 @@ Whenas the enemy hath been ten to one.
 Why should I not now have the like success?
 [Alarum. They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Rutland and his Tutor.]
 
@@ -855,7 +855,7 @@ Shall rust upon my weapon till thy blood,
 Congealed with this, do make me wipe off both.
 [He exits, with Soldiers carrying off Rutland's body.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Enter Richard, Duke of York, wearing the
 white rose.]
@@ -1113,9 +1113,9 @@ So York may overlook the town of York.
 [Flourish. They exit, Soldiers carrying York's body.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [A march. Enter Edward, Richard, and their power,
 all wearing the white rose.]
@@ -1406,7 +1406,7 @@ WARWICK
 Why, then it sorts. Brave warriors, let's away!
 [They all exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Flourish. Enter King Henry, Queen Margaret,
 Clifford, Northumberland, and young Prince Edward,
@@ -1698,7 +1698,7 @@ No, wrangling woman, we'll no longer stay.
 These words will cost ten thousand lives this day.
 [They all exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarum. Excursions. Enter Warwick,
 wearing the white rose.]
@@ -1795,7 +1795,7 @@ For yet is hope of life and victory.
 Forslow no longer; make we hence amain.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Excursions. Enter, at separate doors, Richard wearing
 the white rose, and Clifford, wearing the red rose.]
@@ -1824,7 +1824,7 @@ Nay, Warwick, single out some other chase,
 For I myself will hunt this wolf to death.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Alarum. Enter King Henry alone, wearing the red rose.]
 
@@ -2021,7 +2021,7 @@ Not that I fear to stay, but love to go
 Whither the Queen intends. Forward, away!
 [They exit.]
 
-<b id="act-2-scene-6" class="scene-header">Scene 6</b>
+<b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [A loud alarum. Enter Clifford,
 wearing the red rose, wounded.]
@@ -2195,9 +2195,9 @@ To see these honors in possession.
 [They exit, with Clifford's body.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gamekeepers,
 with crossbows in their hands.]
@@ -2363,7 +2363,7 @@ And what God will, that let your king perform.
 And what he will, I humbly yield unto.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter King Edward, Richard, Duke of Gloucester,
 George, Duke of Clarence, Lady Grey,
@@ -2734,7 +2734,7 @@ Can I do this and cannot get a crown?
 Tut, were it farther off, I'll pluck it down.
 [He exits.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter Lewis the French king, his sister
 the Lady Bona, his Admiral called Bourbon,
@@ -3174,9 +3174,9 @@ But seek revenge on Edward's mockery.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Richard of Gloucester, Clarence, Somerset,
 and Montague, all wearing the white rose.]
@@ -3443,7 +3443,7 @@ Now therefore let us hence and lose no hour
 Till we meet Warwick with his foreign power.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Warwick and Oxford in England,
 wearing the red rose, with French Soldiers.]
@@ -3489,7 +3489,7 @@ Why then, let's on our way in silent sort.
 For Warwick and his friends, God and Saint George!
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter three Watchmen to guard King Edward's tent,
 all wearing the white rose.]
@@ -3619,7 +3619,7 @@ To free King Henry from imprisonment
 And see him seated in the regal throne.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Rivers and Queen Elizabeth,
 wearing the white rose.]
@@ -3681,7 +3681,7 @@ Come, therefore, let us fly while we may fly.
 If Warwick take us, we are sure to die.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Richard of Gloucester, Lord Hastings,
 and Sir William Stanley, with Soldiers,
@@ -3749,7 +3749,7 @@ Bishop, farewell; shield thee from Warwick's frown,
 And pray that I may repossess the crown.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Flourish. Enter King Henry the Sixth, Clarence,
 Warwick, Somerset, young Henry Earl of Richmond,
@@ -3919,7 +3919,7 @@ It shall be so. He shall to Brittany.
 Come, therefore, let's about it speedily.
 [They exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Flourish. Enter King Edward, Richard, Hastings,
 and Soldiers, all wearing the white rose.]
@@ -4093,7 +4093,7 @@ Come on, brave soldiers; doubt not of the day;
 And that once gotten, doubt not of large pay.
 [They exit.]
 
-<b id="act-4-scene-8" class="scene-header">Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Flourish. Enter King Henry, Warwick, Montague,
 Clarence, Oxford, and Exeter, all wearing the red rose.]
@@ -4207,9 +4207,9 @@ Brave warriors, march amain towards Coventry.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Warwick, wearing the red rose, the Mayor of
 Coventry, two Messengers, and others, upon the walls.]
@@ -4453,7 +4453,7 @@ Yes, Warwick, Edward dares, and leads the way.--
 Lords, to the field! Saint George and victory!
 [They exit. March. Warwick and his company follows.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum and excursions. Enter King Edward,
 wearing the white rose, bringing forth Warwick,
@@ -4532,7 +4532,7 @@ OXFORD
 Away, away, to meet the Queen's great power!
 [Here they bear away his body. They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Flourish. Enter King Edward in triumph, with Richard,
 Clarence, and the rest, all wearing the white rose.]
@@ -4571,7 +4571,7 @@ In every county as we go along.
 Strike up the drum, cry "Courage!" and away.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. March. Enter Queen Margaret,
 young Prince Edward, Somerset, Oxford,
@@ -4694,7 +4694,7 @@ You fight in justice. Then, in God's name, lords,
 Be valiant, and give signal to the fight!
 [Alarum, retreat, excursions. They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Flourish. Enter King Edward, Richard, and
 Clarence, all wearing the white rose, with Soldiers
@@ -4883,7 +4883,7 @@ And see our gentle queen how well she fares.
 By this I hope she hath a son for me.
 [They exit.]
 
-<b id="act-5-scene-6" class="scene-header">Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter King Henry the Sixth, wearing the red rose,
 and Richard of Gloucester, wearing the white rose,
@@ -5019,7 +5019,7 @@ I'll throw thy body in another room,
 And triumph, Henry, in thy day of doom.
 [He exits, carrying out the body.]
 
-<b id="act-5-scene-7" class="scene-header">Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Flourish. Enter King Edward, Queen Elizabeth,
 Clarence, Richard of Gloucester, Hastings, Nurse,
@@ -5092,4 +5092,5 @@ With stately triumphs, mirthful comic shows,
 Such as befits the pleasure of the court?
 Sound drums and trumpets! Farewell, sour annoy,
 For here I hope begins our lasting joy.
-[Flourish. They all exit.]`;
+[Flourish. They all exit.]
+`;

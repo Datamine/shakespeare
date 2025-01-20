@@ -49,9 +49,9 @@ Three STRANGERS, one called HOSTILIUS
 Soldiers, Servants, Messengers, Attendants, Musicians
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Poet, Painter, Jeweler, and Merchant, at several
 doors.]
@@ -613,7 +613,7 @@ Long may he live in fortunes. Shall we in?
 I'll keep you company.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Hautboys playing loud music. A great banquet served
 in, and then enter Lord Timon, the States, the Athenian
@@ -1037,9 +1037,9 @@ To counsel deaf, but not to flattery!
 [He exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Senator, with papers.]
 
@@ -1097,7 +1097,7 @@ CAPHIS  I will, sir.
 SENATOR  Go.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Steward Flavius, with many bills in his hand.]
 
@@ -1504,9 +1504,9 @@ Being free itself, it thinks all others so.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Flaminius waiting to speak with Lucullus,
 from his master.]
@@ -1606,7 +1606,7 @@ Which my lord paid for be of any power
 To expel sickness, but prolong his hour.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lucius, with three Strangers.]
 
@@ -1740,7 +1740,7 @@ Men must learn now with pity to dispense,
 For policy sits above conscience.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Third Servant of Timon's with Sempronius,
 another of Timon's friends.]
@@ -1797,7 +1797,7 @@ And this is all a liberal course allows:
 Who cannot keep his wealth must keep his house.
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Varro's two Men, meeting Titus and others, all
 being Men of Timon's creditors to wait for his coming
@@ -2051,7 +2051,7 @@ I charge thee, invite them all. Let in the tide
 Of knaves once more. My cook and I'll provide.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter three Senators at one door, Alcibiades meeting
 them, with Attendants.]
@@ -2222,7 +2222,7 @@ My discontented troops and lay for hearts.
 Soldiers should brook as little wrongs as gods.
 [He exits.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Music. Enter divers Friends at several doors.]
 
@@ -2428,9 +2428,9 @@ One day he gives us diamonds, next day stones.
 [The Senators and the others exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Timon.]
 
@@ -2479,7 +2479,7 @@ To the whole race of mankind, high and low!
 Amen.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Steward Flavius with two or three Servants.]
 
@@ -2556,7 +2556,7 @@ I'll ever serve his mind with my best will.
 Whilst I have gold, I'll be his steward still.
 [He exits.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Timon in the woods, with a spade.]
 
@@ -3416,9 +3416,9 @@ Ne'er see thou man, and let me ne'er see thee.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Poet and Painter.]
 
@@ -3804,7 +3804,7 @@ In our dear peril.
 FIRST SENATOR  It requires swift foot.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter two other Senators, with a Messenger.]
 
@@ -3842,7 +3842,7 @@ Doth choke the air with dust. In, and prepare.
 Ours is the fall, I fear, our foe's the snare.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Soldier in the woods, seeking Timon.]
 
@@ -3861,7 +3861,7 @@ Before proud Athens he's set down by this,
 Whose fall the mark of his ambition is.
 [He exits.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Trumpets sound. Enter Alcibiades with his Powers
 before Athens.]
@@ -3990,4 +3990,5 @@ Make war breed peace, make peace stint war, make
 each
 Prescribe to other as each other's leech.
 Let our drums strike.
-[Drums. They exit.]`;
+[Drums. They exit.]
+`;

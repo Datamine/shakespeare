@@ -28,9 +28,9 @@ Sailors
 Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Roderigo and Iago.]
 
@@ -318,7 +318,7 @@ And raise some special officers of night.--
 On, good Roderigo. I will deserve your pains.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Othello, Iago, Attendants, with Torches.]
 
@@ -503,7 +503,7 @@ For if such actions may have passage free,
 Bondslaves and pagans shall our statesmen be.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Duke, Senators, and Officers.]
 
@@ -1095,9 +1095,9 @@ Must bring this monstrous birth to the world's light.
 [He exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Montano and two Gentlemen.]
 
@@ -1587,7 +1587,7 @@ Even to madness. 'Tis here, but yet confused.
 Knavery's plain face is never seen till used.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Othello's Herald with a proclamation.]
 
@@ -1606,7 +1606,7 @@ the bell have told eleven. Heaven bless the isle of
 Cyprus and our noble general, Othello!
 [He exits.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Othello, Desdemona, Cassio, and Attendants.]
 
@@ -2174,9 +2174,9 @@ Dull not device by coldness and delay.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cassio with Musicians.]
 
@@ -2286,7 +2286,7 @@ To speak your bosom freely.
 CASSIO  I am much bound to you.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Othello, Iago, and Gentlemen.]
 
@@ -2307,7 +2307,7 @@ GENTLEMEN
 We wait upon your Lordship.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Desdemona, Cassio, and Emilia.]
 
@@ -3114,7 +3114,7 @@ For the fair devil. Now art thou my lieutenant.
 IAGO  I am your own forever.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Desdemona, Emilia, and Clown.]
 
@@ -3497,9 +3497,9 @@ BIANCA
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Othello and Iago.]
 
@@ -4038,7 +4038,7 @@ LODOVICO
 I am sorry that I am deceived in him.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Othello and Emilia.]
 
@@ -4483,7 +4483,7 @@ RODERIGO  I will hear further reason for this.
 IAGO  And you shall be satisfied.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Othello, Lodovico, Desdemona, Emilia, and
 Attendants.]
@@ -4670,9 +4670,9 @@ Not to pick bad from bad, but by bad mend.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Iago and Roderigo.]
 
@@ -4982,7 +4982,7 @@ Will you go on afore? [Aside.] This is the night
 That either makes me or fordoes me quite.
 [They exit in different directions.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Othello with a light, and Desdemona in her bed.]
 
@@ -5722,4 +5722,5 @@ Remains the censure of this hellish villain.
 The time, the place, the torture, O, enforce it.
 Myself will straight aboard, and to the state
 This heavy act with heavy heart relate.
-[They exit.]`;
+[They exit.]
+`;

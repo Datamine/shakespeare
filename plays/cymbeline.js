@@ -42,9 +42,9 @@ The Ghosts of Posthumus's two BROTHERS
 Lords, Ladies, Attendants, Musicians, a Dutchman, a Spaniard, Senators, Tribunes, Captains, and Soldiers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter two Gentlemen.]
 
@@ -366,7 +366,7 @@ Pray you, speak with me. You shall at least
 Go see my lord aboard. For this time leave me.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Cloten and two Lords.]
 
@@ -434,7 +434,7 @@ CLOTEN  Nay, come, let's go together.
 SECOND LORD  Well, my lord.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Imogen and Pisanio.]
 
@@ -512,7 +512,7 @@ I will attend the Queen.
 PISANIO  Madam, I shall.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Philario, Iachimo, a Frenchman, a Dutchman,
 and a Spaniard.]
@@ -755,7 +755,7 @@ PHILARIO  Signior Iachimo will not from it. Pray, let us
 follow 'em.
 [They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Queen, Ladies, and Cornelius.]
 
@@ -886,7 +886,7 @@ But when to my good lord I prove untrue,
 I'll choke myself; there's all I'll do for you.
 [He exits.]
 
-<b id="act-1-scene-6" class="scene-header">Scene 6</b>
+<b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Imogen alone.]
 
@@ -1216,9 +1216,9 @@ And truly yielded you. You're very welcome.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cloten and the two Lords.]
 
@@ -1316,7 +1316,7 @@ That temple, thy fair mind, that thou mayst stand
 T' enjoy thy banished lord and this great land.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [A trunk is brought in. Enter Imogen, reading, in her
 bed, and a Lady.]
@@ -1396,7 +1396,7 @@ One, two, three. Time, time!
 [He exits into the trunk. The trunk
 and bed are removed.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cloten and Lords.]
 
@@ -1679,7 +1679,7 @@ CLOTEN
 I'll be revenged! "His mean'st garment"? Well.
 [He exits.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Posthumus and Philario.]
 
@@ -1959,7 +1959,7 @@ He hath against himself.
 IACHIMO  With all my heart.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Posthumus.]
 
@@ -2004,9 +2004,9 @@ The very devils cannot plague them better.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter in state Cymbeline, Queen, Cloten, and Lords at
 one door, and, at another, Caius Lucius and Attendants.]
@@ -2123,7 +2123,7 @@ I know your master's pleasure, and he mine.
 All the remain is welcome.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pisanio reading of a letter.]
 
@@ -2234,7 +2234,7 @@ Do as I bid thee. There's no more to say.
 Accessible is none but Milford way.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter, as from a cave, Belarius as Morgan, Guiderius
 as Polydor, and Arviragus as Cadwal.]
@@ -2372,7 +2372,7 @@ Myself, Belarius, that am Morgan called,
 They take for natural father. The game is up!
 [He exits.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Pisanio and Imogen.]
 
@@ -2650,7 +2650,7 @@ Direct you to the best.
 IMOGEN  Amen. I thank thee.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cymbeline, Queen, Cloten, Lucius, Lords, and
 Attendants.]
@@ -2929,7 +2929,7 @@ You heavenly blessings, on her. This fool's speed
 Be crossed with slowness. Labor be his meed.
 [He exits.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Imogen alone, dressed as a boy, Fidele.]
 
@@ -3101,7 +3101,7 @@ welcome.
 <b>ARVIRAGUS,</b> [as Cadwal]  I pray, draw near.
 [They exit.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter two Roman Senators, and Tribunes.]
 
@@ -3136,9 +3136,9 @@ TRIBUNE  We will discharge our duty.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cloten alone, dressed in Posthumus's garments.]
 
@@ -3171,7 +3171,7 @@ hand! This is the very description of their meeting
 place, and the fellow dares not deceive me.
 [He draws his sword and exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Belarius as Morgan, Guiderius as Polydor,
 Arviragus as Cadwal, and Imogen as Fidele, from the
@@ -3877,7 +3877,7 @@ As soldiers can. Be cheerful; wipe thine eyes.
 Some falls are means the happier to arise.
 [They exit, the Soldiers carrying Cloten's body.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Cymbeline, Lords, Pisanio, and Attendants.]
 
@@ -3951,7 +3951,7 @@ All other doubts, by time let them be cleared.
 Fortune brings in some boats that are not steered.
 [He exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Belarius as Morgan, Guiderius as Polydor,
 and Arviragus as Cadwal.]
@@ -4040,9 +4040,9 @@ Till it fly out and show them princes born.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Posthumus alone, wearing Roman garments and
 carrying a bloody cloth.]
@@ -4084,7 +4084,7 @@ To shame the guise o' th' world, I will begin
 The fashion: less without and more within.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lucius, Iachimo, and the Roman army at one
 door, and the Briton army at another, Leonatus Posthumus
@@ -4136,7 +4136,7 @@ It is a day turned strangely. Or betimes
 Let's reinforce, or fly.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Posthumus and a Briton Lord.]
 
@@ -4283,7 +4283,7 @@ Posthumus to Cymbeline, who delivers him over to a
 Jailer.]
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Posthumus in chains, and two Jailers.]
 
@@ -4580,7 +4580,7 @@ and gallowses! I speak against my present profit,
 but my wish hath a preferment in 't.
 [He exits.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Cymbeline, Belarius as Morgan, Guiderius as
 Polydor, Arviragus as Cadwal, Pisanio, Attendants,
@@ -5372,4 +5372,5 @@ And in the temple of great Jupiter
 Our peace we'll ratify, seal it with feasts.
 Set on there. Never was a war did cease,
 Ere bloody hands were washed, with such a peace.
-[They exit.]`;
+[They exit.]
+`;

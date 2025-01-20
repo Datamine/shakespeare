@@ -39,9 +39,9 @@ SHEPHERDS and SHEPHERDESSES
 Twelve COUNTRYMEN disguised as satyrs
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Camillo and Archidamus.]
 
@@ -108,7 +108,7 @@ ARCHIDAMUS  If the King had no son, they would desire
 to live on crutches till he had one.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Leontes, Hermione, Mamillius, Polixenes, Camillo,
 and Attendants.]
@@ -826,9 +826,9 @@ To take the urgent hour. Come, sir, away.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hermione, Mamillius, and Ladies.]
 
@@ -1156,7 +1156,7 @@ Will raise us all.
 If the good truth were known.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Paulina, a Gentleman, and Paulina's Attendants.]
 
@@ -1277,7 +1277,7 @@ Do not you fear. Upon mine honor, I
 Will stand betwixt you and danger.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Leontes.]
 
@@ -1622,9 +1622,9 @@ And think upon my bidding.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Cleomenes and Dion.]
 
@@ -1664,7 +1664,7 @@ Even then will rush to knowledge. Go. Fresh horses;
 And gracious be the issue.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Leontes, Lords, and Officers.]
 
@@ -2012,7 +2012,7 @@ I daily vow to use it. Come, and lead me
 To these sorrows.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Antigonus carrying the babe, and a Mariner.]
 
@@ -2198,9 +2198,9 @@ deeds on 't.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Time, the Chorus.]
 
@@ -2241,7 +2241,7 @@ If never, yet that Time himself doth say
 He wishes earnestly you never may.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Polixenes and Camillo.]
 
@@ -2313,7 +2313,7 @@ POLIXENES  My best Camillo. We must disguise
 ourselves.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Autolycus singing.]
 
@@ -2498,7 +2498,7 @@ name put in the book of virtue.
 	   Your sad tires in a mile-a.
 [He exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Florizell and Perdita.]
 
@@ -3793,9 +3793,9 @@ present them. There may be matter in it.
 [He exits.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leontes, Cleomenes, Dion, Paulina, and
 Servants.]
@@ -4171,7 +4171,7 @@ I now go toward him. Therefore follow me,
 And mark what way I make. Come, good my lord.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Autolycus and a Gentleman.]
 
@@ -4413,7 +4413,7 @@ the Queen's picture. Come, follow us. We'll be thy
 good masters.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Leontes, Polixenes, Florizell, Perdita, Camillo,
 Paulina, and Lords.]
@@ -4663,4 +4663,5 @@ Lead us from hence, where we may leisurely
 Each one demand and answer to his part
 Performed in this wide gap of time since first
 We were dissevered. Hastily lead away.
-[They exit.]`;
+[They exit.]
+`;

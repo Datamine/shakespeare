@@ -2672,4 +2672,5 @@ For being both to me, both to each friend,
 I guess one angel in another's hell.
   The truth I shall not know, but live in doubt,
   Till my bad angel fire my good one out.
-[sig. A 4]`;
+[sig. A 4]
+`;

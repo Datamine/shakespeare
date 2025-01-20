@@ -53,9 +53,9 @@ A SHEPHERD, Pucelle's father
 Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Dead March. Enter the funeral of King Henry the Fifth,
 attended on by the Duke of Bedford, Regent of France;
@@ -320,7 +320,7 @@ And sit at chiefest stern of public weal.
 Warwick, Somerset, Attendants and
 Heralds exit with the coffin.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Sound a flourish. Enter Charles the Dauphin,
 Alanson, and Reignier, marching with Drum
@@ -575,7 +575,7 @@ Presently we'll try. Come, let's away about it.
 No prophet will I trust if she prove false.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Gloucester with his Servingmen in blue coats.]
 
@@ -756,7 +756,7 @@ stomachs bear!
 I myself fight not once in forty year.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the Master Gunner of Orleance and his Boy.]
 
@@ -925,7 +925,7 @@ Convey we Salisbury into his tent,
 And then try what these dastard Frenchmen dare.
 [Alarum. They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Here an alarum again, and Talbot pursueth the
 Dauphin and driveth him; then enter Joan la Pucelle,
@@ -997,7 +997,7 @@ O, would I were to die with Salisbury!
 The shame hereof will make me hide my head.
 [Talbot exits. Alarum. Retreat.]
 
-<b id="act-1-scene-6" class="scene-header">Scene 6</b>
+<b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Flourish. Enter on the walls Pucelle, Charles the
 Dauphin, Reignier, Alanson, and Soldiers.]
@@ -1047,9 +1047,9 @@ After this golden day of victory.
 [Flourish. They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter on the walls a French Sergeant of a Band,
 with two Sentinels.]
@@ -1222,7 +1222,7 @@ For I have loaden me with many spoils,
 Using no other weapon but his name.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Talbot, Bedford, Burgundy, a Captain and Others.]
 
@@ -1322,7 +1322,7 @@ CAPTAIN
 I do, my lord, and mean accordingly.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Countess of Auvergne, with Porter.]
 
@@ -1469,7 +1469,7 @@ With all my heart, and think me honored
 To feast so great a warrior in my house.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Richard Plantagenet, Warwick, Somerset,
 William de la Pole the Earl of Suffolk,
@@ -1703,7 +1703,7 @@ Come, let us four to dinner. I dare say
 This quarrel will drink blood another day.
 [They exit.]
 
-<b id="act-2-scene-5" class="scene-header">Scene 5</b>
+<b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Edmund Mortimer, brought in a chair,
 and Jailers.]
@@ -1882,9 +1882,9 @@ Or make mine ill th' advantage of my good.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter King Henry, Exeter, Gloucester, and
 Winchester; Richard Plantagenet and Warwick,
@@ -2226,7 +2226,7 @@ Which is so plain that Exeter doth wish
 His days may finish ere that hapless time.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Pucelle disguised, with four Soldiers with sacks
 upon their backs.]
@@ -2499,7 +2499,7 @@ But kings and mightiest potentates must die,
 For that's the end of human misery.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.]
 
@@ -2652,7 +2652,7 @@ Now let us on, my lords, and join our powers,
 And seek how we may prejudice the foe.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. Enter the King, Gloucester, Winchester,
 Exeter; York, Warwick, and Vernon, with white roses;
@@ -2734,9 +2734,9 @@ And after meet you sooner than you would.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish. Enter King, Gloucester, Winchester, Talbot,
 Exeter; York and Warwick, with white roses; Suffolk
@@ -3044,7 +3044,7 @@ But more when envy breeds unkind division:
 There comes the ruin; there begins confusion.
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Talbot with Soldiers and Trump and Drum
 before Bordeaux.]
@@ -3119,7 +3119,7 @@ God and Saint George, Talbot and England's right,
 Prosper our colors in this dangerous fight!
 [He exits with Soldiers, Drum and Trumpet.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter a Messenger that meets York. Enter York
 with Trumpet and many Soldiers.]
@@ -3204,7 +3204,7 @@ Henry the Fifth. Whiles they each other cross,
 Lives, honors, lands, and all hurry to loss.
 [He exits.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Somerset with his army and a Captain
 from Talbot's army.]
@@ -3284,7 +3284,7 @@ LUCY
 His fame lives in the world, his shame in you.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Talbot and John Talbot, his son.]
 
@@ -3384,7 +3384,7 @@ Come, side by side, together live and die,
 And soul with soul from France to heaven fly.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Alarum. Excursions, wherein Talbot's son John
 is hemmed about, and Talbot rescues him.]
@@ -3458,7 +3458,7 @@ If thou wilt fight, fight by thy father's side,
 And commendable proved, let's die in pride.
 [They exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Alarum. Excursions. Enter old Talbot
 led by a Servant.]
@@ -3618,9 +3618,9 @@ All will be ours, now bloody Talbot's slain.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Sennet. Enter King, Gloucester, and Exeter,
 with Attendants.]
@@ -3724,7 +3724,7 @@ I'll either make thee stoop and bend thy knee,
 Or sack this country with a mutiny.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Charles, Burgundy, Alanson, Bastard,
 Reignier, and Joan la Pucelle, with Soldiers.]
@@ -3775,7 +3775,7 @@ CHARLES
 Then on, my lords, and France be fortunate!
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarum. Excursions. Enter Joan la Pucelle.]
 
@@ -4139,7 +4139,7 @@ That, when thou com'st to kneel at Henry's feet,
 Thou mayst bereave him of his wits with wonder.
 [He exits.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter York, Warwick, Shepherd,
 and Pucelle, guarded.]
@@ -4413,7 +4413,7 @@ Hang up your ensigns, let your drums be still,
 For here we entertain a solemn peace.
 [They exit.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Suffolk in conference with the King,
 Gloucester, and Exeter, with Attendants.]
@@ -4554,4 +4554,5 @@ With hope to find the like event in love,
 But prosper better than the Trojan did.
 Margaret shall now be queen, and rule the King,
 But I will rule both her, the King, and realm.
-[He exits.]`;
+[He exits.]
+`;

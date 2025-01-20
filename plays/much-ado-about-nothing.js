@@ -37,9 +37,9 @@ BOY
 Musicians, Lords, Attendants, Son to Leonato's brother
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato, Governor of Messina, Hero his daughter,
 and Beatrice his niece, with a Messenger.]
@@ -501,7 +501,7 @@ And the conclusion is, she shall be thine.
 In practice let us put it presently.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Leonato, meeting an old man, brother to
 Leonato.]
@@ -546,7 +546,7 @@ your skill.--Good cousin, have a care this busy
 time.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Sir John the Bastard, and Conrade, his
 companion.]
@@ -652,9 +652,9 @@ BORACHIO  We'll wait upon your Lordship.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato, his brother, Hero his daughter, and
 Beatrice his niece, with Ursula and Margaret.]
@@ -1206,7 +1206,7 @@ glory shall be ours, for we are the only love gods. Go
 in with me, and I will tell you my drift.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Don John and Borachio.]
 
@@ -1285,7 +1285,7 @@ DON JOHN  I will presently go learn their day of
 marriage.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Benedick alone.]
 
@@ -1661,9 +1661,9 @@ do not love her, I am a Jew. I will go get her picture.
 [He exits.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hero and two gentlewomen, Margaret and Ursula.]
 
@@ -1848,7 +1848,7 @@ For others say thou dost deserve, and I
 Believe it better than reportingly.
 [She exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prince, Claudio, Benedick, and Leonato.]
 
@@ -2045,7 +2045,7 @@ DON JOHN  O plague right well prevented! So will you
 say when you have seen the sequel.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Dogberry and his compartner Verges
 with the Watch.]
@@ -2308,7 +2308,7 @@ CONRADE  A commodity in question, I warrant you.--
 Come, we'll obey you.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Hero, and Margaret, and Ursula.]
 
@@ -2458,7 +2458,7 @@ HERO  Help to dress me, good coz, good Meg, good
 Ursula.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Leonato, and Dogberry, the Constable, and
 Verges, the Headborough.]
@@ -2561,9 +2561,9 @@ and meet me at the jail.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Prince, John the Bastard, Leonato, Friar,
 Claudio, Benedick, Hero, and Beatrice, with
@@ -3086,7 +3086,7 @@ As you hear of me, so think of me. Go comfort your
 cousin. I must say she is dead, and so farewell.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Constables Dogberry and Verges, and the
 Town Clerk, or Sexton, in gowns, with the Watch,
@@ -3225,9 +3225,9 @@ had been writ down an ass!
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Leonato and his brother.]
 
@@ -3751,7 +3751,7 @@ Margaret,
 How her acquaintance grew with this lewd fellow.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Benedick and Margaret.]
 
@@ -3900,7 +3900,7 @@ buried in thy eyes--and, moreover, I will go with
 thee to thy uncle's.
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Claudio, Prince, and three or four Lords with
 tapers, and Musicians.]
@@ -3960,7 +3960,7 @@ And Hymen now with luckier issue speed 's,
    Than this for whom we rendered up this woe.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Leonato, Benedick, Beatrice, Margaret, Ursula,
 Leonato's brother, Friar, Hero.]
@@ -4215,4 +4215,5 @@ And brought with armed men back to Messina.
 <b>BENEDICK,</b> [to Prince]  Think not on him till tomorrow.
 I'll devise thee brave punishments for him.--Strike
 up, pipers!	[Music plays. They dance.]
-[They exit.]`;
+[They exit.]
+`;

@@ -113,9 +113,9 @@ Gently to hear, kindly to judge our play.
 [He exits.]
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the two Bishops of Canterbury and Ely.]
 
@@ -262,7 +262,7 @@ BISHOP OF ELY
 I'll wait upon you, and I long to hear it.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the King of England, Humphrey Duke of
 Gloucester, Bedford, Clarence, Warwick, Westmoreland,
@@ -657,7 +657,7 @@ That this fair action may on foot be brought.
 [Flourish. They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
 
 [Enter Chorus.]
@@ -708,7 +708,7 @@ But, till the King come forth, and not till then,
 Unto Southampton do we shift our scene.
 [He exits.]
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Corporal Nym and Lieutenant Bardolph.]
 
@@ -900,7 +900,7 @@ PISTOL  Let us condole the knight, for, lambkins, we
 will live.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Exeter, Bedford, and Westmoreland.]
 
@@ -1166,7 +1166,7 @@ Cheerly to sea. The signs of war advance.
 No king of England if not king of France.
 [Flourish. They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Pistol, Nym, Bardolph, Boy, and Hostess.]
 
@@ -1256,7 +1256,7 @@ close, I thee command.
 HOSTESS  Farewell. Adieu.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. Enter the French King, the Dauphin, the Dukes
  of Berri and Brittany, the Constable, and others.]
@@ -1461,7 +1461,7 @@ To answer matters of this consequence.
 [Flourish. They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
 
 [Enter Chorus.]
@@ -1508,7 +1508,7 @@ And down goes all before them. Still be kind,
 And eke out our performance with your mind.
 [He exits.]
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King of England, Exeter, Bedford, and
 Gloucester. Alarum. Enter Soldiers with scaling
@@ -1556,7 +1556,7 @@ Cry "God for Harry, England, and Saint George!"
 [Alarum, and chambers go off.]
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Nym, Bardolph, Pistol, and Boy.]
 
@@ -1752,7 +1752,7 @@ be so bold as to tell you I know the disciplines of
 war, and there is an end.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King of England and all his train
 before the gates.]
@@ -1827,7 +1827,7 @@ Tonight in Harfleur will we be your guest.
 Tomorrow for the march are we addressed.
 [Flourish, and enter the town.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Katherine and Alice, an old Gentlewoman.]
 
@@ -1928,7 +1928,7 @@ KATHERINE  C'est assez pour une fois. Allons-nous a
 diner.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter the King of France, the Dauphin, the Duke of
 Brittany, the Constable of France, and others.]
@@ -2028,7 +2028,7 @@ Now forth, Lord Constable and princes all,
 And quickly bring us word of England's fall.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Captains, English and Welsh, Gower and Fluellen.]
 
@@ -2268,7 +2268,7 @@ Beyond the river we'll encamp ourselves,
 And on tomorrow bid them march away.
 [They exit.]
 
-<b id="act-3-scene-7" class="scene-header">Scene 7</b>
+<b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter the Constable of France, the Lord Rambures,
 Orleans, Dauphin, with others.]
@@ -2515,7 +2515,7 @@ We shall have each a hundred Englishmen.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
 [Enter Chorus.]
 
@@ -2577,7 +2577,7 @@ The name of Agincourt. Yet sit and see,
 Minding true things by what their mock'ries be.
 [He exits.]
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King of England, Bedford, and Gloucester.]
 
@@ -3016,7 +3016,7 @@ I know thy errand. I will go with thee.
 The day, my friends, and all things stay for me.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Dauphin, Orleans, Rambures, and Beaumont.]
 
@@ -3121,7 +3121,7 @@ And use it for my haste. Come, come away.
 The sun is high, and we outwear the day.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Gloucester, Bedford, Exeter, Erpingham with all
 his host, Salisbury, and Westmoreland.]
@@ -3322,7 +3322,7 @@ Now, soldiers, march away,
 And how Thou pleasest, God, dispose the day.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarum. Excursions. Enter Pistol, French Soldier,
 and Boy.]
@@ -3438,7 +3438,7 @@ camp. The French might have a good prey of us if he
 knew of it, for there is none to guard it but boys.
 [He exits.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Constable, Orleans, Bourbon, Dauphin, and
 Rambures.]
@@ -3488,7 +3488,7 @@ The devil take order now! I'll to the throng.
 Let life be short, else shame will be too long.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Alarum. Enter the King of England and his train,
 with prisoners.]
@@ -3546,7 +3546,7 @@ Then every soldier kill his prisoners.
 Give the word through.
 [They exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Fluellen and Gower.]
 
@@ -3816,7 +3816,7 @@ Follow, and see there be no harm between them.--
 Go you with me, uncle of Exeter.
 [They exit.]
 
-<b id="act-4-scene-8" class="scene-header">Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Gower and Williams.]
 
@@ -4014,7 +4014,7 @@ Where ne'er from France arrived more happy men.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
 [Enter Chorus.]
 
@@ -4069,7 +4069,7 @@ Then brook abridgment, and your eyes advance
 After your thoughts, straight back again to France.
 [He exits.]
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Fluellen and Gower.]
 
@@ -4197,7 +4197,7 @@ And patches will I get unto these cudgeled scars,
 And swear I got them in the Gallia wars.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter at one door, King Henry, Exeter, Bedford,
 Warwick, Westmoreland, and other Lords. At another,
@@ -4723,4 +4723,5 @@ Whose state so many had the managing
 That they lost France and made his England bleed,
 Which oft our stage hath shown. And for their sake,
 In your fair minds let this acceptance take.
-[He exits.]`;
+[He exits.]
+`;

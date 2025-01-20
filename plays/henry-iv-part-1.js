@@ -35,9 +35,9 @@ HOSTESS of the tavern (also called Mistress Quickly)
 Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King, Lord John of Lancaster, and the Earl
 of Westmoreland, with others.]
@@ -170,7 +170,7 @@ Than out of anger can be uttered.
 WESTMORELAND  I will, my liege.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prince of Wales, and Sir John Falstaff.]
 
@@ -466,7 +466,7 @@ I'll so offend to make offense a skill,
 Redeeming time when men think least I will.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter the King, Northumberland, Worcester, Hotspur,
 and Sir Walter Blunt, with others.]
@@ -883,9 +883,9 @@ Till fields and blows and groans applaud our sport.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Carrier with a lantern in his hand.]
 
@@ -1036,7 +1036,7 @@ Bid the ostler bring my gelding out of the stable.
 Farewell, you muddy knave.
 [They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Prince, Poins, Bardolph, and Peto.]
 
@@ -1232,7 +1232,7 @@ Were 't not for laughing, I should pity him.
 POINS  How the fat rogue roared!
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Hotspur alone, reading a letter.]
 
@@ -1401,7 +1401,7 @@ Will this content you, Kate?
 LADY PERCY  It must, of force.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Prince and Poins.]
 
@@ -2225,9 +2225,9 @@ PETO  Good morrow, good my lord.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hotspur, Worcester, Lord Mortimer, and Owen
 Glendower.]
@@ -2642,7 +2642,7 @@ And then to horse immediately.
 MORTIMER  With all my heart.
 [They exit.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the King, Prince of Wales, and others.]
 
@@ -2854,7 +2854,7 @@ Our hands are full of business. Let's away.
 Advantage feeds him fat while men delay.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Falstaff and Bardolph.]
 
@@ -3161,9 +3161,9 @@ O, I could wish this tavern were my drum.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Hotspur, Worcester, and Douglas.]
 
@@ -3379,7 +3379,7 @@ Talk not of dying. I am out of fear
 Of death or death's hand for this one half year.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Falstaff and Bardolph.]
 
@@ -3492,7 +3492,7 @@ feast
 Fits a dull fighter and a keen guest.
 [He exits.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Hotspur, Worcester, Douglas, and Vernon.]
 
@@ -3669,7 +3669,7 @@ And maybe so we shall.
 BLUNT  Pray God you do.
 [They exit.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Archbishop of York and Sir Michael.]
 
@@ -3733,9 +3733,9 @@ To other friends. And so farewell, Sir Michael.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the King, Prince of Wales, Lord John of Lancaster,
 Sir Walter Blunt, and Falstaff.]
@@ -3917,7 +3917,7 @@ I'll none of it. Honor is a mere scutcheon. And
 so ends my catechism.
 [He exits.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Worcester and Sir Richard Vernon.]
 
@@ -4078,7 +4078,7 @@ A second time do such a courtesy.
 [Here they embrace. The trumpets sound.]
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [The King enters with his power, crosses the stage and
 exits. Alarum to the battle. Then enter Douglas, and Sir
@@ -4201,7 +4201,7 @@ life, which, if I can save, so: if not, honor comes
 unlooked for, and there's an end.
 [He exits. Blunt's body is carried off.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Alarm, excursions. Enter the King, the Prince, Lord John
 of Lancaster, and the Earl of Westmoreland.]
@@ -4472,7 +4472,7 @@ I'll grow less, for I'll purge and leave sack and live
 cleanly as a nobleman should do.
 [He exits carrying Hotspur's body.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [The trumpets sound. Enter the King, Prince of Wales,
 Lord John of Lancaster, Earl of Westmoreland, with
@@ -4540,4 +4540,5 @@ Rebellion in this land shall lose his sway,
 Meeting the check of such another day.
 And since this business so fair is done,
 Let us not leave till all our own be won.
-[They exit.]`;
+[They exit.]
+`;

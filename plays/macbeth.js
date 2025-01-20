@@ -42,9 +42,9 @@ Three Messengers, Three Servants, a Lord, a Soldier
 Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Thunder and Lightning. Enter three Witches.]
 
@@ -79,7 +79,7 @@ Fair is foul, and foul is fair;
 Hover through the fog and filthy air.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Alarum within. Enter King Duncan, Malcolm,
 Donalbain, Lennox, with Attendants, meeting a bleeding
@@ -196,7 +196,7 @@ DUNCAN
 What he hath lost, noble Macbeth hath won.
 [They exit.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Thunder. Enter the three Witches.]
 
@@ -466,7 +466,7 @@ BANQUO  Very gladly.
 MACBETH  Till then, enough.--Come, friends.
 [They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Flourish. Enter King Duncan, Lennox, Malcolm,
 Donalbain, and Attendants.]
@@ -558,7 +558,7 @@ Whose care is gone before to bid us welcome.
 It is a peerless kinsman.
 [Flourish. They exit.]
 
-<b id="act-1-scene-5" class="scene-header">Scene 5</b>
+<b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Macbeth's Wife, alone, with a letter.]
 
@@ -671,7 +671,7 @@ To alter favor ever is to fear.
 Leave all the rest to me.
 [They exit.]
 
-<b id="act-1-scene-6" class="scene-header">Scene 6</b>
+<b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Hautboys and Torches. Enter King Duncan, Malcolm,
 Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and
@@ -731,7 +731,7 @@ And shall continue our graces towards him.
 By your leave, hostess.
 [They exit.]
 
-<b id="act-1-scene-7" class="scene-header">Scene 7</b>
+<b id="act-1-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Hautboys. Torches. Enter a Sewer and divers Servants
 with dishes and service over the stage. Then enter
@@ -856,9 +856,9 @@ know.
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Banquo, and Fleance with a torch before him.]
 
@@ -969,7 +969,7 @@ Hear it not, Duncan, for it is a knell
 That summons thee to heaven or to hell.
 [He exits.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Lady Macbeth.]
 
@@ -1119,7 +1119,7 @@ Wake Duncan with thy knocking. I would thou
 couldst.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Knocking within. Enter a Porter.]
 
@@ -1398,7 +1398,7 @@ But shift away. There's warrant in that theft
 Which steals itself when there's no mercy left.
 [They exit.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Ross with an Old Man.]
 
@@ -1494,9 +1494,9 @@ That would make good of bad and friends of foes.
 [All exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Banquo.]
 
@@ -1721,7 +1721,7 @@ It is concluded. Banquo, thy soul's flight,
 If it find heaven, must find it out tonight.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Macbeth's Lady and a Servant.]
 
@@ -1814,7 +1814,7 @@ Things bad begun make strong themselves by ill.
 So prithee go with me.
 [They exit.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter three Murderers.]
 
@@ -1884,7 +1884,7 @@ FIRST MURDERER
 Well, let's away and say how much is done.
 [They exit.]
 
-<b id="act-3-scene-4" class="scene-header">Scene 4</b>
+<b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Banquet prepared. Enter Macbeth, Lady Macbeth,
 Ross, Lennox, Lords, and Attendants.]
@@ -2161,7 +2161,7 @@ Is the initiate fear that wants hard use.
 We are yet but young in deed.
 [They exit.]
 
-<b id="act-3-scene-5" class="scene-header">Scene 5</b>
+<b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Thunder. Enter the three Witches, meeting Hecate.]
 
@@ -2211,7 +2211,7 @@ FIRST WITCH
 Come, let's make haste. She'll soon be back again.
 [They exit.]
 
-<b id="act-3-scene-6" class="scene-header">Scene 6</b>
+<b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Lennox and another Lord.]
 
@@ -2282,9 +2282,9 @@ LORD  I'll send my prayers with him.
 [They exit.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Thunder. Enter the three Witches.]
 
@@ -2582,7 +2582,7 @@ But no more sights!--Where are these gentlemen?
 Come bring me where they are.
 [They exit.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Macduff's Wife, her Son, and Ross.]
 
@@ -2748,7 +2748,7 @@ Run away, I pray you.
 [Lady Macduff exits, crying "Murder!" followed by the
 Murderers bearing the Son's body.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Malcolm and Macduff.]
 
@@ -3135,9 +3135,9 @@ The night is long that never finds the day.
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter a Doctor of Physic and a Waiting-Gentlewoman.]
 
@@ -3263,7 +3263,7 @@ I think but dare not speak.
 GENTLEWOMAN  Good night, good doctor.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Drum and Colors. Enter Menteith, Caithness, Angus,
 Lennox, and Soldiers.]
@@ -3321,7 +3321,7 @@ To dew the sovereign flower and drown the weeds.
 Make we our march towards Birnam.
 [They exit marching.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Macbeth, the Doctor, and Attendants.]
 
@@ -3439,7 +3439,7 @@ Were I from Dunsinane away and clear,
 Profit again should hardly draw me here.
 [They exit.]
 
-<b id="act-5-scene-4" class="scene-header">Scene 4</b>
+<b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Drum and Colors. Enter Malcolm, Siward, Macduff,
 Siward's son, Menteith, Caithness, Angus, and Soldiers,
@@ -3488,7 +3488,7 @@ But certain issue strokes must arbitrate;
 Towards which, advance the war.
 [They exit marching.]
 
-<b id="act-5-scene-5" class="scene-header">Scene 5</b>
+<b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Macbeth, Seyton, and Soldiers, with Drum and
 Colors.]
@@ -3577,7 +3577,7 @@ Ring the alarum bell!--Blow wind, come wrack,
 At least we'll die with harness on our back.
 [They exit.]
 
-<b id="act-5-scene-6" class="scene-header">Scene 6</b>
+<b id="act-5-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Drum and Colors. Enter Malcolm, Siward, Macduff, and
 their army, with boughs.]
@@ -3601,7 +3601,7 @@ Those clamorous harbingers of blood and death.
 [They exit.]
 [Alarums continued.]
 
-<b id="act-5-scene-7" class="scene-header">Scene 7</b>
+<b id="act-5-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Enter Macbeth.]
 
@@ -3673,7 +3673,7 @@ That strike beside us.
 SIWARD  Enter, sir, the castle.
 [They exit. Alarum.]
 
-<b id="act-5-scene-8" class="scene-header">Scene 8</b>
+<b id="act-5-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Enter Macbeth.]
 
@@ -3813,4 +3813,5 @@ That calls upon us, by the grace of grace,
 We will perform in measure, time, and place.
 So thanks to all at once and to each one,
 Whom we invite to see us crowned at Scone.
-[Flourish. All exit.]`;
+[Flourish. All exit.]
+`;

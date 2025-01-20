@@ -31,9 +31,9 @@ FORESTER
 Lords, Blackamoors, Musicians
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Ferdinand, King of Navarre, Berowne,
 Longaville, and Dumaine.]
@@ -498,7 +498,7 @@ Affliction may one day smile again, and till
 then, sit thee down, sorrow.
 [They exit.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Armado and Mote, his page.]
 
@@ -789,9 +789,9 @@ am for whole volumes in folio.
 [He exits.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Princess of France, with three attending
 Ladies (Rosaline, Maria, and Katherine), Boyet
@@ -1274,9 +1274,9 @@ BOYET  You are too hard for me.
 [They all exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Braggart Armado and his Boy.]
 
@@ -1598,9 +1598,9 @@ Some men must love my lady, and some Joan.
 [He exits.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter the Princess, a Forester, her Ladies, Boyet and
 her other Lords.]
@@ -1898,7 +1898,7 @@ Ah heavens, it is a most pathetical nit.
 Sola, sola!
 [He exits.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Dull the Constable, Holofernes the Pedant, and
 Nathaniel the Curate.]
@@ -2152,7 +2152,7 @@ not say me nay. Pauca verba. Away! The gentles are
 at their game, and we will to our recreation.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter Berowne with a paper in his hand, alone.]
 
@@ -2737,9 +2737,9 @@ Light wenches may prove plagues to men forsworn;
 [They exit.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter Holofernes the Pedant, Nathaniel the Curate,
 and Dull the Constable.]
@@ -2962,7 +2962,7 @@ HOLOFERNES  Most dull, honest Dull. To our sport!
 Away.
 [They exit.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter the Ladies (the Princess, Rosaline,
 Katherine, and Maria.)]
@@ -4705,4 +4705,5 @@ WINTER
 
 ARMADO  The words of Mercury are harsh after the
 songs of Apollo. You that way; we this way.
-[They all exit.]`;
+[They all exit.]
+`;

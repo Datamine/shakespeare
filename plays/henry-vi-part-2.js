@@ -72,9 +72,9 @@ Alexander IDEN, a gentleman of Kent
 Servants, Guards, Falconers, Attendants, Townsmen of Saint Albans, Bearers, Drummers, Commoners, Rebels, a Sawyer, Soldiers, Officers, Matthew Gough, and Others
 
 
-<b id="act-1" class="act-header">Act 1</b>
+<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1-scene-1" class="scene-header">Scene 1</b>
+<b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Flourish of trumpets, then hautboys.
 Enter King Henry, Duke Humphrey of Gloucester,
@@ -428,7 +428,7 @@ And force perforce I'll make him yield the crown,
 Whose bookish rule hath pulled fair England down.
 [York exits.]
 
-<b id="act-1-scene-2" class="scene-header">Scene 2</b>
+<b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Duke Humphrey of Gloucester and his wife
 the Duchess Eleanor.]
@@ -590,7 +590,7 @@ And her attainture will be Humphrey's fall.
 Sort how it will, I shall have gold for all.
 [He exits.]
 
-<b id="act-1-scene-3" class="scene-header">Scene 3</b>
+<b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter three or four Petitioners, Peter, the
 Armorer's man, being one.]
@@ -961,7 +961,7 @@ combat shall be the last of the next month.--
 Come, Somerset, we'll see thee sent away.
 [Flourish. They exit.]
 
-<b id="act-1-scene-4" class="scene-header">Scene 4</b>
+<b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter the Witch Margery Jourdain, the two Priests
 Hume and Southwell, and Bolingbroke, a conjurer.]
@@ -1117,9 +1117,9 @@ To sup with me tomorrow night. Away!
 [They exit.]
 
 
-<b id="act-2" class="act-header">Act 2</b>
+<b id="act-2" class="act-header">Act 2</b>
 
-<b id="act-2-scene-1" class="scene-header">Scene 1</b>
+<b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter King Henry, Queen Margaret, Gloucester the
 Lord Protector, Cardinal, and Suffolk, and
@@ -1528,7 +1528,7 @@ Whose beam stands sure, whose rightful cause
 prevails.
 [Flourish. They exit.]
 
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
+<b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter York, Salisbury, and Warwick.]
 
@@ -1650,7 +1650,7 @@ Richard shall live to make the Earl of Warwick
 The greatest man in England but the King.
 [They exit.]
 
-<b id="act-2-scene-3" class="scene-header">Scene 3</b>
+<b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Sound trumpets. Enter King Henry and State
 (Queen Margaret, Gloucester, York, Salisbury, Suffolk,
@@ -1827,7 +1827,7 @@ wrongfully.--
 Come, fellow, follow us for thy reward.
 [Sound a flourish. They exit, bearing Horner's body.]
 
-<b id="act-2-scene-4" class="scene-header">Scene 4</b>
+<b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter Duke Humphrey of Gloucester and his Men,
 in mourning cloaks.]
@@ -2009,9 +2009,9 @@ Go, lead the way. I long to see my prison.
 [They exit.]
 
 
-<b id="act-3" class="act-header">Act 3</b>
+<b id="act-3" class="act-header">Act 3</b>
 
-<b id="act-3-scene-1" class="scene-header">Scene 1</b>
+<b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Sound a sennet. Enter King Henry, Queen Margaret,
 Cardinal, Suffolk, York, Buckingham, Salisbury, and
@@ -2552,7 +2552,7 @@ For, Humphrey being dead, as he shall be,
 And Henry put apart, the next for me.
 [He exits.]
 
-<b id="act-3-scene-2" class="scene-header">Scene 2</b>
+<b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter two or three running over the stage, from the
 murder of Duke Humphrey.]
@@ -3170,7 +3170,7 @@ This way fall I to death.
 QUEEN MARGARET  This way for me.
 [They exit through different doors.]
 
-<b id="act-3-scene-3" class="scene-header">Scene 3</b>
+<b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Enter King Henry, Salisbury and Warwick, to the
 Cardinal in bed, raving and staring.]
@@ -3235,9 +3235,9 @@ And let us all to meditation.
 the bed, they exit. The bed is removed.]
 
 
-<b id="act-4" class="act-header">Act 4</b>
+<b id="act-4" class="act-header">Act 4</b>
 
-<b id="act-4-scene-1" class="scene-header">Scene 1</b>
+<b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Alarum. Offstage fight at sea. Ordnance goes off.
 Enter Lieutenant, Suffolk, captive and in disguise,
@@ -3485,7 +3485,7 @@ If he revenge it not, yet will his friends.
 So will the Queen, that living held him dear.
 [He exits with the head and body.]
 
-<b id="act-4-scene-2" class="scene-header">Scene 2</b>
+<b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [Enter Bevis and John Holland with staves.]
 
@@ -3799,7 +3799,7 @@ CADE  But then are we in order when we are most out
 of order. Come, march forward.
 [They exit.]
 
-<b id="act-4-scene-3" class="scene-header">Scene 3</b>
+<b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarums to the fight, wherein both the Staffords are
 slain. Enter Cade and the rest.]
@@ -3832,7 +3832,7 @@ CADE  Fear not that, I warrant thee. Come, let's march
 towards London.
 [They exit with the bodies of the Staffords.]
 
-<b id="act-4-scene-4" class="scene-header">Scene 4</b>
+<b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [Enter King Henry, with a supplication, and
 Queen Margaret with Suffolk's head, the Duke
@@ -3949,7 +3949,7 @@ The trust I have is in mine innocence,
 And therefore am I bold and resolute.
 [They exit.]
 
-<b id="act-4-scene-5" class="scene-header">Scene 5</b>
+<b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 [Enter Lord Scales upon the Tower, walking. Then enters
 two or three Citizens below.]
@@ -3973,7 +3973,7 @@ Fight for your king, your country, and your lives.
 And so farewell, for I must hence again.
 [They exit.]
 
-<b id="act-4-scene-6" class="scene-header">Scene 6</b>
+<b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
 [Enter Jack Cade and the rest, and strikes his staff on
 London Stone.]
@@ -4005,7 +4005,7 @@ and set London Bridge on fire, and, if you can,
 burn down the Tower too. Come, let's away.
 [All exit.]
 
-<b id="act-4-scene-7" class="scene-header">Scene 7</b>
+<b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
 [Alarums. Matthew Gough is slain, and all the rest.
 Then enter Jack Cade with his company.]
@@ -4204,7 +4204,7 @@ instead of maces, will we ride through the streets
 and at every corner have them kiss. Away!
 [He exits with his company.]
 
-<b id="act-4-scene-8" class="scene-header">Scene 8</b>
+<b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
 [Alarum, and retreat. Enter again Cade and
 all his rabblement.]
@@ -4302,7 +4302,7 @@ Follow me, soldiers. We'll devise a means
 To reconcile you all unto the King.
 [All exit.]
 
-<b id="act-4-scene-9" class="scene-header">Scene 9</b>
+<b id="act-4-scene-9" class="scene-header">Scene 9</b>
 <hr>
 [Sound trumpets. Enter King Henry, Queen Margaret,
 and Somerset on the terrace, aloft.]
@@ -4392,7 +4392,7 @@ Come, wife, let's in, and learn to govern better,
 For yet may England curse my wretched reign.
 [Flourish. They exit.]
 
-<b id="act-4-scene-10" class="scene-header">Scene 10</b>
+<b id="act-4-scene-10" class="scene-header">Scene 10</b>
 <hr>
 [Enter Cade.]
 
@@ -4506,9 +4506,9 @@ Leaving thy trunk for crows to feed upon.
 [He exits with his Men, dragging Cade's body.]
 
 
-<b id="act-5" class="act-header">Act 5</b>
+<b id="act-5" class="act-header">Act 5</b>
 
-<b id="act-5-scene-1" class="scene-header">Scene 1</b>
+<b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [Enter York, wearing the white rose, and his army of
 Irish, with Attendants, Drum and Colors.]
@@ -4891,7 +4891,7 @@ RICHARD
 If not in heaven, you'll surely sup in hell.
 [They exit separately.]
 
-<b id="act-5-scene-2" class="scene-header">Scene 2</b>
+<b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [The sign of the Castle Inn is displayed. Alarms.
 Enter Warwick, wearing the white rose.]
@@ -5053,7 +5053,7 @@ To see their day and them our fortune give.
 Away, my lord, away!
 [They exit.]
 
-<b id="act-5-scene-3" class="scene-header">Scene 3</b>
+<b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
 [Alarum. Retreat. Enter York, Edward, Richard,
 Warwick, and Soldiers, all wearing the white rose,
@@ -5105,4 +5105,5 @@ Saint Albans battle won by famous York
 Shall be eternized in all age to come.--
 Sound drum and trumpets, and to London all;
 And more such days as these to us befall!
-[Flourish. They exit.]`;
+[Flourish. They exit.]
+`;
