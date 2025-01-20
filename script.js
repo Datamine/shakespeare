@@ -113,891 +113,855 @@ goButton.addEventListener('click', async () => {
         // Dynamically import the selected play
         // LOCAL DEV ONLY const playModule = await import(`/plays/${playFile}.js`);
         // const playText = "Lorem Ipsum"; // playModule.text;
-        const rawPlayText = `Macbeth
+        const rawPlayText = `All's Well That Ends Well
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
-https://shakespeare.folger.edu/shakespeares-works/macbeth/
-Created on Jul 31, 2015, from FDT version 0.9.2
+https://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/
+Created on Mar 14, 2018, from FDT version 0.9.2.2
 
 Characters in the Play
 <hr>
-Three Witches, the Weird Sisters
-<b>DUNCAN</b>, king of Scotland
-<b>MALCOLM</b>, his elder son
-<b>DONALBAIN</b>, Duncan's younger son
-<b>MACBETH</b>, thane of Glamis
-LADY MACBETH
-<b>SEYTON</b>, attendant to Macbeth
-Three Murderers in Macbeth's service
-Both attending upon Lady Macbeth:
-  A Doctor
-  A Gentlewoman
-A Porter
-<b>BANQUO</b>, commander, with Macbeth, of Duncan's army
-<b>FLEANCE</b>, his son
-<b>MACDUFF</b>, a Scottish noble
-LADY MACDUFF
-Their son
-Scottish Nobles:
-  LENNOX
-  ROSS
-  ANGUS
-  MENTEITH
-  CAITHNESS
-<b>SIWARD</b>, commander of the English forces
-<b>YOUNG SIWARD</b>, Siward's son
-A Captain in Duncan's army
-An Old Man
-A Doctor at the English court
-HECATE
-Apparitions: an Armed Head, a Bloody Child, a Crowned Child, and eight nonspeaking kings
-Three Messengers, Three Servants, a Lord, a Soldier
-Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)
+<b>HELEN,</b> a gentlewoman of Rossillion
+<b>BERTRAM,</b> Count of Rossillion
+COUNTESS of Rossillion, Bertram's mother
+In the Countess's household:
+  STEWARD
+  FOOL
+  PAGE
+<b>PAROLLES,</b> companion to Bertram
+KING of France
+<b>LAFEW,</b> a French lord
+Later Captains in the army of the Duke of Florence:
+  FIRST LORD
+  SECOND LORD
+Other LORDS in the court of the King of France
+From the court of the King of France:
+  FIRST GENTLEMAN
+  SECOND GENTLEMAN
+  GENTLEMAN, a "gentle Astringer"
+<b>FIRST SOLDIER,</b> interpreter
+The DUKE of Florence
+A WIDOW of Florence
+<b>DIANA,</b> the Widow's daughter
+<b>MARIANA,</b> the Widow's neighbor
+Attendants, Soldiers, Citizens of Florence, Servants
 
 
-<b>ACT 1
+<b id="act-1" class="act-header">Act 1
+</b>
+
+<b id="act-1-scene-1" class="scene-header">Scene 1
 </b>
 <hr>
+[Enter young Bertram Count of Rossillion, his mother
+the Countess, and Helen, Lord Lafew, all in black.]
 
-<b>Scene 1
+
+COUNTESS  In delivering my son from me, I bury a second
+husband.
+
+BERTRAM  And I in going, madam, weep o'er my
+father's death anew; but I must attend his Majesty's
+command, to whom I am now in ward, evermore
+in subjection.
+
+LAFEW  You shall find of the King a husband, madam;
+you, sir, a father. He that so generally is at all times
+good must of necessity hold his virtue to you,
+whose worthiness would stir it up where it wanted
+rather than lack it where there is such abundance.
+
+COUNTESS  What hope is there of his Majesty's
+amendment?
+
+LAFEW  He hath abandoned his physicians, madam,
+under whose practices he hath persecuted time
+with hope, and finds no other advantage in the
+process but only the losing of hope by time.
+
+COUNTESS  This young gentlewoman had a father--O,
+that "had," how sad a passage 'tis!--whose skill
+was almost as great as his honesty; had it stretched
+so far, would have made nature immortal, and
+death should have play for lack of work. Would for
+the King's sake he were living! I think it would be
+the death of the King's disease.
+
+LAFEW  How called you the man you speak of,
+madam?
+
+COUNTESS  He was famous, sir, in his profession, and it
+was his great right to be so: Gerard de Narbon.
+
+LAFEW  He was excellent indeed, madam. The King
+very lately spoke of him admiringly, and mourningly.
+He was skillful enough to have lived still, if
+knowledge could be set up against mortality.
+
+BERTRAM  What is it, my good lord, the King languishes
+of?
+
+LAFEW  A fistula, my lord.
+
+BERTRAM  I heard not of it before.
+
+LAFEW  I would it were not notorious.--Was this gentlewoman
+the daughter of Gerard de Narbon?
+
+COUNTESS  His sole child, my lord, and bequeathed to
+my overlooking. I have those hopes of her good
+that her education promises. Her dispositions she
+inherits, which makes fair gifts fairer; for where an
+unclean mind carries virtuous qualities, there
+commendations go with pity--they are virtues and
+traitors too. In her they are the better for their simpleness.
+She derives her honesty and achieves her
+goodness.
+
+LAFEW  Your commendations, madam, get from her
+tears.
+
+COUNTESS  'Tis the best brine a maiden can season her
+praise in. The remembrance of her father never
+approaches her heart but the tyranny of her sorrows
+takes all livelihood from her cheek.--No
+more of this, Helena. Go to. No more, lest it be
+rather thought you affect a sorrow than to have--
+
+HELEN  I do affect a sorrow indeed, but I have it too.
+
+LAFEW  Moderate lamentation is the right of the dead,
+excessive grief the enemy to the living.
+
+COUNTESS  If the living be enemy to the grief, the
+excess makes it soon mortal.
+
+BERTRAM  Madam, I desire your holy wishes.
+
+LAFEW  How understand we that?
+
+COUNTESS
+Be thou blessed, Bertram, and succeed thy father
+In manners as in shape. Thy blood and virtue
+Contend for empire in thee, and thy goodness
+Share with thy birthright. Love all, trust a few,
+Do wrong to none. Be able for thine enemy
+Rather in power than use, and keep thy friend
+Under thy own life's key Be checked for silence,
+But never taxed for speech. What heaven more will,
+That thee may furnish and my prayers pluck down,
+Fall on thy head. [To Lafew.] Farewell, my lord.
+'Tis an unseasoned courtier. Good my lord,
+Advise him.
+
+LAFEW  He cannot want the best that shall
+Attend his love.
+
+COUNTESS  Heaven bless him.--Farewell, Bertram.
+
+BERTRAM  The best wishes that can be forged in your
+thoughts be servants to you.	[Countess exits.]
+[To Helen.] Be comfortable to my mother, your
+mistress, and make much of her.
+
+LAFEW  Farewell, pretty lady. You must hold the credit
+of your father. 	[Bertram and Lafew exit.]
+
+HELEN
+O, were that all! I think not on my father,
+And these great tears grace his remembrance more
+Than those I shed for him. What was he like?
+I have forgot him. My imagination
+Carries no favor in 't but Bertram's.
+I am undone. There is no living, none,
+If Bertram be away. 'Twere all one
+That I should love a bright particular star
+And think to wed it, he is so above me.
+In his bright radiance and collateral light
+Must I be comforted, not in his sphere.
+Th' ambition in my love thus plagues itself:
+The hind that would be mated by the lion
+Must die for love. 'Twas pretty, though a plague,
+To see him every hour, to sit and draw
+His arched brows, his hawking eye, his curls
+In our heart's table--heart too capable
+Of every line and trick of his sweet favor.
+But now he's gone, and my idolatrous fancy
+Must sanctify his relics. Who comes here?
+
+[Enter Parolles.]
+
+One that goes with him. I love him for his sake,
+And yet I know him a notorious liar,
+Think him a great way fool, solely a coward.
+Yet these fixed evils sit so fit in him
+That they take place when virtue's steely bones
+Looks bleak i' th' cold wind. Withal, full oft we see
+Cold wisdom waiting on superfluous folly.
+
+PAROLLES  Save you, fair queen.
+
+HELEN  And you, monarch.
+
+PAROLLES  No.
+
+HELEN  And no.
+
+PAROLLES  Are you meditating on virginity?
+
+HELEN  Ay. You have some stain of soldier in you; let
+me ask you a question. Man is enemy to virginity.
+How may we barricado it against him?
+
+PAROLLES  Keep him out.
+
+HELEN  But he assails, and our virginity, though
+valiant in the defense, yet is weak. Unfold to us
+some warlike resistance.
+
+PAROLLES  There is none. Man setting down before you
+will undermine you and blow you up.
+
+HELEN  Bless our poor virginity from underminers and
+blowers-up! Is there no military policy how virgins
+might blow up men?
+
+PAROLLES  Virginity being blown down, man will
+quicklier be blown up. Marry, in blowing him
+down again, with the breach yourselves made you
+lose your city. It is not politic in the commonwealth
+of nature to preserve virginity. Loss of virginity
+is rational increase, and there was never
+virgin got till virginity was first lost. That you
+were made of is metal to make virgins. Virginity by
+being once lost may be ten times found; by being
+ever kept, it is ever lost. 'Tis too cold a companion.
+Away with 't.
+
+HELEN  I will stand for 't a little, though therefore I
+die a virgin.
+
+PAROLLES  There's little can be said in 't. 'Tis against the
+rule of nature. To speak on the part of virginity is
+to accuse your mothers, which is most infallible
+disobedience. He that hangs himself is a virgin;
+virginity murders itself and should be buried in
+highways out of all sanctified limit as a desperate
+offendress against nature. Virginity breeds mites,
+much like a cheese, consumes itself to the very
+paring, and so dies with feeding his own stomach.
+Besides, virginity is peevish, proud, idle, made of
+self-love, which is the most inhibited sin in the
+canon. Keep it not; you cannot choose but lose by
+'t. Out with 't! Within ten year it will make itself
+two, which is a goodly increase, and the principal
+itself not much the worse. Away with 't!
+
+HELEN  How might one do, sir, to lose it to her own
+liking?
+
+PAROLLES  Let me see. Marry, ill, to like him that ne'er
+it likes. 'Tis a commodity will lose the gloss with
+lying; the longer kept, the less worth. Off with 't
+while 'tis vendible; answer the time of request. Virginity,
+like an old courtier, wears her cap out of
+fashion, richly suited but unsuitable, just like the
+brooch and the toothpick, which wear not now.
+Your date is better in your pie and your porridge
+than in your cheek. And your virginity, your old
+virginity, is like one of our French withered pears:
+it looks ill, it eats dryly; marry, 'tis a withered pear.
+It was formerly better, marry, yet 'tis a withered
+pear. Will you anything with it?
+
+HELEN  Not my virginity, yet--
+There shall your master have a thousand loves,
+A mother, and a mistress, and a friend,
+A phoenix, captain, and an enemy,
+A guide, a goddess, and a sovereign,
+A counselor, a traitress, and a dear;
+His humble ambition, proud humility,
+His jarring concord, and his discord dulcet,
+His faith, his sweet disaster, with a world
+Of pretty, fond adoptious christendoms
+That blinking Cupid gossips. Now shall he--
+I know not what he shall. God send him well.
+The court's a learning place, and he is one--
+
+PAROLLES  What one, i' faith?
+
+HELEN  That I wish well. 'Tis pity--
+
+PAROLLES  What's pity?
+
+HELEN
+That wishing well had not a body in 't
+Which might be felt, that we, the poorer born,
+Whose baser stars do shut us up in wishes,
+Might with effects of them follow our friends
+And show what we alone must think, which never
+Returns us thanks.
+
+[Enter Page.]
+
+
+PAGE  Monsieur Parolles, my lord calls for you.
+
+PAROLLES  Little Helen, farewell. If I can remember
+thee, I will think of thee at court.
+
+HELEN  Monsieur Parolles, you were born under a
+charitable star.
+
+PAROLLES  Under Mars, I.
+
+HELEN  I especially think under Mars.
+
+PAROLLES  Why under Mars?
+
+HELEN  The wars hath so kept you under that you
+must needs be born under Mars.
+
+PAROLLES  When he was predominant.
+
+HELEN  When he was retrograde, I think rather.
+
+PAROLLES  Why think you so?
+
+HELEN  You go so much backward when you fight.
+
+PAROLLES  That's for advantage.
+
+HELEN  So is running away, when fear proposes the
+safety. But the composition that your valor and
+fear makes in you is a virtue of a good wing, and I
+like the wear well.
+
+PAROLLES  I am so full of businesses I cannot answer
+thee acutely. I will return perfect courtier, in the
+which my instruction shall serve to naturalize
+thee, so thou wilt be capable of a courtier's counsel
+and understand what advice shall thrust upon
+thee, else thou diest in thine unthankfulness, and
+thine ignorance makes thee away. Farewell. When
+thou hast leisure, say thy prayers; when thou hast
+none, remember thy friends. Get thee a good husband,
+and use him as he uses thee. So, farewell.
+[Parolles and Page exit.]
+
+HELEN
+Our remedies oft in ourselves do lie
+Which we ascribe to heaven. The fated sky
+Gives us free scope, only doth backward pull
+Our slow designs when we ourselves are dull.
+What power is it which mounts my love so high,
+That makes me see, and cannot feed mine eye?
+The mightiest space in fortune nature brings
+To join like likes and kiss like native things.
+Impossible be strange attempts to those
+That weigh their pains in sense and do suppose
+What hath been cannot be. Who ever strove
+To show her merit that did miss her love?
+The King's disease--my project may deceive me,
+But my intents are fixed and will not leave me.
+[She exits.]
+
+<b id="act-1-scene-2" class="scene-header">Scene 2
 </b>
 <hr>
-[Thunder and Lightning. Enter three Witches.]
+[Flourish cornets. Enter the King of France with letters,
+two Lords, and divers Attendants.]
 
 
-FIRST WITCH
-When shall we three meet again?
-In thunder, lightning, or in rain?
+KING
+The Florentines and Senoys are by th' ears,
+Have fought with equal fortune, and continue
+A braving war.
 
-SECOND WITCH
-When the hurly-burly's done,
-When the battle's lost and won.
+FIRST LORD  So 'tis reported, sir.
 
-THIRD WITCH
-That will be ere the set of sun.
+KING
+Nay, 'tis most credible. We here receive it
+A certainty vouched from our cousin Austria,
+With caution that the Florentine will move us
+For speedy aid, wherein our dearest friend
+Prejudicates the business and would seem
+To have us make denial.
 
-FIRST WITCH
-Where the place?
+FIRST LORD  His love and wisdom,
+Approved so to your Majesty, may plead
+For amplest credence.
 
-SECOND WITCH  Upon the heath.
+KING  He hath armed our answer,
+And Florence is denied before he comes.
+Yet for our gentlemen that mean to see
+The Tuscan service, freely have they leave
+To stand on either part.
 
-THIRD WITCH
-There to meet with Macbeth.
+SECOND LORD  It well may serve
+A nursery to our gentry, who are sick
+For breathing and exploit.
 
-FIRST WITCH  I come, Graymalkin.
+[Enter Bertram, Lafew, and Parolles.]
 
-SECOND WITCH  Paddock calls.
 
-THIRD WITCH  Anon.
+KING  What's he comes here?
 
-ALL
-Fair is foul, and foul is fair;
-Hover through the fog and filthy air.
-[They exit.]
+FIRST LORD
+It is the Count Rossillion, my good lord,
+Young Bertram.
 
-<b>Scene 2
+KING  Youth, thou bear'st thy father's face.
+Frank nature, rather curious than in haste,
+Hath well composed thee. Thy father's moral parts
+Mayst thou inherit too. Welcome to Paris.
+
+BERTRAM
+My thanks and duty are your Majesty's.
+
+KING
+I would I had that corporal soundness now
+As when thy father and myself in friendship
+First tried our soldiership. He did look far
+Into the service of the time and was
+Discipled of the bravest. He lasted long,
+But on us both did haggish age steal on
+And wore us out of act. It much repairs me
+To talk of your good father. In his youth
+He had the wit which I can well observe
+Today in our young lords; but they may jest
+Till their own scorn return to them unnoted
+Ere they can hide their levity in honor.
+So like a courtier, contempt nor bitterness
+Were in his pride or sharpness; if they were,
+His equal had awaked them, and his honor,
+Clock to itself, knew the true minute when
+Exception bid him speak, and at this time
+His tongue obeyed his hand. Who were below him
+He used as creatures of another place
+And bowed his eminent top to their low ranks,
+Making them proud of his humility,
+In their poor praise he humbled. Such a man
+Might be a copy to these younger times,
+Which, followed well, would demonstrate them now
+But goers backward.
+
+BERTRAM  His good remembrance, sir,
+Lies richer in your thoughts than on his tomb.
+So in approof lives not his epitaph
+As in your royal speech.
+
+KING
+Would I were with him! He would always say--
+Methinks I hear him now; his plausive words
+He scattered not in ears, but grafted them
+To grow there and to bear. "Let me not live"--
+This his good melancholy oft began
+On the catastrophe and heel of pastime,
+When it was out--"Let me not live," quoth he,
+"After my flame lacks oil, to be the snuff
+Of younger spirits, whose apprehensive senses
+All but new things disdain, whose judgments are
+Mere fathers of their garments, whose constancies
+Expire before their fashions." This he wished.
+I, after him, do after him wish too,
+Since I nor wax nor honey can bring home,
+I quickly were dissolved from my hive
+To give some laborers room.
+
+SECOND LORD  You're loved, sir.
+They that least lend it you shall lack you first.
+
+KING
+I fill a place, I know 't.--How long is 't, count,
+Since the physician at your father's died?
+He was much famed.
+
+BERTRAM  Some six months since, my lord.
+
+KING
+If he were living, I would try him yet.--
+Lend me an arm.--The rest have worn me out
+With several applications. Nature and sickness
+Debate it at their leisure. Welcome, count.
+My son's no dearer.
+
+BERTRAM  Thank your Majesty.
+[They exit. Flourish.]
+
+<b id="act-1-scene-3" class="scene-header">Scene 3
 </b>
 <hr>
-[Alarum within. Enter King Duncan, Malcolm,
-Donalbain, Lennox, with Attendants, meeting a bleeding
-Captain.]
-
-
-DUNCAN
-What bloody man is that? He can report,
-As seemeth by his plight, of the revolt
-The newest state.
-
-MALCOLM  This is the sergeant
-Who, like a good and hardy soldier, fought
-'Gainst my captivity.--Hail, brave friend!
-Say to the King the knowledge of the broil
-As thou didst leave it.
-
-CAPTAIN  Doubtful it stood,
-As two spent swimmers that do cling together
-And choke their art. The merciless Macdonwald
-(Worthy to be a rebel, for to that
-The multiplying villainies of nature
-Do swarm upon him) from the Western Isles
-Of kerns and gallowglasses is supplied;
-And Fortune, on his damned quarrel smiling,
-Showed like a rebel's whore. But all's too weak;
-For brave Macbeth (well he deserves that name),
-Disdaining Fortune, with his brandished steel,
-Which smoked with bloody execution,
-Like Valor's minion, carved out his passage
-Till he faced the slave;
-Which ne'er shook hands, nor bade farewell to him,
-Till he unseamed him from the nave to th' chops,
-And fixed his head upon our battlements.
-
-DUNCAN
-O valiant cousin, worthy gentleman!
-
-CAPTAIN
-As whence the sun 'gins his reflection
-Shipwracking storms and direful thunders break,
-So from that spring whence comfort seemed to
-come
-Discomfort swells. Mark, King of Scotland, mark:
-No sooner justice had, with valor armed,
-Compelled these skipping kerns to trust their heels,
-But the Norweyan lord, surveying vantage,
-With furbished arms and new supplies of men,
-Began a fresh assault.
-
-DUNCAN
-Dismayed not this our captains, Macbeth and
-Banquo?
-
-CAPTAIN
-Yes, as sparrows eagles, or the hare the lion.
-If I say sooth, I must report they were
-As cannons overcharged with double cracks,
-So they doubly redoubled strokes upon the foe.
-Except they meant to bathe in reeking wounds
-Or memorize another Golgotha,
-I cannot tell--
-But I am faint. My gashes cry for help.
-
-DUNCAN
-So well thy words become thee as thy wounds:
-They smack of honor both.--Go, get him surgeons.
-[The Captain is led off by Attendants.]
-
-[Enter Ross and Angus.]
-
-Who comes here?
-
-MALCOLM  The worthy Thane of Ross.
-
-LENNOX
-What a haste looks through his eyes!
-So should he look that seems to speak things
-strange.
-
-ROSS  God save the King.
-
-DUNCAN  Whence cam'st thou, worthy thane?
-
-ROSS  From Fife, great king,
-Where the Norweyan banners flout the sky
-And fan our people cold.
-Norway himself, with terrible numbers,
-Assisted by that most disloyal traitor,
-The Thane of Cawdor, began a dismal conflict,
-Till that Bellona's bridegroom, lapped in proof,
-Confronted him with self-comparisons,
-Point against point, rebellious arm 'gainst arm,
-Curbing his lavish spirit. And to conclude,
-The victory fell on us.
-
-DUNCAN  Great happiness!
-
-ROSS  That now Sweno,
-The Norways' king, craves composition.
-Nor would we deign him burial of his men
-Till he disbursed at Saint Colme's Inch
-Ten thousand dollars to our general use.
-
-DUNCAN
-No more that Thane of Cawdor shall deceive
-Our bosom interest. Go, pronounce his present
-death,
-And with his former title greet Macbeth.
-
-ROSS  I'll see it done.
-
-DUNCAN
-What he hath lost, noble Macbeth hath won.
-[They exit.]
-
-<b>Scene 3
-</b>
-<hr>
-[Thunder. Enter the three Witches.]
-
-
-FIRST WITCH  Where hast thou been, sister?
-
-SECOND WITCH  Killing swine.
-
-THIRD WITCH  Sister, where thou?
-
-FIRST WITCH
-A sailor's wife had chestnuts in her lap
-And munched and munched and munched. "Give
-me," quoth I.
-"Aroint thee, witch," the rump-fed runnion cries.
-Her husband's to Aleppo gone, master o' th' Tiger;
-But in a sieve I'll thither sail,
-And, like a rat without a tail,
-I'll do, I'll do, and I'll do.
-
-SECOND WITCH
-I'll give thee a wind.
-
-FIRST WITCH
-Th' art kind.
-
-THIRD WITCH
-And I another.
-
-FIRST WITCH
-I myself have all the other,
-And the very ports they blow;
-All the quarters that they know
-I' th' shipman's card.
-I'll drain him dry as hay.
-Sleep shall neither night nor day
-Hang upon his penthouse lid.
-He shall live a man forbid.
-Weary sev'nnights, nine times nine,
-Shall he dwindle, peak, and pine.
-Though his bark cannot be lost,
-Yet it shall be tempest-tossed.
-Look what I have.
-
-SECOND WITCH  Show me, show me.
-
-FIRST WITCH
-Here I have a pilot's thumb,
-Wracked as homeward he did come.	[Drum within.]
-
-THIRD WITCH
-A drum, a drum!
-Macbeth doth come.
-
-<b>ALL</b>, [dancing in a circle]
-The Weird Sisters, hand in hand,
-Posters of the sea and land,
-Thus do go about, about,
-Thrice to thine and thrice to mine
-And thrice again, to make up nine.
-Peace, the charm's wound up.
-
-[Enter Macbeth and Banquo.]
-
-
-MACBETH
-So foul and fair a day I have not seen.
-
-BANQUO
-How far is 't called to Forres?--What are these,
-So withered, and so wild in their attire,
-That look not like th' inhabitants o' th' Earth
-And yet are on 't?--Live you? Or are you aught
-That man may question? You seem to understand
-me
-By each at once her choppy finger laying
-Upon her skinny lips. You should be women,
-And yet your beards forbid me to interpret
-That you are so.
-
-MACBETH  Speak if you can. What are you?
-
-FIRST WITCH
-All hail, Macbeth! Hail to thee, Thane of Glamis!
-
-SECOND WITCH
-All hail, Macbeth! Hail to thee, Thane of Cawdor!
-
-THIRD WITCH
-All hail, Macbeth, that shalt be king hereafter!
-
-BANQUO
-Good sir, why do you start and seem to fear
-Things that do sound so fair?--I' th' name of truth,
-Are you fantastical, or that indeed
-Which outwardly you show? My noble partner
-You greet with present grace and great prediction
-Of noble having and of royal hope,
-That he seems rapt withal. To me you speak not.
-If you can look into the seeds of time
-And say which grain will grow and which will not,
-Speak, then, to me, who neither beg nor fear
-Your favors nor your hate.
-
-FIRST WITCH  Hail!
-
-SECOND WITCH  Hail!
-
-THIRD WITCH  Hail!
-
-FIRST WITCH
-Lesser than Macbeth and greater.
-
-SECOND WITCH
-Not so happy, yet much happier.
-
-THIRD WITCH
-Thou shalt get kings, though thou be none.
-So all hail, Macbeth and Banquo!
-
-FIRST WITCH
-Banquo and Macbeth, all hail!
-
-MACBETH
-Stay, you imperfect speakers. Tell me more.
-By Sinel's death I know I am Thane of Glamis.
-But how of Cawdor? The Thane of Cawdor lives
-A prosperous gentleman, and to be king
-Stands not within the prospect of belief,
-No more than to be Cawdor. Say from whence
-You owe this strange intelligence or why
-Upon this blasted heath you stop our way
-With such prophetic greeting. Speak, I charge you.
-[Witches vanish.]
-
-BANQUO
-The earth hath bubbles, as the water has,
-And these are of them. Whither are they vanished?
-
-MACBETH
-Into the air, and what seemed corporal melted,
-As breath into the wind. Would they had stayed!
-
-BANQUO
-Were such things here as we do speak about?
-Or have we eaten on the insane root
-That takes the reason prisoner?
-
-MACBETH
-Your children shall be kings.
-
-BANQUO  You shall be king.
-
-MACBETH
-And Thane of Cawdor too. Went it not so?
-
-BANQUO
-To th' selfsame tune and words.--Who's here?
-
-[Enter Ross and Angus.]
-
-
-ROSS
-The King hath happily received, Macbeth,
-The news of thy success, and, when he reads
-Thy personal venture in the rebels' fight,
-His wonders and his praises do contend
-Which should be thine or his. Silenced with that,
-In viewing o'er the rest o' th' selfsame day
-He finds thee in the stout Norweyan ranks,
-Nothing afeard of what thyself didst make,
-Strange images of death. As thick as tale
-Came post with post, and every one did bear
-Thy praises in his kingdom's great defense,
-And poured them down before him.
-
-ANGUS  We are sent
-To give thee from our royal master thanks,
-Only to herald thee into his sight,
-Not pay thee.
-
-ROSS
-And for an earnest of a greater honor,
-He bade me, from him, call thee Thane of Cawdor,
-In which addition, hail, most worthy thane,
-For it is thine.
-
-BANQUO  What, can the devil speak true?
-
-MACBETH
-The Thane of Cawdor lives. Why do you dress me
-In borrowed robes?
-
-ANGUS  Who was the Thane lives yet,
-But under heavy judgment bears that life
-Which he deserves to lose. Whether he was
-combined
-With those of Norway, or did line the rebel
-With hidden help and vantage, or that with both
-He labored in his country's wrack, I know not;
-But treasons capital, confessed and proved,
-Have overthrown him.
-
-<b>MACBETH</b>, [aside]  Glamis and Thane of Cawdor!
-The greatest is behind. [To Ross and Angus.] Thanks
-for your pains.
-[Aside to Banquo.] Do you not hope your children
-shall be kings,
-When those that gave the Thane of Cawdor to me
-Promised no less to them?
-
-BANQUO  That, trusted home,
-Might yet enkindle you unto the crown,
-Besides the Thane of Cawdor. But 'tis strange.
-And oftentimes, to win us to our harm,
-The instruments of darkness tell us truths,
-Win us with honest trifles, to betray 's
-In deepest consequence.--
-Cousins, a word, I pray you.	[They step aside.]
-
-<b>MACBETH</b>, [aside]  Two truths are told
-As happy prologues to the swelling act
-Of the imperial theme.--I thank you, gentlemen.
-[Aside.] This supernatural soliciting
-Cannot be ill, cannot be good. If ill,
-Why hath it given me earnest of success
-Commencing in a truth? I am Thane of Cawdor.
-If good, why do I yield to that suggestion
-Whose horrid image doth unfix my hair
-And make my seated heart knock at my ribs
-Against the use of nature? Present fears
-Are less than horrible imaginings.
-My thought, whose murder yet is but fantastical,
-Shakes so my single state of man
-That function is smothered in surmise,
-And nothing is but what is not.
-
-BANQUO  Look how our partner's rapt.
-
-<b>MACBETH</b>, [aside]
-If chance will have me king, why, chance may
-crown me
-Without my stir.
-
-BANQUO  New honors come upon him,
-Like our strange garments, cleave not to their mold
-But with the aid of use.
-
-<b>MACBETH</b>, [aside]  Come what come may,
-Time and the hour runs through the roughest day.
-
-BANQUO
-Worthy Macbeth, we stay upon your leisure.
-
-MACBETH
-Give me your favor. My dull brain was wrought
-With things forgotten. Kind gentlemen, your pains
-Are registered where every day I turn
-The leaf to read them. Let us toward the King.
-[Aside to Banquo.] Think upon what hath chanced,
-and at more time,
-The interim having weighed it, let us speak
-Our free hearts each to other.
-
-BANQUO  Very gladly.
-
-MACBETH  Till then, enough.--Come, friends.
-[They exit.]
-
-<b>Scene 4
-</b>
-<hr>
-[Flourish. Enter King Duncan, Lennox, Malcolm,
-Donalbain, and Attendants.]
-
-
-DUNCAN
-Is execution done on Cawdor? Are not
-Those in commission yet returned?
-
-MALCOLM  My liege,
-They are not yet come back. But I have spoke
-With one that saw him die, who did report
-That very frankly he confessed his treasons,
-Implored your Highness' pardon, and set forth
-A deep repentance. Nothing in his life
-Became him like the leaving it. He died
-As one that had been studied in his death
-To throw away the dearest thing he owed
-As 'twere a careless trifle.
-
-DUNCAN  There's no art
-To find the mind's construction in the face.
-He was a gentleman on whom I built
-An absolute trust.
-
-[Enter Macbeth, Banquo, Ross, and Angus.]
-
-O worthiest cousin,
-The sin of my ingratitude even now
-Was heavy on me. Thou art so far before
-That swiftest wing of recompense is slow
-To overtake thee. Would thou hadst less deserved,
-That the proportion both of thanks and payment
-Might have been mine! Only I have left to say,
-More is thy due than more than all can pay.
-
-MACBETH
-The service and the loyalty I owe
-In doing it pays itself. Your Highness' part
-Is to receive our duties, and our duties
-Are to your throne and state children and servants,
-Which do but what they should by doing everything
-Safe toward your love and honor.
-
-DUNCAN  Welcome hither.
-I have begun to plant thee and will labor
-To make thee full of growing.--Noble Banquo,
-That hast no less deserved nor must be known
-No less to have done so, let me enfold thee
-And hold thee to my heart.
-
-BANQUO  There, if I grow,
-The harvest is your own.
-
-DUNCAN  My plenteous joys,
-Wanton in fullness, seek to hide themselves
-In drops of sorrow.--Sons, kinsmen, thanes,
-And you whose places are the nearest, know
-We will establish our estate upon
-Our eldest, Malcolm, whom we name hereafter
-The Prince of Cumberland; which honor must
-Not unaccompanied invest him only,
-But signs of nobleness, like stars, shall shine
-On all deservers.--From hence to Inverness
-And bind us further to you.
-
-MACBETH
-The rest is labor which is not used for you.
-I'll be myself the harbinger and make joyful
-The hearing of my wife with your approach.
-So humbly take my leave.
-
-DUNCAN  My worthy Cawdor.
-
-<b>MACBETH</b>, [aside]
-The Prince of Cumberland! That is a step
-On which I must fall down or else o'erleap,
-For in my way it lies. Stars, hide your fires;
-Let not light see my black and deep desires.
-The eye wink at the hand, yet let that be
-Which the eye fears, when it is done, to see.
-[He exits.]
-
-DUNCAN
-True, worthy Banquo. He is full so valiant,
-And in his commendations I am fed:
-It is a banquet to me.--Let's after him,
-Whose care is gone before to bid us welcome.
-It is a peerless kinsman.
-[Flourish. They exit.]
-
-<b>Scene 5
-</b>
-<hr>
-[Enter Macbeth's Wife, alone, with a letter.]
-
-
-<b>LADY MACBETH</b>, [reading the letter]  They met me in the
-day of success, and I have learned by the perfect'st
-report they have more in them than mortal knowledge.
-When I burned in desire to question them further, they
-made themselves air, into which they vanished.
-Whiles I stood rapt in the wonder of it came missives
-from the King, who all-hailed me "Thane of Cawdor,"
-by which title, before, these Weird Sisters saluted me
-and referred me to the coming on of time with "Hail,
-king that shalt be." This have I thought good to deliver
-thee, my dearest partner of greatness, that thou
-might'st not lose the dues of rejoicing by being ignorant
-of what greatness is promised thee. Lay it to thy
-heart, and farewell.
-Glamis thou art, and Cawdor, and shalt be
-What thou art promised. Yet do I fear thy nature;
-It is too full o' th' milk of human kindness
-To catch the nearest way. Thou wouldst be great,
-Art not without ambition, but without
-The illness should attend it. What thou wouldst
-highly,
-That wouldst thou holily; wouldst not play false
-And yet wouldst wrongly win. Thou 'dst have, great
-Glamis,
-That which cries "Thus thou must do," if thou have
-it,
-And that which rather thou dost fear to do,
-Than wishest should be undone. Hie thee hither,
-That I may pour my spirits in thine ear
-And chastise with the valor of my tongue
-All that impedes thee from the golden round,
-Which fate and metaphysical aid doth seem
-To have thee crowned withal.
-
-[Enter Messenger.]
-
-What is your tidings?
-
-MESSENGER
-The King comes here tonight.
-
-LADY MACBETH  Thou 'rt mad to say it.
-Is not thy master with him, who, were 't so,
-Would have informed for preparation?
-
-MESSENGER
-So please you, it is true. Our thane is coming.
-One of my fellows had the speed of him,
-Who, almost dead for breath, had scarcely more
-Than would make up his message.
-
-LADY MACBETH  Give him tending.
-He brings great news.	[Messenger exits.]
-The raven himself is hoarse
-That croaks the fatal entrance of Duncan
-Under my battlements. Come, you spirits
-That tend on mortal thoughts, unsex me here,
-And fill me from the crown to the toe top-full
-Of direst cruelty. Make thick my blood.
-Stop up th' access and passage to remorse,
-That no compunctious visitings of nature
-Shake my fell purpose, nor keep peace between
-Th' effect and it. Come to my woman's breasts
-And take my milk for gall, you murd'ring ministers,
-Wherever in your sightless substances
-You wait on nature's mischief. Come, thick night,
-And pall thee in the dunnest smoke of hell,
-That my keen knife see not the wound it makes,
-Nor heaven peep through the blanket of the dark
-To cry "Hold, hold!"
-
-[Enter Macbeth.]
-
-Great Glamis, worthy Cawdor,
-Greater than both by the all-hail hereafter!
-Thy letters have transported me beyond
-This ignorant present, and I feel now
-The future in the instant.
-
-MACBETH  My dearest love,
-Duncan comes here tonight.
-
-LADY MACBETH  And when goes hence?
-
-MACBETH
-Tomorrow, as he purposes.
-
-<b>LADY MACBETH  O</b>, never
-Shall sun that morrow see!
-Your face, my thane, is as a book where men
-May read strange matters. To beguile the time,
-Look like the time. Bear welcome in your eye,
-Your hand, your tongue. Look like th' innocent
-flower,
-But be the serpent under 't. He that's coming
-Must be provided for; and you shall put
-This night's great business into my dispatch,
-Which shall to all our nights and days to come
-Give solely sovereign sway and masterdom.
-
-MACBETH
-We will speak further.
-
-LADY MACBETH  Only look up clear.
-To alter favor ever is to fear.
-Leave all the rest to me.
-[They exit.]
-
-<b>Scene 6
-</b>
-<hr>
-[Hautboys and Torches. Enter King Duncan, Malcolm,
-Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and
-Attendants.]
-
-
-DUNCAN
-This castle hath a pleasant seat. The air
-Nimbly and sweetly recommends itself
-Unto our gentle senses.
-
-BANQUO  This guest of summer,
-The temple-haunting martlet, does approve,
-By his loved mansionry, that the heaven's breath
-Smells wooingly here. No jutty, frieze,
-Buttress, nor coign of vantage, but this bird
-Hath made his pendant bed and procreant cradle.
-Where they most breed and haunt, I have
-observed,
-The air is delicate.
-
-[Enter Lady Macbeth.]
-
-
-DUNCAN  See, see our honored hostess!--
-The love that follows us sometime is our trouble,
-Which still we thank as love. Herein I teach you
-How you shall bid God 'ild us for your pains
-And thank us for your trouble.
-
-LADY MACBETH  All our service,
-In every point twice done and then done double,
-Were poor and single business to contend
-Against those honors deep and broad wherewith
-Your Majesty loads our house. For those of old,
-And the late dignities heaped up to them,
-We rest your hermits.
-
-DUNCAN  Where's the Thane of Cawdor?
-We coursed him at the heels and had a purpose
-To be his purveyor; but he rides well,
-And his great love, sharp as his spur, hath helped
-him
-To his home before us. Fair and noble hostess,
-We are your guest tonight.
-
-LADY MACBETH  Your servants ever
-Have theirs, themselves, and what is theirs in compt
-To make their audit at your Highness' pleasure,
-Still to return your own.
-
-DUNCAN  Give me your hand.
-
-[Taking her hand.]
-Conduct me to mine host. We love him highly
-And shall continue our graces towards him.
-By your leave, hostess.
-[They exit.]
-
-<b>Scene 7
-</b>
-<hr>
-[Hautboys. Torches. Enter a Sewer and divers Servants
-with dishes and service over the stage. Then enter
-Macbeth.]
-
-
-MACBETH
-If it were done when 'tis done, then 'twere well
-It were done quickly. If th' assassination
-Could trammel up the consequence and catch
-With his surcease success, that but this blow
-Might be the be-all and the end-all here,
-But here, upon this bank and shoal of time,
-We'd jump the life to come. But in these cases
-We still have judgment here, that we but teach
-Bloody instructions, which, being taught, return
-To plague th' inventor. This even-handed justice
-Commends th' ingredience of our poisoned chalice
-To our own lips. He's here in double trust:
-First, as I am his kinsman and his subject,
-Strong both against the deed; then, as his host,
-Who should against his murderer shut the door,
-Not bear the knife myself. Besides, this Duncan
-Hath borne his faculties so meek, hath been
-So clear in his great office, that his virtues
-Will plead like angels, trumpet-tongued, against
-The deep damnation of his taking-off;
-And pity, like a naked newborn babe
-Striding the blast, or heaven's cherubin horsed
-Upon the sightless couriers of the air,
-Shall blow the horrid deed in every eye,
-That tears shall drown the wind. I have no spur
-To prick the sides of my intent, but only
-Vaulting ambition, which o'erleaps itself
-And falls on th' other--
-
-[Enter Lady Macbeth.]
-
-How now, what news?
-
-LADY MACBETH
-He has almost supped. Why have you left the
-chamber?
-
-MACBETH
-Hath he asked for me?
-
-LADY MACBETH  Know you not he has?
-
-MACBETH
-We will proceed no further in this business.
-He hath honored me of late, and I have bought
-Golden opinions from all sorts of people,
-Which would be worn now in their newest gloss,
-Not cast aside so soon.
-
-LADY MACBETH  Was the hope drunk
-Wherein you dressed yourself? Hath it slept since?
-And wakes it now, to look so green and pale
-At what it did so freely? From this time
-Such I account thy love. Art thou afeard
-To be the same in thine own act and valor
-As thou art in desire? Wouldst thou have that
-Which thou esteem'st the ornament of life
-And live a coward in thine own esteem,
-Letting "I dare not" wait upon "I would,"
-Like the poor cat i' th' adage?
-
-MACBETH  Prithee, peace.
-I dare do all that may become a man.
-Who dares do more is none.
-
-LADY MACBETH  What beast was 't,
-then,
-That made you break this enterprise to me?
-When you durst do it, then you were a man;
-And to be more than what you were, you would
-Be so much more the man. Nor time nor place
-Did then adhere, and yet you would make both.
-They have made themselves, and that their fitness
-now
-Does unmake you. I have given suck, and know
-How tender 'tis to love the babe that milks me.
-I would, while it was smiling in my face,
-Have plucked my nipple from his boneless gums
-And dashed the brains out, had I so sworn as you
-Have done to this.
-
-MACBETH  If we should fail--
-
-LADY MACBETH  We fail?
-But screw your courage to the sticking place
-And we'll not fail. When Duncan is asleep
-(Whereto the rather shall his day's hard journey
-Soundly invite him), his two chamberlains
-Will I with wine and wassail so convince
-That memory, the warder of the brain,
-Shall be a fume, and the receipt of reason
-A limbeck only. When in swinish sleep
-Their drenched natures lies as in a death,
-What cannot you and I perform upon
-Th' unguarded Duncan? What not put upon
-His spongy officers, who shall bear the guilt
-Of our great quell?
-
-MACBETH  Bring forth men-children only,
-For thy undaunted mettle should compose
-Nothing but males. Will it not be received,
-When we have marked with blood those sleepy two
-Of his own chamber and used their very daggers,
-That they have done 't?
-
-LADY MACBETH  Who dares receive it other,
-As we shall make our griefs and clamor roar
-Upon his death?
-
-MACBETH  I am settled and bend up
-Each corporal agent to this terrible feat.
-Away, and mock the time with fairest show.
-False face must hide what the false heart doth
-know.
+[Enter Countess, Steward, and Fool.]
+
+
+COUNTESS  I will now hear. What say you of this
+gentlewoman?
+
+STEWARD  Madam, the care I have had to even your
+content I wish might be found in the calendar of
+my past endeavors, for then we wound our modesty
+and make foul the clearness of our deservings
+when of ourselves we publish them.
+
+COUNTESS  What does this knave here? [To Fool.] Get
+you gone, sirrah. The complaints I have heard of
+you I do not all believe. 'Tis my slowness that I do
+not, for I know you lack not folly to commit them
+and have ability enough to make such knaveries
+yours.
+
+FOOL  'Tis not unknown to you, madam, I am a poor
+fellow.
+
+COUNTESS  Well, sir.
+
+FOOL  No, madam, 'tis not so well that I am poor,
+though many of the rich are damned. But if I may
+have your Ladyship's good will to go to the world,
+Isbel the woman and I will do as we may.
+
+COUNTESS  Wilt thou needs be a beggar?
+
+FOOL  I do beg your good will in this case.
+
+COUNTESS  In what case?
+
+FOOL  In Isbel's case and mine own. Service is no heritage,
+and I think I shall never have the blessing of
+God till I have issue o' my body, for they say bairns
+are blessings.
+
+COUNTESS  Tell me thy reason why thou wilt marry.
+
+FOOL  My poor body, madam, requires it. I am driven
+on by the flesh, and he must needs go that the devil
+drives.
+
+COUNTESS  Is this all your Worship's reason?
+
+FOOL  Faith, madam, I have other holy reasons, such
+as they are.
+
+COUNTESS  May the world know them?
+
+FOOL  I have been, madam, a wicked creature, as you
+and all flesh and blood are, and indeed I do marry
+that I may repent.
+
+COUNTESS  Thy marriage sooner than thy wickedness.
+
+FOOL  I am out o' friends, madam, and I hope to have
+friends for my wife's sake.
+
+COUNTESS  Such friends are thine enemies, knave.
+
+FOOL  You're shallow, madam, in great friends, for the
+knaves come to do that for me which I am aweary
+of. He that ears my land spares my team and gives
+me leave to in the crop; if I be his cuckold, he's my
+drudge. He that comforts my wife is the cherisher
+of my flesh and blood; he that cherishes my flesh
+and blood loves my flesh and blood; he that loves
+my flesh and blood is my friend. Ergo, he that
+kisses my wife is my friend. If men could be contented
+to be what they are, there were no fear in
+marriage, for young Charbon the Puritan and old
+Poysam the Papist, howsome'er their hearts are
+severed in religion, their heads are both one; they
+may jowl horns together like any deer i' th' herd.
+
+COUNTESS  Wilt thou ever be a foul-mouthed and
+calumnious knave?
+
+FOOL  A prophet I, madam, and I speak the truth the
+next way:
+[Sings.]	For I the ballad will repeat
+	   Which men full true shall find:
+	Your marriage comes by destiny;
+	   Your cuckoo sings by kind.
+
+COUNTESS  Get you gone, sir. I'll talk with you more
+anon.
+
+STEWARD  May it please you, madam, that he bid Helen
+come to you. Of her I am to speak.
+
+COUNTESS  Sirrah, tell my gentlewoman I would speak
+with her--Helen, I mean.
+
+FOOL [sings]
+	"Was this fair face the cause," quoth she,
+	   "Why the Grecians sacked Troy?
+	Fond done, done fond.
+	   Was this King Priam's joy?"
+	With that she sighed as she stood,
+	With that she sighed as she stood,
+	   And gave this sentence then:
+	"Among nine bad if one be good,
+	Among nine bad if one be good,
+	   There's yet one good in ten."
+
+COUNTESS  What, one good in ten? You corrupt the
+song, sirrah.
+
+FOOL  One good woman in ten, madam, which is a
+purifying o' th' song. Would God would serve the
+world so all the year! We'd find no fault with the
+tithe-woman if I were the parson. One in ten,
+quoth he? An we might have a good woman born
+but or every blazing star or at an earthquake,
+'twould mend the lottery well. A man may draw his
+heart out ere he pluck one.
+
+COUNTESS  You'll be gone, sir knave, and do as I command
+you!
+
+FOOL  That man should be at woman's command, and
+yet no hurt done! Though honesty be no Puritan,
+yet it will do no hurt; it will wear the surplice of
+humility over the black gown of a big heart. I am
+going, forsooth. The business is for Helen to come
+hither.	[He exits.]
+
+COUNTESS  Well, now.
+
+STEWARD  I know, madam, you love your gentlewoman
+entirely.
+
+COUNTESS  Faith, I do. Her father bequeathed her to
+me, and she herself, without other advantage, may
+lawfully make title to as much love as she finds.
+There is more owing her than is paid, and more
+shall be paid her than she'll demand.
+
+STEWARD  Madam, I was very late more near her than I
+think she wished me. Alone she was and did communicate
+to herself her own words to her own
+ears; she thought, I dare vow for her, they touched
+not any stranger sense. Her matter was she loved
+your son. Fortune, she said, was no goddess, that
+had put such difference betwixt their two estates;
+Love no god, that would not extend his might only
+where qualities were level; Dian no queen of virgins,
+that would suffer her poor knight surprised
+without rescue in the first assault or ransom afterward.
+This she delivered in the most bitter touch
+of sorrow that e'er I heard virgin exclaim in, which
+I held my duty speedily to acquaint you withal,
+sithence in the loss that may happen it concerns
+you something to know it.
+
+COUNTESS  You have discharged this honestly. Keep it
+to yourself. Many likelihoods informed me of this
+before, which hung so tott'ring in the balance that
+I could neither believe nor misdoubt. Pray you
+leave me. Stall this in your bosom, and I thank you
+for your honest care. I will speak with you further
+anon.	[Steward exits.]
+
+[Enter Helen.]
+
+[Aside.]
+Even so it was with me when I was young.
+   If ever we are nature's, these are ours. This thorn
+Doth to our rose of youth rightly belong.
+   Our blood to us, this to our blood is born.
+It is the show and seal of nature's truth,
+Where love's strong passion is impressed in youth.
+By our remembrances of days foregone,
+Such were our faults, or then we thought them none.
+Her eye is sick on 't, I observe her now.
+
+HELEN  What is your pleasure, madam?
+
+COUNTESS
+You know, Helen, I am a mother to you.
+
+HELEN
+Mine honorable mistress.
+
+COUNTESS  Nay, a mother.
+Why not a mother? When I said "a mother,"
+Methought you saw a serpent. What's in "mother"
+That you start at it? I say I am your mother
+And put you in the catalogue of those
+That were enwombed mine. 'Tis often seen
+Adoption strives with nature, and choice breeds
+A native slip to us from foreign seeds.
+You ne'er oppressed me with a mother's groan,
+Yet I express to you a mother's care.
+God's mercy, maiden, does it curd thy blood
+To say I am thy mother? What's the matter,
+That this distempered messenger of wet,
+The many-colored Iris, rounds thine eye?
+Why? That you are my daughter?
+
+HELEN  That I am not.
+
+COUNTESS
+I say I am your mother.
+
+HELEN  Pardon, madam.
+The Count Rossillion cannot be my brother.
+I am from humble, he from honored name;
+No note upon my parents, his all noble.
+My master, my dear lord he is, and I
+His servant live and will his vassal die.
+He must not be my brother.
+
+COUNTESS  Nor I your mother?
+
+HELEN
+You are my mother, madam. Would you were--
+So that my lord your son were not my brother--
+Indeed my mother! Or were you both our mothers,
+I care no more for than I do for heaven,
+So I were not his sister. Can 't no other
+But, I your daughter, he must be my brother?
+
+COUNTESS
+Yes, Helen, you might be my daughter-in-law.
+God shield you mean it not! "Daughter" and "mother"
+So strive upon your pulse. What, pale again?
+My fear hath catched your fondness! Now I see
+The mystery of your loneliness and find
+Your salt tears' head. Now to all sense 'tis gross:
+You love my son. Invention is ashamed
+Against the proclamation of thy passion
+To say thou dost not. Therefore tell me true,
+But tell me then 'tis so, for, look, thy cheeks
+Confess it th' one to th' other, and thine eyes
+See it so grossly shown in thy behaviors
+That in their kind they speak it. Only sin
+And hellish obstinacy tie thy tongue
+That truth should be suspected. Speak. Is 't so?
+If it be so, you have wound a goodly clew;
+If it be not, forswear 't; howe'er, I charge thee,
+As heaven shall work in me for thine avail,
+To tell me truly.
+
+HELEN  Good madam, pardon me.
+
+COUNTESS
+Do you love my son?
+
+HELEN  Your pardon, noble mistress.
+
+COUNTESS
+Love you my son?
+
+HELEN  Do not you love him, madam?
+
+COUNTESS
+Go not about. My love hath in 't a bond
+Whereof the world takes note. Come, come, disclose
+The state of your affection, for your passions
+Have to the full appeached.
+
+<b>HELEN,</b> [kneeling]  Then I confess
+Here on my knee before high heaven and you
+That before you and next unto high heaven
+I love your son.
+My friends were poor but honest; so 's my love.
+Be not offended, for it hurts not him
+That he is loved of me. I follow him not
+By any token of presumptuous suit,
+Nor would I have him till I do deserve him,
+Yet never know how that desert should be.
+I know I love in vain, strive against hope,
+Yet in this captious and intenible sieve
+I still pour in the waters of my love
+And lack not to lose still. Thus, Indian-like,
+Religious in mine error, I adore
+The sun that looks upon his worshipper
+But knows of him no more. My dearest madam,
+Let not your hate encounter with my love
+For loving where you do; but if yourself,
+Whose aged honor cites a virtuous youth,
+Did ever in so true a flame of liking
+Wish chastely and love dearly, that your Dian
+Was both herself and Love, O then give pity
+To her whose state is such that cannot choose
+But lend and give where she is sure to lose;
+That seeks not to find that her search implies,
+But riddle-like lives sweetly where she dies.
+
+COUNTESS
+Had you not lately an intent--speak truly--
+To go to Paris?
+
+HELEN  Madam, I had.
+
+COUNTESS  Wherefore?
+Tell true.
+
+<b>HELEN,</b> [standing]
+I will tell truth, by grace itself I swear.
+You know my father left me some prescriptions
+Of rare and proved effects, such as his reading
+And manifest experience had collected
+For general sovereignty; and that he willed me
+In heedfull'st reservation to bestow them
+As notes whose faculties inclusive were
+More than they were in note. Amongst the rest
+There is a remedy, approved, set down,
+To cure the desperate languishings whereof
+The King is rendered lost.
+
+COUNTESS
+This was your motive for Paris, was it? Speak.
+
+HELEN
+My lord your son made me to think of this;
+Else Paris, and the medicine, and the King
+Had from the conversation of my thoughts
+Haply been absent then.
+
+COUNTESS  But think you, Helen,
+If you should tender your supposed aid,
+He would receive it? He and his physicians
+Are of a mind: he that they cannot help him,
+They that they cannot help. How shall they credit
+A poor unlearned virgin, when the schools
+Emboweled of their doctrine have left off
+The danger to itself?
+
+HELEN  There's something in 't
+More than my father's skill, which was the great'st
+Of his profession, that his good receipt
+Shall for my legacy be sanctified
+By th' luckiest stars in heaven; and would your
+Honor
+But give me leave to try success, I'd venture
+The well-lost life of mine on his Grace's cure
+By such a day, an hour.
+
+COUNTESS  Dost thou believe 't?
+
+HELEN  Ay, madam, knowingly.
+
+COUNTESS
+Why, Helen, thou shalt have my leave and love,
+Means and attendants, and my loving greetings
+To those of mine in court. I'll stay at home
+And pray God's blessing into thy attempt.
+Be gone tomorrow, and be sure of this:
+What I can help thee to thou shalt not miss.
 [They exit.]
 
 
-<b>ACT 2
+<b id="act-2" class="act-header">Act 2
+</b>
+
+<b id="act-2-scene-1" class="scene-header">Scene 1
 </b>
 <hr>
-
-<b>Scene 1
-</b>
-<hr>
-[Enter Banquo, and Fleance with a torch before him.]
-
-
-BANQUO  How goes the night, boy?
-
-FLEANCE
-The moon is down. I have not heard the clock.
-
-BANQUO  And she goes down at twelve.
-
-FLEANCE  I take 't 'tis later, sir.`;
+[Flourish cornets. Enter the King, attended, with divers
+young Lords, taking leave for the Florentine war;
+Bertram Count Rossillion, and Parolles.]`;
 
         const playText = rawPlayText;
 
@@ -1193,59 +1157,116 @@ function updateSidebar(playText, selectedPlay) {
     const actsContainer = document.createElement('div');
     actsContainer.className = 'sidebar-acts';
     
-    // Find all acts and scenes
-    const lines = playText.split('\n');
+    // Track all acts and their scenes
+    const acts = [];
     let currentAct = null;
+    let actCount = 0;
+    let sceneCount = 0;
     
-    lines.forEach((line, index) => {
-        // Check for Act headers (looking for the bold tag now)
-        if (line.includes('<b>ACT')) {
+    const lines = playText.split('\n');
+    lines.forEach((line) => {
+        // Check for Act headers
+        if (line.includes('class="act-header"')) {
+            actCount++;
+            sceneCount = 0;  // Reset scene count for new act
             const actDiv = document.createElement('div');
             actDiv.className = 'act-item';
-            actDiv.textContent = line.replace(/<\/?b>/g, '').trim(); // Remove bold tags
+            actDiv.textContent = line.replace(/<\/?b[^>]*>/g, '').trim();
+            
+            const scenesContainer = document.createElement('div');
+            scenesContainer.className = 'scenes-container';
+            
             actDiv.onclick = () => {
-                document.querySelectorAll('.act-item, .scene-item').forEach(item => 
-                    item.classList.remove('active')
-                );
-                actDiv.classList.add('active');
-                scrollToLine(index);
+                const target = document.querySelector(`#act-${actCount}`);
+                if (target) {
+                    selectAct(actCount);
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
             };
+            
+            acts.push({ div: actDiv, scenes: scenesContainer });
             actsContainer.appendChild(actDiv);
-            currentAct = actDiv;
+            actsContainer.appendChild(scenesContainer);
+            currentAct = { div: actDiv, scenes: scenesContainer };
         }
-        // Check for Scene headers (looking for the bold tag now)
-        else if (line.includes('<b>Scene')) {
+        // Check for Scene headers
+        else if (line.includes('class="scene-header"') && currentAct) {
+            sceneCount++;
             const sceneDiv = document.createElement('div');
             sceneDiv.className = 'scene-item';
-            sceneDiv.textContent = line.replace(/<\/?b>/g, '').trim(); // Remove bold tags
+            sceneDiv.textContent = line.replace(/<\/?b[^>]*>/g, '').trim();
+            
+            // Store the current act and scene numbers in closure
+            const thisAct = actCount;
+            const thisScene = sceneCount;
+            
             sceneDiv.onclick = () => {
-                document.querySelectorAll('.act-item, .scene-item').forEach(item => 
-                    item.classList.remove('active')
-                );
-                if (currentAct) currentAct.classList.add('active');
-                sceneDiv.classList.add('active');
-                scrollToLine(index);
+                const target = document.querySelector(`#act-${thisAct}-scene-${thisScene}`);
+                if (target) {
+                    selectAct(thisAct, thisScene);
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
             };
-            actsContainer.appendChild(sceneDiv);
+            currentAct.scenes.appendChild(sceneDiv);
         }
     });
     
-    // Only append the acts container if it has children
     if (actsContainer.children.length > 0) {
         sidebar.appendChild(actsContainer);
     }
+    
+    // Add scroll detection
+    const textContent = document.querySelector('.text-content');
+    textContent.addEventListener('scroll', _.throttle(() => {
+        updateActiveActFromScroll(acts);
+    }, 100));
+    
+    // Initial selection
+    selectAct(1);
 }
 
-function scrollToLine(lineIndex) {
-    const textContent = document.querySelector('.text-content');
-    const lines = textContent.innerHTML.split('\n');
-    
-    // Calculate approximate position
-    const lineHeight = 24; // Approximate line height in pixels
-    const scrollPosition = lineHeight * lineIndex;
-    
-    textContent.scrollTo({
-        top: scrollPosition,
-        behavior: 'smooth'
+function selectAct(actCount, sceneCount = null) {
+    // Remove all active states
+    document.querySelectorAll('.act-item, .scene-item').forEach(item => {
+        item.classList.remove('active');
     });
+    
+    // Mark active act and scene
+    const actItems = document.querySelectorAll('.act-item');
+    const scenesContainers = document.querySelectorAll('.scenes-container');
+    
+    if (actItems[actCount - 1]) {
+        actItems[actCount - 1].classList.add('active');
+        
+        if (sceneCount !== null) {
+            const sceneItems = scenesContainers[actCount - 1].querySelectorAll('.scene-item');
+            if (sceneItems[sceneCount - 1]) {
+                sceneItems[sceneCount - 1].classList.add('active');
+            }
+        }
+    }
+}
+
+function updateActiveActFromScroll(acts) {
+    const textContent = document.querySelector('.text-content');
+    const scrollPosition = textContent.scrollTop;
+    const viewportHeight = textContent.clientHeight;
+    
+    let mostVisibleAct = 1;
+    let maxVisibility = 0;
+    
+    acts.forEach((act, index) => {
+        const actElement = document.querySelector(`#act-${index + 1}`);
+        if (actElement) {
+            const rect = actElement.getBoundingClientRect();
+            const visibility = Math.min(rect.bottom, viewportHeight) - Math.max(rect.top, 0);
+            
+            if (visibility > maxVisibility) {
+                maxVisibility = visibility;
+                mostVisibleAct = index + 1;
+            }
+        }
+    });
+    
+    selectAct(mostVisibleAct);
 }
