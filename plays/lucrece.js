@@ -8,7 +8,7 @@ Created on Jul 31, 2015, from FDT version 0.9.0.1
 
 
 TO THE RIGHT
-HONORABLE, HENRY
+<b>HONORABLE</b>, HENRY
 Wriothesley, Earl of Southampton,
 and Baron of Titchfield.
 

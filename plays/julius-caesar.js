@@ -7,13 +7,13 @@ https://shakespeare.folger.edu/shakespeares-works/julius-caesar/
 Created on May 11, 2016, from FDT version 0.9.2.1
 
 Characters in the Play
-======================
+<hr>
 JULIUS CAESAR
-CALPHURNIA, his wife
+<b>CALPHURNIA</b>, his wife
 Servant to them
 MARCUS BRUTUS
-PORTIA, his wife
-LUCIUS, their servant
+<b>PORTIA</b>, his wife
+<b>LUCIUS</b>, their servant
 Patricians who, with Brutus, conspire against Caesar:
   CAIUS CASSIUS
   CASCA
@@ -54,7 +54,7 @@ A Soothsayer
 ARTEMIDORUS
 First, Second, Third, and Fourth Plebeians
 CINNA the poet
-PINDARUS, slave to Cassius, freed upon Cassius's death
+<b>PINDARUS</b>, slave to Cassius, freed upon Cassius's death
 First, Second, Third, and Fourth Soldiers in Brutus's army
 Another Poet
 A Messenger
@@ -62,11 +62,11 @@ First and Second Soldiers in Antony's army
 Citizens, Senators, Petitioners, Plebeians, Soldiers
 
 
-ACT 1
-=====
+<b>ACT 1</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Flavius, Marullus, and certain Commoners,
 including a Carpenter and a Cobbler, over the stage.]
 
@@ -180,8 +180,8 @@ Who else would soar above the view of men
 And keep us all in servile fearfulness.
 [They exit in different directions.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Caesar, Antony for the course, Calphurnia, Portia,
 Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer;
 after them Marullus and Flavius and Commoners.]
@@ -663,8 +663,8 @@ And after this, let Caesar seat him sure,
 For we will shake him, or worse days endure.
 [He exits.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Thunder and lightning. Enter Casca and Cicero.]
 
 
@@ -879,7 +879,7 @@ CINNA
 Yes, you are. O Cassius, if you could
 But win the noble Brutus to our party--
 
-CASSIUS, [handing him papers]
+<b>CASSIUS</b>, [handing him papers]
 Be you content. Good Cinna, take this paper,
 And look you lay it in the Praetor's chair,
 Where Brutus may but find it; and throw this
@@ -915,11 +915,11 @@ We will awake him and be sure of him.
 [They exit.]
 
 
-ACT 2
-=====
+<b>ACT 2</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Brutus in his orchard.]
 
 
@@ -1117,7 +1117,7 @@ north
 He first presents his fire, and the high east
 Stands, as the Capitol, directly here.
 
-BRUTUS, [coming forward with Cassius]
+<b>BRUTUS</b>, [coming forward with Cassius]
 Give me your hands all over, one by one.
 
 CASSIUS
@@ -1462,8 +1462,8 @@ That Brutus leads me on.	[Thunder.]
 BRUTUS  Follow me then.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Thunder and lightning. Enter Julius Caesar in his
 nightgown.]
 
@@ -1663,7 +1663,7 @@ Is notwithstanding up.--Good morrow, Antony.
 
 ANTONY  So to most noble Caesar.
 
-CAESAR, [to Servant]  Bid them prepare within.--
+<b>CAESAR</b>, [to Servant]  Bid them prepare within.--
 I am to blame to be thus waited for.	[Servant exits.]
 Now, Cinna.--Now, Metellus.--What, Trebonius,
 I have an hour's talk in store for you.
@@ -1678,13 +1678,13 @@ CAESAR
 Good friends, go in and taste some wine with me,
 And we, like friends, will straightway go together.
 
-BRUTUS, [aside]
+<b>BRUTUS</b>, [aside]
 That every like is not the same, O Caesar,
 The heart of Brutus earns to think upon.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Artemidorus reading a paper.]
 
 
@@ -1706,8 +1706,8 @@ If thou read this, O Caesar, thou mayest live;
 If not, the Fates with traitors do contrive.
 [He exits.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Portia and Lucius.]
 
 
@@ -1800,11 +1800,11 @@ And bring me word what he doth say to thee.
 [They exit separately.]
 
 
-ACT 3
-=====
+<b>ACT 3</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Flourish. Enter Caesar, Antony, Lepidus; Brutus, Cassius,
 Casca, Decius, Metellus, Trebonius, Cinna; Publius,
 Popilius, Artemidorus, the Soothsayer, and other
@@ -1841,7 +1841,7 @@ What, urge you your petitions in the street?
 Come to the Capitol.
 [Caesar goes forward, the rest following.]
 
-POPILIUS, [to Cassius]
+<b>POPILIUS</b>, [to Cassius]
 I wish your enterprise today may thrive.
 
 CASSIUS  What enterprise, Popilius?
@@ -1886,7 +1886,7 @@ CAESAR
 Are we all ready? What is now amiss
 That Caesar and his Senate must redress?
 
-METELLUS, [kneeling]
+<b>METELLUS</b>, [kneeling]
 Most high, most mighty, and most puissant Caesar,
 Metellus Cimber throws before thy seat
 An humble heart.
@@ -1912,7 +1912,7 @@ Is there no voice more worthy than my own
 To sound more sweetly in great Caesar's ear
 For the repealing of my banished brother?
 
-BRUTUS, [kneeling]
+<b>BRUTUS</b>, [kneeling]
 I kiss thy hand, but not in flattery, Caesar,
 Desiring thee that Publius Cimber may
 Have an immediate freedom of repeal.
@@ -1920,7 +1920,7 @@ Have an immediate freedom of repeal.
 CAESAR
 What, Brutus?
 
-CASSIUS, [kneeling]
+<b>CASSIUS</b>, [kneeling]
 Pardon, Caesar; Caesar, pardon!
 As low as to thy foot doth Cassius fall
 To beg enfranchisement for Publius Cimber.
@@ -1943,12 +1943,12 @@ Let me a little show it, even in this:
 That I was constant Cimber should be banished
 And constant do remain to keep him so.
 
-CINNA, [kneeling]
+<b>CINNA</b>, [kneeling]
 O Caesar--
 
 CAESAR  Hence. Wilt thou lift up Olympus?
 
-DECIUS, [kneeling]
+<b>DECIUS</b>, [kneeling]
 Great Caesar--
 
 CAESAR  Doth not Brutus bootless kneel?
@@ -2056,7 +2056,7 @@ With the most boldest and best hearts of Rome.
 BRUTUS
 Soft, who comes here? A friend of Antony's.
 
-SERVANT, [kneeling]
+<b>SERVANT</b>, [kneeling]
 Thus, Brutus, did my master bid me kneel.
 Thus did Mark Antony bid me fall down,
 And, being prostrate, thus he bade me say:
@@ -2215,7 +2215,7 @@ That Antony speak in his funeral.
 Know you how much the people may be moved
 By that which he will utter?
 
-BRUTUS, [aside to Cassius]  By your pardon,
+<b>BRUTUS</b>, [aside to Cassius]  By your pardon,
 I will myself into the pulpit first
 And show the reason of our Caesar's death.
 What Antony shall speak I will protest
@@ -2224,7 +2224,7 @@ And that we are contented Caesar shall
 Have all true rites and lawful ceremonies.
 It shall advantage more than do us wrong.
 
-CASSIUS, [aside to Brutus]
+<b>CASSIUS</b>, [aside to Brutus]
 I know not what may fall. I like it not.
 
 BRUTUS
@@ -2306,8 +2306,8 @@ To young Octavius of the state of things.
 Lend me your hand.
 [They exit with Caesar's body.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Brutus and Cassius with the Plebeians.]
 
 
@@ -2761,8 +2761,8 @@ Belike they had some notice of the people
 How I had moved them. Bring me to Octavius.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Cinna the poet and after him the Plebeians.]
 
 
@@ -2834,11 +2834,11 @@ Ligarius'. Away, go!
 [All the Plebeians exit, carrying off Cinna.]
 
 
-ACT 4
-=====
+<b>ACT 4</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Antony, Octavius, and Lepidus.]
 
 
@@ -2921,8 +2921,8 @@ And some that smile have in their hearts, I fear,
 Millions of mischiefs.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Drum. Enter Brutus, Lucilius, Lucius, and the Army.
 Titinius and Pindarus meet them.]
 
@@ -3022,8 +3022,8 @@ Come to our tent till we have done our conference.
 Let Lucilius and Titinius guard our door.
 [All but Brutus and Cassius exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 
 CASSIUS
 That you have wronged me doth appear in this:
@@ -3640,11 +3640,11 @@ BOTH  It shall be done, my lord.
 [They exit.]
 
 
-ACT 5
-=====
+<b>ACT 5</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Octavius, Antony, and their army.]
 
 
@@ -3701,7 +3701,7 @@ ANTONY
 No, Caesar, we will answer on their charge.
 Make forth. The Generals would have some words.
 
-OCTAVIUS, [to his Officers]  Stir not until the signal.
+<b>OCTAVIUS</b>, [to his Officers]  Stir not until the signal.
 [The Generals step forward.]
 
 BRUTUS
@@ -3869,8 +3869,8 @@ But it sufficeth that the day will end,
 And then the end is known.--Come ho, away!
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Alarum. Enter Brutus and Messala.]
 
 
@@ -3885,8 +3885,8 @@ And sudden push gives them the overthrow.
 Ride, ride, Messala! Let them all come down.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Alarums. Enter Cassius carrying a standard and
 Titinius.]
 
@@ -3936,7 +3936,7 @@ This day I breathed first. Time is come round,
 And where I did begin, there shall I end;
 My life is run his compass.--Sirrah, what news?
 
-PINDARUS, [above.]  O my lord!
+<b>PINDARUS</b>, [above.]  O my lord!
 
 CASSIUS  What news?
 
@@ -4086,8 +4086,8 @@ Labeo and Flavius, set our battles on.
 We shall try fortune in a second fight.
 [They exit.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Alarum. Enter Brutus, Messala, Cato, Lucilius, and
 Flavius.]
 
@@ -4114,7 +4114,7 @@ O young and noble Cato, art thou down?
 Why, now thou diest as bravely as Titinius
 And mayst be honored, being Cato's son.
 
-FIRST SOLDIER, [seizing Lucilius]
+<b>FIRST SOLDIER</b>, [seizing Lucilius]
 Yield, or thou diest.
 
 LUCILIUS  Only I yield to die.
@@ -4155,8 +4155,8 @@ And bring us word unto Octavius' tent
 How everything is chanced.
 [They exit in different directions.]
 
-Scene 5
-=======
+<b>Scene 5</b>
+<hr>
 [Enter Brutus, Dardanus, Clitus, Strato, and Volumnius.]
 
 

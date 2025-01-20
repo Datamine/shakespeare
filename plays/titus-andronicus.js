@@ -7,30 +7,30 @@ https://shakespeare.folger.edu/shakespeares-works/titus-andronicus/
 Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
-======================
-TITUS ANDRONICUS, a noble Roman general
-LAVINIA, his daughter
+<hr>
+<b>TITUS ANDRONICUS</b>, a noble Roman general
+<b>LAVINIA</b>, his daughter
 His sons:
   LUCIUS
   MUTIUS
   MARTIUS
   QUINTUS
-YOUNG LUCIUS, his grandson
-MARCUS ANDRONICUS, Titus's brother, a Roman tribune
-PUBLIUS, his son
+<b>YOUNG LUCIUS</b>, his grandson
+<b>MARCUS ANDRONICUS</b>, Titus's brother, a Roman tribune
+<b>PUBLIUS</b>, his son
 Titus's kinsmen:
   SEMPRONIUS
   CAIUS
   VALENTINE
-SATURNINUS, elder son of the former Roman emperor, later emperor
-BASSIANUS, younger son of the former emperor
-TAMORA, Queen of the Goths, later empress
+<b>SATURNINUS</b>, elder son of the former Roman emperor, later emperor
+<b>BASSIANUS</b>, younger son of the former emperor
+<b>TAMORA</b>, Queen of the Goths, later empress
 AARON the Moor, Tamora's lover
 Tamora's sons:
   ALARBUS
   DEMETRIUS
   CHIRON
-AEMILIUS, A Roman nobleman
+<b>AEMILIUS</b>, A Roman nobleman
 MESSENGER
 NURSE
 A Roman CAPTAIN
@@ -40,11 +40,11 @@ SECOND GOTH
 Tribunes, Senators, Romans, Goths, Drummers, Trumpeters, Soldiers, Guards, Attendants, a black Child
 
 
-ACT 1
-=====
+<b>ACT 1</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Flourish. Enter the Tribunes (including Marcus
 Andronicus) and Senators aloft. And then enter, below,
 Saturninus and his followers at one door, and
@@ -73,7 +73,7 @@ To justice, continence, and nobility;
 But let desert in pure election shine,
 And, Romans, fight for freedom in your choice.
 
-MARCUS, [aloft, stepping forward and holding up the
+<b>MARCUS</b>, [aloft, stepping forward and holding up the
 crown]
 Princes that strive by factions and by friends
 Ambitiously for rule and empery,
@@ -229,13 +229,13 @@ And with our swords upon a pile of wood
 Let's hew his limbs till they be clean consumed.
 [Exit Titus' sons with Alarbus.]
 
-TAMORA, [rising and speaking aside to her sons]
+<b>TAMORA</b>, [rising and speaking aside to her sons]
 O cruel, irreligious piety!
 
-CHIRON, [aside to Tamora and Demetrius]
+<b>CHIRON</b>, [aside to Tamora and Demetrius]
 Was never Scythia half so barbarous!
 
-DEMETRIUS, [aside to Tamora and Chiron]
+<b>DEMETRIUS</b>, [aside to Tamora and Chiron]
 Oppose not Scythia to ambitious Rome!
 Alarbus goes to rest and we survive
 To tremble under Titus' threat'ning look.
@@ -423,12 +423,12 @@ Rome shall record.--And when I do forget
 The least of these unspeakable deserts,
 Romans, forget your fealty to me.
 
-TITUS, [to Tamora]
+<b>TITUS</b>, [to Tamora]
 Now, madam, are you prisoner to an emperor,
 To him that for your honor and your state
 Will use you nobly, and your followers.
 
-SATURNINUS, [aside]
+<b>SATURNINUS</b>, [aside]
 A goodly lady, trust me, of the hue
 That I would choose, were I to choose anew.--
 Clear up, fair queen, that cloudy countenance.
@@ -489,7 +489,7 @@ And with my sword I'll keep this door safe.
 [Bassianus, Lavinia, Marcus, Lucius,
 Quintus, and Martius exit.]
 
-TITUS, [to Saturninus]
+<b>TITUS</b>, [to Saturninus]
 Follow, my lord, and I'll soon bring her back.
 [Saturninus, Tamora, Demetrius, Chiron,
 Aaron, and Guards exit.]
@@ -749,7 +749,7 @@ Prince Bassianus, leave to plead my deeds.
 Rome and the righteous heavens be my judge
 How I have loved and honored Saturnine.	[He kneels.]
 
-TAMORA, [to Saturninus]
+<b>TAMORA</b>, [to Saturninus]
 My worthy lord, if ever Tamora
 Were gracious in those princely eyes of thine,
 Then hear me speak indifferently for all,
@@ -791,7 +791,7 @@ That dies in tempest of thy angry frown.
 SATURNINUS
 Rise, Titus, rise. My empress hath prevailed.
 
-TITUS, [rising]
+<b>TITUS</b>, [rising]
 I thank your Majesty and her, my lord.
 These words, these looks, infuse new life in me.
 
@@ -848,11 +848,11 @@ Be it so, Titus, and gramercy too.
 [Sound trumpets. All but Aaron exit.]
 
 
-ACT 2
-=====
+<b>ACT 2</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 
 AARON
 Now climbeth Tamora Olympus' top,
@@ -899,10 +899,10 @@ To serve and to deserve my mistress' grace,
 And that my sword upon thee shall approve
 And plead my passions for Lavinia's love.
 
-AARON, [aside]
+<b>AARON</b>, [aside]
 Clubs, clubs! These lovers will not keep the peace.
 
-DEMETRIUS, [to Chiron]
+<b>DEMETRIUS</b>, [to Chiron]
 Why, boy, although our mother, unadvised,
 Gave you a dancing rapier by your side,
 Are you so desperate grown to threat your friends?
@@ -979,7 +979,7 @@ Of a cut loaf to steal a shive, we know.
 Though Bassianus be the Emperor's brother,
 Better than he have worn Vulcan's badge.
 
-AARON, [aside]
+<b>AARON</b>, [aside]
 Ay, and as good as Saturninus may.
 
 DEMETRIUS
@@ -1048,8 +1048,8 @@ To cool this heat, a charm to calm these fits,
 Per Stygia, per manes vehor.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Titus Andronicus and his three sons, and
 Marcus, making a noise with hounds and horns.]
 
@@ -1100,13 +1100,13 @@ TITUS
 And I have horse will follow where the game
 Makes way and runs like swallows o'er the plain.
 
-DEMETRIUS, [aside to Chiron]
+<b>DEMETRIUS</b>, [aside to Chiron]
 Chiron, we hunt not, we, with horse nor hound,
 But hope to pluck a dainty doe to ground.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Aaron, alone, carrying a bag of gold.]
 
 
@@ -1267,10 +1267,10 @@ This vengeance on me had they executed.
 Revenge it as you love your mother's life,
 Or be you not henceforth called my children.
 
-DEMETRIUS, [drawing his dagger]
+<b>DEMETRIUS</b>, [drawing his dagger]
 This is a witness that I am thy son.
 
-CHIRON, [drawing his dagger]
+<b>CHIRON</b>, [drawing his dagger]
 And this for me, struck home to show my strength.
 [They stab Bassianus.]
 
@@ -1313,7 +1313,7 @@ I will not hear her speak. Away with her.
 LAVINIA
 Sweet lords, entreat her hear me but a word.
 
-DEMETRIUS, [to Tamora]
+<b>DEMETRIUS</b>, [to Tamora]
 Listen, fair madam. Let it be your glory
 To see her tears, but be your heart to them
 As unrelenting flint to drops of rain.
@@ -1377,10 +1377,10 @@ TAMORA
 So should I rob my sweet sons of their fee.
 No, let them satisfy their lust on thee.
 
-DEMETRIUS, [to Lavinia]
+<b>DEMETRIUS</b>, [to Lavinia]
 Away, for thou hast stayed us here too long!
 
-LAVINIA, [to Tamora]
+<b>LAVINIA</b>, [to Tamora]
 No grace, no womanhood? Ah, beastly creature,
 The blot and enemy to our general name,
 Confusion fall--
@@ -1429,7 +1429,7 @@ MARTIUS
 O, brother, with the dismal'st object hurt
 That ever eye with sight made heart lament!
 
-AARON, [aside]
+<b>AARON</b>, [aside]
 Now will I fetch the King to find them here,
 That he thereby may have a likely guess
 How these were they that made away his brother.
@@ -1477,7 +1477,7 @@ If fear hath made thee faint as me it hath--
 Out of this fell devouring receptacle,
 As hateful as Cocytus' misty mouth.
 
-QUINTUS, [reaching into the pit]
+<b>QUINTUS</b>, [reaching into the pit]
 Reach me thy hand, that I may help thee out,
 Or, wanting strength to do thee so much good,
 I may be plucked into the swallowing womb
@@ -1558,7 +1558,7 @@ That should have murdered Bassianus here.
 AARON
 My gracious lord, here is the bag of gold.
 
-SATURNINUS, [to Titus]
+<b>SATURNINUS</b>, [to Titus]
 Two of thy whelps, fell curs of bloody kind,
 Have here bereft my brother of his life.--
 Sirs, drag them from the pit unto the prison.
@@ -1571,7 +1571,7 @@ How easily murder is discovered.
 [Attendants pull Quintus, Martius, and
 the body of Bassianus from the pit.]
 
-TITUS, [kneeling]
+<b>TITUS</b>, [kneeling]
 High Emperor, upon my feeble knee
 I beg this boon with tears not lightly shed,
 That this fell fault of my accursed sons--
@@ -1601,13 +1601,13 @@ TAMORA
 Andronicus, I will entreat the King.
 Fear not thy sons; they shall do well enough.
 
-TITUS, [rising]
+<b>TITUS</b>, [rising]
 Come, Lucius, come. Stay not to talk with them.
 [They exit, with Attendants leading Martius and
 Quintus and bearing the body of Bassianus.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter the Empress' sons, Demetrius and Chiron,
 with Lavinia, her hands cut off, and her tongue cut out,
 and ravished.]
@@ -1624,7 +1624,7 @@ An if thy stumps will let thee play the scribe.
 DEMETRIUS
 See how with signs and tokens she can scrowl.
 
-CHIRON, [to Lavinia]
+<b>CHIRON</b>, [to Lavinia]
 Go home. Call for sweet water; wash thy hands.
 
 DEMETRIUS
@@ -1692,11 +1692,11 @@ O, could our mourning ease thy misery!
 [They exit.]
 
 
-ACT 3
-=====
+<b>ACT 3</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter the Judges and Senators with Titus' two sons
 (Quintus and Martius) bound, passing on the stage to
 the place of execution, and Titus going before, pleading.]
@@ -1771,7 +1771,7 @@ To rescue my two brothers from their death,
 For which attempt the Judges have pronounced
 My everlasting doom of banishment.
 
-TITUS, [rising]
+<b>TITUS</b>, [rising]
 O happy man, they have befriended thee!
 Why, foolish Lucius, dost thou not perceive
 That Rome is but a wilderness of tigers?
@@ -1976,7 +1976,7 @@ TITUS
 Come hither, Aaron. I'll deceive them both.
 Lend me thy hand, and I will give thee mine.
 
-AARON, [aside]
+<b>AARON</b>, [aside]
 If that be called deceit, I will be honest
 And never whilst I live deceive men so.
 But I'll deceive you in another sort,
@@ -2140,8 +2140,8 @@ Now will I to the Goths and raise a power
 To be revenged on Rome and Saturnine.
 [Lucius exits.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [A banquet. Enter Titus Andronicus, Marcus, Lavinia,
 and the boy Young Lucius, with Servants.]
 
@@ -2197,7 +2197,7 @@ Nor wink, nor nod, nor kneel, nor make a sign,
 But I of these will wrest an alphabet
 And by still practice learn to know thy meaning.
 
-YOUNG LUCIUS, [weeping]
+<b>YOUNG LUCIUS</b>, [weeping]
 Good grandsire, leave these bitter deep laments.
 Make my aunt merry with some pleasing tale.
 
@@ -2237,7 +2237,7 @@ MARCUS
 Pardon me, sir. It was a black, ill-favored fly,
 Like to the Empress' Moor. Therefore I killed him.
 
-TITUS  O, O, O!
+<b>TITUS  O</b>, O, O!
 Then pardon me for reprehending thee,
 For thou hast done a charitable deed.
 Give me thy knife. I will insult on him,
@@ -2262,11 +2262,11 @@ And thou shalt read when mine begin to dazzle.
 [They exit.]
 
 
-ACT 4
-=====
+<b>ACT 4</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Lucius' son and Lavinia running after him, and
 the boy flies from her with his books under his arm.
 Enter Titus and Marcus.]
@@ -2472,8 +2472,8 @@ But yet so just that he will not revenge.
 Revenge the heavens for old Andronicus!
 [He exits.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Aaron, Chiron, and Demetrius at one door, and at
 the other door young Lucius and another, with a bundle
 of weapons and verses writ upon them.]
@@ -2494,7 +2494,7 @@ I greet your Honors from Andronicus--
 DEMETRIUS
 Gramercy, lovely Lucius. What's the news?
 
-YOUNG LUCIUS, [aside]
+<b>YOUNG LUCIUS</b>, [aside]
 That you are both deciphered, that's the news,
 For villains marked with rape.--May it please you,
 My grandsire, well advised, hath sent by me
@@ -2558,7 +2558,7 @@ DEMETRIUS
 Come, let us go and pray to all the gods
 For our beloved mother in her pains.
 
-AARON, [aside]
+<b>AARON</b>, [aside]
 Pray to the devils; the gods have given us over.
 [Trumpets sound offstage.]
 
@@ -2645,7 +2645,7 @@ DEMETRIUS
 I'll broach the tadpole on my rapier's point.
 Nurse, give it me. My sword shall soon dispatch it.
 
-AARON, [taking the baby]
+<b>AARON</b>, [taking the baby]
 Sooner this sword shall plow thy bowels up!
 Stay, murderous villains, will you kill your brother?
 Now, by the burning tapers of the sky
@@ -2715,7 +2715,7 @@ Then sit we down, and let us all consult.
 My son and I will have the wind of you.
 Keep there. Now talk at pleasure of your safety.
 
-DEMETRIUS, [to the Nurse]
+<b>DEMETRIUS</b>, [to the Nurse]
 How many women saw this child of his?
 
 AARON
@@ -2785,8 +2785,8 @@ And cabin in a cave, and bring you up
 To be a warrior and command a camp.
 [He exits with the baby.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Titus, old Marcus, his son Publius, young
 Lucius, and other gentlemen (Caius and Sempronius)
 with bows, and Titus bears the arrows with letters on
@@ -2928,7 +2928,7 @@ my pigeons to the tribunal plebs, to take up a matter
 of brawl betwixt my uncle and one of the Emperal's
 men.
 
-MARCUS, [to Titus]  Why, sir, that is as fit as can be to
+<b>MARCUS</b>, [to Titus]  Why, sir, that is as fit as can be to
 serve for your oration; and let him deliver the pigeons
 to the Emperor from you.
 
@@ -2972,8 +2972,8 @@ COUNTRY FELLOW  God be with you, sir. I will.
 TITUS  Come, Marcus, let us go.--Publius, follow me.
 [They exit.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Emperor Saturninus and Empress Tamora
 and her two sons Chiron and Demetrius, with
 Attendants. The Emperor brings the arrows in his
@@ -3145,11 +3145,11 @@ Then go successantly, and plead to him.
 [They exit.]
 
 
-ACT 5
-=====
+<b>ACT 5</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Flourish. Enter Lucius with an army of Goths, with
 Drums and Soldiers.]
 
@@ -3397,8 +3397,8 @@ Unto my father and my uncle Marcus,
 And we will come. March away.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Tamora and her two sons, disguised.]
 
 
@@ -3547,7 +3547,7 @@ TAMORA
 Show me a thousand that hath done thee wrong,
 And I will be revenged on them all.
 
-TITUS, [to Demetrius]
+<b>TITUS</b>, [to Demetrius]
 Look round about the wicked streets of Rome,
 And when thou findst a man that's like thyself,
 Good Murder, stab him; he's a murderer.
@@ -3576,7 +3576,7 @@ And at thy mercy shall they stoop and kneel,
 And on them shalt thou ease thy angry heart.
 What says Andronicus to this device?
 
-TITUS, [calling]
+<b>TITUS</b>, [calling]
 Marcus, my brother, 'tis sad Titus calls.
 
 [Enter Marcus.]
@@ -3603,19 +3603,19 @@ Nay, nay, let Rape and Murder stay with me,
 Or else I'll call my brother back again
 And cleave to no revenge but Lucius.
 
-TAMORA, [aside to Chiron and Demetrius]
+<b>TAMORA</b>, [aside to Chiron and Demetrius]
 What say you, boys? Will you abide with him
 Whiles I go tell my lord the Emperor
 How I have governed our determined jest?
 Yield to his humor, smooth and speak him fair,
 And tarry with him till I turn again.
 
-TITUS, [aside]
+<b>TITUS</b>, [aside]
 I knew them all, though they supposed me mad,
 And will o'erreach them in their own devices--
 A pair of cursed hellhounds and their dam!
 
-DEMETRIUS, [aside to Tamora]
+<b>DEMETRIUS</b>, [aside to Tamora]
 Madam, depart at pleasure. Leave us here.
 
 TAMORA
@@ -3710,8 +3710,8 @@ So. Now bring them in, for I'll play the cook
 And see them ready against their mother comes.
 [They exit, carrying the dead bodies.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Lucius, Marcus, and the Goths, with Aaron,
 Guards, and an Attendant carrying the baby.]
 
@@ -3941,7 +3941,7 @@ The common voice do cry it shall be so.
 ROMANS
 Lucius, all hail, Rome's royal emperor!
 
-MARCUS, [to Attendants]
+<b>MARCUS</b>, [to Attendants]
 Go, go into old Titus' sorrowful house,
 And hither hale that misbelieving Moor
 To be adjudged some direful slaught'ring death
@@ -3971,7 +3971,7 @@ Thy brother Marcus tenders on thy lips.
 O, were the sum of these that I should pay
 Countless and infinite, yet would I pay them.
 
-LUCIUS, [to Young Lucius]
+<b>LUCIUS</b>, [to Young Lucius]
 Come hither, boy. Come, come, and learn of us
 To melt in showers. Thy grandsire loved thee well.
 Many a time he danced thee on his knee,

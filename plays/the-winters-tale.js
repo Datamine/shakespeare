@@ -7,27 +7,27 @@ https://shakespeare.folger.edu/shakespeares-works/the-winters-tale/
 Created on Apr 12, 2016, from FDT version 0.9.2.2
 
 Characters in the Play
-======================
-LEONTES, King of Sicilia
-HERMIONE, Queen of Sicilia
-MAMILLIUS, their son
-PERDITA, their daughter
-POLIXENES, King of Bohemia
-FLORIZELL, his son
-CAMILLO, a courtier, friend to Leontes and then to Polixenes
-ANTIGONUS, a Sicilian courtier
-PAULINA, his wife and lady-in-waiting to Hermione
+<hr>
+<b>LEONTES</b>, King of Sicilia
+<b>HERMIONE</b>, Queen of Sicilia
+<b>MAMILLIUS</b>, their son
+<b>PERDITA</b>, their daughter
+<b>POLIXENES</b>, King of Bohemia
+<b>FLORIZELL</b>, his son
+<b>CAMILLO</b>, a courtier, friend to Leontes and then to Polixenes
+<b>ANTIGONUS</b>, a Sicilian courtier
+<b>PAULINA</b>, his wife and lady-in-waiting to Hermione
 Courtiers in Sicilia:
   CLEOMENES
   DION
-EMILIA, a lady-in-waiting to Hermione
-SHEPHERD, foster father to Perdita
+<b>EMILIA</b>, a lady-in-waiting to Hermione
+<b>SHEPHERD</b>, foster father to Perdita
 SHEPHERD'S SON
-AUTOLYCUS, former servant to Florizell, now a rogue
-ARCHIDAMUS, a Bohemian courtier
-TIME, as Chorus
+<b>AUTOLYCUS</b>, former servant to Florizell, now a rogue
+<b>ARCHIDAMUS</b>, a Bohemian courtier
+<b>TIME</b>, as Chorus
 TWO LADIES attending on Hermione
-LORDS, SERVANTS, and GENTLEMEN attending on Leontes
+<b>LORDS</b>, SERVANTS, and GENTLEMEN attending on Leontes
 An OFFICER of the court
 A MARINER
 A JAILER
@@ -39,11 +39,11 @@ SHEPHERDS and SHEPHERDESSES
 Twelve COUNTRYMEN disguised as satyrs
 
 
-ACT 1
-=====
+<b>ACT 1</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Camillo and Archidamus.]
 
 
@@ -109,8 +109,8 @@ ARCHIDAMUS  If the King had no son, they would desire
 to live on crutches till he had one.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Leontes, Hermione, Mamillius, Polixenes, Camillo,
 and Attendants.]
 
@@ -296,7 +296,7 @@ The one forever earned a royal husband,
 Th' other for some while a friend.
 [She gives Polixenes her hand.]
 
-LEONTES, [aside]  Too hot, too hot!
+<b>LEONTES</b>, [aside]  Too hot, too hot!
 To mingle friendship far is mingling bloods.
 I have tremor cordis on me. My heart dances,
 But not for joy, not joy. This entertainment
@@ -443,7 +443,7 @@ I am like you, they say.
 LEONTES  Why, that's some comfort.--
 What, Camillo there?
 
-CAMILLO, [coming forward]  Ay, my good lord.
+<b>CAMILLO</b>, [coming forward]  Ay, my good lord.
 
 LEONTES
 Go play, Mamillius. Thou 'rt an honest man.
@@ -673,7 +673,7 @@ Here comes Bohemia.
 [Enter Polixenes.]
 
 
-POLIXENES, [aside]  This is strange. Methinks
+<b>POLIXENES</b>, [aside]  This is strange. Methinks
 My favor here begins to warp. Not speak?--
 Good day, Camillo.
 
@@ -764,7 +764,7 @@ As he had seen 't or been an instrument
 To vice you to 't, that you have touched his queen
 Forbiddenly.
 
-POLIXENES  O, then my best blood turn
+<b>POLIXENES  O</b>, then my best blood turn
 To an infected jelly, and my name
 Be yoked with his that did betray the Best!
 Turn then my freshest reputation to
@@ -827,11 +827,11 @@ To take the urgent hour. Come, sir, away.
 [They exit.]
 
 
-ACT 2
-=====
+<b>ACT 2</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Hermione, Mamillius, and Ladies.]
 
 
@@ -954,7 +954,7 @@ Have too much blood in him.
 
 HERMIONE  What is this? Sport?
 
-LEONTES, [to the Ladies]
+<b>LEONTES</b>, [to the Ladies]
 Bear the boy hence. He shall not come about her.
 Away with him, and let her sport herself
 With that she's big with, [(to Hermione)] for 'tis
@@ -1154,16 +1154,16 @@ Be left her to perform. Come, follow us.
 We are to speak in public, for this business
 Will raise us all.
 
-ANTIGONUS, [aside]  To laughter, as I take it,
+<b>ANTIGONUS</b>, [aside]  To laughter, as I take it,
 If the good truth were known.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Paulina, a Gentleman, and Paulina's Attendants.]
 
 
-PAULINA, [to Gentleman]
+<b>PAULINA</b>, [to Gentleman]
 The keeper of the prison, call to him.
 Let him have knowledge who I am.
 [Gentleman exits.]
@@ -1260,7 +1260,7 @@ EMILIA  Now be you blest for it!
 I'll to the Queen. Please you come something
 nearer.
 
-JAILER, [to Paulina]
+<b>JAILER</b>, [to Paulina]
 Madam, if 't please the Queen to send the babe,
 I know not what I shall incur to pass it,
 Having no warrant.
@@ -1279,8 +1279,8 @@ Do not you fear. Upon mine honor, I
 Will stand betwixt you and danger.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Leontes.]
 
 
@@ -1420,7 +1420,7 @@ Thou dotard; thou art woman-tired, unroosted
 By thy Dame Partlet here. Take up the bastard,
 Take 't up, I say. Give 't to thy crone.
 
-PAULINA, [to Antigonus]  Forever
+<b>PAULINA</b>, [to Antigonus]  Forever
 Unvenerable be thy hands if thou
 Tak'st up the Princess by that forced baseness
 Which he has put upon 't.
@@ -1496,12 +1496,12 @@ savors
 Of tyranny, and will ignoble make you,
 Yea, scandalous to the world.
 
-LEONTES, [to Antigonus]  On your allegiance,
+<b>LEONTES</b>, [to Antigonus]  On your allegiance,
 Out of the chamber with her! Were I a tyrant,
 Where were her life? She durst not call me so
 If she did know me one. Away with her!
 
-PAULINA, [to Lords]
+<b>PAULINA</b>, [to Lords]
 I pray you do not push me; I'll be gone.--
 Look to your babe, my lord; 'tis yours. Jove send her
 A better guiding spirit.--What needs these hands?
@@ -1509,7 +1509,7 @@ You that are thus so tender o'er his follies
 Will never do him good, not one of you.
 So, so. Farewell, we are gone.	[She exits.]
 
-LEONTES, [to Antigonus]
+<b>LEONTES</b>, [to Antigonus]
 Thou, traitor, hast set on thy wife to this.
 My child? Away with 't! Even thou, that hast
 A heart so tender o'er it, take it hence,
@@ -1565,7 +1565,7 @@ LEONTES
 It shall be possible. Swear by this sword
 Thou wilt perform my bidding.
 
-ANTIGONUS, [his hand on the hilt]  I will, my lord.
+<b>ANTIGONUS</b>, [his hand on the hilt]  I will, my lord.
 
 LEONTES
 Mark, and perform it, seest thou; for the fail
@@ -1608,7 +1608,7 @@ An hour since. Cleomenes and Dion,
 Being well arrived from Delphos, are both landed,
 Hasting to th' court.
 
-LORD, [to Leontes]  So please you, sir, their speed
+<b>LORD</b>, [to Leontes]  So please you, sir, their speed
 Hath been beyond account.
 
 LEONTES  Twenty-three days
@@ -1624,11 +1624,11 @@ And think upon my bidding.
 [They exit.]
 
 
-ACT 3
-=====
+<b>ACT 3</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Cleomenes and Dion.]
 
 
@@ -1667,8 +1667,8 @@ Even then will rush to knowledge. Go. Fresh horses;
 And gracious be the issue.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Leontes, Lords, and Officers.]
 
 
@@ -1830,7 +1830,7 @@ Of pity, not revenge.
 [Enter Cleomenes, Dion, with Officers.]
 
 
-OFFICER, [presenting a sword]
+<b>OFFICER</b>, [presenting a sword]
 You here shall swear upon this sword of justice
 That you, Cleomenes and Dion, have
 Been both at Delphos, and from thence have
@@ -1840,7 +1840,7 @@ Of great Apollo's priest, and that since then
 You have not dared to break the holy seal
 Nor read the secrets in 't.
 
-CLEOMENES, DION  All this we swear.
+<b>CLEOMENES</b>, DION  All this we swear.
 
 LEONTES  Break up the seals and read.
 
@@ -1929,7 +1929,7 @@ Break too!
 
 LORD  What fit is this, good lady?
 
-PAULINA, [to Leontes]
+<b>PAULINA</b>, [to Leontes]
 What studied torments, tyrant, hast for me?
 What wheels, racks, fires? What flaying? Boiling
 In leads or oils? What old or newer torture
@@ -1980,7 +1980,7 @@ LEONTES  Go on, go on.
 Thou canst not speak too much. I have deserved
 All tongues to talk their bitt'rest.
 
-LORD, [to Paulina]  Say no more.
+<b>LORD</b>, [to Paulina]  Say no more.
 Howe'er the business goes, you have made fault
 I' th' boldness of your speech.
 
@@ -2015,8 +2015,8 @@ I daily vow to use it. Come, and lead me
 To these sorrows.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Antigonus carrying the babe, and a Mariner.]
 
 
@@ -2201,11 +2201,11 @@ deeds on 't.
 [They exit.]
 
 
-ACT 4
-=====
+<b>ACT 4</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Time, the Chorus.]
 
 
@@ -2245,8 +2245,8 @@ If never, yet that Time himself doth say
 He wishes earnestly you never may.
 [He exits.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Polixenes and Camillo.]
 
 
@@ -2317,8 +2317,8 @@ POLIXENES  My best Camillo. We must disguise
 ourselves.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Autolycus singing.]
 
 
@@ -2368,7 +2368,7 @@ SHEPHERD'S SON  Let me see, every 'leven wether tods,
 every tod yields pound and odd shilling; fifteen
 hundred shorn, what comes the wool to?
 
-AUTOLYCUS, [aside]  If the springe hold, the cock's
+<b>AUTOLYCUS</b>, [aside]  If the springe hold, the cock's
 mine.	[He lies down.]
 
 SHEPHERD'S SON  I cannot do 't without counters. Let
@@ -2387,12 +2387,12 @@ nutmegs, seven; a race or two of ginger, but that I
 may beg; four pound of prunes, and as many of
 raisins o' th' sun.
 
-AUTOLYCUS, [writhing as if in pain]  O, that ever I was
+<b>AUTOLYCUS</b>, [writhing as if in pain]  O, that ever I was
 born!
 
 SHEPHERD'S SON  I' th' name of me!
 
-AUTOLYCUS  O, help me, help me! Pluck but off these
+<b>AUTOLYCUS  O</b>, help me, help me! Pluck but off these
 rags, and then death, death.
 
 SHEPHERD'S SON  Alack, poor soul, thou hast need of
@@ -2419,16 +2419,16 @@ horseman's coat, it hath seen very hot service. Lend
 me thy hand; I'll help thee. Come, lend me thy
 hand.
 
-AUTOLYCUS  O, good sir, tenderly, O!
+<b>AUTOLYCUS  O</b>, good sir, tenderly, O!
 
 SHEPHERD'S SON  Alas, poor soul.
 
-AUTOLYCUS  O, good sir, softly, good sir. I fear, sir, my
+<b>AUTOLYCUS  O</b>, good sir, softly, good sir. I fear, sir, my
 shoulder blade is out.
 
 SHEPHERD'S SON  How now? Canst stand?
 
-AUTOLYCUS, [stealing the Shepherd's Son's purse]  Softly,
+<b>AUTOLYCUS</b>, [stealing the Shepherd's Son's purse]  Softly,
 dear sir, good sir, softly. You ha' done me a charitable
 office.
 
@@ -2502,8 +2502,8 @@ name put in the book of virtue.
 	   Your sad tires in a mile-a.
 [He exits.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Florizell and Perdita.]
 
 
@@ -2552,7 +2552,7 @@ Nor in a way so chaste, since my desires
 Run not before mine honor, nor my lusts
 Burn hotter than my faith.
 
-PERDITA  O, but sir,
+<b>PERDITA  O</b>, but sir,
 Your resolution cannot hold when 'tis
 Opposed, as it must be, by th' power of the King.
 One of these two must be necessities,
@@ -2603,7 +2603,7 @@ That which you are, mistress o' th' feast. Come on,
 And bid us welcome to your sheep-shearing,
 As your good flock shall prosper.
 
-PERDITA, [to Polixenes]  Sir, welcome.
+<b>PERDITA</b>, [to Polixenes]  Sir, welcome.
 It is my father's will I should take on me
 The hostess-ship o' th' day. [To Camillo.] You're
 welcome, sir.--
@@ -2728,7 +2728,7 @@ That never mean to part.
 
 PERDITA  I'll swear for 'em.
 
-POLIXENES, [to Camillo]
+<b>POLIXENES</b>, [to Camillo]
 This is the prettiest lowborn lass that ever
 Ran on the greensward. Nothing she does or seems
 But smacks of something greater than herself,
@@ -2777,7 +2777,7 @@ Which he not dreams of.
 [Enter a Servant.]
 
 
-SERVANT  O, master, if you did but hear the peddler at
+<b>SERVANT  O</b>, master, if you did but hear the peddler at
 the door, you would never dance again after a tabor
 and pipe; no, the bagpipe could not move you. He
 sings several tunes faster than you'll tell money. He
@@ -2903,7 +2903,7 @@ AUTOLYCUS  Here's the midwife's name to 't, one Mistress
 Taleporter, and five or six honest wives that
 were present. Why should I carry lies abroad?
 
-MOPSA, [to Shepherd's Son]  Pray you now, buy it.
+<b>MOPSA</b>, [to Shepherd's Son]  Pray you now, buy it.
 
 SHEPHERD'S SON, [to Autolycus]  Come on, lay it by, and
 let's first see more ballads. We'll buy the other
@@ -2951,7 +2951,7 @@ AUTOLYCUS	Get you hence, for I must go
 
 DORCAS	   Whither?
 
-MOPSA     O, whither?
+<b>MOPSA     O</b>, whither?
 
 DORCAS     Whither?
 
@@ -3003,7 +3003,7 @@ Song.
 [Enter a Servant.]
 
 
-SERVANT, [to Shepherd]   Master, there is three carters,
+<b>SERVANT</b>, [to Shepherd]   Master, there is three carters,
 three shepherds, three neatherds, three swineherds,
 that have made themselves all men of hair.
 They call themselves saultiers, and they have a
@@ -3035,7 +3035,7 @@ SERVANT  Why, they stay at door, sir.
 [Here a Dance of twelve herdsmen, dressed as Satyrs.]
 [Herdsmen, Musicians, and Servants exit.]
 
-POLIXENES, [to Shepherd]
+<b>POLIXENES</b>, [to Shepherd]
 O father, you'll know more of that hereafter.
 [Aside to Camillo.] Is it not too far gone? 'Tis time to
 part them.
@@ -3106,7 +3106,7 @@ And, friends unknown, you shall bear witness to 't:
 I give my daughter to him and will make
 Her portion equal his.
 
-FLORIZELL  O, that must be
+<b>FLORIZELL  O</b>, that must be
 I' th' virtue of your daughter. One being dead,
 I shall have more than you can dream of yet,
 Enough then for your wonder. But come on,
@@ -3115,7 +3115,7 @@ Contract us fore these witnesses.
 SHEPHERD  Come, your hand--
 And daughter, yours.
 
-POLIXENES, [To Florizell]  Soft, swain, awhile, beseech
+<b>POLIXENES</b>, [To Florizell]  Soft, swain, awhile, beseech
 you.
 Have you a father?
 
@@ -3169,7 +3169,7 @@ At knowing of thy choice.
 FLORIZELL  Come, come, he must not.
 Mark our contract.
 
-POLIXENES, [removing his disguise]  Mark your divorce,
+<b>POLIXENES</b>, [removing his disguise]  Mark your divorce,
 young sir,
 Whom son I dare not call. Thou art too base
 To be acknowledged. Thou a scepter's heir
@@ -3180,7 +3180,7 @@ piece
 Of excellent witchcraft, whom of force must know
 The royal fool thou cop'st with--
 
-SHEPHERD  O, my heart!
+<b>SHEPHERD  O</b>, my heart!
 
 POLIXENES
 I'll have thy beauty scratched with briers and made
@@ -3214,7 +3214,7 @@ Of your own state take care. This dream of mine--
 Being now awake, I'll queen it no inch farther,
 But milk my ewes and weep.
 
-CAMILLO, [to Shepherd]  Why, how now, father?
+<b>CAMILLO</b>, [to Shepherd]  Why, how now, father?
 Speak ere thou diest.
 
 SHEPHERD  I cannot speak, nor think,
@@ -3233,7 +3233,7 @@ To mingle faith with him!--Undone, undone!
 If I might die within this hour, I have lived
 To die when I desire.	[He exits.]
 
-FLORIZELL, [to Perdita]  Why look you so upon me?
+<b>FLORIZELL</b>, [to Perdita]  Why look you so upon me?
 I am but sorry, not afeard; delayed,
 But nothing altered. What I was, I am,
 More straining on for plucking back, not following
@@ -3250,9 +3250,9 @@ Come not before him.
 FLORIZELL  I not purpose it.
 I think Camillo?
 
-CAMILLO, [removing his disguise]  Even he, my lord.
+<b>CAMILLO</b>, [removing his disguise]  Even he, my lord.
 
-PERDITA, [to Florizell]
+<b>PERDITA</b>, [to Florizell]
 How often have I told you 'twould be thus?
 How often said my dignity would last
 But till 'twere known?
@@ -3311,7 +3311,7 @@ Purchase the sight again of dear Sicilia
 And that unhappy king, my master, whom
 I so much thirst to see.
 
-FLORIZELL, [coming forward]  Now, good Camillo,
+<b>FLORIZELL</b>, [coming forward]  Now, good Camillo,
 I am so fraught with curious business that
 I leave out ceremony.
 
@@ -3463,7 +3463,7 @@ King's son, and scared my choughs from the chaff, I
 had not left a purse alive in the whole army.
 [Camillo, Florizell, and Perdita come forward.]
 
-CAMILLO, [to Florizell]
+<b>CAMILLO</b>, [to Florizell]
 Nay, but my letters, by this means being there
 So soon as you arrive, shall clear that doubt.
 
@@ -3476,11 +3476,11 @@ Shall satisfy your father.
 PERDITA  Happy be you!
 All that you speak shows fair.
 
-CAMILLO, [noticing Autolycus]  Who have we here?
+<b>CAMILLO</b>, [noticing Autolycus]  Who have we here?
 We'll make an instrument of this, omit
 Nothing may give us aid.
 
-AUTOLYCUS, [aside]
+<b>AUTOLYCUS</b>, [aside]
 If they have overheard me now, why, hanging.
 
 CAMILLO  How now, good fellow? Why shak'st thou so?
@@ -3541,7 +3541,7 @@ FLORIZELL
 O Perdita, what have we twain forgot?
 Pray you, a word.	[They talk aside.]
 
-CAMILLO, [aside]
+<b>CAMILLO</b>, [aside]
 What I do next shall be to tell the King
 Of this escape, and whither they are bound;
 Wherein my hope is I shall so prevail
@@ -3606,17 +3606,17 @@ off you could have been to him, and then your
 blood had been the dearer by I know how much an
 ounce.
 
-AUTOLYCUS, [aside]  Very wisely, puppies.
+<b>AUTOLYCUS</b>, [aside]  Very wisely, puppies.
 
 SHEPHERD  Well, let us to the King. There is that in this
 fardel will make him scratch his beard.
 
-AUTOLYCUS, [aside]  I know not what impediment this
+<b>AUTOLYCUS</b>, [aside]  I know not what impediment this
 complaint may be to the flight of my master.
 
 SHEPHERD'S SON  Pray heartily he be at' palace.
 
-AUTOLYCUS, [aside]  Though I am not naturally honest,
+<b>AUTOLYCUS</b>, [aside]  Though I am not naturally honest,
 I am so sometimes by chance. Let me pocket up my
 peddler's excrement. [(He removes his false beard.)]
 How now, rustics, whither are you bound?
@@ -3662,7 +3662,7 @@ SHEPHERD  I know not, an 't like you.
 SHEPHERD'S SON, [aside to Shepherd]  Advocate's the
 court word for a pheasant. Say you have none.
 
-SHEPHERD, [to Autolycus]  None, sir. I have no pheasant,
+<b>SHEPHERD</b>, [to Autolycus]  None, sir. I have no pheasant,
 cock nor hen.
 
 AUTOLYCUS
@@ -3746,7 +3746,7 @@ led by the nose with gold. Show the inside of your
 purse to the outside of his hand, and no more ado.
 Remember: "stoned," and "flayed alive."
 
-SHEPHERD, [to Autolycus]  An 't please you, sir, to
+<b>SHEPHERD</b>, [to Autolycus]  An 't please you, sir, to
 undertake the business for us, here is that gold I
 have. I'll make it as much more, and leave this
 young man in pawn till I bring it you.
@@ -3761,7 +3761,7 @@ him money.] Are you a party in this business?
 SHEPHERD'S SON  In some sort, sir; but though my case
 be a pitiful one, I hope I shall not be flayed out of it.
 
-AUTOLYCUS  O, that's the case of the shepherd's son!
+<b>AUTOLYCUS  O</b>, that's the case of the shepherd's son!
 Hang him, he'll be made an example.
 
 SHEPHERD'S SON, [to Shepherd]  Comfort, good comfort.
@@ -3797,11 +3797,11 @@ present them. There may be matter in it.
 [He exits.]
 
 
-ACT 5
-=====
+<b>ACT 5</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Leontes, Cleomenes, Dion, Paulina, and
 Servants.]
 
@@ -4147,7 +4147,7 @@ Where you were tied in duty, and as sorry
 Your choice is not so rich in worth as beauty,
 That you might well enjoy her.
 
-FLORIZELL, [to Perdita]  Dear, look up.
+<b>FLORIZELL</b>, [to Perdita]  Dear, look up.
 Though Fortune, visible an enemy,
 Should chase us with my father, power no jot
 Hath she to change our loves.--Beseech you, sir,
@@ -4176,8 +4176,8 @@ I now go toward him. Therefore follow me,
 And mark what way I make. Come, good my lord.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Autolycus and a Gentleman.]
 
 
@@ -4418,8 +4418,8 @@ the Queen's picture. Come, follow us. We'll be thy
 good masters.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Leontes, Polixenes, Florizell, Perdita, Camillo,
 Paulina, and Lords.]
 
@@ -4465,7 +4465,7 @@ As infancy and grace.--But yet, Paulina,
 Hermione was not so much wrinkled, nothing
 So aged as this seems.
 
-POLIXENES  O, not by much!
+<b>POLIXENES  O</b>, not by much!
 
 PAULINA
 So much the more our carver's excellence,
@@ -4491,11 +4491,11 @@ Lady,
 Dear queen, that ended when I but began,
 Give me that hand of yours to kiss.
 
-PAULINA  O, patience!
+<b>PAULINA  O</b>, patience!
 The statue is but newly fixed; the color's
 Not dry.
 
-CAMILLO, [to Leontes, who weeps]
+<b>CAMILLO</b>, [to Leontes, who weeps]
 My lord, your sorrow was too sore laid on,
 Which sixteen winters cannot blow away,
 So many summers dry. Scarce any joy
@@ -4561,7 +4561,7 @@ With oily painting. Shall I draw the curtain?
 LEONTES
 No, not these twenty years.
 
-PERDITA, [rising]  So long could I
+<b>PERDITA</b>, [rising]  So long could I
 Stand by, a looker-on.
 
 PAULINA  Either forbear,
@@ -4603,7 +4603,7 @@ You kill her double. Nay, present your hand.
 When she was young, you wooed her; now in age
 Is she become the suitor?
 
-LEONTES  O, she's warm!
+<b>LEONTES  O</b>, she's warm!
 If this be magic, let it be an art
 Lawful as eating.
 

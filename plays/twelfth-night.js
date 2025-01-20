@@ -7,32 +7,32 @@ https://shakespeare.folger.edu/shakespeares-works/twelfth-night/
 Created on Jul 31, 2015, from FDT version 0.9.2
 
 Characters in the Play
-======================
-VIOLA, a lady of Messaline shipwrecked on the coast of Illyria (later disguised as CESARIO)
-OLIVIA, an Illyrian countess
-MARIA, her waiting-gentlewoman
-SIR TOBY BELCH, Olivia's kinsman
-SIR ANDREW AGUECHEEK, Sir Toby's companion
-MALVOLIO, steward in Olivia's household
-FOOL, Olivia's jester, named Feste
-FABIAN, a gentleman in Olivia's household
-ORSINO, duke (or count) of Illyria
+<hr>
+<b>VIOLA</b>, a lady of Messaline shipwrecked on the coast of Illyria (later disguised as CESARIO)
+<b>OLIVIA</b>, an Illyrian countess
+<b>MARIA</b>, her waiting-gentlewoman
+<b>SIR TOBY BELCH</b>, Olivia's kinsman
+<b>SIR ANDREW AGUECHEEK</b>, Sir Toby's companion
+<b>MALVOLIO</b>, steward in Olivia's household
+<b>FOOL</b>, Olivia's jester, named Feste
+<b>FABIAN</b>, a gentleman in Olivia's household
+<b>ORSINO</b>, duke (or count) of Illyria
 Gentlemen serving Orsino:
   VALENTINE
   CURIO
-SEBASTIAN, Viola's brother
-ANTONIO, friend to Sebastian
+<b>SEBASTIAN</b>, Viola's brother
+<b>ANTONIO</b>, friend to Sebastian
 CAPTAIN
 PRIEST
 Two OFFICERS
 Lords, Sailors, Musicians, and other Attendants
 
 
-ACT 1
-=====
+<b>ACT 1</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Orsino, Duke of Illyria, Curio, and other Lords,
 with Musicians playing.]
 
@@ -96,8 +96,8 @@ Away before me to sweet beds of flowers!
 Love thoughts lie rich when canopied with bowers.
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Viola, a Captain, and Sailors.]
 
 
@@ -129,7 +129,7 @@ Where, like Arion on the dolphin's back,
 I saw him hold acquaintance with the waves
 So long as I could see.
 
-VIOLA, [giving him money]  For saying so, there's gold.
+<b>VIOLA</b>, [giving him money]  For saying so, there's gold.
 Mine own escape unfoldeth to my hope,
 Whereto thy speech serves for authority,
 The like of him. Know'st thou this country?
@@ -168,7 +168,7 @@ Who shortly also died, for whose dear love,
 They say, she hath abjured the sight
 And company of men.
 
-VIOLA  O, that I served that lady,
+<b>VIOLA  O</b>, that I served that lady,
 And might not be delivered to the world
 Till I had made mine own occasion mellow,
 What my estate is.
@@ -201,8 +201,8 @@ When my tongue blabs, then let mine eyes not see.
 VIOLA  I thank thee. Lead me on.
 [They exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Sir Toby and Maria.]
 
 
@@ -273,7 +273,7 @@ ANDREW  Sir Toby Belch! How now, Sir Toby Belch?
 
 TOBY  Sweet Sir Andrew!
 
-ANDREW, [to Maria]  Bless you, fair shrew.
+<b>ANDREW</b>, [to Maria]  Bless you, fair shrew.
 
 MARIA  And you too, sir.
 
@@ -310,7 +310,7 @@ MARIA  Sir, I have not you by th' hand.
 ANDREW  Marry, but you shall have, and here's my
 hand.	[He offers his hand.]
 
-MARIA, [taking his hand]  Now sir, thought is free. I
+<b>MARIA</b>, [taking his hand]  Now sir, thought is free. I
 pray you, bring your hand to th' butt'ry bar and let
 it drink.
 
@@ -415,8 +415,8 @@ caper. [Sir Andrew dances.] Ha, higher! Ha, ha,
 excellent!
 [They exit.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Valentine, and Viola in man's attire as Cesario.]
 
 
@@ -441,7 +441,7 @@ ORSINO  Who saw Cesario, ho?
 
 VIOLA  On your attendance, my lord, here.
 
-ORSINO, [to Curio and Attendants]
+<b>ORSINO</b>, [to Curio and Attendants]
 Stand you awhile aloof.--Cesario,
 Thou know'st no less but all. I have unclasped
 To thee the book even of my secret soul.
@@ -489,8 +489,8 @@ To woo your lady. [Aside.] Yet a barful strife!
 Whoe'er I woo, myself would be his wife.
 [They exit.]
 
-Scene 5
-=======
+<b>Scene 5</b>
+<hr>
 [Enter Maria and Feste, the Fool.]
 
 
@@ -542,7 +542,7 @@ my lady. Make your excuse wisely, you were best.
 [Enter Lady Olivia with Malvolio and Attendants.]
 
 
-FOOL, [aside]  Wit, an 't be thy will, put me into good
+<b>FOOL</b>, [aside]  Wit, an 't be thy will, put me into good
 fooling! Those wits that think they have thee do very
 oft prove fools, and I that am sure I lack thee may
 pass for a wise man. For what says Quinapalus?
@@ -623,7 +623,7 @@ him, he is gagged. I protest I take these wise men
 that crow so at these set kind of Fools no better than
 the Fools' zanies.
 
-OLIVIA  O, you are sick of self-love, Malvolio, and taste
+<b>OLIVIA  O</b>, you are sick of self-love, Malvolio, and taste
 with a distempered appetite. To be generous, guiltless,
 and of free disposition is to take those things
 for bird-bolts that you deem cannon bullets. There
@@ -839,7 +839,7 @@ OLIVIA  In his bosom? In what chapter of his bosom?
 
 VIOLA  To answer by the method, in the first of his heart.
 
-OLIVIA  O, I have read it; it is heresy. Have you no more
+<b>OLIVIA  O</b>, I have read it; it is heresy. Have you no more
 to say?
 
 VIOLA  Good madam, let me see your face.
@@ -862,7 +862,7 @@ Lady, you are the cruel'st she alive
 If you will lead these graces to the grave
 And leave the world no copy.
 
-OLIVIA  O, sir, I will not be so hard-hearted! I will give
+<b>OLIVIA  O</b>, sir, I will not be so hard-hearted! I will give
 out divers schedules of my beauty. It shall be
 inventoried and every particle and utensil labeled
 to my will: as, item, two lips indifferent red; item,
@@ -970,11 +970,11 @@ What is decreed must be, and be this so.
 [She exits.]
 
 
-ACT 2
-=====
+<b>ACT 2</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Antonio and Sebastian.]
 
 
@@ -1038,8 +1038,8 @@ But come what may, I do adore thee so
 That danger shall seem sport, and I will go.
 [He exits.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Viola and Malvolio, at several doors.]
 
 
@@ -1094,8 +1094,8 @@ O Time, thou must untangle this, not I.
 It is too hard a knot for me t' untie.
 [She exits.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Sir Toby and Sir Andrew.]
 
 
@@ -1144,10 +1144,10 @@ Myrmidons are no bottle-ale houses.
 ANDREW  Excellent! Why, this is the best fooling when
 all is done. Now, a song!
 
-TOBY, [giving money to the Fool]  Come on, there is
+<b>TOBY</b>, [giving money to the Fool]  Come on, there is
 sixpence for you. Let's have a song.
 
-ANDREW, [giving money to the Fool]  There's a testril of
+<b>ANDREW</b>, [giving money to the Fool]  There's a testril of
 me, too. If one knight give a--
 
 FOOL  Would you have a love song or a song of good
@@ -1318,7 +1318,7 @@ TOBY  Possess us, possess us, tell us something of him.
 
 MARIA  Marry, sir, sometimes he is a kind of puritan.
 
-ANDREW  O, if I thought that, I'd beat him like a dog!
+<b>ANDREW  O</b>, if I thought that, I'd beat him like a dog!
 
 TOBY  What, for being a puritan? Thy exquisite reason,
 dear knight?
@@ -1359,7 +1359,7 @@ ANDREW  And your horse now would make him an ass.
 
 MARIA  Ass, I doubt not.
 
-ANDREW  O, 'twill be admirable!
+<b>ANDREW  O</b>, 'twill be admirable!
 
 MARIA  Sport royal, I warrant you. I know my physic
 will work with him. I will plant you two, and let the
@@ -1392,8 +1392,8 @@ TOBY  Come, come, I'll go burn some sack. 'Tis too
 late to go to bed now. Come, knight; come, knight.
 [They exit.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Orsino, Viola, Curio, and others.]
 
 
@@ -1505,7 +1505,7 @@ FOOL
 	Sad true lover never find my grave
 	   To weep there.
 
-ORSINO, [giving money]  There's for thy pains.
+<b>ORSINO</b>, [giving money]  There's for thy pains.
 
 FOOL  No pains, sir. I take pleasure in singing, sir.
 
@@ -1596,8 +1596,8 @@ To her in haste. Give her this jewel. Say
 My love can give no place, bide no denay.
 [He hands her a jewel and they exit.]
 
-Scene 5
-=======
+<b>Scene 5</b>
+<hr>
 [Enter Sir Toby, Sir Andrew, and Fabian.]
 
 
@@ -1644,108 +1644,108 @@ one of my complexion. Besides, she uses me with a
 more exalted respect than anyone else that follows
 her. What should I think on 't?
 
-TOBY, [aside]  Here's an overweening rogue.
+<b>TOBY</b>, [aside]  Here's an overweening rogue.
 
-FABIAN, [aside]  O, peace! Contemplation makes a rare
+<b>FABIAN</b>, [aside]  O, peace! Contemplation makes a rare
 turkeycock of him. How he jets under his advanced
 plumes!
 
-ANDREW, [aside]  'Slight, I could so beat the rogue!
+<b>ANDREW</b>, [aside]  'Slight, I could so beat the rogue!
 
-TOBY, [aside]  Peace, I say.
+<b>TOBY</b>, [aside]  Peace, I say.
 
 MALVOLIO  To be Count Malvolio.
 
-TOBY, [aside]  Ah, rogue!
+<b>TOBY</b>, [aside]  Ah, rogue!
 
-ANDREW, [aside]  Pistol him, pistol him!
+<b>ANDREW</b>, [aside]  Pistol him, pistol him!
 
-TOBY, [aside]  Peace, peace!
+<b>TOBY</b>, [aside]  Peace, peace!
 
 MALVOLIO  There is example for 't. The lady of the
 Strachy married the yeoman of the wardrobe.
 
-ANDREW, [aside]  Fie on him, Jezebel!
+<b>ANDREW</b>, [aside]  Fie on him, Jezebel!
 
-FABIAN, [aside]  O, peace, now he's deeply in. Look how
+<b>FABIAN</b>, [aside]  O, peace, now he's deeply in. Look how
 imagination blows him.
 
 MALVOLIO  Having been three months married to her,
 sitting in my state--
 
-TOBY, [aside]  O, for a stone-bow, to hit him in the eye!
+<b>TOBY</b>, [aside]  O, for a stone-bow, to hit him in the eye!
 
 MALVOLIO  Calling my officers about me, in my
 branched velvet gown, having come from a daybed
 where I have left Olivia sleeping--
 
-TOBY, [aside]  Fire and brimstone!
+<b>TOBY</b>, [aside]  Fire and brimstone!
 
-FABIAN, [aside]  O, peace, peace!
+<b>FABIAN</b>, [aside]  O, peace, peace!
 
 MALVOLIO  And then to have the humor of state; and
 after a demure travel of regard, telling them I
 know my place, as I would they should do theirs, to
 ask for my kinsman Toby--
 
-TOBY, [aside]  Bolts and shackles!
+<b>TOBY</b>, [aside]  Bolts and shackles!
 
-FABIAN, [aside]  O, peace, peace, peace! Now, now.
+<b>FABIAN</b>, [aside]  O, peace, peace, peace! Now, now.
 
 MALVOLIO  Seven of my people, with an obedient start,
 make out for him. I frown the while, and perchance
 wind up my watch, or play with my--some
 rich jewel. Toby approaches; curtsies there to me--
 
-TOBY, [aside]  Shall this fellow live?
+<b>TOBY</b>, [aside]  Shall this fellow live?
 
-FABIAN, [aside]  Though our silence be drawn from us
+<b>FABIAN</b>, [aside]  Though our silence be drawn from us
 with cars, yet peace!
 
 MALVOLIO  I extend my hand to him thus, quenching
 my familiar smile with an austere regard of
 control--
 
-TOBY, [aside]  And does not Toby take you a blow o' the
+<b>TOBY</b>, [aside]  And does not Toby take you a blow o' the
 lips then?
 
 MALVOLIO  Saying, "Cousin Toby, my fortunes, having
 cast me on your niece, give me this prerogative of
 speech--"
 
-TOBY, [aside]  What, what?
+<b>TOBY</b>, [aside]  What, what?
 
 MALVOLIO  "You must amend your drunkenness."
 
-TOBY, [aside]  Out, scab!
+<b>TOBY</b>, [aside]  Out, scab!
 
-FABIAN, [aside]  Nay, patience, or we break the sinews
+<b>FABIAN</b>, [aside]  Nay, patience, or we break the sinews
 of our plot!
 
 MALVOLIO  "Besides, you waste the treasure of your
 time with a foolish knight--"
 
-ANDREW, [aside]  That's me, I warrant you.
+<b>ANDREW</b>, [aside]  That's me, I warrant you.
 
 MALVOLIO  "One Sir Andrew."
 
-ANDREW, [aside]  I knew 'twas I, for many do call me
+<b>ANDREW</b>, [aside]  I knew 'twas I, for many do call me
 fool.
 
-MALVOLIO, [seeing the letter]  What employment have
+<b>MALVOLIO</b>, [seeing the letter]  What employment have
 we here?
 
-FABIAN, [aside]  Now is the woodcock near the gin.
+<b>FABIAN</b>, [aside]  Now is the woodcock near the gin.
 
-TOBY, [aside]  O, peace, and the spirit of humors intimate
+<b>TOBY</b>, [aside]  O, peace, and the spirit of humors intimate
 reading aloud to him.
 
-MALVOLIO, [taking up the letter]  By my life, this is my
+<b>MALVOLIO</b>, [taking up the letter]  By my life, this is my
 lady's hand! These be her very c's, her u's, and her
 t's, and thus she makes her great P's. It is in
 contempt of question her hand.
 
-ANDREW, [aside]  Her c's, her u's, and her t's. Why that?
+<b>ANDREW</b>, [aside]  Her c's, her u's, and her t's. Why that?
 
 MALVOLIO [reads]  To the unknown beloved, this, and my
 good wishes--Her very phrases! By your leave, wax.
@@ -1753,7 +1753,7 @@ Soft. And the impressure her Lucrece, with which
 she uses to seal--'tis my lady! [He opens the letter.]
 To whom should this be?
 
-FABIAN, [aside]  This wins him, liver and all.
+<b>FABIAN</b>, [aside]  This wins him, liver and all.
 
 MALVOLIO [reads]
 	Jove knows I love,
@@ -1764,7 +1764,7 @@ MALVOLIO [reads]
 altered. "No man must know." If this should be
 thee, Malvolio!
 
-TOBY, [aside]  Marry, hang thee, brock!
+<b>TOBY</b>, [aside]  Marry, hang thee, brock!
 
 MALVOLIO [reads]
 	I may command where I adore,
@@ -1772,17 +1772,17 @@ MALVOLIO [reads]
 	With bloodless stroke my heart doth gore;
 	   M.O.A.I. doth sway my life.
 
-FABIAN, [aside]  A fustian riddle!
+<b>FABIAN</b>, [aside]  A fustian riddle!
 
-TOBY, [aside]  Excellent wench, say I.
+<b>TOBY</b>, [aside]  Excellent wench, say I.
 
 MALVOLIO  "M.O.A.I. doth sway my life." Nay, but first
 let me see, let me see, let me see.
 
-FABIAN, [aside]  What dish o' poison has she dressed
+<b>FABIAN</b>, [aside]  What dish o' poison has she dressed
 him!
 
-TOBY, [aside]  And with what wing the staniel checks
+<b>TOBY</b>, [aside]  And with what wing the staniel checks
 at it!
 
 MALVOLIO  "I may command where I adore." Why, she
@@ -1792,30 +1792,30 @@ obstruction in this. And the end--what should that
 alphabetical position portend? If I could make that
 resemble something in me! Softly! "M.O.A.I."--
 
-TOBY, [aside]  O, ay, make up that.--He is now at a cold
+<b>TOBY</b>, [aside]  O, ay, make up that.--He is now at a cold
 scent.
 
-FABIAN, [aside]  Sowter will cry upon 't for all this,
+<b>FABIAN</b>, [aside]  Sowter will cry upon 't for all this,
 though it be as rank as a fox.
 
 MALVOLIO  "M"--Malvolio. "M"--why, that begins
 my name!
 
-FABIAN, [aside]  Did not I say he would work it out? The
+<b>FABIAN</b>, [aside]  Did not I say he would work it out? The
 cur is excellent at faults.
 
 MALVOLIO  "M." But then there is no consonancy in
 the sequel that suffers under probation. "A" should
 follow, but "O" does.
 
-FABIAN, [aside]  And "O" shall end, I hope.
+<b>FABIAN</b>, [aside]  And "O" shall end, I hope.
 
-TOBY, [aside]  Ay, or I'll cudgel him and make him cry
+<b>TOBY</b>, [aside]  Ay, or I'll cudgel him and make him cry
 "O."
 
 MALVOLIO  And then "I" comes behind.
 
-FABIAN, [aside]  Ay, an you had any eye behind you, you
+<b>FABIAN</b>, [aside]  Ay, an you had any eye behind you, you
 might see more detraction at your heels than fortunes
 before you.
 
@@ -1911,11 +1911,11 @@ ANDREW  I'll make one, too.
 [They exit.]
 
 
-ACT 3
-=====
+<b>ACT 3</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Viola and Feste, the Fool, playing a tabor.]
 
 
@@ -2054,13 +2054,13 @@ we are prevented.
 Most excellent accomplished lady, the heavens rain
 odors on you!
 
-ANDREW, [aside]  That youth's a rare courtier. "Rain
+<b>ANDREW</b>, [aside]  That youth's a rare courtier. "Rain
 odors," well.
 
 VIOLA  My matter hath no voice, lady, but to your own
 most pregnant and vouchsafed ear.
 
-ANDREW, [aside]  "Odors," "pregnant," and "vouchsafed."
+<b>ANDREW</b>, [aside]  "Odors," "pregnant," and "vouchsafed."
 I'll get 'em all three all ready.
 
 OLIVIA  Let the garden door be shut, and leave me to
@@ -2092,7 +2092,7 @@ VIOLA
 Madam, I come to whet your gentle thoughts
 On his behalf.
 
-OLIVIA  O, by your leave, I pray you.
+<b>OLIVIA  O</b>, by your leave, I pray you.
 I bade you never speak again of him.
 But would you undertake another suit,
 I had rather hear you to solicit that
@@ -2159,7 +2159,7 @@ VIOLA
 Would it be better, madam, than I am?
 I wish it might, for now I am your fool.
 
-OLIVIA, [aside]
+<b>OLIVIA</b>, [aside]
 O, what a deal of scorn looks beautiful
 In the contempt and anger of his lip!
 A murd'rous guilt shows not itself more soon
@@ -2187,8 +2187,8 @@ Yet come again, for thou perhaps mayst move
 That heart, which now abhors, to like his love.
 [They exit in different directions.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Sir Toby, Sir Andrew, and Fabian.]
 
 
@@ -2307,8 +2307,8 @@ smile and take 't for a great favor.
 TOBY  Come, bring us, bring us where he is.
 [They all exit.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Sebastian and Antonio.]
 
 
@@ -2392,12 +2392,12 @@ ANTONIO  To th' Elephant.
 SEBASTIAN  I do remember.
 [They exit in different directions.]
 
-Scene 4
-=======
+<b>Scene 4</b>
+<hr>
 [Enter Olivia and Maria.]
 
 
-OLIVIA, [aside]
+<b>OLIVIA</b>, [aside]
 I have sent after him. He says he'll come.
 How shall I feast him? What bestow of him?
 For youth is bought more oft than begged or
@@ -2544,20 +2544,20 @@ How is 't with you, man?
 MALVOLIO  Go off, I discard you. Let me enjoy my
 private. Go off.
 
-MARIA, [to Toby]  Lo, how hollow the fiend speaks
+<b>MARIA</b>, [to Toby]  Lo, how hollow the fiend speaks
 within him! Did not I tell you? Sir Toby, my lady
 prays you to have a care of him.
 
 MALVOLIO  Aha, does she so?
 
-TOBY, [to Fabian and Maria]  Go to, go to! Peace, peace.
+<b>TOBY</b>, [to Fabian and Maria]  Go to, go to! Peace, peace.
 We must deal gently with him. Let me alone.--How
 do you, Malvolio? How is 't with you? What, man,
 defy the devil! Consider, he's an enemy to mankind.
 
 MALVOLIO  Do you know what you say?
 
-MARIA, [to Toby]  La you, an you speak ill of the devil,
+<b>MARIA</b>, [to Toby]  La you, an you speak ill of the devil,
 how he takes it at heart! Pray God he be not
 bewitched!
 
@@ -2578,7 +2578,7 @@ him.
 FABIAN  No way but gentleness, gently, gently. The
 fiend is rough and will not be roughly used.
 
-TOBY, [to Malvolio]  Why, how now, my bawcock? How
+<b>TOBY</b>, [to Malvolio]  Why, how now, my bawcock? How
 dost thou, chuck?
 
 MALVOLIO  Sir!
@@ -2592,7 +2592,7 @@ him to pray.
 
 MALVOLIO  My prayers, minx?
 
-MARIA, [to Toby]  No, I warrant you, he will not hear of
+<b>MARIA</b>, [to Toby]  No, I warrant you, he will not hear of
 godliness.
 
 MALVOLIO  Go hang yourselves all! You are idle, shallow
@@ -2627,7 +2627,7 @@ finder of madmen. But see, but see!
 
 FABIAN  More matter for a May morning.
 
-ANDREW, [presenting a paper]  Here's the challenge.
+<b>ANDREW</b>, [presenting a paper]  Here's the challenge.
 Read it. I warrant there's vinegar and pepper in 't.
 
 FABIAN  Is 't so saucy?
@@ -2850,11 +2850,11 @@ ride you.
 [Aside to Fabian.] I have his horse to take up the
 quarrel. I have persuaded him the youth's a devil.
 
-FABIAN, [aside to Toby]  He is as horribly conceited of
+<b>FABIAN</b>, [aside to Toby]  He is as horribly conceited of
 him, and pants and looks pale as if a bear were at his
 heels.
 
-TOBY, [to Viola]  There's no remedy, sir; he will fight
+<b>TOBY</b>, [to Viola]  There's no remedy, sir; he will fight
 with you for 's oath sake. Marry, he hath better
 bethought him of his quarrel, and he finds that now
 scarce to be worth talking of. Therefore, draw for
@@ -2874,37 +2874,37 @@ with you. He cannot by the duello avoid it. But he
 has promised me, as he is a gentleman and a soldier,
 he will not hurt you. Come on, to 't.
 
-ANDREW, [drawing his sword]  Pray God he keep his
+<b>ANDREW</b>, [drawing his sword]  Pray God he keep his
 oath!
 
-VIOLA, [drawing her sword]
+<b>VIOLA</b>, [drawing her sword]
 I do assure you 'tis against my will.
 
 [Enter Antonio.]
 
 
-ANTONIO, [to Andrew]
+<b>ANTONIO</b>, [to Andrew]
 Put up your sword. If this young gentleman
 Have done offense, I take the fault on me.
 If you offend him, I for him defy you.
 
 TOBY  You, sir? Why, what are you?
 
-ANTONIO, [drawing his sword]
+<b>ANTONIO</b>, [drawing his sword]
 One, sir, that for his love dares yet do more
 Than you have heard him brag to you he will.
 
-TOBY, [drawing his sword]
+<b>TOBY</b>, [drawing his sword]
 Nay, if you be an undertaker, I am for you.
 
 [Enter Officers.]
 
 
-FABIAN  O, good Sir Toby, hold! Here come the officers.
+<b>FABIAN  O</b>, good Sir Toby, hold! Here come the officers.
 
-TOBY, [to Antonio]  I'll be with you anon.
+<b>TOBY</b>, [to Antonio]  I'll be with you anon.
 
-VIOLA, [to Andrew]  Pray, sir, put your sword up, if
+<b>VIOLA</b>, [to Andrew]  Pray, sir, put your sword up, if
 you please.
 
 ANDREW  Marry, will I, sir. And for that I promised
@@ -2935,7 +2935,7 @@ But be of comfort.
 
 SECOND OFFICER  Come, sir, away.
 
-ANTONIO, [to Viola]
+<b>ANTONIO</b>, [to Viola]
 I must entreat of you some of that money.
 
 VIOLA  What money, sir?
@@ -2989,7 +2989,7 @@ come, sir.
 ANTONIO  Lead me on.
 [Antonio and Officers exit.]
 
-VIOLA, [aside]
+<b>VIOLA</b>, [aside]
 Methinks his words do from such passion fly
 That he believes himself; so do not I.
 Prove true, imagination, O, prove true,
@@ -2999,7 +2999,7 @@ TOBY  Come hither, knight; come hither, Fabian. We'll
 whisper o'er a couplet or two of most sage saws.
 [Toby, Fabian, and Andrew move aside.]
 
-VIOLA, [aside]
+<b>VIOLA</b>, [aside]
 He named Sebastian. I my brother know
 Yet living in my glass. Even such and so
 In favor was my brother, and he went
@@ -3029,11 +3029,11 @@ TOBY  I dare lay any money 'twill be nothing yet.
 [They exit.]
 
 
-ACT 4
-=====
+<b>ACT 4</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Sebastian and Feste, the Fool.]
 
 
@@ -3070,27 +3070,27 @@ report--after fourteen years' purchase.
 [Enter Andrew, Toby, and Fabian.] 
 
 
-ANDREW, [to Sebastian]  Now, sir, have I met you again?
+<b>ANDREW</b>, [to Sebastian]  Now, sir, have I met you again?
 There's for you.	[He strikes Sebastian.]
 
-SEBASTIAN, [returning the blow]  Why, there's for thee,
+<b>SEBASTIAN</b>, [returning the blow]  Why, there's for thee,
 and there, and there.--Are all the people mad?
 
 TOBY  Hold, sir, or I'll throw your dagger o'er the
 house.
 
-FOOL, [aside]  This will I tell my lady straight. I would
+<b>FOOL</b>, [aside]  This will I tell my lady straight. I would
 not be in some of your coats for twopence.
 [He exits.]
 
-TOBY, [seizing Sebastian]  Come on, sir, hold!
+<b>TOBY</b>, [seizing Sebastian]  Come on, sir, hold!
 
 ANDREW  Nay, let him alone. I'll go another way to
 work with him. I'll have an action of battery against
 him, if there be any law in Illyria. Though I struck
 him first, yet it's no matter for that.
 
-SEBASTIAN, [to Toby]  Let go thy hand!
+<b>SEBASTIAN</b>, [to Toby]  Let go thy hand!
 
 TOBY  Come, sir, I will not let you go. Come, my young
 soldier, put up your iron. You are well fleshed.
@@ -3131,7 +3131,7 @@ Mayst smile at this. Thou shalt not choose but go.
 Do not deny. Beshrew his soul for me!
 He started one poor heart of mine, in thee.
 
-SEBASTIAN, [aside]
+<b>SEBASTIAN</b>, [aside]
 What relish is in this? How runs the stream?
 Or I am mad, or else this is a dream.
 Let fancy still my sense in Lethe steep;
@@ -3144,11 +3144,11 @@ me!
 SEBASTIAN
 Madam, I will.
 
-OLIVIA  O, say so, and so be!
+<b>OLIVIA  O</b>, say so, and so be!
 [They exit.]
 
-Scene 2
-=======
+<b>Scene 2</b>
+<hr>
 [Enter Maria and Feste, the Fool.]
 
 
@@ -3178,7 +3178,7 @@ being Master Parson, am Master Parson; for what is
 
 TOBY  To him, Sir Topas.
 
-FOOL, [disguising his voice]  What ho, I say! Peace in this
+<b>FOOL</b>, [disguising his voice]  What ho, I say! Peace in this
 prison!
 
 TOBY  The knave counterfeits well. A good knave.
@@ -3197,7 +3197,7 @@ my lady--
 FOOL  Out, hyperbolical fiend! How vexest thou this
 man! Talkest thou nothing but of ladies?
 
-TOBY, [aside]  Well said, Master Parson.
+<b>TOBY</b>, [aside]  Well said, Master Parson.
 
 MALVOLIO  Sir Topas, never was man thus wronged.
 Good Sir Topas, do not think I am mad. They have
@@ -3311,7 +3311,7 @@ and leave thy vain bibble-babble.
 
 MALVOLIO  Sir Topas!
 
-FOOL, [as Sir Topas]  Maintain no words with him, good
+<b>FOOL</b>, [as Sir Topas]  Maintain no words with him, good
 fellow. [As Fool.] Who, I, sir? Not I, sir! God buy
 you, good Sir Topas. [As Sir Topas.] Marry, amen.
 [As Fool.] I will, sir, I will.
@@ -3354,8 +3354,8 @@ FOOL [sings]
 	   Adieu, goodman devil."
 [He exits.]
 
-Scene 3
-=======
+<b>Scene 3</b>
+<hr>
 [Enter Sebastian.]
 
 
@@ -3386,7 +3386,7 @@ That is deceivable. But here the lady comes.
 [Enter Olivia, and a Priest.]
 
 
-OLIVIA, [to Sebastian]
+<b>OLIVIA</b>, [to Sebastian]
 Blame not this haste of mine. If you mean well,
 Now go with me and with this holy man
 Into the chantry by. There, before him
@@ -3409,11 +3409,11 @@ That they may fairly note this act of mine.
 [They exit.]
 
 
-ACT 5
-=====
+<b>ACT 5</b>
+<hr>
 
-Scene 1
-=======
+<b>Scene 1</b>
+<hr>
 [Enter Feste, the Fool and Fabian.]
 
 
@@ -3462,13 +3462,13 @@ ORSINO  Why, this is excellent.
 FOOL  By my troth, sir, no--though it please you to be
 one of my friends.
 
-ORSINO, [giving a coin]
+<b>ORSINO</b>, [giving a coin]
 Thou shalt not be the worse for me; there's gold.
 
 FOOL  But that it would be double-dealing, sir, I would
 you could make it another.
 
-ORSINO  O, you give me ill counsel.
+<b>ORSINO  O</b>, you give me ill counsel.
 
 FOOL  Put your grace in your pocket, sir, for this once,
 and let your flesh and blood obey it.
@@ -3553,7 +3553,7 @@ Not half an hour before.
 
 VIOLA  How can this be?
 
-ORSINO, [to Antonio]  When came he to this town?
+<b>ORSINO</b>, [to Antonio]  When came he to this town?
 
 ANTONIO
 Today, my lord; and for three months before,
@@ -3646,7 +3646,7 @@ OLIVIA
 Hast thou forgot thyself? Is it so long?--
 Call forth the holy father.	[An Attendant exits.]
 
-ORSINO, [to Viola]  Come, away!
+<b>ORSINO</b>, [to Viola]  Come, away!
 
 OLIVIA
 Whither, my lord?--Cesario, husband, stay.
@@ -3688,7 +3688,7 @@ Since when, my watch hath told me, toward my
 grave
 I have traveled but two hours.
 
-ORSINO, [to Viola]
+<b>ORSINO</b>, [to Viola]
 O thou dissembling cub! What wilt thou be
 When time hath sowed a grizzle on thy case?
 Or will not else thy craft so quickly grow
@@ -3699,7 +3699,7 @@ Where thou and I henceforth may never meet.
 VIOLA
 My lord, I do protest--
 
-OLIVIA  O, do not swear.
+<b>OLIVIA  O</b>, do not swear.
 Hold little faith, though thou hast too much fear.
 
 [Enter Sir Andrew.]
@@ -3746,7 +3746,7 @@ ORSINO  How now, gentleman? How is 't with you?
 TOBY  That's all one. Has hurt me, and there's th' end
 on 't. [To Fool.] Sot, didst see Dick Surgeon, sot?
 
-FOOL  O, he's drunk, Sir Toby, an hour agone; his eyes
+<b>FOOL  O</b>, he's drunk, Sir Toby, an hour agone; his eyes
 were set at eight i' th' morning.
 
 TOBY  Then he's a rogue and a passy-measures pavin. I
@@ -3798,7 +3798,7 @@ Than these two creatures. Which is Sebastian?
 
 OLIVIA  Most wonderful!
 
-SEBASTIAN, [looking at Viola]
+<b>SEBASTIAN</b>, [looking at Viola]
 Do I stand there? I never had a brother,
 Nor can there be that deity in my nature
 Of here and everywhere. I had a sister
@@ -3846,14 +3846,14 @@ I was preserved to serve this noble count.
 All the occurrence of my fortune since
 Hath been between this lady and this lord.
 
-SEBASTIAN, [to Olivia]
+<b>SEBASTIAN</b>, [to Olivia]
 So comes it, lady, you have been mistook.
 But nature to her bias drew in that.
 You would have been contracted to a maid.
 Nor are you therein, by my life, deceived:
 You are betrothed both to a maid and man.
 
-ORSINO, [to Olivia]
+<b>ORSINO</b>, [to Olivia]
 Be not amazed; right noble is his blood.
 If this be so, as yet the glass seems true,
 I shall have share in this most happy wrack.--
@@ -3911,7 +3911,7 @@ FOOL  So I do, madonna. But to read his right wits is to
 read thus. Therefore, perpend, my princess, and
 give ear.
 
-OLIVIA, [giving letter to Fabian]  Read it you, sirrah.
+<b>OLIVIA</b>, [giving letter to Fabian]  Read it you, sirrah.
 
 FABIAN [(reads)]  By the Lord, madam, you wrong me, and
 the world shall know it. Though you have put me into
@@ -3951,7 +3951,7 @@ And since you called me "master" for so long,
 Here is my hand. You shall from this time be
 Your master's mistress.
 
-OLIVIA, [to Viola]  A sister! You are she.
+<b>OLIVIA</b>, [to Viola]  A sister! You are she.
 
 [Enter Malvolio and Fabian.]
 
@@ -3968,7 +3968,7 @@ Notorious wrong.
 
 OLIVIA  Have I, Malvolio? No.
 
-MALVOLIO, [handing her a paper]
+<b>MALVOLIO</b>, [handing her a paper]
 Lady, you have. Pray you peruse that letter.
 You must not now deny it is your hand.
 Write from it if you can, in hand or phrase,
@@ -4013,7 +4013,7 @@ May rather pluck on laughter than revenge,
 If that the injuries be justly weighed
 That have on both sides passed.
 
-OLIVIA, [to Malvolio]
+<b>OLIVIA</b>, [to Malvolio]
 Alas, poor fool, how have they baffled thee!
 
 FOOL  Why, "some are born great, some achieve greatness,
