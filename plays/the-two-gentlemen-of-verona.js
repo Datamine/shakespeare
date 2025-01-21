@@ -1,38 +1,35 @@
-export const text = `The Two Gentlemen of Verona
+export const credits = `The Two Gentlemen of Verona
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/the-two-gentlemen-of-verona/
-Created on Jul 31, 2015, from FDT version 0.9.2
+Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-Characters in the Play
+export const text = `Characters in the Play
 <hr>
-<b>VALENTINE,</b> a gentleman of Verona
-<b>SPEED,</b> his servant
-<b>PROTEUS,</b> a gentleman of Verona
-<b>LANCE,</b> his servant
-<b>ANTONIO,</b> Proteus' father
-<b>PANTINO,</b> an attendant to Antonio
-<b>JULIA,</b> a lady of Verona
-<b>LUCETTA,</b> her waiting-gentlewoman
-<b>SYLVIA,</b> a lady of Milan
+VALENTINE, a gentleman of Verona
+SPEED, his servant
+PROTEUS, a gentleman of Verona
+LANCE, his servant
+ANTONIO, Proteus' father
+PANTINO, an attendant to Antonio
+JULIA, a lady of Verona
+LUCETTA, her waiting-gentlewoman
+SYLVIA, a lady of Milan
 DUKE (sometimes Emperor), Sylvia's father
-<b>THURIO,</b> a gentleman
-<b>EGLAMOUR,</b> a gentleman
-<b>HOST,</b> proprietor of an inn in Milan
-<b>OUTLAWS,</b> living in a forest near Mantua
+THURIO, a gentleman
+EGLAMOUR, a gentleman
+HOST, proprietor of an inn in Milan
+OUTLAWS, living in a forest near Mantua
 Servants; Musicians; Crab, a dog
 
-
 <b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Valentine and Proteus.]
+[<i>Enter Valentine and Proteus.</i>]
 
-
-VALENTINE
+<speaker>VALENTINE</speaker>
 Cease to persuade, my loving Proteus.
 Home-keeping youth have ever homely wits.
 Were 't not affection chains thy tender days
@@ -44,7 +41,7 @@ Wear out thy youth with shapeless idleness.
 But since thou lov'st, love still and thrive therein,
 Even as I would when I to love begin.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Wilt thou be gone? Sweet Valentine, adieu.
 Think on thy Proteus when thou haply seest
 Some rare noteworthy object in thy travel.
@@ -54,33 +51,34 @@ If ever danger do environ thee,
 Commend thy grievance to my holy prayers,
 For I will be thy beadsman, Valentine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And on a love-book pray for my success?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Upon some book I love I'll pray for thee.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 That's on some shallow story of deep love,
 How young Leander crossed the Hellespont.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 That's a deep story of a deeper love,
 For he was more than over shoes in love.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 'Tis true, for you are over boots in love,
 And yet you never swam the Hellespont.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Over the boots? Nay, give me not the boots.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 No, I will not, for it boots thee not.
 
-PROTEUS  What?
+<speaker>PROTEUS</speaker>
+What?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 To be in love, where scorn is bought with groans,
 Coy looks with heart-sore sighs, one fading
 moment's mirth
@@ -90,26 +88,26 @@ If lost, why then a grievous labor won;
 How ever, but a folly bought with wit,
 Or else a wit by folly vanquished.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 So, by your circumstance, you call me fool.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 So, by your circumstance, I fear you'll prove.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 'Tis love you cavil at; I am not Love.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Love is your master, for he masters you;
 And he that is so yoked by a fool
 Methinks should not be chronicled for wise.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Yet writers say: as in the sweetest bud
 The eating canker dwells, so eating love
 Inhabits in the finest wits of all.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And writers say: as the most forward bud
 Is eaten by the canker ere it blow,
 Even so by love the young and tender wit
@@ -121,23 +119,23 @@ That art a votary to fond desire?
 Once more adieu. My father at the road
 Expects my coming, there to see me shipped.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 And thither will I bring thee, Valentine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Sweet Proteus, no. Now let us take our leave.
 To Milan let me hear from thee by letters
 Of thy success in love, and what news else
 Betideth here in absence of thy friend.
 And I likewise will visit thee with mine.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 All happiness bechance to thee in Milan.
 
-VALENTINE
-As much to you at home. And so farewell.	[He exits.]
+<speaker>VALENTINE</speaker>
+As much to you at home. And so farewell.	[<i>He exits.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 He after honor hunts, I after love.
 He leaves his friends, to dignify them more;
 I leave myself, my friends, and all, for love.
@@ -146,247 +144,294 @@ Made me neglect my studies, lose my time,
 War with good counsel, set the world at nought;
 Made wit with musing weak, heart sick with thought.
 
-[Enter Speed.]
+[<i>Enter Speed.</i>]
 
-
-SPEED
+<speaker>SPEED</speaker>
 Sir Proteus, 'save you. Saw you my master?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 But now he parted hence to embark for Milan.
 
-SPEED
+<speaker>SPEED</speaker>
 Twenty to one, then, he is shipped already,
 And I have played the sheep in losing him.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Indeed a sheep doth very often stray,
 An if the shepherd be awhile away.
 
-SPEED  You conclude that my master is a shepherd,
+<speaker>SPEED</speaker>
+You conclude that my master is a shepherd,
 then, and I a sheep?
 
-PROTEUS  I do.
+<speaker>PROTEUS</speaker>
+I do.
 
-SPEED  Why, then my horns are his horns, whether I
+<speaker>SPEED</speaker>
+Why, then my horns are his horns, whether I
 wake or sleep.
 
-PROTEUS  A silly answer, and fitting well a sheep.
+<speaker>PROTEUS</speaker>
+A silly answer, and fitting well a sheep.
 
-SPEED  This proves me still a sheep.
+<speaker>SPEED</speaker>
+This proves me still a sheep.
 
-PROTEUS  True, and thy master a shepherd.
+<speaker>PROTEUS</speaker>
+True, and thy master a shepherd.
 
-SPEED  Nay, that I can deny by a circumstance.
+<speaker>SPEED</speaker>
+Nay, that I can deny by a circumstance.
 
-PROTEUS  It shall go hard but I'll prove it by another.
+<speaker>PROTEUS</speaker>
+It shall go hard but I'll prove it by another.
 
-SPEED  The shepherd seeks the sheep, and not the
+<speaker>SPEED</speaker>
+The shepherd seeks the sheep, and not the
 sheep the shepherd; but I seek my master, and my
 master seeks not me. Therefore I am no sheep.
 
-PROTEUS  The sheep for fodder follow the shepherd; the
+<speaker>PROTEUS</speaker>
+The sheep for fodder follow the shepherd; the
 shepherd for food follows not the sheep. Thou for
 wages followest thy master; thy master for wages
 follows not thee. Therefore thou art a sheep.
 
-SPEED  Such another proof will make me cry "baa."
+<speaker>SPEED</speaker>
+Such another proof will make me cry "baa."
 
-PROTEUS  But dost thou hear? Gav'st thou my letter to
+<speaker>PROTEUS</speaker>
+But dost thou hear? Gav'st thou my letter to
 Julia?
 
-SPEED  Ay, sir. I, a lost mutton, gave your letter to her, a
+<speaker>SPEED</speaker>
+Ay, sir. I, a lost mutton, gave your letter to her, a
 laced mutton, and she, a laced mutton, gave me, a
 lost mutton, nothing for my labor.
 
-PROTEUS  Here's too small a pasture for such store of
+<speaker>PROTEUS</speaker>
+Here's too small a pasture for such store of
 muttons.
 
-SPEED  If the ground be overcharged, you were best
+<speaker>SPEED</speaker>
+If the ground be overcharged, you were best
 stick her.
 
-PROTEUS  Nay, in that you are astray; 'twere best pound
+<speaker>PROTEUS</speaker>
+Nay, in that you are astray; 'twere best pound
 you.
 
-SPEED  Nay, sir, less than a pound shall serve me for
+<speaker>SPEED</speaker>
+Nay, sir, less than a pound shall serve me for
 carrying your letter.
 
-PROTEUS  You mistake; I mean the pound, a pinfold.
+<speaker>PROTEUS</speaker>
+You mistake; I mean the pound, a pinfold.
 
-SPEED
+<speaker>SPEED</speaker>
 From a pound to a pin? Fold it over and over,
 'Tis threefold too little for carrying a letter to your
 lover.
 
-PROTEUS  But what said she?
+<speaker>PROTEUS</speaker>
+But what said she?
 
-<b>SPEED,</b> [nodding]  Ay.
+<speaker>SPEED,</speaker>
+[<i>nodding</i>]
+Ay.
 
-PROTEUS  Nod--"Ay." Why, that's "noddy."
+<speaker>PROTEUS</speaker>
+Nod--"Ay." Why, that's "noddy."
 
-SPEED  You mistook, sir. I say she did nod, and you ask
+<speaker>SPEED</speaker>
+You mistook, sir. I say she did nod, and you ask
 me if she did nod, and I say "ay."
 
-PROTEUS  And that set together is "noddy."
+<speaker>PROTEUS</speaker>
+And that set together is "noddy."
 
-SPEED  Now you have taken the pains to set it together,
+<speaker>SPEED</speaker>
+Now you have taken the pains to set it together,
 take it for your pains.
 
-PROTEUS  No, no, you shall have it for bearing the letter.
+<speaker>PROTEUS</speaker>
+No, no, you shall have it for bearing the letter.
 
-SPEED  Well, I perceive I must be fain to bear with you.
+<speaker>SPEED</speaker>
+Well, I perceive I must be fain to bear with you.
 
-PROTEUS  Why, sir, how do you bear with me?
+<speaker>PROTEUS</speaker>
+Why, sir, how do you bear with me?
 
-SPEED  Marry, sir, the letter, very orderly, having nothing
+<speaker>SPEED</speaker>
+Marry, sir, the letter, very orderly, having nothing
 but the word "noddy" for my pains.
 
-PROTEUS  Beshrew me, but you have a quick wit.
+<speaker>PROTEUS</speaker>
+Beshrew me, but you have a quick wit.
 
-SPEED  And yet it cannot overtake your slow purse.
+<speaker>SPEED</speaker>
+And yet it cannot overtake your slow purse.
 
-PROTEUS  Come, come, open the matter in brief. What
+<speaker>PROTEUS</speaker>
+Come, come, open the matter in brief. What
 said she?
 
-SPEED  Open your purse, that the money and the matter
+<speaker>SPEED</speaker>
+Open your purse, that the money and the matter
 may be both at once delivered.
 
-<b>PROTEUS,</b> [giving money]  Well, sir, here is for your
+<speaker>PROTEUS,</speaker>
+[<i>giving money</i>]
+Well, sir, here is for your
 pains. What said she?
 
-<b>SPEED,</b> [looking at the money]  Truly, sir, I think you'll
+<speaker>SPEED,</speaker>
+[<i>looking at the money</i>]
+Truly, sir, I think you'll
 hardly win her.
 
-PROTEUS  Why? Couldst thou perceive so much from
+<speaker>PROTEUS</speaker>
+Why? Couldst thou perceive so much from
 her?
 
-SPEED  Sir, I could perceive nothing at all from her, no,
+<speaker>SPEED</speaker>
+Sir, I could perceive nothing at all from her, no,
 not so much as a ducat for delivering your letter.
 And being so hard to me that brought your mind, I
 fear she'll prove as hard to you in telling your mind.
 Give her no token but stones, for she's as hard as
 steel.
 
-PROTEUS  What said she? Nothing?
+<speaker>PROTEUS</speaker>
+What said she? Nothing?
 
-SPEED  No, not so much as "Take this for thy pains."
+<speaker>SPEED</speaker>
+No, not so much as "Take this for thy pains."
 To testify your bounty, I thank you, you have
 testerned me. In requital whereof, henceforth
 carry your letters yourself. And so, sir, I'll commend
 you to my master.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Go, go, begone, to save your ship from wrack,
 Which cannot perish having thee aboard,
 Being destined to a drier death on shore.
-[Speed exits.]
+[<i>Speed exits.</i>]
 I must go send some better messenger.
 I fear my Julia would not deign my lines,
 Receiving them from such a worthless post.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Julia and Lucetta.]
+[<i>Enter Julia and Lucetta.</i>]
 
-
-JULIA
+<speaker>JULIA</speaker>
 But say, Lucetta, now we are alone,
 Wouldst thou then counsel me to fall in love?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Ay, madam, so you stumble not unheedfully.
 
-JULIA
+<speaker>JULIA</speaker>
 Of all the fair resort of gentlemen
 That every day with parle encounter me,
 In thy opinion which is worthiest love?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Please you repeat their names, I'll show my mind
 According to my shallow simple skill.
 
-JULIA
+<speaker>JULIA</speaker>
 What think'st thou of the fair Sir Eglamour?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 As of a knight well-spoken, neat, and fine;
 But, were I you, he never should be mine.
 
-JULIA
+<speaker>JULIA</speaker>
 What think'st thou of the rich Mercatio?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Well of his wealth, but of himself so-so.
 
-JULIA
+<speaker>JULIA</speaker>
 What think'st thou of the gentle Proteus?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Lord, Lord, to see what folly reigns in us!
 
-JULIA
+<speaker>JULIA</speaker>
 How now? What means this passion at his name?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Pardon, dear madam, 'tis a passing shame
 That I, unworthy body as I am,
 Should censure thus on lovely gentlemen.
 
-JULIA
+<speaker>JULIA</speaker>
 Why not on Proteus, as of all the rest?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Then thus: of many good, I think him best.
 
-JULIA  Your reason?
+<speaker>JULIA</speaker>
+Your reason?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 I have no other but a woman's reason:
 I think him so because I think him so.
 
-JULIA
+<speaker>JULIA</speaker>
 And wouldst thou have me cast my love on him?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Ay, if you thought your love not cast away.
 
-JULIA
+<speaker>JULIA</speaker>
 Why, he of all the rest hath never moved me.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Yet he of all the rest I think best loves you.
 
-JULIA
+<speaker>JULIA</speaker>
 His little speaking shows his love but small.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Fire that's closest kept burns most of all.
 
-JULIA
+<speaker>JULIA</speaker>
 They do not love that do not show their love.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 O, they love least that let men know their love.
 
-JULIA  I would I knew his mind.
+<speaker>JULIA</speaker>
+I would I knew his mind.
 
-<b>LUCETTA,</b> [handing her a paper]  Peruse this paper,
+<speaker>LUCETTA,</speaker>
+[<i>handing her a paper</i>]
+Peruse this paper,
 madam.
 
-JULIA [reads]  "To Julia."--Say from whom.
+<speaker>JULIA</speaker>
+[<i>reads</i>]
+"To Julia."--Say from whom.
 
-LUCETTA  That the contents will show.
+<speaker>LUCETTA</speaker>
+That the contents will show.
 
-JULIA  Say, say who gave it thee.
+<speaker>JULIA</speaker>
+Say, say who gave it thee.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Sir Valentine's page; and sent, I think, from
 Proteus.
 He would have given it you, but I, being in the way,
 Did in your name receive it. Pardon the fault, I pray.
 
-JULIA
+<speaker>JULIA</speaker>
 Now, by my modesty, a goodly broker!
 Dare you presume to harbor wanton lines?
 To whisper and conspire against my youth?
@@ -395,15 +440,17 @@ And you an officer fit for the place.
 There, take the paper; see it be returned,
 Or else return no more into my sight.
 
-<b>LUCETTA,</b> [taking the paper]
+<speaker>LUCETTA,</speaker>
+[<i>taking the paper</i>]
 To plead for love deserves more fee than hate.
 
-JULIA
+<speaker>JULIA</speaker>
 Will you be gone?
 
-LUCETTA  That you may ruminate.	[She exits.]
+<speaker>LUCETTA</speaker>
+That you may ruminate. [<i>She exits.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 And yet I would I had o'erlooked the letter.
 It were a shame to call her back again
 And pray her to a fault for which I chid her.
@@ -422,107 +469,118 @@ My penance is to call Lucetta back
 And ask remission for my folly past.--
 What ho, Lucetta!
 
-[Enter Lucetta.]
+[<i>Enter Lucetta.</i>]
 
+<speaker>LUCETTA</speaker>
+What would your Ladyship?
 
-LUCETTA  What would your Ladyship?
-
-JULIA
+<speaker>JULIA</speaker>
 Is 't near dinner time?
 
-LUCETTA  I would it were,
+<speaker>LUCETTA</speaker>
+I would it were,
 That you might kill your stomach on your meat
 And not upon your maid.
-[She drops a paper and then retrieves it.]
+[<i>She drops a paper and then retrieves it.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 What is 't that you took up so gingerly?
 
-LUCETTA  Nothing.
+<speaker>LUCETTA</speaker>
+Nothing.
 
-JULIA  Why didst thou stoop, then?
+<speaker>JULIA</speaker>
+Why didst thou stoop, then?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 To take a paper up that I let fall.
 
-JULIA  And is that paper nothing?
+<speaker>JULIA</speaker>
+And is that paper nothing?
 
-LUCETTA  Nothing concerning me.
+<speaker>LUCETTA</speaker>
+Nothing concerning me.
 
-JULIA
+<speaker>JULIA</speaker>
 Then let it lie for those that it concerns.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Madam, it will not lie where it concerns
 Unless it have a false interpreter.
 
-JULIA
+<speaker>JULIA</speaker>
 Some love of yours hath writ to you in rhyme.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 That I might sing it, madam, to a tune,
 Give me a note. Your Ladyship can set--
 
-JULIA
+<speaker>JULIA</speaker>
 As little by such toys as may be possible.
 Best sing it to the tune of "Light o' Love."
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 It is too heavy for so light a tune.
 
-JULIA
+<speaker>JULIA</speaker>
 Heavy? Belike it hath some burden then?
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Ay, and melodious were it, would you sing it.
 
-JULIA
+<speaker>JULIA</speaker>
 And why not you?
 
-LUCETTA  I cannot reach so high.
+<speaker>LUCETTA</speaker>
+I cannot reach so high.
 
-<b>JULIA,</b> [taking the paper]
+<speaker>JULIA,</speaker>
+[<i>taking the paper</i>]
 Let's see your song. How now, minion!
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Keep tune there still, so you will sing it out.
 And yet methinks I do not like this tune.
 
-JULIA  You do not?
+<speaker>JULIA</speaker>
+You do not?
 
-LUCETTA  No, madam, 'tis too sharp.
+<speaker>LUCETTA</speaker>
+No, madam, 'tis too sharp.
 
-JULIA  You, minion, are too saucy.
+<speaker>JULIA</speaker>
+You, minion, are too saucy.
 
-LUCETTA  Nay, now you are too flat
+<speaker>LUCETTA</speaker>
+Nay, now you are too flat
 And mar the concord with too harsh a descant.
 There wanteth but a mean to fill your song.
 
-JULIA
+<speaker>JULIA</speaker>
 The mean is drowned with your unruly bass.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Indeed, I bid the base for Proteus.
 
-JULIA
+<speaker>JULIA</speaker>
 This babble shall not henceforth trouble me.
 Here is a coil with protestation.
-[She rips up the paper. Lucetta begins
-to pick up the pieces.]
+[<i>She rips up the paper. Lucetta begins
+to pick up the pieces.</i>]
 Go, get you gone, and let the papers lie.
 You would be fing'ring them to anger me.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 She makes it strange, but she would be best pleased
-To be so angered with another letter.	[She exits.]
+To be so angered with another letter.	[<i>She exits.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 Nay, would I were so angered with the same!
 O hateful hands, to tear such loving words!
 Injurious wasps, to feed on such sweet honey
 And kill the bees that yield it with your stings!
 I'll kiss each several paper for amends.
-[She picks up some pieces.]
+[<i>She picks up some pieces.</i>]
 Look, here is writ "kind Julia." Unkind Julia,
 As in revenge of thy ingratitude,
 I throw thy name against the bruising stones,
@@ -545,51 +603,52 @@ He couples it to his complaining names.
 Thus will I fold them one upon another.
 Now kiss, embrace, contend, do what you will.
 
-[Enter Lucetta.]
+[<i>Enter Lucetta.</i>]
 
-
-LUCETTA
+<speaker>LUCETTA</speaker>
 Madam, dinner is ready, and your father stays.
 
-JULIA  Well, let us go.
+<speaker>JULIA</speaker>
+Well, let us go.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 What, shall these papers lie like telltales here?
 
-JULIA
+<speaker>JULIA</speaker>
 If you respect them, best to take them up.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Nay, I was taken up for laying them down.
 Yet here they shall not lie, for catching cold.
-[She picks up the rest of the pieces.]
+[<i>She picks up the rest of the pieces.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 I see you have a month's mind to them.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Ay, madam, you may say what sights you see;
 I see things too, although you judge I wink.
 
-JULIA  Come, come, will 't please you go?
-[They exit.]
+<speaker>JULIA</speaker>
+Come, come, will 't please you go?
+[<i>They exit.</i>]
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Antonio and Pantino.]
+[<i>Enter Antonio and Pantino.</i>]
 
-
-ANTONIO
+<speaker>ANTONIO</speaker>
 Tell me, Pantino, what sad talk was that
 Wherewith my brother held you in the cloister?
 
-PANTINO
+<speaker>PANTINO</speaker>
 'Twas of his nephew Proteus, your son.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 Why, what of him?
 
-PANTINO  He wondered that your Lordship
+<speaker>PANTINO</speaker>
+He wondered that your Lordship
 Would suffer him to spend his youth at home
 While other men, of slender reputation,
 Put forth their sons to seek preferment out:
@@ -603,7 +662,7 @@ To let him spend his time no more at home,
 Which would be great impeachment to his age
 In having known no travel in his youth.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 Nor need'st thou much importune me to that
 Whereon this month I have been hammering.
 I have considered well his loss of time
@@ -613,41 +672,43 @@ Experience is by industry achieved
 And perfected by the swift course of time.
 Then tell me whither were I best to send him.
 
-PANTINO
+<speaker>PANTINO</speaker>
 I think your Lordship is not ignorant
 How his companion, youthful Valentine,
 Attends the Emperor in his royal court.
 
-ANTONIO  I know it well.
+<speaker>ANTONIO</speaker>
+I know it well.
 
-PANTINO
+<speaker>PANTINO</speaker>
 'Twere good, I think, your Lordship sent him thither.
 There shall he practice tilts and tournaments,
 Hear sweet discourse, converse with noblemen,
 And be in eye of every exercise
 Worthy his youth and nobleness of birth.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 I like thy counsel. Well hast thou advised,
 And that thou mayst perceive how well I like it,
 The execution of it shall make known.
 Even with the speediest expedition
 I will dispatch him to the Emperor's court.
 
-PANTINO
+<speaker>PANTINO</speaker>
 Tomorrow, may it please you, Don Alphonso,
 With other gentlemen of good esteem,
 Are journeying to salute the Emperor
 And to commend their service to his will.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 Good company. With them shall Proteus go.
 
-[Enter Proteus reading.]
+[<i>Enter Proteus reading.</i>]
 
 And in good time! Now will we break with him.
 
-<b>PROTEUS,</b> [to himself]
+<speaker>PROTEUS,</speaker>
+[<i>to himself</i>]
 Sweet love, sweet lines, sweet life!
 Here is her hand, the agent of her heart;
 Here is her oath for love, her honor's pawn.
@@ -655,31 +716,31 @@ O, that our fathers would applaud our loves
 To seal our happiness with their consents.
 O heavenly Julia!
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 How now? What letter are you reading there?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 May 't please your Lordship, 'tis a word or two
 Of commendations sent from Valentine,
 Delivered by a friend that came from him.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 Lend me the letter. Let me see what news.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 There is no news, my lord, but that he writes
 How happily he lives, how well beloved
 And daily graced by the Emperor,
 Wishing me with him, partner of his fortune.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 And how stand you affected to his wish?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 As one relying on your Lordship's will,
 And not depending on his friendly wish.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 My will is something sorted with his wish.
 Muse not that I thus suddenly proceed,
 For what I will, I will, and there an end.
@@ -690,18 +751,18 @@ Like exhibition thou shalt have from me.
 Tomorrow be in readiness to go.
 Excuse it not, for I am peremptory.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 My lord, I cannot be so soon provided.
 Please you deliberate a day or two.
 
-ANTONIO
+<speaker>ANTONIO</speaker>
 Look what thou want'st shall be sent after thee.
 No more of stay. Tomorrow thou must go.--
 Come on, Pantino; you shall be employed
 To hasten on his expedition.
-[Antonio and Pantino exit.]
+[<i>Antonio and Pantino exit.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Thus have I shunned the fire for fear of burning
 And drenched me in the sea, where I am drowned.
 I feared to show my father Julia's letter
@@ -713,66 +774,77 @@ The uncertain glory of an April day,
 Which now shows all the beauty of the sun,
 And by and by a cloud takes all away.
 
-[Enter Pantino.]
+[<i>Enter Pantino.</i>]
 
-
-PANTINO
+<speaker>PANTINO</speaker>
 Sir Proteus, your father calls for you.
 He is in haste. Therefore, I pray you, go.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Why, this it is: my heart accords thereto.
-[Aside.] And yet a thousand times it answers "no."
-[They exit.]
-
+[<i>Aside.</i>]
+And yet a thousand times it answers "no."
+[<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
-
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Valentine and Speed, carrying a glove.]
+[<i>Enter Valentine and Speed, carrying a glove.</i>]
 
-
-SPEED
+<speaker>SPEED</speaker>
 Sir, your glove.
 
-VALENTINE  Not mine. My gloves are on.
+<speaker>VALENTINE</speaker>
+Not mine. My gloves are on.
 
-SPEED
+<speaker>SPEED</speaker>
 Why, then, this may be yours, for this is but one.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ha? Let me see. Ay, give it me, it's mine.
 Sweet ornament that decks a thing divine!
 Ah, Sylvia, Sylvia!
 
-<b>SPEED,</b> [calling]  Madam Sylvia! Madam Sylvia!
+<speaker>SPEED,</speaker>
+[<i>calling</i>]
+Madam Sylvia! Madam Sylvia!
 
-VALENTINE  How now, sirrah?
+<speaker>VALENTINE</speaker>
+How now, sirrah?
 
-SPEED  She is not within hearing, sir.
+<speaker>SPEED</speaker>
+She is not within hearing, sir.
 
-VALENTINE  Why, sir, who bade you call her?
+<speaker>VALENTINE</speaker>
+Why, sir, who bade you call her?
 
-SPEED  Your Worship, sir, or else I mistook.
+<speaker>SPEED</speaker>
+Your Worship, sir, or else I mistook.
 
-VALENTINE  Well, you'll still be too forward.
+<speaker>VALENTINE</speaker>
+Well, you'll still be too forward.
 
-SPEED  And yet I was last chidden for being too slow.
+<speaker>SPEED</speaker>
+And yet I was last chidden for being too slow.
 
-VALENTINE  Go to, sir. Tell me, do you know Madam
+<speaker>VALENTINE</speaker>
+Go to, sir. Tell me, do you know Madam
 Sylvia?
 
-SPEED  She that your Worship loves?
+<speaker>SPEED</speaker>
+She that your Worship loves?
 
-VALENTINE  Why, how know you that I am in love?
+<speaker>VALENTINE</speaker>
+Why, how know you that I am in love?
 
-SPEED  Marry, by these special marks: first, you have
+<speaker>SPEED</speaker>
+Marry, by these special marks: first, you have
 learned, like Sir Proteus, to wreathe your arms like
 a malcontent; to relish a love song like a robin
 redbreast; to walk alone like one that had the
 pestilence; to sigh like a schoolboy that had lost his
-ABC; to weep like a young wench that had buried
+<speaker>ABC;</speaker>
+to weep like a young wench that had buried
 her grandam; to fast like one that takes diet; to
 watch like one that fears robbing; to speak puling
 like a beggar at Hallowmas. You were wont, when
@@ -783,184 +855,233 @@ was for want of money. And now you are metamorphosed
 with a mistress, that when I look on you, I
 can hardly think you my master.
 
-VALENTINE  Are all these things perceived in me?
+<speaker>VALENTINE</speaker>
+Are all these things perceived in me?
 
-SPEED  They are all perceived without you.
+<speaker>SPEED</speaker>
+They are all perceived without you.
 
-VALENTINE  Without me? They cannot.
+<speaker>VALENTINE</speaker>
+Without me? They cannot.
 
-SPEED  Without you? Nay, that's certain, for without
+<speaker>SPEED</speaker>
+Without you? Nay, that's certain, for without
 you were so simple, none else would. But you are so
 without these follies, that these follies are within
 you and shine through you like the water in an
 urinal, that not an eye that sees you but is a
 physician to comment on your malady.
 
-VALENTINE  But tell me, dost thou know my Lady
+<speaker>VALENTINE</speaker>
+But tell me, dost thou know my Lady
 Sylvia?
 
-SPEED  She that you gaze on so as she sits at supper?
+<speaker>SPEED</speaker>
+She that you gaze on so as she sits at supper?
 
-VALENTINE  Hast thou observed that? Even she I mean.
+<speaker>VALENTINE</speaker>
+Hast thou observed that? Even she I mean.
 
-SPEED  Why, sir, I know her not.
+<speaker>SPEED</speaker>
+Why, sir, I know her not.
 
-VALENTINE  Dost thou know her by my gazing on her
+<speaker>VALENTINE</speaker>
+Dost thou know her by my gazing on her
 and yet know'st her not?
 
-SPEED  Is she not hard-favored, sir?
+<speaker>SPEED</speaker>
+Is she not hard-favored, sir?
 
-VALENTINE  Not so fair, boy, as well-favored.
+<speaker>VALENTINE</speaker>
+Not so fair, boy, as well-favored.
 
-SPEED  Sir, I know that well enough.
+<speaker>SPEED</speaker>
+Sir, I know that well enough.
 
-VALENTINE  What dost thou know?
+<speaker>VALENTINE</speaker>
+What dost thou know?
 
-SPEED  That she is not so fair as, of you, well-favored.
+<speaker>SPEED</speaker>
+That she is not so fair as, of you, well-favored.
 
-VALENTINE  I mean that her beauty is exquisite but her
+<speaker>VALENTINE</speaker>
+I mean that her beauty is exquisite but her
 favor infinite.
 
-SPEED  That's because the one is painted, and the other
+<speaker>SPEED</speaker>
+That's because the one is painted, and the other
 out of all count.
 
-VALENTINE  How painted? And how out of count?
+<speaker>VALENTINE</speaker>
+How painted? And how out of count?
 
-SPEED  Marry, sir, so painted to make her fair, that no
+<speaker>SPEED</speaker>
+Marry, sir, so painted to make her fair, that no
 man counts of her beauty.
 
-VALENTINE  How esteem'st thou me? I account of her
+<speaker>VALENTINE</speaker>
+How esteem'st thou me? I account of her
 beauty.
 
-SPEED  You never saw her since she was deformed.
+<speaker>SPEED</speaker>
+You never saw her since she was deformed.
 
-VALENTINE  How long hath she been deformed?
+<speaker>VALENTINE</speaker>
+How long hath she been deformed?
 
-SPEED  Ever since you loved her.
+<speaker>SPEED</speaker>
+Ever since you loved her.
 
-VALENTINE  I have loved her ever since I saw her, and
+<speaker>VALENTINE</speaker>
+I have loved her ever since I saw her, and
 still I see her beautiful.
 
-SPEED  If you love her, you cannot see her.
+<speaker>SPEED</speaker>
+If you love her, you cannot see her.
 
-VALENTINE  Why?
+<speaker>VALENTINE</speaker>
+Why?
 
-SPEED  Because love is blind. O, that you had mine eyes,
+<speaker>SPEED</speaker>
+Because love is blind. O, that you had mine eyes,
 or your own eyes had the lights they were wont to
 have when you chid at Sir Proteus for going
 ungartered!
 
-VALENTINE  What should I see then?
+<speaker>VALENTINE</speaker>
+What should I see then?
 
-SPEED  Your own present folly and her passing deformity;
+<speaker>SPEED</speaker>
+Your own present folly and her passing deformity;
 for he, being in love, could not see to garter his
 hose, and you, being in love, cannot see to put on
 your hose.
 
-VALENTINE  Belike, boy, then you are in love, for last
+<speaker>VALENTINE</speaker>
+Belike, boy, then you are in love, for last
 morning you could not see to wipe my shoes.
 
-SPEED  True, sir, I was in love with my bed. I thank you,
+<speaker>SPEED</speaker>
+True, sir, I was in love with my bed. I thank you,
 you swinged me for my love, which makes me the
 bolder to chide you for yours.
 
-VALENTINE  In conclusion, I stand affected to her.
+<speaker>VALENTINE</speaker>
+In conclusion, I stand affected to her.
 
-SPEED  I would you were set, so your affection would
+<speaker>SPEED</speaker>
+I would you were set, so your affection would
 cease.
 
-VALENTINE  Last night she enjoined me to write some
+<speaker>VALENTINE</speaker>
+Last night she enjoined me to write some
 lines to one she loves.
 
-SPEED  And have you?
+<speaker>SPEED</speaker>
+And have you?
 
-VALENTINE  I have.
+<speaker>VALENTINE</speaker>
+I have.
 
-SPEED  Are they not lamely writ?
+<speaker>SPEED</speaker>
+Are they not lamely writ?
 
-VALENTINE  No, boy, but as well as I can do them.
+<speaker>VALENTINE</speaker>
+No, boy, but as well as I can do them.
 Peace, here she comes.
 
-[Enter Sylvia.]
+[<i>Enter Sylvia.</i>]
 
-
-<b>SPEED,</b> [aside]  O excellent motion! O exceeding puppet!
+<speaker>SPEED,</speaker>
+[<i>aside</i>]
+O excellent motion! O exceeding puppet!
 Now will he interpret to her.
 
-VALENTINE  Madam and mistress, a thousand
+<speaker>VALENTINE</speaker>
+Madam and mistress, a thousand
 good-morrows.
 
-<b>SPEED,</b> [aside]  O, give ye good ev'n! Here's a million of
+<speaker>SPEED,</speaker>
+[<i>aside</i>]
+O, give ye good ev'n! Here's a million of
 manners.
 
-SYLVIA  Sir Valentine, and servant, to you two
+<speaker>SYLVIA</speaker>
+Sir Valentine, and servant, to you two
 thousand.
 
-<b>SPEED,</b> [aside]  He should give her interest, and she
+<speaker>SPEED,</speaker>
+[<i>aside</i>]
+He should give her interest, and she
 gives it him.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 As you enjoined me, I have writ your letter
 Unto the secret, nameless friend of yours,
 Which I was much unwilling to proceed in
 But for my duty to your Ladyship.
-[He gives her a paper.]
+[<i>He gives her a paper.</i>]
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 I thank you, gentle servant, 'tis very clerkly done.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Now trust me, madam, it came hardly off,
 For, being ignorant to whom it goes,
 I writ at random, very doubtfully.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Perchance you think too much of so much pains?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 No, madam. So it stead you, I will write,
 Please you command, a thousand times as much,
 And yet--
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 A pretty period. Well, I guess the sequel;
 And yet I will not name it And yet I care not.
-And yet take this again.	[She holds out the paper.]
+And yet take this again.	[<i>She holds out the paper.</i>]
 And yet I thank you,
 Meaning henceforth to trouble you no more.
 
-<b>SPEED,</b> [aside]
+<speaker>SPEED,</speaker>
+[<i>aside</i>]
 And yet you will; and yet another "yet."
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 What means your Ladyship? Do you not like it?
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Yes, yes, the lines are very quaintly writ,
 But, since unwillingly, take them again.
-Nay, take them.	[She again offers him the paper.]
+Nay, take them.	[<i>She again offers him the paper.</i>]
 
-VALENTINE  Madam, they are for you.
+<speaker>VALENTINE</speaker>
+Madam, they are for you.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Ay, ay. You writ them, sir, at my request,
 But I will none of them. They are for you.
 I would have had them writ more movingly.
 
-<b>VALENTINE,</b> [taking the paper]
+<speaker>VALENTINE,</speaker>
+[<i>taking the paper</i>]
 Please you, I'll write your Ladyship another.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 And when it's writ, for my sake read it over,
 And if it please you, so; if not, why, so.
 
-VALENTINE  If it please me, madam? What then?
+<speaker>VALENTINE</speaker>
+If it please me, madam? What then?
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Why, if it please you, take it for your labor.
-And so good-morrow, servant.	[Sylvia exits.]
+And so good-morrow, servant.	[<i>Sylvia exits.</i>]
 
-<b>SPEED,</b> [aside]
+<speaker>SPEED,</speaker>
+[<i>aside</i>]
 O jest unseen, inscrutable, invisible
 As a nose on a man's face, or a weathercock on a
 steeple!
@@ -971,46 +1092,64 @@ O excellent device! Was there ever heard a better?
 That my master, being scribe, to himself should
 write the letter?
 
-VALENTINE  How now, sir? What, are you reasoning
+<speaker>VALENTINE</speaker>
+How now, sir? What, are you reasoning
 with yourself?
 
-SPEED  Nay, I was rhyming. 'Tis you that have the
+<speaker>SPEED</speaker>
+Nay, I was rhyming. 'Tis you that have the
 reason.
 
-VALENTINE  To do what?
+<speaker>VALENTINE</speaker>
+To do what?
 
-SPEED  To be a spokesman from Madam Sylvia.
+<speaker>SPEED</speaker>
+To be a spokesman from Madam Sylvia.
 
-VALENTINE  To whom?
+<speaker>VALENTINE</speaker>
+To whom?
 
-SPEED  To yourself. Why, she woos you by a figure.
+<speaker>SPEED</speaker>
+To yourself. Why, she woos you by a figure.
 
-VALENTINE  What figure?
+<speaker>VALENTINE</speaker>
+What figure?
 
-SPEED  By a letter, I should say.
+<speaker>SPEED</speaker>
+By a letter, I should say.
 
-VALENTINE  Why, she hath not writ to me!
+<speaker>VALENTINE</speaker>
+Why, she hath not writ to me!
 
-SPEED  What need she when she hath made you write
+<speaker>SPEED</speaker>
+What need she when she hath made you write
 to yourself? Why, do you not perceive the jest?
 
-VALENTINE  No, believe me.
+<speaker>VALENTINE</speaker>
+No, believe me.
 
-SPEED  No believing you indeed, sir. But did you perceive
+<speaker>SPEED</speaker>
+No believing you indeed, sir. But did you perceive
 her earnest?
 
-VALENTINE  She gave me none, except an angry word.
+<speaker>VALENTINE</speaker>
+She gave me none, except an angry word.
 
-SPEED  Why, she hath given you a letter.
+<speaker>SPEED</speaker>
+Why, she hath given you a letter.
 
-VALENTINE  That's the letter I writ to her friend.
+<speaker>VALENTINE</speaker>
+That's the letter I writ to her friend.
 
-SPEED  And that letter hath she delivered, and there an
+<speaker>SPEED</speaker>
+And that letter hath she delivered, and there an
 end.
 
-VALENTINE  I would it were no worse.
+<speaker>VALENTINE</speaker>
+I would it were no worse.
 
-SPEED  I'll warrant you, 'tis as well.
+<speaker>SPEED</speaker>
+I'll warrant you, 'tis as well.
 For often have you writ to her, and she, in modesty
 Or else for want of idle time, could not again reply,
 Or fearing else some messenger that might her
@@ -1020,38 +1159,42 @@ her lover.
 All this I speak in print, for in print I found it. Why
 muse you, sir? 'Tis dinnertime.
 
-VALENTINE  I have dined.
+<speaker>VALENTINE</speaker>
+I have dined.
 
-SPEED  Ay, but hearken, sir, though the chameleon love
+<speaker>SPEED</speaker>
+Ay, but hearken, sir, though the chameleon love
 can feed on the air, I am one that am nourished by
 my victuals and would fain have meat. O, be not like
 your mistress! Be moved, be moved.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Proteus and Julia.]
+[<i>Enter Proteus and Julia.</i>]
 
+<speaker>PROTEUS</speaker>
+Have patience, gentle Julia.
 
-PROTEUS  Have patience, gentle Julia.
+<speaker>JULIA</speaker>
+I must where is no remedy.
 
-JULIA  I must where is no remedy.
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 When possibly I can, I will return.
 
-JULIA
+<speaker>JULIA</speaker>
 If you turn not, you will return the sooner.
 Keep this remembrance for thy Julia's sake.
-[She gives him a ring.]
+[<i>She gives him a ring.</i>]
 
-<b>PROTEUS,</b> [giving her a ring]
+<speaker>PROTEUS,</speaker>
+[<i>giving her a ring</i>]
 Why, then we'll make exchange. Here, take you this.
 
-JULIA
+<speaker>JULIA</speaker>
 And seal the bargain with a holy kiss.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Here is my hand for my true constancy.
 And when that hour o'erslips me in the day
 Wherein I sigh not, Julia, for thy sake,
@@ -1060,26 +1203,28 @@ Torment me for my love's forgetfulness.
 My father stays my coming. Answer not.
 The tide is now--nay, not thy tide of tears;
 That tide will stay me longer than I should.
-Julia, farewell.	[Julia exits.]
+Julia, farewell.	[<i>Julia exits.</i>]
 What, gone without a word?
 Ay, so true love should do. It cannot speak,
 For truth hath better deeds than words to grace it.
 
-[Enter Pantino.]
+[<i>Enter Pantino.</i>]
 
+<speaker>PANTINO</speaker>
+Sir Proteus, you are stayed for.
 
-PANTINO  Sir Proteus, you are stayed for.
-
-PROTEUS  Go. I come, I come.
-[Aside.] Alas, this parting strikes poor lovers dumb.
-[They exit.]
+<speaker>PROTEUS</speaker>
+Go. I come, I come.
+[<i>Aside.</i>]
+Alas, this parting strikes poor lovers dumb.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Lance, weeping, with his dog, Crab.]
+[<i>Enter Lance, weeping, with his dog, Crab.</i>]
 
-
-LANCE  Nay,'twill be this hour ere I have done weeping.
+<speaker>LANCE</speaker>
+Nay,'twill be this hour ere I have done weeping.
 All the kind of the Lances have this very fault. I have
 received my proportion like the Prodigious Son and
 am going with Sir Proteus to the Imperial's court. I
@@ -1092,8 +1237,9 @@ is a stone, a very pibble stone, and has no more pity
 in him than a dog. A Jew would have wept to have
 seen our parting. Why, my grandam, having no
 eyes, look you, wept herself blind at my parting.
-Nay, I'll show you the manner of it. [He takes off his
-shoes.] This shoe is my father. No, this left shoe is
+Nay, I'll show you the manner of it. [<i>He takes off his
+shoes.</i>]
+This shoe is my father. No, this left shoe is
 my father; no, no, this left shoe is my mother. Nay,
 that cannot be so neither. Yes, it is so, it is so; it hath
 the worser sole. This shoe with the hole in it is my
@@ -1105,178 +1251,230 @@ himself, and I am the dog. O, the dog is me, and I
 am myself. Ay, so, so. Now come I to my father:
 "Father, your blessing." Now should not the shoe
 speak a word for weeping. Now should I kiss my
-father. [He kisses one shoe.] Well, he weeps on. Now
+father. [<i>He kisses one shoe.</i>]
+Well, he weeps on. Now
 come I to my mother. O, that she could speak now
-like a wold woman! Well, I kiss her. [He kisses the
-other shoe.] Why, there 'tis; here's my mother's
+like a wold woman! Well, I kiss her. [<i>He kisses the
+other shoe.</i>]
+Why, there 'tis; here's my mother's
 breath up and down. Now come I to my sister. Mark
 the moan she makes! Now the dog all this while
 sheds not a tear nor speaks a word. But see how I
 lay the dust with my tears.
 
-[Enter Pantino.]
+[<i>Enter Pantino.</i>]
 
-
-PANTINO  Lance, away, away! Aboard. Thy master is
+<speaker>PANTINO</speaker>
+Lance, away, away! Aboard. Thy master is
 shipped, and thou art to post after with oars. What's
 the matter? Why weep'st thou, man? Away, ass.
 You'll lose the tide if you tarry any longer.
 
-LANCE  It is no matter if the tied were lost, for it is the
+<speaker>LANCE</speaker>
+It is no matter if the tied were lost, for it is the
 unkindest tied that ever any man tied.
 
-PANTINO  What's the unkindest tide?
+<speaker>PANTINO</speaker>
+What's the unkindest tide?
 
-LANCE  Why, he that's tied here, Crab my dog.
+<speaker>LANCE</speaker>
+Why, he that's tied here, Crab my dog.
 
-PANTINO  Tut, man. I mean thou 'lt lose the flood and, in
+<speaker>PANTINO</speaker>
+Tut, man. I mean thou 'lt lose the flood and, in
 losing the flood, lose thy voyage and, in losing thy
 voyage, lose thy master and, in losing thy master,
-lose thy service and, in losing thy service--[Lance
-covers Pantino's mouth.] Why dost thou stop my
+lose thy service and, in losing thy service--[<i>Lance
+covers Pantino's mouth.</i>]
+Why dost thou stop my
 mouth?
 
-LANCE  For fear thou shouldst lose thy tongue.
+<speaker>LANCE</speaker>
+For fear thou shouldst lose thy tongue.
 
-PANTINO  Where should I lose my tongue?
+<speaker>PANTINO</speaker>
+Where should I lose my tongue?
 
-LANCE  In thy tale.
+<speaker>LANCE</speaker>
+In thy tale.
 
-PANTINO  In thy tail!
+<speaker>PANTINO</speaker>
+In thy tail!
 
-LANCE  Lose the tide, and the voyage, and the master,
+<speaker>LANCE</speaker>
+Lose the tide, and the voyage, and the master,
 and the service, and the tied. Why, man, if the river
 were dry, I am able to fill it with my tears; if the
 wind were down, I could drive the boat with my
 sighs.
 
-PANTINO  Come. Come away, man. I was sent to call
+<speaker>PANTINO</speaker>
+Come. Come away, man. I was sent to call
 thee.
 
-LANCE  Sir, call me what thou dar'st.
+<speaker>LANCE</speaker>
+Sir, call me what thou dar'st.
 
-PANTINO  Wilt thou go?
+<speaker>PANTINO</speaker>
+Wilt thou go?
 
-LANCE  Well, I will go.
-[They exit.]
+<speaker>LANCE</speaker>
+Well, I will go.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Valentine, Sylvia, Thurio, and Speed.]
+[<i>Enter Valentine, Sylvia, Thurio, and Speed.</i>]
 
+<speaker>SYLVIA</speaker>
+Servant!
 
-SYLVIA  Servant!
+<speaker>VALENTINE</speaker>
+Mistress?
 
-VALENTINE  Mistress?
+<speaker>SPEED</speaker>
+Master, Sir Thurio frowns on you.
 
-SPEED  Master, Sir Thurio frowns on you.
+<speaker>VALENTINE</speaker>
+Ay, boy, it's for love.
 
-VALENTINE  Ay, boy, it's for love.
+<speaker>SPEED</speaker>
+Not of you.
 
-SPEED  Not of you.
+<speaker>VALENTINE</speaker>
+Of my mistress, then.
 
-VALENTINE  Of my mistress, then.
+<speaker>SPEED</speaker>
+'Twere good you knocked him.
 
-SPEED  'Twere good you knocked him.
+<speaker>SYLVIA,</speaker>
+[<i>to Valentine</i>]
+Servant, you are sad.
 
-<b>SYLVIA,</b> [to Valentine]  Servant, you are sad.
+<speaker>VALENTINE</speaker>
+Indeed, madam, I seem so.
 
-VALENTINE  Indeed, madam, I seem so.
+<speaker>THURIO</speaker>
+Seem you that you are not?
 
-THURIO  Seem you that you are not?
+<speaker>VALENTINE</speaker>
+Haply I do.
 
-VALENTINE  Haply I do.
+<speaker>THURIO</speaker>
+So do counterfeits.
 
-THURIO  So do counterfeits.
+<speaker>VALENTINE</speaker>
+So do you.
 
-VALENTINE  So do you.
+<speaker>THURIO</speaker>
+What seem I that I am not?
 
-THURIO  What seem I that I am not?
+<speaker>VALENTINE</speaker>
+Wise.
 
-VALENTINE  Wise.
+<speaker>THURIO</speaker>
+What instance of the contrary?
 
-THURIO  What instance of the contrary?
+<speaker>VALENTINE</speaker>
+Your folly.
 
-VALENTINE  Your folly.
+<speaker>THURIO</speaker>
+And how quote you my folly?
 
-THURIO  And how quote you my folly?
+<speaker>VALENTINE</speaker>
+I quote it in your jerkin.
 
-VALENTINE  I quote it in your jerkin.
+<speaker>THURIO</speaker>
+My "jerkin" is a doublet.
 
-THURIO  My "jerkin" is a doublet.
+<speaker>VALENTINE</speaker>
+Well, then, I'll double your folly.
 
-VALENTINE  Well, then, I'll double your folly.
+<speaker>THURIO</speaker>
+How!
 
-THURIO  How!
+<speaker>SYLVIA</speaker>
+What, angry, Sir Thurio? Do you change color?
 
-SYLVIA  What, angry, Sir Thurio? Do you change color?
-
-VALENTINE  Give him leave, madam. He is a kind of
+<speaker>VALENTINE</speaker>
+Give him leave, madam. He is a kind of
 chameleon.
 
-THURIO  That hath more mind to feed on your blood
+<speaker>THURIO</speaker>
+That hath more mind to feed on your blood
 than live in your air.
 
-VALENTINE  You have said, sir.
+<speaker>VALENTINE</speaker>
+You have said, sir.
 
-THURIO  Ay, sir, and done too for this time.
+<speaker>THURIO</speaker>
+Ay, sir, and done too for this time.
 
-VALENTINE  I know it well, sir. You always end ere you
+<speaker>VALENTINE</speaker>
+I know it well, sir. You always end ere you
 begin.
 
-SYLVIA  A fine volley of words, gentlemen, and quickly
+<speaker>SYLVIA</speaker>
+A fine volley of words, gentlemen, and quickly
 shot off.
 
-VALENTINE  'Tis indeed, madam. We thank the giver.
+<speaker>VALENTINE</speaker>
+'Tis indeed, madam. We thank the giver.
 
-SYLVIA  Who is that, servant?
+<speaker>SYLVIA</speaker>
+Who is that, servant?
 
-VALENTINE  Yourself, sweet lady, for you gave the fire.
+<speaker>VALENTINE</speaker>
+Yourself, sweet lady, for you gave the fire.
 Sir Thurio borrows his wit from your Ladyship's
 looks and spends what he borrows kindly in your
 company.
 
-THURIO  Sir, if you spend word for word with me, I shall
+<speaker>THURIO</speaker>
+Sir, if you spend word for word with me, I shall
 make your wit bankrupt.
 
-VALENTINE  I know it well, sir. You have an exchequer
+<speaker>VALENTINE</speaker>
+I know it well, sir. You have an exchequer
 of words and, I think, no other treasure to give your
 followers, for it appears by their bare liveries that
 they live by your bare words.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 No more, gentlemen, no more. Here comes my
 father.
 
-[Enter Duke.]
+[<i>Enter Duke.</i>]
 
-
-DUKE
+<speaker>DUKE</speaker>
 Now, daughter Sylvia, you are hard beset.--
 Sir Valentine, your father is in good health.
 What say you to a letter from your friends
 Of much good news?
 
-VALENTINE  My lord, I will be thankful
+<speaker>VALENTINE</speaker>
+My lord, I will be thankful
 To any happy messenger from thence.
 
-DUKE
+<speaker>DUKE</speaker>
 Know you Don Antonio, your countryman?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ay, my good lord, I know the gentleman
 To be of worth and worthy estimation,
 And not without desert so well reputed.
 
-DUKE  Hath he not a son?
+<speaker>DUKE</speaker>
+Hath he not a son?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ay, my good lord, a son that well deserves
 The honor and regard of such a father.
 
-DUKE  You know him well?
+<speaker>DUKE</speaker>
+You know him well?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I knew him as myself, for from our infancy
 We have conversed and spent our hours together,
 And though myself have been an idle truant,
@@ -1291,7 +1489,7 @@ Comes all the praises that I now bestow--
 He is complete in feature and in mind,
 With all good grace to grace a gentleman.
 
-DUKE
+<speaker>DUKE</speaker>
 Beshrew me, sir, but if he make this good,
 He is as worthy for an empress' love,
 As meet to be an emperor's counselor.
@@ -1300,121 +1498,123 @@ With commendation from great potentates,
 And here he means to spend his time awhile.
 I think 'tis no unwelcome news to you.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Should I have wished a thing, it had been he.
 
-DUKE
+<speaker>DUKE</speaker>
 Welcome him then according to his worth.
 Sylvia, I speak to you--and you, Sir Thurio.
 For Valentine, I need not cite him to it.
-I will send him hither to you presently.	[Duke exits.]
+I will send him hither to you presently.	[<i>Duke exits.</i>]
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 This is the gentleman I told your Ladyship
 Had come along with me but that his mistress
 Did hold his eyes locked in her crystal looks.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Belike that now she hath enfranchised them
 Upon some other pawn for fealty.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Nay, sure, I think she holds them prisoners still.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Nay, then, he should be blind, and being blind
 How could he see his way to seek out you?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Why, lady, love hath twenty pair of eyes.
 
-THURIO
+<speaker>THURIO</speaker>
 They say that Love hath not an eye at all.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 To see such lovers, Thurio, as yourself.
 Upon a homely object, Love can wink.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Have done, have done. Here comes the gentleman.
 
-[Enter Proteus.]
+[<i>Enter Proteus.</i>]
 
-
-VALENTINE
+<speaker>VALENTINE</speaker>
 Welcome, dear Proteus.--Mistress, I beseech you
 Confirm his welcome with some special favor.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 His worth is warrant for his welcome hither,
 If this be he you oft have wished to hear from.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Mistress, it is. Sweet lady, entertain him
 To be my fellow-servant to your Ladyship.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Too low a mistress for so high a servant.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Not so, sweet lady, but too mean a servant
 To have a look of such a worthy mistress.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Leave off discourse of disability.
 Sweet lady, entertain him for your servant.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 My duty will I boast of, nothing else.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 And duty never yet did want his meed.
 Servant, you are welcome to a worthless mistress.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 I'll die on him that says so but yourself.
 
-SYLVIA  That you are welcome?
+<speaker>SYLVIA</speaker>
+That you are welcome?
 
-PROTEUS  That you are worthless.
+<speaker>PROTEUS</speaker>
+That you are worthless.
 
-[Enter Servant.]
+[<i>Enter Servant.</i>]
 
-
-SERVANT
+<speaker>SERVANT</speaker>
 Madam, my lord your father would speak with you.
 
-SYLVIA
-I wait upon his pleasure. [Servant exits.] Come, Sir
+<speaker>SYLVIA</speaker>
+I wait upon his pleasure. [<i>Servant exits.</i>]
+Come, Sir
 Thurio,
 Go with me.--Once more, new servant, welcome.
 I'll leave you to confer of home affairs.
 When you have done, we look to hear from you.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 We'll both attend upon your Ladyship.
-[Sylvia and Thurio exit.]
+[<i>Sylvia and Thurio exit.</i>]
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Now tell me, how do all from whence you came?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Your friends are well and have them much
 commended.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And how do yours?
 
-PROTEUS  I left them all in health.
+<speaker>PROTEUS</speaker>
+I left them all in health.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 How does your lady? And how thrives your love?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 My tales of love were wont to weary you.
 I know you joy not in a love discourse.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ay, Proteus, but that life is altered now.
 I have done penance for contemning Love,
 Whose high imperious thoughts have punished me
@@ -1432,43 +1632,45 @@ Now, no discourse except it be of love.
 Now can I break my fast, dine, sup, and sleep
 Upon the very naked name of Love.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Enough; I read your fortune in your eye.
 Was this the idol that you worship so?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Even she. And is she not a heavenly saint?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 No, but she is an earthly paragon.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Call her divine.
 
-PROTEUS  I will not flatter her.
+<speaker>PROTEUS</speaker>
+I will not flatter her.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 O, flatter me, for love delights in praises.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 When I was sick, you gave me bitter pills,
 And I must minister the like to you.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Then speak the truth by her; if not divine,
 Yet let her be a principality,
 Sovereign to all the creatures on the Earth.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Except my mistress.
 
-VALENTINE  Sweet, except not any,
+<speaker>VALENTINE</speaker>
+Sweet, except not any,
 Except thou wilt except against my love.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Have I not reason to prefer mine own?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And I will help thee to prefer her too:
 She shall be dignified with this high honor--
 To bear my lady's train, lest the base earth
@@ -1477,18 +1679,19 @@ And, of so great a favor growing proud,
 Disdain to root the summer-swelling flower
 And make rough winter everlastingly.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Why, Valentine, what braggartism is this?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Pardon me, Proteus, all I can is nothing
 To her whose worth makes other worthies
 nothing.
 She is alone--
 
-PROTEUS  Then let her alone.
+<speaker>PROTEUS</speaker>
+Then let her alone.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Not for the world! Why, man, she is mine own,
 And I as rich in having such a jewel
 As twenty seas if all their sand were pearl,
@@ -1500,9 +1703,10 @@ Only for his possessions are so huge,
 Is gone with her along, and I must after,
 For love, thou know'st, is full of jealousy.
 
-PROTEUS  But she loves you?
+<speaker>PROTEUS</speaker>
+But she loves you?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ay, and we are betrothed; nay more, our marriage
 hour,
 With all the cunning manner of our flight
@@ -1512,15 +1716,17 @@ Plotted and 'greed on for my happiness.
 Good Proteus, go with me to my chamber,
 In these affairs to aid me with thy counsel.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Go on before. I shall inquire you forth.
 I must unto the road to disembark
 Some necessaries that I needs must use,
 And then I'll presently attend you.
 
-VALENTINE  Will you make haste?
+<speaker>VALENTINE</speaker>
+Will you make haste?
 
-PROTEUS  I will.	[Valentine and Speed exit.]
+<speaker>PROTEUS</speaker>
+I will. [<i>Valentine and Speed exit.</i>]
 Even as one heat another heat expels,
 Or as one nail by strength drives out another,
 So the remembrance of my former love
@@ -1544,106 +1750,137 @@ But when I look on her perfections,
 There is no reason but I shall be blind.
 If I can check my erring love, I will;
 If not, to compass her I'll use my skill.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Speed and Lance, with his dog, Crab.]
+[<i>Enter Speed and Lance, with his dog, Crab.</i>]
 
+<speaker>SPEED</speaker>
+Lance, by mine honesty, welcome to Padua.
 
-SPEED  Lance, by mine honesty, welcome to Padua.
-
-LANCE  Forswear not thyself, sweet youth, for I am not
+<speaker>LANCE</speaker>
+Forswear not thyself, sweet youth, for I am not
 welcome. I reckon this always: that a man is never
 undone till he be hanged, nor never welcome to a
 place till some certain shot be paid and the Hostess
 say welcome.
 
-SPEED  Come on, you madcap. I'll to the alehouse with
+<speaker>SPEED</speaker>
+Come on, you madcap. I'll to the alehouse with
 you presently, where, for one shot of five pence,
 thou shalt have five thousand welcomes. But, sirrah,
 how did thy master part with Madam Julia?
 
-LANCE  Marry, after they closed in earnest, they parted
+<speaker>LANCE</speaker>
+Marry, after they closed in earnest, they parted
 very fairly in jest.
 
-SPEED  But shall she marry him?
+<speaker>SPEED</speaker>
+But shall she marry him?
 
-LANCE  No.
+<speaker>LANCE</speaker>
+No.
 
-SPEED  How then? Shall he marry her?
+<speaker>SPEED</speaker>
+How then? Shall he marry her?
 
-LANCE  No, neither.
+<speaker>LANCE</speaker>
+No, neither.
 
-SPEED  What, are they broken?
+<speaker>SPEED</speaker>
+What, are they broken?
 
-LANCE  No, they are both as whole as a fish.
+<speaker>LANCE</speaker>
+No, they are both as whole as a fish.
 
-SPEED  Why then, how stands the matter with them?
+<speaker>SPEED</speaker>
+Why then, how stands the matter with them?
 
-LANCE  Marry, thus: when it stands well with him, it
+<speaker>LANCE</speaker>
+Marry, thus: when it stands well with him, it
 stands well with her.
 
-SPEED  What an ass art thou! I understand thee not.
+<speaker>SPEED</speaker>
+What an ass art thou! I understand thee not.
 
-LANCE  What a block art thou that thou canst not! My
+<speaker>LANCE</speaker>
+What a block art thou that thou canst not! My
 staff understands me.
 
-SPEED  What thou sayst?
+<speaker>SPEED</speaker>
+What thou sayst?
 
-LANCE  Ay, and what I do too. Look thee, I'll but lean,
+<speaker>LANCE</speaker>
+Ay, and what I do too. Look thee, I'll but lean,
 and my staff understands me.
 
-SPEED  It stands under thee indeed.
+<speaker>SPEED</speaker>
+It stands under thee indeed.
 
-LANCE  Why, "stand under" and "understand" is all
+<speaker>LANCE</speaker>
+Why, "stand under" and "understand" is all
 one.
 
-SPEED  But tell me true, will 't be a match?
+<speaker>SPEED</speaker>
+But tell me true, will 't be a match?
 
-LANCE  Ask my dog. If he say "Ay," it will; if he say
+<speaker>LANCE</speaker>
+Ask my dog. If he say "Ay," it will; if he say
 "No," it will; if he shake his tail and say nothing, it
 will.
 
-SPEED  The conclusion is, then, that it will.
+<speaker>SPEED</speaker>
+The conclusion is, then, that it will.
 
-LANCE  Thou shalt never get such a secret from me but
+<speaker>LANCE</speaker>
+Thou shalt never get such a secret from me but
 by a parable.
 
-SPEED  'Tis well that I get it so. But, Lance, how sayst
+<speaker>SPEED</speaker>
+'Tis well that I get it so. But, Lance, how sayst
 thou that my master is become a notable lover?
 
-LANCE  I never knew him otherwise.
+<speaker>LANCE</speaker>
+I never knew him otherwise.
 
-SPEED  Than how?
+<speaker>SPEED</speaker>
+Than how?
 
-LANCE  A notable lubber, as thou reportest him to be.
+<speaker>LANCE</speaker>
+A notable lubber, as thou reportest him to be.
 
-SPEED  Why, thou whoreson ass, thou mistak'st me.
+<speaker>SPEED</speaker>
+Why, thou whoreson ass, thou mistak'st me.
 
-LANCE  Why, fool, I meant not thee; I meant thy master.
+<speaker>LANCE</speaker>
+Why, fool, I meant not thee; I meant thy master.
 
-SPEED  I tell thee, my master is become a hot lover.
+<speaker>SPEED</speaker>
+I tell thee, my master is become a hot lover.
 
-LANCE  Why, I tell thee, I care not though he burn
+<speaker>LANCE</speaker>
+Why, I tell thee, I care not though he burn
 himself in love. If thou wilt, go with me to the
 alehouse; if not, thou art an Hebrew, a Jew, and not
 worth the name of a Christian.
 
-SPEED  Why?
+<speaker>SPEED</speaker>
+Why?
 
-LANCE  Because thou hast not so much charity in thee
+<speaker>LANCE</speaker>
+Because thou hast not so much charity in thee
 as to go to the ale with a Christian. Wilt thou go?
 
-SPEED  At thy service.
-[They exit.]
+<speaker>SPEED</speaker>
+At thy service.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Enter Proteus alone.]
+[<i>Enter Proteus alone.</i>]
 
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 To leave my Julia, shall I be forsworn.
 To love fair Sylvia, shall I be forsworn.
 To wrong my friend, I shall be much forsworn.
@@ -1687,14 +1924,13 @@ But Valentine being gone, I'll quickly cross
 By some sly trick blunt Thurio's dull proceeding.
 Love, lend me wings to make my purpose swift,
 As thou hast lent me wit to plot this drift.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[Enter Julia and Lucetta.]
+[<i>Enter Julia and Lucetta.</i>]
 
-
-JULIA
+<speaker>JULIA</speaker>
 Counsel, Lucetta. Gentle girl, assist me;
 And ev'n in kind love I do conjure thee--
 Who art the table wherein all my thoughts
@@ -1703,20 +1939,20 @@ To lesson me and tell me some good mean
 How with my honor I may undertake
 A journey to my loving Proteus.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Alas, the way is wearisome and long.
 
-JULIA
+<speaker>JULIA</speaker>
 A true-devoted pilgrim is not weary
 To measure kingdoms with his feeble steps;
 Much less shall she that hath Love's wings to fly,
 And when the flight is made to one so dear,
 Of such divine perfection, as Sir Proteus.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Better forbear till Proteus make return.
 
-JULIA
+<speaker>JULIA</speaker>
 O, know'st thou not his looks are my soul's food?
 Pity the dearth that I have pined in
 By longing for that food so long a time.
@@ -1724,12 +1960,12 @@ Didst thou but know the inly touch of love,
 Thou wouldst as soon go kindle fire with snow
 As seek to quench the fire of love with words.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 I do not seek to quench your love's hot fire,
 But qualify the fire's extreme rage,
 Lest it should burn above the bounds of reason.
 
-JULIA
+<speaker>JULIA</speaker>
 The more thou damm'st it up, the more it burns.
 The current that with gentle murmur glides,
 Thou know'st, being stopped, impatiently doth rage,
@@ -1746,70 +1982,71 @@ Till the last step have brought me to my love,
 And there I'll rest as after much turmoil
 A blessed soul doth in Elysium.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 But in what habit will you go along?
 
-JULIA
+<speaker>JULIA</speaker>
 Not like a woman, for I would prevent
 The loose encounters of lascivious men.
 Gentle Lucetta, fit me with such weeds
 As may beseem some well-reputed page.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Why, then, your Ladyship must cut your hair.
 
-JULIA
+<speaker>JULIA</speaker>
 No, girl, I'll knit it up in silken strings
 With twenty odd-conceited true-love knots.
 To be fantastic may become a youth
 Of greater time than I shall show to be.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 What fashion, madam, shall I make your breeches?
 
-JULIA
+<speaker>JULIA</speaker>
 That fits as well as "Tell me, good my lord,
 What compass will you wear your farthingale?"
 Why, ev'n what fashion thou best likes, Lucetta.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 You must needs have them with a codpiece, madam.
 
-JULIA
+<speaker>JULIA</speaker>
 Out, out, Lucetta. That will be ill-favored.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 A round hose, madam, now's not worth a pin
 Unless you have a codpiece to stick pins on.
 
-JULIA
+<speaker>JULIA</speaker>
 Lucetta, as thou lov'st me, let me have
 What thou think'st meet and is most mannerly.
 But tell me, wench, how will the world repute me
 For undertaking so unstaid a journey?
 I fear me it will make me scandalized.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 If you think so, then stay at home and go not.
 
-JULIA  Nay, that I will not.
+<speaker>JULIA</speaker>
+Nay, that I will not.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Then never dream on infamy, but go.
 If Proteus like your journey when you come,
 No matter who's displeased when you are gone.
 I fear me he will scarce be pleased withal.
 
-JULIA
+<speaker>JULIA</speaker>
 That is the least, Lucetta, of my fear.
 A thousand oaths, an ocean of his tears,
 And instances of infinite of love
 Warrant me welcome to my Proteus.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 All these are servants to deceitful men.
 
-JULIA
+<speaker>JULIA</speaker>
 Base men that use them to so base effect!
 But truer stars did govern Proteus' birth.
 His words are bonds, his oaths are oracles,
@@ -1817,10 +2054,10 @@ His love sincere, his thoughts immaculate,
 His tears pure messengers sent from his heart,
 His heart as far from fraud as heaven from Earth.
 
-LUCETTA
+<speaker>LUCETTA</speaker>
 Pray heav'n he prove so when you come to him.
 
-JULIA
+<speaker>JULIA</speaker>
 Now, as thou lov'st me, do him not that wrong
 To bear a hard opinion of his truth.
 Only deserve my love by loving him.
@@ -1832,22 +2069,19 @@ My goods, my lands, my reputation.
 Only, in lieu thereof, dispatch me hence.
 Come, answer not, but to it presently.
 I am impatient of my tarriance.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
-
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Duke, Thurio, and Proteus.]
+[<i>Enter Duke, Thurio, and Proteus.</i>]
 
-
-DUKE
+<speaker>DUKE</speaker>
 Sir Thurio, give us leave, I pray, awhile;
-We have some secrets to confer about.	[Thurio exits.]
+We have some secrets to confer about.	[<i>Thurio exits.</i>]
 Now tell me, Proteus, what's your will with me?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 My gracious lord, that which I would discover
 The law of friendship bids me to conceal,
 But when I call to mind your gracious favors
@@ -1867,7 +2101,7 @@ Than, by concealing it, heap on your head
 A pack of sorrows which would press you down,
 Being unprevented, to your timeless grave.
 
-DUKE
+<speaker>DUKE</speaker>
 Proteus, I thank thee for thine honest care,
 Which to requite command me while I live.
 This love of theirs myself have often seen,
@@ -1885,7 +2119,7 @@ I nightly lodge her in an upper tower,
 The key whereof myself have ever kept,
 And thence she cannot be conveyed away.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Know, noble lord, they have devised a mean
 How he her chamber-window will ascend
 And with a corded ladder fetch her down;
@@ -1897,46 +2131,46 @@ That my discovery be not aimed at;
 For love of you, not hate unto my friend,
 Hath made me publisher of this pretense.
 
-DUKE
+<speaker>DUKE</speaker>
 Upon mine honor, he shall never know
 That I had any light from thee of this.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Adieu, my lord. Sir Valentine is coming.
-[Proteus exits.]
+[<i>Proteus exits.</i>]
 
-[Enter Valentine.]
+[<i>Enter Valentine.</i>]
 
-
-DUKE
+<speaker>DUKE</speaker>
 Sir Valentine, whither away so fast?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Please it your Grace, there is a messenger
 That stays to bear my letters to my friends,
 And I am going to deliver them.
 
-DUKE  Be they of much import?
+<speaker>DUKE</speaker>
+Be they of much import?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 The tenor of them doth but signify
 My health and happy being at your court.
 
-DUKE
+<speaker>DUKE</speaker>
 Nay then, no matter. Stay with me awhile;
 I am to break with thee of some affairs
 That touch me near, wherein thou must be secret.
 'Tis not unknown to thee that I have sought
 To match my friend Sir Thurio to my daughter.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I know it well, my lord, and sure the match
 Were rich and honorable. Besides, the gentleman
 Is full of virtue, bounty, worth, and qualities
 Beseeming such a wife as your fair daughter.
 Cannot your Grace win her to fancy him?
 
-DUKE
+<speaker>DUKE</speaker>
 No. Trust me, she is peevish, sullen, froward,
 Proud, disobedient, stubborn, lacking duty,
 Neither regarding that she is my child
@@ -1950,10 +2184,10 @@ And turn her out to who will take her in.
 Then let her beauty be her wedding dower,
 For me and my possessions she esteems not.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 What would your Grace have me to do in this?
 
-DUKE
+<speaker>DUKE</speaker>
 There is a lady in Verona here
 Whom I affect; but she is nice, and coy,
 And nought esteems my aged eloquence.
@@ -1963,15 +2197,15 @@ Besides, the fashion of the time is changed--
 How and which way I may bestow myself
 To be regarded in her sun-bright eye.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Win her with gifts if she respect not words;
 Dumb jewels often in their silent kind
 More than quick words do move a woman's mind.
 
-DUKE
+<speaker>DUKE</speaker>
 But she did scorn a present that I sent her.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 A woman sometime scorns what best contents her.
 Send her another; never give her o'er,
 For scorn at first makes after-love the more.
@@ -1986,91 +2220,94 @@ Though ne'er so black, say they have angels' faces.
 That man that hath a tongue, I say, is no man
 If with his tongue he cannot win a woman.
 
-DUKE
+<speaker>DUKE</speaker>
 But she I mean is promised by her friends
 Unto a youthful gentleman of worth
 And kept severely from resort of men,
 That no man hath access by day to her.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Why, then, I would resort to her by night.
 
-DUKE
+<speaker>DUKE</speaker>
 Ay, but the doors be locked and keys kept safe,
 That no man hath recourse to her by night.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 What lets but one may enter at her window?
 
-DUKE
+<speaker>DUKE</speaker>
 Her chamber is aloft, far from the ground,
 And built so shelving that one cannot climb it
 Without apparent hazard of his life.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Why, then a ladder quaintly made of cords
 To cast up, with a pair of anchoring hooks,
 Would serve to scale another Hero's tower,
 So bold Leander would adventure it.
 
-DUKE
+<speaker>DUKE</speaker>
 Now, as thou art a gentleman of blood,
 Advise me where I may have such a ladder.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 When would you use it? Pray sir, tell me that.
 
-DUKE
+<speaker>DUKE</speaker>
 This very night; for love is like a child
 That longs for everything that he can come by.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 By seven o'clock I'll get you such a ladder.
 
-DUKE
+<speaker>DUKE</speaker>
 But hark thee: I will go to her alone;
 How shall I best convey the ladder thither?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 It will be light, my lord, that you may bear it
 Under a cloak that is of any length.
 
-DUKE
+<speaker>DUKE</speaker>
 A cloak as long as thine will serve the turn?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Ay, my good lord.
 
-DUKE  Then let me see thy cloak;
+<speaker>DUKE</speaker>
+Then let me see thy cloak;
 I'll get me one of such another length.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Why, any cloak will serve the turn, my lord.
 
-DUKE
+<speaker>DUKE</speaker>
 How shall I fashion me to wear a cloak?
 I pray thee, let me feel thy cloak upon me.
-[Pulling off the cloak, he reveals
-a rope ladder and a paper.]
-What letter is this same? What's here? [(Reads.)] To
+[<i>Pulling off the cloak, he reveals
+a rope ladder and a paper.</i>]
+What letter is this same? What's here? [<i>(Reads.)</i>]
+To
 Sylvia.
 And here an engine fit for my proceeding.
 I'll be so bold to break the seal for once.
-[Reads.]
-	My thoughts do harbor with my Sylvia nightly,
-	   And slaves they are to me that send them flying.
-	O, could their master come and go as lightly,
-	   Himself would lodge where, senseless, they are
-   lying.
-	My herald thoughts in thy pure bosom rest them,
-	   While I, their king, that thither them importune,
-	Do curse the grace that with such grace hath blest
+[<i>Reads.</i>]
+My thoughts do harbor with my Sylvia nightly,
+And slaves they are to me that send them flying.
+O, could their master come and go as lightly,
+Himself would lodge where, senseless, they are
+lying.
+My herald thoughts in thy pure bosom rest them,
+While I, their king, that thither them importune,
+Do curse the grace that with such grace hath blest
 them,
-	   Because myself do want my servants' fortune.
-	I curse myself, for they are sent by me,
-	That they should harbor where their lord should be.
+Because myself do want my servants' fortune.
+I curse myself, for they are sent by me,
+That they should harbor where their lord should be.
 What's here?
-[(Reads.)] Sylvia, this night I will enfranchise thee.
+[<i>(Reads.)</i>]
+Sylvia, this night I will enfranchise thee.
 'Tis so. And here's the ladder for the purpose.
 Why, Phaeton--for thou art Merops' son--
 Wilt thou aspire to guide the heavenly car
@@ -2089,9 +2326,9 @@ By heaven, my wrath shall far exceed the love
 I ever bore my daughter or thyself.
 Begone. I will not hear thy vain excuse,
 But, as thou lov'st thy life, make speed from hence.
-[He exits.]
+[<i>He exits.</i>]
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And why not death, rather than living torment?
 To die is to be banished from myself,
 And Sylvia is myself; banished from her
@@ -2111,78 +2348,96 @@ I fly not death, to fly his deadly doom;
 Tarry I here, I but attend on death,
 But fly I hence, I fly away from life.
 
-[Enter Proteus and Lance.]
+[<i>Enter Proteus and Lance.</i>]
 
+<speaker>PROTEUS</speaker>
+Run, boy, run, run, and seek him out.
 
-PROTEUS  Run, boy, run, run, and seek him out.
+<speaker>LANCE</speaker>
+So-ho, so-ho!
 
-LANCE  So-ho, so-ho!
+<speaker>PROTEUS</speaker>
+What seest thou?
 
-PROTEUS  What seest thou?
-
-LANCE  Him we go to find. There's not a hair on 's head
+<speaker>LANCE</speaker>
+Him we go to find. There's not a hair on 's head
 but 'tis a Valentine.
 
-PROTEUS  Valentine?
+<speaker>PROTEUS</speaker>
+Valentine?
 
-VALENTINE  No.
+<speaker>VALENTINE</speaker>
+No.
 
-PROTEUS  Who then? His spirit?
+<speaker>PROTEUS</speaker>
+Who then? His spirit?
 
-VALENTINE  Neither.
+<speaker>VALENTINE</speaker>
+Neither.
 
-PROTEUS  What then?
+<speaker>PROTEUS</speaker>
+What then?
 
-VALENTINE  Nothing.
+<speaker>VALENTINE</speaker>
+Nothing.
 
-LANCE  Can nothing speak? Master, shall I strike?
+<speaker>LANCE</speaker>
+Can nothing speak? Master, shall I strike?
 
-PROTEUS  Who wouldst thou strike?
+<speaker>PROTEUS</speaker>
+Who wouldst thou strike?
 
-LANCE  Nothing.
+<speaker>LANCE</speaker>
+Nothing.
 
-PROTEUS  Villain, forbear.
+<speaker>PROTEUS</speaker>
+Villain, forbear.
 
-LANCE  Why, sir, I'll strike nothing. I pray you--
+<speaker>LANCE</speaker>
+Why, sir, I'll strike nothing. I pray you--
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sirrah, I say forbear.--Friend Valentine, a word.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 My ears are stopped and cannot hear good news,
 So much of bad already hath possessed them.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Then in dumb silence will I bury mine,
 For they are harsh, untunable, and bad.
 
-VALENTINE  Is Sylvia dead?
+<speaker>VALENTINE</speaker>
+Is Sylvia dead?
 
-PROTEUS  No, Valentine.
+<speaker>PROTEUS</speaker>
+No, Valentine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 No Valentine indeed for sacred Sylvia.
 Hath she forsworn me?
 
-PROTEUS  No, Valentine.
+<speaker>PROTEUS</speaker>
+No, Valentine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 No Valentine if Sylvia have forsworn me.
 What is your news?
 
-LANCE  Sir, there is a proclamation that you are
+<speaker>LANCE</speaker>
+Sir, there is a proclamation that you are
 vanished.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 That thou art banished--O, that's the news--
 From hence, from Sylvia, and from me thy friend.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 O, I have fed upon this woe already,
 And now excess of it will make me surfeit.
 Doth Sylvia know that I am banished?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Ay, ay, and she hath offered to the doom--
 Which unreversed stands in effectual force--
 A sea of melting pearl, which some call tears;
@@ -2200,13 +2455,13 @@ When she for thy repeal was suppliant,
 That to close prison he commanded her
 With many bitter threats of biding there.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 No more, unless the next word that thou speak'st
 Have some malignant power upon my life.
 If so, I pray thee breathe it in mine ear
 As ending anthem of my endless dolor.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Cease to lament for that thou canst not help,
 And study help for that which thou lament'st.
 Time is the nurse and breeder of all good.
@@ -2224,19 +2479,20 @@ Of all that may concern thy love affairs.
 As thou lov'st Sylvia, though not for thyself,
 Regard thy danger, and along with me.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I pray thee, Lance, an if thou seest my boy,
 Bid him make haste and meet me at the North
 Gate.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Go, sirrah, find him out.--Come, Valentine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 O, my dear Sylvia! Hapless Valentine!
-[Valentine and Proteus exit.]
+[<i>Valentine and Proteus exit.</i>]
 
-LANCE  I am but a fool, look you, and yet I have the wit
+<speaker>LANCE</speaker>
+I am but a fool, look you, and yet I have the wit
 to think my master is a kind of a knave, but that's all
 one if he be but one knave. He lives not now that
 knows me to be in love, yet I am in love, but a team
@@ -2246,285 +2502,355 @@ not tell myself; and yet 'tis a milk-maid; yet 'tis not a
 maid, for she hath had gossips; yet 'tis a maid, for
 she is her master's maid and serves for wages. She
 hath more qualities than a water spaniel, which is
-much in a bare Christian. [He takes out a piece of
-paper.] Here is the catalog of her condition.
-[(Reads.)] Imprimis, She can fetch and carry. Why, a
+much in a bare Christian. [<i>He takes out a piece of
+paper.</i>]
+Here is the catalog of her condition.
+[<i>(Reads.)</i>]
+Imprimis, She can fetch and carry. Why, a
 horse can do no more; nay, a horse cannot fetch but
 only carry; therefore is she better than a jade.
-[(Reads.)] Item, She can milk. Look you, a sweet
+[<i>(Reads.)</i>]
+Item, She can milk. Look you, a sweet
 virtue in a maid with clean hands.
 
-[Enter Speed.]
+[<i>Enter Speed.</i>]
 
-
-SPEED  How now, Signior Lance? What news with your
+<speaker>SPEED</speaker>
+How now, Signior Lance? What news with your
 Mastership?
 
-LANCE  With my master's ship? Why, it is at sea.
+<speaker>LANCE</speaker>
+With my master's ship? Why, it is at sea.
 
-SPEED  Well, your old vice still: mistake the word. What
+<speaker>SPEED</speaker>
+Well, your old vice still: mistake the word. What
 news, then, in your paper?
 
-LANCE  The black'st news that ever thou heard'st.
+<speaker>LANCE</speaker>
+The black'st news that ever thou heard'st.
 
-SPEED  Why, man? How black?
+<speaker>SPEED</speaker>
+Why, man? How black?
 
-LANCE  Why, as black as ink.
+<speaker>LANCE</speaker>
+Why, as black as ink.
 
-SPEED  Let me read them.
+<speaker>SPEED</speaker>
+Let me read them.
 
-LANCE  Fie on thee, jolt-head, thou canst not read.
+<speaker>LANCE</speaker>
+Fie on thee, jolt-head, thou canst not read.
 
-SPEED  Thou liest. I can.
+<speaker>SPEED</speaker>
+Thou liest. I can.
 
-LANCE  I will try thee. Tell me this, who begot thee?
+<speaker>LANCE</speaker>
+I will try thee. Tell me this, who begot thee?
 
-SPEED  Marry, the son of my grandfather.
+<speaker>SPEED</speaker>
+Marry, the son of my grandfather.
 
-<b>LANCE  O,</b> illiterate loiterer, it was the son of thy grandmother.
+<speaker>LANCE</speaker>
+O, illiterate loiterer, it was the son of thy grandmother.
 This proves that thou canst not read.
 
-SPEED  Come, fool, come. Try me in thy paper.
+<speaker>SPEED</speaker>
+Come, fool, come. Try me in thy paper.
 
-<b>LANCE,</b> [giving him the paper]  There, and Saint Nicholas
+<speaker>LANCE,</speaker>
+[<i>giving him the paper</i>]
+There, and Saint Nicholas
 be thy speed.
 
-SPEED [reads]  Imprimis, She can milk.
+<speaker>SPEED</speaker>
+[<i>reads</i>]
+Imprimis, She can milk.
 
-LANCE  Ay, that she can.
+<speaker>LANCE</speaker>
+Ay, that she can.
 
-SPEED  Item, She brews good ale.
+<speaker>SPEED</speaker>
+Item, She brews good ale.
 
-LANCE  And thereof comes the proverb: "Blessing of
+<speaker>LANCE</speaker>
+And thereof comes the proverb: "Blessing of
 your heart, you brew good ale."
 
-SPEED  Item, She can sew.
+<speaker>SPEED</speaker>
+Item, She can sew.
 
-LANCE  That's as much as to say "Can she so?"
+<speaker>LANCE</speaker>
+That's as much as to say "Can she so?"
 
-SPEED  Item, She can knit.
+<speaker>SPEED</speaker>
+Item, She can knit.
 
-LANCE  What need a man care for a stock with a wench,
+<speaker>LANCE</speaker>
+What need a man care for a stock with a wench,
 when she can knit him a stock?
 
-SPEED  Item, She can wash and scour.
+<speaker>SPEED</speaker>
+Item, She can wash and scour.
 
-LANCE  A special virtue, for then she need not be
+<speaker>LANCE</speaker>
+A special virtue, for then she need not be
 washed and scoured.
 
-SPEED  Item, She can spin.
+<speaker>SPEED</speaker>
+Item, She can spin.
 
-LANCE  Then may I set the world on wheels, when she
+<speaker>LANCE</speaker>
+Then may I set the world on wheels, when she
 can spin for her living.
 
-SPEED  Item, She hath many nameless virtues.
+<speaker>SPEED</speaker>
+Item, She hath many nameless virtues.
 
-LANCE  That's as much as to say "bastard virtues," that
+<speaker>LANCE</speaker>
+That's as much as to say "bastard virtues," that
 indeed know not their fathers and therefore have no
 names.
 
-SPEED  Here follow her vices.
+<speaker>SPEED</speaker>
+Here follow her vices.
 
-LANCE  Close at the heels of her virtues.
+<speaker>LANCE</speaker>
+Close at the heels of her virtues.
 
-SPEED  Item, She is not to be kissed fasting in respect of
+<speaker>SPEED</speaker>
+Item, She is not to be kissed fasting in respect of
 her breath.
 
-LANCE  Well, that fault may be mended with a breakfast.
+<speaker>LANCE</speaker>
+Well, that fault may be mended with a breakfast.
 Read on.
 
-SPEED  Item, She hath a sweet mouth.
+<speaker>SPEED</speaker>
+Item, She hath a sweet mouth.
 
-LANCE  That makes amends for her sour breath.
+<speaker>LANCE</speaker>
+That makes amends for her sour breath.
 
-SPEED  Item, She doth talk in her sleep.
+<speaker>SPEED</speaker>
+Item, She doth talk in her sleep.
 
-LANCE  It's no matter for that, so she sleep not in her
+<speaker>LANCE</speaker>
+It's no matter for that, so she sleep not in her
 talk.
 
-SPEED  Item, She is slow in words.
+<speaker>SPEED</speaker>
+Item, She is slow in words.
 
-LANCE  O villain, that set this down among her vices! To
+<speaker>LANCE</speaker>
+O villain, that set this down among her vices! To
 be slow in words is a woman's only virtue. I pray
 thee, out with 't, and place it for her chief virtue.
 
-SPEED  Item, She is proud.
+<speaker>SPEED</speaker>
+Item, She is proud.
 
-LANCE  Out with that too; it was Eve's legacy and
+<speaker>LANCE</speaker>
+Out with that too; it was Eve's legacy and
 cannot be ta'en from her.
 
-SPEED  Item, She hath no teeth.
+<speaker>SPEED</speaker>
+Item, She hath no teeth.
 
-LANCE  I care not for that neither, because I love crusts.
+<speaker>LANCE</speaker>
+I care not for that neither, because I love crusts.
 
-SPEED  Item, She is curst.
+<speaker>SPEED</speaker>
+Item, She is curst.
 
-LANCE  Well, the best is, she hath no teeth to bite.
+<speaker>LANCE</speaker>
+Well, the best is, she hath no teeth to bite.
 
-SPEED  Item, She will often praise her liquor.
+<speaker>SPEED</speaker>
+Item, She will often praise her liquor.
 
-LANCE  If her liquor be good, she shall; if she will not, I
+<speaker>LANCE</speaker>
+If her liquor be good, she shall; if she will not, I
 will, for good things should be praised.
 
-SPEED  Item, She is too liberal.
+<speaker>SPEED</speaker>
+Item, She is too liberal.
 
-LANCE  Of her tongue she cannot, for that's writ down
+<speaker>LANCE</speaker>
+Of her tongue she cannot, for that's writ down
 she is slow of; of her purse she shall not, for that I'll
 keep shut; now, of another thing she may, and that
 cannot I help. Well, proceed.
 
-SPEED  Item, She hath more hair than wit, and more
+<speaker>SPEED</speaker>
+Item, She hath more hair than wit, and more
 faults than hairs, and more wealth than faults.
 
-LANCE  Stop there. I'll have her. She was mine and not
+<speaker>LANCE</speaker>
+Stop there. I'll have her. She was mine and not
 mine twice or thrice in that last article. Rehearse
 that once more.
 
-SPEED  Item, She hath more hair than wit.
+<speaker>SPEED</speaker>
+Item, She hath more hair than wit.
 
-LANCE  "More hair than wit"? It may be; I'll prove it:
+<speaker>LANCE</speaker>
+"More hair than wit"? It may be; I'll prove it:
 the cover of the salt hides the salt, and therefore it is
 more than the salt; the hair that covers the wit is
 more than the wit, for the greater hides the less.
 What's next?
 
-SPEED  And more faults than hairs.
+<speaker>SPEED</speaker>
+And more faults than hairs.
 
-LANCE  That's monstrous! O, that that were out!
+<speaker>LANCE</speaker>
+That's monstrous! O, that that were out!
 
-SPEED  And more wealth than faults.
+<speaker>SPEED</speaker>
+And more wealth than faults.
 
-LANCE  Why, that word makes the faults gracious. Well,
+<speaker>LANCE</speaker>
+Why, that word makes the faults gracious. Well,
 I'll have her, and if it be a match, as nothing is
 impossible--
 
-SPEED  What then?
+<speaker>SPEED</speaker>
+What then?
 
-LANCE  Why, then will I tell thee that thy master stays
+<speaker>LANCE</speaker>
+Why, then will I tell thee that thy master stays
 for thee at the North Gate.
 
-SPEED  For me?
+<speaker>SPEED</speaker>
+For me?
 
-LANCE  For thee? Ay, who art thou? He hath stayed for a
+<speaker>LANCE</speaker>
+For thee? Ay, who art thou? He hath stayed for a
 better man than thee.
 
-SPEED  And must I go to him?
+<speaker>SPEED</speaker>
+And must I go to him?
 
-LANCE  Thou must run to him, for thou hast stayed so
+<speaker>LANCE</speaker>
+Thou must run to him, for thou hast stayed so
 long that going will scarce serve the turn.
 
-<b>SPEED,</b> [handing him the paper]  Why didst not tell me
-sooner? Pox of your love letters!	[He exits.]
+<speaker>SPEED,</speaker>
+[<i>handing him the paper</i>]
+Why didst not tell me
+sooner? Pox of your love letters!	[<i>He exits.</i>]
 
-LANCE  Now will he be swinged for reading my letter;
+<speaker>LANCE</speaker>
+Now will he be swinged for reading my letter;
 an unmannerly slave, that will thrust himself into
 secrets. I'll after, to rejoice in the boy's correction.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Duke and Thurio.]
+[<i>Enter Duke and Thurio.</i>]
 
-
-DUKE
+<speaker>DUKE</speaker>
 Sir Thurio, fear not but that she will love you
 Now Valentine is banished from her sight.
 
-THURIO
+<speaker>THURIO</speaker>
 Since his exile she hath despised me most,
 Forsworn my company and railed at me,
 That I am desperate of obtaining her.
 
-DUKE
+<speaker>DUKE</speaker>
 This weak impress of love is as a figure
 Trenched in ice, which with an hour's heat
 Dissolves to water and doth lose his form.
 A little time will melt her frozen thoughts,
 And worthless Valentine shall be forgot.
 
-[Enter Proteus.]
+[<i>Enter Proteus.</i>]
 
 How now, Sir Proteus? Is your countryman,
 According to our proclamation, gone?
 
-PROTEUS  Gone, my good lord.
+<speaker>PROTEUS</speaker>
+Gone, my good lord.
 
-DUKE
+<speaker>DUKE</speaker>
 My daughter takes his going grievously.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 A little time, my lord, will kill that grief.
 
-DUKE
+<speaker>DUKE</speaker>
 So I believe, but Thurio thinks not so.
 Proteus, the good conceit I hold of thee,
 For thou hast shown some sign of good desert,
 Makes me the better to confer with thee.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Longer than I prove loyal to your Grace
 Let me not live to look upon your Grace.
 
-DUKE
+<speaker>DUKE</speaker>
 Thou know'st how willingly I would effect
 The match between Sir Thurio and my daughter?
 
-PROTEUS  I do, my lord.
+<speaker>PROTEUS</speaker>
+I do, my lord.
 
-DUKE
+<speaker>DUKE</speaker>
 And also, I think, thou art not ignorant
 How she opposes her against my will?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 She did, my lord, when Valentine was here.
 
-DUKE
+<speaker>DUKE</speaker>
 Ay, and perversely she persevers so.
 What might we do to make the girl forget
 The love of Valentine, and love Sir Thurio?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 The best way is to slander Valentine
 With falsehood, cowardice, and poor descent,
 Three things that women highly hold in hate.
 
-DUKE
+<speaker>DUKE</speaker>
 Ay, but she'll think that it is spoke in hate.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Ay, if his enemy deliver it.
 Therefore it must with circumstance be spoken
 By one whom she esteemeth as his friend.
 
-DUKE
+<speaker>DUKE</speaker>
 Then you must undertake to slander him.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 And that, my lord, I shall be loath to do.
 'Tis an ill office for a gentleman,
 Especially against his very friend.
 
-DUKE
+<speaker>DUKE</speaker>
 Where your good word cannot advantage him,
 Your slander never can endamage him;
 Therefore the office is indifferent,
 Being entreated to it by your friend.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 You have prevailed, my lord. If I can do it
 By aught that I can speak in his dispraise,
 She shall not long continue love to him.
 But say this weed her love from Valentine,
 It follows not that she will love Sir Thurio.
 
-THURIO
+<speaker>THURIO</speaker>
 Therefore, as you unwind her love from him,
 Lest it should ravel and be good to none,
 You must provide to bottom it on me,
 Which must be done by praising me as much
 As you in worth dispraise Sir Valentine.
 
-DUKE
+<speaker>DUKE</speaker>
 And, Proteus, we dare trust you in this kind
 Because we know, on Valentine's report,
 You are already Love's firm votary
@@ -2536,17 +2862,17 @@ And, for your friend's sake, will be glad of you--
 Where you may temper her by your persuasion
 To hate young Valentine and love my friend.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 As much as I can do I will effect.--
 But you, Sir Thurio, are not sharp enough.
 You must lay lime to tangle her desires
 By wailful sonnets, whose composed rhymes
 Should be full-fraught with serviceable vows.
 
-DUKE
+<speaker>DUKE</speaker>
 Ay, much is the force of heaven-bred poesy.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Say that upon the altar of her beauty
 You sacrifice your tears, your sighs, your heart.
 Write till your ink be dry, and with your tears
@@ -2564,10 +2890,11 @@ Will well become such sweet complaining
 grievance.
 This, or else nothing, will inherit her.
 
-DUKE
+<speaker>DUKE</speaker>
 This discipline shows thou hast been in love.
 
-<b>THURIO,</b> [to Proteus]
+<speaker>THURIO,</speaker>
+[<i>to Proteus</i>]
 And thy advice this night I'll put in practice.
 Therefore, sweet Proteus, my direction-giver,
 Let us into the city presently
@@ -2575,115 +2902,129 @@ To sort some gentlemen well-skilled in music.
 I have a sonnet that will serve the turn
 To give the onset to thy good advice.
 
-DUKE  About it, gentlemen.
+<speaker>DUKE</speaker>
+About it, gentlemen.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 We'll wait upon your Grace till after supper
 And afterward determine our proceedings.
 
-DUKE
+<speaker>DUKE</speaker>
 Even now about it! I will pardon you.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
-
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter certain Outlaws.]
+[<i>Enter certain Outlaws.</i>]
 
-
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 Fellows, stand fast. I see a passenger.
 
-SECOND OUTLAW
+<speaker>SECOND OUTLAW</speaker>
 If there be ten, shrink not, but down with 'em.
 
-[Enter Valentine and Speed.]
+[<i>Enter Valentine and Speed.</i>]
 
-
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 Stand, sir, and throw us that you have about you.
 If not, we'll make you sit, and rifle you.
 
-<b>SPEED,</b> [to Valentine]
+<speaker>SPEED,</speaker>
+[<i>to Valentine</i>]
 Sir, we are undone; these are the villains
 That all the travelers do fear so much.
 
-VALENTINE  My friends--
+<speaker>VALENTINE</speaker>
+My friends--
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 That's not so, sir. We are your enemies.
 
-SECOND OUTLAW  Peace. We'll hear him.
+<speaker>SECOND OUTLAW</speaker>
+Peace. We'll hear him.
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 Ay, by my beard, will we, for he is a proper man.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Then know that I have little wealth to lose.
 A man I am crossed with adversity;
 My riches are these poor habiliments,
 Of which, if you should here disfurnish me,
 You take the sum and substance that I have.
 
-SECOND OUTLAW  Whither travel you?
+<speaker>SECOND OUTLAW</speaker>
+Whither travel you?
 
-VALENTINE  To Verona.
+<speaker>VALENTINE</speaker>
+To Verona.
 
-FIRST OUTLAW  Whence came you?
+<speaker>FIRST OUTLAW</speaker>
+Whence came you?
 
-VALENTINE  From Milan.
+<speaker>VALENTINE</speaker>
+From Milan.
 
-THIRD OUTLAW  Have you long sojourned there?
+<speaker>THIRD OUTLAW</speaker>
+Have you long sojourned there?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Some sixteen months, and longer might have stayed
 If crooked fortune had not thwarted me.
 
-FIRST OUTLAW  What, were you banished thence?
+<speaker>FIRST OUTLAW</speaker>
+What, were you banished thence?
 
-VALENTINE  I was.
+<speaker>VALENTINE</speaker>
+I was.
 
-SECOND OUTLAW  For what offense?
+<speaker>SECOND OUTLAW</speaker>
+For what offense?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 For that which now torments me to rehearse;
 I killed a man, whose death I much repent,
 But yet I slew him manfully in fight
 Without false vantage or base treachery.
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 Why, ne'er repent it if it were done so;
 But were you banished for so small a fault?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I was, and held me glad of such a doom.
 
-SECOND OUTLAW  Have you the tongues?
+<speaker>SECOND OUTLAW</speaker>
+Have you the tongues?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 My youthful travel therein made me happy,
 Or else I often had been miserable.
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 By the bare scalp of Robin Hood's fat friar,
 This fellow were a king for our wild faction.
 
-FIRST OUTLAW  We'll have him.--Sirs, a word.
-[The Outlaws step aside to talk.]
+<speaker>FIRST OUTLAW</speaker>
+We'll have him.--Sirs, a word.
+[<i>The Outlaws step aside to talk.</i>]
 
-SPEED  Master, be one of them. It's an honorable kind
+<speaker>SPEED</speaker>
+Master, be one of them. It's an honorable kind
 of thievery.
 
-VALENTINE  Peace, villain.
+<speaker>VALENTINE</speaker>
+Peace, villain.
 
-<b>SECOND OUTLAW,</b> [advancing]
+<speaker>SECOND OUTLAW,</speaker>
+[<i>advancing</i>]
 Tell us this: have you anything to take to?
 
-VALENTINE  Nothing but my fortune.
+<speaker>VALENTINE</speaker>
+Nothing but my fortune.
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 Know then that some of us are gentlemen,
 Such as the fury of ungoverned youth
 Thrust from the company of awful men.
@@ -2691,11 +3032,11 @@ Myself was from Verona banished
 For practicing to steal away a lady,
 An heir and near allied unto the Duke.
 
-SECOND OUTLAW
+<speaker>SECOND OUTLAW</speaker>
 And I from Mantua, for a gentleman
 Who, in my mood, I stabbed unto the heart.
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 And I for such like petty crimes as these.
 But to the purpose: for we cite our faults
 That they may hold excused our lawless lives,
@@ -2704,43 +3045,42 @@ With goodly shape, and by your own report
 A linguist, and a man of such perfection
 As we do in our quality much want--
 
-SECOND OUTLAW
+<speaker>SECOND OUTLAW</speaker>
 Indeed because you are a banished man,
 Therefore, above the rest, we parley to you.
 Are you content to be our general,
 To make a virtue of necessity
 And live as we do in this wilderness?
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 What sayst thou? Wilt thou be of our consort?
 Say ay, and be the captain of us all;
 We'll do thee homage and be ruled by thee,
 Love thee as our commander and our king.
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 But if thou scorn our courtesy, thou diest.
 
-SECOND OUTLAW
+<speaker>SECOND OUTLAW</speaker>
 Thou shalt not live to brag what we have offered.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I take your offer and will live with you,
 Provided that you do no outrages
 On silly women or poor passengers.
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 No, we detest such vile base practices.
 Come, go with us; we'll bring thee to our crews
 And show thee all the treasure we have got,
 Which, with ourselves, all rest at thy dispose.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Proteus.]
+[<i>Enter Proteus.</i>]
 
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 Already have I been false to Valentine,
 And now I must be as unjust to Thurio.
 Under the color of commending him,
@@ -2760,164 +3100,206 @@ But here comes Thurio. Now must we to her
 window
 And give some evening music to her ear.
 
-[Enter Thurio and Musicians.]
+[<i>Enter Thurio and Musicians.</i>]
 
-
-THURIO
+<speaker>THURIO</speaker>
 How now, Sir Proteus, are you crept before us?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Ay, gentle Thurio, for you know that love
 Will creep in service where it cannot go.
 
-THURIO
+<speaker>THURIO</speaker>
 Ay, but I hope, sir, that you love not here.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sir, but I do, or else I would be hence.
 
-THURIO
+<speaker>THURIO</speaker>
 Who, Sylvia?
 
-PROTEUS  Ay, Sylvia, for your sake.
+<speaker>PROTEUS</speaker>
+Ay, Sylvia, for your sake.
 
-THURIO
+<speaker>THURIO</speaker>
 I thank you for your own.--Now, gentlemen,
 Let's tune, and to it lustily awhile.
 
-[Enter Host of the inn, and Julia, disguised as a
-page, Sebastian. They stand at a distance and talk.]
+[<i>Enter Host of the inn, and Julia, disguised as a
+page, Sebastian. They stand at a distance and talk.</i>]
 
-
-HOST  Now, my young guest, methinks you're allycholly.
+<speaker>HOST</speaker>
+Now, my young guest, methinks you're allycholly.
 I pray you, why is it?
 
-<b>JULIA,</b> [as Sebastian]  Marry, mine host, because I
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Marry, mine host, because I
 cannot be merry.
 
-HOST  Come, we'll have you merry. I'll bring you where
+<speaker>HOST</speaker>
+Come, we'll have you merry. I'll bring you where
 you shall hear music and see the gentleman that you
 asked for.
 
-<b>JULIA,</b> [as Sebastian]  But shall I hear him speak?
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+But shall I hear him speak?
 
-HOST  Ay, that you shall.
+<speaker>HOST</speaker>
+Ay, that you shall.
 
-<b>JULIA,</b> [as Sebastian]  That will be music.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+That will be music.
 
-HOST  Hark, hark.	[Music plays.]
+<speaker>HOST</speaker>
+Hark, hark. [<i>Music plays.</i>]
 
-<b>JULIA,</b> [as Sebastian]  Is he among these?
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Is he among these?
 
-HOST  Ay. But peace; let's hear 'em.
+<speaker>HOST</speaker>
+Ay. But peace; let's hear 'em.
 
 Song.
 
 
-PROTEUS	Who is Sylvia? What is she,
-	   That all our swains commend her?
-	Holy, fair, and wise is she;
-	   The heaven such grace did lend her
-	      That she might admired be.
+<speaker>PROTEUS</speaker>
+Who is Sylvia? What is she,
+That all our swains commend her?
+Holy, fair, and wise is she;
+The heaven such grace did lend her
+That she might admired be.
 
-	Is she kind as she is fair?
-	   For beauty lives with kindness.
-	Love doth to her eyes repair
-	   To help him of his blindness;
-	      And, being helped, inhabits there.
+Is she kind as she is fair?
+For beauty lives with kindness.
+Love doth to her eyes repair
+To help him of his blindness;
+And, being helped, inhabits there.
 
-	Then to Sylvia let us sing,
-	   That Sylvia is excelling;
-	She excels each mortal thing
-	   Upon the dull earth dwelling.
-	      To her let us garlands bring.
+Then to Sylvia let us sing,
+That Sylvia is excelling;
+She excels each mortal thing
+Upon the dull earth dwelling.
+To her let us garlands bring.
 
 
-HOST  How now? Are you sadder than you were before?
+<speaker>HOST</speaker>
+How now? Are you sadder than you were before?
 How do you, man? The music likes you not.
 
-<b>JULIA,</b> [as Sebastian]  You mistake. The musician likes me
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+You mistake. The musician likes me
 not.
 
-HOST  Why, my pretty youth?
+<speaker>HOST</speaker>
+Why, my pretty youth?
 
-<b>JULIA,</b> [as Sebastian]  He plays false, father.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+He plays false, father.
 
-HOST  How, out of tune on the strings?
+<speaker>HOST</speaker>
+How, out of tune on the strings?
 
-<b>JULIA,</b> [as Sebastian]  Not so; but yet so false that he
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Not so; but yet so false that he
 grieves my very heart-strings.
 
-HOST  You have a quick ear.
+<speaker>HOST</speaker>
+You have a quick ear.
 
-<b>JULIA,</b> [as Sebastian]  Ay, I would I were deaf; it makes
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Ay, I would I were deaf; it makes
 me have a slow heart.
 
-HOST  I perceive you delight not in music.
+<speaker>HOST</speaker>
+I perceive you delight not in music.
 
-<b>JULIA,</b> [as Sebastian]  Not a whit when it jars so.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Not a whit when it jars so.
 
-HOST  Hark, what fine change is in the music!
+<speaker>HOST</speaker>
+Hark, what fine change is in the music!
 
-<b>JULIA,</b> [as Sebastian]  Ay; that change is the spite.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Ay; that change is the spite.
 
-HOST  You would have them always play but one
+<speaker>HOST</speaker>
+You would have them always play but one
 thing?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 I would always have one play but one thing.
 But, host, doth this Sir Proteus, that we talk on,
 Often resort unto this gentlewoman?
 
-HOST  I tell you what Lance his man told me: he loved
+<speaker>HOST</speaker>
+I tell you what Lance his man told me: he loved
 her out of all nick.
 
-<b>JULIA,</b> [as Sebastian]  Where is Lance?
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Where is Lance?
 
-HOST  Gone to seek his dog, which tomorrow, by his
+<speaker>HOST</speaker>
+Gone to seek his dog, which tomorrow, by his
 master's command, he must carry for a present to
-his lady.	[Music ends.]
+his lady.	[<i>Music ends.</i>]
 
-<b>JULIA,</b> [as Sebastian]  Peace. Stand aside. The company
-parts.	[Host and Julia move away.]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Peace. Stand aside. The company
+parts.	[<i>Host and Julia move away.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sir Thurio, fear not you. I will so plead
 That you shall say my cunning drift excels.
 
-THURIO
+<speaker>THURIO</speaker>
 Where meet we?
 
-PROTEUS  At Saint Gregory's well.
+<speaker>PROTEUS</speaker>
+At Saint Gregory's well.
 
-THURIO  Farewell.
-[Thurio and the Musicians exit.]
+<speaker>THURIO</speaker>
+Farewell.
+[<i>Thurio and the Musicians exit.</i>]
 
-[Enter Sylvia, above.]
+[<i>Enter Sylvia, above.</i>]
 
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 Madam, good even to your Ladyship.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 I thank you for your music, gentlemen.
 Who is that that spake?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 One, lady, if you knew his pure heart's truth,
 You would quickly learn to know him by his voice.
 
-SYLVIA  Sir Proteus, as I take it.
+<speaker>SYLVIA</speaker>
+Sir Proteus, as I take it.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sir Proteus, gentle lady, and your servant.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 What's your will?
 
-PROTEUS  That I may compass yours.
+<speaker>PROTEUS</speaker>
+That I may compass yours.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 You have your wish: my will is even this,
 That presently you hie you home to bed.
 Thou subtle, perjured, false, disloyal man,
@@ -2931,36 +3313,40 @@ That I despise thee for thy wrongful suit
 And by and by intend to chide myself
 Even for this time I spend in talking to thee.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 I grant, sweet love, that I did love a lady,
 But she is dead.
 
-<b>JULIA,</b> [aside]  'Twere false if I should speak it,
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
+'Twere false if I should speak it,
 For I am sure she is not buried.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Say that she be; yet Valentine thy friend
 Survives, to whom, thyself art witness,
 I am betrothed. And art thou not ashamed
 To wrong him with thy importunacy?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 I likewise hear that Valentine is dead.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 And so suppose am I, for in his grave,
 Assure thyself, my love is buried.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sweet lady, let me rake it from the earth.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Go to thy lady's grave and call hers thence,
 Or, at the least, in hers sepulcher thine.
 
-<b>JULIA,</b> [aside]  He heard not that.
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
+He heard not that.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Madam, if your heart be so obdurate,
 Vouchsafe me yet your picture for my love,
 The picture that is hanging in your chamber;
@@ -2969,63 +3355,72 @@ For since the substance of your perfect self
 Is else devoted, I am but a shadow;
 And to your shadow will I make true love.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 If 'twere a substance you would sure deceive it
 And make it but a shadow, as I am.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 I am very loath to be your idol, sir;
 But since your falsehood shall become you well
 To worship shadows and adore false shapes,
 Send to me in the morning, and I'll send it.
-And so, good rest.	[Sylvia exits.]
+And so, good rest.	[<i>Sylvia exits.</i>]
 
-PROTEUS  As wretches have o'ernight
-That wait for execution in the morn.	[Proteus exits.]
+<speaker>PROTEUS</speaker>
+As wretches have o'ernight
+That wait for execution in the morn.	[<i>Proteus exits.</i>]
 
-<b>JULIA,</b> [as Sebastian]  Host, will you go?
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Host, will you go?
 
-HOST  By my halidom, I was fast asleep.
+<speaker>HOST</speaker>
+By my halidom, I was fast asleep.
 
-<b>JULIA,</b> [as Sebastian]  Pray you, where lies Sir Proteus?
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Pray you, where lies Sir Proteus?
 
-HOST  Marry, at my house. Trust me, I think 'tis almost
+<speaker>HOST</speaker>
+Marry, at my house. Trust me, I think 'tis almost
 day.
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 Not so; but it hath been the longest night
 That e'er I watched, and the most heaviest.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Eglamour.]
+[<i>Enter Eglamour.</i>]
 
-
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 This is the hour that Madam Sylvia
 Entreated me to call and know her mind;
 There's some great matter she'd employ me in.
 Madam, madam!
 
-[Enter Sylvia, above.]
+[<i>Enter Sylvia, above.</i>]
 
+<speaker>SYLVIA</speaker>
+Who calls?
 
-SYLVIA  Who calls?
-
-EGLAMOUR  Your servant, and your friend,
+<speaker>EGLAMOUR</speaker>
+Your servant, and your friend,
 One that attends your Ladyship's command.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Sir Eglamour, a thousand times good morrow.
 
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 As many, worthy lady, to yourself.
 According to your Ladyship's impose,
 I am thus early come to know what service
 It is your pleasure to command me in.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 O Eglamour, thou art a gentleman--
 Think not I flatter, for I swear I do not--
 Valiant, wise, remorseful, well accomplished.
@@ -3053,7 +3448,7 @@ To bear me company and go with me;
 If not, to hide what I have said to thee,
 That I may venture to depart alone.
 
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 Madam, I pity much your grievances,
 Which, since I know they virtuously are placed,
 I give consent to go along with you,
@@ -3061,28 +3456,30 @@ Recking as little what betideth me
 As much I wish all good befortune you.
 When will you go?
 
-SYLVIA  This evening coming.
+<speaker>SYLVIA</speaker>
+This evening coming.
 
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 Where shall I meet you?
 
-SYLVIA  At Friar Patrick's cell,
+<speaker>SYLVIA</speaker>
+At Friar Patrick's cell,
 Where I intend holy confession.
 
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 I will not fail your Ladyship. Good morrow, gentle
 lady.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Good morrow, kind Sir Eglamour.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Lance, with his dog, Crab.]
+[<i>Enter Lance, with his dog, Crab.</i>]
 
-
-LANCE  When a man's servant shall play the cur with
+<speaker>LANCE</speaker>
+When a man's servant shall play the cur with
 him, look you, it goes hard--one that I brought up
 of a puppy, one that I saved from drowning when
 three or four of his blind brothers and sisters went
@@ -3115,7 +3512,8 @@ many masters would do this for his servant? Nay,
 I'll be sworn I have sat in the stocks for puddings he
 hath stolen; otherwise he had been executed. I have
 stood on the pillory for geese he hath killed; otherwise
-he had suffered for 't. [To Crab.] Thou think'st
+he had suffered for 't. [<i>To Crab.</i>]
+Thou think'st
 not of this now. Nay, I remember the trick you
 served me when I took my leave of Madam Sylvia.
 Did not I bid thee still mark me, and do as I do?
@@ -3123,47 +3521,55 @@ When didst thou see me heave up my leg and make
 water against a gentlewoman's farthingale? Didst
 thou ever see me do such a trick?
 
-[Enter Proteus and Julia disguised as Sebastian.]
+[<i>Enter Proteus and Julia disguised as Sebastian.</i>]
 
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 Sebastian is thy name? I like thee well
 And will employ thee in some service presently.
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 In what you please. I'll do what I can.
 
-PROTEUS
-I hope thou wilt. [To Lance.] How now, you
+<speaker>PROTEUS</speaker>
+I hope thou wilt. [<i>To Lance.</i>]
+How now, you
 whoreson peasant?
 Where have you been these two days loitering?
 
-LANCE  Marry, sir, I carried Mistress Sylvia the dog you
+<speaker>LANCE</speaker>
+Marry, sir, I carried Mistress Sylvia the dog you
 bade me.
 
-PROTEUS  And what says she to my little jewel?
+<speaker>PROTEUS</speaker>
+And what says she to my little jewel?
 
-LANCE  Marry, she says your dog was a cur, and tells
+<speaker>LANCE</speaker>
+Marry, she says your dog was a cur, and tells
 you currish thanks is good enough for such a
 present.
 
-PROTEUS  But she received my dog?
+<speaker>PROTEUS</speaker>
+But she received my dog?
 
-LANCE  No, indeed, did she not. Here have I brought
+<speaker>LANCE</speaker>
+No, indeed, did she not. Here have I brought
 him back again.
 
-PROTEUS  What, didst thou offer her this from me?
+<speaker>PROTEUS</speaker>
+What, didst thou offer her this from me?
 
-LANCE  Ay, sir. The other squirrel was stolen from me
+<speaker>LANCE</speaker>
+Ay, sir. The other squirrel was stolen from me
 by the hangman's boys in the market-place, and
 then I offered her mine own, who is a dog as big as
 ten of yours, and therefore the gift the greater.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Go, get thee hence, and find my dog again,
 Or ne'er return again into my sight.
 Away, I say. Stayest thou to vex me here?
-[Lance exits with Crab.]
+[<i>Lance exits with Crab.</i>]
 A slave that still an end turns me to shame.
 Sebastian, I have entertained thee,
 Partly that I have need of such a youth
@@ -3176,23 +3582,32 @@ Therefore, know thou, for this I entertain thee.
 Go presently, and take this ring with thee;
 Deliver it to Madam Sylvia.
 She loved me well delivered it to me.
-[He gives her a ring.]
+[<i>He gives her a ring.</i>]
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 It seems you loved not her, to leave her token.
 She is dead belike?
 
-PROTEUS  Not so; I think she lives.
+<speaker>PROTEUS</speaker>
+Not so; I think she lives.
 
-<b>JULIA,</b> [as Sebastian]  Alas!
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Alas!
 
-PROTEUS  Why dost thou cry "Alas"?
+<speaker>PROTEUS</speaker>
+Why dost thou cry "Alas"?
 
-<b>JULIA,</b> [as Sebastian]  I cannot choose but pity her.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+I cannot choose but pity her.
 
-PROTEUS  Wherefore shouldst thou pity her?
+<speaker>PROTEUS</speaker>
+Wherefore shouldst thou pity her?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 Because methinks that she loved you as well
 As you do love your lady Sylvia.
 She dreams on him that has forgot her love;
@@ -3200,16 +3615,17 @@ You dote on her that cares not for your love.
 'Tis pity love should be so contrary,
 And thinking on it makes me cry "Alas."
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Well, give her that ring and therewithal
-This letter. [He gives her a paper.] That's her
+This letter. [<i>He gives her a paper.</i>]
+That's her
 chamber. Tell my lady
 I claim the promise for her heavenly picture.
 Your message done, hie home unto my chamber,
 Where thou shalt find me sad and solitary.
-[Proteus exits.]
+[<i>Proteus exits.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 How many women would do such a message?
 Alas, poor Proteus, thou hast entertained
 A fox to be the shepherd of thy lambs.
@@ -3230,90 +3646,114 @@ Yet will I woo for him, but yet so coldly
 As--Heaven it knows!--I would not have him
 speed.
 
-[Enter Sylvia.]
+[<i>Enter Sylvia.</i>]
 
-[As Sebastian.] Gentlewoman, good day. I pray you be
+[<i>As Sebastian.</i>]
+Gentlewoman, good day. I pray you be
 my mean
 To bring me where to speak with Madam Sylvia.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 What would you with her, if that I be she?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 If you be she, I do entreat your patience
 To hear me speak the message I am sent on.
 
-SYLVIA  From whom?
+<speaker>SYLVIA</speaker>
+From whom?
 
-<b>JULIA,</b> [as Sebastian]  From my master, Sir Proteus,
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+From my master, Sir Proteus,
 madam.
 
-<b>SYLVIA  O,</b> he sends you for a picture?
+<speaker>SYLVIA</speaker>
+O, he sends you for a picture?
 
-<b>JULIA,</b> [as Sebastian]  Ay, madam.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Ay, madam.
 
-<b>SYLVIA,</b> [calling]  Ursula, bring my picture there.
-[She is brought the picture.]
+<speaker>SYLVIA,</speaker>
+[<i>calling</i>]
+Ursula, bring my picture there.
+[<i>She is brought the picture.</i>]
 Go, give your master this. Tell him from me,
 One Julia, that his changing thoughts forget,
 Would better fit his chamber than this shadow.
 
-<b>JULIA,</b> [as Sebastian]  Madam, please you peruse this
-letter.	[She gives Sylvia a paper.]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Madam, please you peruse this
+letter.	[<i>She gives Sylvia a paper.</i>]
 Pardon me, madam, I have unadvised
 Delivered you a paper that I should not.
 This is the letter to your Ladyship.
-[She takes back the first paper
-and hands Sylvia another.]
+[<i>She takes back the first paper
+and hands Sylvia another.</i>]
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 I pray thee let me look on that again.
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 It may not be; good madam, pardon me.
 
-SYLVIA  There, hold.
+<speaker>SYLVIA</speaker>
+There, hold.
 I will not look upon your master's lines;
 I know they are stuffed with protestations
 And full of new-found oaths, which he will break
 As easily as I do tear his paper.
-[She tears the second paper.]
+[<i>She tears the second paper.</i>]
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 Madam, he sends your Ladyship this ring.
-[She offers Sylvia a ring.]
+[<i>She offers Sylvia a ring.</i>]
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 The more shame for him, that he sends it me;
 For I have heard him say a thousand times
 His Julia gave it him at his departure.
 Though his false finger have profaned the ring,
 Mine shall not do his Julia so much wrong.
 
-<b>JULIA,</b> [as Sebastian]  She thanks you.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+She thanks you.
 
-SYLVIA  What sayst thou?
+<speaker>SYLVIA</speaker>
+What sayst thou?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 I thank you, madam, that you tender her;
 Poor gentlewoman, my master wrongs her much.
 
-SYLVIA  Dost thou know her?
+<speaker>SYLVIA</speaker>
+Dost thou know her?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 Almost as well as I do know myself.
 To think upon her woes, I do protest
 That I have wept a hundred several times.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Belike she thinks that Proteus hath forsook her?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 I think she doth, and that's her cause of sorrow.
 
-SYLVIA  Is she not passing fair?
+<speaker>SYLVIA</speaker>
+Is she not passing fair?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 She hath been fairer, madam, than she is;
 When she did think my master loved her well,
 She, in my judgment, was as fair as you.
@@ -3323,9 +3763,11 @@ The air hath starved the roses in her cheeks
 And pinched the lily tincture of her face,
 That now she is become as black as I.
 
-SYLVIA  How tall was she?
+<speaker>SYLVIA</speaker>
+How tall was she?
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 About my stature; for at Pentecost,
 When all our pageants of delight were played,
 Our youth got me to play the woman's part,
@@ -3342,19 +3784,20 @@ That my poor mistress, moved therewithal,
 Wept bitterly; and would I might be dead
 If I in thought felt not her very sorrow.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 She is beholding to thee, gentle youth.
 Alas, poor lady, desolate and left!
 I weep myself to think upon thy words.
 Here, youth, there is my purse.
-[She gives Julia a purse.]
+[<i>She gives Julia a purse.</i>]
 I give thee this
 For thy sweet mistress' sake, because thou lov'st her.
 Farewell.
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 And she shall thank you for 't if e'er you know her.
-[Sylvia exits.]
+[<i>Sylvia exits.</i>]
 A virtuous gentlewoman, mild and beautiful.
 I hope my master's suit will be but cold,
 Since she respects my mistress' love so much.--
@@ -3382,17 +3825,14 @@ I'll use thee kindly for thy mistress' sake,
 That used me so, or else, by Jove I vow,
 I should have scratched out your unseeing eyes
 To make my master out of love with thee.
-[She exits.]
-
+[<i>She exits.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
-
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Eglamour.]
+[<i>Enter Eglamour.</i>]
 
-
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 The sun begins to gild the western sky,
 And now it is about the very hour
 That Sylvia at Friar Patrick's cell should meet me.
@@ -3400,111 +3840,135 @@ She will not fail, for lovers break not hours,
 Unless it be to come before their time,
 So much they spur their expedition.
 
-[Enter Sylvia.]
+[<i>Enter Sylvia.</i>]
 
 See where she comes.--Lady, a happy evening.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Amen, amen. Go on, good Eglamour,
 Out at the postern by the abbey wall.
 I fear I am attended by some spies.
 
-EGLAMOUR
+<speaker>EGLAMOUR</speaker>
 Fear not. The forest is not three leagues off;
 If we recover that, we are sure enough.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Thurio, Proteus, and Julia, disguised as
-Sebastian.]
+[<i>Enter Thurio, Proteus, and Julia, disguised as
+Sebastian.</i>]
 
-
-THURIO
+<speaker>THURIO</speaker>
 Sir Proteus, what says Sylvia to my suit?
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 O sir, I find her milder than she was,
 And yet she takes exceptions at your person.
 
-THURIO  What? That my leg is too long?
+<speaker>THURIO</speaker>
+What? That my leg is too long?
 
-PROTEUS  No, that it is too little.
+<speaker>PROTEUS</speaker>
+No, that it is too little.
 
-THURIO
+<speaker>THURIO</speaker>
 I'll wear a boot to make it somewhat rounder.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 But love will not be spurred to what it loathes.
 
-THURIO  What says she to my face?
+<speaker>THURIO</speaker>
+What says she to my face?
 
-PROTEUS  She says it is a fair one.
+<speaker>PROTEUS</speaker>
+She says it is a fair one.
 
-THURIO
+<speaker>THURIO</speaker>
 Nay, then the wanton lies; my face is black.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 But pearls are fair, and the old saying is,
 Black men are pearls in beauteous ladies' eyes.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 'Tis true, such pearls as put out ladies' eyes,
 For I had rather wink than look on them.
 
-THURIO  How likes she my discourse?
+<speaker>THURIO</speaker>
+How likes she my discourse?
 
-PROTEUS  Ill, when you talk of war.
+<speaker>PROTEUS</speaker>
+Ill, when you talk of war.
 
-THURIO
+<speaker>THURIO</speaker>
 But well when I discourse of love and peace.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 But better, indeed, when you hold your peace.
 
-THURIO  What says she to my valor?
+<speaker>THURIO</speaker>
+What says she to my valor?
 
-<b>PROTEUS  O,</b> sir, she makes no doubt of that.
+<speaker>PROTEUS</speaker>
+O, sir, she makes no doubt of that.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 She needs not when she knows it cowardice.
 
-THURIO  What says she to my birth?
+<speaker>THURIO</speaker>
+What says she to my birth?
 
-PROTEUS  That you are well derived.
+<speaker>PROTEUS</speaker>
+That you are well derived.
 
-<b>JULIA,</b> [aside]  True, from a gentleman to a fool.
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
+True, from a gentleman to a fool.
 
-THURIO  Considers she my possessions?
+<speaker>THURIO</speaker>
+Considers she my possessions?
 
-<b>PROTEUS  O,</b> ay, and pities them.
+<speaker>PROTEUS</speaker>
+O, ay, and pities them.
 
-THURIO  Wherefore?
+<speaker>THURIO</speaker>
+Wherefore?
 
-<b>JULIA,</b> [aside]  That such an ass should owe them.
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
+That such an ass should owe them.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 That they are out by lease.
 
-<b>JULIA,</b> [as Sebastian]  Here comes the Duke.
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Here comes the Duke.
 
-[Enter Duke.]
+[<i>Enter Duke.</i>]
 
-
-DUKE
+<speaker>DUKE</speaker>
 How now, Sir Proteus?--How now, Thurio?
 Which of you saw Eglamour of late?
 
-THURIO
+<speaker>THURIO</speaker>
 Not I.
 
-PROTEUS  Nor I.
+<speaker>PROTEUS</speaker>
+Nor I.
 
-DUKE  Saw you my daughter?
+<speaker>DUKE</speaker>
+Saw you my daughter?
 
-PROTEUS  Neither.
+<speaker>PROTEUS</speaker>
+Neither.
 
-DUKE
+<speaker>DUKE</speaker>
 Why, then, she's fled unto that peasant, Valentine,
 And Eglamour is in her company.
 'Tis true, for Friar Lawrence met them both
@@ -3519,65 +3983,64 @@ But mount you presently and meet with me
 Upon the rising of the mountain foot
 That leads toward Mantua, whither they are fled.
 Dispatch, sweet gentlemen, and follow me.
-[He exits.]
+[<i>He exits.</i>]
 
-THURIO
+<speaker>THURIO</speaker>
 Why, this it is to be a peevish girl
 That flies her fortune when it follows her.
 I'll after, more to be revenged on Eglamour
-Than for the love of reckless Sylvia.	[He exits.]
+Than for the love of reckless Sylvia.	[<i>He exits.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 And I will follow, more for Sylvia's love
 Than hate of Eglamour that goes with her.
-[He exits.]
+[<i>He exits.</i>]
 
-JULIA
+<speaker>JULIA</speaker>
 And I will follow, more to cross that love
 Than hate for Sylvia, that is gone for love.
-[She exits.]
+[<i>She exits.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Sylvia and Outlaws.]
+[<i>Enter Sylvia and Outlaws.</i>]
 
-
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 Come, come, be patient. We must bring you to our
 captain.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 A thousand more mischances than this one
 Have learned me how to brook this patiently.
 
-SECOND OUTLAW  Come, bring her away.
+<speaker>SECOND OUTLAW</speaker>
+Come, bring her away.
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 Where is the gentleman that was with her?
 
-THIRD OUTLAW
+<speaker>THIRD OUTLAW</speaker>
 Being nimble-footed, he hath outrun us,
 But Moyses and Valerius follow him.
 Go thou with her to the west end of the wood;
 There is our captain. We'll follow him that's fled.
 The thicket is beset; he cannot 'scape.
-[Second and Third Outlaws exit.]
+[<i>Second and Third Outlaws exit.</i>]
 
-FIRST OUTLAW
+<speaker>FIRST OUTLAW</speaker>
 Come, I must bring you to our captain's cave.
 Fear not; he bears an honorable mind
 And will not use a woman lawlessly.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 O Valentine, this I endure for thee!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Valentine.]
+[<i>Enter Valentine.</i>]
 
-
-VALENTINE
+<speaker>VALENTINE</speaker>
 How use doth breed a habit in a man!
 This shadowy desert, unfrequented woods,
 I better brook than flourishing peopled towns;
@@ -3590,20 +4053,19 @@ Lest, growing ruinous, the building fall
 And leave no memory of what it was.
 Repair me with thy presence, Sylvia;
 Thou gentle nymph, cherish thy forlorn swain.
-[Shouting and sounds of fighting.]
+[<i>Shouting and sounds of fighting.</i>]
 What hallowing and what stir is this today?
 These are my mates, that make their wills their law,
 Have some unhappy passenger in chase.
 They love me well, yet I have much to do
 To keep them from uncivil outrages.
 Withdraw thee, Valentine. Who's this comes here?
-[He steps aside.]
+[<i>He steps aside.</i>]
 
-[Enter Proteus, Sylvia, and Julia, disguised as
-Sebastian.]
+[<i>Enter Proteus, Sylvia, and Julia, disguised as
+Sebastian.</i>]
 
-
-PROTEUS
+<speaker>PROTEUS</speaker>
 Madam, this service I have done for you--
 Though you respect not aught your servant doth--
 To hazard life, and rescue you from him
@@ -3612,24 +4074,26 @@ Vouchsafe me for my meed but one fair look;
 A smaller boon than this I cannot beg,
 And less than this I am sure you cannot give.
 
-<b>VALENTINE,</b> [aside]
+<speaker>VALENTINE,</speaker>
+[<i>aside</i>]
 How like a dream is this I see and hear!
 Love, lend me patience to forbear awhile.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 O miserable, unhappy that I am!
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Unhappy were you, madam, ere I came,
 But by my coming, I have made you happy.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 By thy approach thou mak'st me most unhappy.
 
-<b>JULIA,</b> [aside]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
 And me, when he approacheth to your presence.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 Had I been seized by a hungry lion,
 I would have been a breakfast to the beast
 Rather than have false Proteus rescue me.
@@ -3639,13 +4103,13 @@ And full as much, for more there cannot be,
 I do detest false perjured Proteus.
 Therefore begone; solicit me no more.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 What dangerous action, stood it next to death,
 Would I not undergo for one calm look!
 O, 'tis the curse in love, and still approved,
 When women cannot love where they're beloved.
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 When Proteus cannot love where he's beloved.
 Read over Julia's heart, thy first best love,
 For whose dear sake thou didst then rend thy faith
@@ -3656,30 +4120,35 @@ And that's far worse than none; better have none
 Than plural faith, which is too much by one.
 Thou counterfeit to thy true friend!
 
-PROTEUS  In love
+<speaker>PROTEUS</speaker>
+In love
 Who respects friend?
 
-SYLVIA  All men but Proteus.
+<speaker>SYLVIA</speaker>
+All men but Proteus.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Nay, if the gentle spirit of moving words
 Can no way change you to a milder form,
 I'll woo you like a soldier, at arms' end,
 And love you 'gainst the nature of love--force you.
-[He seizes her.]
+[<i>He seizes her.</i>]
 
-SYLVIA
+<speaker>SYLVIA</speaker>
 O, heaven!
 
-PROTEUS  I'll force thee yield to my desire.
+<speaker>PROTEUS</speaker>
+I'll force thee yield to my desire.
 
-<b>VALENTINE,</b> [advancing]
+<speaker>VALENTINE,</speaker>
+[<i>advancing</i>]
 Ruffian, let go that rude uncivil touch,
 Thou friend of an ill fashion.
 
-PROTEUS  Valentine!
+<speaker>PROTEUS</speaker>
+Valentine!
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Thou common friend, that's without faith or love,
 For such is a friend now. Treacherous man,
 Thou hast beguiled my hopes; nought but mine eye
@@ -3693,13 +4162,15 @@ The private wound is deepest. O, time most
 accursed,
 'Mongst all foes that a friend should be the worst!
 
-PROTEUS  My shame and guilt confounds me.
+<speaker>PROTEUS</speaker>
+My shame and guilt confounds me.
 Forgive me, Valentine. If hearty sorrow
 Be a sufficient ransom for offense,
 I tender 't here. I do as truly suffer
 As e'er I did commit.
 
-VALENTINE  Then I am paid,
+<speaker>VALENTINE</speaker>
+Then I am paid,
 And once again I do receive thee honest.
 Who by repentance is not satisfied
 Is nor of heaven nor Earth, for these are pleased;
@@ -3707,44 +4178,55 @@ By penitence th' Eternal's wrath's appeased.
 And that my love may appear plain and free,
 All that was mine in Sylvia I give thee.
 
-<b>JULIA,</b> [aside]
-O me unhappy!	[She swoons.]
+<speaker>JULIA,</speaker>
+[<i>aside</i>]
+O me unhappy!	[<i>She swoons.</i>]
 
-PROTEUS  Look to the boy.
+<speaker>PROTEUS</speaker>
+Look to the boy.
 
-VALENTINE  Why, boy!
+<speaker>VALENTINE</speaker>
+Why, boy!
 Why, wag, how now? What's the matter? Look up.
 Speak.
 
-<b>JULIA,</b> [as Sebastian]  O, good sir, my master charged
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+O, good sir, my master charged
 me to deliver a ring to Madam Sylvia, which out of
 my neglect was never done.
 
-PROTEUS  Where is that ring, boy?
+<speaker>PROTEUS</speaker>
+Where is that ring, boy?
 
-<b>JULIA,</b> [as Sebastian]  Here 'tis; this is it.
-[She rises, and hands him a ring.]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
+Here 'tis; this is it.
+[<i>She rises, and hands him a ring.</i>]
 
-PROTEUS  How, let me see.
+<speaker>PROTEUS</speaker>
+How, let me see.
 Why, this is the ring I gave to Julia.
 
-<b>JULIA,</b> [as Sebastian]
+<speaker>JULIA,</speaker>
+[<i>as Sebastian</i>]
 O, cry you mercy, sir, I have mistook.
 This is the ring you sent to Sylvia.
-[She offers another ring.]
+[<i>She offers another ring.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 But how cam'st thou by this ring? At my depart
 I gave this unto Julia.
 
-JULIA
+<speaker>JULIA</speaker>
 And Julia herself did give it me,
 And Julia herself hath brought it hither.
-[She reveals herself.]
+[<i>She reveals herself.</i>]
 
-PROTEUS  How? Julia!
+<speaker>PROTEUS</speaker>
+How? Julia!
 
-JULIA
+<speaker>JULIA</speaker>
 Behold her that gave aim to all thy oaths
 And entertained 'em deeply in her heart.
 How oft hast thou with perjury cleft the root!
@@ -3755,7 +4237,7 @@ In a disguise of love.
 It is the lesser blot, modesty finds,
 Women to change their shapes than men their minds.
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 "Than men their minds"? 'Tis true. O heaven, were
 man
 But constant, he were perfect; that one error
@@ -3765,35 +4247,38 @@ Inconstancy falls off ere it begins.
 What is in Sylvia's face but I may spy
 More fresh in Julia's, with a constant eye?
 
-<b>VALENTINE,</b> [to Julia and Proteus]  Come, come, a
+<speaker>VALENTINE,</speaker>
+[<i>to Julia and Proteus</i>]
+Come, come, a
 hand from either.
 Let me be blest to make this happy close.
 'Twere pity two such friends should be long foes.
-[Valentine joins the hands of Julia and Proteus.]
+[<i>Valentine joins the hands of Julia and Proteus.</i>]
 
-PROTEUS
+<speaker>PROTEUS</speaker>
 Bear witness, heaven, I have my wish forever.
 
-JULIA
+<speaker>JULIA</speaker>
 And I mine.
 
-[Enter Thurio, Duke, and Outlaws.]
+[<i>Enter Thurio, Duke, and Outlaws.</i>]
 
+<speaker>OUTLAWS</speaker>
+A prize, a prize, a prize!
 
-OUTLAWS  A prize, a prize, a prize!
-
-VALENTINE
+<speaker>VALENTINE</speaker>
 Forbear, forbear, I say. It is my lord the Duke.
-[The Outlaws release the Duke and Thurio.]
+[<i>The Outlaws release the Duke and Thurio.</i>]
 Your Grace is welcome to a man disgraced,
 Banished Valentine.
 
-DUKE
+<speaker>DUKE</speaker>
 Sir Valentine?
 
-THURIO  Yonder is Sylvia, and Sylvia's mine.
+<speaker>THURIO</speaker>
+Yonder is Sylvia, and Sylvia's mine.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Thurio, give back, or else embrace thy death;
 Come not within the measure of my wrath.
 Do not name Sylvia thine; if once again,
@@ -3801,13 +4286,13 @@ Verona shall not hold thee. Here she stands;
 Take but possession of her with a touch--
 I dare thee but to breathe upon my love!
 
-THURIO
+<speaker>THURIO</speaker>
 Sir Valentine, I care not for her, I.
 I hold him but a fool that will endanger
 His body for a girl that loves him not.
 I claim her not, and therefore she is thine.
 
-DUKE
+<speaker>DUKE</speaker>
 The more degenerate and base art thou
 To make such means for her as thou hast done,
 And leave her on such slight conditions.--
@@ -3821,15 +4306,15 @@ To which I thus subscribe: Sir Valentine,
 Thou art a gentleman, and well derived;
 Take thou thy Sylvia, for thou hast deserved her.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I thank your Grace, the gift hath made me happy.
 I now beseech you, for your daughter's sake,
 To grant one boon that I shall ask of you.
 
-DUKE
+<speaker>DUKE</speaker>
 I grant it for thine own, whate'er it be.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 These banished men, that I have kept withal,
 Are men endued with worthy qualities.
 Forgive them what they have committed here,
@@ -3837,32 +4322,34 @@ And let them be recalled from their exile;
 They are reformed, civil, full of good,
 And fit for great employment, worthy lord.
 
-DUKE
+<speaker>DUKE</speaker>
 Thou hast prevailed; I pardon them and thee.
 Dispose of them as thou know'st their deserts.
 Come, let us go; we will include all jars
 With triumphs, mirth, and rare solemnity.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 And as we walk along, I dare be bold
 With our discourse to make your Grace to smile.
-[Pointing to Julia.] What think you of this page, my
+[<i>Pointing to Julia.</i>]
+What think you of this page, my
 lord?
 
-DUKE
+<speaker>DUKE</speaker>
 I think the boy hath grace in him; he blushes.
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 I warrant you, my lord, more grace than boy.
 
-DUKE  What mean you by that saying?
+<speaker>DUKE</speaker>
+What mean you by that saying?
 
-VALENTINE
+<speaker>VALENTINE</speaker>
 Please you, I'll tell you as we pass along,
 That you will wonder what hath fortuned.--
 Come, Proteus, 'tis your penance but to hear
 The story of your loves discovered.
 That done, our day of marriage shall be yours,
 One feast, one house, one mutual happiness.
-[They exit.]
+[<i>They exit.</i>]
 `;

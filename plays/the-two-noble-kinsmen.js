@@ -1,21 +1,21 @@
-export const text = `The Two Noble Kinsmen
+export const credits = `The Two Noble Kinsmen
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/the-two-noble-kinsmen/
-Created on Jul 31, 2015, from FDT version 0.9.2
+Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-Characters in the Play
+export const text = `Characters in the Play
 <hr>
 PROLOGUE
 The two noble kinsmen, cousins, nephews of Creon, King of Thebes:
-  ARCITE
-  PALAMON
-<b>THESEUS,</b> Duke of Athens
-<b>HIPPOLYTA,</b> Queen of the Amazons, later Duchess of Athens
-<b>EMILIA,</b> her sister
-<b>PIRITHOUS,</b> friend to Theseus
+ARCITE
+PALAMON
+THESEUS, Duke of Athens
+HIPPOLYTA, Queen of the Amazons, later Duchess of Athens
+EMILIA, her sister
+PIRITHOUS, friend to Theseus
 Three QUEENS, widows of the kings killed in laying siege to Thebes
 The JAILER of Theseus's prison
 The Jailer's DAUGHTER
@@ -23,22 +23,21 @@ The Jailer's BROTHER
 The WOOER of the Jailer's daughter
 Two FRIENDS of the Jailer
 A DOCTOR
-<b>ARTESIUS,</b> an Athenian soldier
-<b>VALERIUS,</b> a Theban
-<b>WOMAN,</b> attending on Emilia
+ARTESIUS, an Athenian soldier
+VALERIUS, a Theban
+WOMAN, attending on Emilia
 An Athenian GENTLEMAN
 Six KNIGHTS, three accompanying Arcite, three Palamon
 Six COUNTRYMEN, one dressed as a BAVIAN or baboon
 A SCHOOLMASTER
-<b>NELL,</b> a countrywoman
+NELL, a countrywoman
 A TABORER
 A singing BOY, a HERALD, MESSENGERS, a SERVANT
 EPILOGUE
 Hymen (god of weddings), lords, soldiers, four countrywomen (Fritz, Maudlin, Luce, and Barbary), nymphs, attendants, maids, executioner, guard
 
 
-[Flourish. Enter Prologue.]
-
+[<i>Flourish. Enter Prologue.</i>]
 
 PROLOGUE
 New plays and maidenheads are near akin:
@@ -74,15 +73,12 @@ Worth two hours' travel. To his bones sweet sleep;
 Content to you. If this play do not keep
 A little dull time from us, we perceive
 Our losses fall so thick we must needs leave.
-[Flourish. He exits.]
-
-
+[<i>Flourish. He exits.</i>]
 
 <b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Music. Enter Hymen with a torch burning, a Boy in
+[<i>Music. Enter Hymen with a torch burning, a Boy in
 a white robe before, singing and strewing flowers.
 After Hymen, a Nymph encompassed in her tresses,
 bearing a wheaten garland; then Theseus between
@@ -90,52 +86,55 @@ two other Nymphs with wheaten chaplets on their
 heads. Then Hippolyta, the bride, led by Pirithous,
 and another holding a garland over her head, her
 tresses likewise hanging. After her, Emilia, holding
-up her train. Then Artesius and Attendants.]
+up her train. Then Artesius and Attendants.</i>]
 
 The Song, sung by the Boy.
 
-	Roses, their sharp spines being gone,
-	Not royal in their smells alone,
-	   But in their hue;
-	Maiden pinks, of odor faint,
-	Daisies smell-less, yet most quaint,
-	   And sweet thyme true;
-	Primrose, firstborn child of Ver,
-	Merry springtime's harbinger,
-	   With her bells dim;
-	Oxlips in their cradles growing,
-	Marigolds on deathbeds blowing,
-	   Lark's-heels trim;
-	All dear Nature's children sweet
-	Lie 'fore bride and bridegroom's feet,
-[Strew flowers.]
-	   Blessing their sense.
-	Not an angel of the air,
-	Bird melodious or bird fair,
-	   Is absent hence.
-	The crow, the sland'rous cuckoo, nor
-	The boding raven, nor chough hoar,
-	   Nor chatt'ring pie,
-	May on our bridehouse perch or sing,
-	Or with them any discord bring,
-	   But from it fly.
+Roses, their sharp spines being gone,
+Not royal in their smells alone,
+But in their hue;
+Maiden pinks, of odor faint,
+Daisies smell-less, yet most quaint,
+And sweet thyme true;
+Primrose, firstborn child of Ver,
+Merry springtime's harbinger,
+With her bells dim;
+Oxlips in their cradles growing,
+Marigolds on deathbeds blowing,
+Lark's-heels trim;
+All dear Nature's children sweet
+Lie 'fore bride and bridegroom's feet,
+[<i>Strew flowers.</i>]
+Blessing their sense.
+Not an angel of the air,
+Bird melodious or bird fair,
+Is absent hence.
+The crow, the sland'rous cuckoo, nor
+The boding raven, nor chough hoar,
+Nor chatt'ring pie,
+May on our bridehouse perch or sing,
+Or with them any discord bring,
+But from it fly.
 
-[Enter three Queens in black, with veils stained, with
+[<i>Enter three Queens in black, with veils stained, with
 imperial crowns. The first Queen falls down at the foot
 of Theseus; the second falls down at the foot of
-Hippolyta; the third before Emilia.]
+Hippolyta; the third before Emilia.</i>]
 
-
-<b>FIRST QUEEN,</b> [to Theseus]
+<speaker>FIRST QUEEN,</speaker>
+[<i>to Theseus</i>]
 For pity's sake and true gentility's,
 Hear and respect me.
 
-<b>SECOND QUEEN,</b> [to Hippolyta]  For your mother's sake,
+<speaker>SECOND QUEEN,</speaker>
+[<i>to Hippolyta</i>]
+For your mother's sake,
 And as you wish your womb may thrive with fair
 ones,
 Hear and respect me.
 
-<b>THIRD QUEEN,</b> [to Emilia]
+<speaker>THIRD QUEEN,</speaker>
+[<i>to Emilia</i>]
 Now for the love of him whom Jove hath marked
 The honor of your bed, and for the sake
 Of clear virginity, be advocate
@@ -143,19 +142,25 @@ For us and our distresses. This good deed
 Shall raze you out o' th' book of trespasses
 All you are set down there.
 
-<b>THESEUS,</b> [to First Queen]
+<speaker>THESEUS,</speaker>
+[<i>to First Queen</i>]
 Sad lady, rise.
 
-<b>HIPPOLYTA,</b> [to Second Queen]  Stand up.
+<speaker>HIPPOLYTA,</speaker>
+[<i>to Second Queen</i>]
+Stand up.
 
-<b>EMILIA,</b> [to Third Queen]  No knees to me.
+<speaker>EMILIA,</speaker>
+[<i>to Third Queen</i>]
+No knees to me.
 What woman I may stead that is distressed
 Does bind me to her.
 
-<b>THESEUS,</b> [to First Queen]
+<speaker>THESEUS,</speaker>
+[<i>to First Queen</i>]
 What's your request? Deliver you for all.
 
-FIRST QUEEN
+<speaker>FIRST QUEEN</speaker>
 We are three queens whose sovereigns fell before
 The wrath of cruel Creon; who endured
 The beaks of ravens, talons of the kites,
@@ -173,7 +178,8 @@ That for our crowned heads we have no roof
 Save this, which is the lion's and the bear's,
 And vault to everything.
 
-THESEUS  Pray you, kneel not.
+<speaker>THESEUS</speaker>
+Pray you, kneel not.
 I was transported with your speech and suffered
 Your knees to wrong themselves. I have heard the
 fortunes
@@ -194,17 +200,20 @@ He tumbled down upon his Nemean hide
 And swore his sinews thawed. O grief and time,
 Fearful consumers, you will all devour!
 
-<b>FIRST QUEEN  O,</b> I hope some god,
+<speaker>FIRST QUEEN</speaker>
+O, I hope some god,
 Some god hath put his mercy in your manhood,
 Whereto he'll infuse power, and press you forth
 Our undertaker.
 
-<b>THESEUS  O,</b> no knees, none, widow!
+<speaker>THESEUS</speaker>
+O, no knees, none, widow!
 Unto the helmeted Bellona use them
-And pray for me, your soldier.	[The First Queen rises.]
-Troubled I am.	[Turns away.]
+And pray for me, your soldier.	[<i>The First Queen rises.</i>]
+Troubled I am.	[<i>Turns away.</i>]
 
-SECOND QUEEN  Honored Hippolyta,
+<speaker>SECOND QUEEN</speaker>
+Honored Hippolyta,
 Most dreaded Amazonian, that hast slain
 The scythe-tusked boar; that with thy arm, as strong
 As it is white, wast near to make the male
@@ -230,23 +239,27 @@ Tell him if he i' th' blood-sized field lay swoll'n,
 Showing the sun his teeth, grinning at the moon,
 What you would do.
 
-HIPPOLYTA  Poor lady, say no more.
+<speaker>HIPPOLYTA</speaker>
+Poor lady, say no more.
 I had as lief trace this good action with you
 As that whereto I am going, and never yet
 Went I so willing way. My lord is taken
 Heart-deep with your distress; let him consider.
-I'll speak anon.	[Second Queen rises.]
+I'll speak anon.	[<i>Second Queen rises.</i>]
 
-<b>THIRD QUEEN  O,</b> my petition was
+<speaker>THIRD QUEEN</speaker>
+O, my petition was
 Set down in ice, which by hot grief uncandied
 Melts into drops; so sorrow, wanting form,
 Is pressed with deeper matter.
 
-EMILIA  Pray stand up.
+<speaker>EMILIA</speaker>
+Pray stand up.
 Your grief is written in your cheek.
 
-<b>THIRD QUEEN  O,</b> woe!
-You cannot read it there.	[She rises.]
+<speaker>THIRD QUEEN</speaker>
+O, woe!
+You cannot read it there.	[<i>She rises.</i>]
 There through my tears,
 Like wrinkled pebbles in a glassy stream,
 You may behold 'em. Lady, lady, alack!
@@ -257,11 +270,13 @@ To catch one at my heart. O, pardon me!
 Extremity, that sharpens sundry wits,
 Makes me a fool.
 
-EMILIA  Pray you say nothing, pray you.
+<speaker>EMILIA</speaker>
+Pray you say nothing, pray you.
 Who cannot feel nor see the rain, being in 't,
 Knows neither wet nor dry. If that you were
 The groundpiece of some painter, I would buy you
-T' instruct me 'gainst a capital grief--indeed,
+<speaker>T'</speaker>
+instruct me 'gainst a capital grief--indeed,
 Such heart-pierced demonstration. But, alas,
 Being a natural sister of our sex,
 Your sorrow beats so ardently upon me
@@ -270,11 +285,14 @@ My brother's heart and warm it to some pity,
 Though it were made of stone. Pray have good
 comfort.
 
-<b>THESEUS,</b> [coming forward]
+<speaker>THESEUS,</speaker>
+[<i>coming forward</i>]
 Forward to th' temple. Leave not out a jot
-O' th' sacred ceremony.
+<speaker>O'</speaker>
+th' sacred ceremony.
 
-<b>FIRST QUEEN  O,</b> this celebration
+<speaker>FIRST QUEEN</speaker>
+O, this celebration
 Will longer last and be more costly than
 Your suppliants' war. Remember that your fame
 Knolls in the ear o' th' world; what you do quickly
@@ -285,25 +303,28 @@ Soon as they move, as ospreys do the fish,
 Subdue before they touch. Think, dear duke, think
 What beds our slain kings have!
 
-SECOND QUEEN  What griefs our beds,
+<speaker>SECOND QUEEN</speaker>
+What griefs our beds,
 That our dear lords have none!
 
-THIRD QUEEN  None fit for th' dead.
+<speaker>THIRD QUEEN</speaker>
+None fit for th' dead.
 Those that with cords, knives, drams, precipitance,
 Weary of this world's light, have to themselves
 Been death's most horrid agents, human grace
 Affords them dust and shadow.
 
-FIRST QUEEN  But our lords
+<speaker>FIRST QUEEN</speaker>
+But our lords
 Lie blist'ring 'fore the visitating sun,
 And were good kings when living.
 
-THESEUS
+<speaker>THESEUS</speaker>
 It is true, and I will give you comfort
 To give your dead lords graves;
 The which to do must make some work with Creon.
 
-FIRST QUEEN
+<speaker>FIRST QUEEN</speaker>
 And that work presents itself to th' doing.
 Now 'twill take form; the heats are gone tomorrow.
 Then, bootless toil must recompense itself
@@ -312,13 +333,16 @@ Not dreams we stand before your puissance,
 Rinsing our holy begging in our eyes
 To make petition clear.
 
-SECOND QUEEN  Now you may take him,
+<speaker>SECOND QUEEN</speaker>
+Now you may take him,
 Drunk with his victory.
 
-THIRD QUEEN  And his army full
+<speaker>THIRD QUEEN</speaker>
+And his army full
 Of bread and sloth.
 
-THESEUS  Artesius, that best knowest
+<speaker>THESEUS</speaker>
+Artesius, that best knowest
 How to draw out, fit to this enterprise,
 The prim'st for this proceeding, and the number
 To carry such a business: forth and levy
@@ -326,25 +350,29 @@ Our worthiest instruments, whilst we dispatch
 This grand act of our life, this daring deed
 Of fate in wedlock.
 
-<b>FIRST QUEEN,</b> [to Second and Third Queens]
+<speaker>FIRST QUEEN,</speaker>
+[<i>to Second and Third Queens</i>]
 Dowagers, take hands.
 Let us be widows to our woes. Delay
 Commends us to a famishing hope.
 
-ALL THE QUEENS  Farewell.
+<speaker>ALL THE QUEENS</speaker>
+Farewell.
 
-SECOND QUEEN
+<speaker>SECOND QUEEN</speaker>
 We come unseasonably; but when could grief
 Cull forth, as unpanged judgment can, fitt'st time
 For best solicitation?
 
-THESEUS  Why, good ladies,
+<speaker>THESEUS</speaker>
+Why, good ladies,
 This is a service whereto I am going
 Greater than any was; it more imports me
 Than all the actions that I have foregone,
 Or futurely can cope.
 
-FIRST QUEEN  The more proclaiming
+<speaker>FIRST QUEEN</speaker>
+The more proclaiming
 Our suit shall be neglected when her arms,
 Able to lock Jove from a synod, shall
 By warranting moonlight corselet thee. O, when
@@ -359,13 +387,15 @@ Take hostage of thee for a hundred, and
 Thou shalt remember nothing more than what
 That banquet bids thee to.
 
-<b>HIPPOLYTA,</b> [to Theseus]  Though much unlike
+<speaker>HIPPOLYTA,</speaker>
+[<i>to Theseus</i>]
+Though much unlike
 You should be so transported, as much sorry
 I should be such a suitor, yet I think
 Did I not, by th' abstaining of my joy--
 Which breeds a deeper longing--cure their surfeit
 That craves a present med'cine, I should pluck
-All ladies' scandal on me.	[She kneels.]
+All ladies' scandal on me.	[<i>She kneels.</i>]
 Therefore, sir,
 As I shall here make trial of my prayers,
 Either presuming them to have some force,
@@ -376,72 +406,82 @@ Your shield afore your heart--about that neck
 Which is my fee, and which I freely lend
 To do these poor queens service.
 
-<b>ALL QUEENS,</b> [to Emilia]  O, help now!
+<speaker>ALL QUEENS,</speaker>
+[<i>to Emilia</i>]
+O, help now!
 Our cause cries for your knee.
 
-<b>EMILIA,</b> [to Theseus, kneeling]  If you grant not
+<speaker>EMILIA,</speaker>
+[<i>to Theseus, kneeling</i>]
+If you grant not
 My sister her petition in that force,
 With that celerity and nature which
 She makes it in, from henceforth I'll not dare
 To ask you anything, nor be so hardy
 Ever to take a husband.
 
-THESEUS  Pray stand up.
-[Hippolyta and Emilia rise.]
+<speaker>THESEUS</speaker>
+Pray stand up.
+[<i>Hippolyta and Emilia rise.</i>]
 I am entreating of myself to do
 That which you kneel to have me.--Pirithous,
 Lead on the bride; get you and pray the gods
 For success and return; omit not anything
 In the pretended celebration.--Queens,
-Follow your soldier. [To Artesius.] As before, hence
+Follow your soldier. [<i>To Artesius.</i>]
+As before, hence
 you,
 And at the banks of Aulis meet us with
 The forces you can raise, where we shall find
 The moiety of a number for a business
-More bigger looked.	[Artesius exits.]
-[To Hippolyta.] Since that our theme is haste,
+More bigger looked.	[<i>Artesius exits.</i>]
+[<i>To Hippolyta.</i>]
+Since that our theme is haste,
 I stamp this kiss upon thy currant lip;
 Sweet, keep it as my token.--Set you forward,
 For I will see you gone.
-[The wedding procession begins to exit
-towards the temple.]
+[<i>The wedding procession begins to exit
+towards the temple.</i>]
 Farewell, my beauteous sister.--Pirithous,
 Keep the feast full; bate not an hour on 't.
 
-PIRITHOUS  Sir,
+<speaker>PIRITHOUS</speaker>
+Sir,
 I'll follow you at heels. The feast's solemnity
 Shall want till your return.
 
-THESEUS  Cousin, I charge you,
+<speaker>THESEUS</speaker>
+Cousin, I charge you,
 Budge not from Athens. We shall be returning
 Ere you can end this feast, of which I pray you
 Make no abatement.--Once more, farewell all.
-[All but Theseus and the Queens exit.]
+[<i>All but Theseus and the Queens exit.</i>]
 
-FIRST QUEEN
+<speaker>FIRST QUEEN</speaker>
 Thus dost thou still make good the tongue o' th'
 world.
 
-SECOND QUEEN
+<speaker>SECOND QUEEN</speaker>
 And earn'st a deity equal with Mars.
 
-THIRD QUEEN  If not above him, for
+<speaker>THIRD QUEEN</speaker>
+If not above him, for
 Thou, being but mortal, makest affections bend
 To godlike honors; they themselves, some say,
 Groan under such a mast'ry.
 
-THESEUS  As we are men,
+<speaker>THESEUS</speaker>
+As we are men,
 Thus should we do; being sensually subdued,
 We lose our human title. Good cheer, ladies.
 Now turn we towards your comforts.
-[Flourish. They exit.]
+[<i>Flourish. They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Palamon and Arcite.]
+[<i>Enter Palamon and Arcite.</i>]
 
-
-ARCITE
+<speaker>ARCITE</speaker>
 Dear Palamon, dearer in love than blood
 And our prime cousin, yet unhardened in
 The crimes of nature, let us leave the city
@@ -449,13 +489,15 @@ Thebes, and the temptings in 't, before we further
 Sully our gloss of youth,
 And here to keep in abstinence we shame
 As in incontinence; for not to swim
-I' th' aid o' th' current were almost to sink,
+<speaker>I'</speaker>
+th' aid o' th' current were almost to sink,
 At least to frustrate striving; and to follow
 The common stream, 'twould bring us to an eddy
 Where we should turn or drown; if labor through,
 Our gain but life and weakness.
 
-PALAMON  Your advice
+<speaker>PALAMON</speaker>
+Your advice
 Is cried up with example. What strange ruins,
 Since first we went to school, may we perceive
 Walking in Thebes! Scars and bare weeds
@@ -471,19 +513,22 @@ For her repletion, and retain anew
 Her charitable heart, now hard and harsher
 Than strife or war could be.
 
-ARCITE  Are you not out?
+<speaker>ARCITE</speaker>
+Are you not out?
 Meet you no ruin but the soldier in
 The cranks and turns of Thebes? You did begin
 As if you met decays of many kinds.
 Perceive you none that do arouse your pity
 But th' unconsidered soldier?
 
-PALAMON  Yes, I pity
+<speaker>PALAMON</speaker>
+Yes, I pity
 Decays where'er I find them, but such most
 That, sweating in an honorable toil,
 Are paid with ice to cool 'em.
 
-ARCITE  'Tis not this
+<speaker>ARCITE</speaker>
+'Tis not this
 I did begin to speak of. This is virtue
 Of no respect in Thebes. I spake of Thebes--
 How dangerous, if we will keep our honors,
@@ -493,7 +538,8 @@ A certain evil; where not to be e'en jump
 As they are here were to be strangers, and,
 Such things to be, mere monsters.
 
-PALAMON  'Tis in our power--
+<speaker>PALAMON</speaker>
+'Tis in our power--
 Unless we fear that apes can tutor 's--to
 Be masters of our manners. What need I
 Affect another's gait, which is not catching
@@ -516,9 +562,11 @@ sores
 Need not a plantain. That which rips my bosom
 Almost to th' heart's--
 
-ARCITE  Our Uncle Creon.
+<speaker>ARCITE</speaker>
+Our Uncle Creon.
 
-PALAMON  He.
+<speaker>PALAMON</speaker>
+He.
 A most unbounded tyrant, whose successes
 Makes heaven unfeared and villainy assured
 Beyond its power there's nothing; almost puts
@@ -532,63 +580,72 @@ The blood of mine that's sib to him be sucked
 From me with leeches; let them break and fall
 Off me with that corruption.
 
-ARCITE  Clear-spirited cousin,
+<speaker>ARCITE</speaker>
+Clear-spirited cousin,
 Let's leave his court, that we may nothing share
 Of his loud infamy; for our milk
 Will relish of the pasture, and we must
 Be vile or disobedient, not his kinsmen
 In blood unless in quality.
 
-PALAMON  Nothing truer.
+<speaker>PALAMON</speaker>
+Nothing truer.
 I think the echoes of his shames have deafed
 The ears of heav'nly justice. Widows' cries
 Descend again into their throats and have not
 Due audience of the gods.
 
-[Enter Valerius.]
+[<i>Enter Valerius.</i>]
 
 Valerius.
 
-VALERIUS
+<speaker>VALERIUS</speaker>
 The King calls for you; yet be leaden-footed
 Till his great rage be off him. Phoebus, when
 He broke his whipstock and exclaimed against
 The horses of the sun, but whispered to
 The loudness of his fury.
 
-PALAMON  Small winds shake him.
+<speaker>PALAMON</speaker>
+Small winds shake him.
 But what's the matter?
 
-VALERIUS
+<speaker>VALERIUS</speaker>
 Theseus, who where he threats appalls, hath sent
 Deadly defiance to him and pronounces
 Ruin to Thebes, who is at hand to seal
 The promise of his wrath.
 
-ARCITE  Let him approach.
+<speaker>ARCITE</speaker>
+Let him approach.
 But that we fear the gods in him, he brings not
 A jot of terror to us. Yet what man
 Thirds his own worth--the case is each of ours--
 When that his action's dregged with mind assured
 'Tis bad he goes about?
 
-PALAMON  Leave that unreasoned.
+<speaker>PALAMON</speaker>
+Leave that unreasoned.
 Our services stand now for Thebes, not Creon.
 Yet to be neutral to him were dishonor,
 Rebellious to oppose. Therefore we must
 With him stand to the mercy of our fate,
 Who hath bounded our last minute.
 
-ARCITE  So we must.
-[To Valerius.] Is 't said this war's afoot? Or, it shall
+<speaker>ARCITE</speaker>
+So we must.
+[<i>To Valerius.</i>]
+Is 't said this war's afoot? Or, it shall
 be,
 On fail of some condition?
 
-VALERIUS  'Tis in motion;
+<speaker>VALERIUS</speaker>
+'Tis in motion;
 The intelligence of state came in the instant
 With the defier.
 
-PALAMON  Let's to the King, who, were he
+<speaker>PALAMON</speaker>
+Let's to the King, who, were he
 A quarter carrier of that honor which
 His enemy come in, the blood we venture
 Should be as for our health, which were not spent,
@@ -596,35 +653,38 @@ Rather laid out for purchase. But alas,
 Our hands advanced before our hearts, what will
 The fall o' th' stroke do damage?
 
-ARCITE  Let th' event,
+<speaker>ARCITE</speaker>
+Let th' event,
 That never-erring arbitrator, tell us
 When we know all ourselves, and let us follow
 The becking of our chance.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Pirithous, Hippolyta, Emilia.]
+[<i>Enter Pirithous, Hippolyta, Emilia.</i>]
 
-
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 No further.
 
-HIPPOLYTA  Sir, farewell. Repeat my wishes
+<speaker>HIPPOLYTA</speaker>
+Sir, farewell. Repeat my wishes
 To our great lord, of whose success I dare not
 Make any timorous question; yet I wish him
 Excess and overflow of power, an 't might be,
 To dure ill-dealing fortune. Speed to him.
 Store never hurts good governors.
 
-PIRITHOUS  Though I know
+<speaker>PIRITHOUS</speaker>
+Though I know
 His ocean needs not my poor drops, yet they
 Must yield their tribute there.--My precious maid,
 Those best affections that the heavens infuse
 In their best-tempered pieces keep enthroned
 In your dear heart!
 
-EMILIA  Thanks, sir. Remember me
+<speaker>EMILIA</speaker>
+Thanks, sir. Remember me
 To our all-royal brother, for whose speed
 The great Bellona I'll solicit; and
 Since in our terrene state petitions are not
@@ -632,7 +692,8 @@ Without gifts understood, I'll offer to her
 What I shall be advised she likes. Our hearts
 Are in his army, in his tent.
 
-HIPPOLYTA  In 's bosom.
+<speaker>HIPPOLYTA</speaker>
+In 's bosom.
 We have been soldiers, and we cannot weep
 When our friends don their helms or put to sea,
 Or tell of babes broached on the lance, or women
@@ -641,11 +702,13 @@ The brine they wept at killing 'em. Then if
 You stay to see of us such spinsters, we
 Should hold you here forever.
 
-PIRITHOUS  Peace be to you
+<speaker>PIRITHOUS</speaker>
+Peace be to you
 As I pursue this war, which shall be then
-Beyond further requiring.	[Pirithous exits.]
+Beyond further requiring.	[<i>Pirithous exits.</i>]
 
-EMILIA  How his longing
+<speaker>EMILIA</speaker>
+How his longing
 Follows his friend! Since his depart, his sports,
 Though craving seriousness and skill, passed slightly
 His careless execution, where nor gain
@@ -655,12 +718,14 @@ Directing in his head, his mind nurse equal
 To these so diff'ring twins. Have you observed him
 Since our great lord departed?
 
-HIPPOLYTA  With much labor,
+<speaker>HIPPOLYTA</speaker>
+With much labor,
 And I did love him for 't. They two have cabined
 In many as dangerous as poor a corner,
 Peril and want contending; they have skiffed
 Torrents whose roaring tyranny and power
-I' th' least of these was dreadful, and they have
+<speaker>I'</speaker>
+th' least of these was dreadful, and they have
 Fought out together where Death's self was lodged.
 Yet fate hath brought them off. Their knot of love,
 Tied, weaved, entangled, with so true, so long,
@@ -670,7 +735,8 @@ Theseus cannot be umpire to himself,
 Cleaving his conscience into twain and doing
 Each side like justice, which he loves best.
 
-EMILIA  Doubtless
+<speaker>EMILIA</speaker>
+Doubtless
 There is a best, and reason has no manners
 To say it is not you. I was acquainted
 Once with a time when I enjoyed a playfellow;
@@ -679,9 +745,11 @@ Who made too proud the bed; took leave o' th' moon,
 Which then looked pale at parting, when our count
 Was each eleven.
 
-HIPPOLYTA  'Twas Flavina.
+<speaker>HIPPOLYTA</speaker>
+'Twas Flavina.
 
-EMILIA  Yes.
+<speaker>EMILIA</speaker>
+Yes.
 You talk of Pirithous' and Theseus' love.
 Theirs has more ground, is more maturely seasoned,
 More buckled with strong judgment, and their needs
@@ -712,14 +780,17 @@ Like old importment's bastard--has this end,
 That the true love 'tween maid and maid may be
 More than in sex individual.
 
-HIPPOLYTA  You're out of breath,
+<speaker>HIPPOLYTA</speaker>
+You're out of breath,
 And this high-speeded pace is but to say
 That you shall never--like the maid Flavina--
 Love any that's called man.
 
-EMILIA  I am sure I shall not.
+<speaker>EMILIA</speaker>
+I am sure I shall not.
 
-HIPPOLYTA  Now, alack, weak sister,
+<speaker>HIPPOLYTA</speaker>
+Now, alack, weak sister,
 I must no more believe thee in this point--
 Though in 't I know thou dost believe thyself--
 Than I will trust a sickly appetite,
@@ -731,29 +802,31 @@ I will now in and kneel, with great assurance
 That we, more than his Pirithous, possess
 The high throne in his heart.
 
-EMILIA  I am not
+<speaker>EMILIA</speaker>
+I am not
 Against your faith, yet I continue mine.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Cornets. A battle struck within; then a retreat.
+[<i>Cornets. A battle struck within; then a retreat.
 Flourish. Then enter, through one door, Theseus,
 victor, accompanied by Lords and Soldiers.
 Entering through another door, the three Queens
-meet him, and fall on their faces before him.]
+meet him, and fall on their faces before him.</i>]
 
-
-FIRST QUEEN
+<speaker>FIRST QUEEN</speaker>
 To thee no star be dark!
 
-SECOND QUEEN  Both heaven and Earth
+<speaker>SECOND QUEEN</speaker>
+Both heaven and Earth
 Friend thee forever.
 
-THIRD QUEEN  All the good that may
+<speaker>THIRD QUEEN</speaker>
+All the good that may
 Be wished upon thy head, I cry "Amen" to 't!
 
-THESEUS
+<speaker>THESEUS</speaker>
 Th' impartial gods, who from the mounted heavens
 View us their mortal herd, behold who err
 And, in their time, chastise. Go and find out
@@ -763,19 +836,19 @@ Should be in their dear rites, we would supply 't;
 But those we will depute which shall invest
 You in your dignities and even each thing
 Our haste does leave imperfect. So, adieu,
-And heaven's good eyes look on you.	[Queens exit.]
+And heaven's good eyes look on you.	[<i>Queens exit.</i>]
 
-[Enter a Herald and Soldiers bearing Palamon
-and Arcite on biers.]
+[<i>Enter a Herald and Soldiers bearing Palamon
+and Arcite on biers.</i>]
 
 What are those?
 
-HERALD
+<speaker>HERALD</speaker>
 Men of great quality, as may be judged
 By their appointment. Some of Thebes have told 's
 They are sisters' children, nephews to the King.
 
-THESEUS
+<speaker>THESEUS</speaker>
 By th' helm of Mars, I saw them in the war,
 Like to a pair of lions, smeared with prey,
 Make lanes in troops aghast. I fixed my note
@@ -783,19 +856,22 @@ Constantly on them, for they were a mark
 Worth a god's view. What prisoner was 't that told me
 When I enquired their names?
 
-HERALD  Wi' leave, they're called
+<speaker>HERALD</speaker>
+Wi' leave, they're called
 Arcite and Palamon.
 
-THESEUS  'Tis right; those, those.
+<speaker>THESEUS</speaker>
+'Tis right; those, those.
 They are not dead?
 
-HERALD
+<speaker>HERALD</speaker>
 Nor in a state of life. Had they been taken
 When their last hurts were given, 'twas possible
 They might have been recovered. Yet they breathe
 And have the name of men.
 
-THESEUS  Then like men use 'em.
+<speaker>THESEUS</speaker>
+Then like men use 'em.
 The very lees of such, millions of rates,
 Exceed the wine of others. All our surgeons
 Convent in their behoof; our richest balms,
@@ -818,51 +894,53 @@ And great Apollo's mercy, all our best
 Their best skill tender.--Lead into the city,
 Where, having bound things scattered, we will post
 To Athens 'fore our army.
-[Flourish. They exit.]
+[<i>Flourish. They exit.</i>]
 
 <b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Music. Enter the Queens with the hearses of their
-knights, in a funeral solemnity, &c.]
+[<i>Music. Enter the Queens with the hearses of their
+knights, in a funeral solemnity, &c.</i>]
 
 The dirge.
 
-	   Urns and odors bring away;
-	   Vapors, sighs, darken the day;
-	Our dole more deadly looks than dying;
-	   Balms and gums and heavy cheers,
-	   Sacred vials filled with tears,
-	And clamors through the wild air flying.
-	   Come, all sad and solemn shows
-	   That are quick-eyed Pleasure's foes;
-	   We convent naught else but woes.
-	   We convent naught else but woes.
+Urns and odors bring away;
+Vapors, sighs, darken the day;
+Our dole more deadly looks than dying;
+Balms and gums and heavy cheers,
+Sacred vials filled with tears,
+And clamors through the wild air flying.
+Come, all sad and solemn shows
+That are quick-eyed Pleasure's foes;
+We convent naught else but woes.
+We convent naught else but woes.
 
-<b>THIRD QUEEN,</b> [to Second Queen]
+<speaker>THIRD QUEEN,</speaker>
+[<i>to Second Queen</i>]
 This funeral path brings to your household's grave.
 Joy seize on you again; peace sleep with him.
 
-<b>SECOND QUEEN,</b> [to First Queen]
+<speaker>SECOND QUEEN,</speaker>
+[<i>to First Queen</i>]
 And this to yours.
 
-<b>FIRST QUEEN,</b> [to Third Queen]  Yours this way. Heavens
+<speaker>FIRST QUEEN,</speaker>
+[<i>to Third Queen</i>]
+Yours this way. Heavens
 lend
 A thousand differing ways to one sure end.
 
-THIRD QUEEN
+<speaker>THIRD QUEEN</speaker>
 This world's a city full of straying streets,
 And death's the market-place where each one meets.
-[They exit severally.]
-
+[<i>They exit severally.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
-
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Jailer and Wooer.]
+[<i>Enter Jailer and Wooer.</i>]
 
-
-JAILER  I may depart with little while I live; something I
+<speaker>JAILER</speaker>
+I may depart with little while I live; something I
 may cast to you, not much. Alas, the prison I keep,
 though it be for great ones, yet they seldom come;
 before one salmon you shall take a number of minnows.
@@ -872,49 +950,60 @@ were really that I am delivered to be. Marry, what
 I have, be it what it will, I will assure upon my
 daughter at the day of my death.
 
-WOOER  Sir, I demand no more than your own offer,
+<speaker>WOOER</speaker>
+Sir, I demand no more than your own offer,
 and I will estate your daughter in what I have
 promised.
 
-JAILER  Well, we will talk more of this when the solemnity
+<speaker>JAILER</speaker>
+Well, we will talk more of this when the solemnity
 is past. But have you a full promise of her?
 When that shall be seen, I tender my consent.
 
-[Enter the Jailer's Daughter, carrying rushes.]
+[<i>Enter the Jailer's Daughter, carrying rushes.</i>]
 
+<speaker>WOOER</speaker>
+I have sir. Here she comes.
 
-WOOER  I have sir. Here she comes.
-
-<b>JAILER,</b> [to Daughter]  Your friend and I have chanced
+<speaker>JAILER,</speaker>
+[<i>to Daughter</i>]
+Your friend and I have chanced
 to name you here, upon the old business. But no
 more of that now; so soon as the court hurry is
 over, we will have an end of it. I' th' meantime,
 look tenderly to the two prisoners. I can tell you
 they are princes.
 
-DAUGHTER  These strewings are for their chamber. 'Tis
+<speaker>DAUGHTER</speaker>
+These strewings are for their chamber. 'Tis
 pity they are in prison, and 'twere pity they should
 be out. I do think they have patience to make any
 adversity ashamed. The prison itself is proud of
 'em, and they have all the world in their chamber.
 
-JAILER  They are famed to be a pair of absolute men.
+<speaker>JAILER</speaker>
+They are famed to be a pair of absolute men.
 
-DAUGHTER  By my troth, I think fame but stammers
+<speaker>DAUGHTER</speaker>
+By my troth, I think fame but stammers
 'em. They stand a grise above the reach of report.
 
-JAILER  I heard them reported in the battle to be the
+<speaker>JAILER</speaker>
+I heard them reported in the battle to be the
 only doers.
 
-DAUGHTER  Nay, most likely, for they are noble suff'rers.
+<speaker>DAUGHTER</speaker>
+Nay, most likely, for they are noble suff'rers.
 I marvel how they would have looked had they
 been victors, that with such a constant nobility enforce
 a freedom out of bondage, making misery
 their mirth and affliction a toy to jest at.
 
-JAILER  Do they so?
+<speaker>JAILER</speaker>
+Do they so?
 
-DAUGHTER  It seems to me they have no more sense
+<speaker>DAUGHTER</speaker>
+It seems to me they have no more sense
 of their captivity than I of ruling Athens. They eat
 well, look merrily, discourse of many things, but
 nothing of their own restraint and disasters. Yet
@@ -924,48 +1013,54 @@ the other presently gives it so sweet a rebuke that
 I could wish myself a sigh to be so chid, or at least
 a sigher to be comforted.
 
-WOOER  I never saw 'em.
+<speaker>WOOER</speaker>
+I never saw 'em.
 
-JAILER  The Duke himself came privately in the night,
+<speaker>JAILER</speaker>
+The Duke himself came privately in the night,
 and so did they.
 
-[Enter Palamon and Arcite, in shackles, above.]
+[<i>Enter Palamon and Arcite, in shackles, above.</i>]
 
 What the reason of it is, I know not. Look, yonder
 they are; that's Arcite looks out.
 
-DAUGHTER  No, sir, no, that's Palamon. Arcite is the
+<speaker>DAUGHTER</speaker>
+No, sir, no, that's Palamon. Arcite is the
 lower of the twain; you may perceive a part of
 him.
 
-JAILER  Go to, leave your pointing; they would not
+<speaker>JAILER</speaker>
+Go to, leave your pointing; they would not
 make us their object. Out of their sight.
 
-DAUGHTER  It is a holiday to look on them. Lord, the
+<speaker>DAUGHTER</speaker>
+It is a holiday to look on them. Lord, the
 diff'rence of men!
-[Jailer, Daughter, and Wooer exit.]
+[<i>Jailer, Daughter, and Wooer exit.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Palamon and Arcite remain, above.]
+[<i>Palamon and Arcite remain, above.</i>]
 
-
-
-PALAMON
+<speaker>PALAMON</speaker>
 How do you, noble cousin?
 
-ARCITE  How do you, sir?
+<speaker>ARCITE</speaker>
+How do you, sir?
 
-PALAMON
+<speaker>PALAMON</speaker>
 Why, strong enough to laugh at misery
 And bear the chance of war; yet we are prisoners
 I fear forever, cousin.
 
-ARCITE  I believe it,
+<speaker>ARCITE</speaker>
+I believe it,
 And to that destiny have patiently
 Laid up my hour to come.
 
-<b>PALAMON  O,</b> cousin Arcite,
+<speaker>PALAMON</speaker>
+O, cousin Arcite,
 Where is Thebes now? Where is our noble country?
 Where are our friends and kindreds? Never more
 Must we behold those comforts, never see
@@ -986,7 +1081,8 @@ And deck the temples of those gods that hate us;
 These hands shall never draw 'em out like lightning
 To blast whole armies more.
 
-ARCITE  No, Palamon,
+<speaker>ARCITE</speaker>
+No, Palamon,
 Those hopes are prisoners with us. Here we are
 And here the graces of our youths must wither
 Like a too-timely spring. Here age must find us
@@ -1008,7 +1104,7 @@ The vine shall grow, but we shall never see it;
 Summer shall come, and with her all delights,
 But dead-cold winter must inhabit here still.
 
-PALAMON
+<speaker>PALAMON</speaker>
 'Tis too true, Arcite. To our Theban hounds
 That shook the aged forest with their echoes
 No more now must we halloo; no more shake
@@ -1020,7 +1116,8 @@ In us two here shall perish; we shall die,
 Which is the curse of honor, lastly,
 Children of grief and ignorance.
 
-ARCITE  Yet, cousin,
+<speaker>ARCITE</speaker>
+Yet, cousin,
 Even from the bottom of these miseries,
 From all that fortune can inflict upon us,
 I see two comforts rising, two mere blessings,
@@ -1029,7 +1126,8 @@ And the enjoying of our griefs together.
 Whilst Palamon is with me, let me perish
 If I think this our prison!
 
-PALAMON  Certainly
+<speaker>PALAMON</speaker>
+Certainly
 'Tis a main goodness, cousin, that our fortunes
 Were twined together. 'Tis most true, two souls
 Put in two noble bodies, let 'em suffer
@@ -1037,13 +1135,14 @@ The gall of hazard, so they grow together,
 Will never sink; they must not, say they could.
 A willing man dies sleeping and all's done.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Shall we make worthy uses of this place
 That all men hate so much?
 
-PALAMON  How, gentle cousin?
+<speaker>PALAMON</speaker>
+How, gentle cousin?
 
-ARCITE
+<speaker>ARCITE</speaker>
 Let's think this prison holy sanctuary
 To keep us from corruption of worse men.
 We are young and yet desire the ways of honor
@@ -1071,7 +1170,8 @@ Without your noble hand to close mine eyes,
 Or prayers to the gods. A thousand chances,
 Were we from hence, would sever us.
 
-PALAMON  You have made
+<speaker>PALAMON</speaker>
+You have made
 me--
 I thank you, cousin Arcite--almost wanton
 With my captivity. What a misery
@@ -1090,99 +1190,125 @@ We had died as they do, ill old men, unwept,
 And had their epitaphs, the people's curses.
 Shall I say more?
 
-ARCITE  I would hear you still.
+<speaker>ARCITE</speaker>
+I would hear you still.
 
-PALAMON  You shall.
+<speaker>PALAMON</speaker>
+You shall.
 Is there record of any two that loved
 Better than we do, Arcite?
 
-ARCITE  Sure there cannot.
+<speaker>ARCITE</speaker>
+Sure there cannot.
 
-PALAMON
+<speaker>PALAMON</speaker>
 I do not think it possible our friendship
 Should ever leave us.
 
-ARCITE  Till our deaths it cannot.
+<speaker>ARCITE</speaker>
+Till our deaths it cannot.
 
-[Enter Emilia and her Woman, below.]
+[<i>Enter Emilia and her Woman, below.</i>]
 
 And after death our spirits shall be led
-To those that love eternally.	[Palamon catches sight
-of Emilia.]
+To those that love eternally.	[<i>Palamon catches sight
+of Emilia.</i>]
 Speak on, sir.
 
-<b>EMILIA,</b> [to her Woman]
+<speaker>EMILIA,</speaker>
+[<i>to her Woman</i>]
 This garden has a world of pleasures in 't.
 What flower is this?
 
-WOMAN  'Tis called narcissus, madam.
+<speaker>WOMAN</speaker>
+'Tis called narcissus, madam.
 
-EMILIA
+<speaker>EMILIA</speaker>
 That was a fair boy certain, but a fool
 To love himself. Were there not maids enough?
 
-<b>ARCITE,</b> [to Palamon, who is stunned by the sight of Emilia]
+<speaker>ARCITE,</speaker>
+[<i>to Palamon, who is stunned by the sight of Emilia</i>]
 Pray, forward.
 
-PALAMON  Yes.
+<speaker>PALAMON</speaker>
+Yes.
 
-<b>EMILIA,</b> [to Woman]  Or were they all hard-hearted?
+<speaker>EMILIA,</speaker>
+[<i>to Woman</i>]
+Or were they all hard-hearted?
 
-WOMAN
+<speaker>WOMAN</speaker>
 They could not be to one so fair.
 
-EMILIA  Thou wouldst not.
+<speaker>EMILIA</speaker>
+Thou wouldst not.
 
-WOMAN
+<speaker>WOMAN</speaker>
 I think I should not, madam.
 
-EMILIA  That's a good wench.
+<speaker>EMILIA</speaker>
+That's a good wench.
 But take heed to your kindness, though.
 
-WOMAN  Why,
+<speaker>WOMAN</speaker>
+Why,
 madam?
 
-EMILIA
+<speaker>EMILIA</speaker>
 Men are mad things.
 
-<b>ARCITE,</b> [to Palamon]  Will you go forward,
+<speaker>ARCITE,</speaker>
+[<i>to Palamon</i>]
+Will you go forward,
 cousin?
 
-<b>EMILIA,</b> [to Woman]
+<speaker>EMILIA,</speaker>
+[<i>to Woman</i>]
 Canst not thou work such flowers in silk, wench?
 
-WOMAN  Yes.
+<speaker>WOMAN</speaker>
+Yes.
 
-EMILIA
+<speaker>EMILIA</speaker>
 I'll have a gown full of 'em, and of these.
 This is pretty color. Will 't not do
 Rarely upon a skirt, wench?
 
-WOMAN  Dainty, madam.
+<speaker>WOMAN</speaker>
+Dainty, madam.
 
-<b>ARCITE,</b> [to Palamon]
+<speaker>ARCITE,</speaker>
+[<i>to Palamon</i>]
 Cousin, cousin! How do you, sir? Why, Palamon!
 
-PALAMON
+<speaker>PALAMON</speaker>
 Never till now I was in prison, Arcite.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Why, what's the matter, man?
 
-PALAMON  Behold, and wonder!
+<speaker>PALAMON</speaker>
+Behold, and wonder!
 By heaven, she is a goddess.
 
-<b>ARCITE,</b> [seeing Emilia]  Ha!
+<speaker>ARCITE,</speaker>
+[<i>seeing Emilia</i>]
+Ha!
 
-PALAMON  Do reverence.
+<speaker>PALAMON</speaker>
+Do reverence.
 She is a goddess, Arcite.
 
-<b>EMILIA,</b> [to Woman]  Of all flowers
+<speaker>EMILIA,</speaker>
+[<i>to Woman</i>]
+Of all flowers
 Methinks a rose is best.
 
-WOMAN  Why, gentle madam?
+<speaker>WOMAN</speaker>
+Why, gentle madam?
 
-EMILIA
+<speaker>EMILIA</speaker>
 It is the very emblem of a maid.
 For when the west wind courts her gently,
 How modestly she blows and paints the sun
@@ -1192,85 +1318,102 @@ Rude and impatient, then, like chastity,
 She locks her beauties in her bud again,
 And leaves him to base briers.
 
-WOMAN  Yet, good madam,
+<speaker>WOMAN</speaker>
+Yet, good madam,
 Sometimes her modesty will blow so far
 She falls for 't. A maid,
 If she have any honor, would be loath
 To take example by her.
 
-EMILIA  Thou art wanton!
+<speaker>EMILIA</speaker>
+Thou art wanton!
 
-<b>ARCITE,</b> [to Palamon]
+<speaker>ARCITE,</speaker>
+[<i>to Palamon</i>]
 She is wondrous fair.
 
-PALAMON  She is all the beauty extant.
+<speaker>PALAMON</speaker>
+She is all the beauty extant.
 
-<b>EMILIA,</b> [to Woman]
+<speaker>EMILIA,</speaker>
+[<i>to Woman</i>]
 The sun grows high. Let's walk in. Keep these
 flowers.
 We'll see how near art can come near their colors.
 I am wondrous merry-hearted. I could laugh now.
 
-WOMAN
+<speaker>WOMAN</speaker>
 I could lie down, I am sure.
 
-EMILIA  And take one with you?
+<speaker>EMILIA</speaker>
+And take one with you?
 
-WOMAN
+<speaker>WOMAN</speaker>
 That's as we bargain, madam.
 
-EMILIA  Well, agree then.
-[Emilia and Woman exit.]
+<speaker>EMILIA</speaker>
+Well, agree then.
+[<i>Emilia and Woman exit.</i>]
 
-PALAMON
+<speaker>PALAMON</speaker>
 What think you of this beauty?
 
-ARCITE  'Tis a rare one.
+<speaker>ARCITE</speaker>
+'Tis a rare one.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Is 't but a rare one?
 
-ARCITE  Yes, a matchless beauty.
+<speaker>ARCITE</speaker>
+Yes, a matchless beauty.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Might not a man well lose himself and love her?
 
-ARCITE
+<speaker>ARCITE</speaker>
 I cannot tell what you have done; I have,
 Beshrew mine eyes for 't! Now I feel my shackles.
 
-PALAMON
+<speaker>PALAMON</speaker>
 You love her, then?
 
-ARCITE  Who would not?
+<speaker>ARCITE</speaker>
+Who would not?
 
-PALAMON  And desire her?
+<speaker>PALAMON</speaker>
+And desire her?
 
-ARCITE
+<speaker>ARCITE</speaker>
 Before my liberty.
 
-PALAMON  I saw her first.
+<speaker>PALAMON</speaker>
+I saw her first.
 
-ARCITE
+<speaker>ARCITE</speaker>
 That's nothing.
 
-PALAMON  But it shall be.
+<speaker>PALAMON</speaker>
+But it shall be.
 
-ARCITE  I saw her, too.
+<speaker>ARCITE</speaker>
+I saw her, too.
 
-PALAMON  Yes, but you must not love her.
+<speaker>PALAMON</speaker>
+Yes, but you must not love her.
 
-ARCITE
+<speaker>ARCITE</speaker>
 I will not, as you do, to worship her
 As she is heavenly and a blessed goddess.
 I love her as a woman, to enjoy her.
 So both may love.
 
-PALAMON  You shall not love at all.
+<speaker>PALAMON</speaker>
+You shall not love at all.
 
-ARCITE  Not love at all! Who shall deny me?
+<speaker>ARCITE</speaker>
+Not love at all! Who shall deny me?
 
-PALAMON
+<speaker>PALAMON</speaker>
 I, that first saw her; I that took possession
 First with mine eye of all those beauties
 In her revealed to mankind. If thou lov'st her,
@@ -1280,7 +1423,8 @@ False as thy title to her. Friendship, blood,
 And all the ties between us I disclaim
 If thou once think upon her.
 
-ARCITE  Yes, I love her,
+<speaker>ARCITE</speaker>
+Yes, I love her,
 And, if the lives of all my name lay on it,
 I must do so. I love her with my soul.
 If that will lose you, farewell, Palamon.
@@ -1290,9 +1434,10 @@ And have as just a title to her beauty
 As any Palamon or any living
 That is a man's son.
 
-PALAMON  Have I called thee friend?
+<speaker>PALAMON</speaker>
+Have I called thee friend?
 
-ARCITE
+<speaker>ARCITE</speaker>
 Yes, and have found me so. Why are you moved
 thus?
 Let me deal coldly with you: am not I
@@ -1300,52 +1445,62 @@ Part of your blood, part of your soul? You have
 told me
 That I was Palamon and you were Arcite.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Yes.
 
-ARCITE  Am not I liable to those affections,
+<speaker>ARCITE</speaker>
+Am not I liable to those affections,
 Those joys, griefs, angers, fears, my friend shall
 suffer?
 
-PALAMON
+<speaker>PALAMON</speaker>
 You may be.
 
-ARCITE  Why then would you deal so cunningly,
+<speaker>ARCITE</speaker>
+Why then would you deal so cunningly,
 So strangely, so unlike a noble kinsman,
 To love alone? Speak truly, do you think me
 Unworthy of her sight?
 
-PALAMON  No, but unjust
+<speaker>PALAMON</speaker>
+No, but unjust
 If thou pursue that sight.
 
-ARCITE  Because another
+<speaker>ARCITE</speaker>
+Because another
 First sees the enemy, shall I stand still
 And let mine honor down, and never charge?
 
-PALAMON
+<speaker>PALAMON</speaker>
 Yes, if he be but one.
 
-ARCITE  But say that one
+<speaker>ARCITE</speaker>
+But say that one
 Had rather combat me?
 
-PALAMON  Let that one say so,
+<speaker>PALAMON</speaker>
+Let that one say so,
 And use thy freedom. Else, if thou pursuest her,
 Be as that cursed man that hates his country,
 A branded villain.
 
-ARCITE  You are mad.
+<speaker>ARCITE</speaker>
+You are mad.
 
-PALAMON  I must be.
+<speaker>PALAMON</speaker>
+I must be.
 Till thou art worthy, Arcite, it concerns me.
 And in this madness if I hazard thee
 And take thy life, I deal but truly.
 
-ARCITE  Fie, sir!
+<speaker>ARCITE</speaker>
+Fie, sir!
 You play the child extremely. I will love her;
 I must, I ought to do so, and I dare,
 And all this justly.
 
-<b>PALAMON  O,</b> that now, that now,
+<speaker>PALAMON</speaker>
+O, that now, that now,
 Thy false self and thy friend had but this fortune
 To be one hour at liberty, and grasp
 Our good swords in our hands, I would quickly
@@ -1355,38 +1510,41 @@ Thou art baser in it than a cutpurse.
 Put but thy head out of this window more
 And, as I have a soul, I'll nail thy life to 't.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Thou dar'st not, fool; thou canst not; thou art feeble.
 Put my head out? I'll throw my body out
 And leap the garden when I see her next,
 And pitch between her arms to anger thee.
 
-[Enter Jailer, above.]
+[<i>Enter Jailer, above.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 No more; the keeper's coming. I shall live
 To knock thy brains out with my shackles.
 
-ARCITE  Do!
+<speaker>ARCITE</speaker>
+Do!
 
-JAILER
+<speaker>JAILER</speaker>
 By your leave, gentlemen.
 
-PALAMON  Now, honest keeper?
+<speaker>PALAMON</speaker>
+Now, honest keeper?
 
-JAILER
+<speaker>JAILER</speaker>
 Lord Arcite, you must presently to th' Duke;
 The cause I know not yet.
 
-ARCITE  I am ready, keeper.
+<speaker>ARCITE</speaker>
+I am ready, keeper.
 
-JAILER
+<speaker>JAILER</speaker>
 Prince Palamon, I must awhile bereave you
 Of your fair cousin's company.
-[Arcite and Jailer exit.]
+[<i>Arcite and Jailer exit.</i>]
 
-PALAMON  And me too,
+<speaker>PALAMON</speaker>
+And me too,
 Even when you please, of life.--Why is he sent for?
 It may be he shall marry her; he's goodly,
 And like enough the Duke hath taken notice
@@ -1407,18 +1565,20 @@ Still as she tasted should be doubled on her;
 And, if she be not heavenly, I would make her
 So near the gods in nature, they should fear her.
 
-[Enter Jailer, above.]
+[<i>Enter Jailer, above.</i>]
 
 And then I am sure she would love me.--How now,
 keeper,
 Where's Arcite?
 
-JAILER  Banished. Prince Pirithous
+<speaker>JAILER</speaker>
+Banished. Prince Pirithous
 Obtained his liberty, but never more
 Upon his oath and life must he set foot
 Upon this kingdom.
 
-PALAMON  He's a blessed man.
+<speaker>PALAMON</speaker>
+He's a blessed man.
 He shall see Thebes again, and call to arms
 The bold young men that, when he bids 'em charge,
 Fall on like fire. Arcite shall have a fortune,
@@ -1432,64 +1592,72 @@ Of such a virtuous greatness that this lady,
 This blushing virgin, should take manhood to her
 And seek to ravish me.
 
-JAILER  My lord, for you
+<speaker>JAILER</speaker>
+My lord, for you
 I have this charge to--
 
-PALAMON  To discharge my life?
+<speaker>PALAMON</speaker>
+To discharge my life?
 
-JAILER
+<speaker>JAILER</speaker>
 No, but from this place to remove your Lordship;
 The windows are too open.
 
-PALAMON  Devils take 'em
+<speaker>PALAMON</speaker>
+Devils take 'em
 That are so envious to me! Prithee, kill me.
 
-JAILER
+<speaker>JAILER</speaker>
 And hang for 't afterward!
 
-PALAMON  By this good light,
+<speaker>PALAMON</speaker>
+By this good light,
 Had I a sword I would kill thee.
 
-JAILER  Why, my lord?
+<speaker>JAILER</speaker>
+Why, my lord?
 
-PALAMON
+<speaker>PALAMON</speaker>
 Thou bringst such pelting, scurvy news continually,
 Thou art not worthy life. I will not go.
 
-JAILER
+<speaker>JAILER</speaker>
 Indeed you must, my lord.
 
-PALAMON  May I see the garden?
+<speaker>PALAMON</speaker>
+May I see the garden?
 
-JAILER
+<speaker>JAILER</speaker>
 No.
 
-PALAMON  Then I am resolved, I will not go.
+<speaker>PALAMON</speaker>
+Then I am resolved, I will not go.
 
-JAILER
+<speaker>JAILER</speaker>
 I must constrain you then; and, for you are
 dangerous,
 I'll clap more irons on you.
 
-PALAMON  Do, good keeper.
+<speaker>PALAMON</speaker>
+Do, good keeper.
 I'll shake 'em so, you shall not sleep;
 I'll make you a new morris. Must I go?
 
-JAILER
+<speaker>JAILER</speaker>
 There is no remedy.
 
-PALAMON  Farewell, kind window.
+<speaker>PALAMON</speaker>
+Farewell, kind window.
 May rude wind never hurt thee. O, my lady,
 If ever thou hast felt what sorrow was,
 Dream how I suffer.--Come; now bury me.
-[Palamon and Jailer exit.]
+[<i>Palamon and Jailer exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Arcite.]
+[<i>Enter Arcite.</i>]
 
-
-ARCITE
+<speaker>ARCITE</speaker>
 Banished the kingdom? 'Tis a benefit,
 A mercy I must thank 'em for; but banished
 The free enjoying of that face I die for,
@@ -1516,118 +1684,149 @@ I am resolved another shape shall make me
 Or end my fortunes. Either way I am happy.
 I'll see her and be near her, or no more.
 
-[Enter four Country people, and one with
-a garland before them.]
+[<i>Enter four Country people, and one with
+a garland before them.</i>]
 
-[Arcite steps aside.]
+[<i>Arcite steps aside.</i>]
 
-FIRST COUNTRYMAN  My masters, I'll be there, that's
+<speaker>FIRST COUNTRYMAN</speaker>
+My masters, I'll be there, that's
 certain.
 
-SECOND COUNTRYMAN  And I'll be there.
+<speaker>SECOND COUNTRYMAN</speaker>
+And I'll be there.
 
-THIRD COUNTRYMAN  And I.
+<speaker>THIRD COUNTRYMAN</speaker>
+And I.
 
-FOURTH COUNTRYMAN  Why, then, have with you, boys.
+<speaker>FOURTH COUNTRYMAN</speaker>
+Why, then, have with you, boys.
 'Tis but a chiding. Let the plough play today; I'll
 tickle 't out of the jades' tails tomorrow.
 
-FIRST COUNTRYMAN  I am sure to have my wife as jealous
+<speaker>FIRST COUNTRYMAN</speaker>
+I am sure to have my wife as jealous
 as a turkey, but that's all one. I'll go through;
 let her mumble.
 
-SECOND COUNTRYMAN  Clap her aboard tomorrow night
+<speaker>SECOND COUNTRYMAN</speaker>
+Clap her aboard tomorrow night
 and stow her, and all's made up again.
 
-THIRD COUNTRYMAN  Ay, do but put a fescue in her fist
+<speaker>THIRD COUNTRYMAN</speaker>
+Ay, do but put a fescue in her fist
 and you shall see her take a new lesson out and be
 a good wench. Do we all hold against the Maying?
 
-FOURTH COUNTRYMAN  Hold? What should ail us?
+<speaker>FOURTH COUNTRYMAN</speaker>
+Hold? What should ail us?
 
-THIRD COUNTRYMAN  Arcas will be there.
+<speaker>THIRD COUNTRYMAN</speaker>
+Arcas will be there.
 
-SECOND COUNTRYMAN  And Sennois and Rycas; and
+<speaker>SECOND COUNTRYMAN</speaker>
+And Sennois and Rycas; and
 three better lads ne'er danced under green tree.
 And you know what wenches, ha! But will the
 dainty domine, the Schoolmaster, keep touch, do
 you think? For he does all, you know.
 
-THIRD COUNTRYMAN  He'll eat a hornbook ere he fail.
+<speaker>THIRD COUNTRYMAN</speaker>
+He'll eat a hornbook ere he fail.
 Go to, the matter's too far driven between him and
 the tanner's daughter to let slip now; and she must
 see the Duke, and she must dance too.
 
-FOURTH COUNTRYMAN  Shall we be lusty?
+<speaker>FOURTH COUNTRYMAN</speaker>
+Shall we be lusty?
 
-SECOND COUNTRYMAN  All the boys in Athens blow wind
+<speaker>SECOND COUNTRYMAN</speaker>
+All the boys in Athens blow wind
 i' th' breech on 's. And here I'll be and there I'll be,
 for our town, and here again, and there again. Ha,
 boys, hey for the weavers!
 
-FIRST COUNTRYMAN  This must be done i' th' woods.
+<speaker>FIRST COUNTRYMAN</speaker>
+This must be done i' th' woods.
 
-FOURTH COUNTRYMAN  O pardon me.
+<speaker>FOURTH COUNTRYMAN</speaker>
+O pardon me.
 
-SECOND COUNTRYMAN  By any means; our thing of learning
+<speaker>SECOND COUNTRYMAN</speaker>
+By any means; our thing of learning
 says so--where he himself will edify the Duke
 most parlously in our behalfs. He's excellent i' th'
 woods; bring him to th' plains, his learning makes
 no cry.
 
-THIRD COUNTRYMAN  We'll see the sports, then every
+<speaker>THIRD COUNTRYMAN</speaker>
+We'll see the sports, then every
 man to 's tackle. And, sweet companions, let's rehearse,
 by any means, before the ladies see us, and
 do sweetly, and God knows what may come on 't.
 
-FOURTH COUNTRYMAN  Content. The sports once ended,
+<speaker>FOURTH COUNTRYMAN</speaker>
+Content. The sports once ended,
 we'll perform. Away, boys, and hold.
-[Arcite comes forward.]
+[<i>Arcite comes forward.</i>]
 
-ARCITE  By your leaves, honest friends: pray you,
+<speaker>ARCITE</speaker>
+By your leaves, honest friends: pray you,
 whither go you?
 
-FOURTH COUNTRYMAN  Whither?
+<speaker>FOURTH COUNTRYMAN</speaker>
+Whither?
 Why, what a question's that?
 
-ARCITE  Yes, 'tis a question
+<speaker>ARCITE</speaker>
+Yes, 'tis a question
 To me that know not.
 
-THIRD COUNTRYMAN  To the games, my friend.
+<speaker>THIRD COUNTRYMAN</speaker>
+To the games, my friend.
 
-SECOND COUNTRYMAN
+<speaker>SECOND COUNTRYMAN</speaker>
 Where were you bred, you know it not?
 
-ARCITE  Not far, sir.
+<speaker>ARCITE</speaker>
+Not far, sir.
 Are there such games today?
 
-FIRST COUNTRYMAN  Yes, marry, are there,
+<speaker>FIRST COUNTRYMAN</speaker>
+Yes, marry, are there,
 And such as you never saw. The Duke himself
 Will be in person there.
 
-ARCITE  What pastimes are they?
+<speaker>ARCITE</speaker>
+What pastimes are they?
 
-SECOND COUNTRYMAN
+<speaker>SECOND COUNTRYMAN</speaker>
 Wrestling and running.--'Tis a pretty fellow.
 
-THIRD COUNTRYMAN
+<speaker>THIRD COUNTRYMAN</speaker>
 Thou wilt not go along?
 
-ARCITE  Not yet, sir.
+<speaker>ARCITE</speaker>
+Not yet, sir.
 
-FOURTH COUNTRYMAN  Well, sir,
+<speaker>FOURTH COUNTRYMAN</speaker>
+Well, sir,
 Take your own time.--Come, boys.
 
-<b>FIRST COUNTRYMAN,</b> [aside to the others]  My mind misgives
+<speaker>FIRST COUNTRYMAN,</speaker>
+[<i>aside to the others</i>]
+My mind misgives
 me. This fellow has a vengeance trick o' th'
 hip. Mark how his body's made for 't.
 
-<b>SECOND COUNTRYMAN,</b> [aside to the others]  I'll be
+<speaker>SECOND COUNTRYMAN,</speaker>
+[<i>aside to the others</i>]
+I'll be
 hanged, though, if he dare venture. Hang him,
 plum porridge! He wrestle? He roast eggs! Come,
-let's be gone, lads.	[The four exit.]
+let's be gone, lads.	[<i>The four exit.</i>]
 
-ARCITE
+<speaker>ARCITE</speaker>
 This is an offered opportunity
 I durst not wish for. Well I could have wrestled--
 The best men called it excellent--and run
@@ -1637,14 +1836,13 @@ And in some poor disguise be there. Who knows
 Whether my brows may not be girt with garlands,
 And happiness prefer me to a place
 Where I may ever dwell in sight of her?
-[Arcite exits.]
+[<i>Arcite exits.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Jailer's Daughter, alone.]
+[<i>Enter Jailer's Daughter, alone.</i>]
 
-
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 Why should I love this gentleman? 'Tis odds
 He never will affect me. I am base,
 My father the mean keeper of his prison,
@@ -1678,43 +1876,48 @@ For I would fain enjoy him. Say I ventured
 To set him free? What says the law then?
 Thus much for law or kindred! I will do it,
 And this night, or tomorrow, he shall love me.
-[She exits.]
+[<i>She exits.</i>]
 
 <b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[This short flourish of cornets and shouts within.
+[<i>This short flourish of cornets and shouts within.
 Enter Theseus, Hippolyta, Pirithous, Emilia, Arcite
-in disguise, with a garland, Attendants, and others.]
+in disguise, with a garland, Attendants, and others.</i>]
 
-
-<b>THESEUS,</b> [to Arcite]
+<speaker>THESEUS,</speaker>
+[<i>to Arcite</i>]
 You have done worthily. I have not seen,
 Since Hercules, a man of tougher sinews.
 Whate'er you are, you run the best and wrestle
 That these times can allow.
 
-ARCITE  I am proud to please you.
+<speaker>ARCITE</speaker>
+I am proud to please you.
 
-THESEUS
+<speaker>THESEUS</speaker>
 What country bred you?
 
-ARCITE  This; but far off, prince.
+<speaker>ARCITE</speaker>
+This; but far off, prince.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Are you a gentleman?
 
-ARCITE  My father said so,
+<speaker>ARCITE</speaker>
+My father said so,
 And to those gentle uses gave me life.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Are you his heir?
 
-ARCITE  His youngest, sir.
+<speaker>ARCITE</speaker>
+His youngest, sir.
 
-THESEUS  Your father,
+<speaker>THESEUS</speaker>
+Your father,
 Sure, is a happy sire, then. What proves you?
 
-ARCITE
+<speaker>ARCITE</speaker>
 A little of all noble qualities.
 I could have kept a hawk and well have hallowed
 To a deep cry of dogs. I dare not praise
@@ -1722,114 +1925,132 @@ My feat in horsemanship, yet they that knew me
 Would say it was my best piece. Last, and greatest,
 I would be thought a soldier.
 
-THESEUS  You are perfect.
+<speaker>THESEUS</speaker>
+You are perfect.
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 Upon my soul, a proper man.
 
-EMILIA  He is so.
+<speaker>EMILIA</speaker>
+He is so.
 
-<b>PIRITHOUS,</b> [to Hippolyta]
+<speaker>PIRITHOUS,</speaker>
+[<i>to Hippolyta</i>]
 How do you like him, lady?
 
-HIPPOLYTA  I admire him.
+<speaker>HIPPOLYTA</speaker>
+I admire him.
 I have not seen so young a man so noble,
 If he say true, of his sort.
 
-EMILIA  Believe,
+<speaker>EMILIA</speaker>
+Believe,
 His mother was a wondrous handsome woman;
 His face, methinks, goes that way.
 
-HIPPOLYTA  But his body
+<speaker>HIPPOLYTA</speaker>
+But his body
 And fiery mind illustrate a brave father.
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 Mark how his virtue, like a hidden sun,
 Breaks through his baser garments.
 
-HIPPOLYTA  He's well got, sure.
+<speaker>HIPPOLYTA</speaker>
+He's well got, sure.
 
-<b>THESEUS,</b> [to Arcite]
+<speaker>THESEUS,</speaker>
+[<i>to Arcite</i>]
 What made you seek this place, sir?
 
-ARCITE  Noble Theseus,
+<speaker>ARCITE</speaker>
+Noble Theseus,
 To purchase name and do my ablest service
 To such a well-found wonder as thy worth;
 For only in thy court, of all the world,
 Dwells fair-eyed Honor.
 
-PIRITHOUS  All his words are worthy.
+<speaker>PIRITHOUS</speaker>
+All his words are worthy.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Sir, we are much indebted to your travel,
 Nor shall you lose your wish.--Pirithous,
 Dispose of this fair gentleman.
 
-PIRITHOUS  Thanks, Theseus.--
+<speaker>PIRITHOUS</speaker>
+Thanks, Theseus.--
 Whate'er you are, you're mine, and I shall give you
 To a most noble service: to this lady,
 This bright young virgin.
-[He brings Arcite to Emilia.]
+[<i>He brings Arcite to Emilia.</i>]
 Pray observe her goodness;
 You have honored her fair birthday with your
 virtues,
 And, as your due, you're hers. Kiss her fair hand, sir.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Sir, you're a noble giver.--Dearest beauty,
 Thus let me seal my vowed faith.
-[He kisses her hand.]
+[<i>He kisses her hand.</i>]
 When your servant,
 Your most unworthy creature, but offends you,
 Command him die, he shall.
 
-EMILIA  That were too cruel.
+<speaker>EMILIA</speaker>
+That were too cruel.
 If you deserve well, sir, I shall soon see 't.
 You're mine, and somewhat better than your rank
 I'll use you.
 
-<b>PIRITHOUS,</b> [to Arcite]
+<speaker>PIRITHOUS,</speaker>
+[<i>to Arcite</i>]
 I'll see you furnished, and because you say
 You are a horseman, I must needs entreat you
 This afternoon to ride--but 'tis a rough one.
 
-ARCITE
+<speaker>ARCITE</speaker>
 I like him better, prince; I shall not then
 Freeze in my saddle.
 
-<b>THESEUS,</b> [to Hippolyta]  Sweet, you must be ready,--
+<speaker>THESEUS,</speaker>
+[<i>to Hippolyta</i>]
+Sweet, you must be ready,--
 And you, Emilia,--and you, friend,--and all,
 Tomorrow by the sun, to do observance
 To flowery May in Dian's wood.--Wait well, sir,
 Upon your mistress.--Emily, I hope
 He shall not go afoot.
 
-EMILIA  That were a shame, sir,
+<speaker>EMILIA</speaker>
+That were a shame, sir,
 While I have horses.--Take your choice, and what
 You want at any time, let me but know it.
 If you serve faithfully, I dare assure you
 You'll find a loving mistress.
 
-ARCITE  If I do not,
+<speaker>ARCITE</speaker>
+If I do not,
 Let me find that my father ever hated,
 Disgrace and blows.
 
-THESEUS  Go lead the way; you have won it.
+<speaker>THESEUS</speaker>
+Go lead the way; you have won it.
 It shall be so; you shall receive all dues
 Fit for the honor you have won. 'Twere wrong else.--
 Sister, beshrew my heart, you have a servant
 That, if I were a woman, would be master;
 But you are wise.
 
-EMILIA  I hope too wise for that, sir.
-[Flourish. They all exit.]
+<speaker>EMILIA</speaker>
+I hope too wise for that, sir.
+[<i>Flourish. They all exit.</i>]
 
 <b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Enter Jailer's Daughter alone.]
+[<i>Enter Jailer's Daughter alone.</i>]
 
-
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 Let all the dukes and all the devils roar!
 He is at liberty. I have ventured for him,
 And out I have brought him; to a little wood
@@ -1869,18 +2090,15 @@ Will be all o'er the prison. I am then
 Kissing the man they look for. Farewell, father!
 Get many more such prisoners and such daughters,
 And shortly you may keep yourself. Now to him.
-[She exits.]
-
+[<i>She exits.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
-
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Cornets in sundry places. Noise and hallowing
-as people a-Maying. Enter Arcite alone.]
+[<i>Cornets in sundry places. Noise and hallowing
+as people a-Maying. Enter Arcite alone.</i>]
 
-
-ARCITE
+<speaker>ARCITE</speaker>
 The Duke has lost Hippolyta; each took
 A several laund. This is a solemn rite
 They owe bloomed May, and the Athenians pay it
@@ -1890,7 +2108,8 @@ Than her gold buttons on the boughs, or all
 Th' enameled knacks o' th' mead or garden--yea,
 We challenge too the bank of any nymph
 That makes the stream seem flowers; thou, O jewel
-O' th' wood, o' th' world, hast likewise blessed a pace
+<speaker>O'</speaker>
+th' wood, o' th' world, hast likewise blessed a pace
 With thy sole presence. In thy rumination
 That I, poor man, might eftsoons come between
 And chop on some cold thought! Thrice blessed
@@ -1913,11 +2132,11 @@ Thou knew'st my mistress breathed on me, and that
 I eared her language, lived in her eye--O coz,
 What passion would enclose thee!
 
-[Enter Palamon as out of a bush, with his shackles;
-he bends his fist at Arcite.]
+[<i>Enter Palamon as out of a bush, with his shackles;
+he bends his fist at Arcite.</i>]
 
-
-PALAMON  Traitor kinsman,
+<speaker>PALAMON</speaker>
+Traitor kinsman,
 Thou shouldst perceive my passion if these signs
 Of prisonment were off me, and this hand
 But owner of a sword. By all oaths in one,
@@ -1932,13 +2151,15 @@ A very thief in love, a chaffy lord,
 Nor worth the name of villain. Had I a sword,
 And these house clogs away--
 
-ARCITE  Dear cousin Palamon--
+<speaker>ARCITE</speaker>
+Dear cousin Palamon--
 
-PALAMON
+<speaker>PALAMON</speaker>
 Cozener Arcite, give me language such
 As thou hast showed me feat.
 
-ARCITE  Not finding in
+<speaker>ARCITE</speaker>
+Not finding in
 The circuit of my breast any gross stuff
 To form me like your blazon holds me to
 This gentleness of answer: 'tis your passion
@@ -1952,16 +2173,18 @@ Your question's with your equal, who professes
 To clear his own way with the mind and sword
 Of a true gentleman.
 
-PALAMON  That thou durst, Arcite!
+<speaker>PALAMON</speaker>
+That thou durst, Arcite!
 
-ARCITE
+<speaker>ARCITE</speaker>
 My coz, my coz, you have been well advertised
 How much I dare; you've seen me use my sword
 Against th' advice of fear. Sure, of another
 You would not hear me doubted, but your silence
 Should break out, though i' th' sanctuary.
 
-PALAMON  Sir,
+<speaker>PALAMON</speaker>
+Sir,
 I have seen you move in such a place which well
 Might justify your manhood; you were called
 A good knight and a bold. But the whole week's not
@@ -1971,11 +2194,13 @@ Men lose when they incline to treachery,
 And then they fight like compelled bears--would fly
 Were they not tied.
 
-ARCITE  Kinsman, you might as well
+<speaker>ARCITE</speaker>
+Kinsman, you might as well
 Speak this and act it in your glass as to
 His ear which now disdains you.
 
-PALAMON  Come up to me;
+<speaker>PALAMON</speaker>
+Come up to me;
 Quit me of these cold gyves, give me a sword
 Though it be rusty, and the charity
 Of one meal lend me. Come before me then,
@@ -1987,7 +2212,8 @@ That have died manly, which will seek of me
 Some news from Earth, they shall get none but this:
 That thou art brave and noble.
 
-ARCITE  Be content.
+<speaker>ARCITE</speaker>
+Be content.
 Again betake you to your hawthorn house.
 With counsel of the night I will be here
 With wholesome viands. These impediments
@@ -1997,71 +2223,80 @@ When you shall stretch yourself and say but "Arcite,
 I am in plight," there shall be at your choice
 Both sword and armor.
 
-PALAMON  O you heavens, dares any
+<speaker>PALAMON</speaker>
+O you heavens, dares any
 So noble bear a guilty business? None
 But only Arcite. Therefore none but Arcite
 In this kind is so bold.
 
-ARCITE  Sweet Palamon.
+<speaker>ARCITE</speaker>
+Sweet Palamon.
 
-PALAMON
+<speaker>PALAMON</speaker>
 I do embrace you and your offer; for
 Your offer do 't I only. Sir, your person
 Without hypocrisy I may not wish
 More than my sword's edge on 't.
-[Wind horns off; sound cornets.]
+[<i>Wind horns off; sound cornets.</i>]
 
-ARCITE  You hear the horns.
+<speaker>ARCITE</speaker>
+You hear the horns.
 Enter your muset, lest this match between 's
 Be crossed ere met. Give me your hand; farewell.
 I'll bring you every needful thing. I pray you,
 Take comfort and be strong.
 
-PALAMON  Pray hold your promise,
+<speaker>PALAMON</speaker>
+Pray hold your promise,
 And do the deed with a bent brow. Most certain
 You love me not; be rough with me, and pour
 This oil out of your language. By this air,
 I could for each word give a cuff, my stomach
 Not reconciled by reason.
 
-ARCITE  Plainly spoken,
+<speaker>ARCITE</speaker>
+Plainly spoken,
 Yet pardon me hard language. When I spur
 My horse, I chide him not; content and anger
-In me have but one face.	[Wind horns.]
+In me have but one face.	[<i>Wind horns.</i>]
 Hark, sir, they call
 The scattered to the banquet; you must guess
 I have an office there.
 
-PALAMON  Sir, your attendance
+<speaker>PALAMON</speaker>
+Sir, your attendance
 Cannot please heaven, and I know your office
 Unjustly is achieved.
 
-ARCITE  'Tis a good title.
+<speaker>ARCITE</speaker>
+'Tis a good title.
 I am persuaded this question, sick between 's,
 By bleeding must be cured. I am a suitor
 That to your sword you will bequeath this plea,
 And talk of it no more.
 
-PALAMON  But this one word:
+<speaker>PALAMON</speaker>
+But this one word:
 You are going now to gaze upon my mistress,
 For note you, mine she is--
 
-ARCITE  Nay then,--
+<speaker>ARCITE</speaker>
+Nay then,--
 
-PALAMON  Nay, pray you,
+<speaker>PALAMON</speaker>
+Nay, pray you,
 You talk of feeding me to breed me strength.
 You are going now to look upon a sun
 That strengthens what it looks on; there
 You have a vantage o'er me, but enjoy 't till
 I may enforce my remedy. Farewell.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Jailer's Daughter, alone.]
+[<i>Enter Jailer's Daughter, alone.</i>]
 
-
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 He has mistook the brake I meant, is gone
 After his fancy. 'Tis now well-nigh morning.
 No matter; would it were perpetual night,
@@ -2101,176 +2336,204 @@ owl
 Calls in the dawn. All offices are done
 Save what I fail in. But the point is this--
 An end, and that is all.
-[She exits.]
+[<i>She exits.</i>]
 
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Arcite with meat, wine, and files.]
+[<i>Enter Arcite with meat, wine, and files.</i>]
 
-
-ARCITE
+<speaker>ARCITE</speaker>
 I should be near the place.--Ho! Cousin Palamon!
 
-<b>PALAMON,</b> [within]
+<speaker>PALAMON,</speaker>
+[<i>within</i>]
 Arcite?
 
-ARCITE  The same. I have brought you food and files.
+<speaker>ARCITE</speaker>
+The same. I have brought you food and files.
 Come forth and fear not; here's no Theseus.
 
-[Enter Palamon.]
+[<i>Enter Palamon.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 Nor none so honest, Arcite.
 
-ARCITE  That's no matter.
+<speaker>ARCITE</speaker>
+That's no matter.
 We'll argue that hereafter. Come, take courage;
 You shall not die thus beastly. Here, sir, drink--
 I know you are faint--then I'll talk further with you.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Arcite, thou mightst now poison me.
 
-ARCITE  I might;
+<speaker>ARCITE</speaker>
+I might;
 But I must fear you first. Sit down and, good now,
 No more of these vain parleys. Let us not,
 Having our ancient reputation with us,
 Make talk for fools and cowards. To your health.
-[He drinks.]
+[<i>He drinks.</i>]
 
-PALAMON  Do!
+<speaker>PALAMON</speaker>
+Do!
 
-ARCITE
+<speaker>ARCITE</speaker>
 Pray sit down, then, and let me entreat you,
 By all the honesty and honor in you,
 No mention of this woman; 'twill disturb us.
 We shall have time enough.
 
-PALAMON  Well, sir, I'll pledge you.
-[He drinks.]
+<speaker>PALAMON</speaker>
+Well, sir, I'll pledge you.
+[<i>He drinks.</i>]
 
-ARCITE
+<speaker>ARCITE</speaker>
 Drink a good hearty draught; it breeds good blood,
 man.
 Do not you feel it thaw you?
 
-PALAMON  Stay, I'll tell you
+<speaker>PALAMON</speaker>
+Stay, I'll tell you
 After a draught or two more.
 
-ARCITE  Spare it not.
+<speaker>ARCITE</speaker>
+Spare it not.
 The Duke has more, coz. Eat now.
 
-PALAMON  Yes.	[He eats.]
+<speaker>PALAMON</speaker>
+Yes. [<i>He eats.</i>]
 
-ARCITE  I am glad
+<speaker>ARCITE</speaker>
+I am glad
 You have so good a stomach.
 
-PALAMON  I am gladder
+<speaker>PALAMON</speaker>
+I am gladder
 I have so good meat to 't.
 
-ARCITE  Is 't not mad lodging
+<speaker>ARCITE</speaker>
+Is 't not mad lodging
 Here in the wild woods, cousin?
 
-PALAMON  Yes, for them
+<speaker>PALAMON</speaker>
+Yes, for them
 That have wild consciences.
 
-ARCITE  How tastes your
+<speaker>ARCITE</speaker>
+How tastes your
 victuals?
 Your hunger needs no sauce, I see.
 
-PALAMON  Not much.
+<speaker>PALAMON</speaker>
+Not much.
 But if it did, yours is too tart, sweet cousin.
 What is this?
 
-ARCITE  Venison.
+<speaker>ARCITE</speaker>
+Venison.
 
-PALAMON  'Tis a lusty meat.
+<speaker>PALAMON</speaker>
+'Tis a lusty meat.
 Give me more wine. Here, Arcite, to the wenches
 We have known in our days!
-[He raises his cup in a toast.]
+[<i>He raises his cup in a toast.</i>]
 The Lord Steward's
 daughter!
 Do you remember her?
 
-ARCITE  After you, coz.
+<speaker>ARCITE</speaker>
+After you, coz.
 
-PALAMON
+<speaker>PALAMON</speaker>
 She loved a black-haired man.
 
-ARCITE  She did so; well, sir?
+<speaker>ARCITE</speaker>
+She did so; well, sir?
 
-PALAMON
+<speaker>PALAMON</speaker>
 And I have heard some call him Arcite, and--
 
-ARCITE
+<speaker>ARCITE</speaker>
 Out with 't, faith.
 
-PALAMON  She met him in an arbor.
+<speaker>PALAMON</speaker>
+She met him in an arbor.
 What did she there, coz? Play o' th' virginals?
 
-ARCITE
+<speaker>ARCITE</speaker>
 Something she did, sir.
 
-PALAMON  Made her groan a month
+<speaker>PALAMON</speaker>
+Made her groan a month
 for 't--
 Or two, or three, or ten.
 
-ARCITE  The Marshal's sister
+<speaker>ARCITE</speaker>
+The Marshal's sister
 Had her share, too, as I remember, cousin,
 Else there be tales abroad. You'll pledge her?
 
-PALAMON  Yes.
-[He lifts his cup and then drinks.]
+<speaker>PALAMON</speaker>
+Yes.
+[<i>He lifts his cup and then drinks.</i>]
 
-ARCITE
+<speaker>ARCITE</speaker>
 A pretty brown wench 'tis. There was a time
 When young men went a-hunting, and a wood,
 And a broad beech--and thereby hangs a tale.
 Heigh ho!
 
-PALAMON  For Emily, upon my life! Fool,
+<speaker>PALAMON</speaker>
+For Emily, upon my life! Fool,
 Away with this strained mirth. I say again
 That sigh was breathed for Emily. Base cousin,
 Dar'st thou break first?
 
-ARCITE  You are wide.
+<speaker>ARCITE</speaker>
+You are wide.
 
-PALAMON  By heaven and
+<speaker>PALAMON</speaker>
+By heaven and
 Earth,
 There's nothing in thee honest.
 
-ARCITE  Then I'll leave you.
+<speaker>ARCITE</speaker>
+Then I'll leave you.
 You are a beast now.
 
-PALAMON  As thou mak'st me, traitor.
+<speaker>PALAMON</speaker>
+As thou mak'st me, traitor.
 
-ARCITE
+<speaker>ARCITE</speaker>
 There's all things needful: files and shirts and
 perfumes.
 I'll come again some two hours hence and bring
 That that shall quiet all.
 
-PALAMON  A sword and armor.
+<speaker>PALAMON</speaker>
+A sword and armor.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Fear me not. You are now too foul. Farewell.
 Get off your trinkets; you shall want naught.
 
-PALAMON  Sirrah--
+<speaker>PALAMON</speaker>
+Sirrah--
 
-ARCITE
+<speaker>ARCITE</speaker>
 I'll hear no more.
-[He exits.]
+[<i>He exits.</i>]
 
-PALAMON  If he keep touch, he dies for 't.
-[He exits.]
+<speaker>PALAMON</speaker>
+If he keep touch, he dies for 't.
+[<i>He exits.</i>]
 
 <b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Jailer's Daughter.]
+[<i>Enter Jailer's Daughter.</i>]
 
-
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 I am very cold, and all the stars are out too,
 The little stars and all, that look like aglets.
 The sun has seen my folly.--Palamon!
@@ -2290,26 +2553,26 @@ By east and northeast to the king of pygmies,
 For he tells fortunes rarely. Now my father,
 Twenty to one, is trussed up in a trice
 Tomorrow morning. I'll say never a word.
-[Sing.]
-	For I'll cut my green coat a foot above my knee,
-	And I'll clip my yellow locks an inch below mine
+[<i>Sing.</i>]
+For I'll cut my green coat a foot above my knee,
+And I'll clip my yellow locks an inch below mine
 eye.
-	   Hey nonny, nonny, nonny.
-	He's buy me a white cut, forth for to ride,
-	And I'll go seek him through the world that is so
+Hey nonny, nonny, nonny.
+He's buy me a white cut, forth for to ride,
+And I'll go seek him through the world that is so
 wide.
-	   Hey nonny, nonny, nonny.
+Hey nonny, nonny, nonny.
 O, for a prick now, like a nightingale,
 To put my breast against. I shall sleep like a top else.
-[She exits.]
+[<i>She exits.</i>]
 
 <b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter a Schoolmaster and six Countrymen,
-one dressed as a Bavian.]
+[<i>Enter a Schoolmaster and six Countrymen,
+one dressed as a Bavian.</i>]
 
-
-SCHOOLMASTER  Fie, fie, what tediosity and disinsanity
+<speaker>SCHOOLMASTER</speaker>
+Fie, fie, what tediosity and disinsanity
 is here among you! Have my rudiments been labored
 so long with you, milked unto you, and, by a
 figure, even the very plum broth and marrow of
@@ -2329,168 +2592,212 @@ and the boar--break comely out before him;
 like true lovers, cast yourselves in a body decently,
 and sweetly, by a figure, trace and turn, boys.
 
-FIRST COUNTRYMAN  And sweetly we will do it, Master
+<speaker>FIRST COUNTRYMAN</speaker>
+And sweetly we will do it, Master
 Gerald.
 
-SECOND COUNTRYMAN  Draw up the company. Where's
+<speaker>SECOND COUNTRYMAN</speaker>
+Draw up the company. Where's
 the taborer?
 
-THIRD COUNTRYMAN  Why, Timothy!
+<speaker>THIRD COUNTRYMAN</speaker>
+Why, Timothy!
 
-[Enter the Taborer.]
+[<i>Enter the Taborer.</i>]
 
+<speaker>TABORER</speaker>
+Here, my mad boys. Have at you!
 
-TABORER  Here, my mad boys. Have at you!
+<speaker>SCHOOLMASTER</speaker>
+But I say, where's their women?
 
-SCHOOLMASTER  But I say, where's their women?
+[<i>Enter five Wenches.</i>]
 
-[Enter five Wenches.]
+<speaker>FOURTH COUNTRYMAN</speaker>
+Here's Fritz and Maudlin.
 
-
-FOURTH COUNTRYMAN  Here's Fritz and Maudlin.
-
-SECOND COUNTRYMAN  And little Luce with the white
+<speaker>SECOND COUNTRYMAN</speaker>
+And little Luce with the white
 legs, and bouncing Barbary.
 
-FIRST COUNTRYMAN  And freckled Nell, that never failed
+<speaker>FIRST COUNTRYMAN</speaker>
+And freckled Nell, that never failed
 her master.
 
-SCHOOLMASTER  Where be your ribbons, maids? Swim
+<speaker>SCHOOLMASTER</speaker>
+Where be your ribbons, maids? Swim
 with your bodies, and carry it sweetly and deliverly,
 and now and then a favor and a frisk.
 
-NELL  Let us alone, sir.
+<speaker>NELL</speaker>
+Let us alone, sir.
 
-SCHOOLMASTER  Where's the rest o' th' music?
+<speaker>SCHOOLMASTER</speaker>
+Where's the rest o' th' music?
 
-THIRD COUNTRYMAN  Dispersed, as you commanded.
+<speaker>THIRD COUNTRYMAN</speaker>
+Dispersed, as you commanded.
 
-SCHOOLMASTER  Couple, then, and see what's wanting.
+<speaker>SCHOOLMASTER</speaker>
+Couple, then, and see what's wanting.
 Where's the Bavian?--My friend, carry your tail
 without offense or scandal to the ladies; and be
 sure you tumble with audacity and manhood, and
 when you bark, do it with judgment.
 
-BAVIAN  Yes, sir.
+<speaker>BAVIAN</speaker>
+Yes, sir.
 
-SCHOOLMASTER  Quo usque tandem? Here is a woman
+<speaker>SCHOOLMASTER</speaker>
+Quo usque tandem? Here is a woman
 wanting.
 
-FOURTH COUNTRYMAN  We may go whistle; all the fat's i'
+<speaker>FOURTH COUNTRYMAN</speaker>
+We may go whistle; all the fat's i'
 th' fire.
 
-SCHOOLMASTER  We have, as learned authors utter,
+<speaker>SCHOOLMASTER</speaker>
+We have, as learned authors utter,
 washed a tile; we have been fatuus and labored
 vainly.
 
-SECOND COUNTRYMAN  This is that scornful piece, that
+<speaker>SECOND COUNTRYMAN</speaker>
+This is that scornful piece, that
 scurvy hilding that gave her promise faithfully she
 would be here--Cicely, the sempster's daughter.
 The next gloves that I give her shall be dogskin;
 nay, an she fail me once--you can tell, Arcas, she
 swore by wine and bread she would not break.
 
-SCHOOLMASTER  An eel and woman, a learned poet
+<speaker>SCHOOLMASTER</speaker>
+An eel and woman, a learned poet
 says, unless by th' tail and with thy teeth thou hold,
 will either fail. In manners, this was false
 position.
 
-FIRST COUNTRYMAN  A fire ill take her! Does she flinch
+<speaker>FIRST COUNTRYMAN</speaker>
+A fire ill take her! Does she flinch
 now?
 
-THIRD COUNTRYMAN  What shall we determine, sir?
+<speaker>THIRD COUNTRYMAN</speaker>
+What shall we determine, sir?
 
-SCHOOLMASTER  Nothing. Our business is become a
+<speaker>SCHOOLMASTER</speaker>
+Nothing. Our business is become a
 nullity, yea, and a woeful and a piteous nullity.
 
-FOURTH COUNTRYMAN  Now, when the credit of our town
+<speaker>FOURTH COUNTRYMAN</speaker>
+Now, when the credit of our town
 lay on it, now to be frampold, now to piss o' th'
 nettle! Go thy ways; I'll remember thee. I'll fit
 thee!
 
-[Enter Jailer's Daughter.]
+[<i>Enter Jailer's Daughter.</i>]
 
-
-<b>DAUGHTER,</b> [sings]
-	The George Alow came from the south,
-	From the coast of Barbary-a,
-	And there he met with brave gallants of war,
-	By one, by two, by three-a.
-	"Well hailed, well hailed, you jolly gallants,
-	And whither now are you bound-a?
-	O, let me have your company
-	Till I come to the sound-a."
+<speaker>DAUGHTER,</speaker>
+[<i>sings</i>]
+The George Alow came from the south,
+From the coast of Barbary-a,
+And there he met with brave gallants of war,
+By one, by two, by three-a.
+"Well hailed, well hailed, you jolly gallants,
+And whither now are you bound-a?
+O, let me have your company
+Till I come to the sound-a."
 There was three fools, fell out about an owlet--
-[Sings] 	The one he said it was an owl,
-	   The other he said nay,
-	The third he said it was a hawk,
-	   And her bells were cut away.
+[<i>Sings</i>]
+The one he said it was an owl,
+The other he said nay,
+The third he said it was a hawk,
+And her bells were cut away.
 
-THIRD COUNTRYMAN  There's a dainty madwoman, master,
+<speaker>THIRD COUNTRYMAN</speaker>
+There's a dainty madwoman, master,
 comes i' th' nick, as mad as a March hare. If we
 can get her dance, we are made again. I warrant
 her, she'll do the rarest gambols.
 
-FIRST COUNTRYMAN  A madwoman? We are made, boys.
+<speaker>FIRST COUNTRYMAN</speaker>
+A madwoman? We are made, boys.
 
-<b>SCHOOLMASTER,</b> [to Jailer's Daughter]  And are you mad,
+<speaker>SCHOOLMASTER,</speaker>
+[<i>to Jailer's Daughter</i>]
+And are you mad,
 good woman?
 
-DAUGHTER  I would be sorry else. Give me your hand.
+<speaker>DAUGHTER</speaker>
+I would be sorry else. Give me your hand.
 
-SCHOOLMASTER  Why?
+<speaker>SCHOOLMASTER</speaker>
+Why?
 
-DAUGHTER  I can tell your fortune. [She looks at his
-hand.] You are a fool. Tell ten.--I have posed him.
+<speaker>DAUGHTER</speaker>
+I can tell your fortune. [<i>She looks at his
+hand.</i>]
+You are a fool. Tell ten.--I have posed him.
 Buzz!--Friend, you must eat no white bread; if
 you do, your teeth will bleed extremely. Shall we
 dance, ho? I know you, you're a tinker. Sirrah tinker,
 stop no more holes but what you should.
 
-SCHOOLMASTER  Dii boni! A tinker, damsel?
+<speaker>SCHOOLMASTER</speaker>
+Dii boni! A tinker, damsel?
 
-DAUGHTER  Or a conjurer. Raise me a devil now, and let
+<speaker>DAUGHTER</speaker>
+Or a conjurer. Raise me a devil now, and let
 him play Chi passa o' th' bells and bones.
 
-SCHOOLMASTER  Go, take her, and fluently persuade her
+<speaker>SCHOOLMASTER</speaker>
+Go, take her, and fluently persuade her
 to a peace. Et opus exegi, quod nec Iovis ira, nec
 ignis. Strike up, and lead her in.
 
-SECOND COUNTRYMAN  Come, lass, let's trip it.
+<speaker>SECOND COUNTRYMAN</speaker>
+Come, lass, let's trip it.
 
-DAUGHTER  I'll lead.
+<speaker>DAUGHTER</speaker>
+I'll lead.
 
-THIRD COUNTRYMAN  Do, do!
+<speaker>THIRD COUNTRYMAN</speaker>
+Do, do!
 
-SCHOOLMASTER  Persuasively, and cunningly.
-[Wind horns.]
+<speaker>SCHOOLMASTER</speaker>
+Persuasively, and cunningly.
+[<i>Wind horns.</i>]
 Away, boys! I hear the horns. Give me some
 meditation, and mark your cue.
-[All but Schoolmaster exit.]
+[<i>All but Schoolmaster exit.</i>]
 Pallas, inspire me!
 
-[Enter Theseus, Pirithous, Hippolyta, Emilia, and train.]
+[<i>Enter Theseus, Pirithous, Hippolyta, Emilia, and train.</i>]
 
+<speaker>THESEUS</speaker>
+This way the stag took.
 
-THESEUS  This way the stag took.
+<speaker>SCHOOLMASTER</speaker>
+Stay, and edify!
 
-SCHOOLMASTER  Stay, and edify!
+<speaker>THESEUS</speaker>
+What have we here?
 
-THESEUS  What have we here?
+<speaker>PIRITHOUS</speaker>
+Some country sport, upon my life, sir.
 
-PIRITHOUS  Some country sport, upon my life, sir.
-
-<b>THESEUS,</b> [to Schoolmaster]  Well, sir, go forward. We
-will "edify."	[Chairs and stools brought out.]
+<speaker>THESEUS,</speaker>
+[<i>to Schoolmaster</i>]
+Well, sir, go forward. We
+will "edify."	[<i>Chairs and stools brought out.</i>]
 Ladies, sit down. We'll stay it.
-[Theseus, Hippolyta, and Emilia sit.]
+[<i>Theseus, Hippolyta, and Emilia sit.</i>]
 
-SCHOOLMASTER
+<speaker>SCHOOLMASTER</speaker>
 Thou doughty duke, all hail!--All hail, sweet ladies!
 
-<b>THESEUS,</b> [aside]  This is a cold beginning.
+<speaker>THESEUS,</speaker>
+[<i>aside</i>]
+This is a cold beginning.
 
-SCHOOLMASTER
+<speaker>SCHOOLMASTER</speaker>
 If you but favor, our country pastime made is.
 We are a few of those collected here
 That ruder tongues distinguish "villager."
@@ -2525,66 +2832,67 @@ The Bavian with long tail and eke long tool,
 Cum multis aliis that make a dance;
 Say "ay," and all shall presently advance.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Ay, ay, by any means, dear Domine.
 
-PIRITHOUS  Produce!
+<speaker>PIRITHOUS</speaker>
+Produce!
 
-SCHOOLMASTER
+<speaker>SCHOOLMASTER</speaker>
 Intrate, filii. Come forth and foot it.
 
-[Music. Enter the Countrymen, Countrywomen, and
-Jailer's Daughter; they perform a morris dance.]
+[<i>Music. Enter the Countrymen, Countrywomen, and
+Jailer's Daughter; they perform a morris dance.</i>]
 
+<speaker>SCHOOLMASTER</speaker>
+Ladies, if we have been merry
+And have pleased ye with a derry,
+And a derry and a down,
+Say the Schoolmaster's no clown.--
+Duke, if we have pleased thee too
+And have done as good boys should do,
+Give us but a tree or twain
+For a Maypole, and again,
+Ere another year run out,
+We'll make thee laugh, and all this rout.
 
-SCHOOLMASTER
-	Ladies, if we have been merry
-	And have pleased ye with a derry,
-	And a derry and a down,
-	Say the Schoolmaster's no clown.--
-	Duke, if we have pleased thee too
-	And have done as good boys should do,
-	Give us but a tree or twain
-	For a Maypole, and again,
-	Ere another year run out,
-	We'll make thee laugh, and all this rout.
-
-THESEUS
+<speaker>THESEUS</speaker>
 Take twenty, Domine.--How does my sweetheart?
 
-HIPPOLYTA
+<speaker>HIPPOLYTA</speaker>
 Never so pleased, sir.
 
-EMILIA  'Twas an excellent dance,
+<speaker>EMILIA</speaker>
+'Twas an excellent dance,
 And, for a preface, I never heard a better.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Schoolmaster, I thank you.--One see 'em all
-rewarded.	[An Attendant gives money.]
+rewarded.	[<i>An Attendant gives money.</i>]
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 And here's something to paint your pole withal.
-[He gives money.]
+[<i>He gives money.</i>]
 
-THESEUS  Now to our sports again.
+<speaker>THESEUS</speaker>
+Now to our sports again.
 
-SCHOOLMASTER
-	May the stag thou hunt'st stand long,
-	And thy dogs be swift and strong;
-	May they kill him without lets,
-	And the ladies eat his dowsets.
-[Wind horns within. Theseus, Hippolyta,
-Emilia, Pirithous, and Train exit.]
+<speaker>SCHOOLMASTER</speaker>
+May the stag thou hunt'st stand long,
+And thy dogs be swift and strong;
+May they kill him without lets,
+And the ladies eat his dowsets.
+[<i>Wind horns within. Theseus, Hippolyta,
+Emilia, Pirithous, and Train exit.</i>]
 Come, we are all made. Dii deaeque omnes,
 You have danced rarely, wenches.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Enter Palamon from the bush.]
+[<i>Enter Palamon from the bush.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 About this hour my cousin gave his faith
 To visit me again, and with him bring
 Two swords and two good armors. If he fail,
@@ -2603,31 +2911,35 @@ Shall be the last; and that sword he refuses,
 If it but hold, I kill him with. 'Tis justice.
 So, love and fortune for me!
 
-[Enter Arcite with armors and swords.]
+[<i>Enter Arcite with armors and swords.</i>]
 
 O, good morrow.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Good morrow, noble kinsman.
 
-PALAMON  I have put you
+<speaker>PALAMON</speaker>
+I have put you
 To too much pains, sir.
 
-ARCITE  That too much, fair cousin,
+<speaker>ARCITE</speaker>
+That too much, fair cousin,
 Is but a debt to honor and my duty.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Would you were so in all, sir; I could wish you
 As kind a kinsman as you force me find
 A beneficial foe, that my embraces
 Might thank you, not my blows.
 
-ARCITE  I shall think either,
+<speaker>ARCITE</speaker>
+I shall think either,
 Well done, a noble recompense.
 
-PALAMON  Then I shall quit you.
+<speaker>PALAMON</speaker>
+Then I shall quit you.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Defy me in these fair terms, and you show
 More than a mistress to me. No more anger,
 As you love anything that's honorable!
@@ -2649,97 +2961,116 @@ And I could wish I had not said I loved her,
 Though I had died. But loving such a lady,
 And justifying my love, I must not fly from 't.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Arcite, thou art so brave an enemy
 That no man but thy cousin's fit to kill thee.
 I am well and lusty. Choose your arms.
 
-ARCITE  Choose you, sir.
+<speaker>ARCITE</speaker>
+Choose you, sir.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Wilt thou exceed in all, or dost thou do it
 To make me spare thee?
 
-ARCITE  If you think so, cousin,
+<speaker>ARCITE</speaker>
+If you think so, cousin,
 You are deceived, for as I am a soldier,
 I will not spare you.
 
-PALAMON  That's well said.
+<speaker>PALAMON</speaker>
+That's well said.
 
-ARCITE  You'll find it.
+<speaker>ARCITE</speaker>
+You'll find it.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Then, as I am an honest man and love
 With all the justice of affection,
-I'll pay thee soundly.	[He chooses armor.]
+I'll pay thee soundly.	[<i>He chooses armor.</i>]
 This I'll take.
 
-ARCITE [taking the other]  That's mine, then.
+<speaker>ARCITE</speaker>
+[<i>taking the other</i>]
+That's mine, then.
 I'll arm you first.
 
-PALAMON  Do.	[Arcite begins arming him.]
+<speaker>PALAMON</speaker>
+Do. [<i>Arcite begins arming him.</i>]
 Pray thee tell me, cousin,
 Where got'st thou this good armor?
 
-ARCITE  'Tis the Duke's,
+<speaker>ARCITE</speaker>
+'Tis the Duke's,
 And to say true, I stole it. Do I pinch you?
 
-PALAMON  No.
+<speaker>PALAMON</speaker>
+No.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Is 't not too heavy?
 
-PALAMON  I have worn a lighter,
+<speaker>PALAMON</speaker>
+I have worn a lighter,
 But I shall make it serve.
 
-ARCITE  I'll buckle 't close.
+<speaker>ARCITE</speaker>
+I'll buckle 't close.
 
-PALAMON
+<speaker>PALAMON</speaker>
 By any means.
 
-ARCITE  You care not for a grand guard?
+<speaker>ARCITE</speaker>
+You care not for a grand guard?
 
-PALAMON
+<speaker>PALAMON</speaker>
 No, no, we'll use no horses. I perceive
 You would fain be at that fight.
 
-ARCITE  I am indifferent.
+<speaker>ARCITE</speaker>
+I am indifferent.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Faith, so am I. Good cousin, thrust the buckle
 Through far enough.
 
-ARCITE  I warrant you.
+<speaker>ARCITE</speaker>
+I warrant you.
 
-PALAMON  My casque now.
+<speaker>PALAMON</speaker>
+My casque now.
 
-ARCITE
+<speaker>ARCITE</speaker>
 Will you fight bare-armed?
 
-PALAMON  We shall be the nimbler.
+<speaker>PALAMON</speaker>
+We shall be the nimbler.
 
-ARCITE
+<speaker>ARCITE</speaker>
 But use your gauntlets though. Those are o' th' least.
 Prithee take mine, good cousin.
 
-PALAMON  Thank you, Arcite.
+<speaker>PALAMON</speaker>
+Thank you, Arcite.
 How do I look? Am I fall'n much away?
 
-ARCITE
+<speaker>ARCITE</speaker>
 Faith, very little; love has used you kindly.
 
-PALAMON
+<speaker>PALAMON</speaker>
 I'll warrant thee, I'll strike home.
 
-ARCITE  Do, and spare not.
+<speaker>ARCITE</speaker>
+Do, and spare not.
 I'll give you cause, sweet cousin.
 
-PALAMON  Now to you, sir.
-[He begins to arm Arcite.]
+<speaker>PALAMON</speaker>
+Now to you, sir.
+[<i>He begins to arm Arcite.</i>]
 Methinks this armor's very like that, Arcite,
 Thou wor'st that day the three kings fell, but lighter.
 
-ARCITE
+<speaker>ARCITE</speaker>
 That was a very good one, and that day,
 I well remember, you outdid me, cousin.
 I never saw such valor. When you charged
@@ -2747,49 +3078,57 @@ Upon the left wing of the enemy,
 I spurred hard to come up, and under me
 I had a right good horse.
 
-PALAMON  You had, indeed;
+<speaker>PALAMON</speaker>
+You had, indeed;
 A bright bay, I remember.
 
-ARCITE  Yes, but all
+<speaker>ARCITE</speaker>
+Yes, but all
 Was vainly labored in me; you outwent me,
 Nor could my wishes reach you; yet a little
 I did by imitation.
 
-PALAMON  More by virtue;
+<speaker>PALAMON</speaker>
+More by virtue;
 You are modest, cousin.
 
-ARCITE  When I saw you charge first,
+<speaker>ARCITE</speaker>
+When I saw you charge first,
 Methought I heard a dreadful clap of thunder
 Break from the troop.
 
-PALAMON  But still before that flew
+<speaker>PALAMON</speaker>
+But still before that flew
 The lightning of your valor. Stay a little;
 Is not this piece too strait?
 
-ARCITE  No, no, 'tis well.
+<speaker>ARCITE</speaker>
+No, no, 'tis well.
 
-PALAMON
+<speaker>PALAMON</speaker>
 I would have nothing hurt thee but my sword.
 A bruise would be dishonor.
 
-ARCITE  Now I am perfect.
+<speaker>ARCITE</speaker>
+Now I am perfect.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Stand off, then.
 
-ARCITE  Take my sword; I hold it better.
+<speaker>ARCITE</speaker>
+Take my sword; I hold it better.
 
-PALAMON
+<speaker>PALAMON</speaker>
 I thank you, no; keep it; your life lies on it.
 Here's one; if it but hold, I ask no more
 For all my hopes. My cause and honor guard me!
 
-ARCITE
+<speaker>ARCITE</speaker>
 And me my love!
-[They bow several ways, then advance and stand.]
+[<i>They bow several ways, then advance and stand.</i>]
 Is there aught else to say?
 
-PALAMON
+<speaker>PALAMON</speaker>
 This only, and no more: thou art mine aunt's son.
 And that blood we desire to shed is mutual--
 In me thine, and in thee mine. My sword
@@ -2799,27 +3138,31 @@ A place prepared for those that sleep in honor,
 I wish his weary soul that falls may win it.
 Fight bravely, cousin. Give me thy noble hand.
 
-<b>ARCITE,</b> [as they shake hands]
+<speaker>ARCITE,</speaker>
+[<i>as they shake hands</i>]
 Here, Palamon. This hand shall never more
 Come near thee with such friendship.
 
-PALAMON  I commend thee.
+<speaker>PALAMON</speaker>
+I commend thee.
 
-ARCITE
+<speaker>ARCITE</speaker>
 If I fall, curse me, and say I was a coward,
 For none but such dare die in these just trials.
 Once more farewell, my cousin.
 
-PALAMON  Farewell, Arcite.
-[Fight.]
-[Horns within. They stand.]
+<speaker>PALAMON</speaker>
+Farewell, Arcite.
+[<i>Fight.</i>]
+[<i>Horns within. They stand.</i>]
 
-ARCITE
+<speaker>ARCITE</speaker>
 Lo, cousin, lo, our folly has undone us!
 
-PALAMON  Why?
+<speaker>PALAMON</speaker>
+Why?
 
-ARCITE
+<speaker>ARCITE</speaker>
 This is the Duke, a-hunting, as I told you.
 If we be found, we are wretched. O, retire,
 For honor's sake, and safely, presently
@@ -2831,43 +3174,47 @@ For my contempt. Then all the world will scorn us,
 And say we had a noble difference,
 But base disposers of it.
 
-PALAMON  No, no, cousin,
+<speaker>PALAMON</speaker>
+No, no, cousin,
 I will no more be hidden, nor put off
 This great adventure to a second trial.
 I know your cunning, and I know your cause.
 He that faints now, shame take him! Put thyself
 Upon thy present guard--
 
-ARCITE  You are not mad?
+<speaker>ARCITE</speaker>
+You are not mad?
 
-PALAMON
+<speaker>PALAMON</speaker>
 Or I will make th' advantage of this hour
 Mine own, and what to come shall threaten me
 I fear less than my fortune. Know, weak cousin,
 I love Emilia, and in that I'll bury
 Thee and all crosses else.
 
-ARCITE  Then come what can come,
+<speaker>ARCITE</speaker>
+Then come what can come,
 Thou shalt know, Palamon, I dare as well
 Die as discourse or sleep. Only this fears me:
 The law will have the honor of our ends.
 Have at thy life!
 
-PALAMON  Look to thine own well, Arcite.
-[Fight again.]
+<speaker>PALAMON</speaker>
+Look to thine own well, Arcite.
+[<i>Fight again.</i>]
 
-[Horns. Enter Theseus, Hippolyta, Emilia,
-Pirithous and train.]
+[<i>Horns. Enter Theseus, Hippolyta, Emilia,
+Pirithous and train.</i>]
 
-
-THESEUS
+<speaker>THESEUS</speaker>
 What ignorant and mad malicious traitors
 Are you, that 'gainst the tenor of my laws
 Are making battle, thus like knights appointed,
 Without my leave and officers of arms?
 By Castor, both shall die.
 
-PALAMON  Hold thy word, Theseus.
+<speaker>PALAMON</speaker>
+Hold thy word, Theseus.
 We are certainly both traitors, both despisers
 Of thee and of thy goodness. I am Palamon,
 That cannot love thee, he that broke thy prison.
@@ -2889,12 +3236,15 @@ Say "Fight again," and thou shalt see me, Theseus,
 Do such a justice thou thyself wilt envy.
 Then take my life; I'll woo thee to 't.
 
-PIRITHOUS  O heaven,
+<speaker>PIRITHOUS</speaker>
+O heaven,
 What more than man is this!
 
-THESEUS  I have sworn.
+<speaker>THESEUS</speaker>
+I have sworn.
 
-ARCITE  We seek not
+<speaker>ARCITE</speaker>
+We seek not
 Thy breath of mercy, Theseus. 'Tis to me
 A thing as soon to die as thee to say it,
 And no more moved. Where this man calls me
@@ -2911,7 +3261,7 @@ Why she is fair, and why her eyes command me
 Stay here to love her; and if she say "traitor,"
 I am a villain fit to lie unburied.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Thou shalt have pity of us both, O Theseus,
 If unto neither thou show mercy. Stop,
 As thou art just, thy noble ear against us;
@@ -2921,86 +3271,96 @@ Let's die together at one instant, duke;
 Only a little let him fall before me,
 That I may tell my soul he shall not have her.
 
-THESEUS
+<speaker>THESEUS</speaker>
 I grant your wish, for to say true, your cousin
 Has ten times more offended, for I gave him
 More mercy than you found, sir, your offenses
 Being no more than his.--None here speak for 'em,
 For ere the sun set both shall sleep forever.
 
-HIPPOLYTA
+<speaker>HIPPOLYTA</speaker>
 Alas, the pity! Now or never, sister,
 Speak not to be denied. That face of yours
 Will bear the curses else of after ages
 For these lost cousins.
 
-EMILIA  In my face, dear sister,
+<speaker>EMILIA</speaker>
+In my face, dear sister,
 I find no anger to 'em, nor no ruin.
 The misadventure of their own eyes kill 'em.
 Yet that I will be woman and have pity,
 My knees shall grow to th' ground but I'll get mercy.
-[She kneels.]
+[<i>She kneels.</i>]
 Help me, dear sister; in a deed so virtuous,
 The powers of all women will be with us.
-[Hippolyta kneels.]
+[<i>Hippolyta kneels.</i>]
 Most royal brother--
 
-HIPPOLYTA  Sir, by our tie of marriage--
+<speaker>HIPPOLYTA</speaker>
+Sir, by our tie of marriage--
 
-EMILIA
+<speaker>EMILIA</speaker>
 By your own spotless honor--
 
-HIPPOLYTA  By that faith,
+<speaker>HIPPOLYTA</speaker>
+By that faith,
 That fair hand, and that honest heart you gave me--
 
-EMILIA
+<speaker>EMILIA</speaker>
 By that you would have pity in another;
 By your own virtues infinite--
 
-HIPPOLYTA  By valor;
+<speaker>HIPPOLYTA</speaker>
+By valor;
 By all the chaste nights I have ever pleased you--
 
-THESEUS
+<speaker>THESEUS</speaker>
 These are strange conjurings.
 
-PIRITHOUS  Nay, then, I'll in too.
-[He kneels.]
+<speaker>PIRITHOUS</speaker>
+Nay, then, I'll in too.
+[<i>He kneels.</i>]
 By all our friendship, sir, by all our dangers;
 By all you love most, wars and this sweet lady--
 
-EMILIA
+<speaker>EMILIA</speaker>
 By that you would have trembled to deny
 A blushing maid--
 
-HIPPOLYTA  By your own eyes; by strength,
+<speaker>HIPPOLYTA</speaker>
+By your own eyes; by strength,
 In which you swore I went beyond all women,
 Almost all men, and yet I yielded, Theseus--
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 To crown all this: by your most noble soul,
 Which cannot want due mercy, I beg first--
 
-HIPPOLYTA
+<speaker>HIPPOLYTA</speaker>
 Next hear my prayers--
 
-EMILIA  Last let me entreat, sir--
+<speaker>EMILIA</speaker>
+Last let me entreat, sir--
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 For mercy.
 
-HIPPOLYTA  Mercy.
+<speaker>HIPPOLYTA</speaker>
+Mercy.
 
-EMILIA  Mercy on these princes.
+<speaker>EMILIA</speaker>
+Mercy on these princes.
 
-THESEUS
-You make my faith reel. [(To Emilia.)] Say I felt
+<speaker>THESEUS</speaker>
+You make my faith reel. [<i>(To Emilia.)</i>]
+Say I felt
 Compassion to 'em both, how would you place it?
-[They rise from their knees.]
+[<i>They rise from their knees.</i>]
 
-EMILIA
+<speaker>EMILIA</speaker>
 Upon their lives, but with their banishments.
 
-THESEUS
+<speaker>THESEUS</speaker>
 You are a right woman, sister: you have pity,
 But want the understanding where to use it.
 If you desire their lives, invent a way
@@ -3014,7 +3374,8 @@ And my oath equally. I have said they die.
 Better they fall by th' law than one another.
 Bow not my honor.
 
-<b>EMILIA  O,</b> my noble brother,
+<speaker>EMILIA</speaker>
+O, my noble brother,
 That oath was rashly made, and in your anger;
 Your reason will not hold it. If such vows
 Stand for express will, all the world must perish.
@@ -3022,12 +3383,13 @@ Besides, I have another oath 'gainst yours,
 Of more authority, I am sure more love,
 Not made in passion neither, but good heed.
 
-THESEUS
+<speaker>THESEUS</speaker>
 What is it, sister?
 
-PIRITHOUS  Urge it home, brave lady.
+<speaker>PIRITHOUS</speaker>
+Urge it home, brave lady.
 
-EMILIA
+<speaker>EMILIA</speaker>
 That you would ne'er deny me anything
 Fit for my modest suit and your free granting.
 I tie you to your word now; if you fail in 't,
@@ -3048,16 +3410,18 @@ Despise my cruelty, and cry woe worth me,
 Till I am nothing but the scorn of women.
 For heaven's sake, save their lives, and banish 'em.
 
-THESEUS
+<speaker>THESEUS</speaker>
 On what conditions?
 
-EMILIA  Swear 'em never more
+<speaker>EMILIA</speaker>
+Swear 'em never more
 To make me their contention, or to know me,
 To tread upon thy dukedom, and to be,
 Wherever they shall travel, ever strangers
 To one another.
 
-PALAMON  I'll be cut a-pieces
+<speaker>PALAMON</speaker>
+I'll be cut a-pieces
 Before I take this oath! Forget I love her?
 O, all you gods, despise me then! Thy banishment
 I not mislike, so we may fairly carry
@@ -3066,27 +3430,31 @@ But take our lives, duke. I must love, and will,
 And for that love must and dare kill this cousin
 On any piece the Earth has.
 
-THESEUS  Will you, Arcite,
+<speaker>THESEUS</speaker>
+Will you, Arcite,
 Take these conditions?
 
-PALAMON  He's a villain, then.
+<speaker>PALAMON</speaker>
+He's a villain, then.
 
-PIRITHOUS  These are men!
+<speaker>PIRITHOUS</speaker>
+These are men!
 
-ARCITE
+<speaker>ARCITE</speaker>
 No, never, duke. 'Tis worse to me than begging
 To take my life so basely; though I think
 I never shall enjoy her, yet I'll preserve
 The honor of affection, and die for her,
 Make death a devil!
 
-THESEUS
+<speaker>THESEUS</speaker>
 What may be done? For now I feel compassion.
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 Let it not fall again, sir.
 
-THESEUS  Say, Emilia,
+<speaker>THESEUS</speaker>
+Say, Emilia,
 If one of them were dead, as one must, are you
 Content to take th' other to your husband?
 They cannot both enjoy you. They are princes
@@ -3095,32 +3463,37 @@ As ever fame yet spoke of. Look upon 'em,
 And, if you can love, end this difference.
 I give consent.--Are you content too, princes?
 
-BOTH
+<speaker>BOTH</speaker>
 With all our souls.
 
-THESEUS  He that she refuses
+<speaker>THESEUS</speaker>
+He that she refuses
 Must die then.
 
-BOTH  Any death thou canst invent, duke.
+<speaker>BOTH</speaker>
+Any death thou canst invent, duke.
 
-PALAMON
+<speaker>PALAMON</speaker>
 If I fall from that mouth, I fall with favor,
 And lovers yet unborn shall bless my ashes.
 
-ARCITE
+<speaker>ARCITE</speaker>
 If she refuse me, yet my grave will wed me,
 And soldiers sing my epitaph.
 
-<b>THESEUS,</b> [to Emilia]  Make choice, then.
+<speaker>THESEUS,</speaker>
+[<i>to Emilia</i>]
+Make choice, then.
 
-EMILIA
+<speaker>EMILIA</speaker>
 I cannot, sir; they are both too excellent.
 For me, a hair shall never fall of these men.
 
-HIPPOLYTA
+<speaker>HIPPOLYTA</speaker>
 What will become of 'em?
 
-THESEUS  Thus I ordain it--
+<speaker>THESEUS</speaker>
+Thus I ordain it--
 And, by mine honor, once again, it stands,
 Or both shall die: you shall both to your country,
 And each within this month, accompanied
@@ -3133,47 +3506,50 @@ And all his friends; nor shall he grudge to fall,
 Nor think he dies with interest in this lady.
 Will this content you?
 
-PALAMON  Yes.--Here, Cousin Arcite,
-I am friends again till that hour.	[He offers his hand.]
+<speaker>PALAMON</speaker>
+Yes.--Here, Cousin Arcite,
+I am friends again till that hour.	[<i>He offers his hand.</i>]
 
-ARCITE  I embrace you.
-[They shake hands.]
+<speaker>ARCITE</speaker>
+I embrace you.
+[<i>They shake hands.</i>]
 
-THESEUS
+<speaker>THESEUS</speaker>
 Are you content, sister?
 
-EMILIA  Yes, I must, sir,
+<speaker>EMILIA</speaker>
+Yes, I must, sir,
 Else both miscarry.
 
-<b>THESEUS,</b> [to Palamon and Arcite]
+<speaker>THESEUS,</speaker>
+[<i>to Palamon and Arcite</i>]
 Come, shake hands again, then,
 And take heed, as you are gentlemen, this quarrel
 Sleep till the hour prefixed, and hold your course.
 
-PALAMON
+<speaker>PALAMON</speaker>
 We dare not fail thee, Theseus.
-[They shake hands again.]
+[<i>They shake hands again.</i>]
 
-THESEUS  Come, I'll give you
+<speaker>THESEUS</speaker>
+Come, I'll give you
 Now usage like to princes and to friends.
 When you return, who wins I'll settle here;
 Who loses, yet I'll weep upon his bier.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
-
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Jailer and his Friend.]
+[<i>Enter Jailer and his Friend.</i>]
 
-
-JAILER
+<speaker>JAILER</speaker>
 Heard you no more? Was nothing said of me
 Concerning the escape of Palamon?
 Good sir, remember!
 
-FIRST FRIEND  Nothing that I heard,
+<speaker>FIRST FRIEND</speaker>
+Nothing that I heard,
 For I came home before the business
 Was fully ended. Yet I might perceive,
 Ere I departed, a great likelihood
@@ -3189,18 +3565,20 @@ Half his own heart--set in too, that I hope
 All shall be well. Neither heard I one question
 Of your name or his 'scape.
 
-JAILER  Pray heaven it hold so.
+<speaker>JAILER</speaker>
+Pray heaven it hold so.
 
-[Enter Second Friend.]
+[<i>Enter Second Friend.</i>]
 
-
-SECOND FRIEND
+<speaker>SECOND FRIEND</speaker>
 Be of good comfort, man; I bring you news,
 Good news.
 
-JAILER  They are welcome.
+<speaker>JAILER</speaker>
+They are welcome.
 
-SECOND FRIEND  Palamon has cleared
+<speaker>SECOND FRIEND</speaker>
+Palamon has cleared
 you
 And got your pardon, and discovered how
 And by whose means he escaped, which was your
@@ -3210,52 +3588,63 @@ Not to be held ungrateful to her goodness,
 Has given a sum of money to her marriage--
 A large one, I'll assure you.
 
-JAILER  You are a good man
+<speaker>JAILER</speaker>
+You are a good man
 And ever bring good news.
 
-FIRST FRIEND  How was it ended?
+<speaker>FIRST FRIEND</speaker>
+How was it ended?
 
-SECOND FRIEND
+<speaker>SECOND FRIEND</speaker>
 Why, as it should be: they that ne'er begged
 But they prevailed had their suits fairly granted;
 The prisoners have their lives.
 
-FIRST FRIEND  I knew 'twould be so.
+<speaker>FIRST FRIEND</speaker>
+I knew 'twould be so.
 
-SECOND FRIEND
+<speaker>SECOND FRIEND</speaker>
 But there be new conditions, which you'll hear of
 At better time.
 
-JAILER  I hope they are good.
+<speaker>JAILER</speaker>
+I hope they are good.
 
-SECOND FRIEND  They are
+<speaker>SECOND FRIEND</speaker>
+They are
 honorable;
 How good they'll prove I know not.
 
-FIRST FRIEND  'Twill be known.
+<speaker>FIRST FRIEND</speaker>
+'Twill be known.
 
-[Enter Wooer.]
+[<i>Enter Wooer.</i>]
 
-
-WOOER
+<speaker>WOOER</speaker>
 Alas, sir, where's your daughter?
 
-JAILER  Why do you ask?
+<speaker>JAILER</speaker>
+Why do you ask?
 
-WOOER
+<speaker>WOOER</speaker>
 O, sir, when did you see her?
 
-<b>SECOND FRIEND,</b> [aside]  How he looks!
+<speaker>SECOND FRIEND,</speaker>
+[<i>aside</i>]
+How he looks!
 
-JAILER
+<speaker>JAILER</speaker>
 This morning.
 
-WOOER  Was she well? Was she in health?
+<speaker>WOOER</speaker>
+Was she well? Was she in health?
 Sir, when did she sleep?
 
-<b>FIRST FRIEND,</b> [aside]  These are strange questions.
+<speaker>FIRST FRIEND,</speaker>
+[<i>aside</i>]
+These are strange questions.
 
-JAILER
+<speaker>JAILER</speaker>
 I do not think she was very well--for now
 You make me mind her; but this very day
 I asked her questions, and she answered me
@@ -3264,38 +3653,46 @@ So sillily, as if she were a fool,
 An innocent, and I was very angry.
 But what of her, sir?
 
-WOOER  Nothing but my pity;
+<speaker>WOOER</speaker>
+Nothing but my pity;
 But you must know it, and as good by me
 As by another that less loves her.
 
-JAILER  Well, sir?
+<speaker>JAILER</speaker>
+Well, sir?
 
-WOOER
+<speaker>WOOER</speaker>
 No, sir, not well.
 
-FIRST FRIEND  Not right?
+<speaker>FIRST FRIEND</speaker>
+Not right?
 
-SECOND FRIEND  Not well?
+<speaker>SECOND FRIEND</speaker>
+Not well?
 
-WOOER
+<speaker>WOOER</speaker>
 'Tis too true; she is mad.
 
-FIRST FRIEND  It cannot be.
+<speaker>FIRST FRIEND</speaker>
+It cannot be.
 
-WOOER
+<speaker>WOOER</speaker>
 Believe you'll find it so.
 
-JAILER  I half suspected
+<speaker>JAILER</speaker>
+I half suspected
 What you told me. The gods comfort her!
 Either this was her love to Palamon,
 Or fear of my miscarrying on his 'scape,
 Or both.
 
-WOOER  'Tis likely.
+<speaker>WOOER</speaker>
+'Tis likely.
 
-JAILER  But why all this haste, sir?
+<speaker>JAILER</speaker>
+But why all this haste, sir?
 
-WOOER
+<speaker>WOOER</speaker>
 I'll tell you quickly. As I late was angling
 In the great lake that lies behind the palace,
 From the far shore--thick set with reeds and
@@ -3312,17 +3709,19 @@ And listened to the words she sung, for then,
 Through a small glade cut by the fishermen,
 I saw it was your daughter.
 
-JAILER  Pray go on, sir.
+<speaker>JAILER</speaker>
+Pray go on, sir.
 
-WOOER
+<speaker>WOOER</speaker>
 She sung much, but no sense; only I heard her
 Repeat this often: "Palamon is gone,
 Is gone to th' wood to gather mulberries;
 I'll find him out tomorrow."
 
-FIRST FRIEND  Pretty soul!
+<speaker>FIRST FRIEND</speaker>
+Pretty soul!
 
-WOOER
+<speaker>WOOER</speaker>
 "His shackles will betray him; he'll be taken,
 And what shall I do then? I'll bring a bevy,
 A hundred black-eyed maids that love as I do,
@@ -3349,10 +3748,11 @@ And then she wept, and sung again, and sighed,
 And with the same breath smiled and kissed her
 hand.
 
-SECOND FRIEND
+<speaker>SECOND FRIEND</speaker>
 Alas, what pity it is!
 
-WOOER  I made in to her.
+<speaker>WOOER</speaker>
+I made in to her.
 She saw me, and straight sought the flood. I saved
 her
 And set her safe to land, when presently
@@ -3364,143 +3764,194 @@ I knew to be your brother--where she stayed
 And fell, scarce to be got away. I left them with her
 And hither came to tell you.
 
-[Enter Jailer's Brother, Jailer's Daughter, and others.]
+[<i>Enter Jailer's Brother, Jailer's Daughter, and others.</i>]
 
 Here they are.
 
-<b>DAUGHTER,</b> [sings]
-	May you never more enjoy the light, etc.
+<speaker>DAUGHTER,</speaker>
+[<i>sings</i>]
+May you never more enjoy the light, etc.
 Is not this a fine song?
 
-<b>BROTHER  O,</b> a very fine one.
+<speaker>BROTHER</speaker>
+O, a very fine one.
 
-DAUGHTER  I can sing twenty more.
+<speaker>DAUGHTER</speaker>
+I can sing twenty more.
 
-BROTHER  I think you can.
+<speaker>BROTHER</speaker>
+I think you can.
 
-DAUGHTER  Yes, truly can I. I can sing "The Broom"
+<speaker>DAUGHTER</speaker>
+Yes, truly can I. I can sing "The Broom"
 and "Bonny Robin." Are not you a tailor?
 
-BROTHER  Yes.
+<speaker>BROTHER</speaker>
+Yes.
 
-DAUGHTER  Where's my wedding gown?
+<speaker>DAUGHTER</speaker>
+Where's my wedding gown?
 
-BROTHER  I'll bring it tomorrow.
+<speaker>BROTHER</speaker>
+I'll bring it tomorrow.
 
-DAUGHTER  Do, very rarely, I must be abroad else to
+<speaker>DAUGHTER</speaker>
+Do, very rarely, I must be abroad else to
 call the maids and pay the minstrels, for I must
 lose my maidenhead by cocklight. 'Twill never
 thrive else.
-[Sings.]O fair, O sweet, etc.
+[<i>Sings.</i>]
+O fair, O sweet, etc.
 
-<b>BROTHER,</b> [to Jailer]  You must e'en take it patiently.
+<speaker>BROTHER,</speaker>
+[<i>to Jailer</i>]
+You must e'en take it patiently.
 
-JAILER  'Tis true.
+<speaker>JAILER</speaker>
+'Tis true.
 
-DAUGHTER  Good e'en, good men. Pray, did you ever
+<speaker>DAUGHTER</speaker>
+Good e'en, good men. Pray, did you ever
 hear of one young Palamon?
 
-JAILER  Yes, wench, we know him.
+<speaker>JAILER</speaker>
+Yes, wench, we know him.
 
-DAUGHTER  Is 't not a fine young gentleman?
+<speaker>DAUGHTER</speaker>
+Is 't not a fine young gentleman?
 
-JAILER  'Tis, love.
+<speaker>JAILER</speaker>
+'Tis, love.
 
-<b>BROTHER,</b> [aside to others]  By no mean cross her; she
+<speaker>BROTHER,</speaker>
+[<i>aside to others</i>]
+By no mean cross her; she
 is then distempered far worse than now she
 shows.
 
-<b>FIRST FRIEND,</b> [to Daughter]  Yes, he's a fine man.
+<speaker>FIRST FRIEND,</speaker>
+[<i>to Daughter</i>]
+Yes, he's a fine man.
 
-<b>DAUGHTER  O ,</b> is he so? You have a sister.
+<speaker>DAUGHTER</speaker>
+O , is he so? You have a sister.
 
-FIRST FRIEND  Yes.
+<speaker>FIRST FRIEND</speaker>
+Yes.
 
-DAUGHTER  But she shall never have him--tell her so--
+<speaker>DAUGHTER</speaker>
+But she shall never have him--tell her so--
 for a trick that I know; you'd best look to her, for
 if she see him once, she's gone, she's done and
 undone in an hour. All the young maids of our
 town are in love with him, but I laugh at 'em and
 let 'em all alone. Is 't not a wise course?
 
-FIRST FRIEND  Yes.
+<speaker>FIRST FRIEND</speaker>
+Yes.
 
-DAUGHTER  There is at least two hundred now with
+<speaker>DAUGHTER</speaker>
+There is at least two hundred now with
 child by him--there must be four; yet I keep close
 for all this, close as a cockle; and all these must be
 boys--he has the trick on 't--and at ten years old
 they must be all gelt for musicians and sing the
 wars of Theseus.
 
-SECOND FRIEND  This is strange.
+<speaker>SECOND FRIEND</speaker>
+This is strange.
 
-DAUGHTER  As ever you heard, but say nothing.
+<speaker>DAUGHTER</speaker>
+As ever you heard, but say nothing.
 
-FIRST FRIEND  No.
+<speaker>FIRST FRIEND</speaker>
+No.
 
-DAUGHTER  They come from all parts of the dukedom
+<speaker>DAUGHTER</speaker>
+They come from all parts of the dukedom
 to him; I'll warrant you, he had not so few last
 night as twenty to dispatch. He'll tickle 't up in two
 hours, if his hand be in.
 
-<b>JAILER,</b> [aside]  She's lost past all cure.
+<speaker>JAILER,</speaker>
+[<i>aside</i>]
+She's lost past all cure.
 
-BROTHER  Heaven forbid, man!
+<speaker>BROTHER</speaker>
+Heaven forbid, man!
 
-<b>DAUGHTER,</b> [to Jailer]  Come hither; you are a wise
+<speaker>DAUGHTER,</speaker>
+[<i>to Jailer</i>]
+Come hither; you are a wise
 man.
 
-<b>FIRST FRIEND,</b> [aside]  Does she know him?
+<speaker>FIRST FRIEND,</speaker>
+[<i>aside</i>]
+Does she know him?
 
-SECOND FRIEND  No; would she did.
+<speaker>SECOND FRIEND</speaker>
+No; would she did.
 
-DAUGHTER  You are master of a ship?
+<speaker>DAUGHTER</speaker>
+You are master of a ship?
 
-JAILER  Yes.
+<speaker>JAILER</speaker>
+Yes.
 
-DAUGHTER  Where's your compass?
+<speaker>DAUGHTER</speaker>
+Where's your compass?
 
-JAILER  Here.
+<speaker>JAILER</speaker>
+Here.
 
-DAUGHTER  Set it to th' north. And now direct your
+<speaker>DAUGHTER</speaker>
+Set it to th' north. And now direct your
 course to th' wood, where Palamon lies longing for
 me. For the tackling, let me alone.--Come, weigh,
 my hearts, cheerly.
 
-<b>ALL,</b> [as if sailing a ship]  Owgh, owgh, owgh!--'Tis up!
+<speaker>ALL,</speaker>
+[<i>as if sailing a ship</i>]
+Owgh, owgh, owgh!--'Tis up!
 The wind's fair!--Top the bowline!--Out with the
 main sail! Where's your whistle, master?
 
-BROTHER  Let's get her in!
+<speaker>BROTHER</speaker>
+Let's get her in!
 
-JAILER  Up to the top, boy!
+<speaker>JAILER</speaker>
+Up to the top, boy!
 
-BROTHER  Where's the pilot?
+<speaker>BROTHER</speaker>
+Where's the pilot?
 
-FIRST FRIEND  Here.
+<speaker>FIRST FRIEND</speaker>
+Here.
 
-DAUGHTER  What kenn'st thou?
+<speaker>DAUGHTER</speaker>
+What kenn'st thou?
 
-SECOND FRIEND  A fair wood.
+<speaker>SECOND FRIEND</speaker>
+A fair wood.
 
-DAUGHTER  Bear for it, master. Tack about!
-[Sings.]
-	When Cynthia with her borrowed light, etc.
-[They exit.]
+<speaker>DAUGHTER</speaker>
+Bear for it, master. Tack about!
+[<i>Sings.</i>]
+When Cynthia with her borrowed light, etc.
+[<i>They exit.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Emilia alone, with two pictures.]
+[<i>Enter Emilia alone, with two pictures.</i>]
 
-
-EMILIA
+<speaker>EMILIA</speaker>
 Yet I may bind those wounds up that must open
 And bleed to death for my sake else. I'll choose,
 And end their strife. Two such young handsome men
 Shall never fall for me; their weeping mothers,
 Following the dead cold ashes of their sons,
 Shall never curse my cruelty.
-[Looks at one of the pictures.]
+[<i>Looks at one of the pictures.</i>]
 Good heaven,
 What a sweet face has Arcite! If wise Nature,
 With all her best endowments, all those beauties
@@ -3522,7 +3973,7 @@ Methinks, from hence as from a promontory
 Pointed in heaven, should clap their wings and sing
 To all the under world the loves and fights
 Of gods and such men near 'em.
-[Looks at the other picture.]
+[<i>Looks at the other picture.</i>]
 Palamon
 Is but his foil, to him a mere dull shadow;
 He's swart and meager, of an eye as heavy
@@ -3543,7 +3994,7 @@ And threaten love, and what young maid dare cross
 What a bold gravity, and yet inviting,
 Has this brown manly face! O Love, this only
 From this hour is complexion. Lie there, Arcite.
-[She puts aside his picture.]
+[<i>She puts aside his picture.</i>]
 Thou art a changeling to him, a mere gypsy,
 And this the noble body. I am sotted,
 Utterly lost. My virgin's faith has fled me.
@@ -3556,19 +4007,22 @@ I may go look! What a mere child is Fancy,
 That, having two fair gauds of equal sweetness,
 Cannot distinguish, but must cry for both.
 
-[Enter a Gentleman.]
+[<i>Enter a Gentleman.</i>]
 
 How now, sir?
 
-GENTLEMAN  From the noble duke, your brother,
+<speaker>GENTLEMAN</speaker>
+From the noble duke, your brother,
 Madam, I bring you news: the knights are come.
 
-EMILIA
+<speaker>EMILIA</speaker>
 To end the quarrel?
 
-GENTLEMAN  Yes.
+<speaker>GENTLEMAN</speaker>
+Yes.
 
-EMILIA  Would I might end first!
+<speaker>EMILIA</speaker>
+Would I might end first!
 What sins have I committed, chaste Diana,
 That my unspotted youth must now be soiled
 With blood of princes, and my chastity
@@ -3577,40 +4031,47 @@ Two greater and two better never yet
 Made mothers joy--must be the sacrifice
 To my unhappy beauty?
 
-[Enter Theseus, Hippolyta, Pirithous and Attendants.]
+[<i>Enter Theseus, Hippolyta, Pirithous and Attendants.</i>]
 
-
-<b>THESEUS,</b> [to Attendant]  Bring 'em in
+<speaker>THESEUS,</speaker>
+[<i>to Attendant</i>]
+Bring 'em in
 Quickly, by any means; I long to see 'em.
-[To Emilia.] Your two contending lovers are
+[<i>To Emilia.</i>]
+Your two contending lovers are
 returned,
 And with them their fair knights. Now, my fair
 sister,
 You must love one of them.
 
-EMILIA  I had rather both,
+<speaker>EMILIA</speaker>
+I had rather both,
 So neither for my sake should fall untimely.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Who saw 'em?
 
-PIRITHOUS  I awhile.
+<speaker>PIRITHOUS</speaker>
+I awhile.
 
-GENTLEMAN  And I.
+<speaker>GENTLEMAN</speaker>
+And I.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-THESEUS
+<speaker>THESEUS</speaker>
 From whence come you, sir?
 
-MESSENGER  From the knights.
+<speaker>MESSENGER</speaker>
+From the knights.
 
-THESEUS  Pray
+<speaker>THESEUS</speaker>
+Pray
 speak,
 You that have seen them, what they are.
 
-MESSENGER  I will, sir,
+<speaker>MESSENGER</speaker>
+I will, sir,
 And truly what I think. Six braver spirits
 Than these they have brought, if we judge by the
 outside,
@@ -3629,17 +4090,19 @@ Hung by a curious baldric, when he frowns
 To seal his will with. Better, o' my conscience,
 Was never soldier's friend.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Thou hast well described him.
 
-PIRITHOUS  Yet a great
+<speaker>PIRITHOUS</speaker>
+Yet a great
 deal short,
 Methinks, of him that's first with Palamon.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Pray speak him, friend.
 
-PIRITHOUS  I guess he is a prince too,
+<speaker>PIRITHOUS</speaker>
+I guess he is a prince too,
 And, if it may be, greater; for his show
 Has all the ornament of honor in 't:
 He's somewhat bigger than the knight he spoke of,
@@ -3661,29 +4124,34 @@ As if she ever meant to crown his valor.
 His nose stands high, a character of honor;
 His red lips, after fights, are fit for ladies.
 
-EMILIA
+<speaker>EMILIA</speaker>
 Must these men die too?
 
-PIRITHOUS  When he speaks, his tongue
+<speaker>PIRITHOUS</speaker>
+When he speaks, his tongue
 Sounds like a trumpet. All his lineaments
 Are as a man would wish 'em, strong and clean.
 He wears a well-steeled axe, the staff of gold;
 His age some five-and-twenty.
 
-MESSENGER  There's another--
+<speaker>MESSENGER</speaker>
+There's another--
 A little man, but of a tough soul, seeming
 As great as any; fairer promises
 In such a body yet I never looked on.
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 O, he that's freckle-faced?
 
-MESSENGER  The same, my lord.
+<speaker>MESSENGER</speaker>
+The same, my lord.
 Are they not sweet ones?
 
-PIRITHOUS  Yes, they are well.
+<speaker>PIRITHOUS</speaker>
+Yes, they are well.
 
-MESSENGER  Methinks,
+<speaker>MESSENGER</speaker>
+Methinks,
 Being so few, and well disposed, they show
 Great and fine art in nature. He's white-haired--
 Not wanton white, but such a manly color
@@ -3705,76 +4173,88 @@ And in it stuck the favor of his lady.
 His age some six-and-thirty. In his hand
 He bears a charging-staff embossed with silver.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Are they all thus?
 
-PIRITHOUS  They are all the sons of honor.
+<speaker>PIRITHOUS</speaker>
+They are all the sons of honor.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Now, as I have a soul, I long to see 'em.--
 Lady, you shall see men fight now.
 
-HIPPOLYTA  I wish it,
+<speaker>HIPPOLYTA</speaker>
+I wish it,
 But not the cause, my lord. They would show
 Bravely about the titles of two kingdoms;
 'Tis pity love should be so tyrannous.--
 O, my soft-hearted sister, what think you?
 Weep not till they weep blood. Wench, it must be.
 
-<b>THESEUS,</b> [to Emilia]
-You have steeled 'em with your beauty. [(To
-Pirithous.)] Honored friend,
+<speaker>THESEUS,</speaker>
+[<i>to Emilia</i>]
+You have steeled 'em with your beauty. [<i>(To
+Pirithous.)</i>]
+Honored friend,
 To you I give the field; pray order it
 Fitting the persons that must use it.
 
-PIRITHOUS  Yes, sir.
+<speaker>PIRITHOUS</speaker>
+Yes, sir.
 
-THESEUS
+<speaker>THESEUS</speaker>
 Come, I'll go visit 'em. I cannot stay--
 Their fame has fired me so--till they appear.
 Good friend, be royal.
 
-PIRITHOUS  There shall want no bravery.
-[All but Emilia exit.]
+<speaker>PIRITHOUS</speaker>
+There shall want no bravery.
+[<i>All but Emilia exit.</i>]
 
-EMILIA
+<speaker>EMILIA</speaker>
 Poor wench, go weep, for whosoever wins
 Loses a noble cousin for thy sins.
-[She exits.]
+[<i>She exits.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Jailer, Wooer, Doctor.]
+[<i>Enter Jailer, Wooer, Doctor.</i>]
 
-
-DOCTOR  Her distraction is more at some time of the
+<speaker>DOCTOR</speaker>
+Her distraction is more at some time of the
 moon than at other some, is it not?
 
-JAILER  She is continually in a harmless distemper,
+<speaker>JAILER</speaker>
+She is continually in a harmless distemper,
 sleeps little, altogether without appetite, save often
 drinking, dreaming of another world, and a better;
 and what broken piece of matter soe'er she's about,
 the name Palamon lards it, that she farces ev'ry
 business withal, fits it to every question.
 
-[Enter Jailer's Daughter.]
+[<i>Enter Jailer's Daughter.</i>]
 
 Look where she comes; you shall perceive her
-behavior.	[They stand aside.]
+behavior.	[<i>They stand aside.</i>]
 
-DAUGHTER  I have forgot it quite. The burden on 't was
+<speaker>DAUGHTER</speaker>
+I have forgot it quite. The burden on 't was
 "down-a down-a," and penned by no worse man
 than Geraldo, Emilia's schoolmaster. He's as fantastical,
 too, as ever he may go upon 's legs, for in
 the next world will Dido see Palamon, and then
 will she be out of love with Aeneas.
 
-<b>DOCTOR,</b> [aside to Jailer and Wooer]  What stuff's here?
+<speaker>DOCTOR,</speaker>
+[<i>aside to Jailer and Wooer</i>]
+What stuff's here?
 Poor soul.
 
-JAILER  E'en thus all day long.
+<speaker>JAILER</speaker>
+E'en thus all day long.
 
-DAUGHTER  Now for this charm that I told you of, you
+<speaker>DAUGHTER</speaker>
+Now for this charm that I told you of, you
 must bring a piece of silver on the tip of your
 tongue, or no ferry; then if it be your chance to
 come where the blessed spirits are, there's a
@@ -3784,10 +4264,12 @@ and do nothing all day long but pick flowers with
 Proserpine. Then will I make Palamon a nosegay;
 then let him mark me then.
 
-DOCTOR  How prettily she's amiss! Note her a little
+<speaker>DOCTOR</speaker>
+How prettily she's amiss! Note her a little
 further.
 
-DAUGHTER  Faith, I'll tell you, sometime we go to
+<speaker>DAUGHTER</speaker>
+Faith, I'll tell you, sometime we go to
 barley-break, we of the blessed. Alas, 'tis a sore life
 they have i' th' other place--such burning, frying,
 boiling, hissing, howling, chatt'ring, cursing--O,
@@ -3798,9 +4280,11 @@ a cauldron of lead and usurers' grease, amongst a
 whole million of cutpurses, and there boil like a
 gammon of bacon that will never be enough.
 
-DOCTOR  How her brains coins!
+<speaker>DOCTOR</speaker>
+How her brains coins!
 
-DAUGHTER  Lords and courtiers that have got maids
+<speaker>DAUGHTER</speaker>
+Lords and courtiers that have got maids
 with child, they are in this place. They shall stand
 in fire up to the navel and in ice up to th' heart, and
 there th' offending part burns and the deceiving
@@ -3809,39 +4293,48 @@ as one would think, for such a trifle. Believe me,
 one would marry a leprous witch to be rid on 't, I'll
 assure you.
 
-DOCTOR  How she continues this fancy! 'Tis not an engraffed
+<speaker>DOCTOR</speaker>
+How she continues this fancy! 'Tis not an engraffed
 madness, but a most thick and profound
 melancholy.
 
-DAUGHTER  To hear there a proud lady and a proud city
+<speaker>DAUGHTER</speaker>
+To hear there a proud lady and a proud city
 wife howl together--I were a beast an I'd call it
 good sport. One cries "O this smoke!" th' other,
 "This fire!"; one cries, "O, that ever I did it behind
 the arras!" and then howls; th' other curses a suing
 fellow and her garden house.
-[Sings.]
+[<i>Sings.</i>]
 I will be true, my stars, my fate, etc.
-[Daughter exits.]
+[<i>Daughter exits.</i>]
 
-JAILER  What think you of her, sir?
+<speaker>JAILER</speaker>
+What think you of her, sir?
 
-DOCTOR  I think she has a perturbed mind, which I
+<speaker>DOCTOR</speaker>
+I think she has a perturbed mind, which I
 cannot minister to.
 
-JAILER  Alas, what then?
+<speaker>JAILER</speaker>
+Alas, what then?
 
-DOCTOR  Understand you she ever affected any man
+<speaker>DOCTOR</speaker>
+Understand you she ever affected any man
 ere she beheld Palamon?
 
-JAILER  I was once, sir, in great hope she had fixed her
+<speaker>JAILER</speaker>
+I was once, sir, in great hope she had fixed her
 liking on this gentleman, my friend.
 
-WOOER  I did think so, too, and would account I had a
+<speaker>WOOER</speaker>
+I did think so, too, and would account I had a
 great penn'orth on 't to give half my state that both
 she and I, at this present, stood unfeignedly on the
 same terms.
 
-DOCTOR  That intemp'rate surfeit of her eye hath distempered
+<speaker>DOCTOR</speaker>
+That intemp'rate surfeit of her eye hath distempered
 the other senses. They may return and
 settle again to execute their preordained faculties,
 but they are now in a most extravagant vagary.
@@ -3876,18 +4369,15 @@ I will between the passages of this project come
 in with my appliance. Let us put it in execution
 and hasten the success, which doubt not will bring
 forth comfort.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
-
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Flourish. Enter Theseus, Pirithous, Hippolyta,
-and Attendants. Three altars set up onstage.]
+[<i>Flourish. Enter Theseus, Pirithous, Hippolyta,
+and Attendants. Three altars set up onstage.</i>]
 
-
-THESEUS
+<speaker>THESEUS</speaker>
 Now let 'em enter and before the gods
 Tender their holy prayers. Let the temples
 Burn bright with sacred fires, and the altars
@@ -3896,13 +4386,13 @@ To those above us. Let no due be wanting.
 They have a noble work in hand will honor
 The very powers that love 'em.
 
-PIRITHOUS  Sir, they enter.
+<speaker>PIRITHOUS</speaker>
+Sir, they enter.
 
-[Flourish of cornets. Enter Palamon and Arcite
-and their Knights.]
+[<i>Flourish of cornets. Enter Palamon and Arcite
+and their Knights.</i>]
 
-
-THESEUS
+<speaker>THESEUS</speaker>
 You valiant and strong-hearted enemies,
 You royal german foes, that this day come
 To blow that nearness out that flames between you,
@@ -3915,10 +4405,11 @@ And as the gods regard you, fight with justice.
 I'll leave you to your prayers, and betwixt you
 I part my wishes.
 
-PIRITHOUS  Honor crown the worthiest!
-[Theseus and his train exit.]
+<speaker>PIRITHOUS</speaker>
+Honor crown the worthiest!
+[<i>Theseus and his train exit.</i>]
 
-PALAMON
+<speaker>PALAMON</speaker>
 The glass is running now that cannot finish
 Till one of us expire. Think you but thus,
 That were there aught in me which strove to show
@@ -3928,25 +4419,29 @@ I would destroy th' offender, coz--I would
 Though parcel of myself. Then from this gather
 How I should tender you.
 
-ARCITE  I am in labor
+<speaker>ARCITE</speaker>
+I am in labor
 To push your name, your ancient love, our kindred
 Out of my memory, and i' th' selfsame place
 To seat something I would confound. So hoist we
 The sails that must these vessels port even where
 The heavenly Limiter pleases.
 
-PALAMON  You speak well.
+<speaker>PALAMON</speaker>
+You speak well.
 Before I turn, let me embrace thee, cousin.
-[They embrace.]
+[<i>They embrace.</i>]
 This I shall never do again.
 
-ARCITE  One farewell.
+<speaker>ARCITE</speaker>
+One farewell.
 
-PALAMON
+<speaker>PALAMON</speaker>
 Why, let it be so. Farewell, coz.
 
-ARCITE  Farewell, sir.
-[Palamon and his Knights exit.]
+<speaker>ARCITE</speaker>
+Farewell, sir.
+[<i>Palamon and his Knights exit.</i>]
 Knights, kinsmen, lovers, yea, my sacrifices,
 True worshippers of Mars, whose spirit in you
 Expels the seeds of fear and th' apprehension
@@ -3962,8 +4457,8 @@ The queen of flowers. Our intercession, then,
 Must be to him that makes the camp a cistern
 Brimmed with the blood of men. Give me your aid,
 And bend your spirits towards him.
-[They go to Mars's altar, fall on
-their faces before it, and then kneel.]
+[<i>They go to Mars's altar, fall on
+their faces before it, and then kneel.</i>]
 Thou mighty one, that with thy power hast turned
 Green Neptune into purple, whose approach
 Comets prewarn, whose havoc in vast field
@@ -3978,23 +4473,23 @@ With military skill, that to thy laud
 I may advance my streamer, and by thee
 Be styled the lord o' th' day. Give me, great Mars,
 Some token of thy pleasure.
-[Here they fall on their faces as formerly, and
+[<i>Here they fall on their faces as formerly, and
 there is heard clanging of armor, with a short
 thunder, as the burst of a battle, whereupon
-they all rise and bow to the altar.]
+they all rise and bow to the altar.</i>]
 O, great corrector of enormous times,
 Shaker of o'er-rank states, thou grand decider
 Of dusty and old titles, that heal'st with blood
 The Earth when it is sick, and cur'st the world
-O' th' pleurisy of people, I do take
+<speaker>O'</speaker>
+th' pleurisy of people, I do take
 Thy signs auspiciously, and in thy name
-To my design march boldly.--Let us go.	[They exit.]
+To my design march boldly.--Let us go.	[<i>They exit.</i>]
 
-[Enter Palamon and his Knights,
-with the former observance.]
+[<i>Enter Palamon and his Knights,
+with the former observance.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 Our stars must glister with new fire, or be
 Today extinct. Our argument is love,
 Which, if the goddess of it grant, she gives
@@ -4003,8 +4498,8 @@ You whose free nobleness do make my cause
 Your personal hazard. To the goddess Venus
 Commend we our proceeding, and implore
 Her power unto our party.
-[Here they go to Venus's altar, fall on
-their faces before it, and then kneel.]
+[<i>Here they go to Venus's altar, fall on
+their faces before it, and then kneel.</i>]
 Hail, sovereign queen of secrets, who hast power
 To call the fiercest tyrant from his rage
 And weep unto a girl; that hast the might
@@ -4058,29 +4553,28 @@ Truer than I. O, then, most soft sweet goddess,
 Give me the victory of this question, which
 Is true love's merit, and bless me with a sign
 Of thy great pleasure.
-[Here music is heard; doves are
+[<i>Here music is heard; doves are
 seen to flutter. They fall again upon
-their faces, then on their knees.]
+their faces, then on their knees.</i>]
 O thou that from eleven to ninety reign'st
 In mortal bosoms, whose chase is this world
 And we in herds thy game, I give thee thanks
 For this fair token, which being laid unto
 Mine innocent true heart, arms in assurance
 My body to this business.--Let us rise
-And bow before the goddess.	[They rise and bow.]
+And bow before the goddess.	[<i>They rise and bow.</i>]
 Time comes on.
-[They exit.]
+[<i>They exit.</i>]
 
-[Still music of recorders. Enter Emilia in white, her
+[<i>Still music of recorders. Enter Emilia in white, her
 hair about her shoulders, wearing a wheaten wreath;
 one in white holding up her train, her hair stuck with
 flowers; one before her carrying a silver hind, in which
 is conveyed incense and sweet odors, which being
 set upon the altar of Diana, her maids standing
-aloof, she sets fire to it. Then they curtsy and kneel.]
+aloof, she sets fire to it. Then they curtsy and kneel.</i>]
 
-
-EMILIA
+<speaker>EMILIA</speaker>
 O sacred, shadowy, cold, and constant queen,
 Abandoner of revels, mute contemplative,
 Sweet, solitary, white as chaste, and pure
@@ -4107,34 +4601,33 @@ And has the truest title in 't, let him
 Take off my wheaten garland, or else grant
 The file and quality I hold I may
 Continue in thy band.
-[Here the hind vanishes under the
+[<i>Here the hind vanishes under the
 altar, and in the place ascends a rose
-tree, having one rose upon it.]
+tree, having one rose upon it.</i>]
 See what our general of ebbs and flows
 Out from the bowels of her holy altar
 With sacred act advances: but one rose.
 If well inspired, this battle shall confound
 Both these brave knights, and I, a virgin flower,
 Must grow alone unplucked.
-[Here is heard a sudden twang of instruments,
-and the rose falls from the tree.]
+[<i>Here is heard a sudden twang of instruments,
+and the rose falls from the tree.</i>]
 The flower is fall'n, the tree descends. O mistress,
 Thou here dischargest me. I shall be gathered;
 I think so, but I know not thine own will.
 Unclasp thy mystery!--I hope she's pleased;
 Her signs were gracious.
-[They curtsy and exit.]
+[<i>They curtsy and exit.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Doctor, Jailer, and Wooer in
-the habit of Palamon.]
+[<i>Enter Doctor, Jailer, and Wooer in
+the habit of Palamon.</i>]
 
-
-DOCTOR
+<speaker>DOCTOR</speaker>
 Has this advice I told you done any good upon her?
 
-WOOER
+<speaker>WOOER</speaker>
 O, very much. The maids that kept her company
 Have half-persuaded her that I am Palamon;
 Within this half-hour she came smiling to me,
@@ -4142,191 +4635,224 @@ And asked me what I would eat, and when I would
 kiss her.
 I told her "Presently," and kissed her twice.
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 'Twas well done; twenty times had been far better,
 For there the cure lies mainly.
 
-WOOER  Then she told me
+<speaker>WOOER</speaker>
+Then she told me
 She would watch with me tonight, for well she knew
 What hour my fit would take me.
 
-DOCTOR  Let her do so,
+<speaker>DOCTOR</speaker>
+Let her do so,
 And when your fit comes, fit her home,
 And presently.
 
-WOOER  She would have me sing.
+<speaker>WOOER</speaker>
+She would have me sing.
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 You did so?
 
-WOOER  No.
+<speaker>WOOER</speaker>
+No.
 
-DOCTOR  'Twas very ill done, then.
+<speaker>DOCTOR</speaker>
+'Twas very ill done, then.
 You should observe her ev'ry way.
 
-WOOER  Alas,
+<speaker>WOOER</speaker>
+Alas,
 I have no voice, sir, to confirm her that way.
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 That's all one, if you make a noise.
 If she entreat again, do anything.
 Lie with her, if she ask you.
 
-JAILER  Ho there, doctor!
+<speaker>JAILER</speaker>
+Ho there, doctor!
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 Yes, in the way of cure.
 
-JAILER  But first, by your leave,
-I' th' way of honesty.
+<speaker>JAILER</speaker>
+But first, by your leave,
+<speaker>I'</speaker>
+th' way of honesty.
 
-DOCTOR  That's but a niceness.
+<speaker>DOCTOR</speaker>
+That's but a niceness.
 Ne'er cast your child away for honesty.
 Cure her first this way; then if she will be honest,
 She has the path before her.
 
-JAILER
+<speaker>JAILER</speaker>
 Thank you, doctor.
 
-DOCTOR  Pray bring her in
+<speaker>DOCTOR</speaker>
+Pray bring her in
 And let's see how she is.
 
-JAILER  I will, and tell her
+<speaker>JAILER</speaker>
+I will, and tell her
 Her Palamon stays for her. But, doctor,
-Methinks you are i' th' wrong still.	[Jailer exits.]
+Methinks you are i' th' wrong still.	[<i>Jailer exits.</i>]
 
-DOCTOR  Go, go.
+<speaker>DOCTOR</speaker>
+Go, go.
 You fathers are fine fools. Her honesty?
 And we should give her physic till we find that!
 
-WOOER
+<speaker>WOOER</speaker>
 Why, do you think she is not honest, sir?
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 How old is she?
 
-WOOER  She's eighteen.
+<speaker>WOOER</speaker>
+She's eighteen.
 
-DOCTOR  She may be.
+<speaker>DOCTOR</speaker>
+She may be.
 But that's all one; 'tis nothing to our purpose.
 Whate'er her father says, if you perceive
 Her mood inclining that way that I spoke of,
 Videlicet, the way of flesh--you have me?
 
-WOOER
+<speaker>WOOER</speaker>
 Yes, very well, sir.
 
-DOCTOR  Please her appetite,
+<speaker>DOCTOR</speaker>
+Please her appetite,
 And do it home; it cures her, ipso facto,
 The melancholy humor that infects her.
 
-WOOER
+<speaker>WOOER</speaker>
 I am of your mind, doctor.
 
-DOCTOR  You'll find it so.
+<speaker>DOCTOR</speaker>
+You'll find it so.
 
-[Enter Jailer, Daughter, and Maid.]
+[<i>Enter Jailer, Daughter, and Maid.</i>]
 
 She comes; pray humor her.
-[Wooer and Doctor stand aside.]
+[<i>Wooer and Doctor stand aside.</i>]
 
-<b>JAILER,</b> [to Daughter]
+<speaker>JAILER,</speaker>
+[<i>to Daughter</i>]
 Come, your love Palamon stays for you, child,
 And has done this long hour, to visit you.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 I thank him for his gentle patience.
 He's a kind gentleman, and I am much bound to
 him.
 Did you ne'er see the horse he gave me?
 
-JAILER  Yes.
+<speaker>JAILER</speaker>
+Yes.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 How do you like him?
 
-JAILER  He's a very fair one.
+<speaker>JAILER</speaker>
+He's a very fair one.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 You never saw him dance?
 
-JAILER  No.
+<speaker>JAILER</speaker>
+No.
 
-DAUGHTER  I have, often.
+<speaker>DAUGHTER</speaker>
+I have, often.
 He dances very finely, very comely,
 And for a jig, come cut and long tail to him,
 He turns you like a top.
 
-JAILER  That's fine indeed.
+<speaker>JAILER</speaker>
+That's fine indeed.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 He'll dance the morris twenty mile an hour,
 And that will founder the best hobbyhorse,
 If I have any skill, in all the parish,
 And gallops to the tune of "Light o' love."
 What think you of this horse?
 
-JAILER  Having these virtues,
+<speaker>JAILER</speaker>
+Having these virtues,
 I think he might be brought to play at tennis.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 Alas, that's nothing.
 
-JAILER  Can he write and read too?
+<speaker>JAILER</speaker>
+Can he write and read too?
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 A very fair hand, and casts himself th' accounts
 Of all his hay and provender. That hostler
 Must rise betime that cozens him. You know
 The chestnut mare the Duke has?
 
-JAILER  Very well.
+<speaker>JAILER</speaker>
+Very well.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 She is horribly in love with him, poor beast,
 But he is like his master, coy and scornful.
 
-JAILER
+<speaker>JAILER</speaker>
 What dowry has she?
 
-DAUGHTER  Some two hundred bottles,
+<speaker>DAUGHTER</speaker>
+Some two hundred bottles,
 And twenty strike of oats, but he'll ne'er have her.
 He lisps in 's neighing able to entice
 A miller's mare. He'll be the death of her.
 
-<b>DOCTOR,</b> [aside]  What stuff she utters!
+<speaker>DOCTOR,</speaker>
+[<i>aside</i>]
+What stuff she utters!
 
-[Wooer and Doctor come forward.]
+[<i>Wooer and Doctor come forward.</i>]
 
-
-
-JAILER
+<speaker>JAILER</speaker>
 Make curtsy; here your love comes.
 
-WOOER  Pretty soul,
-How do you?	[Daughter curtsies.]
+<speaker>WOOER</speaker>
+Pretty soul,
+How do you?	[<i>Daughter curtsies.</i>]
 That's a fine maid; there's a curtsy!
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 Yours to command i' th' way of honesty.--
 How far is 't now to th' end o' th' world, my masters?
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 Why, a day's journey, wench.
 
-<b>DAUGHTER,</b> [to Wooer]  Will you go with me?
+<speaker>DAUGHTER,</speaker>
+[<i>to Wooer</i>]
+Will you go with me?
 
-WOOER
+<speaker>WOOER</speaker>
 What shall we do there, wench?
 
-DAUGHTER  Why, play at
+<speaker>DAUGHTER</speaker>
+Why, play at
 stool-ball.
 What is there else to do?
 
-WOOER  I am content,
+<speaker>WOOER</speaker>
+I am content,
 If we shall keep our wedding there.
 
-DAUGHTER  'Tis true,
+<speaker>DAUGHTER</speaker>
+'Tis true,
 For there, I will assure you, we shall find
 Some blind priest for the purpose, that will venture
 To marry us; for here they are nice and foolish.
@@ -4334,127 +4860,155 @@ Besides, my father must be hanged tomorrow,
 And that would be a blot i' th' business.
 Are not you Palamon?
 
-WOOER  Do not you know me?
+<speaker>WOOER</speaker>
+Do not you know me?
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 Yes, but you care not for me; I have nothing
 But this poor petticoat and two coarse smocks.
 
-WOOER
+<speaker>WOOER</speaker>
 That's all one; I will have you.
 
-DAUGHTER  Will you surely?
+<speaker>DAUGHTER</speaker>
+Will you surely?
 
-<b>WOOER,</b> [taking her hand]
+<speaker>WOOER,</speaker>
+[<i>taking her hand</i>]
 Yes, by this fair hand, will I.
 
-DAUGHTER  We'll to bed then.
+<speaker>DAUGHTER</speaker>
+We'll to bed then.
 
-WOOER
-E'en when you will.	[He kisses her.]
+<speaker>WOOER</speaker>
+E'en when you will.	[<i>He kisses her.</i>]
 
-<b>DAUGHTER,</b> [wiping her face]  O , sir, you would fain
+<speaker>DAUGHTER,</speaker>
+[<i>wiping her face</i>]
+O , sir, you would fain
 be nibbling.
 
-WOOER
+<speaker>WOOER</speaker>
 Why do you rub my kiss off?
 
-DAUGHTER  'Tis a sweet one,
+<speaker>DAUGHTER</speaker>
+'Tis a sweet one,
 And will perfume me finely against the wedding.
-Is not this your cousin Arcite?	[She indicates Doctor.]
+Is not this your cousin Arcite?	[<i>She indicates Doctor.</i>]
 
-DOCTOR  Yes, sweetheart,
+<speaker>DOCTOR</speaker>
+Yes, sweetheart,
 And I am glad my cousin Palamon
 Has made so fair a choice.
 
-DAUGHTER  Do you think he'll have me?
+<speaker>DAUGHTER</speaker>
+Do you think he'll have me?
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 Yes, without doubt.
 
-<b>DAUGHTER,</b> [to Jailer]  Do you think so too?
+<speaker>DAUGHTER,</speaker>
+[<i>to Jailer</i>]
+Do you think so too?
 
-JAILER  Yes.
+<speaker>JAILER</speaker>
+Yes.
 
-DAUGHTER
-We shall have many children. [(To Doctor.)] Lord,
+<speaker>DAUGHTER</speaker>
+We shall have many children. [<i>(To Doctor.)</i>]
+Lord,
 how you're grown!
 My Palamon, I hope, will grow too, finely,
 Now he's at liberty. Alas, poor chicken,
 He was kept down with hard meat and ill lodging,
 But I'll kiss him up again.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 What do you here? You'll lose the noblest sight
 That e'er was seen.
 
-JAILER  Are they i' th' field?
+<speaker>JAILER</speaker>
+Are they i' th' field?
 
-MESSENGER  They are.
+<speaker>MESSENGER</speaker>
+They are.
 You bear a charge there too.
 
-JAILER  I'll away straight.--
+<speaker>JAILER</speaker>
+I'll away straight.--
 I must e'en leave you here.
 
-DOCTOR  Nay, we'll go with you.
+<speaker>DOCTOR</speaker>
+Nay, we'll go with you.
 I will not lose the sight.
 
-<b>JAILER,</b> [aside to Doctor]  How did you like her?
+<speaker>JAILER,</speaker>
+[<i>aside to Doctor</i>]
+How did you like her?
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 I'll warrant you, within these three or four days
-I'll make her right again.	[Jailer and Messenger exit.]
-[(To Wooer.)] You must not from her,
+I'll make her right again.	[<i>Jailer and Messenger exit.</i>]
+[<i>(To Wooer.)</i>]
+You must not from her,
 But still preserve her in this way.
 
-WOOER  I will.
+<speaker>WOOER</speaker>
+I will.
 
-DOCTOR
+<speaker>DOCTOR</speaker>
 Let's get her in.
 
-WOOER  Come, sweet, we'll go to dinner
+<speaker>WOOER</speaker>
+Come, sweet, we'll go to dinner
 And then we'll play at cards.
 
-DAUGHTER  And shall we kiss too?
+<speaker>DAUGHTER</speaker>
+And shall we kiss too?
 
-WOOER
+<speaker>WOOER</speaker>
 A hundred times.
 
-DAUGHTER  And twenty.
+<speaker>DAUGHTER</speaker>
+And twenty.
 
-WOOER  Ay, and twenty.
+<speaker>WOOER</speaker>
+Ay, and twenty.
 
-DAUGHTER
+<speaker>DAUGHTER</speaker>
 And then we'll sleep together.
 
-<b>DOCTOR,</b> [to Wooer]  Take her offer.
+<speaker>DOCTOR,</speaker>
+[<i>to Wooer</i>]
+Take her offer.
 
-WOOER
+<speaker>WOOER</speaker>
 Yes, marry, will we.
 
-DAUGHTER  But you shall not hurt me.
+<speaker>DAUGHTER</speaker>
+But you shall not hurt me.
 
-WOOER
+<speaker>WOOER</speaker>
 I will not, sweet.
 
-DAUGHTER  If you do, love, I'll cry.
-[They exit.]
+<speaker>DAUGHTER</speaker>
+If you do, love, I'll cry.
+[<i>They exit.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Flourish. Enter Theseus, Hippolyta,
-Emilia, Pirithous, and some Attendants.]
+[<i>Flourish. Enter Theseus, Hippolyta,
+Emilia, Pirithous, and some Attendants.</i>]
 
-
-EMILIA
+<speaker>EMILIA</speaker>
 I'll no step further.
 
-PIRITHOUS  Will you lose this sight?
+<speaker>PIRITHOUS</speaker>
+Will you lose this sight?
 
-EMILIA
+<speaker>EMILIA</speaker>
 I had rather see a wren hawk at a fly
 Than this decision; ev'ry blow that falls
 Threats a brave life; each stroke laments
@@ -4465,10 +5019,13 @@ With what shall happen, 'gainst the which there is
 No deafing but to hear; not taint mine eye
 With dread sights it may shun.
 
-<b>PIRITHOUS,</b> [to Theseus]  Sir, my good lord,
+<speaker>PIRITHOUS,</speaker>
+[<i>to Theseus</i>]
+Sir, my good lord,
 Your sister will no further.
 
-<b>THESEUS  O,</b> she must.
+<speaker>THESEUS</speaker>
+O, she must.
 She shall see deeds of honor in their kind,
 Which sometime show well, penciled. Nature now
 Shall make and act the story, the belief
@@ -4476,14 +5033,17 @@ Both sealed with eye and ear.--You must be present;
 You are the victor's meed, the price and garland
 To crown the question's title.
 
-EMILIA  Pardon me.
+<speaker>EMILIA</speaker>
+Pardon me.
 If I were there, I'd wink.
 
-THESEUS  You must be there;
+<speaker>THESEUS</speaker>
+You must be there;
 This trial is as 'twere i' th' night, and you
 The only star to shine.
 
-EMILIA  I am extinct;
+<speaker>EMILIA</speaker>
+I am extinct;
 There is but envy in that light which shows
 The one the other. Darkness, which ever was
 The dam of horror, who does stand accursed
@@ -4493,34 +5053,39 @@ That neither could find other, get herself
 Some part of a good name, and many a murder
 Set off whereto she's guilty.
 
-HIPPOLYTA  You must go.
+<speaker>HIPPOLYTA</speaker>
+You must go.
 
-EMILIA
+<speaker>EMILIA</speaker>
 In faith, I will not.
 
-THESEUS  Why, the knights must kindle
+<speaker>THESEUS</speaker>
+Why, the knights must kindle
 Their valor at your eye. Know, of this war
 You are the treasure, and must needs be by
 To give the service pay.
 
-EMILIA  Sir, pardon me.
+<speaker>EMILIA</speaker>
+Sir, pardon me.
 The title of a kingdom may be tried
 Out of itself.
 
-THESEUS  Well, well, then; at your pleasure.
+<speaker>THESEUS</speaker>
+Well, well, then; at your pleasure.
 Those that remain with you could wish their office
 To any of their enemies.
 
-HIPPOLYTA  Farewell, sister.
+<speaker>HIPPOLYTA</speaker>
+Farewell, sister.
 I am like to know your husband 'fore yourself
 By some small start of time. He whom the gods
 Do of the two know best, I pray them he
 Be made your lot.
-[Theseus, Hippolyta, Pirithous, and others,
+[<i>Theseus, Hippolyta, Pirithous, and others,
 exit. Emilia remains, comparing again
-the pictures of Arcite and Palamon.]
+the pictures of Arcite and Palamon.</i>]
 
-EMILIA
+<speaker>EMILIA</speaker>
 Arcite is gently visaged, yet his eye
 Is like an engine bent, or a sharp weapon
 In a soft sheath; mercy and manly courage
@@ -4536,7 +5101,7 @@ So mingled, as if mirth did make him sad
 And sadness merry. Those darker humors that
 Stick misbecomingly on others, on them
 Live in fair dwelling.
-[Cornets. Trumpets sound as to a charge.]
+[<i>Cornets. Trumpets sound as to a charge.</i>]
 Hark how yon spurs to spirit do incite
 The princes to their proof! Arcite may win me,
 And yet may Palamon wound Arcite to
@@ -4546,43 +5111,46 @@ I might do hurt, for they would glance their eyes
 Towards my seat, and in that motion might
 Omit a ward or forfeit an offense
 Which craved that very time.
-[Cornets. A great cry and noise
-within crying "A Palamon!"]
+[<i>Cornets. A great cry and noise
+within crying "A Palamon!"</i>]
 It is much better
 I am not there. O, better never born
 Than minister to such harm!
 
-[Enter Servant.]
+[<i>Enter Servant.</i>]
 
 What is the chance?
 
-SERVANT  The cry's "A Palamon."
+<speaker>SERVANT</speaker>
+The cry's "A Palamon."
 
-EMILIA  Then he has won. 'Twas ever likely.
+<speaker>EMILIA</speaker>
+Then he has won. 'Twas ever likely.
 He looked all grace and success, and he is
 Doubtless the prim'st of men. I prithee run
 And tell me how it goes.
-[Shout and cornets, crying "A Palamon!"]
+[<i>Shout and cornets, crying "A Palamon!"</i>]
 
-SERVANT  Still "Palamon."
+<speaker>SERVANT</speaker>
+Still "Palamon."
 
-EMILIA
-Run and inquire.	[Servant exits.]
-[Addressing Arcite's picture.] Poor servant, thou hast
+<speaker>EMILIA</speaker>
+Run and inquire.	[<i>Servant exits.</i>]
+[<i>Addressing Arcite's picture.</i>]
+Poor servant, thou hast
 lost.
 Upon my right side still I wore thy picture,
 Palamon's on the left--why so, I know not.
 I had no end in 't else; chance would have it so.
 On the sinister side the heart lies; Palamon
 Had the best-boding chance.
-[Another cry, and shout within, and cornets.]
+[<i>Another cry, and shout within, and cornets.</i>]
 This burst of clamor
 Is sure th' end o' th' combat.
 
-[Enter Servant.]
+[<i>Enter Servant.</i>]
 
-
-SERVANT
+<speaker>SERVANT</speaker>
 They said that Palamon had Arcite's body
 Within an inch o' th' pyramid, that the cry
 Was general "A Palamon." But anon,
@@ -4590,29 +5158,33 @@ Th' assistants made a brave redemption, and
 The two bold titlers at this instant are
 Hand to hand at it.
 
-EMILIA  Were they metamorphosed
+<speaker>EMILIA</speaker>
+Were they metamorphosed
 Both into one--O, why, there were no woman
 Worth so composed a man! Their single share,
 Their nobleness peculiar to them, gives
 The prejudice of disparity, value's shortness,
 To any lady breathing.
-[Cornets. Cry within, "Arcite, Arcite."]
+[<i>Cornets. Cry within, "Arcite, Arcite."</i>]
 More exulting?
 "Palamon" still?
 
-SERVANT  Nay, now the sound is "Arcite."
+<speaker>SERVANT</speaker>
+Nay, now the sound is "Arcite."
 
-EMILIA
+<speaker>EMILIA</speaker>
 I prithee lay attention to the cry;
 Set both thine ears to th' business.
-[Cornets. A great shout, and cry "Arcite, victory!"]
+[<i>Cornets. A great shout, and cry "Arcite, victory!"</i>]
 
-SERVANT  The cry is "Arcite"
+<speaker>SERVANT</speaker>
+The cry is "Arcite"
 And "Victory! Hark, Arcite, victory!"
 The combat's consummation is proclaimed
 By the wind instruments.
 
-EMILIA  Half-sights saw
+<speaker>EMILIA</speaker>
+Half-sights saw
 That Arcite was no babe. God's lid, his richness
 And costliness of spirit looked through him; it could
 No more be hid in him than fire in flax,
@@ -4623,11 +5195,10 @@ Why I did think so. Our reasons are not prophets
 When oft our fancies are. They are coming off.
 Alas, poor Palamon!
 
-[Cornets. Enter Theseus, Hippolyta, Pirithous,
-Arcite as victor, and Attendants and others.]
+[<i>Cornets. Enter Theseus, Hippolyta, Pirithous,
+Arcite as victor, and Attendants and others.</i>]
 
-
-THESEUS
+<speaker>THESEUS</speaker>
 Lo, where our sister is in expectation,
 Yet quaking and unsettled.--Fairest Emily,
 The gods by their divine arbitrament
@@ -4636,12 +5207,14 @@ As ever struck at head.--Give me your hands.
 Receive you her, you him. Be plighted with
 A love that grows as you decay.
 
-ARCITE  Emily,
+<speaker>ARCITE</speaker>
+Emily,
 To buy you I have lost what's dearest to me
 Save what is bought, and yet I purchase cheaply,
 As I do rate your value.
 
-THESEUS  O loved sister,
+<speaker>THESEUS</speaker>
+O loved sister,
 He speaks now of as brave a knight as e'er
 Did spur a noble steed. Surely the gods
 Would have him die a bachelor, lest his race
@@ -4667,7 +5240,8 @@ I know you will not lose her.--Hippolyta,
 I see one eye of yours conceives a tear,
 The which it will deliver.
 
-EMILIA  Is this winning?
+<speaker>EMILIA</speaker>
+Is this winning?
 O all you heavenly powers, where is your mercy?
 But that your wills have said it must be so,
 And charge me live to comfort this unfriended,
@@ -4675,21 +5249,22 @@ This miserable prince, that cuts away
 A life more worthy from him than all women,
 I should and would die too.
 
-HIPPOLYTA  Infinite pity
+<speaker>HIPPOLYTA</speaker>
+Infinite pity
 That four such eyes should be so fixed on one
 That two must needs be blind for 't.
 
-THESEUS  So it is.
-[Flourish. They exit.]
+<speaker>THESEUS</speaker>
+So it is.
+[<i>Flourish. They exit.</i>]
 
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Guard with Palamon and his Knights,
+[<i>Enter Guard with Palamon and his Knights,
 pinioned; Jailer, Executioner and Others,
-carrying a block and an ax.]
+carrying a block and an ax.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 There's many a man alive that hath outlived
 The love o' th' people; yea, i' th' selfsame state
 Stands many a father with his child. Some comfort
@@ -4706,87 +5281,100 @@ For we are more clear spirits. My dear kinsmen,
 Whose lives for this poor comfort are laid down,
 You have sold 'em too too cheap.
 
-FIRST KNIGHT  What ending could be
+<speaker>FIRST KNIGHT</speaker>
+What ending could be
 Of more content? O'er us the victors have
 Fortune, whose title is as momentary
 As to us death is certain. A grain of honor
 They not o'er-weigh us.
 
-SECOND KNIGHT  Let us bid farewell;
+<speaker>SECOND KNIGHT</speaker>
+Let us bid farewell;
 And with our patience anger tott'ring Fortune,
 Who at her certain'st reels.
 
-THIRD KNIGHT  Come, who begins?
+<speaker>THIRD KNIGHT</speaker>
+Come, who begins?
 
-PALAMON
+<speaker>PALAMON</speaker>
 E'en he that led you to this banquet shall
-Taste to you all. [To Jailer.] Ah ha, my friend, my
+Taste to you all. [<i>To Jailer.</i>]
+Ah ha, my friend, my
 friend,
 Your gentle daughter gave me freedom once;
 You'll see 't done now forever. Pray, how does she?
 I heard she was not well; her kind of ill
 Gave me some sorrow.
 
-JAILER  Sir, she's well restored,
+<speaker>JAILER</speaker>
+Sir, she's well restored,
 And to be married shortly.
 
-PALAMON  By my short life,
+<speaker>PALAMON</speaker>
+By my short life,
 I am most glad on 't. 'Tis the latest thing
 I shall be glad of; prithee, tell her so.
 Commend me to her, and to piece her portion,
-Tender her this.	[He gives his purse to Jailer.]
+Tender her this.	[<i>He gives his purse to Jailer.</i>]
 
-FIRST KNIGHT  Nay, let's be offerers all.
+<speaker>FIRST KNIGHT</speaker>
+Nay, let's be offerers all.
 
-SECOND KNIGHT
+<speaker>SECOND KNIGHT</speaker>
 Is it a maid?
 
-PALAMON  Verily, I think so.
+<speaker>PALAMON</speaker>
+Verily, I think so.
 A right good creature, more to me deserving
 Than I can quit or speak of.
 
-ALL KNIGHTS  Commend us to her.
-[They give their purses.]
+<speaker>ALL KNIGHTS</speaker>
+Commend us to her.
+[<i>They give their purses.</i>]
 
-JAILER
+<speaker>JAILER</speaker>
 The gods requite you all and make her thankful!
 
-PALAMON
+<speaker>PALAMON</speaker>
 Adieu, and let my life be now as short
-As my leave-taking.	[Lays his head on the block.]
+As my leave-taking.	[<i>Lays his head on the block.</i>]
 
-FIRST KNIGHT  Lead, courageous cousin.
+<speaker>FIRST KNIGHT</speaker>
+Lead, courageous cousin.
 
-SECOND AND THIRD KNIGHTS  We'll follow cheerfully.
+<speaker>SECOND AND THIRD KNIGHTS</speaker>
+We'll follow cheerfully.
 
-[A great noise within crying "Run!" "Save!" "Hold!"
-Enter in haste a Messenger.]
+[<i>A great noise within crying "Run!" "Save!" "Hold!"
+Enter in haste a Messenger.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 Hold, hold! O, hold, hold, hold!
 
-[Enter Pirithous in haste.]
+[<i>Enter Pirithous in haste.</i>]
 
-
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 Hold, ho! It is a cursed haste you made
 If you have done so quickly!--Noble Palamon,
 The gods will show their glory in a life
 That thou art yet to lead.
 
-PALAMON  Can that be,
+<speaker>PALAMON</speaker>
+Can that be,
 When Venus, I have said, is false? How do things
 fare?
 
-PIRITHOUS
+<speaker>PIRITHOUS</speaker>
 Arise, great sir, and give the tidings ear
 That are most dearly sweet and bitter.
 
-<b>PALAMON,</b> [rising]  What
+<speaker>PALAMON,</speaker>
+[<i>rising</i>]
+What
 Hath waked us from our dream?
 
-PIRITHOUS  List then: your
+<speaker>PIRITHOUS</speaker>
+List then: your
 cousin,
 Mounted upon a steed that Emily
 Did first bestow on him--a black one, owing
@@ -4827,36 +5415,38 @@ But such a vessel 'tis that floats but for
 The surge that next approaches. He much desires
 To have some speech with you. Lo, he appears.
 
-[Enter Theseus, Hippolyta, Emilia,
-and Arcite carried in a chair.]
+[<i>Enter Theseus, Hippolyta, Emilia,
+and Arcite carried in a chair.</i>]
 
-
-PALAMON
+<speaker>PALAMON</speaker>
 O, miserable end of our alliance!
 The gods are mighty, Arcite. If thy heart,
 Thy worthy, manly heart, be yet unbroken,
 Give me thy last words. I am Palamon,
 One that yet loves thee dying.
 
-ARCITE  Take Emilia
+<speaker>ARCITE</speaker>
+Take Emilia
 And with her all the world's joy. Reach thy hand;
 Farewell. I have told my last hour. I was false,
 Yet never treacherous. Forgive me, cousin.
-One kiss from fair Emilia.	[She kisses him.]
+One kiss from fair Emilia.	[<i>She kisses him.</i>]
 'Tis done.
-Take her. I die.	[He dies.]
+Take her. I die.	[<i>He dies.</i>]
 
-PALAMON  Thy brave soul seek Elysium!
+<speaker>PALAMON</speaker>
+Thy brave soul seek Elysium!
 
-EMILIA
+<speaker>EMILIA</speaker>
 I'll close thine eyes, prince. Blessed souls be with
 thee!
 Thou art a right good man, and while I live,
 This day I give to tears.
 
-PALAMON  And I to honor.
+<speaker>PALAMON</speaker>
+And I to honor.
 
-THESEUS
+<speaker>THESEUS</speaker>
 In this place first you fought; e'en very here
 I sundered you. Acknowledge to the gods
 Our thanks that you are living.
@@ -4869,13 +5459,15 @@ Hath vouched his oracle, and to Arcite gave
 The grace of the contention. So the deities
 Have showed due justice.--Bear this hence.
 
-PALAMON  O cousin,
+<speaker>PALAMON</speaker>
+O cousin,
 That we should things desire which do cost us
 The loss of our desire, that naught could buy
 Dear love but loss of dear love.
-[Arcite's body is carried out.]
+[<i>Arcite's body is carried out.</i>]
 
-THESEUS  Never Fortune
+<speaker>THESEUS</speaker>
+Never Fortune
 Did play a subtler game. The conquered triumphs;
 The victor has the loss; yet in the passage
 The gods have been most equal.--Palamon,
@@ -4901,15 +5493,11 @@ Are children in some kind. Let us be thankful
 For that which is, and with you leave dispute
 That are above our question. Let's go off
 And bear us like the time.
-[Flourish. They exit.]
+[<i>Flourish. They exit.</i>]
 
+[<i>Enter Epilogue.</i>]
 
-
-
-[Enter Epilogue.]
-
-
-EPILOGUE
+<speaker>EPILOGUE</speaker>
 I would now ask you how you like the play,
 But, as it is with schoolboys, cannot say.
 I am cruel fearful! Pray yet, stay a while,
@@ -4930,5 +5518,5 @@ We have our end; and you shall have ere long,
 I dare say, many a better, to prolong
 Your old loves to us. We, and all our might,
 Rest at your service. Gentlemen, good night.
-[Flourish. He exits.]
+[<i>Flourish. He exits.</i>]
 `;

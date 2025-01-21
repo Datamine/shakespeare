@@ -1,17 +1,17 @@
-export const text = `Henry VI, Part 1
+export const credits = `Henry VI, Part 1
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-vi-part-1/
-Created on Jul 31, 2015, from FDT version 0.9.2
+Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-Characters in the Play
+export const text = `Characters in the Play
 <hr>
 The English
 KING HENRY VI
 Lord TALBOT, afterwards Earl of Shrewsbury
-<b>JOHN TALBOT,</b> his son
+JOHN TALBOT, his son
 Duke of GLOUCESTER, the king's uncle, and Lord Protector
 Duke of BEDFORD, the king's uncle, and Regent of France
 Duke of EXETER, the king's great-uncle
@@ -26,9 +26,9 @@ Sir William GLANSDALE
 Sir Thomas GARGRAVE
 Sir John FASTOLF
 Sir William LUCY
-<b>WOODVILLE,</b> Lieutenant of the Tower of London
-<b>VERNON,</b> of the White Rose or York faction
-<b>BASSET,</b> of the Red Rose or Lancaster faction
+WOODVILLE, Lieutenant of the Tower of London
+VERNON, of the White Rose or York faction
+BASSET, of the Red Rose or Lancaster faction
 A LAWYER
 JAILORS to Mortimer
 A LEGATE
@@ -36,10 +36,10 @@ MAYOR of London
 Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors
 
 The French
-<b>CHARLES,</b> Dauphin of France
+CHARLES, Dauphin of France
 Joan la PUCELLE, also Joan of Arc
-<b>REIGNIER,</b> Duke of Anjou and Maine, King of Naples
-<b>MARGARET,</b> his daughter
+REIGNIER, Duke of Anjou and Maine, King of Naples
+MARGARET, his daughter
 Duke of ALANSON
 Bastard of ORLEANCE
 Duke of BURGUNDY
@@ -47,24 +47,21 @@ GENERAL of the French forces at Bordeaux
 COUNTESS of Auvergne
 Her PORTER
 MASTER GUNNER of Orleance
-<b>BOY,</b> his son
+BOY, his son
 SERGEANT of a Band
 A SHEPHERD, Pucelle's father
 Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle
 
-
 <b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Dead March. Enter the funeral of King Henry the Fifth,
+[<i>Dead March. Enter the funeral of King Henry the Fifth,
 attended on by the Duke of Bedford, Regent of France;
 the Duke of Gloucester, Protector; the Duke of Exeter;
 the Earl of Warwick; the Bishop of Winchester; and
-the Duke of Somerset, with Heralds and Attendants.]
+the Duke of Somerset, with Heralds and Attendants.</i>]
 
-
-BEDFORD
+<speaker>BEDFORD</speaker>
 Hung be the heavens with black, yield day to night!
 Comets, importing change of times and states,
 Brandish your crystal tresses in the sky,
@@ -73,7 +70,7 @@ That have consented unto Henry's death:
 King Henry the Fifth, too famous to live long.
 England ne'er lost a king of so much worth.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 England ne'er had a king until his time.
 Virtue he had, deserving to command;
 His brandished sword did blind men with his beams;
@@ -84,7 +81,7 @@ Than midday sun fierce bent against their faces.
 What should I say? His deeds exceed all speech.
 He ne'er lift up his hand but conquered.
 
-EXETER
+<speaker>EXETER</speaker>
 We mourn in black; why mourn we not in blood?
 Henry is dead and never shall revive.
 Upon a wooden coffin we attend,
@@ -97,31 +94,31 @@ Or shall we think the subtle-witted French
 Conjurers and sorcerers, that, afraid of him,
 By magic verses have contrived his end?
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 He was a king blest of the King of kings;
 Unto the French the dreadful Judgment Day
 So dreadful will not be as was his sight.
 The battles of the Lord of Hosts he fought;
 The Church's prayers made him so prosperous.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 The Church? Where is it? Had not churchmen prayed,
 His thread of life had not so soon decayed.
 None do you like but an effeminate prince
 Whom like a schoolboy you may overawe.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Gloucester, whate'er we like, thou art Protector
 And lookest to command the Prince and realm.
 Thy wife is proud; she holdeth thee in awe
 More than God or religious churchmen may.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Name not religion, for thou lov'st the flesh,
 And ne'er throughout the year to church thou go'st,
 Except it be to pray against thy foes.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Cease, cease these jars, and rest your minds in peace!
 Let's to the altar.--Heralds, wait on us.--
 Instead of gold, we'll offer up our arms,
@@ -137,31 +134,30 @@ Combat with adverse planets in the heavens.
 A far more glorious star thy soul will make
 Than Julius Caesar or bright--
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 My honorable lords, health to you all.
 Sad tidings bring I to you out of France,
 Of loss, of slaughter, and discomfiture:
 Guyen, Champaigne, Rheims, Roan, Orleance,
 Paris, Gisors, Poitiers, are all quite lost.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 What say'st thou, man, before dead Henry's corse?
 Speak softly, or the loss of those great towns
 Will make him burst his lead and rise from death.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Is Paris lost? Is Roan yielded up?
 If Henry were recalled to life again,
 These news would cause him once more yield the
 ghost.
 
-EXETER
+<speaker>EXETER</speaker>
 How were they lost? What treachery was used?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 No treachery, but want of men and money.
 Amongst the soldiers, this is muttered:
 That here you maintain several factions
@@ -174,57 +170,55 @@ By guileful fair words peace may be obtained.
 Awake, awake, English nobility!
 Let not sloth dim your honors new begot.
 Cropped are the flower-de-luces in your arms;
-Of England's coat, one half is cut away.	[He exits.]
+Of England's coat, one half is cut away.	[<i>He exits.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 Were our tears wanting to this funeral,
 These tidings would call forth her flowing tides.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Me they concern; regent I am of France.
 Give me my steeled coat, I'll fight for France.
 Away with these disgraceful wailing robes.
 Wounds will I lend the French instead of eyes
 To weep their intermissive miseries.
 
-[Enter to them another Messenger, with papers.]
+[<i>Enter to them another Messenger, with papers.</i>]
 
-
-SECOND MESSENGER
+<speaker>SECOND MESSENGER</speaker>
 Lords, view these letters, full of bad mischance.
 France is revolted from the English quite,
 Except some petty towns of no import.
 The Dauphin Charles is crowned king in Rheims;
 The Bastard of Orleance with him is joined;
 Reignier, Duke of Anjou, doth take his part;
-The Duke of Alanson flieth to his side.	[He exits.]
+The Duke of Alanson flieth to his side.	[<i>He exits.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 The Dauphin crowned king? All fly to him?
 O, whither shall we fly from this reproach?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 We will not fly but to our enemies' throats.--
 Bedford, if thou be slack, I'll fight it out.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Gloucester, why doubt'st thou of my forwardness?
 An army have I mustered in my thoughts,
 Wherewith already France is overrun.
 
-[Enter another Messenger.]
+[<i>Enter another Messenger.</i>]
 
-
-THIRD MESSENGER
+<speaker>THIRD MESSENGER</speaker>
 My gracious lords, to add to your laments,
 Wherewith you now bedew King Henry's hearse,
 I must inform you of a dismal fight
 Betwixt the stout Lord Talbot and the French.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 What? Wherein Talbot overcame, is 't so?
 
-THIRD MESSENGER
+<speaker>THIRD MESSENGER</speaker>
 O no, wherein Lord Talbot was o'erthrown.
 The circumstance I'll tell you more at large.
 The tenth of August last, this dreadful lord,
@@ -245,7 +239,8 @@ Here, there, and everywhere, enraged, he slew.
 The French exclaimed the devil was in arms;
 All the whole army stood agazed on him.
 His soldiers, spying his undaunted spirit,
-"A Talbot! A Talbot!" cried out amain
+<speaker>"A</speaker>
+Talbot! A Talbot!" cried out amain
 And rushed into the bowels of the battle.
 Here had the conquest fully been sealed up
 If Sir John Fastolf had not played the coward.
@@ -260,18 +255,18 @@ Whom all France, with their chief assembled
 strength,
 Durst not presume to look once in the face.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Is Talbot slain then? I will slay myself
 For living idly here, in pomp and ease,
 Whilst such a worthy leader, wanting aid,
 Unto his dastard foemen is betrayed.
 
-THIRD MESSENGER
+<speaker>THIRD MESSENGER</speaker>
 O, no, he lives, but is took prisoner,
 And Lord Scales with him, and Lord Hungerford;
 Most of the rest slaughtered or took likewise.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 His ransom there is none but I shall pay.
 I'll hale the Dauphin headlong from his throne;
 His crown shall be the ransom of my friend.
@@ -282,52 +277,52 @@ To keep our great Saint George's feast withal.
 Ten thousand soldiers with me I will take,
 Whose bloody deeds shall make all Europe quake.
 
-THIRD MESSENGER
+<speaker>THIRD MESSENGER</speaker>
 So you had need; 'fore Orleance besieged,
 The English army is grown weak and faint;
 The Earl of Salisbury craveth supply
 And hardly keeps his men from mutiny,
 Since they so few watch such a multitude.
-[He exits.]
+[<i>He exits.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 Remember, lords, your oaths to Henry sworn:
 Either to quell the Dauphin utterly
 Or bring him in obedience to your yoke.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 I do remember it, and here take my leave
-To go about my preparation.	[Bedford exits.]
+To go about my preparation.	[<i>Bedford exits.</i>]
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 I'll to the Tower with all the haste I can
 To view th' artillery and munition,
 And then I will proclaim young Henry king.
-[Gloucester exits.]
+[<i>Gloucester exits.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 To Eltham will I, where the young king is,
 Being ordained his special governor;
-And for his safety there I'll best devise.	[He exits.]
+And for his safety there I'll best devise.	[<i>He exits.</i>]
 
-<b>WINCHESTER,</b> [aside]
+<speaker>WINCHESTER,</speaker>
+[<i>aside</i>]
 Each hath his place and function to attend.
 I am left out; for me nothing remains.
 But long I will not be Jack-out-of-office.
 The King from Eltham I intend to steal,
 And sit at chiefest stern of public weal.
-[He exits at one door; at another door,
+[<i>He exits at one door; at another door,
 Warwick, Somerset, Attendants and
-Heralds exit with the coffin.]
+Heralds exit with the coffin.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Sound a flourish. Enter Charles the Dauphin,
+[<i>Sound a flourish. Enter Charles the Dauphin,
 Alanson, and Reignier, marching with Drum
-and Soldiers.]
+and Soldiers.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 Mars his true moving, even as in the heavens
 So in the Earth, to this day is not known.
 Late did he shine upon the English side;
@@ -337,42 +332,41 @@ At pleasure here we lie, near Orleance.
 Otherwhiles, the famished English, like pale ghosts,
 Faintly besiege us one hour in a month.
 
-ALANSON
+<speaker>ALANSON</speaker>
 They want their porridge and their fat bull beeves.
 Either they must be dieted like mules
 And have their provender tied to their mouths,
 Or piteous they will look, like drowned mice.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Let's raise the siege. Why live we idly here?
 Talbot is taken, whom we wont to fear.
 Remaineth none but mad-brained Salisbury,
 And he may well in fretting spend his gall;
 Nor men nor money hath he to make war.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Sound, sound alarum! We will rush on them.
 Now for the honor of the forlorn French!
 Him I forgive my death that killeth me
 When he sees me go back one foot, or fly.
-[They exit. Here alarum. They are beaten
-back by the English, with great loss.]
+[<i>They exit. Here alarum. They are beaten
+back by the English, with great loss.</i>]
 
-[Enter Charles, Alanson, and Reignier.]
+[<i>Enter Charles, Alanson, and Reignier.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 Whoever saw the like? What men have I!
 Dogs, cowards, dastards! I would ne'er have fled
 But that they left me 'midst my enemies.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Salisbury is a desperate homicide.
 He fighteth as one weary of his life.
 The other lords, like lions wanting food,
 Do rush upon us as their hungry prey.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Froissart, a countryman of ours, records
 England all Olivers and Rolands bred
 During the time Edward the Third did reign.
@@ -382,30 +376,30 @@ It sendeth forth to skirmish. One to ten!
 Lean rawboned rascals! Who would e'er suppose
 They had such courage and audacity?
 
-CHARLES
+<speaker>CHARLES</speaker>
 Let's leave this town, for they are hare-brained slaves,
 And hunger will enforce them to be more eager.
 Of old I know them; rather with their teeth
 The walls they'll tear down than forsake the siege.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 I think by some odd gimmers or device
 Their arms are set, like clocks, still to strike on;
 Else ne'er could they hold out so as they do.
 By my consent, we'll even let them alone.
 
-ALANSON  Be it so.
+<speaker>ALANSON</speaker>
+Be it so.
 
-[Enter the Bastard of Orleance.]
+[<i>Enter the Bastard of Orleance.</i>]
 
-
-BASTARD
+<speaker>BASTARD</speaker>
 Where's the Prince Dauphin? I have news for him.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Bastard of Orleance, thrice welcome to us.
 
-BASTARD
+<speaker>BASTARD</speaker>
 Methinks your looks are sad, your cheer appalled.
 Hath the late overthrow wrought this offence?
 Be not dismayed, for succor is at hand.
@@ -419,20 +413,20 @@ What's past and what's to come she can descry.
 Speak, shall I call her in? Believe my words,
 For they are certain and unfallible.
 
-CHARLES
-Go call her in.	[Bastard exits.]
+<speaker>CHARLES</speaker>
+Go call her in.	[<i>Bastard exits.</i>]
 But first, to try her skill,
 Reignier, stand thou as Dauphin in my place;
 Question her proudly; let thy looks be stern.
 By this means shall we sound what skill she hath.
 
-[Enter Bastard, with Joan la Pucelle.]
+[<i>Enter Bastard, with Joan la Pucelle.</i>]
 
-
-<b>REIGNIER,</b> [as Charles]
+<speaker>REIGNIER,</speaker>
+[<i>as Charles</i>]
 Fair maid, is 't thou wilt do these wondrous feats?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Reignier, is 't thou that thinkest to beguile me?
 Where is the Dauphin?--Come, come from behind.
 I know thee well, though never seen before.
@@ -440,11 +434,11 @@ Be not amazed; there's nothing hid from me.
 In private will I talk with thee apart.--
 Stand back, you lords, and give us leave a while.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 She takes upon her bravely at first dash.
-[Alanson, Reignier, and Bastard exit.]
+[<i>Alanson, Reignier, and Bastard exit.</i>]
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Dauphin, I am by birth a shepherd's daughter,
 My wit untrained in any kind of art.
 Heaven and Our Lady gracious hath it pleased
@@ -467,36 +461,37 @@ And thou shalt find that I exceed my sex.
 Resolve on this: thou shalt be fortunate
 If thou receive me for thy warlike mate.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Thou hast astonished me with thy high terms.
 Only this proof I'll of thy valor make:
 In single combat thou shalt buckle with me,
 And if thou vanquishest, thy words are true;
 Otherwise I renounce all confidence.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 I am prepared. Here is my keen-edged sword,
 Decked with fine flower-de-luces on each side--
-[Aside.] The which at Touraine, in Saint Katherine's
+[<i>Aside.</i>]
+The which at Touraine, in Saint Katherine's
 churchyard,
 Out of a great deal of old iron I chose forth.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Then come, a' God's name! I fear no woman.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 And while I live, I'll ne'er fly from a man.
-[Here they fight, and
-Joan la Pucelle overcomes.]
+[<i>Here they fight, and
+Joan la Pucelle overcomes.</i>]
 
-CHARLES
+<speaker>CHARLES</speaker>
 Stay, stay thy hands! Thou art an Amazon,
 And fightest with the sword of Deborah.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Christ's mother helps me; else I were too weak.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Whoe'er helps thee, 'tis thou that must help me.
 Impatiently I burn with thy desire.
 My heart and hands thou hast at once subdued.
@@ -504,45 +499,49 @@ Excellent Pucelle, if thy name be so,
 Let me thy servant and not sovereign be.
 'Tis the French Dauphin sueth to thee thus.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 I must not yield to any rights of love,
 For my profession's sacred from above.
 When I have chased all thy foes from hence,
 Then will I think upon a recompense.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Meantime look gracious on thy prostrate thrall.
 
-[Enter Reignier and Alanson.]
+[<i>Enter Reignier and Alanson.</i>]
 
-
-<b>REIGNIER,</b> [aside to Alanson]
+<speaker>REIGNIER,</speaker>
+[<i>aside to Alanson</i>]
 My lord, methinks, is very long in talk.
 
-<b>ALANSON,</b> [aside to Reignier]
+<speaker>ALANSON,</speaker>
+[<i>aside to Reignier</i>]
 Doubtless he shrives this woman to her smock,
 Else ne'er could he so long protract his speech.
 
-<b>REIGNIER,</b> [aside to Alanson]
+<speaker>REIGNIER,</speaker>
+[<i>aside to Alanson</i>]
 Shall we disturb him, since he keeps no mean?
 
-<b>ALANSON,</b> [aside to Reignier]
+<speaker>ALANSON,</speaker>
+[<i>aside to Reignier</i>]
 He may mean more than we poor men do know.
 These women are shrewd tempters with their
 tongues.
 
-<b>REIGNIER,</b> [to Charles]
+<speaker>REIGNIER,</speaker>
+[<i>to Charles</i>]
 My lord, where are you? What devise you on?
 Shall we give o'er Orleance, or no?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Why, no, I say. Distrustful recreants,
 Fight till the last gasp. I'll be your guard.
 
-CHARLES
+<speaker>CHARLES</speaker>
 What she says I'll confirm: we'll fight it out.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Assigned am I to be the English scourge.
 This night the siege assuredly I'll raise.
 Expect Saint Martin's summer, halcyons' days,
@@ -555,7 +554,7 @@ Dispersed are the glories it included.
 Now am I like that proud insulting ship
 Which Caesar and his fortune bare at once.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Was Mahomet inspired with a dove?
 Thou with an eagle art inspired then.
 Helen, the mother of great Constantine,
@@ -563,146 +562,146 @@ Nor yet Saint Philip's daughters were like thee.
 Bright star of Venus, fall'n down on the Earth,
 How may I reverently worship thee enough?
 
-ALANSON
+<speaker>ALANSON</speaker>
 Leave off delays, and let us raise the siege.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Woman, do what thou canst to save our honors.
 Drive them from Orleance and be immortalized.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Presently we'll try. Come, let's away about it.
 No prophet will I trust if she prove false.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Gloucester with his Servingmen in blue coats.]
+[<i>Enter Gloucester with his Servingmen in blue coats.</i>]
 
-
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 I am come to survey the Tower this day.
 Since Henry's death I fear there is conveyance.
 Where be these warders that they wait not here?--
 Open the gates! 'Tis Gloucester that calls.
-[Servingmen knock at the gate.]
+[<i>Servingmen knock at the gate.</i>]
 
-<b>FIRST WARDER,</b> [within]
+<speaker>FIRST WARDER,</speaker>
+[<i>within</i>]
 Who's there that knocks so imperiously?
 
-FIRST SERVINGMAN
+<speaker>FIRST SERVINGMAN</speaker>
 It is the noble Duke of Gloucester.
 
-<b>SECOND WARDER,</b> [within]
+<speaker>SECOND WARDER,</speaker>
+[<i>within</i>]
 Whoe'er he be, you may not be let in.
 
-FIRST SERVINGMAN
+<speaker>FIRST SERVINGMAN</speaker>
 Villains, answer you so the Lord Protector?
 
-<b>FIRST WARDER,</b> [within]
+<speaker>FIRST WARDER,</speaker>
+[<i>within</i>]
 The Lord protect him, so we answer him.
 We do no otherwise than we are willed.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Who willed you? Or whose will stands but mine?
 There's none Protector of the realm but I.--
 Break up the gates! I'll be your warrantize.
 Shall I be flouted thus by dunghill grooms?
-[Gloucester's men rush at the Tower gates, and
-Woodville, the lieutenant, speaks within.]
+[<i>Gloucester's men rush at the Tower gates, and
+Woodville, the lieutenant, speaks within.</i>]
 
-WOODVILLE
+<speaker>WOODVILLE</speaker>
 What noise is this? What traitors have we here?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Lieutenant, is it you whose voice I hear?
 Open the gates. Here's Gloucester that would enter.
 
-WOODVILLE
+<speaker>WOODVILLE</speaker>
 Have patience, noble duke, I may not open.
 The Cardinal of Winchester forbids.
 From him I have express commandment
 That thou nor none of thine shall be let in.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Fainthearted Woodville, prizest him 'fore me?
 Arrogant Winchester, that haughty prelate
 Whom Henry, our late sovereign, ne'er could brook?
 Thou art no friend to God or to the King.
 Open the gates, or I'll shut thee out shortly.
 
-SERVINGMEN
+<speaker>SERVINGMEN</speaker>
 Open the gates unto the Lord Protector,
 Or we'll burst them open if that you come not quickly.
 
-[Enter, to the Protector at the Tower gates, Winchester
-in cardinal's robes and his men in tawny coats.]
+[<i>Enter, to the Protector at the Tower gates, Winchester
+in cardinal's robes and his men in tawny coats.</i>]
 
-
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 How now, ambitious Humphrey, what means this?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Peeled priest, dost thou command me to be shut out?
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 I do, thou most usurping proditor--
 And not Protector--of the King or realm.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Stand back, thou manifest conspirator,
 Thou that contrived'st to murder our dead lord,
 Thou that giv'st whores indulgences to sin!
 I'll canvass thee in thy broad cardinal's hat
 If thou proceed in this thy insolence.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Nay, stand thou back. I will not budge a foot.
 This be Damascus; be thou cursed Cain
 To slay thy brother Abel, if thou wilt.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 I will not slay thee, but I'll drive thee back.
 Thy scarlet robes, as a child's bearing-cloth,
 I'll use to carry thee out of this place.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Do what thou dar'st, I beard thee to thy face.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 What, am I dared and bearded to my face?--
 Draw, men, for all this privileged place.
-Blue coats to tawny coats!	[All draw their swords.]
+Blue coats to tawny coats!	[<i>All draw their swords.</i>]
 Priest, beware your beard.
 I mean to tug it and to cuff you soundly.
 Under my feet I'll stamp thy cardinal's hat;
 In spite of pope or dignities of Church,
 Here by the cheeks I'll drag thee up and down.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Gloucester, thou wilt answer this before the Pope.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Winchester goose, I cry "a rope, a rope!"--
 Now beat them hence; why do you let them stay?--
 Thee I'll chase hence, thou wolf in sheep's array.--
 Out, tawny coats, out, scarlet hypocrite!
 
-[Here Gloucester's men beat out the Cardinal's men,
+[<i>Here Gloucester's men beat out the Cardinal's men,
 and enter in the hurly-burly the Mayor of London
-and his Officers.]
+and his Officers.</i>]
 
-
-MAYOR
+<speaker>MAYOR</speaker>
 Fie, lords, that you, being supreme magistrates,
 Thus contumeliously should break the peace!
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Peace, Mayor? Thou know'st little of my wrongs.
 Here's Beaufort, that regards nor God nor king,
 Hath here distrained the Tower to his use.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Here's Gloucester, a foe to citizens,
 One that still motions war and never peace,
 O'ercharging your free purses with large fines;
@@ -711,65 +710,69 @@ Because he is Protector of the realm,
 And would have armor here out of the Tower
 To crown himself king and suppress the Prince.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 I will not answer thee with words, but blows.
-[Here they skirmish again.]
+[<i>Here they skirmish again.</i>]
 
-MAYOR
+<speaker>MAYOR</speaker>
 Naught rests for me in this tumultuous strife
 But to make open proclamation.
 Come, officer, as loud as e'er thou canst, cry.
-[He hands an Officer a paper.]
+[<i>He hands an Officer a paper.</i>]
 
-OFFICER [reads]  All manner of men, assembled here in
+<speaker>OFFICER</speaker>
+[<i>reads</i>]
+All manner of men, assembled here in
 arms this day against God's peace and the King's, we
 charge and command you, in his Highness' name, to
 repair to your several dwelling places, and not to
 wear, handle, or use any sword, weapon, or dagger
 henceforward, upon pain of death.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Cardinal, I'll be no breaker of the law,
 But we shall meet and break our minds at large.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Gloucester, we'll meet to thy cost, be sure.
 Thy heartblood I will have for this day's work.
 
-MAYOR
+<speaker>MAYOR</speaker>
 I'll call for clubs if you will not away.
-[(Aside.)] This cardinal's more haughty than the devil!
+[<i>(Aside.)</i>]
+This cardinal's more haughty than the devil!
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Mayor, farewell. Thou dost but what thou mayst.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Abominable Gloucester, guard thy head,
 For I intend to have it ere long.
-[Gloucester and Winchester exit
-at separate doors, with their Servingmen.]
+[<i>Gloucester and Winchester exit
+at separate doors, with their Servingmen.</i>]
 
-<b>MAYOR,</b> [to Officers]
+<speaker>MAYOR,</speaker>
+[<i>to Officers</i>]
 See the coast cleared, and then we will depart.
-[(Aside.)] Good God, these nobles should such
+[<i>(Aside.)</i>]
+Good God, these nobles should such
 stomachs bear!
 I myself fight not once in forty year.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter the Master Gunner of Orleance and his Boy.]
+[<i>Enter the Master Gunner of Orleance and his Boy.</i>]
 
-
-MASTER GUNNER
+<speaker>MASTER GUNNER</speaker>
 Sirrah, thou know'st how Orleance is besieged
 And how the English have the suburbs won.
 
-BOY
+<speaker>BOY</speaker>
 Father, I know, and oft have shot at them;
 Howe'er, unfortunate, I missed my aim.
 
-MASTER GUNNER
+<speaker>MASTER GUNNER</speaker>
 But now thou shalt not. Be thou ruled by me.
 Chief master-gunner am I of this town;
 Something I must do to procure me grace.
@@ -785,24 +788,23 @@ And even these three days have I watched
 If I could see them. Now do thou watch,
 For I can stay no longer.
 If thou spy'st any, run and bring me word;
-And thou shalt find me at the Governor's.	[He exits.]
+And thou shalt find me at the Governor's.	[<i>He exits.</i>]
 
-BOY
+<speaker>BOY</speaker>
 Father, I warrant you, take you no care;
-I'll never trouble you if I may spy them.	[He exits.]
+I'll never trouble you if I may spy them.	[<i>He exits.</i>]
 
-[Enter Salisbury and Talbot on the turrets,
+[<i>Enter Salisbury and Talbot on the turrets,
 with Sir William Glansdale, Sir Thomas Gargrave,
-Attendants and Others.]
+Attendants and Others.</i>]
 
-
-SALISBURY
+<speaker>SALISBURY</speaker>
 Talbot, my life, my joy, again returned!
 How wert thou handled, being prisoner?
 Or by what means gott'st thou to be released?
 Discourse, I prithee, on this turret's top.
 
-TALBOT
+<speaker>TALBOT</speaker>
 The Duke of Bedford had a prisoner
 Called the brave Lord Ponton de Santrailles;
 For him was I exchanged and ransomed.
@@ -815,10 +817,10 @@ But O, the treacherous Fastolf wounds my heart,
 Whom with my bare fists I would execute
 If I now had him brought into my power.
 
-SALISBURY
+<speaker>SALISBURY</speaker>
 Yet tell'st thou not how thou wert entertained.
 
-TALBOT
+<speaker>TALBOT</speaker>
 With scoffs and scorns and contumelious taunts.
 In open marketplace produced they me
 To be a public spectacle to all.
@@ -838,12 +840,10 @@ That walked about me every minute-while;
 And if I did but stir out of my bed,
 Ready they were to shoot me to the heart.
 
-[Enter the Boy with a linstock.
-He crosses the main stage and exits.]
+[<i>Enter the Boy with a linstock.
+He crosses the main stage and exits.</i>]
 
-
-
-SALISBURY
+<speaker>SALISBURY</speaker>
 I grieve to hear what torments you endured,
 But we will be revenged sufficiently.
 Now it is supper time in Orleance.
@@ -854,25 +854,25 @@ Sir Thomas Gargrave and Sir William Glansdale,
 Let me have your express opinions
 Where is best place to make our batt'ry next?
 
-GARGRAVE
+<speaker>GARGRAVE</speaker>
 I think at the north gate, for there stands lords.
 
-GLANSDALE
+<speaker>GLANSDALE</speaker>
 And I, here, at the bulwark of the bridge.
 
-TALBOT
+<speaker>TALBOT</speaker>
 For aught I see, this city must be famished
 Or with light skirmishes enfeebled.
-[Here they shoot, and Salisbury
-and Gargrave fall down.]
+[<i>Here they shoot, and Salisbury
+and Gargrave fall down.</i>]
 
-SALISBURY
+<speaker>SALISBURY</speaker>
 O Lord, have mercy on us, wretched sinners!
 
-GARGRAVE
+<speaker>GARGRAVE</speaker>
 O Lord, have mercy on me, woeful man!
 
-TALBOT
+<speaker>TALBOT</speaker>
 What chance is this that suddenly hath crossed us?--
 Speak, Salisbury--at least if thou canst, speak!
 How far'st thou, mirror of all martial men?
@@ -891,7 +891,7 @@ If Salisbury wants mercy at thy hands!--
 Sir Thomas Gargrave, hast thou any life?
 Speak unto Talbot. Nay, look up to him.--
 Bear hence his body; I will help to bury it.
-[Attendants exit with body of Gargrave.]
+[<i>Attendants exit with body of Gargrave.</i>]
 Salisbury, cheer thy spirit with this comfort,
 Thou shalt not die whiles--
 He beckons with his hand and smiles on me
@@ -900,21 +900,20 @@ Remember to avenge me on the French."
 Plantagenet, I will; and, like thee, Nero,
 Play on the lute, beholding the towns burn.
 Wretched shall France be only in my name.
-[Here an alarum, and it thunders and lightens.]
+[<i>Here an alarum, and it thunders and lightens.</i>]
 What stir is this? What tumult's in the heavens?
 Whence cometh this alarum and the noise?
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 My lord, my lord, the French have gathered head.
 The Dauphin, with one Joan la Pucelle joined,
 A holy prophetess new risen up,
 Is come with a great power to raise the siege.
-[Here Salisbury lifteth himself up and groans.]
+[<i>Here Salisbury lifteth himself up and groans.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 Hear, hear, how dying Salisbury doth groan;
 It irks his heart he cannot be revenged.
 Frenchmen, I'll be a Salisbury to you.
@@ -923,51 +922,50 @@ Your hearts I'll stamp out with my horse's heels
 And make a quagmire of your mingled brains.
 Convey we Salisbury into his tent,
 And then try what these dastard Frenchmen dare.
-[Alarum. They exit.]
+[<i>Alarum. They exit.</i>]
 
 <b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Here an alarum again, and Talbot pursueth the
+[<i>Here an alarum again, and Talbot pursueth the
 Dauphin and driveth him; then enter Joan la Pucelle,
 driving Englishmen before her. They cross the stage
-and exit. Then enter Talbot.]
+and exit. Then enter Talbot.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Where is my strength, my valor, and my force?
 Our English troops retire; I cannot stay them.
 A woman clad in armor chaseth them.
 
-[Enter Pucelle, with Soldiers.]
+[<i>Enter Pucelle, with Soldiers.</i>]
 
 Here, here she comes!--I'll have a bout with thee.
 Devil or devil's dam, I'll conjure thee.
 Blood will I draw on thee--thou art a witch--
 And straightway give thy soul to him thou serv'st.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Come, come; 'tis only I that must disgrace thee.
-[Here they fight.]
+[<i>Here they fight.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 Heavens, can you suffer hell so to prevail?
 My breast I'll burst with straining of my courage,
 And from my shoulders crack my arms asunder,
 But I will chastise this high-minded strumpet.
-[They fight again.]
+[<i>They fight again.</i>]
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Talbot, farewell. Thy hour is not yet come.
 I must go victual Orleance forthwith.
-[A short alarum. Then she prepares to
-enter the town with Soldiers.]
+[<i>A short alarum. Then she prepares to
+enter the town with Soldiers.</i>]
 O'ertake me if thou canst. I scorn thy strength.
 Go, go, cheer up thy hunger-starved men.
 Help Salisbury to make his testament.
 This day is ours, as many more shall be.
-[She exits with Soldiers.]
+[<i>She exits with Soldiers.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 My thoughts are whirled like a potter's wheel.
 I know not where I am nor what I do.
 A witch by fear--not force, like Hannibal--
@@ -977,8 +975,8 @@ Are from their hives and houses driven away.
 They called us, for our fierceness, English dogs;
 Now like to whelps we crying run away.
 
-[A short alarum. Enter English soldiers,
-chased by French soldiers.]
+[<i>A short alarum. Enter English soldiers,
+chased by French soldiers.</i>]
 
 Hark, countrymen, either renew the fight,
 Or tear the lions out of England's coat.
@@ -986,30 +984,29 @@ Renounce your soil; give sheep in lions' stead.
 Sheep run not half so treacherous from the wolf,
 Or horse or oxen from the leopard,
 As you fly from your oft-subdued slaves.
-[Alarum. Here another skirmish.]
+[<i>Alarum. Here another skirmish.</i>]
 It will not be! Retire into your trenches.
 You all consented unto Salisbury's death,
 For none would strike a stroke in his revenge.
 Pucelle is entered into Orleance
 In spite of us or aught that we could do.
-[Soldiers exit.]
+[<i>Soldiers exit.</i>]
 O, would I were to die with Salisbury!
 The shame hereof will make me hide my head.
-[Talbot exits. Alarum. Retreat.]
+[<i>Talbot exits. Alarum. Retreat.</i>]
 
 <b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Flourish. Enter on the walls Pucelle, Charles the
-Dauphin, Reignier, Alanson, and Soldiers.]
+[<i>Flourish. Enter on the walls Pucelle, Charles the
+Dauphin, Reignier, Alanson, and Soldiers.</i>]
 
-
-PUCELLE
+<speaker>PUCELLE</speaker>
 Advance our waving colors on the walls.
 Rescued is Orleance from the English.
 Thus Joan la Pucelle hath performed her word.
-[She exits.]
+[<i>She exits.</i>]
 
-CHARLES
+<speaker>CHARLES</speaker>
 Divinest creature, Astraea's daughter,
 How shall I honor thee for this success?
 Thy promises are like Adonis' garden
@@ -1018,17 +1015,17 @@ France, triumph in thy glorious prophetess.
 Recovered is the town of Orleance.
 More blessed hap did ne'er befall our state.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Why ring not bells aloud throughout the town?
 Dauphin, command the citizens make bonfires
 And feast and banquet in the open streets
 To celebrate the joy that God hath given us.
 
-ALANSON
+<speaker>ALANSON</speaker>
 All France will be replete with mirth and joy
 When they shall hear how we have played the men.
 
-CHARLES
+<speaker>CHARLES</speaker>
 'Tis Joan, not we, by whom the day is won;
 For which I will divide my crown with her,
 And all the priests and friars in my realm
@@ -1044,34 +1041,30 @@ No longer on Saint Dennis will we cry,
 But Joan la Pucelle shall be France's saint.
 Come in, and let us banquet royally
 After this golden day of victory.
-[Flourish. They exit.]
-
+[<i>Flourish. They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
-
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter on the walls a French Sergeant of a Band,
-with two Sentinels.]
+[<i>Enter on the walls a French Sergeant of a Band,
+with two Sentinels.</i>]
 
-
-SERGEANT
+<speaker>SERGEANT</speaker>
 Sirs, take your places and be vigilant.
 If any noise or soldier you perceive
 Near to the walls, by some apparent sign
 Let us have knowledge at the court of guard.
 
-SENTINEL
-Sergeant, you shall.	[Sergeant exits.]
+<speaker>SENTINEL</speaker>
+Sergeant, you shall.	[<i>Sergeant exits.</i>]
 Thus are poor servitors,
 When others sleep upon their quiet beds,
 Constrained to watch in darkness, rain, and cold.
 
-[Enter Talbot, Bedford, and Burgundy, below,
-with scaling ladders.]
+[<i>Enter Talbot, Bedford, and Burgundy, below,
+with scaling ladders.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Lord Regent, and redoubted Burgundy,
 By whose approach the regions of Artois,
 Walloon, and Picardy are friends to us,
@@ -1081,98 +1074,98 @@ Embrace we then this opportunity,
 As fitting best to quittance their deceit
 Contrived by art and baleful sorcery.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Coward of France, how much he wrongs his fame,
 Despairing of his own arm's fortitude,
 To join with witches and the help of hell!
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Traitors have never other company.
 But what's that Pucelle whom they term so pure?
 
-TALBOT
+<speaker>TALBOT</speaker>
 A maid, they say.
 
-BEDFORD  A maid? And be so martial?
+<speaker>BEDFORD</speaker>
+A maid? And be so martial?
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Pray God she prove not masculine ere long,
 If underneath the standard of the French
 She carry armor as she hath begun.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Well, let them practice and converse with spirits.
 God is our fortress, in whose conquering name
 Let us resolve to scale their flinty bulwarks.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Ascend, brave Talbot. We will follow thee.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Not all together. Better far, I guess,
 That we do make our entrance several ways,
 That if it chance the one of us do fail,
 The other yet may rise against their force.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Agreed. I'll to yond corner.
 
-BURGUNDY  And I to this.
+<speaker>BURGUNDY</speaker>
+And I to this.
 
-TALBOT
+<speaker>TALBOT</speaker>
 And here will Talbot mount, or make his grave.
 Now, Salisbury, for thee and for the right
 Of English Henry, shall this night appear
 How much in duty I am bound to both.
-[Scaling the walls, they cry
-"Saint George! A Talbot!"]
+[<i>Scaling the walls, they cry
+"Saint George! A Talbot!"</i>]
 
-SENTINEL
+<speaker>SENTINEL</speaker>
 Arm, arm! The enemy doth make assault.
-[The English, pursuing the Sentinels, exit aloft.]
-[The French leap o'er the walls in their shirts.]
+[<i>The English, pursuing the Sentinels, exit aloft.</i>]
+[<i>The French leap o'er the walls in their shirts.</i>]
 
-[Enter several ways, Bastard, Alanson, Reignier,
-half ready, and half unready.]
+[<i>Enter several ways, Bastard, Alanson, Reignier,
+half ready, and half unready.</i>]
 
-
-ALANSON
+<speaker>ALANSON</speaker>
 How now, my lords? What, all unready so?
 
-BASTARD
+<speaker>BASTARD</speaker>
 Unready? Ay, and glad we scaped so well.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 'Twas time, I trow, to wake and leave our beds,
 Hearing alarums at our chamber doors.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Of all exploits since first I followed arms
 Ne'er heard I of a warlike enterprise
 More venturous or desperate than this.
 
-BASTARD
+<speaker>BASTARD</speaker>
 I think this Talbot be a fiend of hell.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 If not of hell, the heavens sure favor him.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Here cometh Charles. I marvel how he sped.
 
-[Enter Charles and Joan la Pucelle.]
+[<i>Enter Charles and Joan la Pucelle.</i>]
 
-
-BASTARD
+<speaker>BASTARD</speaker>
 Tut, holy Joan was his defensive guard.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Is this thy cunning, thou deceitful dame?
 Didst thou at first, to flatter us withal,
 Make us partakers of a little gain
 That now our loss might be ten times so much?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Wherefore is Charles impatient with his friend?
 At all times will you have my power alike?
 Sleeping or waking, must I still prevail,
@@ -1180,29 +1173,30 @@ Or will you blame and lay the fault on me?--
 Improvident soldiers, had your watch been good,
 This sudden mischief never could have fall'n.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Duke of Alanson, this was your default,
 That, being captain of the watch tonight,
 Did look no better to that weighty charge.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Had all your quarters been as safely kept
 As that whereof I had the government,
 We had not been thus shamefully surprised.
 
-BASTARD
+<speaker>BASTARD</speaker>
 Mine was secure.
 
-REIGNIER  And so was mine, my lord.
+<speaker>REIGNIER</speaker>
+And so was mine, my lord.
 
-CHARLES
+<speaker>CHARLES</speaker>
 And for myself, most part of all this night
 Within her quarter and mine own precinct
 I was employed in passing to and fro
 About relieving of the sentinels.
 Then how or which way should they first break in?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Question, my lords, no further of the case,
 How or which way; 'tis sure they found some place
 But weakly guarded, where the breach was made.
@@ -1210,36 +1204,35 @@ And now there rests no other shift but this:
 To gather our soldiers, scattered and dispersed,
 And lay new platforms to endamage them.
 
-[Alarum. Enter an English Soldier, crying,
-"A Talbot, A Talbot!" The French fly,
-leaving their clothes behind.]
+[<i>Alarum. Enter an English Soldier, crying,
+<speaker>"A</speaker>
+Talbot, A Talbot!" The French fly,
+leaving their clothes behind.</i>]
 
-
-SOLDIER
+<speaker>SOLDIER</speaker>
 I'll be so bold to take what they have left.
 The cry of "Talbot" serves me for a sword,
 For I have loaden me with many spoils,
 Using no other weapon but his name.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Talbot, Bedford, Burgundy, a Captain and Others.]
+[<i>Enter Talbot, Bedford, Burgundy, a Captain and Others.</i>]
 
-
-BEDFORD
+<speaker>BEDFORD</speaker>
 The day begins to break and night is fled,
 Whose pitchy mantle over-veiled the Earth.
 Here sound retreat and cease our hot pursuit.
-[Retreat sounded.]
+[<i>Retreat sounded.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 Bring forth the body of old Salisbury,
 And here advance it in the marketplace,
 The middle center of this cursed town.
 
-[Soldiers enter bearing the body of Salisbury,
-Drums beating a dead march.]
+[<i>Soldiers enter bearing the body of Salisbury,
+Drums beating a dead march.</i>]
 
 Now have I paid my vow unto his soul:
 For every drop of blood was drawn from him
@@ -1252,19 +1245,19 @@ Upon the which, that everyone may read,
 Shall be engraved the sack of Orleance,
 The treacherous manner of his mournful death,
 And what a terror he had been to France.
-[Funeral exits.]
+[<i>Funeral exits.</i>]
 But, lords, in all our bloody massacre,
 I muse we met not with the Dauphin's grace,
 His new-come champion, virtuous Joan of Arc,
 Nor any of his false confederates.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 'Tis thought, Lord Talbot, when the fight began,
 Roused on the sudden from their drowsy beds,
 They did amongst the troops of armed men
 Leap o'er the walls for refuge in the field.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Myself, as far as I could well discern
 For smoke and dusky vapors of the night,
 Am sure I scared the Dauphin and his trull,
@@ -1274,18 +1267,17 @@ That could not live asunder day or night.
 After that things are set in order here,
 We'll follow them with all the power we have.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 All hail, my lords. Which of this princely train
 Call you the warlike Talbot, for his acts
 So much applauded through the realm of France?
 
-TALBOT
+<speaker>TALBOT</speaker>
 Here is the Talbot. Who would speak with him?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 The virtuous lady, Countess of Auvergne,
 With modesty admiring thy renown,
 By me entreats, great lord, thou wouldst vouchsafe
@@ -1293,13 +1285,13 @@ To visit her poor castle where she lies,
 That she may boast she hath beheld the man
 Whose glory fills the world with loud report.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Is it even so? Nay, then, I see our wars
 Will turn unto a peaceful comic sport,
 When ladies crave to be encountered with.
 You may not, my lord, despise her gentle suit.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Ne'er trust me, then; for when a world of men
 Could not prevail with all their oratory,
 Yet hath a woman's kindness overruled.--
@@ -1307,33 +1299,33 @@ And therefore tell her I return great thanks,
 And in submission will attend on her.--
 Will not your Honors bear me company?
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 No, truly, 'tis more than manners will;
 And I have heard it said unbidden guests
 Are often welcomest when they are gone.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Well then, alone, since there's no remedy,
 I mean to prove this lady's courtesy.--
-Come hither, captain.	[Whispers.]
+Come hither, captain.	[<i>Whispers.</i>]
 You perceive my mind?
 
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 I do, my lord, and mean accordingly.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Countess of Auvergne, with Porter.]
+[<i>Enter Countess of Auvergne, with Porter.</i>]
 
-
-COUNTESS
+<speaker>COUNTESS</speaker>
 Porter, remember what I gave in charge,
 And when you have done so, bring the keys to me.
 
-PORTER  Madam, I will.	[He exits.]
+<speaker>PORTER</speaker>
+Madam, I will. [<i>He exits.</i>]
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 The plot is laid. If all things fall out right,
 I shall as famous be by this exploit
 As Scythian Tamyris by Cyrus' death.
@@ -1342,20 +1334,20 @@ And his achievements of no less account.
 Fain would mine eyes be witness with mine ears
 To give their censure of these rare reports.
 
-[Enter Messenger and Talbot.]
+[<i>Enter Messenger and Talbot.</i>]
 
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 Madam, according as your Ladyship desired,
 By message craved, so is Lord Talbot come.
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 And he is welcome. What, is this the man?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Madam, it is.
 
-COUNTESS  Is this the scourge of France?
+<speaker>COUNTESS</speaker>
+Is this the scourge of France?
 Is this the Talbot, so much feared abroad
 That with his name the mothers still their babes?
 I see report is fabulous and false.
@@ -1366,33 +1358,35 @@ Alas, this is a child, a silly dwarf!
 It cannot be this weak and writhled shrimp
 Should strike such terror to his enemies.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Madam, I have been bold to trouble you.
 But since your Ladyship is not at leisure,
 I'll sort some other time to visit you.
-[He begins to exit.]
+[<i>He begins to exit.</i>]
 
-<b>COUNTESS,</b> [to Messenger]
+<speaker>COUNTESS,</speaker>
+[<i>to Messenger</i>]
 What means he now? Go ask him whither he goes.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Stay, my Lord Talbot, for my lady craves
 To know the cause of your abrupt departure.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Marry, for that she's in a wrong belief,
 I go to certify her Talbot's here.
 
-[Enter Porter with keys.]
+[<i>Enter Porter with keys.</i>]
 
-
-<b>COUNTESS,</b> [to Talbot]
+<speaker>COUNTESS,</speaker>
+[<i>to Talbot</i>]
 If thou be he, then art thou prisoner.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Prisoner? To whom?
 
-COUNTESS  To me, bloodthirsty lord.
+<speaker>COUNTESS</speaker>
+To me, bloodthirsty lord.
 And for that cause I trained thee to my house.
 Long time thy shadow hath been thrall to me,
 For in my gallery thy picture hangs.
@@ -1402,23 +1396,27 @@ That hast by tyranny these many years
 Wasted our country, slain our citizens,
 And sent our sons and husbands captivate.
 
-TALBOT  Ha, ha, ha!
+<speaker>TALBOT</speaker>
+Ha, ha, ha!
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 Laughest thou, wretch? Thy mirth shall turn to moan.
 
-TALBOT
+<speaker>TALBOT</speaker>
 I laugh to see your Ladyship so fond
 To think that you have aught but Talbot's shadow
 Whereon to practice your severity.
 
-COUNTESS  Why, art not thou the man?
+<speaker>COUNTESS</speaker>
+Why, art not thou the man?
 
-TALBOT  I am, indeed.
+<speaker>TALBOT</speaker>
+I am, indeed.
 
-COUNTESS  Then have I substance too.
+<speaker>COUNTESS</speaker>
+Then have I substance too.
 
-TALBOT
+<speaker>TALBOT</speaker>
 No, no, I am but shadow of myself.
 You are deceived; my substance is not here,
 For what you see is but the smallest part
@@ -1427,17 +1425,17 @@ I tell you, madam, were the whole frame here,
 It is of such a spacious lofty pitch
 Your roof were not sufficient to contain 't.
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 This is a riddling merchant for the nonce:
 He will be here and yet he is not here.
 How can these contrarieties agree?
 
-TALBOT
+<speaker>TALBOT</speaker>
 That will I show you presently.
-[Winds his horn. Drums strike up;
-a peal of ordnance.]
+[<i>Winds his horn. Drums strike up;
+a peal of ordnance.</i>]
 
-[Enter Soldiers.]
+[<i>Enter Soldiers.</i>]
 
 How say you, madam? Are you now persuaded
 That Talbot is but shadow of himself?
@@ -1446,7 +1444,7 @@ With which he yoketh your rebellious necks,
 Razeth your cities, and subverts your towns,
 And in a moment makes them desolate.
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 Victorious Talbot, pardon my abuse.
 I find thou art no less than fame hath bruited,
 And more than may be gathered by thy shape.
@@ -1454,7 +1452,7 @@ Let my presumption not provoke thy wrath,
 For I am sorry that with reverence
 I did not entertain thee as thou art.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Be not dismayed, fair lady, nor misconster
 The mind of Talbot as you did mistake
 The outward composition of his body.
@@ -1464,39 +1462,38 @@ But only, with your patience, that we may
 Taste of your wine and see what cates you have,
 For soldiers' stomachs always serve them well.
 
-COUNTESS
+<speaker>COUNTESS</speaker>
 With all my heart, and think me honored
 To feast so great a warrior in my house.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Richard Plantagenet, Warwick, Somerset,
+[<i>Enter Richard Plantagenet, Warwick, Somerset,
 William de la Pole the Earl of Suffolk,
-Vernon, a Lawyer, and Others.]
+Vernon, a Lawyer, and Others.</i>]
 
-
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Great lords and gentlemen, what means this silence?
 Dare no man answer in a case of truth?
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Within the Temple Hall we were too loud;
 The garden here is more convenient.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Then say at once if I maintained the truth,
 Or else was wrangling Somerset in th' error?
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Faith, I have been a truant in the law
 And never yet could frame my will to it,
 And therefore frame the law unto my will.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Judge you, my Lord of Warwick, then, between us.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Between two hawks, which flies the higher pitch,
 Between two dogs, which hath the deeper mouth,
 Between two blades, which bears the better temper,
@@ -1506,17 +1503,17 @@ I have perhaps some shallow spirit of judgment;
 But in these nice sharp quillets of the law,
 Good faith, I am no wiser than a daw.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Tut, tut, here is a mannerly forbearance!
 The truth appears so naked on my side
 That any purblind eye may find it out.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 And on my side it is so well appareled,
 So clear, so shining, and so evident,
 That it will glimmer through a blind man's eye.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Since you are tongue-tied and so loath to speak,
 In dumb significants proclaim your thoughts:
 Let him that is a trueborn gentleman
@@ -1524,114 +1521,117 @@ And stands upon the honor of his birth,
 If he suppose that I have pleaded truth,
 From off this brier pluck a white rose with me.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Let him that is no coward nor no flatterer,
 But dare maintain the party of the truth,
 Pluck a red rose from off this thorn with me.
 
-WARWICK
+<speaker>WARWICK</speaker>
 I love no colors; and, without all color
 Of base insinuating flattery,
 I pluck this white rose with Plantagenet.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 I pluck this red rose with young Somerset,
 And say withal I think he held the right.
 
-VERNON
+<speaker>VERNON</speaker>
 Stay, lords and gentlemen, and pluck no more
 Till you conclude that he upon whose side
 The fewest roses are cropped from the tree
 Shall yield the other in the right opinion.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Good Master Vernon, it is well objected:
 If I have fewest, I subscribe in silence.
 
-PLANTAGENET  And I.
+<speaker>PLANTAGENET</speaker>
+And I.
 
-VERNON
+<speaker>VERNON</speaker>
 Then for the truth and plainness of the case,
 I pluck this pale and maiden blossom here,
 Giving my verdict on the white rose side.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Prick not your finger as you pluck it off,
 Lest, bleeding, you do paint the white rose red,
 And fall on my side so against your will.
 
-VERNON
+<speaker>VERNON</speaker>
 If I, my lord, for my opinion bleed,
 Opinion shall be surgeon to my hurt
 And keep me on the side where still I am.
 
-SOMERSET  Well, well, come on, who else?
+<speaker>SOMERSET</speaker>
+Well, well, come on, who else?
 
-LAWYER
+<speaker>LAWYER</speaker>
 Unless my study and my books be false,
 The argument you held was wrong in law,
 In sign whereof I pluck a white rose too.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Now, Somerset, where is your argument?
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Here in my scabbard, meditating that
 Shall dye your white rose in a bloody red.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Meantime your cheeks do counterfeit our roses,
 For pale they look with fear, as witnessing
 The truth on our side.
 
-SOMERSET  No, Plantagenet.
+<speaker>SOMERSET</speaker>
+No, Plantagenet.
 'Tis not for fear, but anger that thy cheeks
 Blush for pure shame to counterfeit our roses,
 And yet thy tongue will not confess thy error.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Hath not thy rose a canker, Somerset?
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Hath not thy rose a thorn, Plantagenet?
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Ay, sharp and piercing, to maintain his truth,
 Whiles thy consuming canker eats his falsehood.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Well, I'll find friends to wear my bleeding roses
 That shall maintain what I have said is true,
 Where false Plantagenet dare not be seen.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Now, by this maiden blossom in my hand,
 I scorn thee and thy fashion, peevish boy.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Turn not thy scorns this way, Plantagenet.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Proud Pole, I will, and scorn both him and thee.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 I'll turn my part thereof into thy throat.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Away, away, good William de la Pole!
 We grace the yeoman by conversing with him.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Now, by God's will, thou wrong'st him, Somerset.
 His grandfather was Lionel, Duke of Clarence,
 Third son to the third Edward, King of England.
 Spring crestless yeomen from so deep a root?
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 He bears him on the place's privilege,
 Or durst not for his craven heart say thus.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 By Him that made me, I'll maintain my words
 On any plot of ground in Christendom.
 Was not thy father Richard, Earl of Cambridge,
@@ -1641,7 +1641,7 @@ Corrupted, and exempt from ancient gentry?
 His trespass yet lives guilty in thy blood,
 And, till thou be restored, thou art a yeoman.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 My father was attached, not attainted,
 Condemned to die for treason, but no traitor;
 And that I'll prove on better men than Somerset,
@@ -1651,30 +1651,30 @@ I'll note you in my book of memory
 To scourge you for this apprehension.
 Look to it well, and say you are well warned.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Ah, thou shalt find us ready for thee still,
 And know us by these colors for thy foes,
 For these my friends in spite of thee shall wear.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 And, by my soul, this pale and angry rose,
 As cognizance of my blood-drinking hate,
 Will I forever, and my faction, wear
 Until it wither with me to my grave
 Or flourish to the height of my degree.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Go forward, and be choked with thy ambition!
-And so farewell, until I meet thee next.	[He exits.]
+And so farewell, until I meet thee next.	[<i>He exits.</i>]
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Have with thee, Pole.--Farewell, ambitious Richard.
-[He exits.]
+[<i>He exits.</i>]
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 How I am braved, and must perforce endure it!
 
-WARWICK
+<speaker>WARWICK</speaker>
 This blot that they object against your house
 Shall be whipped out in the next parliament,
 Called for the truce of Winchester and Gloucester;
@@ -1688,28 +1688,28 @@ Grown to this faction in the Temple garden,
 Shall send, between the red rose and the white,
 A thousand souls to death and deadly night.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Good Master Vernon, I am bound to you,
 That you on my behalf would pluck a flower.
 
-VERNON
+<speaker>VERNON</speaker>
 In your behalf still will I wear the same.
 
-LAWYER
+<speaker>LAWYER</speaker>
 And so will I.
 
-PLANTAGENET  Thanks, gentle sir.
+<speaker>PLANTAGENET</speaker>
+Thanks, gentle sir.
 Come, let us four to dinner. I dare say
 This quarrel will drink blood another day.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Edmund Mortimer, brought in a chair,
-and Jailers.]
+[<i>Enter Edmund Mortimer, brought in a chair,
+and Jailers.</i>]
 
-
-MORTIMER
+<speaker>MORTIMER</speaker>
 Kind keepers of my weak decaying age,
 Let dying Mortimer here rest himself.
 Even like a man new-haled from the rack,
@@ -1728,12 +1728,12 @@ Swift-winged with desire to get a grave,
 As witting I no other comfort have.
 But tell me, keeper, will my nephew come?
 
-KEEPER
+<speaker>KEEPER</speaker>
 Richard Plantagenet, my lord, will come.
 We sent unto the Temple, unto his chamber,
 And answer was returned that he will come.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Enough. My soul shall then be satisfied.
 Poor gentleman, his wrong doth equal mine.
 Since Henry Monmouth first began to reign,
@@ -1747,29 +1747,29 @@ With sweet enlargement doth dismiss me hence.
 I would his troubles likewise were expired,
 That so he might recover what was lost.
 
-[Enter Richard Plantagenet.]
+[<i>Enter Richard Plantagenet.</i>]
 
-
-KEEPER
+<speaker>KEEPER</speaker>
 My lord, your loving nephew now is come.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Richard Plantagenet, my friend, is he come?
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Ay, noble uncle, thus ignobly used,
 Your nephew, late despised Richard, comes.
 
-<b>MORTIMER,</b> [to Jailer]
+<speaker>MORTIMER,</speaker>
+[<i>to Jailer</i>]
 Direct mine arms I may embrace his neck
 And in his bosom spend my latter gasp.
 O, tell me when my lips do touch his cheeks,
 That I may kindly give one fainting kiss.
-[He embraces Richard.]
+[<i>He embraces Richard.</i>]
 And now declare, sweet stem from York's great stock,
 Why didst thou say of late thou wert despised?
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 First, lean thine aged back against mine arm,
 And in that ease I'll tell thee my disease.
 This day, in argument upon a case,
@@ -1783,17 +1783,17 @@ In honor of a true Plantagenet,
 And for alliance' sake, declare the cause
 My father, Earl of Cambridge, lost his head.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 That cause, fair nephew, that imprisoned me
 And hath detained me all my flow'ring youth
 Within a loathsome dungeon, there to pine,
 Was cursed instrument of his decease.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Discover more at large what cause that was,
 For I am ignorant and cannot guess.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 I will, if that my fading breath permit
 And death approach not ere my tale be done.
 Henry the Fourth, grandfather to this king,
@@ -1827,21 +1827,21 @@ But, as the rest, so fell that noble earl
 And was beheaded. Thus the Mortimers,
 In whom the title rested, were suppressed.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Of which, my lord, your Honor is the last.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 True, and thou seest that I no issue have
 And that my fainting words do warrant death.
 Thou art my heir; the rest I wish thee gather.
 But yet be wary in thy studious care.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Thy grave admonishments prevail with me.
 But yet methinks my father's execution
 Was nothing less than bloody tyranny.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 With silence, nephew, be thou politic;
 Strong-fixed is the house of Lancaster,
 And, like a mountain, not to be removed.
@@ -1849,20 +1849,20 @@ But now thy uncle is removing hence,
 As princes do their courts when they are cloyed
 With long continuance in a settled place.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 O uncle, would some part of my young years
 Might but redeem the passage of your age.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Thou dost then wrong me, as that slaughterer doth
 Which giveth many wounds when one will kill.
 Mourn not, except thou sorrow for my good;
 Only give order for my funeral.
 And so farewell, and fair be all thy hopes,
 And prosperous be thy life in peace and war.
-[Dies.]
+[<i>Dies.</i>]
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 And peace, no war, befall thy parting soul.
 In prison hast thou spent a pilgrimage,
 And like a hermit overpassed thy days.--
@@ -1870,7 +1870,7 @@ Well, I will lock his counsel in my breast,
 And what I do imagine, let that rest.--
 Keepers, convey him hence, and I myself
 Will see his burial better than his life.
-[Jailers exit carrying Mortimer's body.]
+[<i>Jailers exit carrying Mortimer's body.</i>]
 Here dies the dusky torch of Mortimer,
 Choked with ambition of the meaner sort.
 And for those wrongs, those bitter injuries,
@@ -1879,21 +1879,18 @@ I doubt not but with honor to redress.
 And therefore haste I to the Parliament,
 Either to be restored to my blood,
 Or make mine ill th' advantage of my good.
-[He exits.]
-
+[<i>He exits.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
-
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Flourish. Enter King Henry, Exeter, Gloucester, and
+[<i>Flourish. Enter King Henry, Exeter, Gloucester, and
 Winchester; Richard Plantagenet and Warwick,
 with white roses; Somerset and Suffolk, with red
 roses; and Others. Gloucester offers to put up a bill.
-Winchester snatches it, tears it.]
+Winchester snatches it, tears it.</i>]
 
-
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Com'st thou with deep premeditated lines,
 With written pamphlets studiously devised?
 Humphrey of Gloucester, if thou canst accuse
@@ -1902,7 +1899,7 @@ Do it without invention, suddenly,
 As I with sudden and extemporal speech
 Purpose to answer what thou canst object.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Presumptuous priest, this place commands my
 patience,
 Or thou shouldst find thou hast dishonored me.
@@ -1924,7 +1921,7 @@ Besides, I fear me, if thy thoughts were sifted,
 The King, thy sovereign, is not quite exempt
 From envious malice of thy swelling heart.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Gloucester, I do defy thee.--Lords, vouchsafe
 To give me hearing what I shall reply.
 If I were covetous, ambitious, or perverse,
@@ -1941,60 +1938,65 @@ And that engenders thunder in his breast
 And makes him roar these accusations forth.
 But he shall know I am as good--
 
-GLOUCESTER  As good!
+<speaker>GLOUCESTER</speaker>
+As good!
 Thou bastard of my grandfather!
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Ay, lordly sir; for what are you, I pray,
 But one imperious in another's throne?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Am I not Protector, saucy priest?
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 And am not I a prelate of the Church?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Yes, as an outlaw in a castle keeps,
 And useth it to patronage his theft.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Unreverent Gloucester!
 
-GLOUCESTER  Thou art reverend
+<speaker>GLOUCESTER</speaker>
+Thou art reverend
 Touching thy spiritual function, not thy life.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Rome shall remedy this.
 
-GLOUCESTER  Roam thither then.
+<speaker>GLOUCESTER</speaker>
+Roam thither then.
 
-<b>WARWICK,</b> [to Winchester]
+<speaker>WARWICK,</speaker>
+[<i>to Winchester</i>]
 My lord, it were your duty to forbear.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Ay, so the Bishop be not overborne.
 Methinks my lord should be religious,
 And know the office that belongs to such.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Methinks his Lordship should be humbler.
 It fitteth not a prelate so to plead.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Yes, when his holy state is touched so near.
 
-WARWICK
+<speaker>WARWICK</speaker>
 State holy, or unhallowed, what of that?
 Is not his Grace Protector to the King?
 
-<b>PLANTAGENET,</b> [aside]
+<speaker>PLANTAGENET,</speaker>
+[<i>aside</i>]
 Plantagenet, I see, must hold his tongue,
 Lest it be said "Speak, sirrah, when you should;
 Must your bold verdict enter talk with lords?"
 Else would I have a fling at Winchester.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Uncles of Gloucester and of Winchester,
 The special watchmen of our English weal,
 I would prevail, if prayers might prevail,
@@ -2005,17 +2007,17 @@ Believe me, lords, my tender years can tell
 Civil dissension is a viperous worm
 That gnaws the bowels of the commonwealth.
 
-[A noise within: "Down with the tawny coats!"]
+[<i>A noise within: "Down with the tawny coats!"</i>]
 What tumult 's this?
 
-WARWICK  An uproar, I dare warrant,
+<speaker>WARWICK</speaker>
+An uproar, I dare warrant,
 Begun through malice of the Bishop's men.
-[A noise again: "Stones! Stones!"]
+[<i>A noise again: "Stones! Stones!"</i>]
 
-[Enter Mayor.]
+[<i>Enter Mayor.</i>]
 
-
-MAYOR
+<speaker>MAYOR</speaker>
 O, my good lords, and virtuous Henry,
 Pity the city of London, pity us!
 The Bishop and the Duke of Gloucester's men,
@@ -2027,26 +2029,26 @@ That many have their giddy brains knocked out;
 Our windows are broke down in every street,
 And we, for fear, compelled to shut our shops.
 
-[Enter Servingmen in skirmish with bloody pates.]
+[<i>Enter Servingmen in skirmish with bloody pates.</i>]
 
-
-KING HENRY
+<speaker>KING HENRY</speaker>
 We charge you, on allegiance to ourself,
 To hold your slaught'ring hands and keep the peace.--
 Pray, Uncle Gloucester, mitigate this strife.
 
-FIRST SERVINGMAN  Nay, if we be forbidden stones, we'll
+<speaker>FIRST SERVINGMAN</speaker>
+Nay, if we be forbidden stones, we'll
 fall to it with our teeth.
 
-SECOND SERVINGMAN
+<speaker>SECOND SERVINGMAN</speaker>
 Do what you dare, we are as
-resolute.	[Skirmish again.]
+resolute.	[<i>Skirmish again.</i>]
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 You of my household, leave this peevish broil,
 And set this unaccustomed fight aside.
 
-THIRD SERVINGMAN
+<speaker>THIRD SERVINGMAN</speaker>
 My lord, we know your Grace to be a man
 Just and upright, and, for your royal birth,
 Inferior to none but to his Majesty;
@@ -2056,16 +2058,17 @@ To be disgraced by an inkhorn mate,
 We and our wives and children all will fight
 And have our bodies slaughtered by thy foes.
 
-FIRST SERVINGMAN
+<speaker>FIRST SERVINGMAN</speaker>
 Ay, and the very parings of our nails
 Shall pitch a field when we are dead.
-[Begin again.]
+[<i>Begin again.</i>]
 
-GLOUCESTER  Stay, stay, I say!
+<speaker>GLOUCESTER</speaker>
+Stay, stay, I say!
 And if you love me, as you say you do,
 Let me persuade you to forbear awhile.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 O, how this discord doth afflict my soul!
 Can you, my Lord of Winchester, behold
 My sighs and tears, and will not once relent?
@@ -2073,7 +2076,7 @@ Who should be pitiful if you be not?
 Or who should study to prefer a peace
 If holy churchmen take delight in broils?
 
-WARWICK
+<speaker>WARWICK</speaker>
 Yield, my Lord Protector--yield, Winchester--
 Except you mean with obstinate repulse
 To slay your sovereign and destroy the realm.
@@ -2081,134 +2084,143 @@ You see what mischief, and what murder too,
 Hath been enacted through your enmity.
 Then be at peace, except you thirst for blood.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 He shall submit, or I will never yield.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Compassion on the King commands me stoop,
 Or I would see his heart out ere the priest
 Should ever get that privilege of me.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Behold, my Lord of Winchester, the Duke
 Hath banished moody discontented fury,
 As by his smoothed brows it doth appear.
 Why look you still so stern and tragical?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Here, Winchester, I offer thee my hand.
-[Winchester refuses Gloucester's hand.]
+[<i>Winchester refuses Gloucester's hand.</i>]
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Fie, Uncle Beaufort! I have heard you preach
 That malice was a great and grievous sin;
 And will not you maintain the thing you teach,
 But prove a chief offender in the same?
 
-WARWICK
+<speaker>WARWICK</speaker>
 Sweet king! The Bishop hath a kindly gird.--
 For shame, my Lord of Winchester, relent;
 What, shall a child instruct you what to do?
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Well, Duke of Gloucester, I will yield to thee;
 Love for thy love and hand for hand I give.
-[They take each other's hand.]
+[<i>They take each other's hand.</i>]
 
-<b>GLOUCESTER,</b> [aside]
+<speaker>GLOUCESTER,</speaker>
+[<i>aside</i>]
 Ay, but I fear me with a hollow heart.--
 See here, my friends and loving countrymen,
 This token serveth for a flag of truce
 Betwixt ourselves and all our followers,
 So help me God, as I dissemble not.
 
-<b>WINCHESTER,</b> [aside]
+<speaker>WINCHESTER,</speaker>
+[<i>aside</i>]
 So help me God, as I intend it not.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 O, loving uncle--kind Duke of Gloucester--
 How joyful am I made by this contract.
-[To the Servingmen.] Away, my masters, trouble us
+[<i>To the Servingmen.</i>]
+Away, my masters, trouble us
 no more,
 But join in friendship as your lords have done.
 
-FIRST SERVINGMAN  Content. I'll to the surgeon's.
+<speaker>FIRST SERVINGMAN</speaker>
+Content. I'll to the surgeon's.
 
-SECOND SERVINGMAN  And so will I.
+<speaker>SECOND SERVINGMAN</speaker>
+And so will I.
 
-THIRD SERVINGMAN  And I will see what physic the tavern
+<speaker>THIRD SERVINGMAN</speaker>
+And I will see what physic the tavern
 affords.
-[They exit with Mayor and Others.]
+[<i>They exit with Mayor and Others.</i>]
 
-<b>WARWICK,</b> [presenting a scroll]
+<speaker>WARWICK,</speaker>
+[<i>presenting a scroll</i>]
 Accept this scroll, most gracious sovereign,
 Which in the right of Richard Plantagenet
 We do exhibit to your Majesty.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Well urged, my Lord of Warwick.--For, sweet prince,
 An if your Grace mark every circumstance,
 You have great reason to do Richard right,
 Especially for those occasions
 At Eltham Place I told your Majesty.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 And those occasions, uncle, were of force.--
 Therefore, my loving lords, our pleasure is
 That Richard be restored to his blood.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Let Richard be restored to his blood;
 So shall his father's wrongs be recompensed.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 As will the rest, so willeth Winchester.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 If Richard will be true, not that alone
 But all the whole inheritance I give
 That doth belong unto the house of York,
 From whence you spring by lineal descent.
 
-PLANTAGENET
+<speaker>PLANTAGENET</speaker>
 Thy humble servant vows obedience
 And humble service till the point of death.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Stoop then, and set your knee against my foot;
-[Plantagenet kneels.]
+[<i>Plantagenet kneels.</i>]
 And in reguerdon of that duty done
 I girt thee with the valiant sword of York.
 Rise, Richard, like a true Plantagenet,
 And rise created princely Duke of York.
 
-<b>YORK,</b> [formerly PLANTAGENET, standing]
+<speaker>YORK,</speaker>
+[<i>formerly PLANTAGENET, standing</i>]
 And so thrive Richard as thy foes may fall!
 And as my duty springs, so perish they
 That grudge one thought against your Majesty.
 
-ALL
+<speaker>ALL</speaker>
 Welcome, high prince, the mighty Duke of York.
 
-<b>SOMERSET,</b> [aside]
+<speaker>SOMERSET,</speaker>
+[<i>aside</i>]
 Perish, base prince, ignoble Duke of York.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Now will it best avail your Majesty
 To cross the seas and to be crowned in France.
 The presence of a king engenders love
 Amongst his subjects and his loyal friends,
 As it disanimates his enemies.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 When Gloucester says the word, King Henry goes,
 For friendly counsel cuts off many foes.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Your ships already are in readiness.
-[Sennet. Flourish. All but Exeter exit.]
+[<i>Sennet. Flourish. All but Exeter exit.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 Ay, we may march in England or in France,
 Not seeing what is likely to ensue.
 This late dissension grown betwixt the peers
@@ -2224,15 +2236,14 @@ That Henry born at Monmouth should win all,
 And Henry born at Windsor should lose all,
 Which is so plain that Exeter doth wish
 His days may finish ere that hapless time.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Pucelle disguised, with four Soldiers with sacks
-upon their backs.]
+[<i>Enter Pucelle disguised, with four Soldiers with sacks
+upon their backs.</i>]
 
-
-PUCELLE
+<speaker>PUCELLE</speaker>
 These are the city gates, the gates of Roan,
 Through which our policy must make a breach.
 Take heed. Be wary how you place your words;
@@ -2243,106 +2254,106 @@ And that we find the slothful watch but weak,
 I'll by a sign give notice to our friends,
 That Charles the Dauphin may encounter them.
 
-SOLDIER
+<speaker>SOLDIER</speaker>
 Our sacks shall be a mean to sack the city,
 And we be lords and rulers over Roan;
 Therefore we'll knock.
-[Knock.]
+[<i>Knock.</i>]
 
-<b>WATCH,</b> [within]
+<speaker>WATCH,</speaker>
+[<i>within</i>]
 Qui la?
 
-PUCELLE  Paysans la pauvre gens de France:
+<speaker>PUCELLE</speaker>
+Paysans la pauvre gens de France:
 Poor market folks that come to sell their corn.
 
-WATCH
+<speaker>WATCH</speaker>
 Enter, go in. The market bell is rung.
 
-<b>PUCELLE,</b> [aside]
+<speaker>PUCELLE,</speaker>
+[<i>aside</i>]
 Now, Roan, I'll shake thy bulwarks to the ground.
-[They exit.]
+[<i>They exit.</i>]
 
-[Enter Charles, Bastard, Alanson, Reignier,
-and Soldiers.]
+[<i>Enter Charles, Bastard, Alanson, Reignier,
+and Soldiers.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 Saint Dennis bless this happy stratagem
 And once again we'll sleep secure in Roan.
 
-BASTARD
+<speaker>BASTARD</speaker>
 Here entered Pucelle and her practisants.
 Now she is there, how will she specify
 "Here is the best and safest passage in"?
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 By thrusting out a torch from yonder tower,
 Which, once discerned, shows that her meaning is:
 No way to that, for weakness, which she entered.
 
-[Enter Pucelle on the top, thrusting out a torch burning.]
+[<i>Enter Pucelle on the top, thrusting out a torch burning.</i>]
 
-
-PUCELLE
+<speaker>PUCELLE</speaker>
 Behold, this is the happy wedding torch
 That joineth Roan unto her countrymen,
 But burning fatal to the Talbonites.
 
-BASTARD
+<speaker>BASTARD</speaker>
 See, noble Charles, the beacon of our friend;
 The burning torch, in yonder turret stands.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Now shine it like a comet of revenge,
 A prophet to the fall of all our foes!
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Defer no time; delays have dangerous ends.
 Enter and cry "The Dauphin!" presently,
 And then do execution on the watch.
-[Alarum. They exit.]
+[<i>Alarum. They exit.</i>]
 
-[An Alarum. Enter Talbot in an excursion.]
+[<i>An Alarum. Enter Talbot in an excursion.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 France, thou shalt rue this treason with thy tears,
 If Talbot but survive thy treachery.
 Pucelle, that witch, that damned sorceress,
 Hath wrought this hellish mischief unawares,
 That hardly we escaped the pride of France.
-[He exits.]
+[<i>He exits.</i>]
 
-[An alarum. Excursions. Bedford brought in sick in
+[<i>An alarum. Excursions. Bedford brought in sick in
 a chair, carried by two Attendants. Enter Talbot
 and Burgundy without; within, Pucelle with a sack
 of grain, Charles, Bastard, Alanson, and Reignier
-on the walls.]
+on the walls.</i>]
 
-
-<b>PUCELLE,</b> [to those below]
+<speaker>PUCELLE,</speaker>
+[<i>to those below</i>]
 Good morrow, gallants. Want you corn for bread?
-[She scatters grain on those below.]
+[<i>She scatters grain on those below.</i>]
 I think the Duke of Burgundy will fast
 Before he'll buy again at such a rate.
 'Twas full of darnel. Do you like the taste?
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Scoff on, vile fiend and shameless courtesan!
 I trust ere long to choke thee with thine own,
 And make thee curse the harvest of that corn.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Your Grace may starve, perhaps, before that time.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 O, let no words, but deeds, revenge this treason.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 What will you do, good graybeard? Break a lance
 And run a-tilt at Death within a chair?
 
-TALBOT
+<speaker>TALBOT</speaker>
 Foul fiend of France and hag of all despite,
 Encompassed with thy lustful paramours,
 Becomes it thee to taunt his valiant age
@@ -2350,38 +2361,39 @@ And twit with cowardice a man half dead?
 Damsel, I'll have a bout with you again,
 Or else let Talbot perish with this shame.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Are you so hot, sir? Yet, Pucelle, hold thy peace,
 If Talbot do but thunder, rain will follow.
-[Those below whisper together in council.]
+[<i>Those below whisper together in council.</i>]
 God speed the Parliament! Who shall be the Speaker?
 
-TALBOT
+<speaker>TALBOT</speaker>
 Dare you come forth and meet us in the field?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Belike your Lordship takes us then for fools,
 To try if that our own be ours or no.
 
-TALBOT
+<speaker>TALBOT</speaker>
 I speak not to that railing Hecate,
 But unto thee, Alanson, and the rest.
 Will you, like soldiers, come and fight it out?
 
-ALANSON  Seigneur, no.
+<speaker>ALANSON</speaker>
+Seigneur, no.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Seigneur, hang! Base muleteers of France,
 Like peasant footboys do they keep the walls
 And dare not take up arms like gentlemen.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Away, captains. Let's get us from the walls,
 For Talbot means no goodness by his looks.--
 Goodbye, my lord. We came but to tell you
-That we are here.	[They exit from the walls.]
+That we are here.	[<i>They exit from the walls.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 And there will we be too, ere it be long,
 Or else reproach be Talbot's greatest fame.--
 Vow, Burgundy, by honor of thy house,
@@ -2393,88 +2405,86 @@ As sure as in this late-betrayed town
 Great Coeur-de-lion's heart was buried,
 So sure I swear to get the town or die.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 My vows are equal partners with thy vows.
 
-TALBOT
+<speaker>TALBOT</speaker>
 But, ere we go, regard this dying prince,
 The valiant Duke of Bedford.--Come, my lord,
 We will bestow you in some better place,
 Fitter for sickness and for crazy age.
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Lord Talbot, do not so dishonor me.
 Here will I sit, before the walls of Roan,
 And will be partner of your weal or woe.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Courageous Bedford, let us now persuade you--
 
-BEDFORD
+<speaker>BEDFORD</speaker>
 Not to be gone from hence, for once I read
 That stout Pendragon, in his litter sick,
 Came to the field and vanquished his foes.
 Methinks I should revive the soldiers' hearts
 Because I ever found them as myself.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Undaunted spirit in a dying breast,
 Then be it so. Heavens keep old Bedford safe!--
 And now no more ado, brave Burgundy,
 But gather we our forces out of hand
 And set upon our boasting enemy.
-[He exits with Burgundy.
-Bedford and Attendants remain.]
+[<i>He exits with Burgundy.
+Bedford and Attendants remain.</i>]
 
-[An alarum. Excursions. Enter Sir John Fastolf
-and a Captain.]
+[<i>An alarum. Excursions. Enter Sir John Fastolf
+and a Captain.</i>]
 
-
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 Whither away, Sir John Fastolf, in such haste?
 
-FASTOLF
+<speaker>FASTOLF</speaker>
 Whither away? To save myself by flight.
 We are like to have the overthrow again.
 
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 What, will you fly and leave Lord Talbot?
 
-FASTOLF  Ay,
+<speaker>FASTOLF</speaker>
+Ay,
 All the Talbots in the world, to save my life.
-[He exits.]
+[<i>He exits.</i>]
 
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 Cowardly knight, ill fortune follow thee.
-[He exits.]
+[<i>He exits.</i>]
 
-[Retreat. Excursions. Pucelle, Alanson, and Charles
-enter, pursued by English Soldiers, and fly.]
+[<i>Retreat. Excursions. Pucelle, Alanson, and Charles
+enter, pursued by English Soldiers, and fly.</i>]
 
-
-BEDFORD
+<speaker>BEDFORD</speaker>
 Now, quiet soul, depart when heaven please,
 For I have seen our enemies' overthrow.
 What is the trust or strength of foolish man?
 They that of late were daring with their scoffs
 Are glad and fain by flight to save themselves.
-[Bedford dies, and is carried
-in by two in his chair.]
+[<i>Bedford dies, and is carried
+in by two in his chair.</i>]
 
-[An alarum. Enter Talbot, Burgundy, and the rest.]
+[<i>An alarum. Enter Talbot, Burgundy, and the rest.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Lost and recovered in a day again!
 This is a double honor, Burgundy.
 Yet heavens have glory for this victory.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Warlike and martial Talbot, Burgundy
 Enshrines thee in his heart, and there erects
 Thy noble deeds as valor's monuments.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Thanks, gentle duke. But where is Pucelle now?
 I think her old familiar is asleep.
 Now where's the Bastard's braves and Charles his
@@ -2486,10 +2496,10 @@ Placing therein some expert officers,
 And then depart to Paris to the King,
 For there young Henry with his nobles lie.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 What wills Lord Talbot pleaseth Burgundy.
 
-TALBOT
+<speaker>TALBOT</speaker>
 But yet, before we go, let's not forget
 The noble Duke of Bedford late-deceased,
 But see his exequies fulfilled in Roan.
@@ -2497,14 +2507,13 @@ A braver soldier never couched lance,
 A gentler heart did never sway in court.
 But kings and mightiest potentates must die,
 For that's the end of human misery.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.]
+[<i>Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.</i>]
 
-
-PUCELLE
+<speaker>PUCELLE</speaker>
 Dismay not, princes, at this accident,
 Nor grieve that Roan is so recovered.
 Care is no cure, but rather corrosive
@@ -2514,77 +2523,79 @@ And like a peacock sweep along his tail;
 We'll pull his plumes and take away his train,
 If dauphin and the rest will be but ruled.
 
-CHARLES
+<speaker>CHARLES</speaker>
 We have been guided by thee hitherto,
 And of thy cunning had no diffidence.
 One sudden foil shall never breed distrust.
 
-<b>BASTARD,</b> [to Pucelle]
+<speaker>BASTARD,</speaker>
+[<i>to Pucelle</i>]
 Search out thy wit for secret policies,
 And we will make thee famous through the world.
 
-<b>ALANSON,</b> [to Pucelle]
+<speaker>ALANSON,</speaker>
+[<i>to Pucelle</i>]
 We'll set thy statue in some holy place
 And have thee reverenced like a blessed saint.
 Employ thee then, sweet virgin, for our good.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Then thus it must be; this doth Joan devise:
 By fair persuasions mixed with sugared words
 We will entice the Duke of Burgundy
 To leave the Talbot and to follow us.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Ay, marry, sweeting, if we could do that,
 France were no place for Henry's warriors,
 Nor should that nation boast it so with us,
 But be extirped from our provinces.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Forever should they be expulsed from France,
 And not have title of an earldom here.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Your honors shall perceive how I will work
 To bring this matter to the wished end.
-[Drum sounds afar off.]
+[<i>Drum sounds afar off.</i>]
 Hark! By the sound of drum you may perceive
 Their powers are marching unto Paris-ward.
-[Here sound an English march.]
+[<i>Here sound an English march.</i>]
 There goes the Talbot with his colors spread,
 And all the troops of English after him.
-[French march.]
+[<i>French march.</i>]
 Now in the rearward comes the Duke and his.
 Fortune in favor makes him lag behind.
 Summon a parley; we will talk with him.
-[Trumpets sound a parley.]
+[<i>Trumpets sound a parley.</i>]
 
-CHARLES
+<speaker>CHARLES</speaker>
 A parley with the Duke of Burgundy!
 
-[Enter Burgundy.]
+[<i>Enter Burgundy.</i>]
 
-
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Who craves a parley with the Burgundy?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 The princely Charles of France, thy countryman.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 What say'st thou, Charles?--for I am marching hence.
 
-<b>CHARLES,</b> [aside to Pucelle]
+<speaker>CHARLES,</speaker>
+[<i>aside to Pucelle</i>]
 Speak, Pucelle, and enchant him with thy words.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Brave Burgundy, undoubted hope of France,
 Stay; let thy humble handmaid speak to thee.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Speak on, but be not over-tedious.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Look on thy country, look on fertile France,
 And see the cities and the towns defaced
 By wasting ruin of the cruel foe.
@@ -2600,11 +2611,12 @@ Should grieve thee more than streams of foreign gore.
 Return thee therefore with a flood of tears,
 And wash away thy country's stained spots.
 
-<b>BURGUNDY,</b> [aside]
+<speaker>BURGUNDY,</speaker>
+[<i>aside</i>]
 Either she hath bewitched me with her words,
 Or nature makes me suddenly relent.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Besides, all French and France exclaims on thee,
 Doubting thy birth and lawful progeny.
 Who join'st thou with but with a lordly nation
@@ -2624,43 +2636,44 @@ And join'st with them will be thy slaughtermen.
 Come, come, return; return, thou wandering lord.
 Charles and the rest will take thee in their arms.
 
-<b>BURGUNDY,</b> [aside]
+<speaker>BURGUNDY,</speaker>
+[<i>aside</i>]
 I am vanquished. These haughty words of hers
 Have battered me like roaring cannon-shot,
 And made me almost yield upon my knees.--
 Forgive me, country, and sweet countrymen;
 And, lords, accept this hearty kind embrace.
-[He embraces Charles, Bastard, and Alanson.]
+[<i>He embraces Charles, Bastard, and Alanson.</i>]
 My forces and my power of men are yours.
 So, farewell, Talbot. I'll no longer trust thee.
 
-<b>PUCELLE,</b> [aside]
+<speaker>PUCELLE,</speaker>
+[<i>aside</i>]
 Done like a Frenchman: turn and turn again.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Welcome, brave duke. Thy friendship makes us fresh.
 
-BASTARD
+<speaker>BASTARD</speaker>
 And doth beget new courage in our breasts.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Pucelle hath bravely played her part in this
 And doth deserve a coronet of gold.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Now let us on, my lords, and join our powers,
 And seek how we may prejudice the foe.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Flourish. Enter the King, Gloucester, Winchester,
+[<i>Flourish. Enter the King, Gloucester, Winchester,
 Exeter; York, Warwick, and Vernon, with white roses;
 Somerset, Suffolk, and Basset, with red roses.
-To them, with his Soldiers, Talbot.]
+To them, with his Soldiers, Talbot.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 My gracious prince and honorable peers,
 Hearing of your arrival in this realm,
 I have awhile given truce unto my wars
@@ -2673,16 +2686,16 @@ Lets fall his sword before your Highness' feet,
 And with submissive loyalty of heart
 Ascribes the glory of his conquest got
 First to my God, and next unto your Grace.
-[He kneels.]
+[<i>He kneels.</i>]
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Is this the Lord Talbot, Uncle Gloucester,
 That hath so long been resident in France?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Yes, if it please your Majesty, my liege.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Welcome, brave captain and victorious lord.
 When I was young--as yet I am not old--
 I do remember how my father said
@@ -2694,87 +2707,84 @@ Or been reguerdoned with so much as thanks,
 Because till now we never saw your face.
 Therefore stand up; and for these good deserts
 We here create you Earl of Shrewsbury;
-And in our coronation take your place.	[Talbot rises.]
-[Sennet. Flourish. All except
-Vernon and Basset exit.]
+And in our coronation take your place.	[<i>Talbot rises.</i>]
+[<i>Sennet. Flourish. All except
+Vernon and Basset exit.</i>]
 
-VERNON
+<speaker>VERNON</speaker>
 Now, sir, to you that were so hot at sea,
 Disgracing of these colors that I wear
 In honor of my noble Lord of York,
 Dar'st thou maintain the former words thou spak'st?
 
-BASSET
+<speaker>BASSET</speaker>
 Yes, sir, as well as you dare patronage
 The envious barking of your saucy tongue
 Against my lord the Duke of Somerset.
 
-VERNON
+<speaker>VERNON</speaker>
 Sirrah, thy lord I honor as he is.
 
-BASSET
+<speaker>BASSET</speaker>
 Why, what is he? As good a man as York.
 
-VERNON
+<speaker>VERNON</speaker>
 Hark you, not so; in witness, take you that.
-[Strikes him.]
+[<i>Strikes him.</i>]
 
-BASSET
+<speaker>BASSET</speaker>
 Villain, thou knowest the law of arms is such
 That whoso draws a sword 'tis present death,
 Or else this blow should broach thy dearest blood.
 But I'll unto his Majesty, and crave
 I may have liberty to venge this wrong,
 When thou shalt see I'll meet thee to thy cost.
-[He exits.]
+[<i>He exits.</i>]
 
-VERNON
+<speaker>VERNON</speaker>
 Well, miscreant, I'll be there as soon as you,
 And after meet you sooner than you would.
-[He exits.]
-
+[<i>He exits.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
-
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Flourish. Enter King, Gloucester, Winchester, Talbot,
+[<i>Flourish. Enter King, Gloucester, Winchester, Talbot,
 Exeter; York and Warwick, with white roses; Suffolk
 and Somerset, with red roses; Governor of Paris,
-and Others.]
+and Others.</i>]
 
-
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Lord Bishop, set the crown upon his head.
 
-<b>WINCHESTER,</b> [crowning King Henry]
+<speaker>WINCHESTER,</speaker>
+[<i>crowning King Henry</i>]
 God save King Henry, of that name the Sixth!
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Now, Governor of Paris, take your oath.
-[Governor kneels.]
+[<i>Governor kneels.</i>]
 That you elect no other king but him;
 Esteem none friends but such as are his friends,
 And none your foes but such as shall pretend
 Malicious practices against his state:
 This shall you do, so help you righteous God.
-[Governor rises.]
+[<i>Governor rises.</i>]
 
-[Enter Fastolf.]
+[<i>Enter Fastolf.</i>]
 
-
-FASTOLF
+<speaker>FASTOLF</speaker>
 My gracious sovereign, as I rode from Callice
 To haste unto your coronation,
 A letter was delivered to my hands,
 Writ to your Grace from th' Duke of Burgundy.
-[He hands the King a paper.]
+[<i>He hands the King a paper.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 Shame to the Duke of Burgundy and thee!
 I vowed, base knight, when I did meet thee next,
 To tear the Garter from thy craven's leg,
-[tearing it off]
+[<i>tearing it off</i>]
 Which I have done, because unworthily
 Thou wast installed in that high degree.--
 Pardon me, princely Henry and the rest.
@@ -2790,12 +2800,12 @@ Then judge, great lords, if I have done amiss,
 Or whether that such cowards ought to wear
 This ornament of knighthood--yea or no?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 To say the truth, this fact was infamous
 And ill beseeming any common man,
 Much more a knight, a captain, and a leader.
 
-TALBOT
+<speaker>TALBOT</speaker>
 When first this Order was ordained, my lords,
 Knights of the Garter were of noble birth,
 Valiant and virtuous, full of haughty courage,
@@ -2809,22 +2819,23 @@ And should, if I were worthy to be judge,
 Be quite degraded, like a hedge-born swain
 That doth presume to boast of gentle blood.
 
-<b>KING HENRY,</b> [to Fastolf]
+<speaker>KING HENRY,</speaker>
+[<i>to Fastolf</i>]
 Stain to thy countrymen, thou hear'st thy doom.
 Be packing therefore, thou that wast a knight.
 Henceforth we banish thee on pain of death.
-[Fastolf exits.]
+[<i>Fastolf exits.</i>]
 And now, my lord protector, view the letter
 Sent from our uncle, Duke of Burgundy.
-[He hands the paper to Gloucester.]
+[<i>He hands the paper to Gloucester.</i>]
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 What means his Grace that he hath changed his style?
 No more but, plain and bluntly, "To the King"!
 Hath he forgot he is his sovereign?
 Or doth this churlish superscription
 Pretend some alteration in good will?
-What's here? [(Reads.)]
+What's here? [<i>(Reads.)</i>]
 I have upon especial cause,
 Moved with compassion of my country's wrack,
 Together with the pitiful complaints
@@ -2835,68 +2846,69 @@ O monstrous treachery! Can this be so?
 That in alliance, amity, and oaths
 There should be found such false dissembling guile?
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 What? Doth my Uncle Burgundy revolt?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 He doth, my lord, and is become your foe.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Is that the worst this letter doth contain?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 It is the worst, and all, my lord, he writes.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Why, then, Lord Talbot there shall talk with him
 And give him chastisement for this abuse.--
 How say you, my lord, are you not content?
 
-TALBOT
+<speaker>TALBOT</speaker>
 Content, my liege? Yes. But that I am prevented,
 I should have begged I might have been employed.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Then gather strength and march unto him straight;
 Let him perceive how ill we brook his treason
 And what offense it is to flout his friends.
 
-TALBOT
+<speaker>TALBOT</speaker>
 I go, my lord, in heart desiring still
-You may behold confusion of your foes.	[He exits.]
+You may behold confusion of your foes.	[<i>He exits.</i>]
 
-[Enter Vernon, with a white rose, and Basset,
-with a red rose.]
+[<i>Enter Vernon, with a white rose, and Basset,
+with a red rose.</i>]
 
-
-VERNON
+<speaker>VERNON</speaker>
 Grant me the combat, gracious sovereign.
 
-BASSET
+<speaker>BASSET</speaker>
 And me, my lord, grant me the combat too.
 
-<b>YORK,</b> [indicating Vernon]
+<speaker>YORK,</speaker>
+[<i>indicating Vernon</i>]
 This is my servant; hear him, noble prince.
 
-<b>SOMERSET,</b> [indicating Basset]
+<speaker>SOMERSET,</speaker>
+[<i>indicating Basset</i>]
 And this is mine, sweet Henry; favor him.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Be patient, lords, and give them leave to speak.--
 Say, gentlemen, what makes you thus exclaim,
 And wherefore crave you combat, or with whom?
 
-VERNON
+<speaker>VERNON</speaker>
 With him, my lord, for he hath done me wrong.
 
-BASSET
+<speaker>BASSET</speaker>
 And I with him, for he hath done me wrong.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 What is that wrong whereof you both complain?
 First let me know, and then I'll answer you.
 
-BASSET
+<speaker>BASSET</speaker>
 Crossing the sea from England into France,
 This fellow here with envious carping tongue
 Upbraided me about the rose I wear,
@@ -2910,7 +2922,7 @@ In confutation of which rude reproach,
 And in defense of my lord's worthiness,
 I crave the benefit of law of arms.
 
-VERNON
+<speaker>VERNON</speaker>
 And that is my petition, noble lord;
 For though he seem with forged quaint conceit
 To set a gloss upon his bold intent,
@@ -2919,38 +2931,41 @@ And he first took exceptions at this badge,
 Pronouncing that the paleness of this flower
 Bewrayed the faintness of my master's heart.
 
-YORK
+<speaker>YORK</speaker>
 Will not this malice, Somerset, be left?
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Your private grudge, my Lord of York, will out,
 Though ne'er so cunningly you smother it.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Good Lord, what madness rules in brainsick men
 When for so slight and frivolous a cause
 Such factious emulations shall arise!
 Good cousins both, of York and Somerset,
 Quiet yourselves, I pray, and be at peace.
 
-YORK
+<speaker>YORK</speaker>
 Let this dissension first be tried by fight,
 And then your Highness shall command a peace.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 The quarrel toucheth none but us alone;
 Betwixt ourselves let us decide it then.
 
-<b>YORK,</b> [throwing down a gage]
+<speaker>YORK,</speaker>
+[<i>throwing down a gage</i>]
 There is my pledge; accept it, Somerset.
 
-<b>VERNON,</b> [to Somerset]
+<speaker>VERNON,</speaker>
+[<i>to Somerset</i>]
 Nay, let it rest where it began at first.
 
-<b>BASSET,</b> [to Somerset]
+<speaker>BASSET,</speaker>
+[<i>to Somerset</i>]
 Confirm it so, mine honorable lord.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Confirm it so? Confounded be your strife,
 And perish you with your audacious prate!
 Presumptuous vassals, are you not ashamed
@@ -2962,10 +2977,10 @@ Much less to take occasion from their mouths
 To raise a mutiny betwixt yourselves.
 Let me persuade you take a better course.
 
-EXETER
+<speaker>EXETER</speaker>
 It grieves his Highness. Good my lords, be friends.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Come hither, you that would be combatants:
 Henceforth I charge you, as you love our favor,
 Quite to forget this quarrel and the cause.--
@@ -2987,7 +3002,7 @@ Let me be umpire in this doubtful strife.
 I see no reason if I wear this rose
 That anyone should therefore be suspicious
 I more incline to Somerset than York.
-[He puts on a red rose.]
+[<i>He puts on a red rose.</i>]
 Both are my kinsmen, and I love them both.
 As well they may upbraid me with my crown
 Because, forsooth, the King of Scots is crowned.
@@ -3007,28 +3022,28 @@ After some respite, will return to Callice;
 From thence to England, where I hope ere long
 To be presented, by your victories,
 With Charles, Alanson, and that traitorous rout.
-[Flourish. All but York, Warwick, Exeter, Vernon exit.]
+[<i>Flourish. All but York, Warwick, Exeter, Vernon exit.</i>]
 
-WARWICK
+<speaker>WARWICK</speaker>
 My Lord of York, I promise you the King
 Prettily, methought, did play the orator.
 
-YORK
+<speaker>YORK</speaker>
 And so he did, but yet I like it not
 In that he wears the badge of Somerset.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Tush, that was but his fancy; blame him not.
 I dare presume, sweet prince, he thought no harm.
 
-YORK
+<speaker>YORK</speaker>
 And if iwis he did--but let it rest.
 Other affairs must now be managed.
 
-[York, Warwick and Vernon exit.
-Exeter remains.]
+[<i>York, Warwick and Vernon exit.
+Exeter remains.</i>]
 
-EXETER
+<speaker>EXETER</speaker>
 Well didst thou, Richard, to suppress thy voice,
 For had the passions of thy heart burst out,
 I fear we should have seen deciphered there
@@ -3042,19 +3057,18 @@ But sees it doth presage some ill event.
 'Tis much when scepters are in children's hands,
 But more when envy breeds unkind division:
 There comes the ruin; there begins confusion.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Talbot with Soldiers and Trump and Drum
-before Bordeaux.]
+[<i>Enter Talbot with Soldiers and Trump and Drum
+before Bordeaux.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Go to the gates of Bordeaux, trumpeter.
 Summon their general unto the wall.
 
-[Trumpet sounds. Enter General and Others aloft.]
+[<i>Trumpet sounds. Enter General and Others aloft.</i>]
 
 English John Talbot, captains, calls you forth,
 Servant-in-arms to Harry, King of England,
@@ -3069,7 +3083,7 @@ Who, in a moment, even with the earth
 Shall lay your stately and air-braving towers,
 If you forsake the offer of their love.
 
-GENERAL
+<speaker>GENERAL</speaker>
 Thou ominous and fearful owl of death,
 Our nation's terror and their bloody scourge,
 The period of thy tyranny approacheth.
@@ -3094,16 +3108,16 @@ For ere the glass that now begins to run
 Finish the process of his sandy hour,
 These eyes, that see thee now well-colored,
 Shall see thee withered, bloody, pale, and dead.
-[Drum afar off.]
+[<i>Drum afar off.</i>]
 Hark, hark, the Dauphin's drum, a warning bell,
 Sings heavy music to thy timorous soul,
 And mine shall ring thy dire departure out.
-[He exits, aloft, with Others.]
+[<i>He exits, aloft, with Others.</i>]
 
-TALBOT
+<speaker>TALBOT</speaker>
 He fables not; I hear the enemy.
 Out, some light horsemen, and peruse their wings.
-[Some Soldiers exit.]
+[<i>Some Soldiers exit.</i>]
 O, negligent and heedless discipline,
 How are we parked and bounded in a pale,
 A little herd of England's timorous deer
@@ -3117,28 +3131,27 @@ Sell every man his life as dear as mine
 And they shall find dear deer of us, my friends.
 God and Saint George, Talbot and England's right,
 Prosper our colors in this dangerous fight!
-[He exits with Soldiers, Drum and Trumpet.]
+[<i>He exits with Soldiers, Drum and Trumpet.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter a Messenger that meets York. Enter York
-with Trumpet and many Soldiers.]
+[<i>Enter a Messenger that meets York. Enter York
+with Trumpet and many Soldiers.</i>]
 
-
-YORK
+<speaker>YORK</speaker>
 Are not the speedy scouts returned again
 That dogged the mighty army of the Dauphin?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 They are returned, my lord, and give it out
 That he is marched to Bordeaux with his power
 To fight with Talbot. As he marched along,
 By your espials were discovered
 Two mightier troops than that the Dauphin led,
 Which joined with him and made their march for
-Bordeaux.	[He exits.]
+Bordeaux.	[<i>He exits.</i>]
 
-YORK
+<speaker>YORK</speaker>
 A plague upon that villain Somerset
 That thus delays my promised supply
 Of horsemen that were levied for this siege!
@@ -3148,10 +3161,9 @@ And cannot help the noble chevalier.
 God comfort him in this necessity.
 If he miscarry, farewell wars in France.
 
-[Enter Sir William Lucy.]
+[<i>Enter Sir William Lucy.</i>]
 
-
-LUCY
+<speaker>LUCY</speaker>
 Thou princely leader of our English strength,
 Never so needful on the earth of France,
 Spur to the rescue of the noble Talbot,
@@ -3160,7 +3172,7 @@ And hemmed about with grim destruction.
 To Bordeaux, warlike duke! To Bordeaux, York!
 Else farewell Talbot, France, and England's honor.
 
-YORK
+<speaker>YORK</speaker>
 O God, that Somerset, who in proud heart
 Doth stop my cornets, were in Talbot's place!
 So should we save a valiant gentleman
@@ -3168,22 +3180,22 @@ By forfeiting a traitor and a coward.
 Mad ire and wrathful fury makes me weep
 That thus we die while remiss traitors sleep.
 
-LUCY
+<speaker>LUCY</speaker>
 O, send some succor to the distressed lord!
 
-YORK
+<speaker>YORK</speaker>
 He dies, we lose; I break my warlike word;
 We mourn, France smiles; we lose, they daily get,
 All long of this vile traitor Somerset.
 
-LUCY
+<speaker>LUCY</speaker>
 Then God take mercy on brave Talbot's soul,
 And on his son, young John, who two hours since
 I met in travel toward his warlike father.
 This seven years did not Talbot see his son,
 And now they meet where both their lives are done.
 
-YORK
+<speaker>YORK</speaker>
 Alas, what joy shall noble Talbot have
 To bid his young son welcome to his grave?
 Away! Vexation almost stops my breath,
@@ -3192,9 +3204,9 @@ Lucy, farewell. No more my fortune can
 But curse the cause I cannot aid the man.
 Maine, Blois, Poictiers, and Tours are won away,
 Long all of Somerset and his delay.
-[York and his Soldiers exit.]
+[<i>York and his Soldiers exit.</i>]
 
-LUCY
+<speaker>LUCY</speaker>
 Thus while the vulture of sedition
 Feeds in the bosom of such great commanders,
 Sleeping neglection doth betray to loss
@@ -3202,15 +3214,14 @@ The conquest of our scarce-cold conqueror,
 That ever-living man of memory,
 Henry the Fifth. Whiles they each other cross,
 Lives, honors, lands, and all hurry to loss.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Somerset with his army and a Captain
-from Talbot's army.]
+[<i>Enter Somerset with his army and a Captain
+from Talbot's army.</i>]
 
-
-SOMERSET
+<speaker>SOMERSET</speaker>
 It is too late; I cannot send them now.
 This expedition was by York and Talbot
 Too rashly plotted. All our general force
@@ -3221,17 +3232,16 @@ By this unheedful, desperate, wild adventure.
 York set him on to fight and die in shame
 That, Talbot dead, great York might bear the name.
 
-[Enter Sir William Lucy.]
+[<i>Enter Sir William Lucy.</i>]
 
-
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 Here is Sir William Lucy, who with me
 Set from our o'er-matched forces forth for aid.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 How now, Sir William, whither were you sent?
 
-LUCY
+<speaker>LUCY</speaker>
 Whither, my lord? From bought and sold Lord Talbot,
 Who, ringed about with bold adversity,
 Cries out for noble York and Somerset
@@ -3249,47 +3259,46 @@ Orleance the Bastard, Charles, Burgundy,
 Alanson, Reignier compass him about,
 And Talbot perisheth by your default.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 York set him on; York should have sent him aid.
 
-LUCY
+<speaker>LUCY</speaker>
 And York as fast upon your Grace exclaims,
 Swearing that you withhold his levied host
 Collected for this expedition.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 York lies. He might have sent and had the horse.
 I owe him little duty and less love,
 And take foul scorn to fawn on him by sending.
 
-LUCY
+<speaker>LUCY</speaker>
 The fraud of England, not the force of France,
 Hath now entrapped the noble-minded Talbot.
 Never to England shall he bear his life,
 But dies betrayed to fortune by your strife.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 Come, go. I will dispatch the horsemen straight.
 Within six hours they will be at his aid.
 
-LUCY
+<speaker>LUCY</speaker>
 Too late comes rescue; he is ta'en or slain,
 For fly he could not if he would have fled;
 And fly would Talbot never, though he might.
 
-SOMERSET
+<speaker>SOMERSET</speaker>
 If he be dead, brave Talbot, then adieu.
 
-LUCY
+<speaker>LUCY</speaker>
 His fame lives in the world, his shame in you.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Talbot and John Talbot, his son.]
+[<i>Enter Talbot and John Talbot, his son.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 O young John Talbot, I did send for thee
 To tutor thee in stratagems of war,
 That Talbot's name might be in thee revived
@@ -3302,7 +3311,7 @@ Therefore, dear boy, mount on my swiftest horse,
 And I'll direct thee how thou shalt escape
 By sudden flight. Come, dally not, be gone.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 Is my name Talbot? And am I your son?
 And shall I fly? O, if you love my mother,
 Dishonor not her honorable name
@@ -3310,16 +3319,16 @@ To make a bastard and a slave of me!
 The world will say "He is not Talbot's blood,
 That basely fled when noble Talbot stood."
 
-TALBOT
+<speaker>TALBOT</speaker>
 Fly, to revenge my death if I be slain.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 He that flies so will ne'er return again.
 
-TALBOT
+<speaker>TALBOT</speaker>
 If we both stay, we both are sure to die.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 Then let me stay and, father, do you fly.
 Your loss is great; so your regard should be.
 My worth unknown, no loss is known in me.
@@ -3330,80 +3339,79 @@ But mine it will, that no exploit have done.
 You fled for vantage, everyone will swear;
 But if I bow, they'll say it was for fear.
 There is no hope that ever I will stay
-If the first hour I shrink and run away.	[He kneels.]
+If the first hour I shrink and run away.	[<i>He kneels.</i>]
 Here on my knee I beg mortality,
 Rather than life preserved with infamy.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Shall all thy mother's hopes lie in one tomb?
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 Ay, rather than I'll shame my mother's womb.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Upon my blessing I command thee go.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 To fight I will, but not to fly the foe.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Part of thy father may be saved in thee.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 No part of him but will be shame in me.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Thou never hadst renown, nor canst not lose it.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 Yes, your renowned name; shall flight abuse it?
 
-TALBOT
+<speaker>TALBOT</speaker>
 Thy father's charge shall clear thee from that stain.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 You cannot witness for me, being slain.
 If death be so apparent, then both fly.
 
-TALBOT
+<speaker>TALBOT</speaker>
 And leave my followers here to fight and die?
 My age was never tainted with such shame.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 And shall my youth be guilty of such blame?
-[He rises.]
+[<i>He rises.</i>]
 No more can I be severed from your side
 Than can yourself yourself in twain divide.
 Stay, go, do what you will; the like do I,
 For live I will not, if my father die.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Then here I take my leave of thee, fair son,
 Born to eclipse thy life this afternoon.
 Come, side by side, together live and die,
 And soul with soul from France to heaven fly.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Alarum. Excursions, wherein Talbot's son John
-is hemmed about, and Talbot rescues him.]
+[<i>Alarum. Excursions, wherein Talbot's son John
+is hemmed about, and Talbot rescues him.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Saint George, and victory! Fight, soldiers, fight!
 The Regent hath with Talbot broke his word
 And left us to the rage of France his sword.
 Where is John Talbot?--Pause, and take thy breath;
 I gave thee life and rescued thee from death.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 O, twice my father, twice am I thy son!
 The life thou gav'st me first was lost and done
 Till with thy warlike sword, despite of fate,
 To my determined time thou gav'st new date.
 
-TALBOT
+<speaker>TALBOT</speaker>
 When from the Dauphin's crest thy sword struck fire,
 It warmed thy father's heart with proud desire
 Of bold-faced victory. Then leaden age,
@@ -3437,7 +3445,7 @@ My death's revenge, thy youth, and England's fame.
 All these and more we hazard by thy stay;
 All these are saved if thou wilt fly away.
 
-JOHN TALBOT
+<speaker>JOHN TALBOT</speaker>
 The sword of Orleance hath not made me smart;
 These words of yours draw lifeblood from my heart.
 On that advantage, bought with such a shame,
@@ -3451,20 +3459,19 @@ An if I fly, I am not Talbot's son.
 Then talk no more of flight, it is no boot;
 If son to Talbot, die at Talbot's foot.
 
-TALBOT
+<speaker>TALBOT</speaker>
 Then follow thou thy desp'rate sire of Crete,
 Thou Icarus; thy life to me is sweet.
 If thou wilt fight, fight by thy father's side,
 And commendable proved, let's die in pride.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[Alarum. Excursions. Enter old Talbot
-led by a Servant.]
+[<i>Alarum. Excursions. Enter old Talbot
+led by a Servant.</i>]
 
-
-TALBOT
+<speaker>TALBOT</speaker>
 Where is my other life? Mine own is gone.
 O, where's young Talbot? Where is valiant John?
 Triumphant Death, smeared with captivity,
@@ -3482,13 +3489,12 @@ And in that sea of blood, my boy did drench
 His over-mounting spirit; and there died
 My Icarus, my blossom, in his pride.
 
-[Enter Soldiers with John Talbot, borne.]
+[<i>Enter Soldiers with John Talbot, borne.</i>]
 
-
-SERVINGMAN
+<speaker>SERVINGMAN</speaker>
 O, my dear lord, lo where your son is borne!
 
-TALBOT
+<speaker>TALBOT</speaker>
 Thou antic Death, which laugh'st us here to scorn,
 Anon from thy insulting tyranny,
 Coupled in bonds of perpetuity,
@@ -3505,22 +3511,21 @@ Come, come, and lay him in his father's arms;
 My spirit can no longer bear these harms.
 Soldiers, adieu! I have what I would have,
 Now my old arms are young John Talbot's grave.
-[Dies.]
-[Alarums. Soldiers exit.]
+[<i>Dies.</i>]
+[<i>Alarums. Soldiers exit.</i>]
 
-[Enter Charles, Alanson, Burgundy, Bastard,
-and Pucelle, with Forces.]
+[<i>Enter Charles, Alanson, Burgundy, Bastard,
+and Pucelle, with Forces.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 Had York and Somerset brought rescue in,
 We should have found a bloody day of this.
 
-BASTARD
+<speaker>BASTARD</speaker>
 How the young whelp of Talbot's, raging wood,
 Did flesh his puny sword in Frenchmen's blood!
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Once I encountered him, and thus I said:
 "Thou maiden youth, be vanquished by a maid."
 But with a proud majestical high scorn
@@ -3529,40 +3534,39 @@ To be the pillage of a giglot wench."
 So, rushing in the bowels of the French,
 He left me proudly, as unworthy fight.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 Doubtless he would have made a noble knight.
 See where he lies inhearsed in the arms
 Of the most bloody nurser of his harms.
 
-BASTARD
+<speaker>BASTARD</speaker>
 Hew them to pieces, hack their bones asunder,
 Whose life was England's glory, Gallia's wonder.
 
-CHARLES
+<speaker>CHARLES</speaker>
 O, no, forbear! For that which we have fled
 During the life, let us not wrong it dead.
 
-[Enter Lucy with Attendants and a French Herald.]
+[<i>Enter Lucy with Attendants and a French Herald.</i>]
 
-
-LUCY
+<speaker>LUCY</speaker>
 Herald, conduct me to the Dauphin's tent,
 To know who hath obtained the glory of the day.
 
-CHARLES
+<speaker>CHARLES</speaker>
 On what submissive message art thou sent?
 
-LUCY
+<speaker>LUCY</speaker>
 Submission, dauphin? 'Tis a mere French word.
 We English warriors wot not what it means.
 I come to know what prisoners thou hast ta'en,
 And to survey the bodies of the dead.
 
-CHARLES
+<speaker>CHARLES</speaker>
 For prisoners askst thou? Hell our prison is.
 But tell me whom thou seek'st.
 
-LUCY
+<speaker>LUCY</speaker>
 But where's the great Alcides of the field,
 Valiant Lord Talbot, Earl of Shrewsbury,
 Created for his rare success in arms
@@ -3577,14 +3581,14 @@ Worthy Saint Michael, and the Golden Fleece,
 Great Marshal to Henry the Sixth
 Of all his wars within the realm of France?
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Here's a silly stately style indeed.
 The Turk, that two-and-fifty kingdoms hath,
 Writes not so tedious a style as this.
 Him that thou magnifi'st with all these titles
 Stinking and flyblown lies here at our feet.
 
-LUCY
+<speaker>LUCY</speaker>
 Is Talbot slain, the Frenchmen's only scourge,
 Your kingdom's terror and black Nemesis?
 O, were mine eyeballs into bullets turned
@@ -3596,61 +3600,60 @@ It would amaze the proudest of you all.
 Give me their bodies, that I may bear them hence
 And give them burial as beseems their worth.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 I think this upstart is old Talbot's ghost,
 He speaks with such a proud commanding spirit.
 For God's sake, let him have him. To keep them here,
 They would but stink and putrefy the air.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Go, take their bodies hence.
 
-LUCY  I'll bear them hence.
+<speaker>LUCY</speaker>
+I'll bear them hence.
 But from their ashes shall be reared
 A phoenix that shall make all France afeard.
 
-CHARLES
+<speaker>CHARLES</speaker>
 So we be rid of them, do with him what thou wilt.
-[Lucy, Servant, and Attendants exit,
-bearing the bodies.]
+[<i>Lucy, Servant, and Attendants exit,
+bearing the bodies.</i>]
 And now to Paris in this conquering vein.
 All will be ours, now bloody Talbot's slain.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
-
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Sennet. Enter King, Gloucester, and Exeter,
-with Attendants.]
+[<i>Sennet. Enter King, Gloucester, and Exeter,
+with Attendants.</i>]
 
-
-<b>KING HENRY,</b> [to Gloucester]
+<speaker>KING HENRY,</speaker>
+[<i>to Gloucester</i>]
 Have you perused the letters from the Pope,
 The Emperor, and the Earl of Armagnac?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 I have, my lord, and their intent is this:
 They humbly sue unto your Excellence
 To have a godly peace concluded of
 Between the realms of England and of France.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 How doth your Grace affect their motion?
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Well, my good lord, and as the only means
 To stop effusion of our Christian blood
 And stablish quietness on every side.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Ay, marry, uncle, for I always thought
 It was both impious and unnatural
 That such immanity and bloody strife
 Should reign among professors of one faith.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Besides, my lord, the sooner to effect
 And surer bind this knot of amity,
 The Earl of Armagnac, near knit to Charles,
@@ -3658,22 +3661,22 @@ A man of great authority in France,
 Proffers his only daughter to your Grace
 In marriage, with a large and sumptuous dowry.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Marriage, uncle? Alas, my years are young;
 And fitter is my study and my books
 Than wanton dalliance with a paramour.
 Yet call th' Ambassadors and, as you please,
 So let them have their answers every one.
-[An Attendant exits.]
+[<i>An Attendant exits.</i>]
 I shall be well content with any choice
 Tends to God's glory and my country's weal.
 
-[Enter Winchester, dressed in cardinal's robes,
+[<i>Enter Winchester, dressed in cardinal's robes,
 and the Ambassador of Armagnac, a Papal Legate,
-and another Ambassador.]
+and another Ambassador.</i>]
 
-
-<b>EXETER,</b> [aside]
+<speaker>EXETER,</speaker>
+[<i>aside</i>]
 What, is my Lord of Winchester installed
 And called unto a cardinal's degree?
 Then I perceive that will be verified
@@ -3681,7 +3684,7 @@ Henry the Fifth did sometime prophesy:
 "If once he come to be a cardinal,
 He'll make his cap coequal with the crown."
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 My Lords Ambassadors, your several suits
 Have been considered and debated on;
 Your purpose is both good and reasonable,
@@ -3690,31 +3693,33 @@ To draw conditions of a friendly peace,
 Which by my Lord of Winchester we mean
 Shall be transported presently to France.
 
-<b>GLOUCESTER,</b> [to the Ambassador of Armagnac]
+<speaker>GLOUCESTER,</speaker>
+[<i>to the Ambassador of Armagnac</i>]
 And for the proffer of my lord your master,
 I have informed his Highness so at large
 As, liking of the lady's virtuous gifts,
 Her beauty, and the value of her dower,
 He doth intend she shall be England's queen.
 
-<b>KING HENRY,</b> [handing a jewel to the Ambassador]
+<speaker>KING HENRY,</speaker>
+[<i>handing a jewel to the Ambassador</i>]
 In argument and proof of which contract,
 Bear her this jewel, pledge of my affection.--
 And so, my Lord Protector, see them guarded
 And safely brought to Dover, where, inshipped,
 Commit them to the fortune of the sea.
-[All except Winchester and Legate exit.]
+[<i>All except Winchester and Legate exit.</i>]
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Stay, my Lord Legate; you shall first receive
 The sum of money which I promised
 Should be delivered to his Holiness
 For clothing me in these grave ornaments.
 
-LEGATE
-I will attend upon your Lordship's leisure.	[He exits.]
+<speaker>LEGATE</speaker>
+I will attend upon your Lordship's leisure.	[<i>He exits.</i>]
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Now Winchester will not submit, I trow,
 Or be inferior to the proudest peer.
 Humphrey of Gloucester, thou shalt well perceive
@@ -3722,109 +3727,105 @@ That neither in birth or for authority
 The Bishop will be overborne by thee.
 I'll either make thee stoop and bend thy knee,
 Or sack this country with a mutiny.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Charles, Burgundy, Alanson, Bastard,
-Reignier, and Joan la Pucelle, with Soldiers.]
+[<i>Enter Charles, Burgundy, Alanson, Bastard,
+Reignier, and Joan la Pucelle, with Soldiers.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 These news, my lords, may cheer our drooping spirits:
 'Tis said the stout Parisians do revolt
 And turn again unto the warlike French.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Then march to Paris, royal Charles of France,
 And keep not back your powers in dalliance.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Peace be amongst them if they turn to us;
 Else ruin combat with their palaces!
 
-[Enter Scout.]
+[<i>Enter Scout.</i>]
 
-
-SCOUT
+<speaker>SCOUT</speaker>
 Success unto our valiant general,
 And happiness to his accomplices.
 
-CHARLES
+<speaker>CHARLES</speaker>
 What tidings send our scouts? I prithee speak.
 
-SCOUT
+<speaker>SCOUT</speaker>
 The English army that divided was
 Into two parties is now conjoined in one,
 And means to give you battle presently.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Somewhat too sudden, sirs, the warning is,
 But we will presently provide for them.
 
-BURGUNDY
+<speaker>BURGUNDY</speaker>
 I trust the ghost of Talbot is not there.
 Now he is gone, my lord, you need not fear.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Of all base passions, fear is most accursed.
 Command the conquest, Charles, it shall be thine;
 Let Henry fret and all the world repine.
 
-CHARLES
+<speaker>CHARLES</speaker>
 Then on, my lords, and France be fortunate!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Alarum. Excursions. Enter Joan la Pucelle.]
+[<i>Alarum. Excursions. Enter Joan la Pucelle.</i>]
 
-
-PUCELLE
+<speaker>PUCELLE</speaker>
 The Regent conquers and the Frenchmen fly.
 Now help, you charming spells and periapts,
 And you choice spirits that admonish me,
-And give me signs of future accidents.	[Thunder.]
+And give me signs of future accidents.	[<i>Thunder.</i>]
 You speedy helpers, that are substitutes
 Under the lordly monarch of the north,
 Appear, and aid me in this enterprise.
 
-[Enter Fiends.]
+[<i>Enter Fiends.</i>]
 
 This speed and quick appearance argues proof
 Of your accustomed diligence to me.
 Now, you familiar spirits that are culled
 Out of the powerful regions under earth,
 Help me this once, that France may get the field.
-[They walk, and speak not.]
+[<i>They walk, and speak not.</i>]
 O, hold me not with silence overlong!
 Where I was wont to feed you with my blood,
 I'll lop a member off and give it you
 In earnest of a further benefit,
 So you do condescend to help me now.
-[They hang their heads.]
+[<i>They hang their heads.</i>]
 No hope to have redress? My body shall
 Pay recompense if you will grant my suit.
-[They shake their heads.]
+[<i>They shake their heads.</i>]
 Cannot my body nor blood-sacrifice
 Entreat you to your wonted furtherance?
 Then take my soul--my body, soul, and all--
 Before that England give the French the foil.
-[They depart.]
+[<i>They depart.</i>]
 See, they forsake me. Now the time is come
 That France must vail her lofty-plumed crest
 And let her head fall into England's lap.
 My ancient incantations are too weak,
 And hell too strong for me to buckle with.
 Now, France, thy glory droopeth to the dust.
-[She exits.]
+[<i>She exits.</i>]
 
-[Excursions. Burgundy and York fight hand to hand.
+[<i>Excursions. Burgundy and York fight hand to hand.
 Burgundy and the French fly as York and English
-soldiers capture Joan la Pucelle.]
+soldiers capture Joan la Pucelle.</i>]
 
-
-YORK
+<speaker>YORK</speaker>
 Damsel of France, I think I have you fast.
 Unchain your spirits now with spelling charms,
 And try if they can gain your liberty.
@@ -3832,45 +3833,44 @@ A goodly prize, fit for the devil's grace!
 See how the ugly witch doth bend her brows
 As if with Circe she would change my shape.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Changed to a worser shape thou canst not be.
 
-YORK
+<speaker>YORK</speaker>
 O, Charles the Dauphin is a proper man;
 No shape but his can please your dainty eye.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 A plaguing mischief light on Charles and thee,
 And may you both be suddenly surprised
 By bloody hands in sleeping on your beds!
 
-YORK
+<speaker>YORK</speaker>
 Fell banning hag! Enchantress, hold thy tongue.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 I prithee give me leave to curse awhile.
 
-YORK
+<speaker>YORK</speaker>
 Curse, miscreant, when thou com'st to the stake.
-[They exit.]
+[<i>They exit.</i>]
 
-[Alarum. Enter Suffolk with Margaret in his hand.]
+[<i>Alarum. Enter Suffolk with Margaret in his hand.</i>]
 
-
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Be what thou wilt, thou art my prisoner.
-[Gazes on her.]
+[<i>Gazes on her.</i>]
 O fairest beauty, do not fear nor fly,
 For I will touch thee but with reverent hands.
 I kiss these fingers for eternal peace
 And lay them gently on thy tender side.
 Who art thou? Say, that I may honor thee.
 
-MARGARET
+<speaker>MARGARET</speaker>
 Margaret my name, and daughter to a king,
 The King of Naples, whosoe'er thou art.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 An earl I am, and Suffolk am I called.
 Be not offended, nature's miracle;
 Thou art allotted to be ta'en by me.
@@ -3878,8 +3878,9 @@ So doth the swan her downy cygnets save,
 Keeping them prisoner underneath her wings.
 Yet if this servile usage once offend,
 Go and be free again as Suffolk's friend.
-[She is going.]
-O, stay! [(Aside.)] I have no power to let her pass.
+[<i>She is going.</i>]
+O, stay! [<i>(Aside.)</i>]
+I have no power to let her pass.
 My hand would free her, but my heart says no.
 As plays the sun upon the glassy streams,
 Twinkling another counterfeited beam,
@@ -3892,52 +3893,62 @@ Wilt thou be daunted at a woman's sight?
 Ay. Beauty's princely majesty is such
 Confounds the tongue and makes the senses rough.
 
-MARGARET
+<speaker>MARGARET</speaker>
 Say, Earl of Suffolk, if thy name be so,
 What ransom must I pay before I pass?
 For I perceive I am thy prisoner.
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 How canst thou tell she will deny thy suit
 Before thou make a trial of her love?
 
-MARGARET
+<speaker>MARGARET</speaker>
 Why speak'st thou not? What ransom must I pay?
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 She's beautiful, and therefore to be wooed;
 She is a woman, therefore to be won.
 
-MARGARET
+<speaker>MARGARET</speaker>
 Wilt thou accept of ransom, yea or no?
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 Fond man, remember that thou hast a wife;
 Then how can Margaret be thy paramour?
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 I were best to leave him, for he will not hear.
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 There all is marred; there lies a cooling card.
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 He talks at random; sure the man is mad.
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 And yet a dispensation may be had.
 
-MARGARET
+<speaker>MARGARET</speaker>
 And yet I would that you would answer me.
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 I'll win this Lady Margaret. For whom?
 Why, for my king. Tush, that's a wooden thing!
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 He talks of wood. It is some carpenter.
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 Yet so my fancy may be satisfied,
 And peace established between these realms.
 But there remains a scruple in that, too;
@@ -3945,95 +3956,104 @@ For though her father be the King of Naples,
 Duke of Anjou and Maine, yet is he poor,
 And our nobility will scorn the match.
 
-MARGARET
+<speaker>MARGARET</speaker>
 Hear you, captain? Are you not at leisure?
 
-<b>SUFFOLK,</b> [aside]
+<speaker>SUFFOLK,</speaker>
+[<i>aside</i>]
 It shall be so, disdain they ne'er so much.
 Henry is youthful, and will quickly yield.--
 Madam, I have a secret to reveal.
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 What though I be enthralled, he seems a knight,
 And will not any way dishonor me.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Lady, vouchsafe to listen what I say.
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 Perhaps I shall be rescued by the French,
 And then I need not crave his courtesy.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Sweet madam, give me hearing in a cause.
 
-<b>MARGARET,</b> [aside]
+<speaker>MARGARET,</speaker>
+[<i>aside</i>]
 Tush, women have been captivate ere now.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Lady, wherefore talk you so?
 
-MARGARET
+<speaker>MARGARET</speaker>
 I cry you mercy, 'tis but quid for quo.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Say, gentle princess, would you not suppose
 Your bondage happy, to be made a queen?
 
-MARGARET
+<speaker>MARGARET</speaker>
 To be a queen in bondage is more vile
 Than is a slave in base servility,
 For princes should be free.
 
-SUFFOLK  And so shall you,
+<speaker>SUFFOLK</speaker>
+And so shall you,
 If happy England's royal king be free.
 
-MARGARET
+<speaker>MARGARET</speaker>
 Why, what concerns his freedom unto me?
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 I'll undertake to make thee Henry's queen,
 To put a golden scepter in thy hand
 And set a precious crown upon thy head,
 If thou wilt condescend to be my--
 
-MARGARET  What?
+<speaker>MARGARET</speaker>
+What?
 
-SUFFOLK  His love.
+<speaker>SUFFOLK</speaker>
+His love.
 
-MARGARET
+<speaker>MARGARET</speaker>
 I am unworthy to be Henry's wife.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 No, gentle madam, I unworthy am
 To woo so fair a dame to be his wife,
 And have no portion in the choice myself.
 How say you, madam? Are you so content?
 
-MARGARET
+<speaker>MARGARET</speaker>
 An if my father please, I am content.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Then call our captains and our colors forth!
-[A Soldier exits.]
+[<i>A Soldier exits.</i>]
 And, madam, at your father's castle walls
 We'll crave a parley to confer with him.
 
-[Enter Captains and Trumpets. Sound a parley.]
-[Enter Reignier on the walls.]
+[<i>Enter Captains and Trumpets. Sound a parley.</i>]
+[<i>Enter Reignier on the walls.</i>]
 
 See, Reignier, see thy daughter prisoner!
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 To whom?
 
-SUFFOLK  To me.
+<speaker>SUFFOLK</speaker>
+To me.
 
-REIGNIER  Suffolk, what remedy?
+<speaker>REIGNIER</speaker>
+Suffolk, what remedy?
 I am a soldier and unapt to weep
 Or to exclaim on Fortune's fickleness.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Yes, there is remedy enough, my lord:
 Consent, and, for thy Honor give consent,
 Thy daughter shall be wedded to my king,
@@ -4041,33 +4061,33 @@ Whom I with pain have wooed and won thereto;
 And this her easy-held imprisonment
 Hath gained thy daughter princely liberty.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Speaks Suffolk as he thinks?
 
-SUFFOLK  Fair Margaret knows
+<speaker>SUFFOLK</speaker>
+Fair Margaret knows
 That Suffolk doth not flatter, face, or feign.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Upon thy princely warrant, I descend
 To give thee answer of thy just demand.
-[He exits from the walls.]
+[<i>He exits from the walls.</i>]
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 And here I will expect thy coming.
 
-[Trumpets sound. Enter Reignier, below.]
+[<i>Trumpets sound. Enter Reignier, below.</i>]
 
-
-REIGNIER
+<speaker>REIGNIER</speaker>
 Welcome, brave earl, into our territories.
 Command in Anjou what your Honor pleases.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Thanks, Reignier, happy for so sweet a child,
 Fit to be made companion with a king.
 What answer makes your Grace unto my suit?
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 Since thou dost deign to woo her little worth
 To be the princely bride of such a lord,
 Upon condition I may quietly
@@ -4075,59 +4095,63 @@ Enjoy mine own, the country Maine and Anjou,
 Free from oppression or the stroke of war,
 My daughter shall be Henry's, if he please.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 That is her ransom; I deliver her,
 And those two counties I will undertake
 Your Grace shall well and quietly enjoy.
 
-REIGNIER
+<speaker>REIGNIER</speaker>
 And I, again in Henry's royal name
 As deputy unto that gracious king,
 Give thee her hand for sign of plighted faith.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Reignier of France, I give thee kingly thanks
 Because this is in traffic of a king.
-[Aside.] And yet methinks I could be well content
+[<i>Aside.</i>]
+And yet methinks I could be well content
 To be mine own attorney in this case.--
 I'll over then to England with this news,
 And make this marriage to be solemnized.
 So farewell, Reignier; set this diamond safe
 In golden palaces, as it becomes.
 
-<b>REIGNIER,</b> [embracing Suffolk]
+<speaker>REIGNIER,</speaker>
+[<i>embracing Suffolk</i>]
 I do embrace thee, as I would embrace
 The Christian prince King Henry, were he here.
 
-<b>MARGARET,</b> [to Suffolk]
+<speaker>MARGARET,</speaker>
+[<i>to Suffolk</i>]
 Farewell, my lord; good wishes, praise, and prayers
 Shall Suffolk ever have of Margaret.
-[She is going, as Reignier exits.]
+[<i>She is going, as Reignier exits.</i>]
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Farewell, sweet madam. But, hark you, Margaret,
 No princely commendations to my king?
 
-MARGARET
+<speaker>MARGARET</speaker>
 Such commendations as becomes a maid,
 A virgin, and his servant, say to him.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Words sweetly placed and modestly directed.
 But, madam, I must trouble you again:
 No loving token to his Majesty?
 
-MARGARET
+<speaker>MARGARET</speaker>
 Yes, my good lord: a pure unspotted heart,
 Never yet taint with love, I send the King.
 
-SUFFOLK  And this withal.	[Kiss her.]
+<speaker>SUFFOLK</speaker>
+And this withal. [<i>Kiss her.</i>]
 
-MARGARET
+<speaker>MARGARET</speaker>
 That for thyself. I will not so presume
-To send such peevish tokens to a king.	[She exits.]
+To send such peevish tokens to a king.	[<i>She exits.</i>]
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 O, wert thou for myself! But, Suffolk, stay.
 Thou mayst not wander in that labyrinth.
 There Minotaurs and ugly treasons lurk.
@@ -4137,53 +4161,52 @@ And natural graces that extinguish art;
 Repeat their semblance often on the seas,
 That, when thou com'st to kneel at Henry's feet,
 Thou mayst bereave him of his wits with wonder.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter York, Warwick, Shepherd,
-and Pucelle, guarded.]
+[<i>Enter York, Warwick, Shepherd,
+and Pucelle, guarded.</i>]
 
-
-YORK
+<speaker>YORK</speaker>
 Bring forth that sorceress condemned to burn.
 
-SHEPHERD
+<speaker>SHEPHERD</speaker>
 Ah, Joan, this kills thy father's heart outright.
 Have I sought every country far and near,
 And, now it is my chance to find thee out,
 Must I behold thy timeless cruel death?
 Ah, Joan, sweet daughter Joan, I'll die with thee.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Decrepit miser, base ignoble wretch!
 I am descended of a gentler blood.
 Thou art no father nor no friend of mine.
 
-SHEPHERD
+<speaker>SHEPHERD</speaker>
 Out, out!--My lords, an please you, 'tis not so!
 I did beget her, all the parish knows;
 Her mother liveth yet, can testify
 She was the first fruit of my bach'lorship.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Graceless, wilt thou deny thy parentage?
 
-YORK
+<speaker>YORK</speaker>
 This argues what her kind of life hath been,
 Wicked and vile; and so her death concludes.
 
-SHEPHERD
+<speaker>SHEPHERD</speaker>
 Fie, Joan, that thou wilt be so obstacle!
 God knows thou art a collop of my flesh,
 And for thy sake have I shed many a tear.
 Deny me not, I prithee, gentle Joan.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Peasant, avaunt!--You have suborned this man
 Of purpose to obscure my noble birth.
 
-SHEPHERD
+<speaker>SHEPHERD</speaker>
 'Tis true, I gave a noble to the priest
 The morn that I was wedded to her mother.--
 Kneel down and take my blessing, good my girl.
@@ -4195,13 +4218,13 @@ Had been a little ratsbane for thy sake!
 Or else, when thou didst keep my lambs afield,
 I wish some ravenous wolf had eaten thee!
 Dost thou deny thy father, cursed drab?
-O burn her, burn her! Hanging is too good.	[He exits.]
+O burn her, burn her! Hanging is too good.	[<i>He exits.</i>]
 
-YORK
+<speaker>YORK</speaker>
 Take her away, for she hath lived too long
 To fill the world with vicious qualities.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 First, let me tell you whom you have condemned:
 Not one begotten of a shepherd swain,
 But issued from the progeny of kings,
@@ -4221,16 +4244,16 @@ Chaste and immaculate in very thought,
 Whose maiden blood, thus rigorously effused,
 Will cry for vengeance at the gates of heaven.
 
-YORK
+<speaker>YORK</speaker>
 Ay, ay.--Away with her to execution.
 
-WARWICK
+<speaker>WARWICK</speaker>
 And hark you, sirs: because she is a maid,
 Spare for no faggots; let there be enow.
 Place barrels of pitch upon the fatal stake
 That so her torture may be shortened.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Will nothing turn your unrelenting hearts?
 Then, Joan, discover thine infirmity,
 That warranteth by law to be thy privilege:
@@ -4238,66 +4261,66 @@ I am with child, you bloody homicides.
 Murder not then the fruit within my womb,
 Although you hale me to a violent death.
 
-YORK
+<speaker>YORK</speaker>
 Now heaven forfend, the holy maid with child?
 
-<b>WARWICK,</b> [to Pucelle]
+<speaker>WARWICK,</speaker>
+[<i>to Pucelle</i>]
 The greatest miracle that e'er you wrought!
 Is all your strict preciseness come to this?
 
-YORK
+<speaker>YORK</speaker>
 She and the Dauphin have been juggling.
 I did imagine what would be her refuge.
 
-WARWICK
+<speaker>WARWICK</speaker>
 Well, go to, we'll have no bastards live,
 Especially since Charles must father it.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 You are deceived; my child is none of his.
 It was Alanson that enjoyed my love.
 
-YORK
+<speaker>YORK</speaker>
 Alanson, that notorious Machiavel?
 It dies an if it had a thousand lives!
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 O, give me leave! I have deluded you.
 'Twas neither Charles nor yet the Duke I named,
 But Reignier, King of Naples, that prevailed.
 
-WARWICK
+<speaker>WARWICK</speaker>
 A married man? That's most intolerable.
 
-YORK
+<speaker>YORK</speaker>
 Why, here's a girl! I think she knows not well--
 There were so many--whom she may accuse.
 
-WARWICK
+<speaker>WARWICK</speaker>
 It's sign she hath been liberal and free.
 
-YORK
+<speaker>YORK</speaker>
 And yet, forsooth, she is a virgin pure!--
 Strumpet, thy words condemn thy brat and thee.
 Use no entreaty, for it is in vain.
 
-PUCELLE
+<speaker>PUCELLE</speaker>
 Then lead me hence, with whom I leave my curse:
 May never glorious sun reflex his beams
 Upon the country where you make abode,
 But darkness and the gloomy shade of death
 Environ you, till mischief and despair
 Drive you to break your necks or hang yourselves.
-[She exits, led by Guards.]
+[<i>She exits, led by Guards.</i>]
 
-YORK
+<speaker>YORK</speaker>
 Break thou in pieces, and consume to ashes,
 Thou foul accursed minister of hell!
 
-[Enter Winchester, as Cardinal.]
+[<i>Enter Winchester, as Cardinal.</i>]
 
-
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Lord Regent, I do greet your Excellence
 With letters of commission from the King.
 For know, my lords, the states of Christendom,
@@ -4307,7 +4330,7 @@ Betwixt our nation and the aspiring French;
 And here at hand the Dauphin and his train
 Approacheth to confer about some matter.
 
-YORK
+<speaker>YORK</speaker>
 Is all our travail turned to this effect?
 After the slaughter of so many peers,
 So many captains, gentlemen, and soldiers
@@ -4320,27 +4343,26 @@ Our great progenitors had conquered?
 O, Warwick, Warwick, I foresee with grief
 The utter loss of all the realm of France!
 
-WARWICK
+<speaker>WARWICK</speaker>
 Be patient, York; if we conclude a peace
 It shall be with such strict and severe covenants
 As little shall the Frenchmen gain thereby.
 
-[Enter Charles, Alanson, Bastard,
-Reignier, with Attendants.]
+[<i>Enter Charles, Alanson, Bastard,
+Reignier, with Attendants.</i>]
 
-
-CHARLES
+<speaker>CHARLES</speaker>
 Since, lords of England, it is thus agreed
 That peaceful truce shall be proclaimed in France,
 We come to be informed by yourselves
 What the conditions of that league must be.
 
-YORK
+<speaker>YORK</speaker>
 Speak, Winchester, for boiling choler chokes
 The hollow passage of my poisoned voice
 By sight of these our baleful enemies.
 
-WINCHESTER
+<speaker>WINCHESTER</speaker>
 Charles and the rest, it is enacted thus:
 That, in regard King Henry gives consent,
 Of mere compassion and of lenity,
@@ -4352,14 +4374,14 @@ To pay him tribute and submit thyself,
 Thou shalt be placed as viceroy under him,
 And still enjoy thy regal dignity.
 
-ALANSON
+<speaker>ALANSON</speaker>
 Must he be then as shadow of himself--
 Adorn his temples with a coronet,
 And yet, in substance and authority,
 Retain but privilege of a private man?
 This proffer is absurd and reasonless.
 
-CHARLES
+<speaker>CHARLES</speaker>
 'Tis known already that I am possessed
 With more than half the Gallian territories,
 And therein reverenced for their lawful king.
@@ -4370,7 +4392,7 @@ No, lord ambassador, I'll rather keep
 That which I have than, coveting for more,
 Be cast from possibility of all.
 
-YORK
+<speaker>YORK</speaker>
 Insulting Charles, hast thou by secret means
 Used intercession to obtain a league
 And, now the matter grows to compromise,
@@ -4380,13 +4402,15 @@ Of benefit proceeding from our king
 And not of any challenge of desert,
 Or we will plague thee with incessant wars.
 
-<b>REIGNIER,</b> [aside to Charles]
+<speaker>REIGNIER,</speaker>
+[<i>aside to Charles</i>]
 My lord, you do not well in obstinacy
 To cavil in the course of this contract.
 If once it be neglected, ten to one
 We shall not find like opportunity.
 
-<b>ALANSON,</b> [aside to Charles]
+<speaker>ALANSON,</speaker>
+[<i>aside to Charles</i>]
 To say the truth, it is your policy
 To save your subjects from such massacre
 And ruthless slaughters as are daily seen
@@ -4394,32 +4418,31 @@ By our proceeding in hostility;
 And therefore take this compact of a truce
 Although you break it when your pleasure serves.
 
-WARWICK
+<speaker>WARWICK</speaker>
 How say'st thou, Charles? Shall our condition stand?
 
-CHARLES
+<speaker>CHARLES</speaker>
 It shall--only reserved you claim no interest
 In any of our towns of garrison.
 
-YORK
+<speaker>YORK</speaker>
 Then swear allegiance to his Majesty,
 As thou art knight, never to disobey
 Nor be rebellious to the crown of England,
 Thou nor thy nobles, to the crown of England.
-[Charles, Alanson, Bastard, and Reignier
-swear allegiance to Henry.]
+[<i>Charles, Alanson, Bastard, and Reignier
+swear allegiance to Henry.</i>]
 So, now dismiss your army when you please;
 Hang up your ensigns, let your drums be still,
 For here we entertain a solemn peace.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Suffolk in conference with the King,
-Gloucester, and Exeter, with Attendants.]
+[<i>Enter Suffolk in conference with the King,
+Gloucester, and Exeter, with Attendants.</i>]
 
-
-KING HENRY
+<speaker>KING HENRY</speaker>
 Your wondrous rare description, noble earl,
 Of beauteous Margaret hath astonished me.
 Her virtues graced with external gifts
@@ -4430,7 +4453,7 @@ So am I driven by breath of her renown
 Either to suffer shipwrack, or arrive
 Where I may have fruition of her love.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Tush, my good lord, this superficial tale
 Is but a preface of her worthy praise.
 The chief perfections of that lovely dame,
@@ -4444,19 +4467,19 @@ She is content to be at your command--
 Command, I mean, of virtuous chaste intents--
 To love and honor Henry as her lord.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 And otherwise will Henry ne'er presume.--
 Therefore, my Lord Protector, give consent
 That Margaret may be England's royal queen.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 So should I give consent to flatter sin.
 You know, my lord, your Highness is betrothed
 Unto another lady of esteem.
 How shall we then dispense with that contract
 And not deface your honor with reproach?
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 As doth a ruler with unlawful oaths;
 Or one that, at a triumph having vowed
 To try his strength, forsaketh yet the lists
@@ -4464,27 +4487,27 @@ By reason of his adversary's odds.
 A poor earl's daughter is unequal odds,
 And therefore may be broke without offense.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Why, what, I pray, is Margaret more than that?
 Her father is no better than an earl,
 Although in glorious titles he excel.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Yes, my lord, her father is a king,
 The King of Naples and Jerusalem,
 And of such great authority in France
 As his alliance will confirm our peace,
 And keep the Frenchmen in allegiance.
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 And so the Earl of Armagnac may do,
 Because he is near kinsman unto Charles.
 
-EXETER
+<speaker>EXETER</speaker>
 Besides, his wealth doth warrant a liberal dower,
 Where Reignier sooner will receive than give.
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 A dower, my lords? Disgrace not so your king
 That he should be so abject, base, and poor,
 To choose for wealth and not for perfect love.
@@ -4517,7 +4540,7 @@ As is fair Margaret he be linked in love.
 Then yield, my lords, and here conclude with me
 That Margaret shall be queen, and none but she.
 
-KING HENRY
+<speaker>KING HENRY</speaker>
 Whether it be through force of your report,
 My noble Lord of Suffolk, or for that
 My tender youth was never yet attaint
@@ -4541,18 +4564,18 @@ Not what you are, I know it will excuse
 This sudden execution of my will.
 And so conduct me where, from company,
 I may revolve and ruminate my grief.
-[He exits with Attendants.]
+[<i>He exits with Attendants.</i>]
 
-GLOUCESTER
+<speaker>GLOUCESTER</speaker>
 Ay, grief, I fear me, both at first and last.
-[Gloucester exits with Exeter.]
+[<i>Gloucester exits with Exeter.</i>]
 
-SUFFOLK
+<speaker>SUFFOLK</speaker>
 Thus Suffolk hath prevailed, and thus he goes
 As did the youthful Paris once to Greece,
 With hope to find the like event in love,
 But prosper better than the Trojan did.
 Margaret shall now be queen, and rule the King,
 But I will rule both her, the King, and realm.
-[He exits.]
+[<i>He exits.</i>]
 `;

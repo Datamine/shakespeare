@@ -274,6 +274,11 @@ body {
     border-top: 1px solid #ddd;
 }
 
+.text-content speaker {
+    font-size: 0.9em;
+    color: #666;
+}
+
 .white-pane {
     flex: 1;
     background-color: white;
@@ -363,5 +368,6 @@ body {
     user-select: none;
     position: absolute;
     left: 0.5rem;
-    margin-top: 0.25em;
+    margin-top: 0.4em;
+    vertical-align: bottom;
 }

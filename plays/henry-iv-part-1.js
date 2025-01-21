@@ -1,49 +1,46 @@
-export const text = `Henry IV, Part I
+export const credits = `Henry IV, Part I
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-iv-part-1/
-Created on Jul 31, 2015, from FDT version 0.9.2
+Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-Characters in the Play
+export const text = `Characters in the Play
 <hr>
-<b>KING HENRY IV,</b> formerly Henry Bolingbroke
-<b>PRINCE HAL,</b> Prince of Wales and heir to the throne (also called Harry and Harry Monmouth)
-<b>LORD JOHN OF LANCASTER,</b> younger son of King Henry
+KING HENRY IV, formerly Henry Bolingbroke
+PRINCE HAL, Prince of Wales and heir to the throne (also called Harry and Harry Monmouth)
+LORD JOHN OF LANCASTER, younger son of King Henry
 EARL OF WESTMORELAND
 SIR WALTER BLUNT
 HOTSPUR (Sir Henry, or Harry, Percy)
 LADY PERCY (also called Kate)
-<b>EARL OF NORTHUMBERLAND,</b> Henry Percy, Hotspur's father
-<b>EARL OF WORCESTER,</b> Thomas Percy, Hotspur's uncle
-<b>EDMUND MORTIMER,</b> earl of March
+EARL OF NORTHUMBERLAND, Henry Percy, Hotspur's father
+EARL OF WORCESTER, Thomas Percy, Hotspur's uncle
+EDMUND MORTIMER, earl of March
 LADY MORTIMER (also called "the Welsh lady")
-<b>OWEN GLENDOWER,</b> a Welsh lord, father of Lady Mortimer
+OWEN GLENDOWER, a Welsh lord, father of Lady Mortimer
 DOUGLAS (Archibald, earl of Douglas)
 ARCHBISHOP (Richard Scroop, archbishop of York)
-<b>SIR MICHAEL,</b> a priest or knight associated with the archbishop
-<b>SIR RICHARD VERNON,</b> an English knight
+SIR MICHAEL, a priest or knight associated with the archbishop
+SIR RICHARD VERNON, an English knight
 SIR JOHN FALSTAFF
 POINS (also called Edward, Yedward, and Ned)
 BARDOLPH
 PETO
-<b>GADSHILL,</b> setter for the robbers
+GADSHILL, setter for the robbers
 HOSTESS of the tavern (also called Mistress Quickly)
-<b>VINTNER,</b> or keeper of the tavern
-<b>FRANCIS,</b> an apprentice tapster
+VINTNER, or keeper of the tavern
+FRANCIS, an apprentice tapster
 Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers
 
-
 <b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter the King, Lord John of Lancaster, and the Earl
-of Westmoreland, with others.]
+[<i>Enter the King, Lord John of Lancaster, and the Earl
+of Westmoreland, with others.</i>]
 
-
-KING
+<speaker>KING</speaker>
 So shaken as we are, so wan with care,
 Find we a time for frighted peace to pant
 And breathe short-winded accents of new broils
@@ -78,7 +75,7 @@ Of you, my gentle cousin Westmoreland,
 What yesternight our council did decree
 In forwarding this dear expedience.
 
-WESTMORELAND
+<speaker>WESTMORELAND</speaker>
 My liege, this haste was hot in question,
 And many limits of the charge set down
 But yesternight, when all athwart there came
@@ -93,11 +90,11 @@ Such beastly shameless transformation
 By those Welshwomen done, as may not be
 Without much shame retold or spoken of.
 
-KING
+<speaker>KING</speaker>
 It seems then that the tidings of this broil
 Brake off our business for the Holy Land.
 
-WESTMORELAND
+<speaker>WESTMORELAND</speaker>
 This matched with other did, my gracious lord.
 For more uneven and unwelcome news
 Came from the north, and thus it did import:
@@ -112,7 +109,7 @@ For he that brought them, in the very heat
 And pride of their contention did take horse,
 Uncertain of the issue any way.
 
-KING
+<speaker>KING</speaker>
 Here is a dear, a true-industrious friend,
 Sir Walter Blunt, new lighted from his horse,
 Stained with the variation of each soil
@@ -128,10 +125,10 @@ Of Murray, Angus, and Menteith.
 And is not this an honorable spoil?
 A gallant prize? Ha, cousin, is it not?
 
-WESTMORELAND
+<speaker>WESTMORELAND</speaker>
 In faith, it is a conquest for a prince to boast of.
 
-KING
+<speaker>KING</speaker>
 Yea, there thou mak'st me sad, and mak'st me sin
 In envy that my Lord Northumberland
 Should be the father to so blest a son,
@@ -151,13 +148,13 @@ Which he in this adventure hath surprised
 To his own use he keeps, and sends me word
 I shall have none but Mordake, Earl of Fife.
 
-WESTMORELAND
+<speaker>WESTMORELAND</speaker>
 This is his uncle's teaching. This is Worcester,
 Malevolent to you in all aspects,
 Which makes him prune himself, and bristle up
 The crest of youth against your dignity.
 
-KING
+<speaker>KING</speaker>
 But I have sent for him to answer this.
 And for this cause awhile we must neglect
 Our holy purpose to Jerusalem.
@@ -167,17 +164,19 @@ But come yourself with speed to us again,
 For more is to be said and to be done
 Than out of anger can be uttered.
 
-WESTMORELAND  I will, my liege.
-[They exit.]
+<speaker>WESTMORELAND</speaker>
+I will, my liege.
+[<i>They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Prince of Wales, and Sir John Falstaff.]
+[<i>Enter Prince of Wales, and Sir John Falstaff.</i>]
 
+<speaker>FALSTAFF</speaker>
+Now, Hal, what time of day is it, lad?
 
-FALSTAFF  Now, Hal, what time of day is it, lad?
-
-PRINCE  Thou art so fat-witted with drinking of old
+<speaker>PRINCE</speaker>
+Thou art so fat-witted with drinking of old
 sack, and unbuttoning thee after supper, and
 sleeping upon benches after noon, that thou hast
 forgotten to demand that truly which thou wouldst
@@ -190,21 +189,26 @@ flame-colored taffeta, I see no reason why thou
 shouldst be so superfluous to demand the time
 of the day.
 
-FALSTAFF  Indeed, you come near me now, Hal, for we
+<speaker>FALSTAFF</speaker>
+Indeed, you come near me now, Hal, for we
 that take purses go by the moon and the seven
 stars, and not by Phoebus, he, that wand'ring
 knight so fair. And I prithee, sweet wag, when thou
 art king, as God save thy Grace--Majesty, I should
 say, for grace thou wilt have none--
 
-PRINCE  What, none?
+<speaker>PRINCE</speaker>
+What, none?
 
-FALSTAFF  No, by my troth, not so much as will serve to
+<speaker>FALSTAFF</speaker>
+No, by my troth, not so much as will serve to
 be prologue to an egg and butter.
 
-PRINCE  Well, how then? Come, roundly, roundly.
+<speaker>PRINCE</speaker>
+Well, how then? Come, roundly, roundly.
 
-FALSTAFF  Marry then, sweet wag, when thou art king,
+<speaker>FALSTAFF</speaker>
+Marry then, sweet wag, when thou art king,
 let not us that are squires of the night's body be
 called thieves of the day's beauty. Let us be Diana's
 foresters, gentlemen of the shade, minions of the
@@ -213,7 +217,8 @@ being governed, as the sea is, by our noble
 and chaste mistress the moon, under whose countenance
 we steal.
 
-PRINCE  Thou sayest well, and it holds well too, for the
+<speaker>PRINCE</speaker>
+Thou sayest well, and it holds well too, for the
 fortune of us that are the moon's men doth ebb and
 flow like the sea, being governed, as the sea is, by
 the moon. As for proof now: a purse of gold most
@@ -224,33 +229,42 @@ in"; now in as low an ebb as the foot of the ladder,
 and by and by in as high a flow as the ridge of the
 gallows.
 
-FALSTAFF  By the Lord, thou sayst true, lad. And is not
+<speaker>FALSTAFF</speaker>
+By the Lord, thou sayst true, lad. And is not
 my hostess of the tavern a most sweet wench?
 
-PRINCE  As the honey of Hybla, my old lad of the castle.
+<speaker>PRINCE</speaker>
+As the honey of Hybla, my old lad of the castle.
 And is not a buff jerkin a most sweet robe of
 durance?
 
-FALSTAFF  How now, how now, mad wag? What, in thy
+<speaker>FALSTAFF</speaker>
+How now, how now, mad wag? What, in thy
 quips and thy quiddities? What a plague have I to
 do with a buff jerkin?
 
-PRINCE  Why, what a pox have I to do with my hostess
+<speaker>PRINCE</speaker>
+Why, what a pox have I to do with my hostess
 of the tavern?
 
-FALSTAFF  Well, thou hast called her to a reckoning
+<speaker>FALSTAFF</speaker>
+Well, thou hast called her to a reckoning
 many a time and oft.
 
-PRINCE  Did I ever call for thee to pay thy part?
+<speaker>PRINCE</speaker>
+Did I ever call for thee to pay thy part?
 
-FALSTAFF  No, I'll give thee thy due. Thou hast paid all
+<speaker>FALSTAFF</speaker>
+No, I'll give thee thy due. Thou hast paid all
 there.
 
-PRINCE  Yea, and elsewhere, so far as my coin would
+<speaker>PRINCE</speaker>
+Yea, and elsewhere, so far as my coin would
 stretch, and where it would not, I have used my
 credit.
 
-FALSTAFF  Yea, and so used it that were it not here
+<speaker>FALSTAFF</speaker>
+Yea, and so used it that were it not here
 apparent that thou art heir apparent--But I prithee,
 sweet wag, shall there be gallows standing in
 England when thou art king? And resolution thus
@@ -258,33 +272,43 @@ fubbed as it is with the rusty curb of old father Antic
 the law? Do not thou, when thou art king, hang a
 thief.
 
-PRINCE  No, thou shalt.
+<speaker>PRINCE</speaker>
+No, thou shalt.
 
-FALSTAFF  Shall I? O rare! By the Lord, I'll be a brave
+<speaker>FALSTAFF</speaker>
+Shall I? O rare! By the Lord, I'll be a brave
 judge.
 
-PRINCE  Thou judgest false already. I mean thou shalt
+<speaker>PRINCE</speaker>
+Thou judgest false already. I mean thou shalt
 have the hanging of the thieves, and so become a
 rare hangman.
 
-FALSTAFF  Well, Hal, well, and in some sort it jumps
+<speaker>FALSTAFF</speaker>
+Well, Hal, well, and in some sort it jumps
 with my humor as well as waiting in the court, I
 can tell you.
 
-PRINCE  For obtaining of suits?
+<speaker>PRINCE</speaker>
+For obtaining of suits?
 
-FALSTAFF  Yea, for obtaining of suits, whereof the hangman
+<speaker>FALSTAFF</speaker>
+Yea, for obtaining of suits, whereof the hangman
 hath no lean wardrobe. 'Sblood, I am as
 melancholy as a gib cat or a lugged bear.
 
-PRINCE  Or an old lion, or a lover's lute.
+<speaker>PRINCE</speaker>
+Or an old lion, or a lover's lute.
 
-FALSTAFF  Yea, or the drone of a Lincolnshire bagpipe.
+<speaker>FALSTAFF</speaker>
+Yea, or the drone of a Lincolnshire bagpipe.
 
-PRINCE  What sayest thou to a hare, or the melancholy
+<speaker>PRINCE</speaker>
+What sayest thou to a hare, or the melancholy
 of Moorditch?
 
-FALSTAFF  Thou hast the most unsavory similes, and
+<speaker>FALSTAFF</speaker>
+Thou hast the most unsavory similes, and
 art indeed the most comparative, rascaliest, sweet
 young prince. But, Hal, I prithee trouble me no
 more with vanity. I would to God thou and I knew
@@ -295,10 +319,12 @@ him not, and yet he talked very wisely, but I
 regarded him not, and yet he talked wisely, and in
 the street, too.
 
-PRINCE  Thou didst well, for wisdom cries out in the
+<speaker>PRINCE</speaker>
+Thou didst well, for wisdom cries out in the
 streets and no man regards it.
 
-<b>FALSTAFF  O,</b> thou hast damnable iteration, and art
+<speaker>FALSTAFF</speaker>
+O, thou hast damnable iteration, and art
 indeed able to corrupt a saint. Thou hast done
 much harm upon me, Hal, God forgive thee for it.
 Before I knew thee, Hal, I knew nothing, and now
@@ -308,18 +334,22 @@ will give it over. By the Lord, an I do not, I am a
 villain. I'll be damned for never a king's son in
 Christendom.
 
-PRINCE  Where shall we take a purse tomorrow, Jack?
+<speaker>PRINCE</speaker>
+Where shall we take a purse tomorrow, Jack?
 
-FALSTAFF  Zounds, where thou wilt, lad. I'll make one.
+<speaker>FALSTAFF</speaker>
+Zounds, where thou wilt, lad. I'll make one.
 An I do not, call me villain and baffle me.
 
-PRINCE  I see a good amendment of life in thee, from
+<speaker>PRINCE</speaker>
+I see a good amendment of life in thee, from
 praying to purse-taking.
 
-FALSTAFF  Why, Hal, 'tis my vocation, Hal. 'Tis no sin
+<speaker>FALSTAFF</speaker>
+Why, Hal, 'tis my vocation, Hal. 'Tis no sin
 for a man to labor in his vocation.
 
-[Enter Poins.]
+[<i>Enter Poins.</i>]
 
 Poins!--Now shall we know if Gadshill have set a
 match. O, if men were to be saved by merit, what
@@ -327,25 +357,32 @@ hole in hell were hot enough for him? This is the
 most omnipotent villain that ever cried "Stand!" to
 a true man.
 
-PRINCE  Good morrow, Ned.
+<speaker>PRINCE</speaker>
+Good morrow, Ned.
 
-POINS  Good morrow, sweet Hal.--What says Monsieur
+<speaker>POINS</speaker>
+Good morrow, sweet Hal.--What says Monsieur
 Remorse? What says Sir John Sack-and-Sugar?
 Jack, how agrees the devil and thee about
 thy soul that thou soldest him on Good Friday last
 for a cup of Madeira and a cold capon's leg?
 
-PRINCE  Sir John stands to his word. The devil shall
+<speaker>PRINCE</speaker>
+Sir John stands to his word. The devil shall
 have his bargain, for he was never yet a breaker of
 proverbs. He will give the devil his due.
 
-<b>POINS,</b> [to Falstaff]  Then art thou damned for keeping
+<speaker>POINS,</speaker>
+[<i>to Falstaff</i>]
+Then art thou damned for keeping
 thy word with the devil.
 
-PRINCE  Else he had been damned for cozening the
+<speaker>PRINCE</speaker>
+Else he had been damned for cozening the
 devil.
 
-POINS  But, my lads, my lads, tomorrow morning, by
+<speaker>POINS</speaker>
+But, my lads, my lads, tomorrow morning, by
 four o'clock early at Gad's Hill, there are pilgrims
 going to Canterbury with rich offerings, and traders
 riding to London with fat purses. I have vizards for
@@ -356,36 +393,48 @@ sleep. If you will go, I will stuff your purses full of
 crowns. If you will not, tarry at home and be
 hanged.
 
-FALSTAFF  Hear you, Yedward, if I tarry at home and
+<speaker>FALSTAFF</speaker>
+Hear you, Yedward, if I tarry at home and
 go not, I'll hang you for going.
 
-POINS  You will, chops?
+<speaker>POINS</speaker>
+You will, chops?
 
-FALSTAFF  Hal, wilt thou make one?
+<speaker>FALSTAFF</speaker>
+Hal, wilt thou make one?
 
-PRINCE  Who, I rob? I a thief? Not I, by my faith.
+<speaker>PRINCE</speaker>
+Who, I rob? I a thief? Not I, by my faith.
 
-FALSTAFF  There's neither honesty, manhood, nor
+<speaker>FALSTAFF</speaker>
+There's neither honesty, manhood, nor
 good fellowship in thee, nor thou cam'st not of
 the blood royal, if thou darest not stand for ten
 shillings.
 
-PRINCE  Well then, once in my days I'll be a madcap.
+<speaker>PRINCE</speaker>
+Well then, once in my days I'll be a madcap.
 
-FALSTAFF  Why, that's well said.
+<speaker>FALSTAFF</speaker>
+Why, that's well said.
 
-PRINCE  Well, come what will, I'll tarry at home.
+<speaker>PRINCE</speaker>
+Well, come what will, I'll tarry at home.
 
-FALSTAFF  By the Lord, I'll be a traitor then when thou
+<speaker>FALSTAFF</speaker>
+By the Lord, I'll be a traitor then when thou
 art king.
 
-PRINCE  I care not.
+<speaker>PRINCE</speaker>
+I care not.
 
-POINS  Sir John, I prithee leave the Prince and me
+<speaker>POINS</speaker>
+Sir John, I prithee leave the Prince and me
 alone. I will lay him down such reasons for this
 adventure that he shall go.
 
-FALSTAFF  Well, God give thee the spirit of persuasion,
+<speaker>FALSTAFF</speaker>
+Well, God give thee the spirit of persuasion,
 and him the ears of profiting, that what thou
 speakest may move, and what he hears may be
 believed, that the true prince may, for recreation
@@ -393,10 +442,12 @@ sake, prove a false thief, for the poor abuses of the
 time want countenance. Farewell. You shall find me
 in Eastcheap.
 
-PRINCE  Farewell, thou latter spring. Farewell, Allhallown
-summer.	[Falstaff exits.]
+<speaker>PRINCE</speaker>
+Farewell, thou latter spring. Farewell, Allhallown
+summer.	[<i>Falstaff exits.</i>]
 
-POINS  Now, my good sweet honey lord, ride with us
+<speaker>POINS</speaker>
+Now, my good sweet honey lord, ride with us
 tomorrow. I have a jest to execute that I cannot
 manage alone. Falstaff, Peto, Bardolph, and Gadshill
 shall rob those men that we have already
@@ -404,27 +455,33 @@ waylaid. Yourself and I will not be there. And when
 they have the booty, if you and I do not rob them,
 cut this head off from my shoulders.
 
-PRINCE  How shall we part with them in setting forth?
+<speaker>PRINCE</speaker>
+How shall we part with them in setting forth?
 
-POINS  Why, we will set forth before or after them, and
+<speaker>POINS</speaker>
+Why, we will set forth before or after them, and
 appoint them a place of meeting, wherein it is at our
 pleasure to fail; and then will they adventure upon
 the exploit themselves, which they shall have no
 sooner achieved but we'll set upon them.
 
-PRINCE  Yea, but 'tis like that they will know us by our
+<speaker>PRINCE</speaker>
+Yea, but 'tis like that they will know us by our
 horses, by our habits, and by every other appointment
 to be ourselves.
 
-POINS  Tut, our horses they shall not see; I'll tie them
+<speaker>POINS</speaker>
+Tut, our horses they shall not see; I'll tie them
 in the wood. Our vizards we will change after we
 leave them. And, sirrah, I have cases of buckram
 for the nonce, to immask our noted outward
 garments.
 
-PRINCE  Yea, but I doubt they will be too hard for us.
+<speaker>PRINCE</speaker>
+Yea, but I doubt they will be too hard for us.
 
-POINS  Well, for two of them, I know them to be as
+<speaker>POINS</speaker>
+Well, for two of them, I know them to be as
 true-bred cowards as ever turned back; and for the
 third, if he fight longer than he sees reason, I'll
 forswear arms. The virtue of this jest will be the
@@ -434,13 +491,15 @@ he fought with, what wards, what blows, what
 extremities he endured; and in the reproof of this
 lives the jest.
 
-PRINCE  Well, I'll go with thee. Provide us all things
+<speaker>PRINCE</speaker>
+Well, I'll go with thee. Provide us all things
 necessary and meet me tomorrow night in Eastcheap.
 There I'll sup. Farewell.
 
-POINS  Farewell, my lord.	[Poins exits.]
+<speaker>POINS</speaker>
+Farewell, my lord. [<i>Poins exits.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 I know you all, and will awhile uphold
 The unyoked humor of your idleness.
 Yet herein will I imitate the sun,
@@ -464,15 +523,15 @@ Shall show more goodly and attract more eyes
 Than that which hath no foil to set it off.
 I'll so offend to make offense a skill,
 Redeeming time when men think least I will.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter the King, Northumberland, Worcester, Hotspur,
-and Sir Walter Blunt, with others.]
+[<i>Enter the King, Northumberland, Worcester, Hotspur,
+and Sir Walter Blunt, with others.</i>]
 
-
-<b>KING,</b> [to Northumberland, Worcester, and Hotspur]
+<speaker>KING,</speaker>
+[<i>to Northumberland, Worcester, and Hotspur</i>]
 My blood hath been too cold and temperate,
 Unapt to stir at these indignities,
 And you have found me, for accordingly
@@ -483,15 +542,16 @@ Which hath been smooth as oil, soft as young down,
 And therefore lost that title of respect
 Which the proud soul ne'er pays but to the proud.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Our house, my sovereign liege, little deserves
 The scourge of greatness to be used on it,
 And that same greatness too which our own hands
 Have holp to make so portly.
 
-NORTHUMBERLAND  My lord--
+<speaker>NORTHUMBERLAND</speaker>
+My lord--
 
-KING
+<speaker>KING</speaker>
 Worcester, get thee gone, for I do see
 Danger and disobedience in thine eye.
 O sir, your presence is too bold and peremptory,
@@ -499,10 +559,11 @@ And majesty might never yet endure
 The moody frontier of a servant brow.
 You have good leave to leave us. When we need
 Your use and counsel, we shall send for you.
-[Worcester exits.]
+[<i>Worcester exits.</i>]
 You were about to speak.
 
-NORTHUMBERLAND  Yea, my good lord.
+<speaker>NORTHUMBERLAND</speaker>
+Yea, my good lord.
 Those prisoners in your Highness' name demanded,
 Which Harry Percy here at Holmedon took,
 Were, as he says, not with such strength denied
@@ -510,7 +571,7 @@ As is delivered to your Majesty.
 Either envy, therefore, or misprision
 Is guilty of this fault, and not my son.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 My liege, I did deny no prisoners.
 But I remember, when the fight was done,
 When I was dry with rage and extreme toil,
@@ -554,7 +615,7 @@ And I beseech you, let not his report
 Come current for an accusation
 Betwixt my love and your high Majesty.
 
-BLUNT
+<speaker>BLUNT</speaker>
 The circumstance considered, good my lord,
 Whate'er Lord Harry Percy then had said
 To such a person and in such a place,
@@ -563,7 +624,7 @@ May reasonably die and never rise
 To do him wrong or any way impeach
 What then he said, so he unsay it now.
 
-KING
+<speaker>KING</speaker>
 Why, yet he doth deny his prisoners,
 But with proviso and exception
 That we at our own charge shall ransom straight
@@ -581,7 +642,8 @@ For I shall never hold that man my friend
 Whose tongue shall ask me for one penny cost
 To ransom home revolted Mortimer.
 
-HOTSPUR  Revolted Mortimer!
+<speaker>HOTSPUR</speaker>
+Revolted Mortimer!
 He never did fall off, my sovereign liege,
 But by the chance of war. To prove that true
 Needs no more but one tongue for all those wounds,
@@ -603,7 +665,7 @@ Nor never could the noble Mortimer
 Receive so many, and all willingly.
 Then let not him be slandered with revolt.
 
-KING
+<speaker>KING</speaker>
 Thou dost belie him, Percy; thou dost belie him.
 He never did encounter with Glendower.
 I tell thee, he durst as well have met the devil alone
@@ -615,22 +677,22 @@ Or you shall hear in such a kind from me
 As will displease you.--My lord Northumberland,
 We license your departure with your son.--
 Send us your prisoners, or you will hear of it.
-[King exits with Blunt and others.]
+[<i>King exits with Blunt and others.</i>]
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 An if the devil come and roar for them,
 I will not send them. I will after straight
 And tell him so, for I will ease my heart,
 Albeit I make a hazard of my head.
 
-NORTHUMBERLAND
+<speaker>NORTHUMBERLAND</speaker>
 What, drunk with choler? Stay and pause awhile.
 Here comes your uncle.
 
-[Enter Worcester.]
+[<i>Enter Worcester.</i>]
 
-
-HOTSPUR  Speak of Mortimer?
+<speaker>HOTSPUR</speaker>
+Speak of Mortimer?
 Zounds, I will speak of him, and let my soul
 Want mercy if I do not join with him.
 Yea, on his part I'll empty all these veins
@@ -639,24 +701,24 @@ But I will lift the downtrod Mortimer
 As high in the air as this unthankful king,
 As this ingrate and cankered Bolingbroke.
 
-NORTHUMBERLAND
+<speaker>NORTHUMBERLAND</speaker>
 Brother, the King hath made your nephew mad.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Who struck this heat up after I was gone?
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 He will forsooth have all my prisoners,
 And when I urged the ransom once again
 Of my wife's brother, then his cheek looked pale,
 And on my face he turned an eye of death,
 Trembling even at the name of Mortimer.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 I cannot blame him. Was not he proclaimed
 By Richard, that dead is, the next of blood?
 
-NORTHUMBERLAND
+<speaker>NORTHUMBERLAND</speaker>
 He was; I heard the proclamation.
 And then it was when the unhappy king--
 Whose wrongs in us God pardon!--did set forth
@@ -664,18 +726,19 @@ Upon his Irish expedition;
 From whence he, intercepted, did return
 To be deposed and shortly murdered.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 And for whose death we in the world's wide mouth
 Live scandalized and foully spoken of.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 But soft, I pray you. Did King Richard then
 Proclaim my brother Edmund Mortimer
 Heir to the crown?
 
-NORTHUMBERLAND  He did; myself did hear it.
+<speaker>NORTHUMBERLAND</speaker>
+He did; myself did hear it.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Nay then, I cannot blame his cousin king
 That wished him on the barren mountains starve.
 But shall it be that you that set the crown
@@ -707,7 +770,8 @@ To answer all the debt he owes to you
 Even with the bloody payment of your deaths.
 Therefore I say--
 
-WORCESTER  Peace, cousin, say no more.
+<speaker>WORCESTER</speaker>
+Peace, cousin, say no more.
 And now I will unclasp a secret book,
 And to your quick-conceiving discontents
 I'll read you matter deep and dangerous,
@@ -715,18 +779,19 @@ As full of peril and adventurous spirit
 As to o'erwalk a current roaring loud
 On the unsteadfast footing of a spear.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 If he fall in, good night, or sink or swim!
 Send danger from the east unto the west,
 So honor cross it from the north to south,
 And let them grapple. O, the blood more stirs
 To rouse a lion than to start a hare!
 
-<b>NORTHUMBERLAND,</b> [to Worcester]
+<speaker>NORTHUMBERLAND,</speaker>
+[<i>to Worcester</i>]
 Imagination of some great exploit
 Drives him beyond the bounds of patience.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 By heaven, methinks it were an easy leap
 To pluck bright honor from the pale-faced moon,
 Or dive into the bottom of the deep,
@@ -736,27 +801,31 @@ So he that doth redeem her thence might wear
 Without corrival all her dignities.
 But out upon this half-faced fellowship!
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 He apprehends a world of figures here,
 But not the form of what he should attend.--
 Good cousin, give me audience for a while.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I cry you mercy.
 
-WORCESTER  Those same noble Scots
+<speaker>WORCESTER</speaker>
+Those same noble Scots
 That are your prisoners--
 
-HOTSPUR  I'll keep them all.
+<speaker>HOTSPUR</speaker>
+I'll keep them all.
 By God, he shall not have a Scot of them.
 No, if a Scot would save his soul, he shall not.
 I'll keep them, by this hand!
 
-WORCESTER  You start away
+<speaker>WORCESTER</speaker>
+You start away
 And lend no ear unto my purposes:
 Those prisoners you shall keep--
 
-HOTSPUR  Nay, I will. That's flat!
+<speaker>HOTSPUR</speaker>
+Nay, I will. That's flat!
 He said he would not ransom Mortimer,
 Forbade my tongue to speak of Mortimer.
 But I will find him when he lies asleep,
@@ -765,9 +834,10 @@ Nay, I'll have a starling shall be taught to speak
 Nothing but "Mortimer," and give it him
 To keep his anger still in motion.
 
-WORCESTER  Hear you, cousin, a word.
+<speaker>WORCESTER</speaker>
+Hear you, cousin, a word.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 All studies here I solemnly defy,
 Save how to gall and pinch this Bolingbroke.
 And that same sword-and-buckler Prince of Wales--
@@ -775,16 +845,17 @@ But that I think his father loves him not
 And would be glad he met with some mischance--
 I would have him poisoned with a pot of ale.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Farewell, kinsman. I'll talk to you
 When you are better tempered to attend.
 
-<b>NORTHUMBERLAND,</b> [to Hotspur]
+<speaker>NORTHUMBERLAND,</speaker>
+[<i>to Hotspur</i>]
 Why, what a wasp-stung and impatient fool
 Art thou to break into this woman's mood,
 Tying thine ear to no tongue but thine own!
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Why, look you, I am whipped and scourged with
 rods,
 Nettled and stung with pismires, when I hear
@@ -797,9 +868,11 @@ Unto this king of smiles, this Bolingbroke.
 'Sblood, when you and he came back from
 Ravenspurgh.
 
-NORTHUMBERLAND  At Berkeley Castle.
+<speaker>NORTHUMBERLAND</speaker>
+At Berkeley Castle.
 
-HOTSPUR  You say true.
+<speaker>HOTSPUR</speaker>
+You say true.
 Why, what a candy deal of courtesy
 This fawning greyhound then did proffer me:
 "Look when his infant fortune came to age,"
@@ -807,13 +880,14 @@ And "gentle Harry Percy," and "kind cousin."
 O, the devil take such cozeners!--God forgive me!
 Good uncle, tell your tale. I have done.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Nay, if you have not, to it again.
 We will stay your leisure.
 
-HOTSPUR  I have done, i' faith.
+<speaker>HOTSPUR</speaker>
+I have done, i' faith.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Then once more to your Scottish prisoners:
 Deliver them up without their ransom straight,
 And make the Douglas' son your only mean
@@ -825,9 +899,11 @@ Shall secretly into the bosom creep
 Of that same noble prelate well beloved,
 The Archbishop.
 
-HOTSPUR  Of York, is it not?
+<speaker>HOTSPUR</speaker>
+Of York, is it not?
 
-WORCESTER  True, who bears hard
+<speaker>WORCESTER</speaker>
+True, who bears hard
 His brother's death at Bristol, the Lord Scroop.
 I speak not this in estimation,
 As what I think might be, but what I know
@@ -835,23 +911,24 @@ Is ruminated, plotted, and set down,
 And only stays but to behold the face
 Of that occasion that shall bring it on.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I smell it. Upon my life it will do well.
 
-NORTHUMBERLAND
+<speaker>NORTHUMBERLAND</speaker>
 Before the game is afoot thou still let'st slip.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Why, it cannot choose but be a noble plot.
 And then the power of Scotland and of York
 To join with Mortimer, ha?
 
-WORCESTER  And so they shall.
+<speaker>WORCESTER</speaker>
+And so they shall.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 In faith, it is exceedingly well aimed.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 And 'tis no little reason bids us speed
 To save our heads by raising of a head,
 For bear ourselves as even as we can,
@@ -861,10 +938,10 @@ Till he hath found a time to pay us home.
 And see already how he doth begin
 To make us strangers to his looks of love.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 He does, he does. We'll be revenged on him.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Cousin, farewell. No further go in this
 Than I by letters shall direct your course.
 When time is ripe, which will be suddenly,
@@ -874,112 +951,131 @@ As I will fashion it, shall happily meet
 To bear our fortunes in our own strong arms,
 Which now we hold at much uncertainty.
 
-NORTHUMBERLAND
+<speaker>NORTHUMBERLAND</speaker>
 Farewell, good brother. We shall thrive, I trust.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Uncle, adieu. O, let the hours be short
 Till fields and blows and groans applaud our sport.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
-
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter a Carrier with a lantern in his hand.]
+[<i>Enter a Carrier with a lantern in his hand.</i>]
 
-
-FIRST CARRIER  Heigh-ho! An it be not four by the day,
+<speaker>FIRST CARRIER</speaker>
+Heigh-ho! An it be not four by the day,
 I'll be hanged. Charles's Wain is over the new
 chimney, and yet our horse not packed.--What,
 ostler!
 
-<b>OSTLER,</b> [within]  Anon, anon.
+<speaker>OSTLER,</speaker>
+[<i>within</i>]
+Anon, anon.
 
-FIRST CARRIER  I prithee, Tom, beat Cut's saddle. Put a
+<speaker>FIRST CARRIER</speaker>
+I prithee, Tom, beat Cut's saddle. Put a
 few flocks in the point. Poor jade is wrung in the
 withers out of all cess.
 
-[Enter another Carrier, with a lantern.]
+[<i>Enter another Carrier, with a lantern.</i>]
 
-
-SECOND CARRIER  Peas and beans are as dank here as a
+<speaker>SECOND CARRIER</speaker>
+Peas and beans are as dank here as a
 dog, and that is the next way to give poor jades the
 bots. This house is turned upside down since Robin
 ostler died.
 
-FIRST CARRIER  Poor fellow never joyed since the price
+<speaker>FIRST CARRIER</speaker>
+Poor fellow never joyed since the price
 of oats rose. It was the death of him.
 
-SECOND CARRIER  I think this be the most villainous
+<speaker>SECOND CARRIER</speaker>
+I think this be the most villainous
 house in all London road for fleas. I am stung like a
 tench.
 
-FIRST CARRIER  Like a tench? By the Mass, there is
+<speaker>FIRST CARRIER</speaker>
+Like a tench? By the Mass, there is
 ne'er a king christen could be better bit than I have
 been since the first cock.
 
-SECOND CARRIER  Why, they will allow us ne'er a jordan,
+<speaker>SECOND CARRIER</speaker>
+Why, they will allow us ne'er a jordan,
 and then we leak in your chimney, and your
 chamber-lye breeds fleas like a loach.
 
-FIRST CARRIER  What, ostler, come away and be
+<speaker>FIRST CARRIER</speaker>
+What, ostler, come away and be
 hanged. Come away.
 
-SECOND CARRIER  I have a gammon of bacon and two
+<speaker>SECOND CARRIER</speaker>
+I have a gammon of bacon and two
 races of ginger to be delivered as far as Charing
 Cross.
 
-FIRST CARRIER  God's body, the turkeys in my pannier
+<speaker>FIRST CARRIER</speaker>
+God's body, the turkeys in my pannier
 are quite starved.--What, ostler! A plague on thee!
 Hast thou never an eye in thy head? Canst not hear?
 An 'twere not as good deed as drink to break the
 pate on thee, I am a very villain. Come, and be
 hanged. Hast no faith in thee?
 
-[Enter Gadshill.]
+[<i>Enter Gadshill.</i>]
 
+<speaker>GADSHILL</speaker>
+Good morrow, carriers. What's o'clock?
 
-GADSHILL  Good morrow, carriers. What's o'clock?
+<speaker>FIRST CARRIER</speaker>
+I think it be two o'clock.
 
-FIRST CARRIER  I think it be two o'clock.
-
-GADSHILL  I prithee, lend me thy lantern to see my
+<speaker>GADSHILL</speaker>
+I prithee, lend me thy lantern to see my
 gelding in the stable.
 
-FIRST CARRIER  Nay, by God, soft. I know a trick worth
+<speaker>FIRST CARRIER</speaker>
+Nay, by God, soft. I know a trick worth
 two of that, i' faith.
 
-<b>GADSHILL,</b> [to Second Carrier]  I pray thee, lend me
+<speaker>GADSHILL,</speaker>
+[<i>to Second Carrier</i>]
+I pray thee, lend me
 thine.
 
-SECOND CARRIER  Ay, when, canst tell? "Lend me thy
+<speaker>SECOND CARRIER</speaker>
+Ay, when, canst tell? "Lend me thy
 lantern," quoth he. Marry, I'll see thee hanged
 first.
 
-GADSHILL  Sirrah carrier, what time do you mean to
+<speaker>GADSHILL</speaker>
+Sirrah carrier, what time do you mean to
 come to London?
 
-SECOND CARRIER  Time enough to go to bed with a
+<speaker>SECOND CARRIER</speaker>
+Time enough to go to bed with a
 candle, I warrant thee. Come, neighbor Mugs,
 we'll call up the gentlemen. They will along with
 company, for they have great charge.
-[Carriers exit.]
+[<i>Carriers exit.</i>]
 
-GADSHILL  What ho, chamberlain!
+<speaker>GADSHILL</speaker>
+What ho, chamberlain!
 
-[Enter Chamberlain.]
+[<i>Enter Chamberlain.</i>]
 
+<speaker>CHAMBERLAIN</speaker>
+At hand, quoth pickpurse.
 
-CHAMBERLAIN  At hand, quoth pickpurse.
-
-GADSHILL  That's even as fair as "at hand, quoth the
+<speaker>GADSHILL</speaker>
+That's even as fair as "at hand, quoth the
 Chamberlain," for thou variest no more from
 picking of purses than giving direction doth from
 laboring: thou layest the plot how.
 
-CHAMBERLAIN  Good morrow, Master Gadshill. It holds
+<speaker>CHAMBERLAIN</speaker>
+Good morrow, Master Gadshill. It holds
 current that I told you yesternight: there's a franklin
 in the Wild of Kent hath brought three hundred
 marks with him in gold. I heard him tell it to one of
@@ -988,14 +1084,17 @@ one that hath abundance of charge too, God knows
 what. They are up already and call for eggs and
 butter. They will away presently.
 
-GADSHILL  Sirrah, if they meet not with Saint Nicholas'
+<speaker>GADSHILL</speaker>
+Sirrah, if they meet not with Saint Nicholas'
 clerks, I'll give thee this neck.
 
-CHAMBERLAIN  No, I'll none of it. I pray thee, keep that
+<speaker>CHAMBERLAIN</speaker>
+No, I'll none of it. I pray thee, keep that
 for the hangman, for I know thou worshipest Saint
 Nicholas as truly as a man of falsehood may.
 
-GADSHILL  What talkest thou to me of the hangman? If
+<speaker>GADSHILL</speaker>
+What talkest thou to me of the hangman? If
 I hang, I'll make a fat pair of gallows, for if I hang,
 old Sir John hangs with me, and thou knowest he is
 no starveling. Tut, there are other Troyans that
@@ -1014,52 +1113,63 @@ the commonwealth, or rather not pray to her but
 prey on her, for they ride up and down on her and
 make her their boots.
 
-CHAMBERLAIN  What, the commonwealth their boots?
+<speaker>CHAMBERLAIN</speaker>
+What, the commonwealth their boots?
 Will she hold out water in foul way?
 
-GADSHILL  She will, she will. Justice hath liquored her.
+<speaker>GADSHILL</speaker>
+She will, she will. Justice hath liquored her.
 We steal as in a castle, cocksure. We have the
 receipt of fern seed; we walk invisible.
 
-CHAMBERLAIN  Nay, by my faith, I think you are more
+<speaker>CHAMBERLAIN</speaker>
+Nay, by my faith, I think you are more
 beholding to the night than to fern seed for your
 walking invisible.
 
-GADSHILL  Give me thy hand. Thou shalt have a share in
+<speaker>GADSHILL</speaker>
+Give me thy hand. Thou shalt have a share in
 our purchase, as I am a true man.
 
-CHAMBERLAIN  Nay, rather let me have it as you are a
+<speaker>CHAMBERLAIN</speaker>
+Nay, rather let me have it as you are a
 false thief.
 
-GADSHILL  Go to. Homo is a common name to all men.
+<speaker>GADSHILL</speaker>
+Go to. Homo is a common name to all men.
 Bid the ostler bring my gelding out of the stable.
 Farewell, you muddy knave.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Prince, Poins, Bardolph, and Peto.]
+[<i>Enter Prince, Poins, Bardolph, and Peto.</i>]
 
-
-POINS  Come, shelter, shelter! I have removed Falstaff's
+<speaker>POINS</speaker>
+Come, shelter, shelter! I have removed Falstaff's
 horse, and he frets like a gummed velvet.
 
-PRINCE  Stand close.	[Poins, Bardolph, and Peto exit.]
+<speaker>PRINCE</speaker>
+Stand close. [<i>Poins, Bardolph, and Peto exit.</i>]
 
-[Enter Falstaff.]
+[<i>Enter Falstaff.</i>]
 
+<speaker>FALSTAFF</speaker>
+Poins! Poins, and be hanged! Poins!
 
-FALSTAFF  Poins! Poins, and be hanged! Poins!
-
-PRINCE  Peace, you fat-kidneyed rascal. What a brawling
+<speaker>PRINCE</speaker>
+Peace, you fat-kidneyed rascal. What a brawling
 dost thou keep!
 
-FALSTAFF  Where's Poins, Hal?
+<speaker>FALSTAFF</speaker>
+Where's Poins, Hal?
 
-PRINCE  He is walked up to the top of the hill. I'll go
-seek him.	[Prince exits.]
+<speaker>PRINCE</speaker>
+He is walked up to the top of the hill. I'll go
+seek him.	[<i>Prince exits.</i>]
 
-FALSTAFF  I am accursed to rob in that thief's company.
+<speaker>FALSTAFF</speaker>
+I am accursed to rob in that thief's company.
 The rascal hath removed my horse and tied him I
 know not where. If I travel but four foot by the
 square further afoot, I shall break my wind. Well, I
@@ -1078,148 +1188,185 @@ chewed with a tooth. Eight yards of uneven ground
 is threescore and ten miles afoot with me, and the
 stony-hearted villains know it well enough. A plague
 upon it when thieves cannot be true one to another!
-[(They whistle, within.)] Whew! A plague upon you
+[<i>(They whistle, within.)</i>]
+Whew! A plague upon you
 all!
 
-[Enter the Prince, Poins, Peto, and Bardolph.]
+[<i>Enter the Prince, Poins, Peto, and Bardolph.</i>]
 
 Give me my horse, you rogues. Give me my horse
 and be hanged!
 
-PRINCE  Peace, you fat guts! Lie down, lay thine ear
+<speaker>PRINCE</speaker>
+Peace, you fat guts! Lie down, lay thine ear
 close to the ground, and list if thou canst hear the
 tread of travelers.
 
-FALSTAFF  Have you any levers to lift me up again being
+<speaker>FALSTAFF</speaker>
+Have you any levers to lift me up again being
 down? 'Sblood, I'll not bear my own flesh so
 far afoot again for all the coin in thy father's Exchequer.
 What a plague mean you to colt me
 thus?
 
-PRINCE  Thou liest. Thou art not colted; thou art
+<speaker>PRINCE</speaker>
+Thou liest. Thou art not colted; thou art
 uncolted.
 
-FALSTAFF  I prithee, good Prince Hal, help me to my
+<speaker>FALSTAFF</speaker>
+I prithee, good Prince Hal, help me to my
 horse, good king's son.
 
-PRINCE  Out, you rogue! Shall I be your ostler?
+<speaker>PRINCE</speaker>
+Out, you rogue! Shall I be your ostler?
 
-FALSTAFF  Hang thyself in thine own heir-apparent
+<speaker>FALSTAFF</speaker>
+Hang thyself in thine own heir-apparent
 garters! If I be ta'en, I'll peach for this. An I have
 not ballads made on you all and sung to filthy
 tunes, let a cup of sack be my poison--when a jest
 is so forward, and afoot too! I hate it.
 
-[Enter Gadshill.]
+[<i>Enter Gadshill.</i>]
 
+<speaker>GADSHILL</speaker>
+Stand.
 
-GADSHILL  Stand.
+<speaker>FALSTAFF</speaker>
+So I do, against my will.
 
-FALSTAFF  So I do, against my will.
+<speaker>POINS</speaker>
+O, 'tis our setter. I know his voice.
 
-<b>POINS  O,</b> 'tis our setter. I know his voice.
+<speaker>BARDOLPH</speaker>
+What news?
 
-BARDOLPH  What news?
-
-GADSHILL  Case you, case you. On with your vizards.
+<speaker>GADSHILL</speaker>
+Case you, case you. On with your vizards.
 There's money of the King's coming down the hill.
 'Tis going to the King's Exchequer.
 
-FALSTAFF  You lie, you rogue. 'Tis going to the King's
+<speaker>FALSTAFF</speaker>
+You lie, you rogue. 'Tis going to the King's
 Tavern.
 
-GADSHILL  There's enough to make us all.
+<speaker>GADSHILL</speaker>
+There's enough to make us all.
 
-FALSTAFF  To be hanged.
+<speaker>FALSTAFF</speaker>
+To be hanged.
 
-PRINCE  Sirs, you four shall front them in the narrow
+<speaker>PRINCE</speaker>
+Sirs, you four shall front them in the narrow
 lane. Ned Poins and I will walk lower. If they 'scape
 from your encounter, then they light on us.
 
-PETO  How many be there of them?
+<speaker>PETO</speaker>
+How many be there of them?
 
-GADSHILL  Some eight or ten.
+<speaker>GADSHILL</speaker>
+Some eight or ten.
 
-FALSTAFF  Zounds, will they not rob us?
+<speaker>FALSTAFF</speaker>
+Zounds, will they not rob us?
 
-PRINCE  What, a coward, Sir John Paunch?
+<speaker>PRINCE</speaker>
+What, a coward, Sir John Paunch?
 
-FALSTAFF  Indeed, I am not John of Gaunt, your grandfather,
+<speaker>FALSTAFF</speaker>
+Indeed, I am not John of Gaunt, your grandfather,
 but yet no coward, Hal.
 
-PRINCE  Well, we leave that to the proof.
+<speaker>PRINCE</speaker>
+Well, we leave that to the proof.
 
-POINS  Sirrah Jack, thy horse stands behind the hedge.
+<speaker>POINS</speaker>
+Sirrah Jack, thy horse stands behind the hedge.
 When thou need'st him, there thou shalt find him.
 Farewell and stand fast.
 
-FALSTAFF  Now cannot I strike him, if I should be
+<speaker>FALSTAFF</speaker>
+Now cannot I strike him, if I should be
 hanged.
 
-<b>PRINCE,</b> [aside to Poins]  Ned, where are our disguises?
+<speaker>PRINCE,</speaker>
+[<i>aside to Poins</i>]
+Ned, where are our disguises?
 
-<b>POINS,</b> [aside to Prince]  Here, hard by. Stand close.
-[The Prince and Poins exit.]
+<speaker>POINS,</speaker>
+[<i>aside to Prince</i>]
+Here, hard by. Stand close.
+[<i>The Prince and Poins exit.</i>]
 
-FALSTAFF  Now, my masters, happy man be his dole,
+<speaker>FALSTAFF</speaker>
+Now, my masters, happy man be his dole,
 say I. Every man to his business.
-[They step aside.]
+[<i>They step aside.</i>]
 
-[Enter the Travelers.]
+[<i>Enter the Travelers.</i>]
 
-
-FIRST TRAVELER  Come, neighbor, the boy shall lead
+<speaker>FIRST TRAVELER</speaker>
+Come, neighbor, the boy shall lead
 our horses down the hill. We'll walk afoot awhile
 and ease our legs.
 
-<b>THIEVES,</b> [advancing]  Stand!
+<speaker>THIEVES,</speaker>
+[<i>advancing</i>]
+Stand!
 
-TRAVELERS  Jesus bless us!
+<speaker>TRAVELERS</speaker>
+Jesus bless us!
 
-FALSTAFF  Strike! Down with them! Cut the villains'
+<speaker>FALSTAFF</speaker>
+Strike! Down with them! Cut the villains'
 throats! Ah, whoreson caterpillars, bacon-fed
 knaves, they hate us youth. Down with them!
 Fleece them!
 
-<b>TRAVELERS  O,</b> we are undone, both we and ours
+<speaker>TRAVELERS</speaker>
+O, we are undone, both we and ours
 forever!
 
-FALSTAFF  Hang, you gorbellied knaves! Are you undone?
+<speaker>FALSTAFF</speaker>
+Hang, you gorbellied knaves! Are you undone?
 No, you fat chuffs. I would your store were
 here. On, bacons, on! What, you knaves, young men
 must live. You are grandjurors, are you? We'll jure
 you, faith.
-[Here they rob them and bind them. They all exit.]
+[<i>Here they rob them and bind them. They all exit.</i>]
 
-[Enter the Prince and Poins, disguised.]
+[<i>Enter the Prince and Poins, disguised.</i>]
 
-
-PRINCE  The thieves have bound the true men. Now
+<speaker>PRINCE</speaker>
+The thieves have bound the true men. Now
 could thou and I rob the thieves and go merrily to
 London, it would be argument for a week, laughter
 for a month, and a good jest forever.
 
-POINS  Stand close, I hear them coming.
-[They step aside.]
+<speaker>POINS</speaker>
+Stand close, I hear them coming.
+[<i>They step aside.</i>]
 
-[Enter the Thieves again.]
+[<i>Enter the Thieves again.</i>]
 
-
-FALSTAFF  Come, my masters, let us share, and then to
+<speaker>FALSTAFF</speaker>
+Come, my masters, let us share, and then to
 horse before day. An the Prince and Poins be not
 two arrant cowards, there's no equity stirring.
 There's no more valor in that Poins than in a wild
 duck.
-[As they are sharing, the Prince
-and Poins set upon them.]
+[<i>As they are sharing, the Prince
+and Poins set upon them.</i>]
 
-PRINCE  Your money!
+<speaker>PRINCE</speaker>
+Your money!
 
-POINS  Villains!
-[They all run away, and Falstaff, after a blow or two,
-runs away too, leaving the booty behind them.]
+<speaker>POINS</speaker>
+Villains!
+[<i>They all run away, and Falstaff, after a blow or two,
+runs away too, leaving the booty behind them.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 Got with much ease. Now merrily to horse.
 The thieves are all scattered, and possessed with
 fear
@@ -1229,15 +1376,16 @@ Away, good Ned. Falstaff sweats to death,
 And lards the lean earth as he walks along.
 Were 't not for laughing, I should pity him.
 
-POINS  How the fat rogue roared!
-[They exit.]
+<speaker>POINS</speaker>
+How the fat rogue roared!
+[<i>They exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Hotspur alone, reading a letter.]
+[<i>Enter Hotspur alone, reading a letter.</i>]
 
-
-HOTSPUR  But, for mine own part, my lord, I could be
+<speaker>HOTSPUR</speaker>
+But, for mine own part, my lord, I could be
 well contented to be there, in respect of the love I
 bear your house. He could be contented; why is he
 not, then? In respect of the love he bears our
@@ -1274,12 +1422,12 @@ buffets for moving such a dish of skim milk with so
 honorable an action! Hang him, let him tell the
 King. We are prepared. I will set forward tonight.
 
-[Enter his Lady.]
+[<i>Enter his Lady.</i>]
 
 How now, Kate? I must leave you within these two
 hours.
 
-LADY PERCY
+<speaker>LADY PERCY</speaker>
 O my good lord, why are you thus alone?
 For what offense have I this fortnight been
 A banished woman from my Harry's bed?
@@ -1310,41 +1458,48 @@ these?
 Some heavy business hath my lord in hand,
 And I must know it, else he loves me not.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 What, ho!
 
-[Enter a Servant.]
+[<i>Enter a Servant.</i>]
 
 Is Gilliams with the packet gone?
 
-SERVANT  He is, my lord, an hour ago.
+<speaker>SERVANT</speaker>
+He is, my lord, an hour ago.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Hath Butler brought those horses from the sheriff?
 
-SERVANT
+<speaker>SERVANT</speaker>
 One horse, my lord, he brought even now.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 What horse? A roan, a crop-ear, is it not?
 
-SERVANT
+<speaker>SERVANT</speaker>
 It is, my lord.
 
-HOTSPUR  That roan shall be my throne.
+<speaker>HOTSPUR</speaker>
+That roan shall be my throne.
 Well, I will back him straight. O, Esperance!
 Bid Butler lead him forth into the park.
-[Servant exits.]
+[<i>Servant exits.</i>]
 
-LADY PERCY  But hear you, my lord.
+<speaker>LADY PERCY</speaker>
+But hear you, my lord.
 
-HOTSPUR  What say'st thou, my lady?
+<speaker>HOTSPUR</speaker>
+What say'st thou, my lady?
 
-LADY PERCY  What is it carries you away?
+<speaker>LADY PERCY</speaker>
+What is it carries you away?
 
-HOTSPUR  Why, my horse, my love, my horse.
+<speaker>HOTSPUR</speaker>
+Why, my horse, my love, my horse.
 
-LADY PERCY  Out, you mad-headed ape!
+<speaker>LADY PERCY</speaker>
+Out, you mad-headed ape!
 A weasel hath not such a deal of spleen
 As you are tossed with. In faith,
 I'll know your business, Harry, that I will.
@@ -1352,16 +1507,17 @@ I fear my brother Mortimer doth stir
 About his title, and hath sent for you
 To line his enterprise; but if you go--
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 So far afoot, I shall be weary, love.
 
-LADY PERCY
+<speaker>LADY PERCY</speaker>
 Come, come, you paraquito, answer me
 Directly unto this question that I ask.
 In faith, I'll break thy little finger, Harry,
 An if thou wilt not tell me all things true.
 
-HOTSPUR  Away!
+<speaker>HOTSPUR</speaker>
+Away!
 Away, you trifler. Love, I love thee not.
 I care not for thee, Kate. This is no world
 To play with mammets and to tilt with lips.
@@ -1370,13 +1526,14 @@ And pass them current too.--Gods me, my horse!--
 What say'st thou, Kate? What wouldst thou have
 with me?
 
-LADY PERCY
+<speaker>LADY PERCY</speaker>
 Do you not love me? Do you not indeed?
 Well, do not then, for since you love me not,
 I will not love myself. Do you not love me?
 Nay, tell me if you speak in jest or no.
 
-HOTSPUR  Come, wilt thou see me ride?
+<speaker>HOTSPUR</speaker>
+Come, wilt thou see me ride?
 And when I am a-horseback I will swear
 I love thee infinitely. But hark you, Kate,
 I must not have you henceforth question me
@@ -1390,28 +1547,32 @@ No lady closer, for I well believe
 Thou wilt not utter what thou dost not know,
 And so far will I trust thee, gentle Kate.
 
-LADY PERCY  How? So far?
+<speaker>LADY PERCY</speaker>
+How? So far?
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Not an inch further. But hark you, Kate,
 Whither I go, thither shall you go too.
 Today will I set forth, tomorrow you.
 Will this content you, Kate?
 
-LADY PERCY  It must, of force.
-[They exit.]
+<speaker>LADY PERCY</speaker>
+It must, of force.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Prince and Poins.]
+[<i>Enter Prince and Poins.</i>]
 
-
-PRINCE  Ned, prithee, come out of that fat room and
+<speaker>PRINCE</speaker>
+Ned, prithee, come out of that fat room and
 lend me thy hand to laugh a little.
 
-POINS  Where hast been, Hal?
+<speaker>POINS</speaker>
+Where hast been, Hal?
 
-PRINCE  With three or four loggerheads amongst three
+<speaker>PRINCE</speaker>
+With three or four loggerheads amongst three
 or fourscore hogsheads. I have sounded the very
 bass string of humility. Sirrah, I am sworn brother
 to a leash of drawers, and can call them all by their
@@ -1441,127 +1602,171 @@ thou stand in some by-room while I question my
 puny drawer to what end he gave me the sugar, and
 do thou never leave calling "Francis," that his tale
 to me may be nothing but "Anon." Step aside, and
-I'll show thee a precedent.	[Poins exits.]
+I'll show thee a precedent.	[<i>Poins exits.</i>]
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-PRINCE  Thou art perfect.
+<speaker>PRINCE</speaker>
+Thou art perfect.
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-[Enter Francis, the Drawer.]
+[<i>Enter Francis, the Drawer.</i>]
 
-
-FRANCIS  Anon, anon, sir.--Look down into the Pomgarnet,
+<speaker>FRANCIS</speaker>
+Anon, anon, sir.--Look down into the Pomgarnet,
 Ralph.
 
-PRINCE  Come hither, Francis.
+<speaker>PRINCE</speaker>
+Come hither, Francis.
 
-FRANCIS  My lord?
+<speaker>FRANCIS</speaker>
+My lord?
 
-PRINCE  How long hast thou to serve, Francis?
+<speaker>PRINCE</speaker>
+How long hast thou to serve, Francis?
 
-FRANCIS  Forsooth, five years, and as much as to--
+<speaker>FRANCIS</speaker>
+Forsooth, five years, and as much as to--
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-FRANCIS  Anon, anon, sir.
+<speaker>FRANCIS</speaker>
+Anon, anon, sir.
 
-PRINCE  Five year! By 'r Lady, a long lease for the
+<speaker>PRINCE</speaker>
+Five year! By 'r Lady, a long lease for the
 clinking of pewter! But, Francis, darest thou be
 so valiant as to play the coward with thy indenture,
 and show it a fair pair of heels, and run
 from it?
 
-FRANCIS  O Lord, sir, I'll be sworn upon all the books
+<speaker>FRANCIS</speaker>
+O Lord, sir, I'll be sworn upon all the books
 in England, I could find in my heart--
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-FRANCIS  Anon, sir.
+<speaker>FRANCIS</speaker>
+Anon, sir.
 
-PRINCE  How old art thou, Francis?
+<speaker>PRINCE</speaker>
+How old art thou, Francis?
 
-FRANCIS  Let me see. About Michaelmas next, I shall
+<speaker>FRANCIS</speaker>
+Let me see. About Michaelmas next, I shall
 be--
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-FRANCIS  Anon, sir.--Pray, stay a little, my lord.
+<speaker>FRANCIS</speaker>
+Anon, sir.--Pray, stay a little, my lord.
 
-PRINCE  Nay, but hark you, Francis, for the sugar thou
+<speaker>PRINCE</speaker>
+Nay, but hark you, Francis, for the sugar thou
 gavest me--'twas a pennyworth, was 't not?
 
-FRANCIS  O Lord, I would it had been two!
+<speaker>FRANCIS</speaker>
+O Lord, I would it had been two!
 
-PRINCE  I will give thee for it a thousand pound. Ask
+<speaker>PRINCE</speaker>
+I will give thee for it a thousand pound. Ask
 me when thou wilt, and thou shalt have it.
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-FRANCIS  Anon, anon.
+<speaker>FRANCIS</speaker>
+Anon, anon.
 
-PRINCE  Anon, Francis? No, Francis. But tomorrow,
+<speaker>PRINCE</speaker>
+Anon, Francis? No, Francis. But tomorrow,
 Francis; or, Francis, o' Thursday; or indeed, Francis,
 when thou wilt. But, Francis--
 
-FRANCIS  My lord?
+<speaker>FRANCIS</speaker>
+My lord?
 
-PRINCE  Wilt thou rob this leathern-jerkin, crystal-button,
+<speaker>PRINCE</speaker>
+Wilt thou rob this leathern-jerkin, crystal-button,
 not-pated, agate-ring, puke-stocking, caddis-garter,
 smooth-tongue, Spanish-pouch--
 
-FRANCIS  O Lord, sir, who do you mean?
+<speaker>FRANCIS</speaker>
+O Lord, sir, who do you mean?
 
-PRINCE  Why then, your brown bastard is your only
+<speaker>PRINCE</speaker>
+Why then, your brown bastard is your only
 drink, for look you, Francis, your white canvas
 doublet will sully. In Barbary, sir, it cannot come to
 so much.
 
-FRANCIS  What, sir?
+<speaker>FRANCIS</speaker>
+What, sir?
 
-<b>POINS,</b> [within]  Francis!
+<speaker>POINS,</speaker>
+[<i>within</i>]
+Francis!
 
-PRINCE  Away, you rogue! Dost thou not hear them
+<speaker>PRINCE</speaker>
+Away, you rogue! Dost thou not hear them
 call?
-[Here they both call him. The Drawer stands amazed,
-not knowing which way to go.]
+[<i>Here they both call him. The Drawer stands amazed,
+not knowing which way to go.</i>]
 
-[Enter Vintner.]
+[<i>Enter Vintner.</i>]
 
-
-VINTNER  What, stand'st thou still and hear'st such a
-calling? Look to the guests within. [Francis exits.]
+<speaker>VINTNER</speaker>
+What, stand'st thou still and hear'st such a
+calling? Look to the guests within. [<i>Francis exits.</i>]
 My lord, old Sir John with half a dozen more are at
 the door. Shall I let them in?
 
-PRINCE  Let them alone awhile, and then open the
-door. [Vintner exits.] Poins!
+<speaker>PRINCE</speaker>
+Let them alone awhile, and then open the
+door. [<i>Vintner exits.</i>]
+Poins!
 
-[Enter Poins.]
+[<i>Enter Poins.</i>]
 
+<speaker>POINS</speaker>
+Anon, anon, sir.
 
-POINS  Anon, anon, sir.
-
-PRINCE  Sirrah, Falstaff and the rest of the thieves are
+<speaker>PRINCE</speaker>
+Sirrah, Falstaff and the rest of the thieves are
 at the door. Shall we be merry?
 
-POINS  As merry as crickets, my lad. But hark you,
+<speaker>POINS</speaker>
+As merry as crickets, my lad. But hark you,
 what cunning match have you made with this jest
 of the drawer. Come, what's the issue?
 
-PRINCE  I am now of all humors that have showed
+<speaker>PRINCE</speaker>
+I am now of all humors that have showed
 themselves humors since the old days of Goodman
 Adam to the pupil age of this present twelve
 o'clock at midnight.
 
-[Enter Francis, in haste.]
+[<i>Enter Francis, in haste.</i>]
 
 What's o'clock, Francis?
 
-FRANCIS  Anon, anon, sir.	[Francis exits.]
+<speaker>FRANCIS</speaker>
+Anon, anon, sir. [<i>Francis exits.</i>]
 
-PRINCE  That ever this fellow should have fewer words
+<speaker>PRINCE</speaker>
+That ever this fellow should have fewer words
 than a parrot, and yet the son of a woman! His
 industry is upstairs and downstairs, his eloquence
 the parcel of a reckoning. I am not yet of Percy's
@@ -1577,25 +1782,29 @@ and that damned brawn shall play Dame Mortimer
 his wife. "Rivo!" says the drunkard. Call in
 Ribs, call in Tallow.
 
-[Enter Falstaff, Gadshill, Peto, Bardolph;
-and Francis, with wine.]
+[<i>Enter Falstaff, Gadshill, Peto, Bardolph;
+and Francis, with wine.</i>]
 
+<speaker>POINS</speaker>
+Welcome, Jack. Where hast thou been?
 
-POINS  Welcome, Jack. Where hast thou been?
-
-FALSTAFF  A plague of all cowards, I say, and a vengeance
+<speaker>FALSTAFF</speaker>
+A plague of all cowards, I say, and a vengeance
 too! Marry and amen!--Give me a cup of
 sack, boy.--Ere I lead this life long, I'll sew netherstocks
 and mend them, and foot them too. A plague
 of all cowards!--Give me a cup of sack, rogue!--Is
-there no virtue extant?	[He drinketh.]
+there no virtue extant?	[<i>He drinketh.</i>]
 
-PRINCE  Didst thou never see Titan kiss a dish of
+<speaker>PRINCE</speaker>
+Didst thou never see Titan kiss a dish of
 butter--pitiful-hearted Titan!--that melted at the
 sweet tale of the sun's? If thou didst, then behold
 that compound.
 
-<b>FALSTAFF,</b> [to Francis]  You rogue, here's lime in this
+<speaker>FALSTAFF,</speaker>
+[<i>to Francis</i>]
+You rogue, here's lime in this
 sack too.--There is nothing but roguery to be
 found in villainous man, yet a coward is worse than
 a cup of sack with lime in it. A villainous coward! Go
@@ -1608,24 +1817,30 @@ world, I say. I would I were a weaver. I could sing
 psalms, or anything. A plague of all cowards, I say
 still.
 
-PRINCE  How now, woolsack, what mutter you?
+<speaker>PRINCE</speaker>
+How now, woolsack, what mutter you?
 
-FALSTAFF  A king's son! If I do not beat thee out of thy
+<speaker>FALSTAFF</speaker>
+A king's son! If I do not beat thee out of thy
 kingdom with a dagger of lath, and drive all thy
 subjects afore thee like a flock of wild geese, I'll
 never wear hair on my face more. You, Prince of
 Wales!
 
-PRINCE  Why, you whoreson round man, what's the
+<speaker>PRINCE</speaker>
+Why, you whoreson round man, what's the
 matter?
 
-FALSTAFF  Are not you a coward? Answer me to that--
+<speaker>FALSTAFF</speaker>
+Are not you a coward? Answer me to that--
 and Poins there?
 
-POINS  Zounds, you fat paunch, an you call me coward,
+<speaker>POINS</speaker>
+Zounds, you fat paunch, an you call me coward,
 by the Lord, I'll stab thee.
 
-FALSTAFF  I call thee coward? I'll see thee damned ere
+<speaker>FALSTAFF</speaker>
+I call thee coward? I'll see thee damned ere
 I call thee coward, but I would give a thousand
 pound I could run as fast as thou canst. You are
 straight enough in the shoulders you care not who
@@ -1634,158 +1849,209 @@ friends? A plague upon such backing! Give me them
 that will face me.--Give me a cup of sack.--I am a
 rogue if I drunk today.
 
-PRINCE  O villain, thy lips are scarce wiped since thou
+<speaker>PRINCE</speaker>
+O villain, thy lips are scarce wiped since thou
 drunk'st last.
 
-FALSTAFF  All is one for that. [(He drinketh.)] A plague of
+<speaker>FALSTAFF</speaker>
+All is one for that. [<i>(He drinketh.)</i>]
+A plague of
 all cowards, still say I.
 
-PRINCE  What's the matter?
+<speaker>PRINCE</speaker>
+What's the matter?
 
-FALSTAFF  What's the matter? There be four of us here
+<speaker>FALSTAFF</speaker>
+What's the matter? There be four of us here
 have ta'en a thousand pound this day morning.
 
-PRINCE  Where is it, Jack, where is it?
+<speaker>PRINCE</speaker>
+Where is it, Jack, where is it?
 
-FALSTAFF  Where is it? Taken from us it is. A hundred
+<speaker>FALSTAFF</speaker>
+Where is it? Taken from us it is. A hundred
 upon poor four of us.
 
-PRINCE  What, a hundred, man?
+<speaker>PRINCE</speaker>
+What, a hundred, man?
 
-FALSTAFF  I am a rogue if I were not at half-sword
+<speaker>FALSTAFF</speaker>
+I am a rogue if I were not at half-sword
 with a dozen of them two hours together. I have
 'scaped by miracle. I am eight times thrust through
 the doublet, four through the hose, my buckler
 cut through and through, my sword hacked like
 a handsaw. Ecce signum! I never dealt better since
 I was a man. All would not do. A plague of
-all cowards! Let them speak. [Pointing to Gadshill,
-Bardolph, and Peto.] If they speak more or
+all cowards! Let them speak. [<i>Pointing to Gadshill,
+Bardolph, and Peto.</i>]
+If they speak more or
 less than truth, they are villains, and the sons of
 darkness.
 
-PRINCE  Speak, sirs, how was it?
+<speaker>PRINCE</speaker>
+Speak, sirs, how was it?
 
-BARDOLPH  We four set upon some dozen.
+<speaker>BARDOLPH</speaker>
+We four set upon some dozen.
 
-FALSTAFF  Sixteen at least, my lord.
+<speaker>FALSTAFF</speaker>
+Sixteen at least, my lord.
 
-BARDOLPH  And bound them.
+<speaker>BARDOLPH</speaker>
+And bound them.
 
-PETO  No, no, they were not bound.
+<speaker>PETO</speaker>
+No, no, they were not bound.
 
-FALSTAFF  You rogue, they were bound, every man of
+<speaker>FALSTAFF</speaker>
+You rogue, they were bound, every man of
 them, or I am a Jew else, an Ebrew Jew.
 
-BARDOLPH  As we were sharing, some six or seven
+<speaker>BARDOLPH</speaker>
+As we were sharing, some six or seven
 fresh men set upon us.
 
-FALSTAFF  And unbound the rest, and then come in the
+<speaker>FALSTAFF</speaker>
+And unbound the rest, and then come in the
 other.
 
-PRINCE  What, fought you with them all?
+<speaker>PRINCE</speaker>
+What, fought you with them all?
 
-FALSTAFF  All? I know not what you call all, but if I
+<speaker>FALSTAFF</speaker>
+All? I know not what you call all, but if I
 fought not with fifty of them I am a bunch of
 radish. If there were not two- or three-and-fifty
 upon poor old Jack, then am I no two-legged
 creature.
 
-PRINCE  Pray God you have not murdered some of
+<speaker>PRINCE</speaker>
+Pray God you have not murdered some of
 them.
 
-FALSTAFF  Nay, that's past praying for. I have peppered
+<speaker>FALSTAFF</speaker>
+Nay, that's past praying for. I have peppered
 two of them. Two I am sure I have paid, two rogues
 in buckram suits. I tell thee what, Hal, if I tell thee a
 lie, spit in my face, call me horse. Thou knowest my
 old ward. Here I lay, and thus I bore my point. Four
 rogues in buckram let drive at me.
 
-PRINCE  What, four? Thou said'st but two even now.
+<speaker>PRINCE</speaker>
+What, four? Thou said'st but two even now.
 
-FALSTAFF  Four, Hal, I told thee four.
+<speaker>FALSTAFF</speaker>
+Four, Hal, I told thee four.
 
-POINS  Ay, ay, he said four.
+<speaker>POINS</speaker>
+Ay, ay, he said four.
 
-FALSTAFF  These four came all afront, and mainly
+<speaker>FALSTAFF</speaker>
+These four came all afront, and mainly
 thrust at me. I made me no more ado, but took all
 their seven points in my target, thus.
 
-PRINCE  Seven? Why there were but four even now.
+<speaker>PRINCE</speaker>
+Seven? Why there were but four even now.
 
-FALSTAFF  In buckram?
+<speaker>FALSTAFF</speaker>
+In buckram?
 
-POINS  Ay, four in buckram suits.
+<speaker>POINS</speaker>
+Ay, four in buckram suits.
 
-FALSTAFF  Seven by these hilts, or I am a villain else.
+<speaker>FALSTAFF</speaker>
+Seven by these hilts, or I am a villain else.
 
-<b>PRINCE,</b> [to Poins]  Prithee, let him alone. We shall have
+<speaker>PRINCE,</speaker>
+[<i>to Poins</i>]
+Prithee, let him alone. We shall have
 more anon.
 
-FALSTAFF  Dost thou hear me, Hal?
+<speaker>FALSTAFF</speaker>
+Dost thou hear me, Hal?
 
-PRINCE  Ay, and mark thee too, Jack.
+<speaker>PRINCE</speaker>
+Ay, and mark thee too, Jack.
 
-FALSTAFF  Do so, for it is worth the listening to. These
+<speaker>FALSTAFF</speaker>
+Do so, for it is worth the listening to. These
 nine in buckram that I told thee of--
 
-PRINCE  So, two more already.
+<speaker>PRINCE</speaker>
+So, two more already.
 
-FALSTAFF  Their points being broken--
+<speaker>FALSTAFF</speaker>
+Their points being broken--
 
-POINS  Down fell their hose.
+<speaker>POINS</speaker>
+Down fell their hose.
 
-FALSTAFF  Began to give me ground, but I followed me
+<speaker>FALSTAFF</speaker>
+Began to give me ground, but I followed me
 close, came in foot and hand, and, with a thought,
 seven of the eleven I paid.
 
-PRINCE  O monstrous! Eleven buckram men grown out
+<speaker>PRINCE</speaker>
+O monstrous! Eleven buckram men grown out
 of two!
 
-FALSTAFF  But as the devil would have it, three misbegotten
+<speaker>FALSTAFF</speaker>
+But as the devil would have it, three misbegotten
 knaves in Kendal green came at my back,
 and let drive at me, for it was so dark, Hal, that thou
 couldst not see thy hand.
 
-PRINCE  These lies are like their father that begets
+<speaker>PRINCE</speaker>
+These lies are like their father that begets
 them, gross as a mountain, open, palpable. Why,
 thou claybrained guts, thou knotty-pated fool, thou
 whoreson, obscene, greasy tallow-catch--
 
-FALSTAFF  What, art thou mad? Art thou mad? Is not
+<speaker>FALSTAFF</speaker>
+What, art thou mad? Art thou mad? Is not
 the truth the truth?
 
-PRINCE  Why, how couldst thou know these men in
+<speaker>PRINCE</speaker>
+Why, how couldst thou know these men in
 Kendal green when it was so dark thou couldst not
 see thy hand? Come, tell us your reason. What sayest
 thou to this?
 
-POINS  Come, your reason, Jack, your reason.
+<speaker>POINS</speaker>
+Come, your reason, Jack, your reason.
 
-FALSTAFF  What, upon compulsion? Zounds, an I were
+<speaker>FALSTAFF</speaker>
+What, upon compulsion? Zounds, an I were
 at the strappado or all the racks in the world, I
 would not tell you on compulsion. Give you a
 reason on compulsion? If reasons were as plentiful
 as blackberries, I would give no man a reason upon
 compulsion, I.
 
-PRINCE  I'll be no longer guilty of this sin. This sanguine
+<speaker>PRINCE</speaker>
+I'll be no longer guilty of this sin. This sanguine
 coward, this bed-presser, this horse-backbreaker,
 this huge hill of flesh--
 
-FALSTAFF  'Sblood, you starveling, you elfskin, you
+<speaker>FALSTAFF</speaker>
+'Sblood, you starveling, you elfskin, you
 dried neat's tongue, you bull's pizzle, you stockfish!
 O, for breath to utter what is like thee! You tailor's
 yard, you sheath, you bowcase, you vile standing
 tuck--
 
-PRINCE  Well, breathe awhile, and then to it again, and
+<speaker>PRINCE</speaker>
+Well, breathe awhile, and then to it again, and
 when thou hast tired thyself in base comparisons,
 hear me speak but this.
 
-POINS  Mark, Jack.
+<speaker>POINS</speaker>
+Mark, Jack.
 
-PRINCE  We two saw you four set on four, and bound
+<speaker>PRINCE</speaker>
+We two saw you four set on four, and bound
 them and were masters of their wealth. Mark now
 how a plain tale shall put you down. Then did we
 two set on you four and, with a word, outfaced you
@@ -1799,10 +2065,12 @@ fight! What trick, what device, what starting-hole
 canst thou now find out to hide thee from this open
 and apparent shame?
 
-POINS  Come, let's hear, Jack. What trick hast thou
+<speaker>POINS</speaker>
+Come, let's hear, Jack. What trick hast thou
 now?
 
-FALSTAFF  By the Lord, I knew you as well as he that
+<speaker>FALSTAFF</speaker>
+By the Lord, I knew you as well as he that
 made you. Why, hear you, my masters, was it for
 me to kill the heir apparent? Should I turn upon the
 true prince? Why, thou knowest I am as valiant as
@@ -1818,84 +2086,108 @@ of gold, all the titles of good fellowship come to
 you. What, shall we be merry? Shall we have a play
 extempore?
 
-PRINCE  Content, and the argument shall be thy running
+<speaker>PRINCE</speaker>
+Content, and the argument shall be thy running
 away.
 
-FALSTAFF  Ah, no more of that, Hal, an thou lovest me.
+<speaker>FALSTAFF</speaker>
+Ah, no more of that, Hal, an thou lovest me.
 
-[Enter Hostess.]
+[<i>Enter Hostess.</i>]
 
+<speaker>HOSTESS</speaker>
+O Jesu, my lord the Prince--
 
-HOSTESS  O Jesu, my lord the Prince--
-
-PRINCE  How now, my lady the hostess, what sayst thou
+<speaker>PRINCE</speaker>
+How now, my lady the hostess, what sayst thou
 to me?
 
-HOSTESS  Marry, my lord, there is a nobleman of the
+<speaker>HOSTESS</speaker>
+Marry, my lord, there is a nobleman of the
 court at door would speak with you. He says he
 comes from your father.
 
-PRINCE  Give him as much as will make him a royal
+<speaker>PRINCE</speaker>
+Give him as much as will make him a royal
 man and send him back again to my mother.
 
-FALSTAFF  What manner of man is he?
+<speaker>FALSTAFF</speaker>
+What manner of man is he?
 
-HOSTESS  An old man.
+<speaker>HOSTESS</speaker>
+An old man.
 
-FALSTAFF  What doth Gravity out of his bed at midnight?
+<speaker>FALSTAFF</speaker>
+What doth Gravity out of his bed at midnight?
 Shall I give him his answer?
 
-PRINCE  Prithee do, Jack.
+<speaker>PRINCE</speaker>
+Prithee do, Jack.
 
-FALSTAFF  Faith, and I'll send him packing.	[He exits.]
+<speaker>FALSTAFF</speaker>
+Faith, and I'll send him packing. [<i>He exits.</i>]
 
-PRINCE  Now, sirs. [To Gadshill.] By 'r Lady, you fought
+<speaker>PRINCE</speaker>
+Now, sirs. [<i>To Gadshill.</i>]
+By 'r Lady, you fought
 fair.--So did you, Peto.--So did you, Bardolph.--
 You are lions too. You ran away upon instinct. You
 will not touch the true prince. No, fie!
 
-BARDOLPH  Faith, I ran when I saw others run.
+<speaker>BARDOLPH</speaker>
+Faith, I ran when I saw others run.
 
-PRINCE  Faith, tell me now in earnest, how came Falstaff's
+<speaker>PRINCE</speaker>
+Faith, tell me now in earnest, how came Falstaff's
 sword so hacked?
 
-PETO  Why, he hacked it with his dagger and said he
+<speaker>PETO</speaker>
+Why, he hacked it with his dagger and said he
 would swear truth out of England but he would
 make you believe it was done in fight, and persuaded
 us to do the like.
 
-BARDOLPH  Yea, and to tickle our noses with speargrass
+<speaker>BARDOLPH</speaker>
+Yea, and to tickle our noses with speargrass
 to make them bleed, and then to beslubber our
 garments with it, and swear it was the blood of true
 men. I did that I did not this seven year before: I
 blushed to hear his monstrous devices.
 
-PRINCE  O villain, thou stolest a cup of sack eighteen
+<speaker>PRINCE</speaker>
+O villain, thou stolest a cup of sack eighteen
 years ago, and wert taken with the manner, and ever
 since thou hast blushed extempore. Thou hadst fire
 and sword on thy side, and yet thou ran'st away.
 What instinct hadst thou for it?
 
-BARDOLPH  My lord, do you see these meteors? Do you
+<speaker>BARDOLPH</speaker>
+My lord, do you see these meteors? Do you
 behold these exhalations?
 
-PRINCE  I do.
+<speaker>PRINCE</speaker>
+I do.
 
-BARDOLPH  What think you they portend?
+<speaker>BARDOLPH</speaker>
+What think you they portend?
 
-PRINCE  Hot livers and cold purses.
+<speaker>PRINCE</speaker>
+Hot livers and cold purses.
 
-BARDOLPH  Choler, my lord, if rightly taken.
+<speaker>BARDOLPH</speaker>
+Choler, my lord, if rightly taken.
 
-PRINCE  No. If rightly taken, halter.
+<speaker>PRINCE</speaker>
+No. If rightly taken, halter.
 
-[Enter Falstaff.]
+[<i>Enter Falstaff.</i>]
 
 Here comes lean Jack. Here comes bare-bone.--
 How now, my sweet creature of bombast? How long
 is 't ago, Jack, since thou sawest thine own knee?
 
-FALSTAFF  My own knee? When I was about thy years,
+<speaker>FALSTAFF</speaker>
+My own knee? When I was about thy years,
 Hal, I was not an eagle's talon in the waist. I could
 have crept into any alderman's thumb-ring. A
 plague of sighing and grief! It blows a man up like a
@@ -1907,42 +2199,54 @@ bastinado, and made Lucifer cuckold, and swore
 the devil his true liegeman upon the cross of a
 Welsh hook--what a plague call you him?
 
-POINS  Owen Glendower.
+<speaker>POINS</speaker>
+Owen Glendower.
 
-FALSTAFF  Owen, Owen, the same, and his son-in-law
+<speaker>FALSTAFF</speaker>
+Owen, Owen, the same, and his son-in-law
 Mortimer, and old Northumberland, and that
 sprightly Scot of Scots, Douglas, that runs a-horseback
 up a hill perpendicular--
 
-PRINCE  He that rides at high speed, and with his pistol
+<speaker>PRINCE</speaker>
+He that rides at high speed, and with his pistol
 kills a sparrow flying.
 
-FALSTAFF  You have hit it.
+<speaker>FALSTAFF</speaker>
+You have hit it.
 
-PRINCE  So did he never the sparrow.
+<speaker>PRINCE</speaker>
+So did he never the sparrow.
 
-FALSTAFF  Well, that rascal hath good mettle in him. He
+<speaker>FALSTAFF</speaker>
+Well, that rascal hath good mettle in him. He
 will not run.
 
-PRINCE  Why, what a rascal art thou then to praise him
+<speaker>PRINCE</speaker>
+Why, what a rascal art thou then to praise him
 so for running?
 
-FALSTAFF  A-horseback, you cuckoo, but afoot he will
+<speaker>FALSTAFF</speaker>
+A-horseback, you cuckoo, but afoot he will
 not budge a foot.
 
-PRINCE  Yes, Jack, upon instinct.
+<speaker>PRINCE</speaker>
+Yes, Jack, upon instinct.
 
-FALSTAFF  I grant you, upon instinct. Well, he is there
+<speaker>FALSTAFF</speaker>
+I grant you, upon instinct. Well, he is there
 too, and one Mordake, and a thousand blue-caps
 more. Worcester is stolen away tonight. Thy father's
 beard is turned white with the news. You may buy
 land now as cheap as stinking mackerel.
 
-PRINCE  Why then, it is like if there come a hot June,
+<speaker>PRINCE</speaker>
+Why then, it is like if there come a hot June,
 and this civil buffeting hold, we shall buy maidenheads
 as they buy hobnails, by the hundreds.
 
-FALSTAFF  By the Mass, thou sayest true. It is like we
+<speaker>FALSTAFF</speaker>
+By the Mass, thou sayest true. It is like we
 shall have good trading that way. But tell me, Hal,
 art not thou horrible afeard? Thou being heir
 apparent, could the world pick thee out three such
@@ -1950,50 +2254,68 @@ enemies again as that fiend Douglas, that spirit
 Percy, and that devil Glendower? Art thou not
 horribly afraid? Doth not thy blood thrill at it?
 
-PRINCE  Not a whit, i' faith. I lack some of thy instinct.
+<speaker>PRINCE</speaker>
+Not a whit, i' faith. I lack some of thy instinct.
 
-FALSTAFF  Well, thou wilt be horribly chid tomorrow
+<speaker>FALSTAFF</speaker>
+Well, thou wilt be horribly chid tomorrow
 when thou comest to thy father. If thou love me,
 practice an answer.
 
-PRINCE  Do thou stand for my father and examine me
+<speaker>PRINCE</speaker>
+Do thou stand for my father and examine me
 upon the particulars of my life.
 
-FALSTAFF  Shall I? Content. [He sits down.] This chair
+<speaker>FALSTAFF</speaker>
+Shall I? Content. [<i>He sits down.</i>]
+This chair
 shall be my state, this dagger my scepter, and this
 cushion my crown.
 
-PRINCE  Thy state is taken for a joined stool, thy golden
+<speaker>PRINCE</speaker>
+Thy state is taken for a joined stool, thy golden
 scepter for a leaden dagger, and thy precious rich
 crown for a pitiful bald crown.
 
-FALSTAFF  Well, an the fire of grace be not quite out of
+<speaker>FALSTAFF</speaker>
+Well, an the fire of grace be not quite out of
 thee, now shalt thou be moved.--Give me a cup of
 sack to make my eyes look red, that it may be
 thought I have wept, for I must speak in passion,
 and I will do it in King Cambyses' vein.
 
-<b>PRINCE,</b> [bowing]  Well, here is my leg.
+<speaker>PRINCE,</speaker>
+[<i>bowing</i>]
+Well, here is my leg.
 
-FALSTAFF  And here is my speech. [As King.] Stand
+<speaker>FALSTAFF</speaker>
+And here is my speech. [<i>As King.</i>]
+Stand
 aside, nobility.
 
-HOSTESS  O Jesu, this is excellent sport, i' faith!
+<speaker>HOSTESS</speaker>
+O Jesu, this is excellent sport, i' faith!
 
-<b>FALSTAFF,</b> [as King]
+<speaker>FALSTAFF,</speaker>
+[<i>as King</i>]
 Weep not, sweet queen, for trickling tears are vain.
 
-HOSTESS  O the Father, how he holds his countenance!
+<speaker>HOSTESS</speaker>
+O the Father, how he holds his countenance!
 
-<b>FALSTAFF,</b> [as King]
+<speaker>FALSTAFF,</speaker>
+[<i>as King</i>]
 For God's sake, lords, convey my tristful queen,
 For tears do stop the floodgates of her eyes.
 
-HOSTESS  O Jesu, he doth it as like one of these harlotry
+<speaker>HOSTESS</speaker>
+O Jesu, he doth it as like one of these harlotry
 players as ever I see.
 
-FALSTAFF  Peace, good pint-pot. Peace, good tickle-brain.--
-[As King.] Harry, I do not only marvel
+<speaker>FALSTAFF</speaker>
+Peace, good pint-pot. Peace, good tickle-brain.--
+[<i>As King.</i>]
+Harry, I do not only marvel
 where thou spendest thy time, but also how thou
 art accompanied. For though the camomile, the
 more it is trodden on, the faster it grows, so youth,
@@ -2017,9 +2339,12 @@ not in words only, but in woes also. And yet there is
 a virtuous man whom I have often noted in thy
 company, but I know not his name.
 
-PRINCE  What manner of man, an it like your Majesty?
+<speaker>PRINCE</speaker>
+What manner of man, an it like your Majesty?
 
-<b>FALSTAFF,</b> [as King]  A goodly portly man, i' faith, and a
+<speaker>FALSTAFF,</speaker>
+[<i>as King</i>]
+A goodly portly man, i' faith, and a
 corpulent; of a cheerful look, a pleasing eye, and a
 most noble carriage, and, as I think, his age some
 fifty, or, by 'r Lady, inclining to threescore; and now
@@ -2032,29 +2357,45 @@ Falstaff; him keep with, the rest banish. And tell me
 now, thou naughty varlet, tell me where hast thou
 been this month?
 
-PRINCE  Dost thou speak like a king? Do thou stand for
+<speaker>PRINCE</speaker>
+Dost thou speak like a king? Do thou stand for
 me, and I'll play my father.
 
-<b>FALSTAFF,</b> [rising]  Depose me? If thou dost it half so
+<speaker>FALSTAFF,</speaker>
+[<i>rising</i>]
+Depose me? If thou dost it half so
 gravely, so majestically, both in word and matter,
 hang me up by the heels for a rabbit-sucker or a
 poulter's hare.
 
-<b>PRINCE,</b> [sitting down]  Well, here I am set.
+<speaker>PRINCE,</speaker>
+[<i>sitting down</i>]
+Well, here I am set.
 
-FALSTAFF  And here I stand.--Judge, my masters.
+<speaker>FALSTAFF</speaker>
+And here I stand.--Judge, my masters.
 
-<b>PRINCE,</b> [as King]  Now, Harry, whence come you?
+<speaker>PRINCE,</speaker>
+[<i>as King</i>]
+Now, Harry, whence come you?
 
-<b>FALSTAFF,</b> [as Prince]  My noble lord, from Eastcheap.
+<speaker>FALSTAFF,</speaker>
+[<i>as Prince</i>]
+My noble lord, from Eastcheap.
 
-<b>PRINCE,</b> [as King]  The complaints I hear of thee are
+<speaker>PRINCE,</speaker>
+[<i>as King</i>]
+The complaints I hear of thee are
 grievous.
 
-<b>FALSTAFF,</b> [as Prince]  'Sblood, my lord, they are false.
+<speaker>FALSTAFF,</speaker>
+[<i>as Prince</i>]
+'Sblood, my lord, they are false.
 --Nay, I'll tickle you for a young prince, i' faith.
 
-<b>PRINCE,</b> [as King]  Swearest thou? Ungracious boy,
+<speaker>PRINCE,</speaker>
+[<i>as King</i>]
+Swearest thou? Ungracious boy,
 henceforth ne'er look on me. Thou art violently
 carried away from grace. There is a devil haunts
 thee in the likeness of an old fat man. A tun of man
@@ -2071,17 +2412,27 @@ craft? Wherein crafty but in villainy? Wherein villainous
 but in all things? Wherein worthy but in
 nothing?
 
-<b>FALSTAFF,</b> [as Prince]  I would your Grace would take
+<speaker>FALSTAFF,</speaker>
+[<i>as Prince</i>]
+I would your Grace would take
 me with you. Whom means your Grace?
 
-<b>PRINCE,</b> [as King]  That villainous abominable misleader
+<speaker>PRINCE,</speaker>
+[<i>as King</i>]
+That villainous abominable misleader
 of youth, Falstaff, that old white-bearded Satan.
 
-<b>FALSTAFF,</b> [as Prince]  My lord, the man I know.
+<speaker>FALSTAFF,</speaker>
+[<i>as Prince</i>]
+My lord, the man I know.
 
-<b>PRINCE,</b> [as King]  I know thou dost.
+<speaker>PRINCE,</speaker>
+[<i>as King</i>]
+I know thou dost.
 
-<b>FALSTAFF,</b> [as Prince]  But to say I know more harm in
+<speaker>FALSTAFF,</speaker>
+[<i>as Prince</i>]
+But to say I know more harm in
 him than in myself were to say more than I know.
 That he is old, the more the pity; his white hairs do
 witness it. But that he is, saving your reverence, a
@@ -2098,72 +2449,84 @@ him thy Harry's company, banish not him thy
 Harry's company. Banish plump Jack, and banish
 all the world.
 
-PRINCE  I do, I will.
-[A loud knocking, and Bardolph, Hostess, and
-Francis exit.]
+<speaker>PRINCE</speaker>
+I do, I will.
+[<i>A loud knocking, and Bardolph, Hostess, and
+Francis exit.</i>]
 
-[Enter Bardolph running.]
+[<i>Enter Bardolph running.</i>]
 
-
-BARDOLPH  O my lord, my lord, the Sheriff with a most
+<speaker>BARDOLPH</speaker>
+O my lord, my lord, the Sheriff with a most
 monstrous watch is at the door.
 
-FALSTAFF  Out, you rogue.--Play out the play. I have
+<speaker>FALSTAFF</speaker>
+Out, you rogue.--Play out the play. I have
 much to say in the behalf of that Falstaff.
 
-[Enter the Hostess.]
+[<i>Enter the Hostess.</i>]
 
+<speaker>HOSTESS</speaker>
+O Jesu, my lord, my lord--
 
-HOSTESS  O Jesu, my lord, my lord--
-
-PRINCE  Heigh, heigh, the devil rides upon a fiddlestick.
+<speaker>PRINCE</speaker>
+Heigh, heigh, the devil rides upon a fiddlestick.
 What's the matter?
 
-HOSTESS  The Sheriff and all the watch are at the door.
+<speaker>HOSTESS</speaker>
+The Sheriff and all the watch are at the door.
 They are come to search the house. Shall I let them
 in?
 
-FALSTAFF  Dost thou hear, Hal? Never call a true piece
+<speaker>FALSTAFF</speaker>
+Dost thou hear, Hal? Never call a true piece
 of gold a counterfeit. Thou art essentially made
 without seeming so.
 
-PRINCE  And thou a natural coward without instinct.
+<speaker>PRINCE</speaker>
+And thou a natural coward without instinct.
 
-FALSTAFF  I deny your major. If you will deny the
+<speaker>FALSTAFF</speaker>
+I deny your major. If you will deny the
 Sheriff, so; if not, let him enter. If I become not a
 cart as well as another man, a plague on my
 bringing up. I hope I shall as soon be strangled with
 a halter as another.
 
-<b>PRINCE,</b> [standing]  Go hide thee behind the arras. The
+<speaker>PRINCE,</speaker>
+[<i>standing</i>]
+Go hide thee behind the arras. The
 rest walk up above.--Now, my masters, for a true
 face and good conscience.
 
-FALSTAFF  Both which I have had, but their date is out;
-and therefore I'll hide me.	[He hides.]
+<speaker>FALSTAFF</speaker>
+Both which I have had, but their date is out;
+and therefore I'll hide me.	[<i>He hides.</i>]
 
-PRINCE  Call in the Sheriff.
-[All but the Prince and Peto exit.]
+<speaker>PRINCE</speaker>
+Call in the Sheriff.
+[<i>All but the Prince and Peto exit.</i>]
 
-[Enter Sheriff and the Carrier.]
+[<i>Enter Sheriff and the Carrier.</i>]
 
-
-PRINCE
+<speaker>PRINCE</speaker>
 Now, Master Sheriff, what is your will with me?
 
-SHERIFF
+<speaker>SHERIFF</speaker>
 First pardon me, my lord. A hue and cry
 Hath followed certain men unto this house.
 
-PRINCE  What men?
+<speaker>PRINCE</speaker>
+What men?
 
-SHERIFF
+<speaker>SHERIFF</speaker>
 One of them is well known, my gracious lord.
 A gross fat man.
 
-CARRIER  As fat as butter.
+<speaker>CARRIER</speaker>
+As fat as butter.
 
-PRINCE
+<speaker>PRINCE</speaker>
 The man I do assure you is not here,
 For I myself at this time have employed him.
 And, sheriff, I will engage my word to thee
@@ -2172,45 +2535,54 @@ Send him to answer thee or any man
 For anything he shall be charged withal.
 And so let me entreat you leave the house.
 
-SHERIFF
+<speaker>SHERIFF</speaker>
 I will, my lord. There are two gentlemen
 Have in this robbery lost three hundred marks.
 
-PRINCE
+<speaker>PRINCE</speaker>
 It may be so. If he have robbed these men,
 He shall be answerable; and so farewell.
 
-SHERIFF  Good night, my noble lord.
+<speaker>SHERIFF</speaker>
+Good night, my noble lord.
 
-PRINCE
+<speaker>PRINCE</speaker>
 I think it is good morrow, is it not?
 
-SHERIFF
+<speaker>SHERIFF</speaker>
 Indeed, my lord, I think it be two o'clock.
-[He exits with the Carrier.]
+[<i>He exits with the Carrier.</i>]
 
-PRINCE  This oily rascal is known as well as Paul's. Go
+<speaker>PRINCE</speaker>
+This oily rascal is known as well as Paul's. Go
 call him forth.
 
-PETO  Falstaff!--Fast asleep behind the arras, and
+<speaker>PETO</speaker>
+Falstaff!--Fast asleep behind the arras, and
 snorting like a horse.
 
-PRINCE  Hark, how hard he fetches breath. Search his
-pockets. [(He searcheth his pocket, and findeth certain
-papers.)] What hast thou found?
+<speaker>PRINCE</speaker>
+Hark, how hard he fetches breath. Search his
+pockets. [<i>(He searcheth his pocket, and findeth certain
+papers.)</i>]
+What hast thou found?
 
-PETO  Nothing but papers, my lord.
+<speaker>PETO</speaker>
+Nothing but papers, my lord.
 
-PRINCE  Let's see what they be. Read them.
+<speaker>PRINCE</speaker>
+Let's see what they be. Read them.
 
-PETO [reads]
+<speaker>PETO</speaker>
+[<i>reads</i>]
 Item, a capon,...2s. 2d.
 Item, sauce,...4d.
 Item, sack, two gallons,...5s. 8d.
 Item, anchovies and sack after supper,...2s. 6d.
 Item, bread,...ob.
 
-PRINCE  O monstrous! But one halfpennyworth of
+<speaker>PRINCE</speaker>
+O monstrous! But one halfpennyworth of
 bread to this intolerable deal of sack? What there is
 else, keep close. We'll read it at more advantage.
 There let him sleep till day. I'll to the court in the
@@ -2221,60 +2593,60 @@ of twelve score. The money shall be paid back again
 with advantage. Be with me betimes in the morning,
 and so good morrow, Peto.
 
-PETO  Good morrow, good my lord.
-[They exit.]
-
+<speaker>PETO</speaker>
+Good morrow, good my lord.
+[<i>They exit.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
-
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Hotspur, Worcester, Lord Mortimer, and Owen
-Glendower.]
+[<i>Enter Hotspur, Worcester, Lord Mortimer, and Owen
+Glendower.</i>]
 
-
-MORTIMER
+<speaker>MORTIMER</speaker>
 These promises are fair, the parties sure,
 And our induction full of prosperous hope.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Lord Mortimer and cousin Glendower,
 Will you sit down? And uncle Worcester--
 A plague upon it, I have forgot the map.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 No, here it is. Sit, cousin Percy,
 Sit, good cousin Hotspur, for by that name
 As oft as Lancaster doth speak of you
 His cheek looks pale, and with a rising sigh
 He wisheth you in heaven.
 
-HOTSPUR  And you in hell,
+<speaker>HOTSPUR</speaker>
+And you in hell,
 As oft as he hears Owen Glendower spoke of.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 I cannot blame him. At my nativity
 The front of heaven was full of fiery shapes,
 Of burning cressets, and at my birth
 The frame and huge foundation of the Earth
 Shaked like a coward.
 
-HOTSPUR  Why, so it would have done
+<speaker>HOTSPUR</speaker>
+Why, so it would have done
 At the same season if your mother's cat
 Had but kittened, though yourself had never been
 born.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 I say the Earth did shake when I was born.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 And I say the Earth was not of my mind,
 If you suppose as fearing you it shook.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 The heavens were all on fire; the Earth did tremble.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 O, then the Earth shook to see the heavens on fire,
 And not in fear of your nativity.
 Diseased nature oftentimes breaks forth
@@ -2287,7 +2659,8 @@ Steeples and moss-grown towers. At your birth
 Our grandam Earth, having this distemp'rature,
 In passion shook.
 
-GLENDOWER  Cousin, of many men
+<speaker>GLENDOWER</speaker>
+Cousin, of many men
 I do not bear these crossings. Give me leave
 To tell you once again that at my birth
 The front of heaven was full of fiery shapes,
@@ -2303,25 +2676,25 @@ And bring him out that is but woman's son
 Can trace me in the tedious ways of art
 And hold me pace in deep experiments.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I think there's no man speaks better Welsh.
 I'll to dinner.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Peace, cousin Percy. You will make him mad.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 I can call spirits from the vasty deep.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Why, so can I, or so can any man,
 But will they come when you do call for them?
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Why, I can teach you, cousin, to command the
 devil.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 And I can teach thee, coz, to shame the devil
 By telling truth. Tell truth and shame the devil.
 If thou have power to raise him, bring him hither,
@@ -2329,24 +2702,24 @@ And I'll be sworn I have power to shame him
 hence.
 O, while you live, tell truth and shame the devil!
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Come, come, no more of this unprofitable chat.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Three times hath Henry Bolingbroke made head
 Against my power; thrice from the banks of Wye
 And sandy-bottomed Severn have I sent him
 Bootless home and weather-beaten back.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Home without boots, and in foul weather too!
 How 'scapes he agues, in the devil's name?
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Come, here is the map. Shall we divide our right
 According to our threefold order ta'en?
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 The Archdeacon hath divided it
 Into three limits very equally:
 England, from Trent and Severn hitherto,
@@ -2364,18 +2737,20 @@ To meet your father and the Scottish power,
 As is appointed us, at Shrewsbury.
 My father Glendower is not ready yet,
 Nor shall we need his help these fourteen days.
-[To Glendower.] Within that space you may have
+[<i>To Glendower.</i>]
+Within that space you may have
 drawn together
 Your tenants, friends, and neighboring gentlemen.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 A shorter time shall send me to you, lords,
 And in my conduct shall your ladies come,
 From whom you now must steal and take no leave,
 For there will be a world of water shed
 Upon the parting of your wives and you.
 
-<b>HOTSPUR,</b> [looking at the map]
+<speaker>HOTSPUR,</speaker>
+[<i>looking at the map</i>]
 Methinks my moiety, north from Burton here,
 In quantity equals not one of yours.
 See how this river comes me cranking in
@@ -2387,38 +2762,44 @@ In a new channel, fair and evenly.
 It shall not wind with such a deep indent
 To rob me of so rich a bottom here.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Not wind? It shall, it must. You see it doth.
 
-<b>MORTIMER,</b> [to Hotspur]
+<speaker>MORTIMER,</speaker>
+[<i>to Hotspur</i>]
 Yea, but mark how he bears his course, and runs
 me up
 With like advantage on the other side,
 Gelding the opposed continent as much
 As on the other side it takes from you.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Yea, but a little charge will trench him here
 And on this north side win this cape of land,
 And then he runs straight and even.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I'll have it so. A little charge will do it.
 
-GLENDOWER  I'll not have it altered.
+<speaker>GLENDOWER</speaker>
+I'll not have it altered.
 
-HOTSPUR  Will not you?
+<speaker>HOTSPUR</speaker>
+Will not you?
 
-GLENDOWER  No, nor you shall not.
+<speaker>GLENDOWER</speaker>
+No, nor you shall not.
 
-HOTSPUR  Who shall say me nay?
+<speaker>HOTSPUR</speaker>
+Who shall say me nay?
 
-GLENDOWER  Why, that will I.
+<speaker>GLENDOWER</speaker>
+Why, that will I.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Let me not understand you, then; speak it in Welsh.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 I can speak English, lord, as well as you,
 For I was trained up in the English court,
 Where being but young I framed to the harp
@@ -2426,7 +2807,7 @@ Many an English ditty lovely well
 And gave the tongue a helpful ornament--
 A virtue that was never seen in you.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Marry, and I am glad of it with all my heart.
 I had rather be a kitten and cry "mew"
 Than one of these same meter balladmongers.
@@ -2436,26 +2817,27 @@ And that would set my teeth nothing an edge,
 Nothing so much as mincing poetry.
 'Tis like the forced gait of a shuffling nag.
 
-GLENDOWER  Come, you shall have Trent turned.
+<speaker>GLENDOWER</speaker>
+Come, you shall have Trent turned.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I do not care. I'll give thrice so much land
 To any well-deserving friend;
 But in the way of bargain, mark you me,
 I'll cavil on the ninth part of a hair.
 Are the indentures drawn? Shall we be gone?
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 The moon shines fair. You may away by night.
 I'll haste the writer, and withal
 Break with your wives of your departure hence.
 I am afraid my daughter will run mad,
-So much she doteth on her Mortimer.	[He exits.]
+So much she doteth on her Mortimer.	[<i>He exits.</i>]
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Fie, cousin Percy, how you cross my father!
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I cannot choose. Sometime he angers me
 With telling me of the moldwarp and the ant,
 Of the dreamer Merlin and his prophecies,
@@ -2475,7 +2857,7 @@ With cheese and garlic in a windmill, far,
 Than feed on cates and have him talk to me
 In any summer house in Christendom.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 In faith, he is a worthy gentleman,
 Exceedingly well read and profited
 In strange concealments, valiant as a lion,
@@ -2489,7 +2871,8 @@ Might so have tempted him as you have done
 Without the taste of danger and reproof.
 But do not use it oft, let me entreat you.
 
-<b>WORCESTER,</b> [to Hotspur]
+<speaker>WORCESTER,</speaker>
+[<i>to Hotspur</i>]
 In faith, my lord, you are too willful-blame,
 And, since your coming hither, have done enough
 To put him quite besides his patience.
@@ -2505,39 +2888,38 @@ Loseth men's hearts and leaves behind a stain
 Upon the beauty of all parts besides,
 Beguiling them of commendation.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Well, I am schooled. Good manners be your speed!
 Here come our wives, and let us take our leave.
 
-[Enter Glendower with the Ladies.]
+[<i>Enter Glendower with the Ladies.</i>]
 
-
-MORTIMER
+<speaker>MORTIMER</speaker>
 This is the deadly spite that angers me:
 My wife can speak no English, I no Welsh.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 My daughter weeps; she'll not part with you.
 She'll be a soldier too, she'll to the wars.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 Good father, tell her that she and my aunt Percy
 Shall follow in your conduct speedily.
-[Glendower speaks to her in Welsh,
-and she answers him in the same.]
+[<i>Glendower speaks to her in Welsh,
+and she answers him in the same.</i>]
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 She is desperate here, a peevish self-willed harlotry,
 One that no persuasion can do good upon.
-[The Lady speaks in Welsh.]
+[<i>The Lady speaks in Welsh.</i>]
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 I understand thy looks. That pretty Welsh
 Which thou pourest down from these swelling
 heavens
 I am too perfect in, and but for shame
 In such a parley should I answer thee.
-[The Lady speaks again in Welsh. They kiss.]
+[<i>The Lady speaks again in Welsh. They kiss.</i>]
 I understand thy kisses, and thou mine,
 And that's a feeling disputation;
 But I will never be a truant, love,
@@ -2546,14 +2928,14 @@ Makes Welsh as sweet as ditties highly penned,
 Sung by a fair queen in a summer's bower,
 With ravishing division, to her lute.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Nay, if you melt, then will she run mad.
-[The Lady speaks again in Welsh.]
+[<i>The Lady speaks again in Welsh.</i>]
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 O, I am ignorance itself in this!
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 She bids you on the wanton rushes lay you down
 And rest your gentle head upon her lap,
 And she will sing the song that pleaseth you,
@@ -2564,57 +2946,71 @@ As is the difference betwixt day and night
 The hour before the heavenly harnessed team
 Begins his golden progress in the east.
 
-MORTIMER
+<speaker>MORTIMER</speaker>
 With all my heart I'll sit and hear her sing.
 By that time will our book, I think, be drawn.
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Do so, and those musicians that shall play to you
 Hang in the air a thousand leagues from hence,
 And straight they shall be here. Sit and attend.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Come, Kate, thou art perfect in lying down.
 Come, quick, quick, that I may lay my head in thy
 lap.
 
-LADY PERCY  Go, you giddy goose.
-[The music plays.]
+<speaker>LADY PERCY</speaker>
+Go, you giddy goose.
+[<i>The music plays.</i>]
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Now I perceive the devil understands Welsh,
 And 'tis no marvel he is so humorous.
 By 'r Lady, he is a good musician.
 
-LADY PERCY  Then should you be nothing but musical,
+<speaker>LADY PERCY</speaker>
+Then should you be nothing but musical,
 for you are altogether governed by humors. Lie
 still, you thief, and hear the lady sing in Welsh.
 
-HOTSPUR  I had rather hear Lady, my brach, howl in
+<speaker>HOTSPUR</speaker>
+I had rather hear Lady, my brach, howl in
 Irish.
 
-LADY PERCY  Wouldst thou have thy head broken?
+<speaker>LADY PERCY</speaker>
+Wouldst thou have thy head broken?
 
-HOTSPUR  No.
+<speaker>HOTSPUR</speaker>
+No.
 
-LADY PERCY  Then be still.
+<speaker>LADY PERCY</speaker>
+Then be still.
 
-HOTSPUR  Neither; 'tis a woman's fault.
+<speaker>HOTSPUR</speaker>
+Neither; 'tis a woman's fault.
 
-LADY PERCY  Now God help thee!
+<speaker>LADY PERCY</speaker>
+Now God help thee!
 
-HOTSPUR  To the Welsh lady's bed.
+<speaker>HOTSPUR</speaker>
+To the Welsh lady's bed.
 
-LADY PERCY  What's that?
+<speaker>LADY PERCY</speaker>
+What's that?
 
-HOTSPUR  Peace, she sings.
-[Here the Lady sings a Welsh song.]
+<speaker>HOTSPUR</speaker>
+Peace, she sings.
+[<i>Here the Lady sings a Welsh song.</i>]
 
-HOTSPUR  Come, Kate, I'll have your song too.
+<speaker>HOTSPUR</speaker>
+Come, Kate, I'll have your song too.
 
-LADY PERCY  Not mine, in good sooth.
+<speaker>LADY PERCY</speaker>
+Not mine, in good sooth.
 
-HOTSPUR  Not yours, in good sooth! Heart, you swear
+<speaker>HOTSPUR</speaker>
+Not yours, in good sooth! Heart, you swear
 like a comfit-maker's wife! "Not you, in good
 sooth," and "as true as I live," and "as God shall
 mend me," and "as sure as day"--
@@ -2626,33 +3022,35 @@ And such protest of pepper-gingerbread
 To velvet-guards and Sunday citizens.
 Come, sing.
 
-LADY PERCY  I will not sing.
+<speaker>LADY PERCY</speaker>
+I will not sing.
 
-HOTSPUR  'Tis the next way to turn tailor, or be redbreast
+<speaker>HOTSPUR</speaker>
+'Tis the next way to turn tailor, or be redbreast
 teacher. An the indentures be drawn, I'll
 away within these two hours, and so come in when
-you will.	[He exits.]
+you will.	[<i>He exits.</i>]
 
-GLENDOWER
+<speaker>GLENDOWER</speaker>
 Come, come, Lord Mortimer, you are as slow
 As hot Lord Percy is on fire to go.
 By this our book is drawn. We'll but seal,
 And then to horse immediately.
 
-MORTIMER  With all my heart.
-[They exit.]
+<speaker>MORTIMER</speaker>
+With all my heart.
+[<i>They exit.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter the King, Prince of Wales, and others.]
+[<i>Enter the King, Prince of Wales, and others.</i>]
 
-
-KING
+<speaker>KING</speaker>
 Lords, give us leave; the Prince of Wales and I
 Must have some private conference, but be near at
 hand,
 For we shall presently have need of you.
-[Lords exit.]
+[<i>Lords exit.</i>]
 I know not whether God will have it so
 For some displeasing service I have done,
 That, in His secret doom, out of my blood
@@ -2669,7 +3067,7 @@ As thou art matched withal, and grafted to,
 Accompany the greatness of thy blood,
 And hold their level with thy princely heart?
 
-PRINCE
+<speaker>PRINCE</speaker>
 So please your Majesty, I would I could
 Quit all offenses with as clear excuse
 As well as I am doubtless I can purge
@@ -2682,7 +3080,7 @@ I may for some things true, wherein my youth
 Hath faulty wandered and irregular,
 Find pardon on my true submission.
 
-KING
+<speaker>KING</speaker>
 God pardon thee. Yet let me wonder, Harry,
 At thy affections, which do hold a wing
 Quite from the flight of all thy ancestors.
@@ -2747,11 +3145,12 @@ Save mine, which hath desired to see thee more,
 Which now doth that I would not have it do,
 Make blind itself with foolish tenderness.
 
-PRINCE
+<speaker>PRINCE</speaker>
 I shall hereafter, my thrice gracious lord,
 Be more myself.
 
-KING  For all the world
+<speaker>KING</speaker>
+For all the world
 As thou art to this hour was Richard then
 When I from France set foot at Ravenspurgh,
 And even as I was then is Percy now.
@@ -2790,7 +3189,7 @@ To fight against me under Percy's pay,
 To dog his heels, and curtsy at his frowns,
 To show how much thou art degenerate.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Do not think so. You shall not find it so.
 And God forgive them that so much have swayed
 Your Majesty's good thoughts away from me.
@@ -2823,15 +3222,15 @@ If not, the end of life cancels all bands,
 And I will die a hundred thousand deaths
 Ere break the smallest parcel of this vow.
 
-KING
+<speaker>KING</speaker>
 A hundred thousand rebels die in this.
 Thou shalt have charge and sovereign trust herein.
 
-[Enter Blunt.]
+[<i>Enter Blunt.</i>]
 
 How now, good Blunt? Thy looks are full of speed.
 
-BLUNT
+<speaker>BLUNT</speaker>
 So hath the business that I come to speak of.
 Lord Mortimer of Scotland hath sent word
 That Douglas and the English rebels met
@@ -2840,7 +3239,7 @@ A mighty and a fearful head they are,
 If promises be kept on every hand,
 As ever offered foul play in a state.
 
-KING
+<speaker>KING</speaker>
 The Earl of Westmoreland set forth today,
 With him my son, Lord John of Lancaster,
 For this advertisement is five days old.--
@@ -2852,14 +3251,14 @@ Our business valued, some twelve days hence
 Our general forces at Bridgenorth shall meet.
 Our hands are full of business. Let's away.
 Advantage feeds him fat while men delay.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Falstaff and Bardolph.]
+[<i>Enter Falstaff and Bardolph.</i>]
 
-
-FALSTAFF  Bardolph, am I not fallen away vilely since
+<speaker>FALSTAFF</speaker>
+Bardolph, am I not fallen away vilely since
 this last action? Do I not bate? Do I not dwindle?
 Why, my skin hangs about me like an old lady's
 loose gown. I am withered like an old applejohn.
@@ -2871,10 +3270,12 @@ am a peppercorn, a brewer's horse. The inside of a
 church! Company, villainous company, hath been
 the spoil of me.
 
-BARDOLPH  Sir John, you are so fretful you cannot live
+<speaker>BARDOLPH</speaker>
+Sir John, you are so fretful you cannot live
 long.
 
-FALSTAFF  Why, there is it. Come, sing me a bawdy
+<speaker>FALSTAFF</speaker>
+Why, there is it. Come, sing me a bawdy
 song, make me merry. I was as virtuously given as a
 gentleman need to be, virtuous enough: swore
 little; diced not above seven times--a week; went to
@@ -2883,18 +3284,22 @@ hour; paid money that I borrowed--three or four
 times; lived well and in good compass; and now I
 live out of all order, out of all compass.
 
-BARDOLPH  Why, you are so fat, Sir John, that you must
+<speaker>BARDOLPH</speaker>
+Why, you are so fat, Sir John, that you must
 needs be out of all compass, out of all reasonable
 compass, Sir John.
 
-FALSTAFF  Do thou amend thy face, and I'll amend my
+<speaker>FALSTAFF</speaker>
+Do thou amend thy face, and I'll amend my
 life. Thou art our admiral, thou bearest the lantern
 in the poop, but 'tis in the nose of thee. Thou art the
 Knight of the Burning Lamp.
 
-BARDOLPH  Why, Sir John, my face does you no harm.
+<speaker>BARDOLPH</speaker>
+Why, Sir John, my face does you no harm.
 
-FALSTAFF  No, I'll be sworn, I make as good use of it as
+<speaker>FALSTAFF</speaker>
+No, I'll be sworn, I make as good use of it as
 many a man doth of a death's-head or a memento
 mori. I never see thy face but I think upon hellfire
 and Dives that lived in purple, for there he is in his
@@ -2916,173 +3321,226 @@ have maintained that salamander of yours with fire
 any time this two-and-thirty years, God reward me
 for it.
 
-BARDOLPH  'Sblood, I would my face were in your
+<speaker>BARDOLPH</speaker>
+'Sblood, I would my face were in your
 belly!
 
-FALSTAFF  Godamercy, so should I be sure to be
+<speaker>FALSTAFF</speaker>
+Godamercy, so should I be sure to be
 heartburned!
 
-[Enter Hostess.]
+[<i>Enter Hostess.</i>]
 
 How now, Dame Partlet the hen, have you enquired
 yet who picked my pocket?
 
-HOSTESS  Why, Sir John, what do you think, Sir John,
+<speaker>HOSTESS</speaker>
+Why, Sir John, what do you think, Sir John,
 do you think I keep thieves in my house? I have
 searched, I have enquired, so has my husband,
 man by man, boy by boy, servant by servant.
 The tithe of a hair was never lost in my house
 before.
 
-FALSTAFF  You lie, hostess. Bardolph was shaved and
+<speaker>FALSTAFF</speaker>
+You lie, hostess. Bardolph was shaved and
 lost many a hair, and I'll be sworn my pocket was
 picked. Go to, you are a woman, go.
 
-HOSTESS  Who, I? No, I defy thee! God's light, I was
+<speaker>HOSTESS</speaker>
+Who, I? No, I defy thee! God's light, I was
 never called so in mine own house before.
 
-FALSTAFF  Go to, I know you well enough.
+<speaker>FALSTAFF</speaker>
+Go to, I know you well enough.
 
-HOSTESS  No, Sir John, you do not know me, Sir John. I
+<speaker>HOSTESS</speaker>
+No, Sir John, you do not know me, Sir John. I
 know you, Sir John. You owe me money, Sir John,
 and now you pick a quarrel to beguile me of it. I
 bought you a dozen of shirts to your back.
 
-FALSTAFF  Dowlas, filthy dowlas. I have given them
+<speaker>FALSTAFF</speaker>
+Dowlas, filthy dowlas. I have given them
 away to bakers' wives; they have made bolters of
 them.
 
-HOSTESS  Now, as I am a true woman, holland of eight
+<speaker>HOSTESS</speaker>
+Now, as I am a true woman, holland of eight
 shillings an ell. You owe money here besides, Sir
 John, for your diet and by-drinkings and money
 lent you, four-and-twenty pound.
 
-<b>FALSTAFF,</b> [pointing to Bardolph]  He had his part of it.
+<speaker>FALSTAFF,</speaker>
+[<i>pointing to Bardolph</i>]
+He had his part of it.
 Let him pay.
 
-HOSTESS  He? Alas, he is poor. He hath nothing.
+<speaker>HOSTESS</speaker>
+He? Alas, he is poor. He hath nothing.
 
-FALSTAFF  How, poor? Look upon his face. What call
+<speaker>FALSTAFF</speaker>
+How, poor? Look upon his face. What call
 you rich? Let them coin his nose. Let them coin his
 cheeks. I'll not pay a denier. What, will you make a
 younker of me? Shall I not take mine ease in mine
 inn but I shall have my pocket picked? I have lost a
 seal ring of my grandfather's worth forty mark.
 
-<b>HOSTESS,</b> [to Bardolph]  O Jesu, I have heard the Prince
+<speaker>HOSTESS,</speaker>
+[<i>to Bardolph</i>]
+O Jesu, I have heard the Prince
 tell him, I know not how oft, that that ring was
 copper.
 
-FALSTAFF  How? The Prince is a jack, a sneak-up.
+<speaker>FALSTAFF</speaker>
+How? The Prince is a jack, a sneak-up.
 'Sblood, an he were here, I would cudgel him like a
 dog if he would say so.
 
-[Enter the Prince marching, with Peto, and Falstaff
-meets him playing upon his truncheon like a fife.]
+[<i>Enter the Prince marching, with Peto, and Falstaff
+meets him playing upon his truncheon like a fife.</i>]
 
 How now, lad, is the wind in that door, i' faith? Must
 we all march?
 
-BARDOLPH  Yea, two and two, Newgate fashion.
+<speaker>BARDOLPH</speaker>
+Yea, two and two, Newgate fashion.
 
-<b>HOSTESS,</b> [to Prince]  My lord, I pray you, hear me.
+<speaker>HOSTESS,</speaker>
+[<i>to Prince</i>]
+My lord, I pray you, hear me.
 
-PRINCE  What say'st thou, Mistress Quickly? How doth
+<speaker>PRINCE</speaker>
+What say'st thou, Mistress Quickly? How doth
 thy husband? I love him well; he is an honest man.
 
-HOSTESS  Good my lord, hear me.
+<speaker>HOSTESS</speaker>
+Good my lord, hear me.
 
-FALSTAFF  Prithee, let her alone, and list to me.
+<speaker>FALSTAFF</speaker>
+Prithee, let her alone, and list to me.
 
-PRINCE  What say'st thou, Jack?
+<speaker>PRINCE</speaker>
+What say'st thou, Jack?
 
-FALSTAFF  The other night I fell asleep here, behind the
+<speaker>FALSTAFF</speaker>
+The other night I fell asleep here, behind the
 arras, and had my pocket picked. This house is
 turned bawdy house; they pick pockets.
 
-PRINCE  What didst thou lose, Jack?
+<speaker>PRINCE</speaker>
+What didst thou lose, Jack?
 
-FALSTAFF  Wilt thou believe me, Hal, three or four
+<speaker>FALSTAFF</speaker>
+Wilt thou believe me, Hal, three or four
 bonds of forty pound apiece, and a seal ring of my
 grandfather's.
 
-PRINCE  A trifle, some eightpenny matter.
+<speaker>PRINCE</speaker>
+A trifle, some eightpenny matter.
 
-HOSTESS  So I told him, my lord, and I said I heard
+<speaker>HOSTESS</speaker>
+So I told him, my lord, and I said I heard
 your Grace say so. And, my lord, he speaks most
 vilely of you, like a foul-mouthed man, as he is, and
 said he would cudgel you.
 
-PRINCE  What, he did not!
+<speaker>PRINCE</speaker>
+What, he did not!
 
-HOSTESS  There's neither faith, truth, nor womanhood
+<speaker>HOSTESS</speaker>
+There's neither faith, truth, nor womanhood
 in me else.
 
-FALSTAFF  There's no more faith in thee than in a
+<speaker>FALSTAFF</speaker>
+There's no more faith in thee than in a
 stewed prune, nor no more truth in thee than in a
 drawn fox, and for womanhood, Maid Marian may
 be the deputy's wife of the ward to thee. Go, you
 thing, go.
 
-HOSTESS  Say, what thing, what thing?
+<speaker>HOSTESS</speaker>
+Say, what thing, what thing?
 
-FALSTAFF  What thing? Why, a thing to thank God on.
+<speaker>FALSTAFF</speaker>
+What thing? Why, a thing to thank God on.
 
-HOSTESS  I am no thing to thank God on, I would thou
+<speaker>HOSTESS</speaker>
+I am no thing to thank God on, I would thou
 shouldst know it! I am an honest man's wife, and,
 setting thy knighthood aside, thou art a knave to
 call me so.
 
-FALSTAFF  Setting thy womanhood aside, thou art a
+<speaker>FALSTAFF</speaker>
+Setting thy womanhood aside, thou art a
 beast to say otherwise.
 
-HOSTESS  Say, what beast, thou knave, thou?
+<speaker>HOSTESS</speaker>
+Say, what beast, thou knave, thou?
 
-FALSTAFF  What beast? Why, an otter.
+<speaker>FALSTAFF</speaker>
+What beast? Why, an otter.
 
-PRINCE  An otter, Sir John. Why an otter?
+<speaker>PRINCE</speaker>
+An otter, Sir John. Why an otter?
 
-FALSTAFF  Why, she's neither fish nor flesh; a man
+<speaker>FALSTAFF</speaker>
+Why, she's neither fish nor flesh; a man
 knows not where to have her.
 
-HOSTESS  Thou art an unjust man in saying so. Thou or
+<speaker>HOSTESS</speaker>
+Thou art an unjust man in saying so. Thou or
 any man knows where to have me, thou knave,
 thou.
 
-PRINCE  Thou sayst true, hostess, and he slanders thee
+<speaker>PRINCE</speaker>
+Thou sayst true, hostess, and he slanders thee
 most grossly.
 
-HOSTESS  So he doth you, my lord, and said this other
+<speaker>HOSTESS</speaker>
+So he doth you, my lord, and said this other
 day you owed him a thousand pound.
 
-PRINCE  Sirrah, do I owe you a thousand pound?
+<speaker>PRINCE</speaker>
+Sirrah, do I owe you a thousand pound?
 
-FALSTAFF  A thousand pound, Hal? A million. Thy love is
+<speaker>FALSTAFF</speaker>
+A thousand pound, Hal? A million. Thy love is
 worth a million; thou owest me thy love.
 
-HOSTESS  Nay, my lord, he called you "jack," and said
+<speaker>HOSTESS</speaker>
+Nay, my lord, he called you "jack," and said
 he would cudgel you.
 
-FALSTAFF  Did I, Bardolph?
+<speaker>FALSTAFF</speaker>
+Did I, Bardolph?
 
-BARDOLPH  Indeed, Sir John, you said so.
+<speaker>BARDOLPH</speaker>
+Indeed, Sir John, you said so.
 
-FALSTAFF  Yea, if he said my ring was copper.
+<speaker>FALSTAFF</speaker>
+Yea, if he said my ring was copper.
 
-PRINCE  I say 'tis copper. Darest thou be as good as thy
+<speaker>PRINCE</speaker>
+I say 'tis copper. Darest thou be as good as thy
 word now?
 
-FALSTAFF  Why, Hal, thou knowest, as thou art but
+<speaker>FALSTAFF</speaker>
+Why, Hal, thou knowest, as thou art but
 man, I dare, but as thou art prince, I fear thee as I
 fear the roaring of the lion's whelp.
 
-PRINCE  And why not as the lion?
+<speaker>PRINCE</speaker>
+And why not as the lion?
 
-FALSTAFF  The King himself is to be feared as the lion.
+<speaker>FALSTAFF</speaker>
+The King himself is to be feared as the lion.
 Dost thou think I'll fear thee as I fear thy father?
 Nay, an I do, I pray God my girdle break.
 
-<b>PRINCE  O,</b> if it should, how would thy guts fall about
+<speaker>PRINCE</speaker>
+O, if it should, how would thy guts fall about
 thy knees! But, sirrah, there's no room for faith,
 truth, nor honesty in this bosom of thine. It is all
 filled up with guts and midriff. Charge an honest
@@ -3096,79 +3554,90 @@ injuries but these, I am a villain. And yet you will
 stand to it! You will not pocket up wrong! Art thou
 not ashamed?
 
-FALSTAFF  Dost thou hear, Hal? Thou knowest in the
+<speaker>FALSTAFF</speaker>
+Dost thou hear, Hal? Thou knowest in the
 state of innocency Adam fell, and what should poor
 Jack Falstaff do in the days of villainy? Thou seest I
 have more flesh than another man and therefore
 more frailty. You confess, then, you picked my
 pocket.
 
-PRINCE  It appears so by the story.
+<speaker>PRINCE</speaker>
+It appears so by the story.
 
-FALSTAFF  Hostess, I forgive thee. Go make ready
+<speaker>FALSTAFF</speaker>
+Hostess, I forgive thee. Go make ready
 breakfast, love thy husband, look to thy servants,
 cherish thy guests. Thou shalt find me tractable
 to any honest reason. Thou seest I am pacified still.
-Nay, prithee, begone. [(Hostess exits.)] Now, Hal, to
+Nay, prithee, begone. [<i>(Hostess exits.)</i>]
+Now, Hal, to
 the news at court. For the robbery, lad, how is that
 answered?
 
-<b>PRINCE  O,</b> my sweet beef, I must still be good angel to
+<speaker>PRINCE</speaker>
+O, my sweet beef, I must still be good angel to
 thee. The money is paid back again.
 
-<b>FALSTAFF  O,</b> I do not like that paying back. 'Tis a double
+<speaker>FALSTAFF</speaker>
+O, I do not like that paying back. 'Tis a double
 labor.
 
-PRINCE  I am good friends with my father and may do
+<speaker>PRINCE</speaker>
+I am good friends with my father and may do
 anything.
 
-FALSTAFF  Rob me the Exchequer the first thing thou
+<speaker>FALSTAFF</speaker>
+Rob me the Exchequer the first thing thou
 dost, and do it with unwashed hands too.
 
-BARDOLPH  Do, my lord.
+<speaker>BARDOLPH</speaker>
+Do, my lord.
 
-PRINCE  I have procured thee, Jack, a charge of foot.
+<speaker>PRINCE</speaker>
+I have procured thee, Jack, a charge of foot.
 
-FALSTAFF  I would it had been of horse. Where shall I
+<speaker>FALSTAFF</speaker>
+I would it had been of horse. Where shall I
 find one that can steal well? O, for a fine thief of
 the age of two-and-twenty or thereabouts! I am heinously
 unprovided. Well, God be thanked for these
 rebels. They offend none but the virtuous. I laud
 them; I praise them.
 
-PRINCE  Bardolph.
+<speaker>PRINCE</speaker>
+Bardolph.
 
-BARDOLPH  My lord.
+<speaker>BARDOLPH</speaker>
+My lord.
 
-<b>PRINCE,</b> [handing Bardolph papers]
+<speaker>PRINCE,</speaker>
+[<i>handing Bardolph papers</i>]
 Go, bear this letter to Lord John of Lancaster,
 To my brother John; this to my Lord of
-Westmoreland.	[Bardolph exits.]
+Westmoreland.	[<i>Bardolph exits.</i>]
 Go, Peto, to horse, to horse, for thou and I
 Have thirty miles to ride yet ere dinner time.
-[Peto exits.]
+[<i>Peto exits.</i>]
 Jack, meet me tomorrow in the Temple hall
 At two o'clock in the afternoon;
 There shalt thou know thy charge, and there receive
 Money and order for their furniture.
 The land is burning. Percy stands on high,
-And either we or they must lower lie.	[He exits.]
+And either we or they must lower lie.	[<i>He exits.</i>]
 
-FALSTAFF
+<speaker>FALSTAFF</speaker>
 Rare words, brave world!--Hostess, my breakfast,
 come.--
 O, I could wish this tavern were my drum.
-[He exits.]
-
+[<i>He exits.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
-
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Hotspur, Worcester, and Douglas.]
+[<i>Enter Hotspur, Worcester, and Douglas.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Well said, my noble Scot. If speaking truth
 In this fine age were not thought flattery,
 Such attribution should the Douglas have
@@ -3179,49 +3648,53 @@ The tongues of soothers. But a braver place
 In my heart's love hath no man than yourself.
 Nay, task me to my word; approve me, lord.
 
-DOUGLAS  Thou art the king of honor.
+<speaker>DOUGLAS</speaker>
+Thou art the king of honor.
 No man so potent breathes upon the ground
 But I will beard him.
 
-HOTSPUR  Do so, and 'tis well.
+<speaker>HOTSPUR</speaker>
+Do so, and 'tis well.
 
-[Enter a Messenger with letters.]
+[<i>Enter a Messenger with letters.</i>]
 
-
-What letters hast thou there? [To Douglas.] I can but
+What letters hast thou there? [<i>To Douglas.</i>]
+I can but
 thank you.
 
-MESSENGER  These letters come from your father.
+<speaker>MESSENGER</speaker>
+These letters come from your father.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Letters from him! Why comes he not himself?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 He cannot come, my lord. He is grievous sick.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Zounds, how has he the leisure to be sick
 In such a justling time? Who leads his power?
 Under whose government come they along?
 
-<b>MESSENGER,</b> [handing letter to Hotspur, who begins
-reading it]
+<speaker>MESSENGER,</speaker>
+[<i>handing letter to Hotspur, who begins
+reading it</i>]
 His letters bears his mind, not I, my lord.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 I prithee, tell me, doth he keep his bed?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 He did, my lord, four days ere I set forth,
 And, at the time of my departure thence,
 He was much feared by his physicians.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 I would the state of time had first been whole
 Ere he by sickness had been visited.
 His health was never better worth than now.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Sick now? Droop now? This sickness doth infect
 The very lifeblood of our enterprise.
 'Tis catching hither, even to our camp.
@@ -3238,10 +3711,10 @@ For, as he writes, there is no quailing now,
 Because the King is certainly possessed
 Of all our purposes. What say you to it?
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Your father's sickness is a maim to us.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 A perilous gash, a very limb lopped off!
 And yet, in faith, it is not. His present want
 Seems more than we shall find it. Were it good
@@ -3253,18 +3726,18 @@ The very bottom and the soul of hope,
 The very list, the very utmost bound
 Of all our fortunes.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 Faith, and so we should, where now remains
 A sweet reversion. We may boldly spend
 Upon the hope of what is to come in.
 A comfort of retirement lives in this.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 A rendezvous, a home to fly unto,
 If that the devil and mischance look big
 Upon the maidenhead of our affairs.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 But yet I would your father had been here.
 The quality and hair of our attempt
 Brooks no division. It will be thought
@@ -3282,7 +3755,8 @@ This absence of your father's draws a curtain
 That shows the ignorant a kind of fear
 Before not dreamt of.
 
-HOTSPUR  You strain too far.
+<speaker>HOTSPUR</speaker>
+You strain too far.
 I rather of his absence make this use:
 It lends a luster and more great opinion,
 A larger dare, to our great enterprise
@@ -3292,36 +3766,37 @@ To push against a kingdom, with his help
 We shall o'erturn it topsy-turvy down.
 Yet all goes well; yet all our joints are whole.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 As heart can think. There is not such a word
 Spoke of in Scotland as this term of fear.
 
-[Enter Sir Richard Vernon.]
+[<i>Enter Sir Richard Vernon.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 My cousin Vernon, welcome, by my soul.
 
-VERNON
+<speaker>VERNON</speaker>
 Pray God my news be worth a welcome, lord.
 The Earl of Westmoreland, seven thousand strong,
 Is marching hitherwards, with him Prince John.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 No harm, what more?
 
-VERNON  And further I have learned
+<speaker>VERNON</speaker>
+And further I have learned
 The King himself in person is set forth,
 Or hitherwards intended speedily,
 With strong and mighty preparation.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 He shall be welcome too. Where is his son,
 The nimble-footed madcap Prince of Wales,
 And his comrades, that daffed the world aside
 And bid it pass?
 
-VERNON  All furnished, all in arms,
+<speaker>VERNON</speaker>
+All furnished, all in arms,
 All plumed like estridges that with the wind
 Bated like eagles having lately bathed,
 Glittering in golden coats like images,
@@ -3336,7 +3811,7 @@ As if an angel dropped down from the clouds,
 To turn and wind a fiery Pegasus
 And witch the world with noble horsemanship.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 No more, no more! Worse than the sun in March
 This praise doth nourish agues. Let them come.
 They come like sacrifices in their trim,
@@ -3352,55 +3827,63 @@ Harry to Harry shall, hot horse to horse,
 Meet and ne'er part till one drop down a corse.
 O, that Glendower were come!
 
-VERNON  There is more news.
+<speaker>VERNON</speaker>
+There is more news.
 I learned in Worcester, as I rode along,
 He cannot draw his power this fourteen days.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 That's the worst tidings that I hear of yet.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Ay, by my faith, that bears a frosty sound.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 What may the King's whole battle reach unto?
 
-VERNON
+<speaker>VERNON</speaker>
 To thirty thousand.
 
-HOTSPUR  Forty let it be.
+<speaker>HOTSPUR</speaker>
+Forty let it be.
 My father and Glendower being both away,
 The powers of us may serve so great a day.
 Come, let us take a muster speedily.
 Doomsday is near. Die all, die merrily.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 Talk not of dying. I am out of fear
 Of death or death's hand for this one half year.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Falstaff and Bardolph.]
+[<i>Enter Falstaff and Bardolph.</i>]
 
-
-FALSTAFF  Bardolph, get thee before to Coventry. Fill
+<speaker>FALSTAFF</speaker>
+Bardolph, get thee before to Coventry. Fill
 me a bottle of sack. Our soldiers shall march
 through. We'll to Sutton Coldfield tonight.
 
-BARDOLPH  Will you give me money, captain?
+<speaker>BARDOLPH</speaker>
+Will you give me money, captain?
 
-FALSTAFF  Lay out, lay out.
+<speaker>FALSTAFF</speaker>
+Lay out, lay out.
 
-BARDOLPH  This bottle makes an angel.
+<speaker>BARDOLPH</speaker>
+This bottle makes an angel.
 
-FALSTAFF  An if it do, take it for thy labor. An if it make
+<speaker>FALSTAFF</speaker>
+An if it do, take it for thy labor. An if it make
 twenty, take them all. I'll answer the coinage. Bid
 my lieutenant Peto meet me at town's end.
 
-BARDOLPH  I will, captain. Farewell.	[He exits.]
+<speaker>BARDOLPH</speaker>
+I will, captain. Farewell. [<i>He exits.</i>]
 
-FALSTAFF  If I be not ashamed of my soldiers, I am a
+<speaker>FALSTAFF</speaker>
+If I be not ashamed of my soldiers, I am a
 soused gurnet. I have misused the King's press
 damnably. I have got, in exchange of a hundred
 and fifty soldiers, three hundred and odd pounds. I
@@ -3440,90 +3923,108 @@ stolen from my host at Saint Albans or the red-nose
 innkeeper of Daventry. But that's all one; they'll find
 linen enough on every hedge.
 
-[Enter the Prince and the Lord of Westmoreland.]
+[<i>Enter the Prince and the Lord of Westmoreland.</i>]
 
+<speaker>PRINCE</speaker>
+How now, blown Jack? How now, quilt?
 
-PRINCE  How now, blown Jack? How now, quilt?
-
-FALSTAFF  What, Hal, how now, mad wag? What a devil
+<speaker>FALSTAFF</speaker>
+What, Hal, how now, mad wag? What a devil
 dost thou in Warwickshire?--My good Lord of
 Westmoreland, I cry you mercy. I thought your
 Honor had already been at Shrewsbury.
 
-WESTMORELAND  Faith, Sir John, 'tis more than time
+<speaker>WESTMORELAND</speaker>
+Faith, Sir John, 'tis more than time
 that I were there and you too, but my powers are
 there already. The King, I can tell you, looks for us
 all. We must away all night.
 
-FALSTAFF  Tut, never fear me. I am as vigilant as a cat to
+<speaker>FALSTAFF</speaker>
+Tut, never fear me. I am as vigilant as a cat to
 steal cream.
 
-PRINCE  I think to steal cream indeed, for thy theft hath
+<speaker>PRINCE</speaker>
+I think to steal cream indeed, for thy theft hath
 already made thee butter. But tell me, Jack, whose
 fellows are these that come after?
 
-FALSTAFF  Mine, Hal, mine.
+<speaker>FALSTAFF</speaker>
+Mine, Hal, mine.
 
-PRINCE  I did never see such pitiful rascals.
+<speaker>PRINCE</speaker>
+I did never see such pitiful rascals.
 
-FALSTAFF  Tut, tut, good enough to toss; food for powder,
+<speaker>FALSTAFF</speaker>
+Tut, tut, good enough to toss; food for powder,
 food for powder. They'll fill a pit as well as
 better. Tush, man, mortal men, mortal men.
 
-WESTMORELAND  Ay, but, Sir John, methinks they are
+<speaker>WESTMORELAND</speaker>
+Ay, but, Sir John, methinks they are
 exceeding poor and bare, too beggarly.
 
-FALSTAFF  Faith, for their poverty, I know not where
+<speaker>FALSTAFF</speaker>
+Faith, for their poverty, I know not where
 they had that, and for their bareness, I am sure they
 never learned that of me.
 
-PRINCE  No, I'll be sworn, unless you call three fingers
+<speaker>PRINCE</speaker>
+No, I'll be sworn, unless you call three fingers
 in the ribs bare. But, sirrah, make haste. Percy is
-already in the field.	[He exits.]
+already in the field.	[<i>He exits.</i>]
 
-FALSTAFF  What, is the King encamped?
+<speaker>FALSTAFF</speaker>
+What, is the King encamped?
 
-WESTMORELAND  He is, Sir John. I fear we shall stay too
-long.	[He exits.]
+<speaker>WESTMORELAND</speaker>
+He is, Sir John. I fear we shall stay too
+long.	[<i>He exits.</i>]
 
-FALSTAFF  Well,
+<speaker>FALSTAFF</speaker>
+Well,
 To the latter end of a fray and the beginning of a
 feast
 Fits a dull fighter and a keen guest.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Hotspur, Worcester, Douglas, and Vernon.]
+[<i>Enter Hotspur, Worcester, Douglas, and Vernon.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 We'll fight with him tonight.
 
-WORCESTER  It may not be.
+<speaker>WORCESTER</speaker>
+It may not be.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 You give him then advantage.
 
-VERNON  Not a whit.
+<speaker>VERNON</speaker>
+Not a whit.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Why say you so? Looks he not for supply?
 
-VERNON  So do we.
+<speaker>VERNON</speaker>
+So do we.
 
-HOTSPUR  His is certain; ours is doubtful.
+<speaker>HOTSPUR</speaker>
+His is certain; ours is doubtful.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 Good cousin, be advised. Stir not tonight.
 
-<b>VERNON,</b> [to Hotspur]
+<speaker>VERNON,</speaker>
+[<i>to Hotspur</i>]
 Do not, my lord.
 
-DOUGLAS  You do not counsel well.
+<speaker>DOUGLAS</speaker>
+You do not counsel well.
 You speak it out of fear and cold heart.
 
-VERNON
+<speaker>VERNON</speaker>
 Do me no slander, Douglas. By my life
 (And I dare well maintain it with my life),
 If well-respected honor bid me on,
@@ -3532,13 +4033,16 @@ As you, my lord, or any Scot that this day lives.
 Let it be seen tomorrow in the battle
 Which of us fears.
 
-DOUGLAS  Yea, or tonight.
+<speaker>DOUGLAS</speaker>
+Yea, or tonight.
 
-VERNON  Content.
+<speaker>VERNON</speaker>
+Content.
 
-HOTSPUR  Tonight, say I.
+<speaker>HOTSPUR</speaker>
+Tonight, say I.
 
-VERNON
+<speaker>VERNON</speaker>
 Come, come, it may not be. I wonder much,
 Being men of such great leading as you are,
 That you foresee not what impediments
@@ -3549,24 +4053,23 @@ And now their pride and mettle is asleep,
 Their courage with hard labor tame and dull,
 That not a horse is half the half of himself.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 So are the horses of the enemy
 In general journey-bated and brought low.
 The better part of ours are full of rest.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 The number of the King exceedeth ours.
 For God's sake, cousin, stay till all come in.
-[The trumpet sounds a parley.]
+[<i>The trumpet sounds a parley.</i>]
 
-[Enter Sir Walter Blunt.]
+[<i>Enter Sir Walter Blunt.</i>]
 
-
-BLUNT
+<speaker>BLUNT</speaker>
 I come with gracious offers from the King,
 If you vouchsafe me hearing and respect.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Welcome, Sir Walter Blunt, and would to God
 You were of our determination.
 Some of us love you well, and even those some
@@ -3574,7 +4077,7 @@ Envy your great deservings and good name
 Because you are not of our quality
 But stand against us like an enemy.
 
-BLUNT
+<speaker>BLUNT</speaker>
 And God defend but still I should stand so,
 So long as out of limit and true rule
 You stand against anointed majesty.
@@ -3590,7 +4093,7 @@ You shall have your desires with interest
 And pardon absolute for yourself and these
 Herein misled by your suggestion.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 The King is kind, and well we know the King
 Knows at what time to promise, when to pay.
 My father and my uncle and myself
@@ -3629,10 +4132,11 @@ Of all the favorites that the absent king
 In deputation left behind him here
 When he was personal in the Irish war.
 
-BLUNT
+<speaker>BLUNT</speaker>
 Tut, I came not to hear this.
 
-HOTSPUR  Then to the point.
+<speaker>HOTSPUR</speaker>
+Then to the point.
 In short time after, he deposed the King,
 Soon after that deprived him of his life
 And, in the neck of that, tasked the whole state.
@@ -3650,41 +4154,43 @@ This head of safety, and withal to pry
 Into his title, the which we find
 Too indirect for long continuance.
 
-BLUNT
+<speaker>BLUNT</speaker>
 Shall I return this answer to the King?
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Not so, Sir Walter. We'll withdraw awhile.
 Go to the King, and let there be impawned
 Some surety for a safe return again,
 And in the morning early shall mine uncle
 Bring him our purposes. And so farewell.
 
-BLUNT
+<speaker>BLUNT</speaker>
 I would you would accept of grace and love.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 And maybe so we shall.
 
-BLUNT  Pray God you do.
-[They exit.]
+<speaker>BLUNT</speaker>
+Pray God you do.
+[<i>They exit.</i>]
 
 <b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Archbishop of York and Sir Michael.]
+[<i>Enter Archbishop of York and Sir Michael.</i>]
 
-
-<b>ARCHBISHOP,</b> [handing papers]
+<speaker>ARCHBISHOP,</speaker>
+[<i>handing papers</i>]
 Hie, good Sir Michael, bear this sealed brief
 With winged haste to the Lord Marshal,
 This to my cousin Scroop, and all the rest
 To whom they are directed. If you knew
 How much they do import, you would make haste.
 
-SIR MICHAEL
+<speaker>SIR MICHAEL</speaker>
 My good lord, I guess their tenor.
 
-ARCHBISHOP  Like enough you do.
+<speaker>ARCHBISHOP</speaker>
+Like enough you do.
 Tomorrow, good Sir Michael, is a day
 Wherein the fortune of ten thousand men
 Must bide the touch. For, sir, at Shrewsbury,
@@ -3699,18 +4205,19 @@ And comes not in, o'erruled by prophecies,
 I fear the power of Percy is too weak
 To wage an instant trial with the King.
 
-SIR MICHAEL
+<speaker>SIR MICHAEL</speaker>
 Why, my good lord, you need not fear.
 There is Douglas and Lord Mortimer.
 
-ARCHBISHOP  No, Mortimer is not there.
+<speaker>ARCHBISHOP</speaker>
+No, Mortimer is not there.
 
-SIR MICHAEL
+<speaker>SIR MICHAEL</speaker>
 But there is Mordake, Vernon, Lord Harry Percy,
 And there is my Lord of Worcester, and a head
 Of gallant warriors, noble gentlemen.
 
-ARCHBISHOP
+<speaker>ARCHBISHOP</speaker>
 And so there is. But yet the King hath drawn
 The special head of all the land together:
 The Prince of Wales, Lord John of Lancaster,
@@ -3718,10 +4225,10 @@ The noble Westmoreland, and warlike Blunt,
 And many more corrivals and dear men
 Of estimation and command in arms.
 
-SIR MICHAEL
+<speaker>SIR MICHAEL</speaker>
 Doubt not, my lord, they shall be well opposed.
 
-ARCHBISHOP
+<speaker>ARCHBISHOP</speaker>
 I hope no less, yet needful 'tis to fear;
 And to prevent the worst, Sir Michael, speed.
 For if Lord Percy thrive not, ere the King
@@ -3730,33 +4237,31 @@ For he hath heard of our confederacy,
 And 'tis but wisdom to make strong against him.
 Therefore make haste. I must go write again
 To other friends. And so farewell, Sir Michael.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
-
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter the King, Prince of Wales, Lord John of Lancaster,
-Sir Walter Blunt, and Falstaff.]
+[<i>Enter the King, Prince of Wales, Lord John of Lancaster,
+Sir Walter Blunt, and Falstaff.</i>]
 
-
-KING
+<speaker>KING</speaker>
 How bloodily the sun begins to peer
 Above yon bulky hill. The day looks pale
 At his distemp'rature.
 
-PRINCE  The southern wind
+<speaker>PRINCE</speaker>
+The southern wind
 Doth play the trumpet to his purposes,
 And by his hollow whistling in the leaves
 Foretells a tempest and a blust'ring day.
 
-KING
+<speaker>KING</speaker>
 Then with the losers let it sympathize,
 For nothing can seem foul to those that win.
-[The trumpet sounds.]
+[<i>The trumpet sounds.</i>]
 
-[Enter Worcester and Vernon.]
+[<i>Enter Worcester and Vernon.</i>]
 
 How now, my Lord of Worcester? 'Tis not well
 That you and I should meet upon such terms
@@ -3772,20 +4277,23 @@ And be no more an exhaled meteor,
 A prodigy of fear, and a portent
 Of broached mischief to the unborn times?
 
-WORCESTER  Hear me, my liege:
+<speaker>WORCESTER</speaker>
+Hear me, my liege:
 For mine own part I could be well content
 To entertain the lag end of my life
 With quiet hours. For I protest
 I have not sought the day of this dislike.
 
-KING
+<speaker>KING</speaker>
 You have not sought it. How comes it then?
 
-FALSTAFF  Rebellion lay in his way, and he found it.
+<speaker>FALSTAFF</speaker>
+Rebellion lay in his way, and he found it.
 
-PRINCE  Peace, chewet, peace.
+<speaker>PRINCE</speaker>
+Peace, chewet, peace.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 It pleased your Majesty to turn your looks
 Of favor from myself and all our house;
 And yet I must remember you, my lord,
@@ -3829,7 +4337,7 @@ By unkind usage, dangerous countenance,
 And violation of all faith and troth
 Sworn to us in your younger enterprise.
 
-KING
+<speaker>KING</speaker>
 These things indeed you have articulate,
 Proclaimed at market crosses, read in churches,
 To face the garment of rebellion
@@ -3842,7 +4350,7 @@ Such water colors to impaint his cause,
 Nor moody beggars starving for a time
 Of pellmell havoc and confusion.
 
-PRINCE
+<speaker>PRINCE</speaker>
 In both your armies there is many a soul
 Shall pay full dearly for this encounter
 If once they join in trial. Tell your nephew,
@@ -3862,7 +4370,7 @@ Of his great name and estimation,
 And will, to save the blood on either side,
 Try fortune with him in a single fight.
 
-KING
+<speaker>KING</speaker>
 And, Prince of Wales, so dare we venture thee,
 Albeit considerations infinite
 Do make against it.--No, good Worcester, no.
@@ -3877,30 +4385,35 @@ Rebuke and dread correction wait on us,
 And they shall do their office. So begone.
 We will not now be troubled with reply.
 We offer fair. Take it advisedly.
-[Worcester exits with Vernon.]
+[<i>Worcester exits with Vernon.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 It will not be accepted, on my life.
 The Douglas and the Hotspur both together
 Are confident against the world in arms.
 
-KING
+<speaker>KING</speaker>
 Hence, therefore, every leader to his charge,
 For on their answer will we set on them,
 And God befriend us as our cause is just.
-[They exit. Prince and Falstaff remain.]
+[<i>They exit. Prince and Falstaff remain.</i>]
 
-FALSTAFF  Hal, if thou see me down in the battle and
+<speaker>FALSTAFF</speaker>
+Hal, if thou see me down in the battle and
 bestride me, so; 'tis a point of friendship.
 
-PRINCE  Nothing but a colossus can do thee that friendship.
+<speaker>PRINCE</speaker>
+Nothing but a colossus can do thee that friendship.
 Say thy prayers, and farewell.
 
-FALSTAFF  I would 'twere bedtime, Hal, and all well.
+<speaker>FALSTAFF</speaker>
+I would 'twere bedtime, Hal, and all well.
 
-PRINCE  Why, thou owest God a death.	[He exits.]
+<speaker>PRINCE</speaker>
+Why, thou owest God a death. [<i>He exits.</i>]
 
-FALSTAFF  'Tis not due yet. I would be loath to pay Him
+<speaker>FALSTAFF</speaker>
+'Tis not due yet. I would be loath to pay Him
 before His day. What need I be so forward with
 Him that calls not on me? Well, 'tis no matter.
 Honor pricks me on. Yea, but how if honor prick me
@@ -3915,21 +4428,21 @@ then? Yea, to the dead. But will it not live with the
 living? No. Why? Detraction will not suffer it. Therefore,
 I'll none of it. Honor is a mere scutcheon. And
 so ends my catechism.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Worcester and Sir Richard Vernon.]
+[<i>Enter Worcester and Sir Richard Vernon.</i>]
 
-
-WORCESTER
+<speaker>WORCESTER</speaker>
 O no, my nephew must not know, Sir Richard,
 The liberal and kind offer of the King.
 
-VERNON
+<speaker>VERNON</speaker>
 'Twere best he did.
 
-WORCESTER  Then are we all undone.
+<speaker>WORCESTER</speaker>
+Then are we all undone.
 It is not possible, it cannot be
 The King should keep his word in loving us.
 He will suspect us still and find a time
@@ -3954,62 +4467,64 @@ We as the spring of all shall pay for all.
 Therefore, good cousin, let not Harry know
 In any case the offer of the King.
 
-VERNON
+<speaker>VERNON</speaker>
 Deliver what you will; I'll say 'tis so.
 
-[Enter Hotspur, Douglas, and their army.]
+[<i>Enter Hotspur, Douglas, and their army.</i>]
 
 Here comes your cousin.
 
-<b>HOTSPUR,</b> [to Douglas]  My uncle is returned.
+<speaker>HOTSPUR,</speaker>
+[<i>to Douglas</i>]
+My uncle is returned.
 Deliver up my Lord of Westmoreland.--
 Uncle, what news?
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 The King will bid you battle presently.
 
-<b>DOUGLAS,</b> [to Hotspur]
+<speaker>DOUGLAS,</speaker>
+[<i>to Hotspur</i>]
 Defy him by the Lord of Westmoreland.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Lord Douglas, go you and tell him so.
 
-DOUGLAS
-Marry, and shall, and very willingly.	[Douglas exits.]
+<speaker>DOUGLAS</speaker>
+Marry, and shall, and very willingly.	[<i>Douglas exits.</i>]
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 There is no seeming mercy in the King.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Did you beg any? God forbid!
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 I told him gently of our grievances,
 Of his oath-breaking, which he mended thus
 By now forswearing that he is forsworn.
 He calls us "rebels," "traitors," and will scourge
 With haughty arms this hateful name in us.
 
-[Enter Douglas.]
+[<i>Enter Douglas.</i>]
 
-
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 Arm, gentlemen, to arms. For I have thrown
 A brave defiance in King Henry's teeth,
 And Westmoreland, that was engaged, did bear it,
 Which cannot choose but bring him quickly on.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 The Prince of Wales stepped forth before the King,
 And, nephew, challenged you to single fight.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 O, would the quarrel lay upon our heads,
 And that no man might draw short breath today
 But I and Harry Monmouth! Tell me, tell me,
 How showed his tasking? Seemed it in contempt?
 
-VERNON
+<speaker>VERNON</speaker>
 No, by my soul. I never in my life
 Did hear a challenge urged more modestly,
 Unless a brother should a brother dare
@@ -4029,7 +4544,7 @@ If he outlive the envy of this day,
 England did never owe so sweet a hope
 So much misconstrued in his wantonness.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Cousin, I think thou art enamored
 On his follies. Never did I hear
 Of any prince so wild a liberty.
@@ -4042,12 +4557,13 @@ Better consider what you have to do
 Than I that have not well the gift of tongue
 Can lift your blood up with persuasion.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
+<speaker>MESSENGER</speaker>
+My lord, here are letters for you.
 
-MESSENGER  My lord, here are letters for you.
-
-HOTSPUR  I cannot read them now.--
+<speaker>HOTSPUR</speaker>
+I cannot read them now.--
 O gentlemen, the time of life is short;
 To spend that shortness basely were too long
 If life did ride upon a dial's point,
@@ -4057,13 +4573,12 @@ If die, brave death, when princes die with us.
 Now, for our consciences, the arms are fair
 When the intent of bearing them is just.
 
-[Enter another Messenger.]
+[<i>Enter another Messenger.</i>]
 
-
-SECOND MESSENGER
+<speaker>SECOND MESSENGER</speaker>
 My lord, prepare. The King comes on apace.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 I thank him that he cuts me from my tale,
 For I profess not talking. Only this:
 Let each man do his best. And here draw I a sword,
@@ -4075,79 +4590,86 @@ Sound all the lofty instruments of war,
 And by that music let us all embrace,
 For, heaven to Earth, some of us never shall
 A second time do such a courtesy.
-[Here they embrace. The trumpets sound.]
-[They exit.]
+[<i>Here they embrace. The trumpets sound.</i>]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[The King enters with his power, crosses the stage and
+[<i>The King enters with his power, crosses the stage and
 exits. Alarum to the battle. Then enter Douglas, and Sir
-Walter Blunt, disguised as the King.]
+Walter Blunt, disguised as the King.</i>]
 
-
-<b>BLUNT,</b> [as King]
+<speaker>BLUNT,</speaker>
+[<i>as King</i>]
 What is thy name that in the battle thus
 Thou crossest me? What honor dost thou seek
 Upon my head?
 
-DOUGLAS  Know then my name is Douglas,
+<speaker>DOUGLAS</speaker>
+Know then my name is Douglas,
 And I do haunt thee in the battle thus
 Because some tell me that thou art a king.
 
-<b>BLUNT,</b> [as King]  They tell thee true.
+<speaker>BLUNT,</speaker>
+[<i>as King</i>]
+They tell thee true.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 The Lord of Stafford dear today hath bought
 Thy likeness, for instead of thee, King Harry,
 This sword hath ended him. So shall it thee,
 Unless thou yield thee as my prisoner.
 
-<b>BLUNT,</b> [as King]
+<speaker>BLUNT,</speaker>
+[<i>as King</i>]
 I was not born a yielder, thou proud Scot,
 And thou shalt find a king that will revenge
 Lord Stafford's death.
-[They fight. Douglas kills Blunt.]
+[<i>They fight. Douglas kills Blunt.</i>]
 
-[Then enter Hotspur.]
+[<i>Then enter Hotspur.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 O Douglas, hadst thou fought at Holmedon thus,
 I never had triumphed upon a Scot.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 All's done, all's won; here breathless lies the King.
 
-HOTSPUR  Where?
+<speaker>HOTSPUR</speaker>
+Where?
 
-DOUGLAS  Here.
+<speaker>DOUGLAS</speaker>
+Here.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 This, Douglas? No, I know this face full well.
 A gallant knight he was; his name was Blunt,
 Semblably furnished like the King himself.
 
-<b>DOUGLAS,</b> [addressing Blunt's corpse]
+<speaker>DOUGLAS,</speaker>
+[<i>addressing Blunt's corpse</i>]
 A fool go with thy soul whither it goes!
 A borrowed title hast thou bought too dear.
 Why didst thou tell me that thou wert a king?
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 The King hath many marching in his coats.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 Now, by my sword, I will kill all his coats.
 I'll murder all his wardrobe, piece by piece,
 Until I meet the King.
 
-HOTSPUR  Up and away!
+<speaker>HOTSPUR</speaker>
+Up and away!
 Our soldiers stand full fairly for the day.
-[They exit.]
+[<i>They exit.</i>]
 
-[Alarm. Enter Falstaff alone.]
+[<i>Alarm. Enter Falstaff alone.</i>]
 
-
-FALSTAFF  Though I could 'scape shot-free at London,
+<speaker>FALSTAFF</speaker>
+Though I could 'scape shot-free at London,
 I fear the shot here. Here's no scoring but upon
 the pate.--Soft, who are you? Sir Walter Blunt.
 There's honor for you. Here's no vanity. I am as hot
@@ -4158,110 +4680,111 @@ peppered. There's not three of my hundred and fifty
 left alive, and they are for the town's end, to beg
 during life. But who comes here?
 
-[Enter the Prince.]
+[<i>Enter the Prince.</i>]
 
-
-PRINCE
+<speaker>PRINCE</speaker>
 What, stand'st thou idle here? Lend me thy sword.
 Many a nobleman lies stark and stiff
 Under the hoofs of vaunting enemies,
 Whose deaths are yet unrevenged. I prithee
 Lend me thy sword.
 
-FALSTAFF  O Hal, I prithee give me leave to breathe
+<speaker>FALSTAFF</speaker>
+O Hal, I prithee give me leave to breathe
 awhile. Turk Gregory never did such deeds in arms
 as I have done this day. I have paid Percy; I have
 made him sure.
 
-PRINCE
+<speaker>PRINCE</speaker>
 He is indeed, and living to kill thee.
 I prithee, lend me thy sword.
 
-FALSTAFF  Nay, before God, Hal, if Percy be alive, thou
+<speaker>FALSTAFF</speaker>
+Nay, before God, Hal, if Percy be alive, thou
 gett'st not my sword; but take my pistol, if thou
 wilt.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Give it me. What, is it in the case?
 
-FALSTAFF  Ay, Hal, 'tis hot, 'tis hot. There's that will
+<speaker>FALSTAFF</speaker>
+Ay, Hal, 'tis hot, 'tis hot. There's that will
 sack a city.
-[The Prince draws it out, and finds it
-to be a bottle of sack.]
+[<i>The Prince draws it out, and finds it
+to be a bottle of sack.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 What, is it a time to jest and dally now?
-[He throws the bottle at him and exits.]
+[<i>He throws the bottle at him and exits.</i>]
 
-FALSTAFF  Well, if Percy be alive, I'll pierce him. If he do
+<speaker>FALSTAFF</speaker>
+Well, if Percy be alive, I'll pierce him. If he do
 come in my way, so; if he do not, if I come in his
 willingly, let him make a carbonado of me. I like not
 such grinning honor as Sir Walter hath. Give me
 life, which, if I can save, so: if not, honor comes
 unlooked for, and there's an end.
-[He exits. Blunt's body is carried off.]
+[<i>He exits. Blunt's body is carried off.</i>]
 
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Alarm, excursions. Enter the King, the Prince, Lord John
-of Lancaster, and the Earl of Westmoreland.]
+[<i>Alarm, excursions. Enter the King, the Prince, Lord John
+of Lancaster, and the Earl of Westmoreland.</i>]
 
-
-KING
+<speaker>KING</speaker>
 I prithee, Harry, withdraw thyself. Thou bleedest
 too much.
 Lord John of Lancaster, go you with him.
 
-LANCASTER
+<speaker>LANCASTER</speaker>
 Not I, my lord, unless I did bleed too.
 
-PRINCE
+<speaker>PRINCE</speaker>
 I beseech your Majesty, make up,
 Lest your retirement do amaze your friends.
 
-KING
+<speaker>KING</speaker>
 I will do so.--My Lord of Westmoreland,
 Lead him to his tent.
 
-WESTMORELAND
+<speaker>WESTMORELAND</speaker>
 Come, my lord, I'll lead you to your tent.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Lead me, my lord? I do not need your help,
 And God forbid a shallow scratch should drive
 The Prince of Wales from such a field as this,
 Where stained nobility lies trodden on,
 And rebels' arms triumph in massacres.
 
-LANCASTER
+<speaker>LANCASTER</speaker>
 We breathe too long. Come, cousin Westmoreland,
 Our duty this way lies. For God's sake, come.
-[Lancaster and Westmoreland exit.]
+[<i>Lancaster and Westmoreland exit.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 By God, thou hast deceived me, Lancaster.
 I did not think thee lord of such a spirit.
 Before, I loved thee as a brother, John,
 But now I do respect thee as my soul.
 
-KING
+<speaker>KING</speaker>
 I saw him hold Lord Percy at the point
 With lustier maintenance than I did look for
 Of such an ungrown warrior.
 
-PRINCE
-O, this boy lends mettle to us all.	[He exits.]
+<speaker>PRINCE</speaker>
+O, this boy lends mettle to us all.	[<i>He exits.</i>]
 
-[Enter Douglas.]
+[<i>Enter Douglas.</i>]
 
-
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 Another king! They grow like Hydra's heads.--
 I am the Douglas, fatal to all those
 That wear those colors on them. What art thou
 That counterfeit'st the person of a king?
 
-KING
+<speaker>KING</speaker>
 The King himself, who, Douglas, grieves at heart,
 So many of his shadows thou hast met
 And not the very king. I have two boys
@@ -4269,33 +4792,34 @@ Seek Percy and thyself about the field,
 But, seeing thou fall'st on me so luckily,
 I will assay thee. And defend thyself.
 
-DOUGLAS
+<speaker>DOUGLAS</speaker>
 I fear thou art another counterfeit,
 And yet, in faith, thou bearest thee like a king.
 But mine I am sure thou art, whoe'er thou be,
 And thus I win thee.
 
-[They fight. The King being in danger,
-enter Prince of Wales.]
+[<i>They fight. The King being in danger,
+enter Prince of Wales.</i>]
 
-
-PRINCE
+<speaker>PRINCE</speaker>
 Hold up thy head, vile Scot, or thou art like
 Never to hold it up again. The spirits
 Of valiant Shirley, Stafford, Blunt are in my arms.
 It is the Prince of Wales that threatens thee,
 Who never promiseth but he means to pay.
-[They fight. Douglas flieth.]
-[To King.] Cheerly, my lord. How fares your Grace?
+[<i>They fight. Douglas flieth.</i>]
+[<i>To King.</i>]
+Cheerly, my lord. How fares your Grace?
 Sir Nicholas Gawsey hath for succor sent,
 And so hath Clifton. I'll to Clifton straight.
 
-KING  Stay and breathe awhile.
+<speaker>KING</speaker>
+Stay and breathe awhile.
 Thou hast redeemed thy lost opinion
 And showed thou mak'st some tender of my life
 In this fair rescue thou hast brought to me.
 
-PRINCE
+<speaker>PRINCE</speaker>
 O God, they did me too much injury
 That ever said I hearkened for your death.
 If it were so, I might have let alone
@@ -4304,23 +4828,23 @@ Which would have been as speedy in your end
 As all the poisonous potions in the world,
 And saved the treacherous labor of your son.
 
-KING
+<speaker>KING</speaker>
 Make up to Clifton. I'll to Sir Nicholas Gawsey.
-[King exits.]
+[<i>King exits.</i>]
 
-[Enter Hotspur.]
+[<i>Enter Hotspur.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 If I mistake not, thou art Harry Monmouth.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Thou speak'st as if I would deny my name.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 My name is Harry Percy.
 
-PRINCE  Why then I see
+<speaker>PRINCE</speaker>
+Why then I see
 A very valiant rebel of the name.
 I am the Prince of Wales; and think not, Percy,
 To share with me in glory any more.
@@ -4328,31 +4852,30 @@ Two stars keep not their motion in one sphere,
 Nor can one England brook a double reign
 Of Harry Percy and the Prince of Wales.
 
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 Nor shall it, Harry, for the hour is come
 To end the one of us, and would to God
 Thy name in arms were now as great as mine.
 
-PRINCE
+<speaker>PRINCE</speaker>
 I'll make it greater ere I part from thee,
 And all the budding honors on thy crest
 I'll crop to make a garland for my head.
 
-HOTSPUR
-I can no longer brook thy vanities.	[They fight.]
+<speaker>HOTSPUR</speaker>
+I can no longer brook thy vanities.	[<i>They fight.</i>]
 
-[Enter Falstaff.]
+[<i>Enter Falstaff.</i>]
 
-
-FALSTAFF  Well said, Hal! To it, Hal! Nay, you shall find
+<speaker>FALSTAFF</speaker>
+Well said, Hal! To it, Hal! Nay, you shall find
 no boys' play here, I can tell you.
 
-[Enter Douglas. He fighteth with Falstaff, who falls
+[<i>Enter Douglas. He fighteth with Falstaff, who falls
 down as if he were dead. Douglas exits. The Prince
-killeth Percy.]
+killeth Percy.</i>]
 
-
-HOTSPUR
+<speaker>HOTSPUR</speaker>
 O Harry, thou hast robbed me of my youth.
 I better brook the loss of brittle life
 Than those proud titles thou hast won of me.
@@ -4363,9 +4886,9 @@ And time, that takes survey of all the world,
 Must have a stop. O, I could prophesy,
 But that the earthy and cold hand of death
 Lies on my tongue. No, Percy, thou art dust,
-And food for--	[He dies.]
+And food for--	[<i>He dies.</i>]
 
-PRINCE
+<speaker>PRINCE</speaker>
 For worms, brave Percy. Fare thee well, great heart.
 Ill-weaved ambition, how much art thou shrunk!
 When that this body did contain a spirit,
@@ -4376,13 +4899,13 @@ Bears not alive so stout a gentleman.
 If thou wert sensible of courtesy,
 I should not make so dear a show of zeal.
 But let my favors hide thy mangled face;
-[He covers Hotspur's face.]
+[<i>He covers Hotspur's face.</i>]
 And even in thy behalf I'll thank myself
 For doing these fair rites of tenderness.
 Adieu, and take thy praise with thee to heaven.
 Thy ignominy sleep with thee in the grave,
 But not remembered in thy epitaph.
-[He spieth Falstaff on the ground.]
+[<i>He spieth Falstaff on the ground.</i>]
 What, old acquaintance, could not all this flesh
 Keep in a little life? Poor Jack, farewell.
 I could have better spared a better man.
@@ -4391,10 +4914,11 @@ If I were much in love with vanity.
 Death hath not struck so fat a deer today,
 Though many dearer in this bloody fray.
 Emboweled will I see thee by and by;
-Till then in blood by noble Percy lie.	[He exits.]
-[Falstaff riseth up.]
+Till then in blood by noble Percy lie.	[<i>He exits.</i>]
+[<i>Falstaff riseth up.</i>]
 
-FALSTAFF  Emboweled? If thou embowel me today, I'll
+<speaker>FALSTAFF</speaker>
+Emboweled? If thou embowel me today, I'll
 give you leave to powder me and eat me too
 tomorrow. 'Sblood, 'twas time to counterfeit, or
 that hot termagant Scot had paid me scot and lot
@@ -4411,37 +4935,41 @@ faith, I am afraid he would prove the better counterfeit.
 Therefore I'll make him sure, yea, and I'll swear
 I killed him. Why may not he rise as well as I?
 Nothing confutes me but eyes, and nobody sees me.
-Therefore, sirrah, [stabbing him] with a new wound
+Therefore, sirrah, [<i>stabbing him</i>]
+with a new wound
 in your thigh, come you along with me.
-[He takes up Hotspur on his back.]
+[<i>He takes up Hotspur on his back.</i>]
 
-[Enter Prince and John of Lancaster.]
+[<i>Enter Prince and John of Lancaster.</i>]
 
-
-PRINCE
+<speaker>PRINCE</speaker>
 Come, brother John. Full bravely hast thou fleshed
 Thy maiden sword.
 
-LANCASTER  But soft, whom have we here?
+<speaker>LANCASTER</speaker>
+But soft, whom have we here?
 Did you not tell me this fat man was dead?
 
-PRINCE  I did; I saw him dead,
+<speaker>PRINCE</speaker>
+I did; I saw him dead,
 Breathless and bleeding on the ground.--Art thou
 alive?
 Or is it fantasy that plays upon our eyesight?
 I prithee, speak. We will not trust our eyes
 Without our ears. Thou art not what thou seem'st.
 
-FALSTAFF  No, that's certain. I am not a double man.
+<speaker>FALSTAFF</speaker>
+No, that's certain. I am not a double man.
 But if I be not Jack Falstaff, then am I a jack. There
 is Percy. If your father will do me any honor, so; if
 not, let him kill the next Percy himself. I look to be
 either earl or duke, I can assure you.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Why, Percy I killed myself, and saw thee dead.
 
-FALSTAFF  Didst thou? Lord, Lord, how this world is
+<speaker>FALSTAFF</speaker>
+Didst thou? Lord, Lord, how this world is
 given to lying. I grant you, I was down and out of
 breath, and so was he, but we rose both at an instant
 and fought a long hour by Shrewsbury clock. If I
@@ -4452,34 +4980,34 @@ the thigh. If the man were alive and would deny
 it, zounds, I would make him eat a piece of my
 sword.
 
-LANCASTER
+<speaker>LANCASTER</speaker>
 This is the strangest tale that ever I heard.
 
-PRINCE
+<speaker>PRINCE</speaker>
 This is the strangest fellow, brother John.--
 Come bring your luggage nobly on your back.
 For my part, if a lie may do thee grace,
 I'll gild it with the happiest terms I have.
-[A retreat is sounded.]
+[<i>A retreat is sounded.</i>]
 The trumpet sounds retreat; the day is ours.
 Come, brother, let us to the highest of the field
 To see what friends are living, who are dead.
-[They exit.]
+[<i>They exit.</i>]
 
-FALSTAFF  I'll follow, as they say, for reward. He that
+<speaker>FALSTAFF</speaker>
+I'll follow, as they say, for reward. He that
 rewards me, God reward him. If I do grow great,
 I'll grow less, for I'll purge and leave sack and live
 cleanly as a nobleman should do.
-[He exits carrying Hotspur's body.]
+[<i>He exits carrying Hotspur's body.</i>]
 
 <b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[The trumpets sound. Enter the King, Prince of Wales,
+[<i>The trumpets sound. Enter the King, Prince of Wales,
 Lord John of Lancaster, Earl of Westmoreland, with
-Worcester and Vernon prisoners, and Soldiers.]
+Worcester and Vernon prisoners, and Soldiers.</i>]
 
-
-KING
+<speaker>KING</speaker>
 Thus ever did rebellion find rebuke.--
 Ill-spirited Worcester, did not we send grace,
 Pardon, and terms of love to all of you?
@@ -4491,18 +5019,18 @@ Had been alive this hour
 If, like a Christian, thou hadst truly borne
 Betwixt our armies true intelligence.
 
-WORCESTER
+<speaker>WORCESTER</speaker>
 What I have done my safety urged me to.
 And I embrace this fortune patiently,
 Since not to be avoided it falls on me.
 
-KING
+<speaker>KING</speaker>
 Bear Worcester to the death, and Vernon too.
 Other offenders we will pause upon.
-[Worcester and Vernon exit, under guard.]
+[<i>Worcester and Vernon exit, under guard.</i>]
 How goes the field?
 
-PRINCE
+<speaker>PRINCE</speaker>
 The noble Scot, Lord Douglas, when he saw
 The fortune of the day quite turned from him,
 The noble Percy slain, and all his men
@@ -4512,9 +5040,10 @@ That the pursuers took him. At my tent
 The Douglas is, and I beseech your Grace
 I may dispose of him.
 
-KING  With all my heart.
+<speaker>KING</speaker>
+With all my heart.
 
-PRINCE
+<speaker>PRINCE</speaker>
 Then, brother John of Lancaster, to you
 This honorable bounty shall belong.
 Go to the Douglas and deliver him
@@ -4523,11 +5052,11 @@ His valors shown upon our crests today
 Have taught us how to cherish such high deeds,
 Even in the bosom of our adversaries.
 
-LANCASTER
+<speaker>LANCASTER</speaker>
 I thank your Grace for this high courtesy,
 Which I shall give away immediately.
 
-KING
+<speaker>KING</speaker>
 Then this remains, that we divide our power.
 You, son John, and my cousin Westmoreland,
 Towards York shall bend you with your dearest
@@ -4540,5 +5069,5 @@ Rebellion in this land shall lose his sway,
 Meeting the check of such another day.
 And since this business so fair is done,
 Let us not leave till all our own be won.
-[They exit.]
+[<i>They exit.</i>]
 `;

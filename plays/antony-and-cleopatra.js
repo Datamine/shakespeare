@@ -1,45 +1,45 @@
-export const text = `Antony and Cleopatra
+export const credits = `Antony and Cleopatra
 by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/antony-and-cleopatra/
-Created on Jul 31, 2015, from FDT version 0.9.2
+Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-Characters in the Play
+export const text = `Characters in the Play
 <hr>
-<b>ANTONY,</b> a triumvir of Rome
-<b>CLEOPATRA,</b> Queen of Egypt
-<b>OCTAVIUS CAESAR,</b> a triumvir of Rome
-<b>OCTAVIA,</b> sister to Caesar, later wife to Antony
-<b>LEPIDUS,</b> a triumvir of Rome
-<b>ENOBARBUS,</b> also called DOMITIUS
+ANTONY, a triumvir of Rome
+CLEOPATRA, Queen of Egypt
+OCTAVIUS CAESAR, a triumvir of Rome
+OCTAVIA, sister to Caesar, later wife to Antony
+LEPIDUS, a triumvir of Rome
+ENOBARBUS, also called DOMITIUS
 Accompanying Antony in Egypt and elsewhere:
-  VENTIDIUS
-  SILIUS
-  EROS
-  CANIDIUS
-  SCARUS
-  DERCETUS
-  DEMETRIUS
-  PHILO
-  A SCHOOLMASTER, Antony's AMBASSADOR to Caesar
+VENTIDIUS
+SILIUS
+EROS
+CANIDIUS
+SCARUS
+DERCETUS
+DEMETRIUS
+PHILO
+A SCHOOLMASTER, Antony's AMBASSADOR to Caesar
 Serving in Cleopatra's court:
-  CHARMIAN
-  IRAS
-  ALEXAS
-  MARDIAN, a Eunuch
-  SELEUCUS, Cleopatra's treasurer
-  DIOMEDES
+CHARMIAN
+IRAS
+ALEXAS
+MARDIAN, a Eunuch
+SELEUCUS, Cleopatra's treasurer
+DIOMEDES
 Supporting and accompanying Caesar:
-  MAECENAS
-  AGRIPPA
-  TAURUS
-  THIDIAS
-  DOLABELLA
-  GALLUS
-  PROCULEIUS
-<b>SEXTUS POMPEIUS,</b> also called POMPEY
+MAECENAS
+AGRIPPA
+TAURUS
+THIDIAS
+DOLABELLA
+GALLUS
+PROCULEIUS
+SEXTUS POMPEIUS, also called POMPEY
 MENAS
 MENECRATES
 VARRIUS
@@ -55,15 +55,12 @@ AN EGYPTIAN
 A COUNTRYMAN
 Ladies, Eunuchs, Captains, Officers, Soldiers, Attendants, Servants (Lamprius, Rannius, Lucillius: mute characters named in the opening stage direction to 1.2)
 
-
 <b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Demetrius and Philo.]
+[<i>Enter Demetrius and Philo.</i>]
 
-
-PHILO
+<speaker>PHILO</speaker>
 Nay, but this dotage of our general's
 O'erflows the measure. Those his goodly eyes,
 That o'er the files and musters of the war
@@ -75,44 +72,48 @@ The buckles on his breast, reneges all temper
 And is become the bellows and the fan
 To cool a gypsy's lust.
 
-[Flourish. Enter Antony, Cleopatra, her Ladies, the Train,
-with Eunuchs fanning her.]
+[<i>Flourish. Enter Antony, Cleopatra, her Ladies, the Train,
+with Eunuchs fanning her.</i>]
 
 Look where they come.
 Take but good note, and you shall see in him
 The triple pillar of the world transformed
 Into a strumpet's fool. Behold and see.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 If it be love indeed, tell me how much.
 
-ANTONY
+<speaker>ANTONY</speaker>
 There's beggary in the love that can be reckoned.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I'll set a bourn how far to be beloved.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Then must thou needs find out new heaven, new
 Earth.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
+<speaker>MESSENGER</speaker>
+News, my good lord, from Rome.
 
-MESSENGER  News, my good lord, from Rome.
+<speaker>ANTONY</speaker>
+Grates me, the sum.
 
-ANTONY  Grates me, the sum.
-
-CLEOPATRA  Nay, hear them, Antony.
+<speaker>CLEOPATRA</speaker>
+Nay, hear them, Antony.
 Fulvia perchance is angry. Or who knows
 If the scarce-bearded Caesar have not sent
 His powerful mandate to you: "Do this, or this;
 Take in that kingdom, and enfranchise that.
 Perform 't, or else we damn thee."
 
-ANTONY  How, my love?
+<speaker>ANTONY</speaker>
+How, my love?
 
-CLEOPATRA  Perchance? Nay, and most like.
+<speaker>CLEOPATRA</speaker>
+Perchance? Nay, and most like.
 You must not stay here longer; your dismission
 Is come from Caesar. Therefore hear it, Antony.
 Where's Fulvia's process? Caesar's, I would say--
@@ -122,7 +123,7 @@ Thou blushest, Antony, and that blood of thine
 Is Caesar's homager; else so thy cheek pays shame
 When shrill-tongued Fulvia scolds. The messengers!
 
-ANTONY
+<speaker>ANTONY</speaker>
 Let Rome in Tiber melt and the wide arch
 Of the ranged empire fall. Here is my space.
 Kingdoms are clay. Our dungy earth alike
@@ -132,164 +133,205 @@ And such a twain can do 't, in which I bind,
 On pain of punishment, the world to weet
 We stand up peerless.
 
-CLEOPATRA  Excellent falsehood!
+<speaker>CLEOPATRA</speaker>
+Excellent falsehood!
 Why did he marry Fulvia and not love her?
 I'll seem the fool I am not. Antony
 Will be himself.
 
-ANTONY  But stirred by Cleopatra.
+<speaker>ANTONY</speaker>
+But stirred by Cleopatra.
 Now for the love of Love and her soft hours,
 Let's not confound the time with conference harsh.
 There's not a minute of our lives should stretch
 Without some pleasure now. What sport tonight?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Hear the ambassadors.
 
-ANTONY  Fie, wrangling queen,
+<speaker>ANTONY</speaker>
+Fie, wrangling queen,
 Whom everything becomes--to chide, to laugh,
 To weep; whose every passion fully strives
 To make itself, in thee, fair and admired!
 No messenger but thine, and all alone
 Tonight we'll wander through the streets and note
 The qualities of people. Come, my queen,
-Last night you did desire it. [To the Messenger.]
+Last night you did desire it. [<i>To the Messenger.</i>]
 Speak not to us.
-[Antony and Cleopatra exit with the Train.]
+[<i>Antony and Cleopatra exit with the Train.</i>]
 
-DEMETRIUS
+<speaker>DEMETRIUS</speaker>
 Is Caesar with Antonius prized so slight?
 
-PHILO
+<speaker>PHILO</speaker>
 Sir, sometimes when he is not Antony
 He comes too short of that great property
 Which still should go with Antony.
 
-DEMETRIUS  I am full sorry
+<speaker>DEMETRIUS</speaker>
+I am full sorry
 That he approves the common liar who
 Thus speaks of him at Rome; but I will hope
 Of better deeds tomorrow. Rest you happy!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Enobarbus, Lamprius, a Soothsayer, Rannius,
+[<i>Enter Enobarbus, Lamprius, a Soothsayer, Rannius,
 Lucillius, Charmian, Iras, Mardian the Eunuch, Alexas,
-and Servants.]
+and Servants.</i>]
 
-
-CHARMIAN  Lord Alexas, sweet Alexas, most anything
+<speaker>CHARMIAN</speaker>
+Lord Alexas, sweet Alexas, most anything
 Alexas, almost most absolute Alexas, where's the
 soothsayer that you praised so to th' Queen? O, that
 I knew this husband which you say must charge
 his horns with garlands!
 
-ALEXAS  Soothsayer!
+<speaker>ALEXAS</speaker>
+Soothsayer!
 
-SOOTHSAYER  Your will?
+<speaker>SOOTHSAYER</speaker>
+Your will?
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Is this the man?--Is 't you, sir, that know things?
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 In nature's infinite book of secrecy
 A little I can read.
 
-<b>ALEXAS,</b> [to Charmian]  Show him your hand.
+<speaker>ALEXAS,</speaker>
+[<i>to Charmian</i>]
+Show him your hand.
 
-<b>ENOBARBUS,</b> [to Servants]
+<speaker>ENOBARBUS,</speaker>
+[<i>to Servants</i>]
 Bring in the banquet quickly, wine enough
 Cleopatra's health to drink.
 
-<b>CHARMIAN,</b> [giving her hand to the Soothsayer]  Good sir,
+<speaker>CHARMIAN,</speaker>
+[<i>giving her hand to the Soothsayer</i>]
+Good sir,
 give me good fortune.
 
-SOOTHSAYER  I make not, but foresee.
+<speaker>SOOTHSAYER</speaker>
+I make not, but foresee.
 
-CHARMIAN  Pray then, foresee me one.
+<speaker>CHARMIAN</speaker>
+Pray then, foresee me one.
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 You shall be yet far fairer than you are.
 
-CHARMIAN  He means in flesh.
+<speaker>CHARMIAN</speaker>
+He means in flesh.
 
-IRAS  No, you shall paint when you are old.
+<speaker>IRAS</speaker>
+No, you shall paint when you are old.
 
-CHARMIAN  Wrinkles forbid!
+<speaker>CHARMIAN</speaker>
+Wrinkles forbid!
 
-ALEXAS  Vex not his prescience. Be attentive.
+<speaker>ALEXAS</speaker>
+Vex not his prescience. Be attentive.
 
-CHARMIAN  Hush.
+<speaker>CHARMIAN</speaker>
+Hush.
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 You shall be more beloving than beloved.
 
-CHARMIAN  I had rather heat my liver with drinking.
+<speaker>CHARMIAN</speaker>
+I had rather heat my liver with drinking.
 
-ALEXAS  Nay, hear him.
+<speaker>ALEXAS</speaker>
+Nay, hear him.
 
-CHARMIAN  Good now, some excellent fortune! Let me
+<speaker>CHARMIAN</speaker>
+Good now, some excellent fortune! Let me
 be married to three kings in a forenoon and widow
 them all. Let me have a child at fifty to whom Herod
 of Jewry may do homage. Find me to marry me
 with Octavius Caesar, and companion me with my
 mistress.
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 You shall outlive the lady whom you serve.
 
-<b>CHARMIAN  O,</b> excellent! I love long life better than figs.
+<speaker>CHARMIAN</speaker>
+O, excellent! I love long life better than figs.
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 You have seen and proved a fairer former fortune
 Than that which is to approach.
 
-CHARMIAN  Then belike my children shall have no
+<speaker>CHARMIAN</speaker>
+Then belike my children shall have no
 names. Prithee, how many boys and wenches must
 I have?
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 If every of your wishes had a womb,
 And fertile every wish, a million.
 
-CHARMIAN  Out, fool! I forgive thee for a witch.
+<speaker>CHARMIAN</speaker>
+Out, fool! I forgive thee for a witch.
 
-ALEXAS  You think none but your sheets are privy to
+<speaker>ALEXAS</speaker>
+You think none but your sheets are privy to
 your wishes.
 
-<b>CHARMIAN,</b> [to Soothsayer]  Nay, come. Tell Iras hers.
+<speaker>CHARMIAN,</speaker>
+[<i>to Soothsayer</i>]
+Nay, come. Tell Iras hers.
 
-ALEXAS  We'll know all our fortunes.
+<speaker>ALEXAS</speaker>
+We'll know all our fortunes.
 
-ENOBARBUS  Mine, and most of our fortunes tonight,
+<speaker>ENOBARBUS</speaker>
+Mine, and most of our fortunes tonight,
 shall be--drunk to bed.
 
-<b>IRAS,</b> [giving her hand to the Soothsayer]  There's a palm
+<speaker>IRAS,</speaker>
+[<i>giving her hand to the Soothsayer</i>]
+There's a palm
 presages chastity, if nothing else.
 
-CHARMIAN  E'en as the o'erflowing Nilus presageth
+<speaker>CHARMIAN</speaker>
+E'en as the o'erflowing Nilus presageth
 famine.
 
-IRAS  Go, you wild bedfellow, you cannot soothsay.
+<speaker>IRAS</speaker>
+Go, you wild bedfellow, you cannot soothsay.
 
-CHARMIAN  Nay, if an oily palm be not a fruitful prognostication,
+<speaker>CHARMIAN</speaker>
+Nay, if an oily palm be not a fruitful prognostication,
 I cannot scratch mine ear.--Prithee
 tell her but a workaday fortune.
 
-SOOTHSAYER  Your fortunes are alike.
+<speaker>SOOTHSAYER</speaker>
+Your fortunes are alike.
 
-IRAS  But how, but how? Give me particulars.
+<speaker>IRAS</speaker>
+But how, but how? Give me particulars.
 
-SOOTHSAYER  I have said.
+<speaker>SOOTHSAYER</speaker>
+I have said.
 
-IRAS  Am I not an inch of fortune better than she?
+<speaker>IRAS</speaker>
+Am I not an inch of fortune better than she?
 
-CHARMIAN  Well, if you were but an inch of fortune
+<speaker>CHARMIAN</speaker>
+Well, if you were but an inch of fortune
 better than I, where would you choose it?
 
-IRAS  Not in my husband's nose.
+<speaker>IRAS</speaker>
+Not in my husband's nose.
 
-CHARMIAN  Our worser thoughts heavens mend. Alexas--
+<speaker>CHARMIAN</speaker>
+Our worser thoughts heavens mend. Alexas--
 come, his fortune, his fortune! O, let him marry a
 woman that cannot go, sweet Isis, I beseech thee, and
 let her die, too, and give him a worse, and let worse
@@ -298,87 +340,101 @@ to his grave, fiftyfold a cuckold. Good Isis, hear me
 this prayer, though thou deny me a matter of more
 weight, good Isis, I beseech thee!
 
-IRAS  Amen, dear goddess, hear that prayer of the
+<speaker>IRAS</speaker>
+Amen, dear goddess, hear that prayer of the
 people. For, as it is a heartbreaking to see a handsome
 man loose-wived, so it is a deadly sorrow to
 behold a foul knave uncuckolded. Therefore, dear
 Isis, keep decorum and fortune him accordingly.
 
-CHARMIAN  Amen.
+<speaker>CHARMIAN</speaker>
+Amen.
 
-ALEXAS  Lo now, if it lay in their hands to make me a
+<speaker>ALEXAS</speaker>
+Lo now, if it lay in their hands to make me a
 cuckold, they would make themselves whores but
 they'd do 't.
 
-ENOBARBUS  Hush, here comes Antony.
+<speaker>ENOBARBUS</speaker>
+Hush, here comes Antony.
 
-CHARMIAN  Not he. The Queen.
+<speaker>CHARMIAN</speaker>
+Not he. The Queen.
 
-[Enter Cleopatra.]
+[<i>Enter Cleopatra.</i>]
 
+<speaker>CLEOPATRA</speaker>
+Saw you my lord?
 
-CLEOPATRA  Saw you my lord?
+<speaker>ENOBARBUS</speaker>
+No, lady.
 
-ENOBARBUS  No, lady.
+<speaker>CLEOPATRA</speaker>
+Was he not here?
 
-CLEOPATRA  Was he not here?
+<speaker>CHARMIAN</speaker>
+No, madam.
 
-CHARMIAN  No, madam.
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 He was disposed to mirth, but on the sudden
 A Roman thought hath struck him.--Enobarbus!
 
-ENOBARBUS  Madam?
+<speaker>ENOBARBUS</speaker>
+Madam?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Seek him and bring him hither.--Where's Alexas?
 
-ALEXAS
+<speaker>ALEXAS</speaker>
 Here at your service. My lord approaches.
 
-[Enter Antony with a Messenger.]
+[<i>Enter Antony with a Messenger.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 We will not look upon him. Go with us.
-[All but Antony and the Messenger exit.]
+[<i>All but Antony and the Messenger exit.</i>]
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Fulvia thy wife first came into the field.
 
-ANTONY  Against my brother Lucius?
+<speaker>ANTONY</speaker>
+Against my brother Lucius?
 
-MESSENGER  Ay.
+<speaker>MESSENGER</speaker>
+Ay.
 But soon that war had end, and the time's state
 Made friends of them, jointing their force 'gainst
 Caesar,
 Whose better issue in the war from Italy
 Upon the first encounter drave them.
 
-ANTONY  Well, what worst?
+<speaker>ANTONY</speaker>
+Well, what worst?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 The nature of bad news infects the teller.
 
-ANTONY
+<speaker>ANTONY</speaker>
 When it concerns the fool or coward. On.
 Things that are past are done, with me. 'Tis thus:
 Who tells me true, though in his tale lie death,
 I hear him as he flattered.
 
-MESSENGER  Labienus--
+<speaker>MESSENGER</speaker>
+Labienus--
 This is stiff news--hath with his Parthian force
 Extended Asia: from Euphrates
 His conquering banner shook, from Syria
 To Lydia and to Ionia,
 Whilst--
 
-ANTONY  "Antony," thou wouldst say?
+<speaker>ANTONY</speaker>
+"Antony," thou wouldst say?
 
-<b>MESSENGER  O,</b> my lord!
+<speaker>MESSENGER</speaker>
+O, my lord!
 
-ANTONY
+<speaker>ANTONY</speaker>
 Speak to me home; mince not the general tongue.
 Name Cleopatra as she is called in Rome;
 Rail thou in Fulvia's phrase, and taunt my faults
@@ -387,43 +443,48 @@ Have power to utter. O, then we bring forth weeds
 When our quick winds lie still, and our ills told us
 Is as our earing. Fare thee well awhile.
 
-MESSENGER  At your noble pleasure.	[Messenger exits.]
+<speaker>MESSENGER</speaker>
+At your noble pleasure. [<i>Messenger exits.</i>]
 
-[Enter another Messenger.]
+[<i>Enter another Messenger.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 From Sicyon how the news? Speak there.
 
-SECOND MESSENGER
+<speaker>SECOND MESSENGER</speaker>
 The man from Sicyon--
 
-ANTONY  Is there such an one?
+<speaker>ANTONY</speaker>
+Is there such an one?
 
-SECOND MESSENGER
+<speaker>SECOND MESSENGER</speaker>
 He stays upon your will.
 
-ANTONY  Let him appear.
-[Second Messenger exits.]
+<speaker>ANTONY</speaker>
+Let him appear.
+[<i>Second Messenger exits.</i>]
 These strong Egyptian fetters I must break,
 Or lose myself in dotage.
 
-[Enter another Messenger with a letter.]
+[<i>Enter another Messenger with a letter.</i>]
 
 What are you?
 
-THIRD MESSENGER
+<speaker>THIRD MESSENGER</speaker>
 Fulvia thy wife is dead.
 
-ANTONY  Where died she?
+<speaker>ANTONY</speaker>
+Where died she?
 
-THIRD MESSENGER  In Sicyon.
+<speaker>THIRD MESSENGER</speaker>
+In Sicyon.
 Her length of sickness, with what else more serious
 Importeth thee to know, this bears.
-[He hands Antony the letter.]
+[<i>He hands Antony the letter.</i>]
 
-ANTONY  Forbear me.
-[Third Messenger exits.]
+<speaker>ANTONY</speaker>
+Forbear me.
+[<i>Third Messenger exits.</i>]
 There's a great spirit gone! Thus did I desire it.
 What our contempts doth often hurl from us,
 We wish it ours again. The present pleasure,
@@ -434,20 +495,24 @@ I must from this enchanting queen break off.
 Ten thousand harms more than the ills I know
 My idleness doth hatch.--How now, Enobarbus!
 
-[Enter Enobarbus.]
+[<i>Enter Enobarbus.</i>]
 
+<speaker>ENOBARBUS</speaker>
+What's your pleasure, sir?
 
-ENOBARBUS  What's your pleasure, sir?
+<speaker>ANTONY</speaker>
+I must with haste from hence.
 
-ANTONY  I must with haste from hence.
-
-ENOBARBUS  Why then we kill all our women. We see
+<speaker>ENOBARBUS</speaker>
+Why then we kill all our women. We see
 how mortal an unkindness is to them. If they suffer
 our departure, death's the word.
 
-ANTONY  I must be gone.
+<speaker>ANTONY</speaker>
+I must be gone.
 
-ENOBARBUS  Under a compelling occasion, let women
+<speaker>ENOBARBUS</speaker>
+Under a compelling occasion, let women
 die. It were pity to cast them away for nothing,
 though between them and a great cause, they
 should be esteemed nothing. Cleopatra, catching
@@ -457,32 +522,42 @@ think there is mettle in death which commits some
 loving act upon her, she hath such a celerity in
 dying.
 
-ANTONY  She is cunning past man's thought.
+<speaker>ANTONY</speaker>
+She is cunning past man's thought.
 
-ENOBARBUS  Alack, sir, no, her passions are made of
+<speaker>ENOBARBUS</speaker>
+Alack, sir, no, her passions are made of
 nothing but the finest part of pure love. We cannot
 call her winds and waters sighs and tears; they are
 greater storms and tempests than almanacs can
 report. This cannot be cunning in her; if it be, she
 makes a shower of rain as well as Jove.
 
-ANTONY  Would I had never seen her!
+<speaker>ANTONY</speaker>
+Would I had never seen her!
 
-<b>ENOBARBUS  O,</b> sir, you had then left unseen a wonderful
+<speaker>ENOBARBUS</speaker>
+O, sir, you had then left unseen a wonderful
 piece of work, which not to have been blest
 withal would have discredited your travel.
 
-ANTONY  Fulvia is dead.
+<speaker>ANTONY</speaker>
+Fulvia is dead.
 
-ENOBARBUS  Sir?
+<speaker>ENOBARBUS</speaker>
+Sir?
 
-ANTONY  Fulvia is dead.
+<speaker>ANTONY</speaker>
+Fulvia is dead.
 
-ENOBARBUS  Fulvia?
+<speaker>ENOBARBUS</speaker>
+Fulvia?
 
-ANTONY  Dead.
+<speaker>ANTONY</speaker>
+Dead.
 
-ENOBARBUS  Why, sir, give the gods a thankful sacrifice.
+<speaker>ENOBARBUS</speaker>
+Why, sir, give the gods a thankful sacrifice.
 When it pleaseth their deities to take the wife of a
 man from him, it shows to man the tailors of the
 Earth; comforting therein, that when old robes are
@@ -493,15 +568,16 @@ is crowned with consolation; your old smock brings
 forth a new petticoat, and indeed the tears live in an
 onion that should water this sorrow.
 
-ANTONY
+<speaker>ANTONY</speaker>
 The business she hath broached in the state
 Cannot endure my absence.
 
-ENOBARBUS  And the business you have broached here
+<speaker>ENOBARBUS</speaker>
+And the business you have broached here
 cannot be without you, especially that of Cleopatra's,
 which wholly depends on your abode.
 
-ANTONY
+<speaker>ANTONY</speaker>
 No more light answers. Let our officers
 Have notice what we purpose. I shall break
 The cause of our expedience to the Queen
@@ -525,91 +601,100 @@ And not a serpent's poison. Say our pleasure,
 To such whose place is under us, requires
 Our quick remove from hence.
 
-ENOBARBUS  I shall do 't.
-[They exit.]
+<speaker>ENOBARBUS</speaker>
+I shall do 't.
+[<i>They exit.</i>]
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Cleopatra, Charmian, Alexas, and Iras.]
+[<i>Enter Cleopatra, Charmian, Alexas, and Iras.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Where is he?
 
-CHARMIAN  I did not see him since.
+<speaker>CHARMIAN</speaker>
+I did not see him since.
 
-<b>CLEOPATRA,</b> [to Alexas]
+<speaker>CLEOPATRA,</speaker>
+[<i>to Alexas</i>]
 See where he is, who's with him, what he does.
 I did not send you. If you find him sad,
 Say I am dancing; if in mirth, report
 That I am sudden sick. Quick, and return.
-[Alexas exits.]
+[<i>Alexas exits.</i>]
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Madam, methinks, if you did love him dearly,
 You do not hold the method to enforce
 The like from him.
 
-CLEOPATRA  What should I do I do not?
+<speaker>CLEOPATRA</speaker>
+What should I do I do not?
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 In each thing give him way; cross him in nothing.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Thou teachest like a fool: the way to lose him.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Tempt him not so too far. I wish, forbear.
 In time we hate that which we often fear.
 
-[Enter Antony.]
+[<i>Enter Antony.</i>]
 
 But here comes Antony.
 
-CLEOPATRA  I am sick and sullen.
+<speaker>CLEOPATRA</speaker>
+I am sick and sullen.
 
-ANTONY
+<speaker>ANTONY</speaker>
 I am sorry to give breathing to my purpose--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Help me away, dear Charmian! I shall fall.
 It cannot be thus long; the sides of nature
 Will not sustain it.
 
-ANTONY  Now, my dearest queen--
+<speaker>ANTONY</speaker>
+Now, my dearest queen--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Pray you stand farther from me.
 
-ANTONY  What's the matter?
+<speaker>ANTONY</speaker>
+What's the matter?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I know by that same eye there's some good news.
 What, says the married woman you may go?
 Would she had never given you leave to come.
 Let her not say 'tis I that keep you here.
 I have no power upon you. Hers you are.
 
-ANTONY
+<speaker>ANTONY</speaker>
 The gods best know--
 
-<b>CLEOPATRA  O,</b> never was there queen
+<speaker>CLEOPATRA</speaker>
+O, never was there queen
 So mightily betrayed! Yet at the first
 I saw the treasons planted.
 
-ANTONY  Cleopatra--
+<speaker>ANTONY</speaker>
+Cleopatra--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Why should I think you can be mine, and true--
 Though you in swearing shake the throned gods--
 Who have been false to Fulvia? Riotous madness,
 To be entangled with those mouth-made vows
 Which break themselves in swearing!
 
-ANTONY  Most sweet
+<speaker>ANTONY</speaker>
+Most sweet
 queen--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Nay, pray you seek no color for your going,
 But bid farewell and go. When you sued staying,
 Then was the time for words. No going then!
@@ -619,13 +704,15 @@ But was a race of heaven. They are so still,
 Or thou, the greatest soldier of the world,
 Art turned the greatest liar.
 
-ANTONY  How now, lady?
+<speaker>ANTONY</speaker>
+How now, lady?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I would I had thy inches. Thou shouldst know
 There were a heart in Egypt.
 
-ANTONY  Hear me, queen:
+<speaker>ANTONY</speaker>
+Hear me, queen:
 The strong necessity of time commands
 Our services awhile, but my full heart
 Remains in use with you. Our Italy
@@ -643,21 +730,23 @@ By any desperate change. My more particular,
 And that which most with you should safe my going,
 Is Fulvia's death.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Though age from folly could not give me freedom,
 It does from childishness. Can Fulvia die?
 
-ANTONY  She's dead, my queen.	[He shows her papers.]
+<speaker>ANTONY</speaker>
+She's dead, my queen. [<i>He shows her papers.</i>]
 Look here, and at thy sovereign leisure read
 The garboils she awaked; at the last, best,
 See when and where she died.
 
-<b>CLEOPATRA  O,</b> most false love!
+<speaker>CLEOPATRA</speaker>
+O, most false love!
 Where be the sacred vials thou shouldst fill
 With sorrowful water? Now I see, I see,
 In Fulvia's death, how mine received shall be.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Quarrel no more, but be prepared to know
 The purposes I bear, which are or cease
 As you shall give th' advice. By the fire
@@ -665,48 +754,57 @@ That quickens Nilus' slime, I go from hence
 Thy soldier, servant, making peace or war
 As thou affects.
 
-CLEOPATRA  Cut my lace, Charmian, come!
+<speaker>CLEOPATRA</speaker>
+Cut my lace, Charmian, come!
 But let it be; I am quickly ill and well;
 So Antony loves.
 
-ANTONY  My precious queen, forbear,
+<speaker>ANTONY</speaker>
+My precious queen, forbear,
 And give true evidence to his love, which stands
 An honorable trial.
 
-CLEOPATRA  So Fulvia told me.
+<speaker>CLEOPATRA</speaker>
+So Fulvia told me.
 I prithee turn aside and weep for her,
 Then bid adieu to me, and say the tears
 Belong to Egypt. Good now, play one scene
 Of excellent dissembling, and let it look
 Like perfect honor.
 
-ANTONY  You'll heat my blood. No more!
+<speaker>ANTONY</speaker>
+You'll heat my blood. No more!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 You can do better yet, but this is meetly.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Now by my sword--
 
-CLEOPATRA  And target. Still he mends.
+<speaker>CLEOPATRA</speaker>
+And target. Still he mends.
 But this is not the best. Look, prithee, Charmian,
 How this Herculean Roman does become
 The carriage of his chafe.
 
-ANTONY  I'll leave you, lady.
+<speaker>ANTONY</speaker>
+I'll leave you, lady.
 
-CLEOPATRA  Courteous lord, one word.
+<speaker>CLEOPATRA</speaker>
+Courteous lord, one word.
 Sir, you and I must part, but that's not it;
 Sir, you and I have loved, but there's not it;
 That you know well. Something it is I would--
 O, my oblivion is a very Antony,
 And I am all forgotten.
 
-ANTONY  But that your Royalty
+<speaker>ANTONY</speaker>
+But that your Royalty
 Holds idleness your subject, I should take you
 For idleness itself.
 
-CLEOPATRA  'Tis sweating labor
+<speaker>CLEOPATRA</speaker>
+'Tis sweating labor
 To bear such idleness so near the heart
 As Cleopatra this. But, sir, forgive me,
 Since my becomings kill me when they do not
@@ -716,20 +814,20 @@ And all the gods go with you. Upon your sword
 Sit laurel victory, and smooth success
 Be strewed before your feet.
 
-ANTONY  Let us go. Come.
+<speaker>ANTONY</speaker>
+Let us go. Come.
 Our separation so abides and flies
 That thou, residing here, goes yet with me,
 And I, hence fleeting, here remain with thee.
 Away!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Octavius Caesar, reading a letter,
-Lepidus, and their Train.]
+[<i>Enter Octavius Caesar, reading a letter,
+Lepidus, and their Train.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 You may see, Lepidus, and henceforth know,
 It is not Caesar's natural vice to hate
 Our great competitor. From Alexandria
@@ -742,14 +840,15 @@ find there
 A man who is th' abstract of all faults
 That all men follow.
 
-LEPIDUS  I must not think there are
+<speaker>LEPIDUS</speaker>
+I must not think there are
 Evils enough to darken all his goodness.
 His faults in him seem as the spots of heaven,
 More fiery by night's blackness, hereditary
 Rather than purchased, what he cannot change
 Than what he chooses.
 
-CAESAR
+<speaker>CAESAR</speaker>
 You are too indulgent. Let's grant it is not
 Amiss to tumble on the bed of Ptolemy,
 To give a kingdom for a mirth, to sit
@@ -771,12 +870,12 @@ As we rate boys who, being mature in knowledge,
 Pawn their experience to their present pleasure
 And so rebel to judgment.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
+<speaker>LEPIDUS</speaker>
+Here's more news.
 
-LEPIDUS  Here's more news.
-
-MESSENGER
+<speaker>MESSENGER</speaker>
 Thy biddings have been done, and every hour,
 Most noble Caesar, shalt thou have report
 How 'tis abroad. Pompey is strong at sea,
@@ -785,7 +884,8 @@ That only have feared Caesar. To the ports
 The discontents repair, and men's reports
 Give him much wronged.
 
-CAESAR  I should have known no less.
+<speaker>CAESAR</speaker>
+I should have known no less.
 It hath been taught us from the primal state
 That he which is was wished until he were,
 And the ebbed man, ne'er loved till ne'er worth love,
@@ -794,10 +894,10 @@ Like to a vagabond flag upon the stream,
 Goes to and back, lackeying the varying tide
 To rot itself with motion.
 
-[Enter a Second Messenger.]
+[<i>Enter a Second Messenger.</i>]
 
-
-SECOND MESSENGER  Caesar, I bring thee word
+<speaker>SECOND MESSENGER</speaker>
+Caesar, I bring thee word
 Menecrates and Menas, famous pirates,
 Makes the sea serve them, which they ear and
 wound
@@ -808,7 +908,8 @@ No vessel can peep forth but 'tis as soon
 Taken as seen, for Pompey's name strikes more
 Than could his war resisted.
 
-CAESAR  Antony,
+<speaker>CAESAR</speaker>
+Antony,
 Leave thy lascivious wassails. When thou once
 Was beaten from Modena, where thou slew'st
 Hirsius and Pansa, consuls, at thy heel
@@ -827,77 +928,90 @@ It wounds thine honor that I speak it now--
 Was borne so like a soldier that thy cheek
 So much as lanked not.
 
-LEPIDUS  'Tis pity of him.
+<speaker>LEPIDUS</speaker>
+'Tis pity of him.
 
-CAESAR  Let his shames quickly
+<speaker>CAESAR</speaker>
+Let his shames quickly
 Drive him to Rome. 'Tis time we twain
 Did show ourselves i' th' field, and to that end
 Assemble we immediate council. Pompey
 Thrives in our idleness.
 
-LEPIDUS  Tomorrow, Caesar,
+<speaker>LEPIDUS</speaker>
+Tomorrow, Caesar,
 I shall be furnished to inform you rightly
 Both what by sea and land I can be able
 To front this present time.
 
-CAESAR  Till which encounter,
+<speaker>CAESAR</speaker>
+Till which encounter,
 It is my business too. Farewell.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Farewell, my lord. What you shall know meantime
 Of stirs abroad, I shall beseech you, sir,
 To let me be partaker.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Doubt not, sir. I knew it for my bond.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Cleopatra, Charmian, Iras, and Mardian.]
+[<i>Enter Cleopatra, Charmian, Iras, and Mardian.</i>]
 
+<speaker>CLEOPATRA</speaker>
+Charmian!
 
-CLEOPATRA  Charmian!
+<speaker>CHARMIAN</speaker>
+Madam?
 
-CHARMIAN  Madam?
+<speaker>CLEOPATRA</speaker>
+Ha, ha! Give me to drink mandragora.
 
-CLEOPATRA  Ha, ha! Give me to drink mandragora.
+<speaker>CHARMIAN</speaker>
+Why, madam?
 
-CHARMIAN  Why, madam?
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 That I might sleep out this great gap of time
 My Antony is away.
 
-CHARMIAN  You think of him too much.
+<speaker>CHARMIAN</speaker>
+You think of him too much.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 O, 'tis treason!
 
-CHARMIAN  Madam, I trust not so.
+<speaker>CHARMIAN</speaker>
+Madam, I trust not so.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Thou, eunuch Mardian!
 
-MARDIAN  What's your Highness' pleasure?
+<speaker>MARDIAN</speaker>
+What's your Highness' pleasure?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Not now to hear thee sing. I take no pleasure
 In aught an eunuch has. 'Tis well for thee
 That, being unseminared, thy freer thoughts
 May not fly forth of Egypt. Hast thou affections?
 
-MARDIAN  Yes, gracious madam.
+<speaker>MARDIAN</speaker>
+Yes, gracious madam.
 
-CLEOPATRA  Indeed?
+<speaker>CLEOPATRA</speaker>
+Indeed?
 
-MARDIAN
+<speaker>MARDIAN</speaker>
 Not in deed, madam, for I can do nothing
 But what indeed is honest to be done.
 Yet have I fierce affections, and think
 What Venus did with Mars.
 
-<b>CLEOPATRA  O,</b> Charmian,
+<speaker>CLEOPATRA</speaker>
+O, Charmian,
 Where think'st thou he is now? Stands he, or sits he?
 Or does he walk? Or is he on his horse?
 O happy horse, to bear the weight of Antony!
@@ -916,25 +1030,27 @@ Would stand and make his eyes grow in my brow;
 There would he anchor his aspect, and die
 With looking on his life.
 
-[Enter Alexas from Antony.]
+[<i>Enter Alexas from Antony.</i>]
 
+<speaker>ALEXAS</speaker>
+Sovereign of Egypt, hail!
 
-ALEXAS  Sovereign of Egypt, hail!
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 How much unlike art thou Mark Antony!
 Yet coming from him, that great med'cine hath
 With his tinct gilded thee.
 How goes it with my brave Mark Antony?
 
-ALEXAS  Last thing he did, dear queen,
+<speaker>ALEXAS</speaker>
+Last thing he did, dear queen,
 He kissed--the last of many doubled kisses--
 This orient pearl. His speech sticks in my heart.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Mine ear must pluck it thence.
 
-ALEXAS  "Good friend," quoth
+<speaker>ALEXAS</speaker>
+"Good friend," quoth
 he,
 "Say the firm Roman to great Egypt sends
 This treasure of an oyster; at whose foot,
@@ -945,13 +1061,14 @@ And soberly did mount an arm-gaunt steed,
 Who neighed so high that what I would have spoke
 Was beastly dumbed by him.
 
-CLEOPATRA  What, was he sad, or merry?
+<speaker>CLEOPATRA</speaker>
+What, was he sad, or merry?
 
-ALEXAS
+<speaker>ALEXAS</speaker>
 Like to the time o' th' year between th' extremes
 Of hot and cold, he was nor sad nor merry.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 O, well-divided disposition!--Note him,
 Note him, good Charmian, 'tis the man! But note
 him:
@@ -963,66 +1080,71 @@ O, heavenly mingle!--Be'st thou sad or merry,
 The violence of either thee becomes,
 So does it no man's else.--Met'st thou my posts?
 
-ALEXAS
+<speaker>ALEXAS</speaker>
 Ay, madam, twenty several messengers.
 Why do you send so thick?
 
-CLEOPATRA  Who's born that day
+<speaker>CLEOPATRA</speaker>
+Who's born that day
 When I forget to send to Antony
 Shall die a beggar.--Ink and paper, Charmian.--
 Welcome, my good Alexas.--Did I, Charmian,
 Ever love Caesar so?
 
-<b>CHARMIAN  O,</b> that brave Caesar!
+<speaker>CHARMIAN</speaker>
+O, that brave Caesar!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Be choked with such another emphasis!
 Say "the brave Antony."
 
-CHARMIAN  The valiant Caesar!
+<speaker>CHARMIAN</speaker>
+The valiant Caesar!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 By Isis, I will give thee bloody teeth
 If thou with Caesar paragon again
 My man of men.
 
-CHARMIAN  By your most gracious pardon,
+<speaker>CHARMIAN</speaker>
+By your most gracious pardon,
 I sing but after you.
 
-CLEOPATRA  My salad days,
+<speaker>CLEOPATRA</speaker>
+My salad days,
 When I was green in judgment, cold in blood,
 To say as I said then. But come, away,
 Get me ink and paper.
 He shall have every day a several greeting,
 Or I'll unpeople Egypt.
-[They exit.]
-
+[<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
-
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Pompey, Menecrates, and Menas,
-in warlike manner.]
+[<i>Enter Pompey, Menecrates, and Menas,
+in warlike manner.</i>]
 
-
-POMPEY
+<speaker>POMPEY</speaker>
 If the great gods be just, they shall assist
 The deeds of justest men.
 
-MENAS  Know, worthy Pompey,
+<speaker>MENAS</speaker>
+Know, worthy Pompey,
 That what they do delay they not deny.
 
-POMPEY
+<speaker>POMPEY</speaker>
 Whiles we are suitors to their throne, decays
 The thing we sue for.
 
-MENAS  We, ignorant of ourselves,
+<speaker>MENAS</speaker>
+We, ignorant of ourselves,
 Beg often our own harms, which the wise powers
 Deny us for our good; so find we profit
 By losing of our prayers.
 
-POMPEY  I shall do well.
+<speaker>POMPEY</speaker>
+I shall do well.
 The people love me, and the sea is mine;
 My powers are crescent, and my auguring hope
 Says it will come to th' full. Mark Antony
@@ -1032,15 +1154,17 @@ He loses hearts. Lepidus flatters both,
 Of both is flattered; but he neither loves,
 Nor either cares for him.
 
-MENAS  Caesar and Lepidus
+<speaker>MENAS</speaker>
+Caesar and Lepidus
 Are in the field. A mighty strength they carry.
 
-POMPEY
+<speaker>POMPEY</speaker>
 Where have you this? 'Tis false.
 
-MENAS  From Silvius, sir.
+<speaker>MENAS</speaker>
+From Silvius, sir.
 
-POMPEY
+<speaker>POMPEY</speaker>
 He dreams. I know they are in Rome together,
 Looking for Antony. But all the charms of love,
 Salt Cleopatra, soften thy wanned lip!
@@ -1051,17 +1175,18 @@ Sharpen with cloyless sauce his appetite,
 That sleep and feeding may prorogue his honor
 Even till a Lethe'd dullness--
 
-[Enter Varrius.]
+[<i>Enter Varrius.</i>]
 
 How now, Varrius?
 
-VARRIUS
+<speaker>VARRIUS</speaker>
 This is most certain that I shall deliver:
 Mark Antony is every hour in Rome
 Expected. Since he went from Egypt 'tis
 A space for farther travel.
 
-POMPEY  I could have given less matter
+<speaker>POMPEY</speaker>
+I could have given less matter
 A better ear.--Menas, I did not think
 This amorous surfeiter would have donned his helm
 For such a petty war. His soldiership
@@ -1070,13 +1195,15 @@ The higher our opinion, that our stirring
 Can from the lap of Egypt's widow pluck
 The ne'er lust-wearied Antony.
 
-MENAS  I cannot hope
+<speaker>MENAS</speaker>
+I cannot hope
 Caesar and Antony shall well greet together.
 His wife that's dead did trespasses to Caesar;
 His brother warred upon him, although I think
 Not moved by Antony.
 
-POMPEY  I know not, Menas,
+<speaker>POMPEY</speaker>
+I know not, Menas,
 How lesser enmities may give way to greater.
 Were 't not that we stand up against them all,
 'Twere pregnant they should square between
@@ -1088,57 +1215,62 @@ The petty difference, we yet not know.
 Be 't as our gods will have 't. It only stands
 Our lives upon to use our strongest hands.
 Come, Menas.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Enobarbus and Lepidus.]
+[<i>Enter Enobarbus and Lepidus.</i>]
 
-
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Good Enobarbus, 'tis a worthy deed,
 And shall become you well, to entreat your captain
 To soft and gentle speech.
 
-ENOBARBUS  I shall entreat him
+<speaker>ENOBARBUS</speaker>
+I shall entreat him
 To answer like himself. If Caesar move him,
 Let Antony look over Caesar's head
 And speak as loud as Mars. By Jupiter,
 Were I the wearer of Antonio's beard,
 I would not shave 't today.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 'Tis not a time for private stomaching.
 
-ENOBARBUS  Every time serves for the matter that is
+<speaker>ENOBARBUS</speaker>
+Every time serves for the matter that is
 then born in 't.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 But small to greater matters must give way.
 
-ENOBARBUS  Not if the small come first.
+<speaker>ENOBARBUS</speaker>
+Not if the small come first.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Your speech is passion; but pray you stir
 No embers up. Here comes the noble Antony.
 
-[Enter, at one door, Antony and Ventidius.]
+[<i>Enter, at one door, Antony and Ventidius.</i>]
 
+<speaker>ENOBARBUS</speaker>
+And yonder Caesar.
 
-ENOBARBUS  And yonder Caesar.
+[<i>Enter, at another door, Caesar,
+Maecenas, and Agrippa.</i>]
 
-[Enter, at another door, Caesar,
-Maecenas, and Agrippa.]
-
-
-<b>ANTONY,</b> [to Ventidius]
+<speaker>ANTONY,</speaker>
+[<i>to Ventidius</i>]
 If we compose well here, to Parthia.
-Hark, Ventidius.	[They talk aside.]
+Hark, Ventidius.	[<i>They talk aside.</i>]
 
-<b>CAESAR,</b> [to Maecenas]
+<speaker>CAESAR,</speaker>
+[<i>to Maecenas</i>]
 I do not know, Maecenas. Ask Agrippa.
 
-<b>LEPIDUS,</b> [to Caesar and Antony]  Noble friends,
+<speaker>LEPIDUS,</speaker>
+[<i>to Caesar and Antony</i>]
+Noble friends,
 That which combined us was most great, and let not
 A leaner action rend us. What's amiss,
 May it be gently heard. When we debate
@@ -1148,25 +1280,32 @@ The rather for I earnestly beseech,
 Touch you the sourest points with sweetest terms,
 Nor curstness grow to th' matter.
 
-ANTONY  'Tis spoken well.
+<speaker>ANTONY</speaker>
+'Tis spoken well.
 Were we before our armies, and to fight,
-I should do thus.	[Flourish.]
+I should do thus.	[<i>Flourish.</i>]
 
-CAESAR  Welcome to Rome.
+<speaker>CAESAR</speaker>
+Welcome to Rome.
 
-ANTONY  Thank you.
+<speaker>ANTONY</speaker>
+Thank you.
 
-CAESAR  Sit.
+<speaker>CAESAR</speaker>
+Sit.
 
-ANTONY  Sit, sir.
+<speaker>ANTONY</speaker>
+Sit, sir.
 
-CAESAR  Nay, then.	[They sit.]
+<speaker>CAESAR</speaker>
+Nay, then. [<i>They sit.</i>]
 
-ANTONY
+<speaker>ANTONY</speaker>
 I learn you take things ill which are not so,
 Or, being, concern you not.
 
-CAESAR  I must be laughed at
+<speaker>CAESAR</speaker>
+I must be laughed at
 If or for nothing or a little, I
 Should say myself offended, and with you
 Chiefly i' th' world; more laughed at, that I should
@@ -1174,24 +1313,25 @@ Once name you derogately when to sound your
 name
 It not concerned me.
 
-ANTONY
+<speaker>ANTONY</speaker>
 My being in Egypt, Caesar, what was 't to you?
 
-CAESAR
+<speaker>CAESAR</speaker>
 No more than my residing here at Rome
 Might be to you in Egypt. Yet if you there
 Did practice on my state, your being in Egypt
 Might be my question.
 
-ANTONY  How intend you, practiced?
+<speaker>ANTONY</speaker>
+How intend you, practiced?
 
-CAESAR
+<speaker>CAESAR</speaker>
 You may be pleased to catch at mine intent
 By what did here befall me. Your wife and brother
 Made wars upon me, and their contestation
 Was theme for you; you were the word of war.
 
-ANTONY
+<speaker>ANTONY</speaker>
 You do mistake your business. My brother never
 Did urge me in his act. I did inquire it,
 And have my learning from some true reports
@@ -1203,11 +1343,13 @@ Before did satisfy you. If you'll patch a quarrel,
 As matter whole you have to make it with,
 It must not be with this.
 
-CAESAR  You praise yourself
+<speaker>CAESAR</speaker>
+You praise yourself
 By laying defects of judgment to me; but
 You patched up your excuses.
 
-ANTONY  Not so, not so.
+<speaker>ANTONY</speaker>
+Not so, not so.
 I know you could not lack--I am certain on 't--
 Very necessity of this thought, that I,
 Your partner in the cause 'gainst which he fought,
@@ -1217,22 +1359,25 @@ I would you had her spirit in such another.
 The third o' th' world is yours, which with a snaffle
 You may pace easy, but not such a wife.
 
-ENOBARBUS  Would we had all such wives, that the men
+<speaker>ENOBARBUS</speaker>
+Would we had all such wives, that the men
 might go to wars with the women!
 
-ANTONY
+<speaker>ANTONY</speaker>
 So much uncurbable, her garboils, Caesar,
 Made out of her impatience--which not wanted
 Shrewdness of policy too--I grieving grant
 Did you too much disquiet. For that you must
 But say I could not help it.
 
-CAESAR  I wrote to you
+<speaker>CAESAR</speaker>
+I wrote to you
 When rioting in Alexandria; you
 Did pocket up my letters, and with taunts
 Did gibe my missive out of audience.
 
-ANTONY  Sir,
+<speaker>ANTONY</speaker>
+Sir,
 He fell upon me ere admitted, then;
 Three kings I had newly feasted, and did want
 Of what I was i' th' morning. But next day
@@ -1241,22 +1386,26 @@ As to have asked him pardon. Let this fellow
 Be nothing of our strife; if we contend,
 Out of our question wipe him.
 
-CAESAR  You have broken
+<speaker>CAESAR</speaker>
+You have broken
 The article of your oath, which you shall never
 Have tongue to charge me with.
 
-LEPIDUS  Soft, Caesar!
+<speaker>LEPIDUS</speaker>
+Soft, Caesar!
 
-ANTONY  No, Lepidus, let him speak.
+<speaker>ANTONY</speaker>
+No, Lepidus, let him speak.
 The honor is sacred which he talks on now,
 Supposing that I lacked it.--But on, Caesar:
 The article of my oath?
 
-CAESAR
+<speaker>CAESAR</speaker>
 To lend me arms and aid when I required them,
 The which you both denied.
 
-ANTONY  Neglected, rather;
+<speaker>ANTONY</speaker>
+Neglected, rather;
 And then when poisoned hours had bound me up
 From mine own knowledge. As nearly as I may
 I'll play the penitent to you. But mine honesty
@@ -1267,59 +1416,68 @@ For which myself, the ignorant motive, do
 So far ask pardon as befits mine honor
 To stoop in such a case.
 
-LEPIDUS  'Tis noble spoken.
+<speaker>LEPIDUS</speaker>
+'Tis noble spoken.
 
-MAECENAS
+<speaker>MAECENAS</speaker>
 If it might please you to enforce no further
 The griefs between you, to forget them quite
 Were to remember that the present need
 Speaks to atone you.
 
-LEPIDUS  Worthily spoken, Maecenas.
+<speaker>LEPIDUS</speaker>
+Worthily spoken, Maecenas.
 
-ENOBARBUS  Or, if you borrow one another's love for
+<speaker>ENOBARBUS</speaker>
+Or, if you borrow one another's love for
 the instant, you may, when you hear no more words
 of Pompey, return it again. You shall have time to
 wrangle in when you have nothing else to do.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Thou art a soldier only. Speak no more.
 
-ENOBARBUS  That truth should be silent I had almost
+<speaker>ENOBARBUS</speaker>
+That truth should be silent I had almost
 forgot.
 
-ANTONY
+<speaker>ANTONY</speaker>
 You wrong this presence; therefore speak no more.
 
-ENOBARBUS  Go to, then. Your considerate stone.
+<speaker>ENOBARBUS</speaker>
+Go to, then. Your considerate stone.
 
-CAESAR
+<speaker>CAESAR</speaker>
 I do not much dislike the matter, but
 The manner of his speech; for 't cannot be
 We shall remain in friendship, our conditions
 So diff'ring in their acts. Yet if I knew
 What hoop should hold us staunch, from edge to
 edge
-O' th' world I would pursue it.
+<speaker>O'</speaker>
+th' world I would pursue it.
 
-AGRIPPA  Give me leave, Caesar.
+<speaker>AGRIPPA</speaker>
+Give me leave, Caesar.
 
-CAESAR  Speak, Agrippa.
+<speaker>CAESAR</speaker>
+Speak, Agrippa.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Thou hast a sister by the mother's side,
 Admired Octavia. Great Mark Antony
 Is now a widower.
 
-CAESAR  Say not so, Agrippa.
+<speaker>CAESAR</speaker>
+Say not so, Agrippa.
 If Cleopatra heard you, your reproof
 Were well deserved of rashness.
 
-ANTONY
+<speaker>ANTONY</speaker>
 I am not married, Caesar. Let me hear
 Agrippa further speak.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 To hold you in perpetual amity,
 To make you brothers, and to knit your hearts
 With an unslipping knot, take Antony
@@ -1336,102 +1494,127 @@ Draw after her. Pardon what I have spoke,
 For 'tis a studied, not a present thought,
 By duty ruminated.
 
-ANTONY  Will Caesar speak?
+<speaker>ANTONY</speaker>
+Will Caesar speak?
 
-CAESAR
+<speaker>CAESAR</speaker>
 Not till he hears how Antony is touched
 With what is spoke already.
 
-ANTONY  What power is in Agrippa,
+<speaker>ANTONY</speaker>
+What power is in Agrippa,
 If I would say "Agrippa, be it so,"
 To make this good?
 
-CAESAR  The power of Caesar, and
+<speaker>CAESAR</speaker>
+The power of Caesar, and
 His power unto Octavia.
 
-ANTONY  May I never
+<speaker>ANTONY</speaker>
+May I never
 To this good purpose, that so fairly shows,
 Dream of impediment. Let me have thy hand.
 Further this act of grace; and from this hour
 The heart of brothers govern in our loves
 And sway our great designs.
 
-CAESAR  There's my hand.
-[They clasp hands.]
+<speaker>CAESAR</speaker>
+There's my hand.
+[<i>They clasp hands.</i>]
 A sister I bequeath you whom no brother
 Did ever love so dearly. Let her live
 To join our kingdoms and our hearts; and never
 Fly off our loves again.
 
-LEPIDUS  Happily, amen!
+<speaker>LEPIDUS</speaker>
+Happily, amen!
 
-ANTONY
+<speaker>ANTONY</speaker>
 I did not think to draw my sword 'gainst Pompey,
 For he hath laid strange courtesies and great
 Of late upon me. I must thank him only,
 Lest my remembrance suffer ill report;
 At heel of that, defy him.
 
-LEPIDUS  Time calls upon 's.
+<speaker>LEPIDUS</speaker>
+Time calls upon 's.
 Of us must Pompey presently be sought,
 Or else he seeks out us.
 
-ANTONY  Where lies he?
+<speaker>ANTONY</speaker>
+Where lies he?
 
-CAESAR  About the Mount Misena.
+<speaker>CAESAR</speaker>
+About the Mount Misena.
 
-ANTONY  What is his strength by land?
+<speaker>ANTONY</speaker>
+What is his strength by land?
 
-CAESAR  Great and increasing;
+<speaker>CAESAR</speaker>
+Great and increasing;
 But by sea he is an absolute master.
 
-ANTONY  So is the fame.
+<speaker>ANTONY</speaker>
+So is the fame.
 Would we had spoke together. Haste we for it.
 Yet, ere we put ourselves in arms, dispatch we
 The business we have talked of.
 
-CAESAR  With most gladness,
+<speaker>CAESAR</speaker>
+With most gladness,
 And do invite you to my sister's view,
 Whither straight I'll lead you.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Let us, Lepidus, not lack your company.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Noble Antony, not sickness should detain me.
-[Flourish. All but Enobarbus, Agrippa, and
-Maecenas exit.]
+[<i>Flourish. All but Enobarbus, Agrippa, and
+Maecenas exit.</i>]
 
-<b>MAECENAS,</b> [to Enobarbus]  Welcome from Egypt, sir.
+<speaker>MAECENAS,</speaker>
+[<i>to Enobarbus</i>]
+Welcome from Egypt, sir.
 
-ENOBARBUS  Half the heart of Caesar, worthy
+<speaker>ENOBARBUS</speaker>
+Half the heart of Caesar, worthy
 Maecenas!--My honorable friend Agrippa!
 
-AGRIPPA  Good Enobarbus!
+<speaker>AGRIPPA</speaker>
+Good Enobarbus!
 
-MAECENAS  We have cause to be glad that matters are so
+<speaker>MAECENAS</speaker>
+We have cause to be glad that matters are so
 well digested. You stayed well by 't in Egypt.
 
-ENOBARBUS  Ay, sir, we did sleep day out of countenance
+<speaker>ENOBARBUS</speaker>
+Ay, sir, we did sleep day out of countenance
 and made the night light with drinking.
 
-MAECENAS  Eight wild boars roasted whole at a breakfast,
+<speaker>MAECENAS</speaker>
+Eight wild boars roasted whole at a breakfast,
 and but twelve persons there. Is this true?
 
-ENOBARBUS  This was but as a fly by an eagle. We had
+<speaker>ENOBARBUS</speaker>
+This was but as a fly by an eagle. We had
 much more monstrous matter of feast, which worthily
 deserved noting.
 
-MAECENAS  She's a most triumphant lady, if report be
+<speaker>MAECENAS</speaker>
+She's a most triumphant lady, if report be
 square to her.
 
-ENOBARBUS  When she first met Mark Antony, she
+<speaker>ENOBARBUS</speaker>
+When she first met Mark Antony, she
 pursed up his heart upon the river of Cydnus.
 
-AGRIPPA  There she appeared indeed, or my reporter
+<speaker>AGRIPPA</speaker>
+There she appeared indeed, or my reporter
 devised well for her.
 
-ENOBARBUS  I will tell you.
+<speaker>ENOBARBUS</speaker>
+I will tell you.
 The barge she sat in like a burnished throne
 Burned on the water. The poop was beaten gold,
 Purple the sails, and so perfumed that
@@ -1449,9 +1632,10 @@ With divers-colored fans, whose wind did seem
 To glow the delicate cheeks which they did cool,
 And what they undid did.
 
-<b>AGRIPPA  O,</b> rare for Antony!
+<speaker>AGRIPPA</speaker>
+O, rare for Antony!
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Her gentlewomen, like the Nereides,
 So many mermaids, tended her i' th' eyes,
 And made their bends adornings. At the helm
@@ -1466,9 +1650,10 @@ Whistling to th' air, which but for vacancy
 Had gone to gaze on Cleopatra too
 And made a gap in nature.
 
-AGRIPPA  Rare Egyptian!
+<speaker>AGRIPPA</speaker>
+Rare Egyptian!
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Upon her landing, Antony sent to her,
 Invited her to supper. She replied
 It should be better he became her guest,
@@ -1478,20 +1663,23 @@ Being barbered ten times o'er, goes to the feast,
 And for his ordinary pays his heart
 For what his eyes eat only.
 
-AGRIPPA  Royal wench!
+<speaker>AGRIPPA</speaker>
+Royal wench!
 She made great Caesar lay his sword to bed;
 He ploughed her, and she cropped.
 
-ENOBARBUS  I saw her once
+<speaker>ENOBARBUS</speaker>
+I saw her once
 Hop forty paces through the public street,
 And having lost her breath, she spoke and panted,
 That she did make defect perfection,
 And breathless pour breath forth.
 
-MAECENAS
+<speaker>MAECENAS</speaker>
 Now Antony must leave her utterly.
 
-ENOBARBUS  Never. He will not.
+<speaker>ENOBARBUS</speaker>
+Never. He will not.
 Age cannot wither her, nor custom stale
 Her infinite variety. Other women cloy
 The appetites they feed, but she makes hungry
@@ -1499,59 +1687,67 @@ Where most she satisfies. For vilest things
 Become themselves in her, that the holy priests
 Bless her when she is riggish.
 
-MAECENAS
+<speaker>MAECENAS</speaker>
 If beauty, wisdom, modesty can settle
 The heart of Antony, Octavia is
 A blessed lottery to him.
 
-AGRIPPA  Let us go.
+<speaker>AGRIPPA</speaker>
+Let us go.
 Good Enobarbus, make yourself my guest
 Whilst you abide here.
 
-ENOBARBUS  Humbly, sir, I thank you.
-[They exit.]
+<speaker>ENOBARBUS</speaker>
+Humbly, sir, I thank you.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Antony, Caesar; Octavia between them.]
+[<i>Enter Antony, Caesar; Octavia between them.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 The world and my great office will sometimes
 Divide me from your bosom.
 
-OCTAVIA  All which time
+<speaker>OCTAVIA</speaker>
+All which time
 Before the gods my knee shall bow my prayers
 To them for you.
 
-<b>ANTONY,</b> [to Caesar]  Goodnight, sir.--My Octavia,
+<speaker>ANTONY,</speaker>
+[<i>to Caesar</i>]
+Goodnight, sir.--My Octavia,
 Read not my blemishes in the world's report.
 I have not kept my square, but that to come
 Shall all be done by th' rule. Good night, dear
 lady.--
 Good night, sir.
 
-CAESAR  Goodnight.	[Caesar and Octavia exit.]
+<speaker>CAESAR</speaker>
+Goodnight. [<i>Caesar and Octavia exit.</i>]
 
-[Enter Soothsayer.]
+[<i>Enter Soothsayer.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Now, sirrah, you do wish yourself in Egypt?
 
-SOOTHSAYER  Would I had never come from thence,
+<speaker>SOOTHSAYER</speaker>
+Would I had never come from thence,
 nor you thither.
 
-ANTONY  If you can, your reason?
+<speaker>ANTONY</speaker>
+If you can, your reason?
 
-SOOTHSAYER  I see it in my motion, have it not in my
+<speaker>SOOTHSAYER</speaker>
+I see it in my motion, have it not in my
 tongue. But yet hie you to Egypt again.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Say to me, whose fortunes shall rise higher,
 Caesar's or mine?
 
-SOOTHSAYER  Caesar's.
+<speaker>SOOTHSAYER</speaker>
+Caesar's.
 Therefore, O Antony, stay not by his side.
 Thy daemon--that thy spirit which keeps thee--is
 Noble, courageous, high, unmatchable,
@@ -1559,9 +1755,10 @@ Where Caesar's is not. But near him, thy angel
 Becomes afeard, as being o'erpowered. Therefore
 Make space enough between you.
 
-ANTONY  Speak this no more.
+<speaker>ANTONY</speaker>
+Speak this no more.
 
-SOOTHSAYER
+<speaker>SOOTHSAYER</speaker>
 To none but thee; no more but when to thee.
 If thou dost play with him at any game,
 Thou art sure to lose; and of that natural luck
@@ -1570,9 +1767,10 @@ When he shines by. I say again, thy spirit
 Is all afraid to govern thee near him;
 But he away, 'tis noble.
 
-ANTONY  Get thee gone.
+<speaker>ANTONY</speaker>
+Get thee gone.
 Say to Ventidius I would speak with him.
-[Soothsayer exits.]
+[<i>Soothsayer exits.</i>]
 He shall to Parthia. Be it art or hap,
 He hath spoken true. The very dice obey him,
 And in our sports my better cunning faints
@@ -1581,71 +1779,76 @@ His cocks do win the battle still of mine
 When it is all to naught, and his quails ever
 Beat mine, inhooped, at odds. I will to Egypt.
 And though I make this marriage for my peace,
-I' th' East my pleasure lies.
+<speaker>I'</speaker>
+th' East my pleasure lies.
 
-[Enter Ventidius.]
+[<i>Enter Ventidius.</i>]
 
 O, come, Ventidius.
 You must to Parthia; your commission's ready.
 Follow me and receive 't.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Lepidus, Maecenas, and Agrippa.]
+[<i>Enter Lepidus, Maecenas, and Agrippa.</i>]
 
-
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Trouble yourselves no further. Pray you hasten
 Your generals after.
 
-AGRIPPA  Sir, Mark Antony
+<speaker>AGRIPPA</speaker>
+Sir, Mark Antony
 Will e'en but kiss Octavia, and we'll follow.
 
-LEPIDUS
+<speaker>LEPIDUS</speaker>
 Till I shall see you in your soldiers' dress,
 Which will become you both, farewell.
 
-MAECENAS  We shall,
+<speaker>MAECENAS</speaker>
+We shall,
 As I conceive the journey, be at the Mount
 Before you, Lepidus.
 
-LEPIDUS  Your way is shorter;
+<speaker>LEPIDUS</speaker>
+Your way is shorter;
 My purposes do draw me much about.
 You'll win two days upon me.
 
-BOTH  Sir, good success.
+<speaker>BOTH</speaker>
+Sir, good success.
 
-LEPIDUS  Farewell.
-[They exit.]
+<speaker>LEPIDUS</speaker>
+Farewell.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Cleopatra, Charmian, Iras, and Alexas.]
+[<i>Enter Cleopatra, Charmian, Iras, and Alexas.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Give me some music--music, moody food
 Of us that trade in love.
 
-ALL  The music, ho!
+<speaker>ALL</speaker>
+The music, ho!
 
-[Enter Mardian the eunuch.]
+[<i>Enter Mardian the eunuch.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Let it alone. Let's to billiards. Come, Charmian.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 My arm is sore. Best play with Mardian.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 As well a woman with an eunuch played
 As with a woman.--Come, you'll play with me, sir?
 
-MARDIAN  As well as I can, madam.
+<speaker>MARDIAN</speaker>
+As well as I can, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 And when good will is showed, though 't come too
 short,
 The actor may plead pardon. I'll none now.
@@ -1656,77 +1859,88 @@ Their slimy jaws, and as I draw them up
 I'll think them every one an Antony
 And say "Aha! You're caught."
 
-CHARMIAN  'Twas merry when
+<speaker>CHARMIAN</speaker>
+'Twas merry when
 You wagered on your angling; when your diver
 Did hang a salt fish on his hook, which he
 With fervency drew up.
 
-CLEOPATRA  That time?--O, times!--
+<speaker>CLEOPATRA</speaker>
+That time?--O, times!--
 I laughed him out of patience; and that night
 I laughed him into patience; and next morn,
 Ere the ninth hour, I drunk him to his bed,
 Then put my tires and mantles on him, whilst
 I wore his sword Philippan.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
 O, from Italy!
 Ram thou thy fruitful tidings in mine ears,
 That long time have been barren.
 
-MESSENGER  Madam, madam--
+<speaker>MESSENGER</speaker>
+Madam, madam--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Antonio's dead! If thou say so, villain,
 Thou kill'st thy mistress. But well and free,
 If thou so yield him, there is gold, and here
 My bluest veins to kiss, a hand that kings
 Have lipped and trembled kissing.
 
-MESSENGER  First, madam, he is well.
+<speaker>MESSENGER</speaker>
+First, madam, he is well.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Why, there's more gold. But sirrah, mark, we use
 To say the dead are well. Bring it to that,
 The gold I give thee will I melt and pour
 Down thy ill-uttering throat.
 
-MESSENGER  Good madam, hear me.
+<speaker>MESSENGER</speaker>
+Good madam, hear me.
 
-CLEOPATRA  Well, go to, I will.
+<speaker>CLEOPATRA</speaker>
+Well, go to, I will.
 But there's no goodness in thy face--if Antony
 Be free and healthful, so tart a favor
 To trumpet such good tidings! If not well,
 Thou shouldst come like a Fury crowned with snakes,
 Not like a formal man.
 
-MESSENGER  Will 't please you hear me?
+<speaker>MESSENGER</speaker>
+Will 't please you hear me?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I have a mind to strike thee ere thou speak'st.
 Yet if thou say Antony lives, is well,
 Or friends with Caesar or not captive to him,
 I'll set thee in a shower of gold and hail
 Rich pearls upon thee.
 
-MESSENGER  Madam, he's well.
+<speaker>MESSENGER</speaker>
+Madam, he's well.
 
-CLEOPATRA  Well said.
+<speaker>CLEOPATRA</speaker>
+Well said.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 And friends with Caesar.
 
-CLEOPATRA  Th' art an honest man.
+<speaker>CLEOPATRA</speaker>
+Th' art an honest man.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Caesar and he are greater friends than ever.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Make thee a fortune from me.
 
-MESSENGER  But yet, madam--
+<speaker>MESSENGER</speaker>
+But yet, madam--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I do not like "But yet." It does allay
 The good precedence. Fie upon "But yet."
 "But yet" is as a jailer to bring forth
@@ -1735,72 +1949,80 @@ Pour out the pack of matter to mine ear,
 The good and bad together: he's friends with Caesar,
 In state of health, thou say'st, and, thou say'st, free.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Free, madam, no. I made no such report.
 He's bound unto Octavia.
 
-CLEOPATRA  For what good turn?
+<speaker>CLEOPATRA</speaker>
+For what good turn?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 For the best turn i' th' bed.
 
-CLEOPATRA  I am pale, Charmian.
+<speaker>CLEOPATRA</speaker>
+I am pale, Charmian.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Madam, he's married to Octavia.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 The most infectious pestilence upon thee!
-[Strikes him down.]
+[<i>Strikes him down.</i>]
 
-MESSENGER  Good madam, patience!
+<speaker>MESSENGER</speaker>
+Good madam, patience!
 
-CLEOPATRA  What say you?	[Strikes him.]
+<speaker>CLEOPATRA</speaker>
+What say you? [<i>Strikes him.</i>]
 Hence, horrible villain, or I'll spurn thine eyes
 Like balls before me! I'll unhair thy head!
-[She hales him up and down.]
+[<i>She hales him up and down.</i>]
 Thou shalt be whipped with wire and stewed in
 brine,
 Smarting in ling'ring pickle.
 
-MESSENGER  Gracious madam,
+<speaker>MESSENGER</speaker>
+Gracious madam,
 I that do bring the news made not the match.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Say 'tis not so, a province I will give thee
 And make thy fortunes proud. The blow thou hadst
 Shall make thy peace for moving me to rage,
 And I will boot thee with what gift beside
 Thy modesty can beg.
 
-MESSENGER  He's married, madam.
+<speaker>MESSENGER</speaker>
+He's married, madam.
 
-CLEOPATRA
-Rogue, thou hast lived too long.	[Draw a knife.]
+<speaker>CLEOPATRA</speaker>
+Rogue, thou hast lived too long.	[<i>Draw a knife.</i>]
 
-MESSENGER  Nay then, I'll run.
+<speaker>MESSENGER</speaker>
+Nay then, I'll run.
 What mean you, madam? I have made no fault.
-[He exits.]
+[<i>He exits.</i>]
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Good madam, keep yourself within yourself.
 The man is innocent.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Some innocents 'scape not the thunderbolt.
 Melt Egypt into Nile, and kindly creatures
 Turn all to serpents! Call the slave again.
 Though I am mad, I will not bite him. Call!
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 He is afeard to come.
 
-CLEOPATRA  I will not hurt him.
+<speaker>CLEOPATRA</speaker>
+I will not hurt him.
 These hands do lack nobility that they strike
 A meaner than myself, since I myself
 Have given myself the cause.
 
-[Enter the Messenger again.]
+[<i>Enter the Messenger again.</i>]
 
 Come hither, sir.
 Though it be honest, it is never good
@@ -1808,82 +2030,90 @@ To bring bad news. Give to a gracious message
 An host of tongues, but let ill tidings tell
 Themselves when they be felt.
 
-MESSENGER  I have done my duty.
+<speaker>MESSENGER</speaker>
+I have done my duty.
 
-CLEOPATRA  Is he married?
+<speaker>CLEOPATRA</speaker>
+Is he married?
 I cannot hate thee worser than I do
 If thou again say "yes."
 
-MESSENGER  He's married, madam.
+<speaker>MESSENGER</speaker>
+He's married, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 The gods confound thee! Dost thou hold there still?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Should I lie, madam?
 
-<b>CLEOPATRA  O,</b> I would thou didst,
+<speaker>CLEOPATRA</speaker>
+O, I would thou didst,
 So half my Egypt were submerged and made
 A cistern for scaled snakes! Go, get thee hence.
 Hadst thou Narcissus in thy face, to me
 Thou wouldst appear most ugly. He is married?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 I crave your Highness' pardon.
 
-CLEOPATRA  He is married?
+<speaker>CLEOPATRA</speaker>
+He is married?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Take no offense that I would not offend you.
 To punish me for what you make me do
 Seems much unequal. He's married to Octavia.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 O, that his fault should make a knave of thee
 That art not what th' art sure of! Get thee hence.
 The merchandise which thou hast brought from
 Rome
 Are all too dear for me. Lie they upon thy hand,
-And be undone by 'em!	[Messenger exits.]
+And be undone by 'em!	[<i>Messenger exits.</i>]
 
-CHARMIAN  Good your Highness,
+<speaker>CHARMIAN</speaker>
+Good your Highness,
 patience.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 In praising Antony, I have dispraised Caesar.
 
-CHARMIAN  Many times, madam.
+<speaker>CHARMIAN</speaker>
+Many times, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I am paid for 't now. Lead me from hence;
 I faint. O, Iras, Charmian! 'Tis no matter.--
 Go to the fellow, good Alexas. Bid him
 Report the feature of Octavia, her years,
 Her inclination; let him not leave out
 The color of her hair. Bring me word quickly.
-[Alexas exits.]
+[<i>Alexas exits.</i>]
 Let him forever go--let him not, Charmian.
 Though he be painted one way like a Gorgon,
-The other way 's a Mars. [(To Mardian.)] Bid you
+The other way 's a Mars. [<i>(To Mardian.)</i>]
+Bid you
 Alexas
 Bring me word how tall she is.--Pity me,
 Charmian,
 But do not speak to me. Lead me to my chamber.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-2-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Flourish. Enter Pompey and Menas at one door,
+[<i>Flourish. Enter Pompey and Menas at one door,
 with Drum and Trumpet; at another Caesar, Lepidus,
 Antony, Enobarbus, Maecenas, and Agrippa,
-with Soldiers marching.]
+with Soldiers marching.</i>]
 
-
-POMPEY
+<speaker>POMPEY</speaker>
 Your hostages I have, so have you mine,
 And we shall talk before we fight.
 
-CAESAR  Most meet
+<speaker>CAESAR</speaker>
+Most meet
 That first we come to words, and therefore have we
 Our written purposes before us sent,
 Which if thou hast considered, let us know
@@ -1891,7 +2121,8 @@ If 'twill tie up thy discontented sword
 And carry back to Sicily much tall youth
 That else must perish here.
 
-POMPEY  To you all three,
+<speaker>POMPEY</speaker>
+To you all three,
 The senators alone of this great world,
 Chief factors for the gods: I do not know
 Wherefore my father should revengers want,
@@ -1909,41 +2140,49 @@ The angered ocean foams, with which I meant
 To scourge th' ingratitude that despiteful Rome
 Cast on my noble father.
 
-CAESAR  Take your time.
+<speaker>CAESAR</speaker>
+Take your time.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Thou canst not fear us, Pompey, with thy sails.
 We'll speak with thee at sea. At land thou know'st
 How much we do o'ercount thee.
 
-POMPEY  At land indeed
+<speaker>POMPEY</speaker>
+At land indeed
 Thou dost o'ercount me of my father's house;
 But since the cuckoo builds not for himself,
 Remain in 't as thou mayst.
 
-LEPIDUS  Be pleased to tell us--
+<speaker>LEPIDUS</speaker>
+Be pleased to tell us--
 For this is from the present--how you take
 The offers we have sent you.
 
-CAESAR  There's the point.
+<speaker>CAESAR</speaker>
+There's the point.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Which do not be entreated to, but weigh
 What it is worth embraced.
 
-CAESAR  And what may follow
+<speaker>CAESAR</speaker>
+And what may follow
 To try a larger fortune.
 
-POMPEY  You have made me offer
+<speaker>POMPEY</speaker>
+You have made me offer
 Of Sicily, Sardinia; and I must
 Rid all the sea of pirates; then to send
 Measures of wheat to Rome. This 'greed upon,
 To part with unhacked edges and bear back
 Our targes undinted.
 
-ALL  That's our offer.
+<speaker>ALL</speaker>
+That's our offer.
 
-POMPEY  Know then
+<speaker>POMPEY</speaker>
+Know then
 I came before you here a man prepared
 To take this offer. But Mark Antony
 Put me to some impatience.--Though I lose
@@ -1952,165 +2191,214 @@ When Caesar and your brother were at blows,
 Your mother came to Sicily and did find
 Her welcome friendly.
 
-ANTONY  I have heard it, Pompey,
+<speaker>ANTONY</speaker>
+I have heard it, Pompey,
 And am well studied for a liberal thanks,
 Which I do owe you.
 
-POMPEY  Let me have your hand.
-[They clasp hands.]
+<speaker>POMPEY</speaker>
+Let me have your hand.
+[<i>They clasp hands.</i>]
 I did not think, sir, to have met you here.
 
-ANTONY
+<speaker>ANTONY</speaker>
 The beds i' th' East are soft; and thanks to you,
 That called me timelier than my purpose hither,
 For I have gained by 't.
 
-<b>CAESAR,</b> [to Pompey]  Since I saw you last,
+<speaker>CAESAR,</speaker>
+[<i>to Pompey</i>]
+Since I saw you last,
 There's a change upon you.
 
-POMPEY  Well, I know not
+<speaker>POMPEY</speaker>
+Well, I know not
 What counts harsh Fortune casts upon my face,
 But in my bosom shall she never come
 To make my heart her vassal.
 
-LEPIDUS  Well met here.
+<speaker>LEPIDUS</speaker>
+Well met here.
 
-POMPEY
+<speaker>POMPEY</speaker>
 I hope so, Lepidus. Thus we are agreed.
 I crave our composition may be written
 And sealed between us.
 
-CAESAR  That's the next to do.
+<speaker>CAESAR</speaker>
+That's the next to do.
 
-POMPEY
+<speaker>POMPEY</speaker>
 We'll feast each other ere we part, and let's
 Draw lots who shall begin.
 
-ANTONY  That will I, Pompey.
+<speaker>ANTONY</speaker>
+That will I, Pompey.
 
-POMPEY
+<speaker>POMPEY</speaker>
 No, Antony, take the lot. But, first or last,
 Your fine Egyptian cookery shall have
 The fame. I have heard that Julius Caesar
 Grew fat with feasting there.
 
-ANTONY  You have heard much.
+<speaker>ANTONY</speaker>
+You have heard much.
 
-POMPEY  I have fair meanings, sir.
+<speaker>POMPEY</speaker>
+I have fair meanings, sir.
 
-ANTONY  And fair words to them.
+<speaker>ANTONY</speaker>
+And fair words to them.
 
-POMPEY  Then so much have I heard.
+<speaker>POMPEY</speaker>
+Then so much have I heard.
 And I have heard Apollodorus carried--
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 No more of that. He did so.
 
-POMPEY  What, I pray you?
+<speaker>POMPEY</speaker>
+What, I pray you?
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 A certain queen to Caesar in a mattress.
 
-POMPEY
+<speaker>POMPEY</speaker>
 I know thee now. How far'st thou, soldier?
 
-ENOBARBUS  Well,
+<speaker>ENOBARBUS</speaker>
+Well,
 And well am like to do, for I perceive
 Four feasts are toward.
 
-POMPEY  Let me shake thy hand.
+<speaker>POMPEY</speaker>
+Let me shake thy hand.
 I never hated thee. I have seen thee fight
 When I have envied thy behavior.
 
-ENOBARBUS  Sir,
+<speaker>ENOBARBUS</speaker>
+Sir,
 I never loved you much, but I ha' praised you
 When you have well deserved ten times as much
 As I have said you did.
 
-POMPEY  Enjoy thy plainness;
+<speaker>POMPEY</speaker>
+Enjoy thy plainness;
 It nothing ill becomes thee.--
 Aboard my galley I invite you all.
 Will you lead, lords?
 
-ALL  Show 's the way, sir.
+<speaker>ALL</speaker>
+Show 's the way, sir.
 
-POMPEY  Come.
-[They exit, except for Enobarbus and Menas.]
+<speaker>POMPEY</speaker>
+Come.
+[<i>They exit, except for Enobarbus and Menas.</i>]
 
-<b>MENAS,</b> [aside]  Thy father, Pompey, would ne'er have
+<speaker>MENAS,</speaker>
+[<i>aside</i>]
+Thy father, Pompey, would ne'er have
 made this treaty.--You and I have known, sir.
 
-ENOBARBUS  At sea, I think.
+<speaker>ENOBARBUS</speaker>
+At sea, I think.
 
-MENAS  We have, sir.
+<speaker>MENAS</speaker>
+We have, sir.
 
-ENOBARBUS  You have done well by water.
+<speaker>ENOBARBUS</speaker>
+You have done well by water.
 
-MENAS  And you by land.
+<speaker>MENAS</speaker>
+And you by land.
 
-ENOBARBUS  I will praise any man that will praise me,
+<speaker>ENOBARBUS</speaker>
+I will praise any man that will praise me,
 though it cannot be denied what I have done by
 land.
 
-MENAS  Nor what I have done by water.
+<speaker>MENAS</speaker>
+Nor what I have done by water.
 
-ENOBARBUS  Yes, something you can deny for your own
+<speaker>ENOBARBUS</speaker>
+Yes, something you can deny for your own
 safety: you have been a great thief by sea.
 
-MENAS  And you by land.
+<speaker>MENAS</speaker>
+And you by land.
 
-ENOBARBUS  There I deny my land service. But give me
-your hand, Menas. [They clasp hands.] If our eyes
+<speaker>ENOBARBUS</speaker>
+There I deny my land service. But give me
+your hand, Menas. [<i>They clasp hands.</i>]
+If our eyes
 had authority, here they might take two thieves
 kissing.
 
-MENAS  All men's faces are true, whatsome'er their
+<speaker>MENAS</speaker>
+All men's faces are true, whatsome'er their
 hands are.
 
-ENOBARBUS  But there is never a fair woman has a true
+<speaker>ENOBARBUS</speaker>
+But there is never a fair woman has a true
 face.
 
-MENAS  No slander. They steal hearts.
+<speaker>MENAS</speaker>
+No slander. They steal hearts.
 
-ENOBARBUS  We came hither to fight with you.
+<speaker>ENOBARBUS</speaker>
+We came hither to fight with you.
 
-MENAS  For my part, I am sorry it is turned to a
+<speaker>MENAS</speaker>
+For my part, I am sorry it is turned to a
 drinking. Pompey doth this day laugh away his
 fortune.
 
-ENOBARBUS  If he do, sure he cannot weep 't back
+<speaker>ENOBARBUS</speaker>
+If he do, sure he cannot weep 't back
 again.
 
-MENAS  You've said, sir. We looked not for Mark Antony
+<speaker>MENAS</speaker>
+You've said, sir. We looked not for Mark Antony
 here. Pray you, is he married to Cleopatra?
 
-ENOBARBUS  Caesar's sister is called Octavia.
+<speaker>ENOBARBUS</speaker>
+Caesar's sister is called Octavia.
 
-MENAS  True, sir. She was the wife of Caius Marcellus.
+<speaker>MENAS</speaker>
+True, sir. She was the wife of Caius Marcellus.
 
-ENOBARBUS  But she is now the wife of Marcus
+<speaker>ENOBARBUS</speaker>
+But she is now the wife of Marcus
 Antonius.
 
-MENAS  Pray you, sir?
+<speaker>MENAS</speaker>
+Pray you, sir?
 
-ENOBARBUS  'Tis true.
+<speaker>ENOBARBUS</speaker>
+'Tis true.
 
-MENAS  Then is Caesar and he forever knit together.
+<speaker>MENAS</speaker>
+Then is Caesar and he forever knit together.
 
-ENOBARBUS  If I were bound to divine of this unity, I
+<speaker>ENOBARBUS</speaker>
+If I were bound to divine of this unity, I
 would not prophesy so.
 
-MENAS  I think the policy of that purpose made more in
+<speaker>MENAS</speaker>
+I think the policy of that purpose made more in
 the marriage than the love of the parties.
 
-ENOBARBUS  I think so, too. But you shall find the band
+<speaker>ENOBARBUS</speaker>
+I think so, too. But you shall find the band
 that seems to tie their friendship together will be
 the very strangler of their amity. Octavia is of a holy,
 cold, and still conversation.
 
-MENAS  Who would not have his wife so?
+<speaker>MENAS</speaker>
+Who would not have his wife so?
 
-ENOBARBUS  Not he that himself is not so, which is
+<speaker>ENOBARBUS</speaker>
+Not he that himself is not so, which is
 Mark Antony. He will to his Egyptian dish again.
 Then shall the sighs of Octavia blow the fire up in
 Caesar, and, as I said before, that which is the
@@ -2118,50 +2406,58 @@ strength of their amity shall prove the immediate
 author of their variance. Antony will use his affection
 where it is. He married but his occasion here.
 
-MENAS  And thus it may be. Come, sir, will you aboard?
+<speaker>MENAS</speaker>
+And thus it may be. Come, sir, will you aboard?
 I have a health for you.
 
-ENOBARBUS  I shall take it, sir. We have used our throats
+<speaker>ENOBARBUS</speaker>
+I shall take it, sir. We have used our throats
 in Egypt.
 
-MENAS  Come, let's away.
-[They exit.]
+<speaker>MENAS</speaker>
+Come, let's away.
+[<i>They exit.</i>]
 
 <b id="act-2-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[Music plays. Enter two or three Servants
-with a banquet.]
+[<i>Music plays. Enter two or three Servants
+with a banquet.</i>]
 
-
-FIRST SERVANT  Here they'll be, man. Some o' their
+<speaker>FIRST SERVANT</speaker>
+Here they'll be, man. Some o' their
 plants are ill-rooted already. The least wind i' th'
 world will blow them down.
 
-SECOND SERVANT  Lepidus is high-colored.
+<speaker>SECOND SERVANT</speaker>
+Lepidus is high-colored.
 
-FIRST SERVANT  They have made him drink alms-drink.
+<speaker>FIRST SERVANT</speaker>
+They have made him drink alms-drink.
 
-SECOND SERVANT  As they pinch one another by the
+<speaker>SECOND SERVANT</speaker>
+As they pinch one another by the
 disposition, he cries out "No more," reconciles
 them to his entreaty and himself to th' drink.
 
-FIRST SERVANT  But it raises the greater war between
+<speaker>FIRST SERVANT</speaker>
+But it raises the greater war between
 him and his discretion.
 
-SECOND SERVANT  Why, this it is to have a name in great
+<speaker>SECOND SERVANT</speaker>
+Why, this it is to have a name in great
 men's fellowship. I had as lief have a reed that will
 do me no service as a partisan I could not heave.
 
-FIRST SERVANT  To be called into a huge sphere, and not
+<speaker>FIRST SERVANT</speaker>
+To be called into a huge sphere, and not
 to be seen to move in 't, are the holes where eyes
 should be, which pitifully disaster the cheeks.
 
-[A sennet sounded. Enter Caesar, Antony, Pompey,
+[<i>A sennet sounded. Enter Caesar, Antony, Pompey,
 Lepidus, Agrippa, Maecenas, Enobarbus, Menas, with
-other Captains and a Boy.]
+other Captains and a Boy.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Thus do they, sir: they take the flow o' th' Nile
 By certain scales i' th' Pyramid; they know
 By th' height, the lowness, or the mean if dearth
@@ -2170,117 +2466,150 @@ The more it promises. As it ebbs, the seedsman
 Upon the slime and ooze scatters his grain,
 And shortly comes to harvest.
 
-LEPIDUS  You've strange serpents there?
+<speaker>LEPIDUS</speaker>
+You've strange serpents there?
 
-ANTONY  Ay, Lepidus.
+<speaker>ANTONY</speaker>
+Ay, Lepidus.
 
-LEPIDUS  Your serpent of Egypt is bred now of your
+<speaker>LEPIDUS</speaker>
+Your serpent of Egypt is bred now of your
 mud by the operation of your sun; so is your
 crocodile.
 
-ANTONY  They are so.
+<speaker>ANTONY</speaker>
+They are so.
 
-POMPEY
+<speaker>POMPEY</speaker>
 Sit, and some wine. A health to Lepidus!
 
-LEPIDUS  I am not so well as I should be, but I'll ne'er
+<speaker>LEPIDUS</speaker>
+I am not so well as I should be, but I'll ne'er
 out.
 
-<b>ENOBARBUS,</b> [aside]  Not till you have slept. I fear me
+<speaker>ENOBARBUS,</speaker>
+[<i>aside</i>]
+Not till you have slept. I fear me
 you'll be in till then.
 
-LEPIDUS  Nay, certainly, I have heard the Ptolemies'
+<speaker>LEPIDUS</speaker>
+Nay, certainly, I have heard the Ptolemies'
 pyramises are very goodly things. Without contradiction
 I have heard that.
 
-<b>MENAS,</b> [aside to Pompey]
+<speaker>MENAS,</speaker>
+[<i>aside to Pompey</i>]
 Pompey, a word.
 
-<b>POMPEY,</b> [aside to Menas]  Say in mine ear what is 't.
+<speaker>POMPEY,</speaker>
+[<i>aside to Menas</i>]
+Say in mine ear what is 't.
 
-MENAS [(whispers in 's ear)]
+<speaker>MENAS</speaker>
+[<i>(whispers in 's ear)</i>]
 Forsake thy seat, I do beseech thee, captain,
 And hear me speak a word.
 
-<b>POMPEY,</b> [aside to Menas]
+<speaker>POMPEY,</speaker>
+[<i>aside to Menas</i>]
 Forbear me till anon.--This wine for Lepidus!
 
-LEPIDUS  What manner o' thing is your crocodile?
+<speaker>LEPIDUS</speaker>
+What manner o' thing is your crocodile?
 
-ANTONY  It is shaped, sir, like itself, and it is as broad as
+<speaker>ANTONY</speaker>
+It is shaped, sir, like itself, and it is as broad as
 it hath breadth. It is just so high as it is, and moves
 with it own organs. It lives by that which nourisheth
 it, and the elements once out of it, it
 transmigrates.
 
-LEPIDUS  What color is it of?
+<speaker>LEPIDUS</speaker>
+What color is it of?
 
-ANTONY  Of it own color too.
+<speaker>ANTONY</speaker>
+Of it own color too.
 
-LEPIDUS  'Tis a strange serpent.
+<speaker>LEPIDUS</speaker>
+'Tis a strange serpent.
 
-ANTONY  'Tis so, and the tears of it are wet.
+<speaker>ANTONY</speaker>
+'Tis so, and the tears of it are wet.
 
-<b>CAESAR,</b> [aside to Antony]  Will this description satisfy
+<speaker>CAESAR,</speaker>
+[<i>aside to Antony</i>]
+Will this description satisfy
 him?
 
-ANTONY  With the health that Pompey gives him, else he
+<speaker>ANTONY</speaker>
+With the health that Pompey gives him, else he
 is a very epicure.
 
-<b>POMPEY,</b> [aside to Menas]
+<speaker>POMPEY,</speaker>
+[<i>aside to Menas</i>]
 Go hang, sir, hang! Tell me of that? Away!
 Do as I bid you.--Where's this cup I called for?
 
-<b>MENAS,</b> [aside to Pompey]
+<speaker>MENAS,</speaker>
+[<i>aside to Pompey</i>]
 If for the sake of merit thou wilt hear me,
 Rise from thy stool.
 
-POMPEY  I think th' art mad!
-[He rises, and they walk aside.]
+<speaker>POMPEY</speaker>
+I think th' art mad!
+[<i>He rises, and they walk aside.</i>]
 The matter?
 
-MENAS
+<speaker>MENAS</speaker>
 I have ever held my cap off to thy fortunes.
 
-POMPEY
+<speaker>POMPEY</speaker>
 Thou hast served me with much faith. What's else
 to say?--
 Be jolly, lords.
 
-ANTONY  These quicksands, Lepidus,
+<speaker>ANTONY</speaker>
+These quicksands, Lepidus,
 Keep off them, for you sink.
 
-<b>MENAS,</b> [aside to Pompey]
+<speaker>MENAS,</speaker>
+[<i>aside to Pompey</i>]
 Wilt thou be lord of all the world?
 
-POMPEY  What sayst thou?
+<speaker>POMPEY</speaker>
+What sayst thou?
 
-MENAS
+<speaker>MENAS</speaker>
 Wilt thou be lord of the whole world? That's twice.
 
-POMPEY  How should that be?
+<speaker>POMPEY</speaker>
+How should that be?
 
-MENAS  But entertain it,
+<speaker>MENAS</speaker>
+But entertain it,
 And though thou think me poor, I am the man
 Will give thee all the world.
 
-POMPEY  Hast thou drunk well?
+<speaker>POMPEY</speaker>
+Hast thou drunk well?
 
-MENAS
+<speaker>MENAS</speaker>
 No, Pompey, I have kept me from the cup.
 Thou art, if thou dar'st be, the earthly Jove.
 Whate'er the ocean pales or sky inclips
 Is thine, if thou wilt ha 't.
 
-POMPEY  Show me which way.
+<speaker>POMPEY</speaker>
+Show me which way.
 
-MENAS
+<speaker>MENAS</speaker>
 These three world-sharers, these competitors,
 Are in thy vessel. Let me cut the cable,
 And when we are put off, fall to their throats.
 All there is thine.
 
-POMPEY  Ah, this thou shouldst have done
+<speaker>POMPEY</speaker>
+Ah, this thou shouldst have done
 And not have spoke on 't! In me 'tis villainy;
 In thee 't had been good service. Thou must know
 'Tis not my profit that does lead mine honor;
@@ -2289,86 +2618,107 @@ Hath so betrayed thine act. Being done unknown,
 I should have found it afterwards well done,
 But must condemn it now. Desist and drink.
 
-<b>MENAS,</b> [aside]  For this
+<speaker>MENAS,</speaker>
+[<i>aside</i>]
+For this
 I'll never follow thy palled fortunes more.
 Who seeks and will not take when once 'tis offered
 Shall never find it more.
 
-POMPEY  This health to Lepidus!
+<speaker>POMPEY</speaker>
+This health to Lepidus!
 
-<b>ANTONY,</b> [to Servant]
+<speaker>ANTONY,</speaker>
+[<i>to Servant</i>]
 Bear him ashore.--I'll pledge it for him, Pompey.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Here's to thee, Menas.
 
-MENAS  Enobarbus, welcome.
+<speaker>MENAS</speaker>
+Enobarbus, welcome.
 
-POMPEY  Fill till the cup be hid.
+<speaker>POMPEY</speaker>
+Fill till the cup be hid.
 
-<b>ENOBARBUS,</b> [pointing to the Servant carrying Lepidus]
+<speaker>ENOBARBUS,</speaker>
+[<i>pointing to the Servant carrying Lepidus</i>]
 There's a strong fellow, Menas.
 
-MENAS  Why?
+<speaker>MENAS</speaker>
+Why?
 
-ENOBARBUS  He bears
+<speaker>ENOBARBUS</speaker>
+He bears
 The third part of the world, man. Seest not?
 
-MENAS
+<speaker>MENAS</speaker>
 The third part, then, is drunk. Would it were all,
 That it might go on wheels.
 
-ENOBARBUS  Drink thou. Increase the reels.
+<speaker>ENOBARBUS</speaker>
+Drink thou. Increase the reels.
 
-MENAS  Come.
+<speaker>MENAS</speaker>
+Come.
 
-POMPEY
+<speaker>POMPEY</speaker>
 This is not yet an Alexandrian feast.
 
-ANTONY
+<speaker>ANTONY</speaker>
 It ripens towards it. Strike the vessels, ho!
 Here's to Caesar.
 
-CAESAR  I could well forbear 't.
+<speaker>CAESAR</speaker>
+I could well forbear 't.
 It's monstrous labor when I wash my brain
 And it grows fouler.
 
-ANTONY  Be a child o' th' time.
+<speaker>ANTONY</speaker>
+Be a child o' th' time.
 
-CAESAR  Possess it, I'll make answer.
+<speaker>CAESAR</speaker>
+Possess it, I'll make answer.
 But I had rather fast from all, four days,
 Than drink so much in one.
 
-<b>ENOBARBUS,</b> [to Antony]  Ha, my brave emperor,
+<speaker>ENOBARBUS,</speaker>
+[<i>to Antony</i>]
+Ha, my brave emperor,
 Shall we dance now the Egyptian bacchanals
 And celebrate our drink?
 
-POMPEY  Let's ha 't, good soldier.
+<speaker>POMPEY</speaker>
+Let's ha 't, good soldier.
 
-ANTONY  Come, let's all take hands
+<speaker>ANTONY</speaker>
+Come, let's all take hands
 Till that the conquering wine hath steeped our
 sense
 In soft and delicate Lethe.
 
-ENOBARBUS  All take hands.
+<speaker>ENOBARBUS</speaker>
+All take hands.
 Make battery to our ears with the loud music,
 The while I'll place you; then the boy shall sing.
 The holding every man shall beat as loud
 As his strong sides can volley.
 
-[Music plays. Enobarbus places them hand in hand.]
+[<i>Music plays. Enobarbus places them hand in hand.</i>]
 
 The Song.
 
-BOY	Come, thou monarch of the vine,
-	Plumpy Bacchus, with pink eyne.
-	In thy vats our cares be drowned.
-	With thy grapes our hairs be crowned.
+<speaker>BOY</speaker>
+Come, thou monarch of the vine,
+Plumpy Bacchus, with pink eyne.
+In thy vats our cares be drowned.
+With thy grapes our hairs be crowned.
 
-ALL	Cup us till the world go round,
-	   Cup us till the world go round.
+<speaker>ALL</speaker>
+Cup us till the world go round,
+Cup us till the world go round.
 
-CAESAR
+<speaker>CAESAR</speaker>
 What would you more?--Pompey, goodnight.--
 Good brother,
 Let me request you off. Our graver business
@@ -2380,49 +2730,51 @@ Anticked us all. What needs more words?
 Goodnight.
 Good Antony, your hand.
 
-POMPEY  I'll try you on the shore.
+<speaker>POMPEY</speaker>
+I'll try you on the shore.
 
-ANTONY  And shall, sir. Give 's your hand.
+<speaker>ANTONY</speaker>
+And shall, sir. Give 's your hand.
 
-POMPEY
+<speaker>POMPEY</speaker>
 O, Antony, you have my father's house.
 But what? We are friends! Come down into the boat.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Take heed you fall not.
-[All but Menas and Enobarbus exit.]
+[<i>All but Menas and Enobarbus exit.</i>]
 Menas, I'll not on shore.
 
-MENAS
+<speaker>MENAS</speaker>
 No, to my cabin. These drums, these trumpets,
 flutes! What!
 Let Neptune hear we bid a loud farewell
 To these great fellows. Sound and be hanged. Sound
-out!	[Sound a flourish, with drums.]
+out!	[<i>Sound a flourish, with drums.</i>]
 
-ENOBARBUS  Hoo, says 'a! There's my cap!
-[He throws his cap in the air.]
+<speaker>ENOBARBUS</speaker>
+Hoo, says 'a! There's my cap!
+[<i>He throws his cap in the air.</i>]
 
-MENAS  Hoo! Noble captain, come.
-[They exit.]
-
+<speaker>MENAS</speaker>
+Hoo! Noble captain, come.
+[<i>They exit.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
-
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Ventidius as it were in triumph, the dead body of
-Pacorus borne before him; with Silius and Soldiers.]
+[<i>Enter Ventidius as it were in triumph, the dead body of
+Pacorus borne before him; with Silius and Soldiers.</i>]
 
-
-VENTIDIUS
+<speaker>VENTIDIUS</speaker>
 Now, darting Parthia, art thou struck, and now
 Pleased Fortune does of Marcus Crassus' death
 Make me revenger. Bear the King's son's body
 Before our army. Thy Pacorus, Orodes,
 Pays this for Marcus Crassus.
 
-SILIUS  Noble Ventidius,
+<speaker>SILIUS</speaker>
+Noble Ventidius,
 Whilst yet with Parthian blood thy sword is warm,
 The fugitive Parthians follow. Spur through Media,
 Mesopotamia, and the shelters whither
@@ -2430,7 +2782,8 @@ The routed fly. So thy grand captain, Antony,
 Shall set thee on triumphant chariots and
 Put garlands on thy head.
 
-<b>VENTIDIUS  O,</b> Silius, Silius,
+<speaker>VENTIDIUS</speaker>
+O, Silius, Silius,
 I have done enough. A lower place, note well,
 May make too great an act. For learn this, Silius:
 Better to leave undone than by our deed
@@ -2448,68 +2801,71 @@ I could do more to do Antonius good,
 But 'twould offend him. And in his offense
 Should my performance perish.
 
-SILIUS  Thou hast, Ventidius, that
+<speaker>SILIUS</speaker>
+Thou hast, Ventidius, that
 Without the which a soldier and his sword
 Grants scarce distinction. Thou wilt write to
 Antony?
 
-VENTIDIUS
+<speaker>VENTIDIUS</speaker>
 I'll humbly signify what in his name,
 That magical word of war, we have effected;
 How, with his banners and his well-paid ranks,
 The ne'er-yet-beaten horse of Parthia
 We have jaded out o' th' field.
 
-SILIUS  Where is he now?
+<speaker>SILIUS</speaker>
+Where is he now?
 
-VENTIDIUS
+<speaker>VENTIDIUS</speaker>
 He purposeth to Athens, whither, with what haste
 The weight we must convey with 's will permit,
 We shall appear before him.--On there, pass along!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Agrippa at one door, Enobarbus at another.]
+[<i>Enter Agrippa at one door, Enobarbus at another.</i>]
 
+<speaker>AGRIPPA</speaker>
+What, are the brothers parted?
 
-AGRIPPA  What, are the brothers parted?
-
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 They have dispatched with Pompey; he is gone.
 The other three are sealing. Octavia weeps
 To part from Rome. Caesar is sad, and Lepidus,
 Since Pompey's feast, as Menas says, is troubled
 With the greensickness.
 
-AGRIPPA  'Tis a noble Lepidus.
+<speaker>AGRIPPA</speaker>
+'Tis a noble Lepidus.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 A very fine one. O, how he loves Caesar!
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Nay, but how dearly he adores Mark Antony!
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Caesar? Why, he's the Jupiter of men.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 What's Antony? The god of Jupiter.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Spake you of Caesar? How, the nonpareil!
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 O Antony, O thou Arabian bird!
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Would you praise Caesar, say "Caesar." Go no
 further.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Indeed, he plied them both with excellent praises.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 But he loves Caesar best, yet he loves Antony.
 Hoo, hearts, tongues, figures, scribes, bards, poets,
 cannot
@@ -2517,23 +2873,24 @@ Think, speak, cast, write, sing, number--hoo!--
 His love to Antony. But as for Caesar,
 Kneel down, kneel down, and wonder.
 
-AGRIPPA  Both he loves.
+<speaker>AGRIPPA</speaker>
+Both he loves.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 They are his shards and he their beetle.
-[Trumpet within.]
+[<i>Trumpet within.</i>]
 So,
 This is to horse. Adieu, noble Agrippa.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Good fortune, worthy soldier, and farewell.
 
-[Enter Caesar, Antony, Lepidus, and Octavia.]
+[<i>Enter Caesar, Antony, Lepidus, and Octavia.</i>]
 
+<speaker>ANTONY</speaker>
+No further, sir.
 
-ANTONY  No further, sir.
-
-CAESAR
+<speaker>CAESAR</speaker>
 You take from me a great part of myself.
 Use me well in 't.--Sister, prove such a wife
 As my thoughts make thee, and as my farthest bond
@@ -2545,221 +2902,259 @@ The fortress of it. For better might we
 Have loved without this mean, if on both parts
 This be not cherished.
 
-ANTONY  Make me not offended
+<speaker>ANTONY</speaker>
+Make me not offended
 In your distrust.
 
-CAESAR  I have said.
+<speaker>CAESAR</speaker>
+I have said.
 
-ANTONY  You shall not find,
+<speaker>ANTONY</speaker>
+You shall not find,
 Though you be therein curious, the least cause
 For what you seem to fear. So the gods keep you,
 And make the hearts of Romans serve your ends.
 We will here part.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Farewell, my dearest sister, fare thee well.
 The elements be kind to thee and make
 Thy spirits all of comfort. Fare thee well.
 
-OCTAVIA  My noble brother.	[She weeps.]
+<speaker>OCTAVIA</speaker>
+My noble brother. [<i>She weeps.</i>]
 
-ANTONY
+<speaker>ANTONY</speaker>
 The April's in her eyes. It is love's spring,
 And these the showers to bring it on.--Be cheerful.
 
-<b>OCTAVIA,</b> [to Caesar]
+<speaker>OCTAVIA,</speaker>
+[<i>to Caesar</i>]
 Sir, look well to my husband's house, and--
 
-CAESAR
+<speaker>CAESAR</speaker>
 What, Octavia?
 
-OCTAVIA  I'll tell you in your ear.
-[Caesar and Octavia walk aside.]
+<speaker>OCTAVIA</speaker>
+I'll tell you in your ear.
+[<i>Caesar and Octavia walk aside.</i>]
 
-ANTONY
+<speaker>ANTONY</speaker>
 Her tongue will not obey her heart, nor can
 Her heart inform her tongue--the swan's-down
 feather
 That stands upon the swell at the full of tide
 And neither way inclines.
 
-<b>ENOBARBUS,</b> [aside to Agrippa]  Will Caesar weep?
+<speaker>ENOBARBUS,</speaker>
+[<i>aside to Agrippa</i>]
+Will Caesar weep?
 
-AGRIPPA  He has a cloud in 's face.
+<speaker>AGRIPPA</speaker>
+He has a cloud in 's face.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 He were the worse for that were he a horse;
 So is he being a man.
 
-AGRIPPA  Why, Enobarbus,
+<speaker>AGRIPPA</speaker>
+Why, Enobarbus,
 When Antony found Julius Caesar dead,
 He cried almost to roaring. And he wept
 When at Philippi he found Brutus slain.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 That year indeed he was troubled with a rheum.
 What willingly he did confound he wailed,
 Believe 't, till I wept too.
 
-<b>CAESAR,</b> [coming forward with Octavia]  No, sweet Octavia,
+<speaker>CAESAR,</speaker>
+[<i>coming forward with Octavia</i>]
+No, sweet Octavia,
 You shall hear from me still. The time shall not
 Outgo my thinking on you.
 
-ANTONY  Come, sir, come,
+<speaker>ANTONY</speaker>
+Come, sir, come,
 I'll wrestle with you in my strength of love.
 Look, here I have you, thus I let you go,
 And give you to the gods.
 
-CAESAR  Adieu, be happy.
+<speaker>CAESAR</speaker>
+Adieu, be happy.
 
-<b>LEPIDUS,</b> [to Antony]
+<speaker>LEPIDUS,</speaker>
+[<i>to Antony</i>]
 Let all the number of the stars give light
 To thy fair way.
 
-CAESAR  Farewell, farewell.	[Kisses Octavia.]
+<speaker>CAESAR</speaker>
+Farewell, farewell. [<i>Kisses Octavia.</i>]
 
-ANTONY  Farewell.
-[Trumpets sound. They exit.]
+<speaker>ANTONY</speaker>
+Farewell.
+[<i>Trumpets sound. They exit.</i>]
 
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter Cleopatra, Charmian, Iras, and Alexas.]
+[<i>Enter Cleopatra, Charmian, Iras, and Alexas.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Where is the fellow?
 
-ALEXAS  Half afeard to come.
+<speaker>ALEXAS</speaker>
+Half afeard to come.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Go to, go to.--Come hither, sir.
 
-[Enter the Messenger as before.]
+[<i>Enter the Messenger as before.</i>]
 
-
-ALEXAS  Good Majesty,
+<speaker>ALEXAS</speaker>
+Good Majesty,
 Herod of Jewry dare not look upon you
 But when you are well pleased.
 
-CLEOPATRA  That Herod's head
+<speaker>CLEOPATRA</speaker>
+That Herod's head
 I'll have! But how, when Antony is gone,
 Through whom I might command it?--Come thou
 near.
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Most gracious Majesty!
 
-CLEOPATRA  Did'st thou behold Octavia?
+<speaker>CLEOPATRA</speaker>
+Did'st thou behold Octavia?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Ay, dread queen.
 
-CLEOPATRA  Where?
+<speaker>CLEOPATRA</speaker>
+Where?
 
-MESSENGER  Madam, in Rome.
+<speaker>MESSENGER</speaker>
+Madam, in Rome.
 I looked her in the face and saw her led
 Between her brother and Mark Antony.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Is she as tall as me?
 
-MESSENGER  She is not, madam.
+<speaker>MESSENGER</speaker>
+She is not, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Didst hear her speak? Is she shrill-tongued or low?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Madam, I heard her speak. She is low-voiced.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 That's not so good. He cannot like her long.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Like her? O Isis, 'tis impossible!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I think so, Charmian: dull of tongue, and
 dwarfish!--
 What majesty is in her gait? Remember,
 If e'er thou looked'st on majesty.
 
-MESSENGER  She creeps.
+<speaker>MESSENGER</speaker>
+She creeps.
 Her motion and her station are as one.
 She shows a body rather than a life,
 A statue than a breather.
 
-CLEOPATRA  Is this certain?
+<speaker>CLEOPATRA</speaker>
+Is this certain?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 Or I have no observance.
 
-CHARMIAN  Three in Egypt
+<speaker>CHARMIAN</speaker>
+Three in Egypt
 Cannot make better note.
 
-CLEOPATRA  He's very knowing.
+<speaker>CLEOPATRA</speaker>
+He's very knowing.
 I do perceive 't. There's nothing in her yet.
 The fellow has good judgment.
 
-CHARMIAN  Excellent.
+<speaker>CHARMIAN</speaker>
+Excellent.
 
-<b>CLEOPATRA,</b> [to Messenger]  Guess at her years, I
+<speaker>CLEOPATRA,</speaker>
+[<i>to Messenger</i>]
+Guess at her years, I
 prithee.
 
-MESSENGER  Madam, she was a widow.
+<speaker>MESSENGER</speaker>
+Madam, she was a widow.
 
-CLEOPATRA  Widow? Charmian, hark.
+<speaker>CLEOPATRA</speaker>
+Widow? Charmian, hark.
 
-MESSENGER  And I do think she's thirty.
+<speaker>MESSENGER</speaker>
+And I do think she's thirty.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Bear'st thou her face in mind? Is 't long or round?
 
-MESSENGER  Round even to faultiness.
+<speaker>MESSENGER</speaker>
+Round even to faultiness.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 For the most part, too, they are foolish that are so.
 Her hair what color?
 
-MESSENGER  Brown, madam, and her forehead
+<speaker>MESSENGER</speaker>
+Brown, madam, and her forehead
 As low as she would wish it.
 
-<b>CLEOPATRA,</b> [giving money]  There's gold for thee.
+<speaker>CLEOPATRA,</speaker>
+[<i>giving money</i>]
+There's gold for thee.
 Thou must not take my former sharpness ill.
 I will employ thee back again. I find thee
 Most fit for business. Go, make thee ready.
-Our letters are prepared.	[Messenger exits.]
+Our letters are prepared.	[<i>Messenger exits.</i>]
 
-CHARMIAN  A proper man.
+<speaker>CHARMIAN</speaker>
+A proper man.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Indeed he is so. I repent me much
 That so I harried him. Why, methinks, by him,
 This creature's no such thing.
 
-CHARMIAN  Nothing, madam.
+<speaker>CHARMIAN</speaker>
+Nothing, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 The man hath seen some majesty, and should know.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Hath he seen majesty? Isis else defend,
 And serving you so long!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I have one thing more to ask him yet, good
 Charmian,
 But 'tis no matter. Thou shalt bring him to me
 Where I will write. All may be well enough.
 
-CHARMIAN  I warrant you, madam.
-[They exit.]
+<speaker>CHARMIAN</speaker>
+I warrant you, madam.
+[<i>They exit.</i>]
 
 <b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Antony and Octavia.]
+[<i>Enter Antony and Octavia.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Nay, nay, Octavia, not only that--
 That were excusable, that and thousands more
 Of semblable import--but he hath waged
@@ -2771,7 +3166,8 @@ He vented them, most narrow measure lent me;
 When the best hint was given him, he not took 't,
 Or did it from his teeth.
 
-<b>OCTAVIA  O,</b> my good lord,
+<speaker>OCTAVIA</speaker>
+O, my good lord,
 Believe not all, or if you must believe,
 Stomach not all. A more unhappy lady,
 If this division chance, ne'er stood between,
@@ -2779,11 +3175,13 @@ Praying for both parts.
 The good gods will mock me presently
 When I shall pray "O, bless my lord and husband!"
 Undo that prayer by crying out as loud
-"O, bless my brother!" Husband win, win brother
+<speaker>"O,</speaker>
+bless my brother!" Husband win, win brother
 Prays and destroys the prayer; no midway
 'Twixt these extremes at all.
 
-ANTONY  Gentle Octavia,
+<speaker>ANTONY</speaker>
+Gentle Octavia,
 Let your best love draw to that point which seeks
 Best to preserve it. If I lose mine honor,
 I lose myself; better I were not yours
@@ -2793,38 +3191,44 @@ I'll raise the preparation of a war
 Shall stain your brother. Make your soonest haste,
 So your desires are yours.
 
-OCTAVIA  Thanks to my lord.
+<speaker>OCTAVIA</speaker>
+Thanks to my lord.
 The Jove of power make me, most weak, most weak,
 Your reconciler. Wars 'twixt you twain would be
 As if the world should cleave, and that slain men
 Should solder up the rift.
 
-ANTONY
+<speaker>ANTONY</speaker>
 When it appears to you where this begins,
 Turn your displeasure that way, for our faults
 Can never be so equal that your love
 Can equally move with them. Provide your going;
 Choose your own company, and command what cost
 Your heart has mind to.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Enter Enobarbus and Eros.]
+[<i>Enter Enobarbus and Eros.</i>]
 
+<speaker>ENOBARBUS</speaker>
+How now, friend Eros?
 
-ENOBARBUS  How now, friend Eros?
+<speaker>EROS</speaker>
+There's strange news come, sir.
 
-EROS  There's strange news come, sir.
+<speaker>ENOBARBUS</speaker>
+What, man?
 
-ENOBARBUS  What, man?
-
-EROS  Caesar and Lepidus have made wars upon
+<speaker>EROS</speaker>
+Caesar and Lepidus have made wars upon
 Pompey.
 
-ENOBARBUS  This is old. What is the success?
+<speaker>ENOBARBUS</speaker>
+This is old. What is the success?
 
-EROS  Caesar, having made use of him in the wars
+<speaker>EROS</speaker>
+Caesar, having made use of him in the wars
 'gainst Pompey, presently denied him rivality,
 would not let him partake in the glory of the action;
 and, not resting here, accuses him of letters he had
@@ -2832,39 +3236,42 @@ formerly wrote to Pompey; upon his own appeal
 seizes him. So the poor third is up, till death enlarge
 his confine.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Then, world, thou hast a pair of chaps, no more,
 And throw between them all the food thou hast,
 They'll grind the one the other. Where's Antony?
 
-EROS
+<speaker>EROS</speaker>
 He's walking in the garden, thus, and spurns
 The rush that lies before him; cries "Fool Lepidus!"
 And threats the throat of that his officer
 That murdered Pompey.
 
-ENOBARBUS  Our great navy's rigged.
+<speaker>ENOBARBUS</speaker>
+Our great navy's rigged.
 
-EROS
+<speaker>EROS</speaker>
 For Italy and Caesar. More, Domitius:
 My lord desires you presently. My news
 I might have told hereafter.
 
-ENOBARBUS  'Twill be naught,
+<speaker>ENOBARBUS</speaker>
+'Twill be naught,
 But let it be. Bring me to Antony.
 
-EROS  Come, sir.
-[They exit.]
+<speaker>EROS</speaker>
+Come, sir.
+[<i>They exit.</i>]
 
 <b id="act-3-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Enter Agrippa, Maecenas, and Caesar.]
+[<i>Enter Agrippa, Maecenas, and Caesar.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 Contemning Rome, he has done all this and more
 In Alexandria. Here's the manner of 't:
-I' th' marketplace, on a tribunal silvered,
+<speaker>I'</speaker>
+th' marketplace, on a tribunal silvered,
 Cleopatra and himself in chairs of gold
 Were publicly enthroned. At the feet sat
 Caesarion, whom they call my father's son,
@@ -2874,10 +3281,12 @@ He gave the stablishment of Egypt, made her
 Of lower Syria, Cyprus, Lydia,
 Absolute queen.
 
-MAECENAS  This in the public eye?
+<speaker>MAECENAS</speaker>
+This in the public eye?
 
-CAESAR
-I' th' common showplace where they exercise.
+<speaker>CAESAR</speaker>
+<speaker>I'</speaker>
+th' common showplace where they exercise.
 His sons he there proclaimed the kings of kings.
 Great Media, Parthia, and Armenia
 He gave to Alexander; to Ptolemy he assigned
@@ -2886,19 +3295,21 @@ In th' habiliments of the goddess Isis
 That day appeared, and oft before gave audience,
 As 'tis reported, so.
 
-MAECENAS  Let Rome be thus informed.
+<speaker>MAECENAS</speaker>
+Let Rome be thus informed.
 
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Who, queasy with his insolence already,
 Will their good thoughts call from him.
 
-CAESAR
+<speaker>CAESAR</speaker>
 The people knows it and have now received
 His accusations.
 
-AGRIPPA  Who does he accuse?
+<speaker>AGRIPPA</speaker>
+Who does he accuse?
 
-CAESAR
+<speaker>CAESAR</speaker>
 Caesar, and that, having in Sicily
 Sextus Pompeius spoiled, we had not rated him
 His part o' th' isle. Then does he say he lent me
@@ -2907,9 +3318,10 @@ That Lepidus of the triumvirate
 Should be deposed and, being, that we detain
 All his revenue.
 
-AGRIPPA  Sir, this should be answered.
+<speaker>AGRIPPA</speaker>
+Sir, this should be answered.
 
-CAESAR
+<speaker>CAESAR</speaker>
 'Tis done already, and the messenger gone.
 I have told him Lepidus was grown too cruel,
 That he his high authority abused
@@ -2919,24 +3331,24 @@ I grant him part; but then in his Armenia
 And other of his conquered kingdoms I
 Demand the like.
 
-MAECENAS  He'll never yield to that.
+<speaker>MAECENAS</speaker>
+He'll never yield to that.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Nor must not then be yielded to in this.
 
-[Enter Octavia with her Train.]
+[<i>Enter Octavia with her Train.</i>]
 
-
-OCTAVIA
+<speaker>OCTAVIA</speaker>
 Hail, Caesar, and my lord! Hail, most dear Caesar.
 
-CAESAR
+<speaker>CAESAR</speaker>
 That ever I should call thee castaway!
 
-OCTAVIA
+<speaker>OCTAVIA</speaker>
 You have not called me so, nor have you cause.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Why have you stol'n upon us thus? You come not
 Like Caesar's sister. The wife of Antony
 Should have an army for an usher and
@@ -2952,26 +3364,30 @@ Is often left unloved. We should have met you
 By sea and land, supplying every stage
 With an augmented greeting.
 
-OCTAVIA  Good my lord,
+<speaker>OCTAVIA</speaker>
+Good my lord,
 To come thus was I not constrained, but did it
 On my free will. My lord, Mark Antony,
 Hearing that you prepared for war, acquainted
 My grieved ear withal, whereon I begged
 His pardon for return.
 
-CAESAR  Which soon he granted,
+<speaker>CAESAR</speaker>
+Which soon he granted,
 Being an abstract 'tween his lust and him.
 
-OCTAVIA
+<speaker>OCTAVIA</speaker>
 Do not say so, my lord.
 
-CAESAR  I have eyes upon him,
+<speaker>CAESAR</speaker>
+I have eyes upon him,
 And his affairs come to me on the wind.
 Where is he now?
 
-OCTAVIA  My lord, in Athens.
+<speaker>OCTAVIA</speaker>
+My lord, in Athens.
 
-CAESAR
+<speaker>CAESAR</speaker>
 No, my most wronged sister. Cleopatra
 Hath nodded him to her. He hath given his empire
 Up to a whore, who now are levying
@@ -2985,11 +3401,13 @@ Of Comagen; Polemon and Amyntas,
 The Kings of Mede and Lycaonia,
 With a more larger list of scepters.
 
-OCTAVIA  Ay me, most wretched,
+<speaker>OCTAVIA</speaker>
+Ay me, most wretched,
 That have my heart parted betwixt two friends
 That does afflict each other!
 
-CAESAR  Welcome hither.
+<speaker>CAESAR</speaker>
+Welcome hither.
 Your letters did withhold our breaking forth
 Till we perceived both how you were wrong led
 And we in negligent danger. Cheer your heart.
@@ -3003,50 +3421,57 @@ To do you justice, makes his ministers
 Of us and those that love you. Best of comfort,
 And ever welcome to us.
 
-AGRIPPA  Welcome, lady.
+<speaker>AGRIPPA</speaker>
+Welcome, lady.
 
-MAECENAS  Welcome, dear madam.
+<speaker>MAECENAS</speaker>
+Welcome, dear madam.
 Each heart in Rome does love and pity you;
 Only th' adulterous Antony, most large
 In his abominations, turns you off
 And gives his potent regiment to a trull
 That noises it against us.
 
-<b>OCTAVIA,</b> [to Caesar]  Is it so, sir?
+<speaker>OCTAVIA,</speaker>
+[<i>to Caesar</i>]
+Is it so, sir?
 
-CAESAR
+<speaker>CAESAR</speaker>
 Most certain. Sister, welcome. Pray you
 Be ever known to patience. My dear'st sister!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[Enter Cleopatra and Enobarbus.]
+[<i>Enter Cleopatra and Enobarbus.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I will be even with thee, doubt it not.
 
-ENOBARBUS  But why, why, why?
+<speaker>ENOBARBUS</speaker>
+But why, why, why?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Thou hast forspoke my being in these wars
 And say'st it is not fit.
 
-ENOBARBUS  Well, is it, is it?
+<speaker>ENOBARBUS</speaker>
+Well, is it, is it?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Is 't not denounced against us? Why should not we
 Be there in person?
 
-ENOBARBUS  Well, I could reply:
+<speaker>ENOBARBUS</speaker>
+Well, I could reply:
 If we should serve with horse and mares together,
 The horse were merely lost. The mares would bear
 A soldier and his horse.
 
-CLEOPATRA  What is 't you say?
+<speaker>CLEOPATRA</speaker>
+What is 't you say?
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Your presence needs must puzzle Antony,
 Take from his heart, take from his brain, from 's time
 What should not then be spared. He is already
@@ -3054,49 +3479,56 @@ Traduced for levity, and 'tis said in Rome
 That Photinus, an eunuch, and your maids
 Manage this war.
 
-CLEOPATRA  Sink Rome, and their tongues rot
+<speaker>CLEOPATRA</speaker>
+Sink Rome, and their tongues rot
 That speak against us! A charge we bear i' th' war,
 And as the president of my kingdom will
 Appear there for a man. Speak not against it.
 I will not stay behind.
 
-[Enter Antony and Canidius.]
+[<i>Enter Antony and Canidius.</i>]
 
-
-ENOBARBUS  Nay, I have done.
+<speaker>ENOBARBUS</speaker>
+Nay, I have done.
 Here comes the Emperor.
 
-ANTONY  Is it not strange, Canidius,
+<speaker>ANTONY</speaker>
+Is it not strange, Canidius,
 That from Tarentum and Brundusium
 He could so quickly cut the Ionian Sea
 And take in Toryne?--You have heard on 't, sweet?
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Celerity is never more admired
 Than by the negligent.
 
-ANTONY  A good rebuke,
+<speaker>ANTONY</speaker>
+A good rebuke,
 Which might have well becomed the best of men,
 To taunt at slackness.--Canidius, we will fight
 With him by sea.
 
-CLEOPATRA  By sea, what else?
+<speaker>CLEOPATRA</speaker>
+By sea, what else?
 
-CANIDIUS  Why will
+<speaker>CANIDIUS</speaker>
+Why will
 My lord do so?
 
-ANTONY  For that he dares us to 't.
+<speaker>ANTONY</speaker>
+For that he dares us to 't.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 So hath my lord dared him to single fight.
 
-CANIDIUS
+<speaker>CANIDIUS</speaker>
 Ay, and to wage this battle at Pharsalia,
 Where Caesar fought with Pompey. But these offers,
 Which serve not for his vantage, he shakes off,
 And so should you.
 
-ENOBARBUS  Your ships are not well manned,
+<speaker>ENOBARBUS</speaker>
+Your ships are not well manned,
 Your mariners are muleteers, reapers, people
 Engrossed by swift impress. In Caesar's fleet
 Are those that often have 'gainst Pompey fought.
@@ -3104,9 +3536,10 @@ Their ships are yare, yours heavy. No disgrace
 Shall fall you for refusing him at sea,
 Being prepared for land.
 
-ANTONY  By sea, by sea.
+<speaker>ANTONY</speaker>
+By sea, by sea.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Most worthy sir, you therein throw away
 The absolute soldiership you have by land,
 Distract your army, which doth most consist
@@ -3116,38 +3549,39 @@ The way which promises assurance, and
 Give up yourself merely to chance and hazard
 From firm security.
 
-ANTONY  I'll fight at sea.
+<speaker>ANTONY</speaker>
+I'll fight at sea.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I have sixty sails, Caesar none better.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Our overplus of shipping will we burn,
 And with the rest full-manned, from th' head of
 Actium
 Beat th' approaching Caesar. But if we fail,
 We then can do 't at land.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
 Thy business?
 
-MESSENGER
+<speaker>MESSENGER</speaker>
 The news is true, my lord; he is descried.
-Caesar has taken Toryne.	[He exits.]
+Caesar has taken Toryne.	[<i>He exits.</i>]
 
-ANTONY
+<speaker>ANTONY</speaker>
 Can he be there in person? 'Tis impossible;
 Strange that his power should be. Canidius,
 Our nineteen legions thou shalt hold by land,
 And our twelve thousand horse. We'll to our ship.--
 Away, my Thetis.
 
-[Enter a Soldier.]
+[<i>Enter a Soldier.</i>]
 
 How now, worthy soldier?
 
-SOLDIER
+<speaker>SOLDIER</speaker>
 O noble emperor, do not fight by sea!
 Trust not to rotten planks. Do you misdoubt
 This sword and these my wounds? Let th' Egyptians
@@ -3155,109 +3589,114 @@ And the Phoenicians go a-ducking. We
 Have used to conquer standing on the earth
 And fighting foot to foot.
 
-ANTONY  Well, well, away.
-[Antony, Cleopatra, and Enobarbus exit.]
+<speaker>ANTONY</speaker>
+Well, well, away.
+[<i>Antony, Cleopatra, and Enobarbus exit.</i>]
 
-SOLDIER
+<speaker>SOLDIER</speaker>
 By Hercules, I think I am i' th' right.
 
-CANIDIUS
+<speaker>CANIDIUS</speaker>
 Soldier, thou art, but his whole action grows
 Not in the power on 't. So our leader's led,
 And we are women's men.
 
-SOLDIER  You keep by land
+<speaker>SOLDIER</speaker>
+You keep by land
 The legions and the horse whole, do you not?
 
-CANIDIUS
+<speaker>CANIDIUS</speaker>
 Marcus Octavius, Marcus Justeius,
 Publicola, and Caelius are for sea,
 But we keep whole by land. This speed of Caesar's
 Carries beyond belief.
 
-SOLDIER  While he was yet in Rome,
+<speaker>SOLDIER</speaker>
+While he was yet in Rome,
 His power went out in such distractions as
 Beguiled all spies.
 
-CANIDIUS  Who's his lieutenant, hear you?
+<speaker>CANIDIUS</speaker>
+Who's his lieutenant, hear you?
 
-SOLDIER
+<speaker>SOLDIER</speaker>
 They say one Taurus.
 
-CANIDIUS  Well I know the man.
+<speaker>CANIDIUS</speaker>
+Well I know the man.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
+<speaker>MESSENGER</speaker>
+The Emperor calls Canidius.
 
-MESSENGER  The Emperor calls Canidius.
-
-CANIDIUS
+<speaker>CANIDIUS</speaker>
 With news the time's in labor, and throws forth
 Each minute some.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-8" class="scene-header">Scene 8</b>
 <hr>
-[Enter Caesar with his army, and Taurus, marching.]
+[<i>Enter Caesar with his army, and Taurus, marching.</i>]
 
+<speaker>CAESAR</speaker>
+Taurus!
 
-CAESAR  Taurus!
+<speaker>TAURUS</speaker>
+My lord?
 
-TAURUS  My lord?
-
-CAESAR
+<speaker>CAESAR</speaker>
 Strike not by land, keep whole. Provoke not battle
 Till we have done at sea. Do not exceed
-The prescript of this scroll.	[Hands him a scroll.]
+The prescript of this scroll.	[<i>Hands him a scroll.</i>]
 Our fortune lies
 Upon this jump.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-9" class="scene-header">Scene 9</b>
 <hr>
-[Enter Antony and Enobarbus.]
+[<i>Enter Antony and Enobarbus.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Set we our squadrons on yond side o' th' hill
 In eye of Caesar's battle, from which place
 We may the number of the ships behold
 And so proceed accordingly.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-10" class="scene-header">Scene 10</b>
 <hr>
-[Canidius marcheth with his land army one way
+[<i>Canidius marcheth with his land army one way
 over the stage, and Taurus the lieutenant of Caesar
 the other way. After their going in is heard the
-noise of a sea fight.]
+noise of a sea fight.</i>]
 
+[<i>Alarum. Enter Enobarbus.</i>]
 
-[Alarum. Enter Enobarbus.]
-
-
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Naught, naught, all naught! I can behold no longer.
 Th' Antoniad, the Egyptian admiral,
 With all their sixty, fly and turn the rudder.
 To see 't mine eyes are blasted.
 
-[Enter Scarus.]
+[<i>Enter Scarus.</i>]
 
-
-SCARUS  Gods and goddesses,
+<speaker>SCARUS</speaker>
+Gods and goddesses,
 All the whole synod of them!
 
-ENOBARBUS  What's thy passion?
+<speaker>ENOBARBUS</speaker>
+What's thy passion?
 
-SCARUS
+<speaker>SCARUS</speaker>
 The greater cantle of the world is lost
 With very ignorance. We have kissed away
 Kingdoms and provinces.
 
-ENOBARBUS  How appears the fight?
+<speaker>ENOBARBUS</speaker>
+How appears the fight?
 
-SCARUS
+<speaker>SCARUS</speaker>
 On our side, like the tokened pestilence,
 Where death is sure. Yon ribaudred nag of Egypt,
 Whom leprosy o'ertake, i' th' midst o' th' fight,
@@ -3266,11 +3705,13 @@ Both as the same--or, rather, ours the elder--
 The breeze upon her like a cow in June,
 Hoists sails and flies.
 
-ENOBARBUS  That I beheld.
+<speaker>ENOBARBUS</speaker>
+That I beheld.
 Mine eyes did sicken at the sight and could not
 Endure a further view.
 
-SCARUS  She once being loofed,
+<speaker>SCARUS</speaker>
+She once being loofed,
 The noble ruin of her magic, Antony,
 Claps on his sea-wing and, like a doting mallard,
 Leaving the fight in height, flies after her.
@@ -3278,43 +3719,45 @@ I never saw an action of such shame.
 Experience, manhood, honor ne'er before
 Did violate so itself.
 
-ENOBARBUS  Alack, alack.
+<speaker>ENOBARBUS</speaker>
+Alack, alack.
 
-[Enter Canidius.]
+[<i>Enter Canidius.</i>]
 
-
-CANIDIUS
+<speaker>CANIDIUS</speaker>
 Our fortune on the sea is out of breath
 And sinks most lamentably. Had our general
 Been what he knew himself, it had gone well.
 O, he has given example for our flight
 Most grossly by his own.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Ay, are you thereabouts? Why then goodnight
 indeed.
 
-CANIDIUS  Toward Peloponnesus are they fled.
+<speaker>CANIDIUS</speaker>
+Toward Peloponnesus are they fled.
 
-SCARUS
+<speaker>SCARUS</speaker>
 'Tis easy to 't, and there I will attend
-What further comes.	[He exits.]
+What further comes.	[<i>He exits.</i>]
 
-CANIDIUS  To Caesar will I render
+<speaker>CANIDIUS</speaker>
+To Caesar will I render
 My legions and my horse. Six kings already
-Show me the way of yielding.	[He exits.]
+Show me the way of yielding.	[<i>He exits.</i>]
 
-ENOBARBUS  I'll yet follow
+<speaker>ENOBARBUS</speaker>
+I'll yet follow
 The wounded chance of Antony, though my reason
 Sits in the wind against me.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-3-scene-11" class="scene-header">Scene 11</b>
 <hr>
-[Enter Antony with Attendants.]
+[<i>Enter Antony with Attendants.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Hark, the land bids me tread no more upon 't.
 It is ashamed to bear me. Friends, come hither.
 I am so lated in the world that I
@@ -3322,9 +3765,10 @@ Have lost my way forever. I have a ship
 Laden with gold. Take that, divide it. Fly,
 And make your peace with Caesar.
 
-ALL  Fly? Not we!
+<speaker>ALL</speaker>
+Fly? Not we!
 
-ANTONY
+<speaker>ANTONY</speaker>
 I have fled myself and have instructed cowards
 To run and show their shoulders. Friends, begone.
 I have myself resolved upon a course
@@ -3343,33 +3787,41 @@ I will possess you of that ship and treasure.
 Leave me, I pray, a little--pray you, now,
 Nay, do so--for indeed I have lost command.
 Therefore I pray you--I'll see you by and by.
-[Attendants move aside. Antony sits down.]
+[<i>Attendants move aside. Antony sits down.</i>]
 
-[Enter Cleopatra led by Charmian, Iras, and Eros.]
+[<i>Enter Cleopatra led by Charmian, Iras, and Eros.</i>]
 
-
-EROS
+<speaker>EROS</speaker>
 Nay, gentle madam, to him, comfort him.
 
-IRAS  Do, most dear queen.
+<speaker>IRAS</speaker>
+Do, most dear queen.
 
-CHARMIAN  Do! Why, what else?
+<speaker>CHARMIAN</speaker>
+Do! Why, what else?
 
-CLEOPATRA  Let me sit down. O Juno!	[She sits down.]
+<speaker>CLEOPATRA</speaker>
+Let me sit down. O Juno! [<i>She sits down.</i>]
 
-ANTONY  No, no, no, no, no.
+<speaker>ANTONY</speaker>
+No, no, no, no, no.
 
-EROS  See you here, sir?
+<speaker>EROS</speaker>
+See you here, sir?
 
-ANTONY  Oh fie, fie, fie!
+<speaker>ANTONY</speaker>
+Oh fie, fie, fie!
 
-CHARMIAN  Madam.
+<speaker>CHARMIAN</speaker>
+Madam.
 
-IRAS  Madam, O good empress!
+<speaker>IRAS</speaker>
+Madam, O good empress!
 
-EROS  Sir, sir--
+<speaker>EROS</speaker>
+Sir, sir--
 
-ANTONY
+<speaker>ANTONY</speaker>
 Yes, my lord, yes. He at Philippi kept
 His sword e'en like a dancer, while I struck
 The lean and wrinkled Cassius, and 'twas I
@@ -3377,47 +3829,57 @@ That the mad Brutus ended. He alone
 Dealt on lieutenantry, and no practice had
 In the brave squares of war, yet now--no matter.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Ah, stand by.
 
-EROS  The Queen, my lord, the Queen.
+<speaker>EROS</speaker>
+The Queen, my lord, the Queen.
 
-IRAS
+<speaker>IRAS</speaker>
 Go to him, madam; speak to him.
 He's unqualitied with very shame.
 
-<b>CLEOPATRA,</b> [rising]  Well, then, sustain me. O!
+<speaker>CLEOPATRA,</speaker>
+[<i>rising</i>]
+Well, then, sustain me. O!
 
-EROS
+<speaker>EROS</speaker>
 Most noble sir, arise. The Queen approaches.
 Her head's declined, and death will seize her but
 Your comfort makes the rescue.
 
-ANTONY  I have offended reputation,
+<speaker>ANTONY</speaker>
+I have offended reputation,
 A most unnoble swerving.
 
-EROS  Sir, the Queen.
+<speaker>EROS</speaker>
+Sir, the Queen.
 
-<b>ANTONY,</b> [rising]
+<speaker>ANTONY,</speaker>
+[<i>rising</i>]
 O, whither hast them led me, Egypt? See
 How I convey my shame out of thine eyes,
 By looking back what I have left behind
 'Stroyed in dishonor.
 
-<b>CLEOPATRA  O,</b> my lord, my lord,
+<speaker>CLEOPATRA</speaker>
+O, my lord, my lord,
 Forgive my fearful sails! I little thought
 You would have followed.
 
-ANTONY  Egypt, thou knew'st too well
+<speaker>ANTONY</speaker>
+Egypt, thou knew'st too well
 My heart was to thy rudder tied by th' strings,
 And thou shouldst tow me after. O'er my spirit
 Thy full supremacy thou knew'st, and that
 Thy beck might from the bidding of the gods
 Command me.
 
-<b>CLEOPATRA  O,</b> my pardon!
+<speaker>CLEOPATRA</speaker>
+O, my pardon!
 
-ANTONY  Now I must
+<speaker>ANTONY</speaker>
+Now I must
 To the young man send humble treaties, dodge
 And palter in the shifts of lowness, who
 With half the bulk o' th' world played as I pleased,
@@ -3426,48 +3888,50 @@ How much you were my conqueror, and that
 My sword, made weak by my affection, would
 Obey it on all cause.
 
-CLEOPATRA  Pardon, pardon!
+<speaker>CLEOPATRA</speaker>
+Pardon, pardon!
 
-ANTONY
+<speaker>ANTONY</speaker>
 Fall not a tear, I say; one of them rates
-All that is won and lost. Give me a kiss.	[They kiss.]
+All that is won and lost. Give me a kiss.	[<i>They kiss.</i>]
 Even this repays me.--
 We sent our schoolmaster. Is he come back?--
 Love, I am full of lead.--Some wine
 Within there, and our viands! Fortune knows
 We scorn her most when most she offers blows.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-3-scene-12" class="scene-header">Scene 12</b>
 <hr>
-[Enter Caesar, Agrippa, Thidias, and
-Dolabella, with others.]
+[<i>Enter Caesar, Agrippa, Thidias, and
+Dolabella, with others.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 Let him appear that's come from Antony.
 Know you him?
 
-DOLABELLA  Caesar, 'tis his schoolmaster--
+<speaker>DOLABELLA</speaker>
+Caesar, 'tis his schoolmaster--
 An argument that he is plucked, when hither
 He sends so poor a pinion of his wing,
 Which had superfluous kings for messengers
 Not many moons gone by.
 
-[Enter Ambassador from Antony.]
+[<i>Enter Ambassador from Antony.</i>]
 
+<speaker>CAESAR</speaker>
+Approach, and speak.
 
-CAESAR  Approach, and speak.
-
-AMBASSADOR
+<speaker>AMBASSADOR</speaker>
 Such as I am, I come from Antony.
 I was of late as petty to his ends
 As is the morn-dew on the myrtle leaf
 To his grand sea.
 
-CAESAR  Be 't so. Declare thine office.
+<speaker>CAESAR</speaker>
+Be 't so. Declare thine office.
 
-AMBASSADOR
+<speaker>AMBASSADOR</speaker>
 Lord of his fortunes he salutes thee, and
 Requires to live in Egypt, which not granted,
 He lessens his requests, and to thee sues
@@ -3478,19 +3942,22 @@ Submits her to thy might, and of thee craves
 The circle of the Ptolemies for her heirs,
 Now hazarded to thy grace.
 
-CAESAR  For Antony,
+<speaker>CAESAR</speaker>
+For Antony,
 I have no ears to his request. The Queen
 Of audience nor desire shall fail, so she
 From Egypt drive her all-disgraced friend,
 Or take his life there. This if she perform,
 She shall not sue unheard. So to them both.
 
-AMBASSADOR
+<speaker>AMBASSADOR</speaker>
 Fortune pursue thee!
 
-CAESAR  Bring him through the bands.
-[Ambassador exits, with Attendants.]
-[To Thidias.] To try thy eloquence now 'tis time.
+<speaker>CAESAR</speaker>
+Bring him through the bands.
+[<i>Ambassador exits, with Attendants.</i>]
+[<i>To Thidias.</i>]
+To try thy eloquence now 'tis time.
 Dispatch.
 From Antony win Cleopatra. Promise,
 And in our name, what she requires; add more,
@@ -3500,30 +3967,32 @@ The ne'er-touched vestal. Try thy cunning, Thidias.
 Make thine own edict for thy pains, which we
 Will answer as a law.
 
-THIDIAS  Caesar, I go.
+<speaker>THIDIAS</speaker>
+Caesar, I go.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Observe how Antony becomes his flaw,
 And what thou think'st his very action speaks
 In every power that moves.
 
-THIDIAS  Caesar, I shall.
-[They exit.]
+<speaker>THIDIAS</speaker>
+Caesar, I shall.
+[<i>They exit.</i>]
 
 <b id="act-3-scene-13" class="scene-header">Scene 13</b>
 <hr>
-[Enter Cleopatra, Enobarbus, Charmian, and Iras.]
+[<i>Enter Cleopatra, Enobarbus, Charmian, and Iras.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 What shall we do, Enobarbus?
 
-ENOBARBUS  Think, and die.
+<speaker>ENOBARBUS</speaker>
+Think, and die.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Is Antony or we in fault for this?
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Antony only, that would make his will
 Lord of his reason. What though you fled
 From that great face of war, whose several ranges
@@ -3535,29 +4004,35 @@ The mered question. 'Twas a shame no less
 Than was his loss, to course your flying flags
 And leave his navy gazing.
 
-CLEOPATRA  Prithee, peace.
+<speaker>CLEOPATRA</speaker>
+Prithee, peace.
 
-[Enter the Ambassador with Antony.]
+[<i>Enter the Ambassador with Antony.</i>]
 
+<speaker>ANTONY</speaker>
+Is that his answer?
 
-ANTONY  Is that his answer?
+<speaker>AMBASSADOR</speaker>
+Ay, my lord.
 
-AMBASSADOR  Ay, my lord.
-
-ANTONY
+<speaker>ANTONY</speaker>
 The Queen shall then have courtesy, so she
 Will yield us up?
 
-AMBASSADOR  He says so.
+<speaker>AMBASSADOR</speaker>
+He says so.
 
-ANTONY  Let her know 't.--
+<speaker>ANTONY</speaker>
+Let her know 't.--
 To the boy Caesar send this grizzled head,
 And he will fill thy wishes to the brim
 With principalities.
 
-CLEOPATRA  That head, my lord?
+<speaker>CLEOPATRA</speaker>
+That head, my lord?
 
-<b>ANTONY,</b> [to Ambassador]
+<speaker>ANTONY,</speaker>
+[<i>to Ambassador</i>]
 To him again. Tell him he wears the rose
 Of youth upon him, from which the world should
 note
@@ -3568,9 +4043,10 @@ As i' th' command of Caesar. I dare him therefore
 To lay his gay caparisons apart
 And answer me declined, sword against sword,
 Ourselves alone. I'll write it. Follow me.
-[Antony and Ambassador exit.]
+[<i>Antony and Ambassador exit.</i>]
 
-<b>ENOBARBUS,</b> [aside]
+<speaker>ENOBARBUS,</speaker>
+[<i>aside</i>]
 Yes, like enough, high-battled Caesar will
 Unstate his happiness and be staged to th' show
 Against a sworder! I see men's judgments are
@@ -3581,18 +4057,19 @@ Knowing all measures, the full Caesar will
 Answer his emptiness! Caesar, thou hast subdued
 His judgment too.
 
-[Enter a Servant.]
+[<i>Enter a Servant.</i>]
 
+<speaker>SERVANT</speaker>
+A messenger from Caesar.
 
-SERVANT  A messenger from Caesar.
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 What, no more ceremony? See, my women,
 Against the blown rose may they stop their nose
 That kneeled unto the buds.--Admit him, sir.
-[Servant exits.]
+[<i>Servant exits.</i>]
 
-<b>ENOBARBUS,</b> [aside]
+<speaker>ENOBARBUS,</speaker>
+[<i>aside</i>]
 Mine honesty and I begin to square.
 The loyalty well held to fools does make
 Our faith mere folly. Yet he that can endure
@@ -3600,53 +4077,61 @@ To follow with allegiance a fall'n lord
 Does conquer him that did his master conquer,
 And earns a place i' th' story.
 
-[Enter Thidias.]
+[<i>Enter Thidias.</i>]
 
+<speaker>CLEOPATRA</speaker>
+Caesar's will?
 
-CLEOPATRA  Caesar's will?
-
-THIDIAS
+<speaker>THIDIAS</speaker>
 Hear it apart.
 
-CLEOPATRA  None but friends. Say boldly.
+<speaker>CLEOPATRA</speaker>
+None but friends. Say boldly.
 
-THIDIAS
+<speaker>THIDIAS</speaker>
 So haply are they friends to Antony.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 He needs as many, sir, as Caesar has,
 Or needs not us. If Caesar please, our master
 Will leap to be his friend. For us, you know
 Whose he is we are, and that is Caesar's.
 
-THIDIAS  So.--
+<speaker>THIDIAS</speaker>
+So.--
 Thus then, thou most renowned: Caesar entreats
 Not to consider in what case thou stand'st
 Further than he is Caesar.
 
-CLEOPATRA  Go on; right royal.
+<speaker>CLEOPATRA</speaker>
+Go on; right royal.
 
-THIDIAS
+<speaker>THIDIAS</speaker>
 He knows that you embrace not Antony
 As you did love, but as you feared him.
 
-CLEOPATRA  O!
+<speaker>CLEOPATRA</speaker>
+O!
 
-THIDIAS
+<speaker>THIDIAS</speaker>
 The scars upon your honor therefore he
 Does pity as constrained blemishes,
 Not as deserved.
 
-CLEOPATRA  He is a god and knows
+<speaker>CLEOPATRA</speaker>
+He is a god and knows
 What is most right. Mine honor was not yielded,
 But conquered merely.
 
-<b>ENOBARBUS,</b> [aside]  To be sure of that,
+<speaker>ENOBARBUS,</speaker>
+[<i>aside</i>]
+To be sure of that,
 I will ask Antony. Sir, sir, thou art so leaky
 That we must leave thee to thy sinking, for
-Thy dearest quit thee.	[Enobarbus exits.]
+Thy dearest quit thee.	[<i>Enobarbus exits.</i>]
 
-THIDIAS  Shall I say to Caesar
+<speaker>THIDIAS</speaker>
+Shall I say to Caesar
 What you require of him? For he partly begs
 To be desired to give. It much would please him
 That of his fortunes you should make a staff
@@ -3655,43 +4140,50 @@ To hear from me you had left Antony
 And put yourself under his shroud,
 The universal landlord.
 
-CLEOPATRA  What's your name?
+<speaker>CLEOPATRA</speaker>
+What's your name?
 
-THIDIAS
+<speaker>THIDIAS</speaker>
 My name is Thidias.
 
-CLEOPATRA  Most kind messenger,
+<speaker>CLEOPATRA</speaker>
+Most kind messenger,
 Say to great Caesar this in deputation:
 I kiss his conqu'ring hand. Tell him I am prompt
 To lay my crown at 's feet, and there to kneel.
 Tell him, from his all-obeying breath I hear
 The doom of Egypt.
 
-THIDIAS  'Tis your noblest course.
+<speaker>THIDIAS</speaker>
+'Tis your noblest course.
 Wisdom and fortune combating together,
 If that the former dare but what it can,
 No chance may shake it. Give me grace to lay
 My duty on your hand.
-[She gives him her hand to kiss.]
+[<i>She gives him her hand to kiss.</i>]
 
-CLEOPATRA  Your Caesar's father oft,
+<speaker>CLEOPATRA</speaker>
+Your Caesar's father oft,
 When he hath mused of taking kingdoms in,
 Bestowed his lips on that unworthy place
 As it rained kisses.
 
-[Enter Antony and Enobarbus.]
+[<i>Enter Antony and Enobarbus.</i>]
 
-
-ANTONY  Favors? By Jove that thunders!
+<speaker>ANTONY</speaker>
+Favors? By Jove that thunders!
 What art thou, fellow?
 
-THIDIAS  One that but performs
+<speaker>THIDIAS</speaker>
+One that but performs
 The bidding of the fullest man and worthiest
 To have command obeyed.
 
-ENOBARBUS  You will be whipped.
+<speaker>ENOBARBUS</speaker>
+You will be whipped.
 
-<b>ANTONY,</b> [calling for Servants]
+<speaker>ANTONY,</speaker>
+[<i>calling for Servants</i>]
 Approach there!--Ah, you kite!--Now, gods and
 devils,
 Authority melts from me. Of late when I cried "Ho!"
@@ -3699,15 +4191,17 @@ Like boys unto a muss kings would start forth
 And cry "Your will?" Have you no ears? I am
 Antony yet.
 
-[Enter Servants.]
+[<i>Enter Servants.</i>]
 
 Take hence this jack and whip him.
 
-<b>ENOBARBUS,</b> [aside]
+<speaker>ENOBARBUS,</speaker>
+[<i>aside</i>]
 'Tis better playing with a lion's whelp
 Than with an old one dying.
 
-ANTONY  Moon and stars!
+<speaker>ANTONY</speaker>
+Moon and stars!
 Whip him! Were 't twenty of the greatest tributaries
 That do acknowledge Caesar, should I find them
 So saucy with the hand of she here--what's her
@@ -3716,32 +4210,37 @@ Since she was Cleopatra? Whip him, fellows,
 Till like a boy you see him cringe his face
 And whine aloud for mercy. Take him hence.
 
-THIDIAS
+<speaker>THIDIAS</speaker>
 Mark Antony--
 
-ANTONY  Tug him away. Being whipped,
+<speaker>ANTONY</speaker>
+Tug him away. Being whipped,
 Bring him again. This jack of Caesar's shall
 Bear us an errand to him.
-[Servants exit with Thidias.]
-[To Cleopatra.] You were half blasted ere I knew you.
+[<i>Servants exit with Thidias.</i>]
+[<i>To Cleopatra.</i>]
+You were half blasted ere I knew you.
 Ha!
 Have I my pillow left unpressed in Rome,
 Forborne the getting of a lawful race,
 And by a gem of women, to be abused
 By one that looks on feeders?
 
-CLEOPATRA  Good my lord--
+<speaker>CLEOPATRA</speaker>
+Good my lord--
 
-ANTONY  You have been a boggler ever.
+<speaker>ANTONY</speaker>
+You have been a boggler ever.
 But when we in our viciousness grow hard--
 O, misery on 't!--the wise gods seel our eyes,
 In our own filth drop our clear judgments, make us
 Adore our errors, laugh at 's while we strut
 To our confusion.
 
-<b>CLEOPATRA  O,</b> is 't come to this?
+<speaker>CLEOPATRA</speaker>
+O, is 't come to this?
 
-ANTONY
+<speaker>ANTONY</speaker>
 I found you as a morsel cold upon
 Dead Caesar's trencher; nay, you were a fragment
 Of Gneius Pompey's, besides what hotter hours,
@@ -3750,9 +4249,10 @@ Luxuriously picked out. For I am sure,
 Though you can guess what temperance should be,
 You know not what it is.
 
-CLEOPATRA  Wherefore is this?
+<speaker>CLEOPATRA</speaker>
+Wherefore is this?
 
-ANTONY
+<speaker>ANTONY</speaker>
 To let a fellow that will take rewards
 And say "God quit you!" be familiar with
 My playfellow, your hand, this kingly seal
@@ -3763,17 +4263,21 @@ And to proclaim it civilly were like
 A haltered neck which does the hangman thank
 For being yare about him.
 
-[Enter a Servant with Thidias.]
+[<i>Enter a Servant with Thidias.</i>]
 
 Is he whipped?
 
-SERVANT  Soundly, my lord.
+<speaker>SERVANT</speaker>
+Soundly, my lord.
 
-ANTONY  Cried he? And begged he pardon?
+<speaker>ANTONY</speaker>
+Cried he? And begged he pardon?
 
-SERVANT  He did ask favor.
+<speaker>SERVANT</speaker>
+He did ask favor.
 
-<b>ANTONY,</b> [to Thidias]
+<speaker>ANTONY,</speaker>
+[<i>to Thidias</i>]
 If that thy father live, let him repent
 Thou wast not made his daughter; and be thou sorry
 To follow Caesar in his triumph, since
@@ -3793,26 +4297,30 @@ My speech and what is done, tell him he has
 Hipparchus, my enfranched bondman, whom
 He may at pleasure whip, or hang, or torture,
 As he shall like to quit me. Urge it thou.
-Hence with thy stripes, begone!	[Thidias exits.]
+Hence with thy stripes, begone!	[<i>Thidias exits.</i>]
 
-CLEOPATRA  Have you done yet?
+<speaker>CLEOPATRA</speaker>
+Have you done yet?
 
-ANTONY
+<speaker>ANTONY</speaker>
 Alack, our terrene moon is now eclipsed,
 And it portends alone the fall of Antony.
 
-CLEOPATRA  I must stay his time.
+<speaker>CLEOPATRA</speaker>
+I must stay his time.
 
-ANTONY
+<speaker>ANTONY</speaker>
 To flatter Caesar, would you mingle eyes
 With one that ties his points?
 
-CLEOPATRA  Not know me yet?
+<speaker>CLEOPATRA</speaker>
+Not know me yet?
 
-ANTONY
+<speaker>ANTONY</speaker>
 Coldhearted toward me?
 
-CLEOPATRA  Ah, dear, if I be so,
+<speaker>CLEOPATRA</speaker>
+Ah, dear, if I be so,
 From my cold heart let heaven engender hail
 And poison it in the source, and the first stone
 Drop in my neck; as it determines, so
@@ -3823,7 +4331,8 @@ By the discandying of this pelleted storm
 Lie graveless till the flies and gnats of Nile
 Have buried them for prey!
 
-ANTONY  I am satisfied.
+<speaker>ANTONY</speaker>
+I am satisfied.
 Caesar sits down in Alexandria, where
 I will oppose his fate. Our force by land
 Hath nobly held; our severed navy too
@@ -3835,9 +4344,10 @@ To kiss these lips, I will appear in blood.
 I and my sword will earn our chronicle.
 There's hope in 't yet.
 
-CLEOPATRA  That's my brave lord!
+<speaker>CLEOPATRA</speaker>
+That's my brave lord!
 
-ANTONY
+<speaker>ANTONY</speaker>
 I will be treble-sinewed, -hearted, -breathed,
 And fight maliciously; for when mine hours
 Were nice and lucky, men did ransom lives
@@ -3847,25 +4357,27 @@ Let's have one other gaudy night. Call to me
 All my sad captains. Fill our bowls once more.
 Let's mock the midnight bell.
 
-CLEOPATRA  It is my birthday.
+<speaker>CLEOPATRA</speaker>
+It is my birthday.
 I had thought t' have held it poor. But since my lord
 Is Antony again, I will be Cleopatra.
 
-ANTONY  We will yet do well.
+<speaker>ANTONY</speaker>
+We will yet do well.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Call all his noble captains to my lord.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Do so; we'll speak to them, and tonight I'll force
 The wine peep through their scars.--Come on, my
 queen,
 There's sap in 't yet. The next time I do fight
 I'll make Death love me, for I will contend
 Even with his pestilent scythe.
-[All but Enobarbus exit.]
+[<i>All but Enobarbus exit.</i>]
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Now he'll outstare the lightning. To be furious
 Is to be frighted out of fear, and in that mood
 The dove will peck the estridge; and I see still
@@ -3873,18 +4385,15 @@ A diminution in our captain's brain
 Restores his heart. When valor preys on reason,
 It eats the sword it fights with. I will seek
 Some way to leave him.
-[He exits.]
-
+[<i>He exits.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
-
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Caesar, Agrippa, and Maecenas, with his army,
-Caesar reading a letter.]
+[<i>Enter Caesar, Agrippa, and Maecenas, with his army,
+Caesar reading a letter.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 He calls me "boy," and chides as he had power
 To beat me out of Egypt. My messenger
 He hath whipped with rods, dares me to personal
@@ -3893,50 +4402,55 @@ Caesar to Antony. Let the old ruffian know
 I have many other ways to die; meantime
 Laugh at his challenge.
 
-MAECENAS  Caesar must think,
+<speaker>MAECENAS</speaker>
+Caesar must think,
 When one so great begins to rage, he's hunted
 Even to falling. Give him no breath, but now
 Make boot of his distraction. Never anger
 Made good guard for itself.
 
-CAESAR  Let our best heads
+<speaker>CAESAR</speaker>
+Let our best heads
 Know that tomorrow the last of many battles
 We mean to fight. Within our files there are,
 Of those that served Mark Antony but late,
 Enough to fetch him in. See it done,
 And feast the army; we have store to do 't,
 And they have earned the waste. Poor Antony.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Antony, Cleopatra, Enobarbus, Charmian, Iras,
-with others.]
+[<i>Enter Antony, Cleopatra, Enobarbus, Charmian, Iras,
+with others.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 He will not fight with me, Domitius?
 
-ENOBARBUS  No.
+<speaker>ENOBARBUS</speaker>
+No.
 
-ANTONY  Why should he not?
+<speaker>ANTONY</speaker>
+Why should he not?
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 He thinks, being twenty times of better fortune,
 He is twenty men to one.
 
-ANTONY  Tomorrow, soldier,
+<speaker>ANTONY</speaker>
+Tomorrow, soldier,
 By sea and land I'll fight. Or I will live
 Or bathe my dying honor in the blood
 Shall make it live again. Woo't thou fight well?
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 I'll strike and cry "Take all."
 
-ANTONY  Well said. Come on.
+<speaker>ANTONY</speaker>
+Well said. Come on.
 Call forth my household servants.
 
-[Enter three or four Servitors.]
+[<i>Enter three or four Servitors.</i>]
 
 Let's tonight
 Be bounteous at our meal.--Give me thy hand;
@@ -3945,32 +4459,43 @@ Thou,--and thou,--and thou. You have served me
 well,
 And kings have been your fellows.
 
-<b>CLEOPATRA,</b> [aside to Enobarbus]  What means this?
+<speaker>CLEOPATRA,</speaker>
+[<i>aside to Enobarbus</i>]
+What means this?
 
-<b>ENOBARBUS,</b> [aside to Cleopatra]
+<speaker>ENOBARBUS,</speaker>
+[<i>aside to Cleopatra</i>]
 'Tis one of those odd tricks which sorrow shoots
 Out of the mind.
 
-<b>ANTONY,</b> [to another Servitor]  And thou art honest too.
+<speaker>ANTONY,</speaker>
+[<i>to another Servitor</i>]
+And thou art honest too.
 I wish I could be made so many men,
 And all of you clapped up together in
 An Antony, that I might do you service
 So good as you have done.
 
-ALL THE SERVITORS  The gods forbid!
+<speaker>ALL THE SERVITORS</speaker>
+The gods forbid!
 
-ANTONY
+<speaker>ANTONY</speaker>
 Well, my good fellows, wait on me tonight.
 Scant not my cups, and make as much of me
 As when mine empire was your fellow too
 And suffered my command.
 
-<b>CLEOPATRA,</b> [aside to Enobarbus]  What does he mean?
+<speaker>CLEOPATRA,</speaker>
+[<i>aside to Enobarbus</i>]
+What does he mean?
 
-<b>ENOBARBUS,</b> [aside to Cleopatra]
+<speaker>ENOBARBUS,</speaker>
+[<i>aside to Cleopatra</i>]
 To make his followers weep.
 
-<b>ANTONY,</b> [to the Servitors]  Tend me tonight;
+<speaker>ANTONY,</speaker>
+[<i>to the Servitors</i>]
+Tend me tonight;
 May be it is the period of your duty.
 Haply you shall not see me more, or if,
 A mangled shadow. Perchance tomorrow
@@ -3981,12 +4506,14 @@ Married to your good service, stay till death.
 Tend me tonight two hours--I ask no more--
 And the gods yield you for 't!
 
-ENOBARBUS  What mean you, sir,
+<speaker>ENOBARBUS</speaker>
+What mean you, sir,
 To give them this discomfort? Look, they weep,
 And I, an ass, am onion-eyed. For shame,
 Transform us not to women.
 
-ANTONY  Ho, ho, ho!
+<speaker>ANTONY</speaker>
+Ho, ho, ho!
 Now the witch take me if I meant it thus!
 Grace grow where those drops fall! My hearty
 friends,
@@ -3997,125 +4524,145 @@ I hope well of tomorrow, and will lead you
 Where rather I'll expect victorious life
 Than death and honor. Let's to supper, come,
 And drown consideration.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[Enter a company of Soldiers.]
+[<i>Enter a company of Soldiers.</i>]
 
-
-FIRST SOLDIER
+<speaker>FIRST SOLDIER</speaker>
 Brother, goodnight. Tomorrow is the day.
 
-SECOND SOLDIER
+<speaker>SECOND SOLDIER</speaker>
 It will determine one way. Fare you well.
 Heard you of nothing strange about the streets?
 
-FIRST SOLDIER  Nothing. What news?
+<speaker>FIRST SOLDIER</speaker>
+Nothing. What news?
 
-SECOND SOLDIER
+<speaker>SECOND SOLDIER</speaker>
 Belike 'tis but a rumor. Goodnight to you.
 
-FIRST SOLDIER  Well, sir, goodnight.
+<speaker>FIRST SOLDIER</speaker>
+Well, sir, goodnight.
 
-[They meet other Soldiers who are entering.]
+[<i>They meet other Soldiers who are entering.</i>]
 
+<speaker>SECOND SOLDIER</speaker>
+Soldiers, have careful watch.
 
-SECOND SOLDIER  Soldiers, have careful watch.
+<speaker>THIRD SOLDIER</speaker>
+And you. Goodnight, goodnight.
 
-THIRD SOLDIER  And you. Goodnight, goodnight.
+[<i>They place themselves in every corner of the stage.</i>]
 
-[They place themselves in every corner of the stage.]
-
-
-
-SECOND SOLDIER  Here we; and if tomorrow
+<speaker>SECOND SOLDIER</speaker>
+Here we; and if tomorrow
 Our navy thrive, I have an absolute hope
 Our landmen will stand up.
 
-FIRST SOLDIER  'Tis a brave army, and full of purpose.
+<speaker>FIRST SOLDIER</speaker>
+'Tis a brave army, and full of purpose.
 
-[Music of the hautboys is under the stage.]
+[<i>Music of the hautboys is under the stage.</i>]
 
+<speaker>SECOND SOLDIER</speaker>
+Peace. What noise?
 
+<speaker>FIRST SOLDIER</speaker>
+List, list!
 
-SECOND SOLDIER  Peace. What noise?
+<speaker>SECOND SOLDIER</speaker>
+Hark!
 
-FIRST SOLDIER  List, list!
+<speaker>FIRST SOLDIER</speaker>
+Music i' th' air.
 
-SECOND SOLDIER  Hark!
+<speaker>THIRD SOLDIER</speaker>
+Under the earth.
 
-FIRST SOLDIER  Music i' th' air.
+<speaker>FOURTH SOLDIER</speaker>
+It signs well, does it not?
 
-THIRD SOLDIER  Under the earth.
+<speaker>THIRD SOLDIER</speaker>
+No.
 
-FOURTH SOLDIER  It signs well, does it not?
+<speaker>FIRST SOLDIER</speaker>
+Peace, I say. What should this mean?
 
-THIRD SOLDIER  No.
-
-FIRST SOLDIER  Peace, I say. What should this mean?
-
-SECOND SOLDIER
+<speaker>SECOND SOLDIER</speaker>
 'Tis the god Hercules, whom Antony loved,
 Now leaves him.
 
-FIRST SOLDIER  Walk. Let's see if other watchmen
+<speaker>FIRST SOLDIER</speaker>
+Walk. Let's see if other watchmen
 Do hear what we do.
 
-SECOND SOLDIER  How now, masters?	[Speak together.]
+<speaker>SECOND SOLDIER</speaker>
+How now, masters? [<i>Speak together.</i>]
 
-ALL  How now? How now? Do you hear this?
+<speaker>ALL</speaker>
+How now? How now? Do you hear this?
 
-FIRST SOLDIER  Ay. Is 't not strange?
+<speaker>FIRST SOLDIER</speaker>
+Ay. Is 't not strange?
 
-THIRD SOLDIER  Do you hear, masters? Do you hear?
+<speaker>THIRD SOLDIER</speaker>
+Do you hear, masters? Do you hear?
 
-FIRST SOLDIER
+<speaker>FIRST SOLDIER</speaker>
 Follow the noise so far as we have quarter.
 Let's see how it will give off.
 
-ALL  Content. 'Tis strange.
-[They exit.]
+<speaker>ALL</speaker>
+Content. 'Tis strange.
+[<i>They exit.</i>]
 
 <b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[Enter Antony and Cleopatra, with
-Charmian, and others.]
+[<i>Enter Antony and Cleopatra, with
+Charmian, and others.</i>]
 
-
-<b>ANTONY,</b> [calling]
+<speaker>ANTONY,</speaker>
+[<i>calling</i>]
 Eros! Mine armor, Eros!
 
-CLEOPATRA  Sleep a little.
+<speaker>CLEOPATRA</speaker>
+Sleep a little.
 
-ANTONY
+<speaker>ANTONY</speaker>
 No, my chuck.--Eros, come, mine armor, Eros.
 
-[Enter Eros, carrying armor.]
+[<i>Enter Eros, carrying armor.</i>]
 
 Come, good fellow, put thine iron on.
 If fortune be not ours today, it is
 Because we brave her. Come.
 
-CLEOPATRA  Nay, I'll help too.
+<speaker>CLEOPATRA</speaker>
+Nay, I'll help too.
 What's this for?
 
-ANTONY  Ah, let be, let be! Thou art
+<speaker>ANTONY</speaker>
+Ah, let be, let be! Thou art
 The armorer of my heart. False, false. This, this!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Sooth, la, I'll help. Thus it must be.
 
-ANTONY  Well, well,
+<speaker>ANTONY</speaker>
+Well, well,
 We shall thrive now.--Seest thou, my good fellow?
 Go, put on thy defenses.
 
-EROS  Briefly, sir.
+<speaker>EROS</speaker>
+Briefly, sir.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Is not this buckled well?
 
-ANTONY  Rarely, rarely.
+<speaker>ANTONY</speaker>
+Rarely, rarely.
 He that unbuckles this, till we do please
 To daff 't for our repose, shall hear a storm.--
 Thou fumblest, Eros, and my queen's a squire
@@ -4124,124 +4671,134 @@ That thou couldst see my wars today, and knew'st
 The royal occupation, thou shouldst see
 A workman in 't.
 
-[Enter an armed Soldier.]
+[<i>Enter an armed Soldier.</i>]
 
 Good morrow to thee. Welcome.
 Thou look'st like him that knows a warlike charge.
 To business that we love we rise betime
 And go to 't with delight.
 
-SOLDIER  A thousand, sir,
+<speaker>SOLDIER</speaker>
+A thousand, sir,
 Early though 't be, have on their riveted trim
-And at the port expect you.	[Shout. Trumpets flourish.]
+And at the port expect you.	[<i>Shout. Trumpets flourish.</i>]
 
-[Enter Captains and Soldiers.]
+[<i>Enter Captains and Soldiers.</i>]
 
-
-CAPTAIN
+<speaker>CAPTAIN</speaker>
 The morn is fair. Good morrow, general.
 
-ALL
+<speaker>ALL</speaker>
 Good morrow, general.
 
-ANTONY  'Tis well blown, lads.
+<speaker>ANTONY</speaker>
+'Tis well blown, lads.
 This morning, like the spirit of a youth
 That means to be of note, begins betimes.
 So, so.--Come, give me that. This way.--Well said.--
-Fare thee well, dame.	[He kisses her.]
+Fare thee well, dame.	[<i>He kisses her.</i>]
 Whate'er becomes of me,
 This is a soldier's kiss. Rebukable
 And worthy shameful check it were to stand
 On more mechanic compliment. I'll leave thee
 Now like a man of steel.--You that will fight,
 Follow me close. I'll bring you to 't.--Adieu.
-[Antony, Eros, Captains, and Soldiers exit.]
+[<i>Antony, Eros, Captains, and Soldiers exit.</i>]
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Please you retire to your chamber?
 
-CLEOPATRA  Lead me.
+<speaker>CLEOPATRA</speaker>
+Lead me.
 He goes forth gallantly. That he and Caesar might
 Determine this great war in single fight,
 Then Antony--but now--. Well, on.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[Trumpets sound. Enter Antony and Eros, and a Soldier
-who meets them.]
+[<i>Trumpets sound. Enter Antony and Eros, and a Soldier
+who meets them.</i>]
 
-
-SOLDIER
+<speaker>SOLDIER</speaker>
 The gods make this a happy day to Antony.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Would thou and those thy scars had once prevailed
 To make me fight at land.
 
-SOLDIER  Had'st thou done so,
+<speaker>SOLDIER</speaker>
+Had'st thou done so,
 The kings that have revolted and the soldier
 That has this morning left thee would have still
 Followed thy heels.
 
-ANTONY  Who's gone this morning?
+<speaker>ANTONY</speaker>
+Who's gone this morning?
 
-SOLDIER  Who?
+<speaker>SOLDIER</speaker>
+Who?
 One ever near thee. Call for Enobarbus,
 He shall not hear thee, or from Caesar's camp
 Say "I am none of thine."
 
-ANTONY  What sayest thou?
+<speaker>ANTONY</speaker>
+What sayest thou?
 
-SOLDIER  Sir,
+<speaker>SOLDIER</speaker>
+Sir,
 He is with Caesar.
 
-EROS  Sir, his chests and treasure
+<speaker>EROS</speaker>
+Sir, his chests and treasure
 He has not with him.
 
-ANTONY  Is he gone?
+<speaker>ANTONY</speaker>
+Is he gone?
 
-SOLDIER  Most certain.
+<speaker>SOLDIER</speaker>
+Most certain.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Go, Eros, send his treasure after. Do it.
 Detain no jot, I charge thee. Write to him--
 I will subscribe--gentle adieus and greetings.
 Say that I wish he never find more cause
 To change a master. O, my fortunes have
 Corrupted honest men. Dispatch.--Enobarbus!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[Flourish. Enter Agrippa, Caesar, with
-Enobarbus and Dolabella.]
+[<i>Flourish. Enter Agrippa, Caesar, with
+Enobarbus and Dolabella.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 Go forth, Agrippa, and begin the fight.
 Our will is Antony be took alive;
 Make it so known.
 
-AGRIPPA  Caesar, I shall.	[He exits.]
+<speaker>AGRIPPA</speaker>
+Caesar, I shall. [<i>He exits.</i>]
 
-CAESAR
+<speaker>CAESAR</speaker>
 The time of universal peace is near.
 Prove this a prosp'rous day, the three-nooked world
 Shall bear the olive freely.
 
-[Enter a Messenger.]
+[<i>Enter a Messenger.</i>]
 
-
-MESSENGER  Antony
+<speaker>MESSENGER</speaker>
+Antony
 Is come into the field.
 
-CAESAR  Go charge Agrippa
+<speaker>CAESAR</speaker>
+Go charge Agrippa
 Plant those that have revolted in the vant
 That Antony may seem to spend his fury
-Upon himself.	[All but Enobarbus exit.]
+Upon himself.	[<i>All but Enobarbus exit.</i>]
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Alexas did revolt and went to Jewry on
 Affairs of Antony, there did dissuade
 Great Herod to incline himself to Caesar
@@ -4252,24 +4809,26 @@ No honorable trust. I have done ill,
 Of which I do accuse myself so sorely
 That I will joy no more.
 
-[Enter a Soldier of Caesar's.]
+[<i>Enter a Soldier of Caesar's.</i>]
 
-
-SOLDIER  Enobarbus, Antony
+<speaker>SOLDIER</speaker>
+Enobarbus, Antony
 Hath after thee sent all thy treasure, with
 His bounty overplus. The messenger
 Came on my guard, and at thy tent is now
 Unloading of his mules.
 
-ENOBARBUS  I give it you.
+<speaker>ENOBARBUS</speaker>
+I give it you.
 
-SOLDIER  Mock not, Enobarbus.
+<speaker>SOLDIER</speaker>
+Mock not, Enobarbus.
 I tell you true. Best you safed the bringer
 Out of the host. I must attend mine office
 Or would have done 't myself. Your emperor
-Continues still a Jove.	[He exits.]
+Continues still a Jove.	[<i>He exits.</i>]
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 I am alone the villain of the Earth,
 And feel I am so most. O Antony,
 Thou mine of bounty, how wouldst thou have paid
@@ -4281,67 +4840,68 @@ Shall outstrike thought, but thought will do 't, I feel.
 I fight against thee? No. I will go seek
 Some ditch wherein to die; the foul'st best fits
 My latter part of life.
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[Alarum, Drums and Trumpets. Enter Agrippa,
-with other of Caesar's soldiers.]
+[<i>Alarum, Drums and Trumpets. Enter Agrippa,
+with other of Caesar's soldiers.</i>]
 
-
-AGRIPPA
+<speaker>AGRIPPA</speaker>
 Retire! We have engaged ourselves too far.
 Caesar himself has work, and our oppression
-Exceeds what we expected.	[They exit.]
+Exceeds what we expected.	[<i>They exit.</i>]
 
-[Alarums. Enter Antony, and Scarus wounded.]
+[<i>Alarums. Enter Antony, and Scarus wounded.</i>]
 
-
-SCARUS
+<speaker>SCARUS</speaker>
 O my brave emperor, this is fought indeed!
 Had we done so at first, we had droven them home
 With clouts about their heads.
 
-ANTONY  Thou bleed'st apace.
+<speaker>ANTONY</speaker>
+Thou bleed'st apace.
 
-SCARUS
+<speaker>SCARUS</speaker>
 I had a wound here that was like a T,
-But now 'tis made an H.	[Sound of retreat far off.]
+But now 'tis made an H.	[<i>Sound of retreat far off.</i>]
 
-ANTONY  They do retire.
+<speaker>ANTONY</speaker>
+They do retire.
 
-SCARUS
+<speaker>SCARUS</speaker>
 We'll beat 'em into bench-holes. I have yet
 Room for six scotches more.
 
-[Enter Eros.]
+[<i>Enter Eros.</i>]
 
-
-EROS
+<speaker>EROS</speaker>
 They are beaten, sir, and our advantage serves
 For a fair victory.
 
-SCARUS  Let us score their backs
+<speaker>SCARUS</speaker>
+Let us score their backs
 And snatch 'em up as we take hares, behind.
 'Tis sport to maul a runner.
 
-ANTONY  I will reward thee
+<speaker>ANTONY</speaker>
+I will reward thee
 Once for thy sprightly comfort and tenfold
 For thy good valor. Come thee on.
 
-SCARUS  I'll halt after.
-[They exit.]
+<speaker>SCARUS</speaker>
+I'll halt after.
+[<i>They exit.</i>]
 
 <b id="act-4-scene-8" class="scene-header">Scene 8</b>
 <hr>
-[Alarum. Enter Antony again in a march;
-Scarus, with others.]
+[<i>Alarum. Enter Antony again in a march;
+Scarus, with others.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 We have beat him to his camp. Run one before
 And let the Queen know of our gests.
-[A Soldier exits.]
+[<i>A Soldier exits.</i>]
 Tomorrow
 Before the sun shall see 's, we'll spill the blood
 That has today escaped. I thank you all,
@@ -4353,9 +4913,10 @@ Tell them your feats, whilst they with joyful tears
 Wash the congealment from your wounds and kiss
 The honored gashes whole.
 
-[Enter Cleopatra.]
+[<i>Enter Cleopatra.</i>]
 
-[To Scarus.] Give me thy hand.
+[<i>To Scarus.</i>]
+Give me thy hand.
 To this great fairy I'll commend thy acts,
 Make her thanks bless thee.--O, thou day o' th'
 world,
@@ -4363,11 +4924,13 @@ Chain mine armed neck. Leap thou, attire and all,
 Through proof of harness to my heart, and there
 Ride on the pants triumphing.
 
-CLEOPATRA  Lord of lords!
+<speaker>CLEOPATRA</speaker>
+Lord of lords!
 O infinite virtue, com'st thou smiling from
 The world's great snare uncaught?
 
-ANTONY  Mine nightingale,
+<speaker>ANTONY</speaker>
+Mine nightingale,
 We have beat them to their beds. What, girl, though
 gray
 Do something mingle with our younger brown, yet
@@ -4375,15 +4938,17 @@ ha' we
 A brain that nourishes our nerves and can
 Get goal for goal of youth. Behold this man.
 Commend unto his lips thy favoring hand.--
-Kiss it, my warrior.	[Scarus kisses her hand.]
+Kiss it, my warrior.	[<i>Scarus kisses her hand.</i>]
 He hath fought today
 As if a god in hate of mankind had
 Destroyed in such a shape.
 
-<b>CLEOPATRA,</b> [to Scarus]  I'll give thee, friend,
+<speaker>CLEOPATRA,</speaker>
+[<i>to Scarus</i>]
+I'll give thee, friend,
 An armor all of gold. It was a king's.
 
-ANTONY
+<speaker>ANTONY</speaker>
 He has deserved it, were it carbuncled
 Like holy Phoebus' car. Give me thy hand.
 Through Alexandria make a jolly march.
@@ -4398,38 +4963,43 @@ Make mingle with our rattling taborins,
 That heaven and Earth may strike their sounds
 together,
 Applauding our approach.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-9" class="scene-header">Scene 9</b>
 <hr>
-[Enter a Sentry and his company. Enobarbus follows.]
+[<i>Enter a Sentry and his company. Enobarbus follows.</i>]
 
-
-SENTRY
+<speaker>SENTRY</speaker>
 If we be not relieved within this hour,
 We must return to th' court of guard. The night
 Is shiny, and they say we shall embattle
 By th' second hour i' th' morn.
 
-FIRST WATCH  This last day was a shrewd one to 's.
+<speaker>FIRST WATCH</speaker>
+This last day was a shrewd one to 's.
 
-<b>ENOBARBUS  O,</b> bear me witness, night--
+<speaker>ENOBARBUS</speaker>
+O, bear me witness, night--
 
-SECOND WATCH  What man is this?
+<speaker>SECOND WATCH</speaker>
+What man is this?
 
-FIRST WATCH  Stand close, and list him.
+<speaker>FIRST WATCH</speaker>
+Stand close, and list him.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 Be witness to me, O thou blessed moon,
 When men revolted shall upon record
 Bear hateful memory, poor Enobarbus did
 Before thy face repent.
 
-SENTRY  Enobarbus?
+<speaker>SENTRY</speaker>
+Enobarbus?
 
-SECOND WATCH  Peace! Hark further.
+<speaker>SECOND WATCH</speaker>
+Peace! Hark further.
 
-ENOBARBUS
+<speaker>ENOBARBUS</speaker>
 O sovereign mistress of true melancholy,
 The poisonous damp of night dispunge upon me,
 That life, a very rebel to my will,
@@ -4441,47 +5011,54 @@ Nobler than my revolt is infamous,
 Forgive me in thine own particular,
 But let the world rank me in register
 A master-leaver and a fugitive.
-O Antony! O Antony!	[He dies.]
+O Antony! O Antony!	[<i>He dies.</i>]
 
-FIRST WATCH  Let's speak to him.
+<speaker>FIRST WATCH</speaker>
+Let's speak to him.
 
-SENTRY  Let's hear him, for the things he speaks may
+<speaker>SENTRY</speaker>
+Let's hear him, for the things he speaks may
 concern Caesar.
 
-SECOND WATCH  Let's do so. But he sleeps.
+<speaker>SECOND WATCH</speaker>
+Let's do so. But he sleeps.
 
-SENTRY
+<speaker>SENTRY</speaker>
 Swoons rather, for so bad a prayer as his
 Was never yet for sleep.
 
-FIRST WATCH  Go we to him.
+<speaker>FIRST WATCH</speaker>
+Go we to him.
 
-SECOND WATCH  Awake, sir, awake! Speak to us.
+<speaker>SECOND WATCH</speaker>
+Awake, sir, awake! Speak to us.
 
-FIRST WATCH  Hear you, sir?
+<speaker>FIRST WATCH</speaker>
+Hear you, sir?
 
-SENTRY
-The hand of death hath raught him.	[Drums afar off.]
+<speaker>SENTRY</speaker>
+The hand of death hath raught him.	[<i>Drums afar off.</i>]
 Hark, the drums
 Demurely wake the sleepers. Let us bear him
 To th' court of guard; he is of note. Our hour
 Is fully out.
 
-SECOND WATCH  Come on then. He may recover yet.
-[They exit, carrying Enobarbus' body.]
+<speaker>SECOND WATCH</speaker>
+Come on then. He may recover yet.
+[<i>They exit, carrying Enobarbus' body.</i>]
 
 <b id="act-4-scene-10" class="scene-header">Scene 10</b>
 <hr>
-[Enter Antony and Scarus, with their army.]
+[<i>Enter Antony and Scarus, with their army.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Their preparation is today by sea;
 We please them not by land.
 
-SCARUS  For both, my lord.
+<speaker>SCARUS</speaker>
+For both, my lord.
 
-ANTONY
+<speaker>ANTONY</speaker>
 I would they'd fight i' th' fire or i' th' air;
 We'd fight there too. But this it is: our foot
 Upon the hills adjoining to the city
@@ -4489,32 +5066,31 @@ Shall stay with us--order for sea is given;
 They have put forth the haven--
 Where their appointment we may best discover
 And look on their endeavor.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-11" class="scene-header">Scene 11</b>
 <hr>
-[Enter Caesar and his army.]
+[<i>Enter Caesar and his army.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 But being charged, we will be still by land--
 Which, as I take 't, we shall, for his best force
 Is forth to man his galleys. To the vales,
 And hold our best advantage.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-12" class="scene-header">Scene 12</b>
 <hr>
-[Enter Antony and Scarus.]
+[<i>Enter Antony and Scarus.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Yet they are not joined. Where yond pine does stand,
 I shall discover all. I'll bring thee word
-Straight how 'tis like to go.	[He exits.]
-[Alarum afar off, as at a sea fight.]
+Straight how 'tis like to go.	[<i>He exits.</i>]
+[<i>Alarum afar off, as at a sea fight.</i>]
 
-SCARUS  Swallows have built
+<speaker>SCARUS</speaker>
+Swallows have built
 In Cleopatra's sails their nests. The augurs
 Say they know not, they cannot tell, look grimly
 And dare not speak their knowledge. Antony
@@ -4522,10 +5098,10 @@ Is valiant and dejected, and by starts
 His fretted fortunes give him hope and fear
 Of what he has and has not.
 
-[Enter Antony.]
+[<i>Enter Antony.</i>]
 
-
-ANTONY  All is lost!
+<speaker>ANTONY</speaker>
+All is lost!
 This foul Egyptian hath betrayed me.
 My fleet hath yielded to the foe, and yonder
 They cast their caps up and carouse together
@@ -4534,7 +5110,7 @@ Hast sold me to this novice, and my heart
 Makes only wars on thee. Bid them all fly--
 For when I am revenged upon my charm,
 I have done all. Bid them all fly. Begone!
-[Scarus exits.]
+[<i>Scarus exits.</i>]
 O sun, thy uprise shall I see no more.
 Fortune and Antony part here; even here
 Do we shake hands. All come to this? The hearts
@@ -4550,14 +5126,14 @@ Like a right gypsy hath at fast and loose
 Beguiled me to the very heart of loss.--
 What Eros, Eros!
 
-[Enter Cleopatra.]
+[<i>Enter Cleopatra.</i>]
 
 Ah, thou spell! Avaunt!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Why is my lord enraged against his love?
 
-ANTONY
+<speaker>ANTONY</speaker>
 Vanish, or I shall give thee thy deserving
 And blemish Caesar's triumph. Let him take thee
 And hoist thee up to the shouting plebeians!
@@ -4565,7 +5141,7 @@ Follow his chariot, like the greatest spot
 Of all thy sex; most monster-like be shown
 For poor'st diminutives, for dolts, and let
 Patient Octavia plow thy visage up
-With her prepared nails.	[Cleopatra exits.]
+With her prepared nails.	[<i>Cleopatra exits.</i>]
 'Tis well th' art gone,
 If it be well to live. But better 'twere
 Thou fell'st into my fury, for one death
@@ -4579,43 +5155,44 @@ Subdue my worthiest self. The witch shall die.
 To the young Roman boy she hath sold me, and I
 fall
 Under this plot. She dies for 't.--Eros, ho!
-[He exits.]
+[<i>He exits.</i>]
 
 <b id="act-4-scene-13" class="scene-header">Scene 13</b>
 <hr>
-[Enter Cleopatra, Charmian, Iras, and Mardian.]
+[<i>Enter Cleopatra, Charmian, Iras, and Mardian.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Help me, my women! O, he's more mad
 Than Telamon for his shield; the boar of Thessaly
 Was never so embossed.
 
-CHARMIAN  To th' monument!
+<speaker>CHARMIAN</speaker>
+To th' monument!
 There lock yourself and send him word you are
 dead.
 The soul and body rive not more in parting
 Than greatness going off.
 
-CLEOPATRA  To th' monument!--
+<speaker>CLEOPATRA</speaker>
+To th' monument!--
 Mardian, go tell him I have slain myself.
 Say that the last I spoke was "Antony,"
 And word it, prithee, piteously. Hence, Mardian,
 And bring me how he takes my death.--To th'
 monument!
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-4-scene-14" class="scene-header">Scene 14</b>
 <hr>
-[Enter Antony and Eros.]
+[<i>Enter Antony and Eros.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Eros, thou yet behold'st me?
 
-EROS  Ay, noble lord.
+<speaker>EROS</speaker>
+Ay, noble lord.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Sometime we see a cloud that's dragonish,
 A vapor sometime like a bear or lion,
 A towered citadel, a pendent rock,
@@ -4625,16 +5202,18 @@ And mock our eyes with air. Thou hast seen these
 signs.
 They are black vesper's pageants.
 
-EROS  Ay, my lord.
+<speaker>EROS</speaker>
+Ay, my lord.
 
-ANTONY
+<speaker>ANTONY</speaker>
 That which is now a horse, even with a thought
 The rack dislimns and makes it indistinct
 As water is in water.
 
-EROS  It does, my lord.
+<speaker>EROS</speaker>
+It does, my lord.
 
-ANTONY
+<speaker>ANTONY</speaker>
 My good knave Eros, now thy captain is
 Even such a body. Here I am Antony,
 Yet cannot hold this visible shape, my knave.
@@ -4647,19 +5226,21 @@ Unto an enemy's triumph.
 Nay, weep not, gentle Eros. There is left us
 Ourselves to end ourselves.
 
-[Enter Mardian.]
+[<i>Enter Mardian.</i>]
 
 O, thy vile lady!
 She has robbed me of my sword.
 
-MARDIAN  No, Antony,
+<speaker>MARDIAN</speaker>
+No, Antony,
 My mistress loved thee and her fortunes mingled
 With thine entirely.
 
-ANTONY  Hence, saucy eunuch! Peace!
+<speaker>ANTONY</speaker>
+Hence, saucy eunuch! Peace!
 She hath betrayed me and shall die the death.
 
-MARDIAN
+<speaker>MARDIAN</speaker>
 Death of one person can be paid but once,
 And that she has discharged. What thou wouldst do
 Is done unto thy hand. The last she spake
@@ -4669,23 +5250,25 @@ The name of Antony; it was divided
 Between her heart and lips. She rendered life
 Thy name so buried in her.
 
-ANTONY  Dead, then?
+<speaker>ANTONY</speaker>
+Dead, then?
 
-MARDIAN  Dead.
+<speaker>MARDIAN</speaker>
+Dead.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Unarm, Eros. The long day's task is done,
 And we must sleep.--That thou depart'st hence safe
-Does pay thy labor richly. Go.	[Mardian exits.]
+Does pay thy labor richly. Go.	[<i>Mardian exits.</i>]
 Off, pluck off!
-[Eros begins to remove Antony's armor.]
+[<i>Eros begins to remove Antony's armor.</i>]
 The sevenfold shield of Ajax cannot keep
 The battery from my heart. O, cleave, my sides!
 Heart, once be stronger than thy continent;
 Crack thy frail case. Apace, Eros, apace!
 No more a soldier. Bruised pieces, go.
 You have been nobly borne.--From me awhile.
-[Eros exits.]
+[<i>Eros exits.</i>]
 I will o'ertake thee, Cleopatra, and
 Weep for my pardon. So it must be, for now
 All length is torture. Since the torch is out,
@@ -4698,20 +5281,21 @@ And with our sprightly port make the ghosts gaze.
 Dido and her Aeneas shall want troops,
 And all the haunt be ours.--Come, Eros, Eros!
 
-[Enter Eros.]
+[<i>Enter Eros.</i>]
 
-
-EROS
+<speaker>EROS</speaker>
 What would my lord?
 
-ANTONY  Since Cleopatra died
+<speaker>ANTONY</speaker>
+Since Cleopatra died
 I have lived in such dishonor that the gods
 Detest my baseness. I, that with my sword
 Quartered the world and o'er green Neptune's back
 With ships made cities, condemn myself to lack
 The courage of a woman--less noble mind
 Than she which, by her death, our Caesar tells
-"I am conqueror of myself." Thou art sworn, Eros,
+<speaker>"I</speaker>
+am conqueror of myself." Thou art sworn, Eros,
 That when the exigent should come, which now
 Is come indeed, when I should see behind me
 Th' inevitable prosecution of
@@ -4720,11 +5304,13 @@ Thou then wouldst kill me. Do 't. The time is come.
 Thou strik'st not me; 'tis Caesar thou defeat'st.
 Put color in thy cheek.
 
-EROS  The gods withhold me!
+<speaker>EROS</speaker>
+The gods withhold me!
 Shall I do that which all the Parthian darts,
 Though enemy, lost aim and could not?
 
-ANTONY  Eros,
+<speaker>ANTONY</speaker>
+Eros,
 Wouldst thou be windowed in great Rome and see
 Thy master thus with pleached arms, bending down
 His corrigible neck, his face subdued
@@ -4732,50 +5318,58 @@ To penetrative shame, whilst the wheeled seat
 Of fortunate Caesar, drawn before him, branded
 His baseness that ensued?
 
-EROS  I would not see 't.
+<speaker>EROS</speaker>
+I would not see 't.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Come, then, for with a wound I must be cured.
 Draw that thy honest sword, which thou hast worn
 Most useful for thy country.
 
-<b>EROS  O,</b> sir, pardon me!
+<speaker>EROS</speaker>
+O, sir, pardon me!
 
-ANTONY
+<speaker>ANTONY</speaker>
 When I did make thee free, swor'st thou not then
 To do this when I bade thee? Do it at once,
 Or thy precedent services are all
 But accidents unpurposed. Draw, and come.
 
-EROS
+<speaker>EROS</speaker>
 Turn from me then that noble countenance
 Wherein the worship of the whole world lies.
 
-ANTONY  Lo thee!	[He turns away.]
+<speaker>ANTONY</speaker>
+Lo thee! [<i>He turns away.</i>]
 
-EROS
+<speaker>EROS</speaker>
 My sword is drawn.
 
-ANTONY  Then let it do at once
+<speaker>ANTONY</speaker>
+Then let it do at once
 The thing why thou hast drawn it.
 
-EROS  My dear master,
+<speaker>EROS</speaker>
+My dear master,
 My captain, and my emperor, let me say,
 Before I strike this bloody stroke, farewell.
 
-ANTONY  'Tis said, man, and farewell.
+<speaker>ANTONY</speaker>
+'Tis said, man, and farewell.
 
-EROS
+<speaker>EROS</speaker>
 Farewell, great chief. Shall I strike now?
 
-ANTONY  Now, Eros.
+<speaker>ANTONY</speaker>
+Now, Eros.
 
-EROS
-Why, there, then.	[Stabs himself.]
+<speaker>EROS</speaker>
+Why, there, then.	[<i>Stabs himself.</i>]
 Thus I do escape the sorrow
-Of Antony's death.	[Dies.]
+Of Antony's death.	[<i>Dies.</i>]
 
-ANTONY  Thrice nobler than myself,
+<speaker>ANTONY</speaker>
+Thrice nobler than myself,
 Thou teachest me, O valiant Eros, what
 I should and thou couldst not. My queen and Eros
 Have by their brave instruction got upon me
@@ -4783,67 +5377,79 @@ A nobleness in record. But I will be
 A bridegroom in my death and run into 't
 As to a lover's bed. Come then, and, Eros,
 Thy master dies thy scholar. To do thus
-I learned of thee. [He stabs himself.] How, not dead?
+I learned of thee. [<i>He stabs himself.</i>]
+How, not dead?
 Not dead?
 The guard, ho! O, dispatch me!
 
-[Enter a company of the Guard, one of them named
-Dercetus.]
+[<i>Enter a company of the Guard, one of them named
+Dercetus.</i>]
 
+<speaker>FIRST GUARD</speaker>
+What's the noise?
 
-FIRST GUARD  What's the noise?
-
-ANTONY
+<speaker>ANTONY</speaker>
 I have done my work ill, friends. O, make an end
 Of what I have begun!
 
-SECOND GUARD  The star is fall'n.
+<speaker>SECOND GUARD</speaker>
+The star is fall'n.
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 And time is at his period.
 
-ALL  Alas, and woe!
+<speaker>ALL</speaker>
+Alas, and woe!
 
-ANTONY  Let him that loves me strike me dead.
+<speaker>ANTONY</speaker>
+Let him that loves me strike me dead.
 
-FIRST GUARD  Not I.
+<speaker>FIRST GUARD</speaker>
+Not I.
 
-SECOND GUARD  Nor I.
+<speaker>SECOND GUARD</speaker>
+Nor I.
 
-THIRD GUARD  Nor anyone.
-[All but Antony and Dercetus exit.]
+<speaker>THIRD GUARD</speaker>
+Nor anyone.
+[<i>All but Antony and Dercetus exit.</i>]
 
-DERCETUS
+<speaker>DERCETUS</speaker>
 Thy death and fortunes bid thy followers fly.
-[He takes Antony's sword.]
+[<i>He takes Antony's sword.</i>]
 This sword but shown to Caesar with this tidings
 Shall enter me with him.
 
-[Enter Diomedes.]
+[<i>Enter Diomedes.</i>]
 
+<speaker>DIOMEDES</speaker>
+Where's Antony?
 
-DIOMEDES  Where's Antony?
+<speaker>DERCETUS</speaker>
+There, Diomed, there.
 
-DERCETUS  There, Diomed, there.
+<speaker>DIOMEDES</speaker>
+Lives he? Wilt thou not answer, man?
+[<i>Dercetus exits.</i>]
 
-DIOMEDES  Lives he? Wilt thou not answer, man?
-[Dercetus exits.]
-
-ANTONY
+<speaker>ANTONY</speaker>
 Art thou there, Diomed? Draw thy sword, and give me
 Sufficing strokes for death.
 
-DIOMEDES  Most absolute lord,
+<speaker>DIOMEDES</speaker>
+Most absolute lord,
 My mistress Cleopatra sent me to thee.
 
-ANTONY
+<speaker>ANTONY</speaker>
 When did she send thee?
 
-DIOMEDES  Now, my lord.
+<speaker>DIOMEDES</speaker>
+Now, my lord.
 
-ANTONY  Where is she?
+<speaker>ANTONY</speaker>
+Where is she?
 
-DIOMEDES
+<speaker>DIOMEDES</speaker>
 Locked in her monument. She had a prophesying
 fear
 Of what hath come to pass. For when she saw--
@@ -4855,86 +5461,88 @@ But fearing since how it might work, hath sent
 Me to proclaim the truth, and I am come,
 I dread, too late.
 
-ANTONY
+<speaker>ANTONY</speaker>
 Too late, good Diomed. Call my guard, I prithee.
 
-DIOMEDES
+<speaker>DIOMEDES</speaker>
 What ho! The Emperor's guard! The guard, what ho!
 Come, your lord calls.
 
-[Enter four or five of the Guard of Antony.]
+[<i>Enter four or five of the Guard of Antony.</i>]
 
-
-ANTONY
+<speaker>ANTONY</speaker>
 Bear me, good friends, where Cleopatra bides.
 'Tis the last service that I shall command you.
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 Woe, woe are we, sir, you may not live to wear
 All your true followers out.
 
-ALL  Most heavy day!
+<speaker>ALL</speaker>
+Most heavy day!
 
-ANTONY
+<speaker>ANTONY</speaker>
 Nay, good my fellows, do not please sharp fate
 To grace it with your sorrows. Bid that welcome
 Which comes to punish us, and we punish it,
 Seeming to bear it lightly. Take me up.
 I have led you oft; carry me now, good friends,
 And have my thanks for all.
-[They exit bearing Antony and the body of Eros.]
+[<i>They exit bearing Antony and the body of Eros.</i>]
 
 <b id="act-4-scene-15" class="scene-header">Scene 15</b>
 <hr>
-[Enter Cleopatra and her maids aloft, with
-Charmian and Iras.]
+[<i>Enter Cleopatra and her maids aloft, with
+Charmian and Iras.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 O Charmian, I will never go from hence.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Be comforted, dear madam.
 
-CLEOPATRA  No, I will not.
+<speaker>CLEOPATRA</speaker>
+No, I will not.
 All strange and terrible events are welcome,
 But comforts we despise. Our size of sorrow,
 Proportioned to our cause, must be as great
 As that which makes it.
 
-[Enter Diomedes below.]
+[<i>Enter Diomedes below.</i>]
 
 How now? Is he dead?
 
-DIOMEDES
+<speaker>DIOMEDES</speaker>
 His death's upon him, but not dead.
 Look out o' th' other side your monument.
 His guard have brought him thither.
 
-[Enter Antony below, and the Guard bearing him.]
+[<i>Enter Antony below, and the Guard bearing him.</i>]
 
-
-CLEOPATRA  O sun,
+<speaker>CLEOPATRA</speaker>
+O sun,
 Burn the great sphere thou mov'st in. Darkling stand
 The varying shore o' th' world! O Antony, Antony,
 Antony! Help, Charmian! Help, Iras, help!
 Help, friends below! Let's draw him hither.
 
-ANTONY  Peace!
+<speaker>ANTONY</speaker>
+Peace!
 Not Caesar's valor hath o'erthrown Antony,
 But Antony's hath triumphed on itself.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 So it should be that none but Antony
 Should conquer Antony, but woe 'tis so!
 
-ANTONY
+<speaker>ANTONY</speaker>
 I am dying, Egypt, dying. Only
 I here importune death awhile until
 Of many thousand kisses the poor last
 I lay upon thy lips.
 
-CLEOPATRA  I dare not, dear,
+<speaker>CLEOPATRA</speaker>
+I dare not, dear,
 Dear my lord, pardon, I dare not,
 Lest I be taken. Not th' imperious show
 Of the full-fortuned Caesar ever shall
@@ -4944,46 +5552,51 @@ Your wife Octavia, with her modest eyes
 And still conclusion, shall acquire no honor
 Demuring upon me. But come, come, Antony.--
 Help me, my women!--We must draw thee up.--
-Assist, good friends.	[They begin lifting him.]
+Assist, good friends.	[<i>They begin lifting him.</i>]
 
-<b>ANTONY  O,</b> quick, or I am gone.
+<speaker>ANTONY</speaker>
+O, quick, or I am gone.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Here's sport indeed. How heavy weighs my lord!
 Our strength is all gone into heaviness;
 That makes the weight. Had I great Juno's power,
 The strong-winged Mercury should fetch thee up
 And set thee by Jove's side. Yet come a little.
 Wishers were ever fools. O, come, come, come!
-[They heave Antony aloft to Cleopatra.]
+[<i>They heave Antony aloft to Cleopatra.</i>]
 And welcome, welcome! Die when thou hast lived;
 Quicken with kissing. Had my lips that power,
-Thus would I wear them out.	[She kisses him.]
+Thus would I wear them out.	[<i>She kisses him.</i>]
 
-ALL  A heavy sight!
+<speaker>ALL</speaker>
+A heavy sight!
 
-ANTONY  I am dying, Egypt, dying.
+<speaker>ANTONY</speaker>
+I am dying, Egypt, dying.
 Give me some wine, and let me speak a little.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 No, let me speak, and let me rail so high
 That the false huswife Fortune break her wheel,
 Provoked by my offense.
 
-ANTONY  One word, sweet queen:
+<speaker>ANTONY</speaker>
+One word, sweet queen:
 Of Caesar seek your honor with your safety--O!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 They do not go together.
 
-ANTONY  Gentle, hear me.
+<speaker>ANTONY</speaker>
+Gentle, hear me.
 None about Caesar trust but Proculeius.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 My resolution and my hands I'll trust,
 None about Caesar.
 
-ANTONY
+<speaker>ANTONY</speaker>
 The miserable change now at my end
 Lament nor sorrow at, but please your thoughts
 In feeding them with those my former fortunes
@@ -4994,34 +5607,42 @@ My countryman--a Roman by a Roman
 Valiantly vanquished. Now my spirit is going;
 I can no more.
 
-CLEOPATRA  Noblest of men, woo't die?
+<speaker>CLEOPATRA</speaker>
+Noblest of men, woo't die?
 Hast thou no care of me? Shall I abide
 In this dull world, which in thy absence is
 No better than a sty? O see, my women,
 The crown o' th' Earth doth melt.--My lord!
-[Antony dies.]
+[<i>Antony dies.</i>]
 O, withered is the garland of the war;
 The soldier's pole is fall'n; young boys and girls
 Are level now with men. The odds is gone,
 And there is nothing left remarkable
 Beneath the visiting moon.
 
-<b>CHARMIAN  O,</b> quietness, lady!
-[Cleopatra swoons.]
+<speaker>CHARMIAN</speaker>
+O, quietness, lady!
+[<i>Cleopatra swoons.</i>]
 
-IRAS  She's dead, too, our sovereign.
+<speaker>IRAS</speaker>
+She's dead, too, our sovereign.
 
-CHARMIAN  Lady!
+<speaker>CHARMIAN</speaker>
+Lady!
 
-IRAS  Madam!
+<speaker>IRAS</speaker>
+Madam!
 
-CHARMIAN  O madam, madam, madam!
+<speaker>CHARMIAN</speaker>
+O madam, madam, madam!
 
-IRAS  Royal Egypt! Empress!	[Cleopatra stirs.]
+<speaker>IRAS</speaker>
+Royal Egypt! Empress! [<i>Cleopatra stirs.</i>]
 
-CHARMIAN  Peace, peace, Iras!
+<speaker>CHARMIAN</speaker>
+Peace, peace, Iras!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 No more but e'en a woman, and commanded
 By such poor passion as the maid that milks
 And does the meanest chares. It were for me
@@ -5042,33 +5663,32 @@ And make death proud to take us. Come, away.
 This case of that huge spirit now is cold.
 Ah women, women! Come, we have no friend
 But resolution and the briefest end.
-[They exit, bearing off Antony's body.]
-
+[<i>They exit, bearing off Antony's body.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
-
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[Enter Caesar with Agrippa, Dolabella, Maecenas,
-Gallus, and Proculeius, his council of war.]
+[<i>Enter Caesar with Agrippa, Dolabella, Maecenas,
+Gallus, and Proculeius, his council of war.</i>]
 
-
-<b>CAESAR,</b> [aside to Dolabella]
+<speaker>CAESAR,</speaker>
+[<i>aside to Dolabella</i>]
 Go to him, Dolabella, bid him yield.
 Being so frustrate, tell him, he mocks
 The pauses that he makes.
 
-DOLABELLA  Caesar, I shall.
-[Dolabella exits.]
+<speaker>DOLABELLA</speaker>
+Caesar, I shall.
+[<i>Dolabella exits.</i>]
 
-[Enter Dercetus with the sword of Antony.]
+[<i>Enter Dercetus with the sword of Antony.</i>]
 
-
-CAESAR
+<speaker>CAESAR</speaker>
 Wherefore is that? And what art thou that dar'st
 Appear thus to us?
 
-DERCETUS  I am called Dercetus.
+<speaker>DERCETUS</speaker>
+I am called Dercetus.
 Mark Antony I served, who best was worthy
 Best to be served. Whilst he stood up and spoke,
 He was my master, and I wore my life
@@ -5077,12 +5697,13 @@ To take me to thee, as I was to him
 I'll be to Caesar; if thou pleasest not,
 I yield thee up my life.
 
-CAESAR  What is 't thou say'st?
+<speaker>CAESAR</speaker>
+What is 't thou say'st?
 
-DERCETUS
+<speaker>DERCETUS</speaker>
 I say, O Caesar, Antony is dead.
 
-CAESAR
+<speaker>CAESAR</speaker>
 The breaking of so great a thing should make
 A greater crack. The round world
 Should have shook lions into civil streets
@@ -5090,7 +5711,8 @@ And citizens to their dens. The death of Antony
 Is not a single doom; in the name lay
 A moiety of the world.
 
-DERCETUS  He is dead, Caesar,
+<speaker>DERCETUS</speaker>
+He is dead, Caesar,
 Not by a public minister of justice,
 Nor by a hired knife, but that self hand
 Which writ his honor in the acts it did
@@ -5099,26 +5721,31 @@ Splitted the heart. This is his sword.
 I robbed his wound of it. Behold it stained
 With his most noble blood.
 
-CAESAR  Look you sad, friends?
+<speaker>CAESAR</speaker>
+Look you sad, friends?
 The gods rebuke me, but it is tidings
 To wash the eyes of kings.
 
-AGRIPPA  And strange it is
+<speaker>AGRIPPA</speaker>
+And strange it is
 That nature must compel us to lament
 Our most persisted deeds.
 
-MAECENAS  His taints and honors
+<speaker>MAECENAS</speaker>
+His taints and honors
 Waged equal with him.
 
-AGRIPPA  A rarer spirit never
+<speaker>AGRIPPA</speaker>
+A rarer spirit never
 Did steer humanity, but you gods will give us
 Some faults to make us men. Caesar is touched.
 
-MAECENAS
+<speaker>MAECENAS</speaker>
 When such a spacious mirror's set before him,
 He needs must see himself.
 
-CAESAR  O Antony,
+<speaker>CAESAR</speaker>
+O Antony,
 I have followed thee to this, but we do lance
 Diseases in our bodies. I must perforce
 Have shown to thee such a declining day
@@ -5133,28 +5760,30 @@ Where mine his thoughts did kindle--that our stars
 Unreconciliable should divide
 Our equalness to this. Hear me, good friends--
 
-[Enter an Egyptian.]
+[<i>Enter an Egyptian.</i>]
 
 But I will tell you at some meeter season.
 The business of this man looks out of him.
 We'll hear him what he says.--Whence are you?
 
-EGYPTIAN
+<speaker>EGYPTIAN</speaker>
 A poor Egyptian yet, the Queen my mistress,
 Confined in all she has, her monument,
 Of thy intents desires instruction,
 That she preparedly may frame herself
 To th' way she's forced to.
 
-CAESAR  Bid her have good heart.
+<speaker>CAESAR</speaker>
+Bid her have good heart.
 She soon shall know of us, by some of ours,
 How honorable and how kindly we
 Determine for her. For Caesar cannot live
 To be ungentle.
 
-EGYPTIAN  So the gods preserve thee.	[He exits.]
+<speaker>EGYPTIAN</speaker>
+So the gods preserve thee. [<i>He exits.</i>]
 
-CAESAR
+<speaker>CAESAR</speaker>
 Come hither, Proculeius. Go and say
 We purpose her no shame. Give her what comforts
 The quality of her passion shall require,
@@ -5164,17 +5793,19 @@ Would be eternal in our triumph. Go,
 And with your speediest bring us what she says
 And how you find of her.
 
-PROCULEIUS  Caesar, I shall.
-[Proculeius exits.]
+<speaker>PROCULEIUS</speaker>
+Caesar, I shall.
+[<i>Proculeius exits.</i>]
 
-CAESAR
-Gallus, go you along.	[Gallus exits.]
+<speaker>CAESAR</speaker>
+Gallus, go you along.	[<i>Gallus exits.</i>]
 Where's Dolabella,
 To second Proculeius?
 
-ALL  Dolabella!
+<speaker>ALL</speaker>
+Dolabella!
 
-CAESAR
+<speaker>CAESAR</speaker>
 Let him alone, for I remember now
 How he's employed. He shall in time be ready.
 Go with me to my tent, where you shall see
@@ -5182,14 +5813,13 @@ How hardly I was drawn into this war,
 How calm and gentle I proceeded still
 In all my writings. Go with me and see
 What I can show in this.
-[They exit.]
+[<i>They exit.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[Enter Cleopatra, Charmian, and Iras.]
+[<i>Enter Cleopatra, Charmian, and Iras.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 My desolation does begin to make
 A better life. 'Tis paltry to be Caesar;
 Not being Fortune, he's but Fortune's knave,
@@ -5199,20 +5829,21 @@ Which shackles accidents and bolts up change,
 Which sleeps and never palates more the dung,
 The beggar's nurse, and Caesar's.
 
-[Enter Proculeius.]
+[<i>Enter Proculeius.</i>]
 
-
-PROCULEIUS
+<speaker>PROCULEIUS</speaker>
 Caesar sends greeting to the Queen of Egypt,
 And bids thee study on what fair demands
 Thou mean'st to have him grant thee.
 
-CLEOPATRA  What's thy name?
+<speaker>CLEOPATRA</speaker>
+What's thy name?
 
-PROCULEIUS
+<speaker>PROCULEIUS</speaker>
 My name is Proculeius.
 
-CLEOPATRA  Antony
+<speaker>CLEOPATRA</speaker>
+Antony
 Did tell me of you, bade me trust you, but
 I do not greatly care to be deceived
 That have no use for trusting. If your master
@@ -5223,7 +5854,8 @@ To give me conquered Egypt for my son,
 He gives me so much of mine own as I
 Will kneel to him with thanks.
 
-PROCULEIUS  Be of good cheer.
+<speaker>PROCULEIUS</speaker>
+Be of good cheer.
 You're fall'n into a princely hand; fear nothing.
 Make your full reference freely to my lord,
 Who is so full of grace that it flows over
@@ -5232,51 +5864,60 @@ Your sweet dependency, and you shall find
 A conqueror that will pray in aid for kindness
 Where he for grace is kneeled to.
 
-CLEOPATRA  Pray you tell him
+<speaker>CLEOPATRA</speaker>
+Pray you tell him
 I am his fortune's vassal and I send him
 The greatness he has got. I hourly learn
 A doctrine of obedience, and would gladly
 Look him i' th' face.
 
-PROCULEIUS  This I'll report, dear lady.
+<speaker>PROCULEIUS</speaker>
+This I'll report, dear lady.
 Have comfort, for I know your plight is pitied
 Of him that caused it.
 
-[Gallus and Soldiers enter and seize Cleopatra.]
+[<i>Gallus and Soldiers enter and seize Cleopatra.</i>]
 
-
-GALLUS
+<speaker>GALLUS</speaker>
 You see how easily she may be surprised.
 Guard her till Caesar come.
 
-IRAS  Royal queen!
+<speaker>IRAS</speaker>
+Royal queen!
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 O, Cleopatra, thou art taken, queen!
 
-<b>CLEOPATRA,</b> [drawing a dagger]
+<speaker>CLEOPATRA,</speaker>
+[<i>drawing a dagger</i>]
 Quick, quick, good hands!
 
-<b>PROCULEIUS,</b> [seizing the dagger]  Hold, worthy lady, hold!
+<speaker>PROCULEIUS,</speaker>
+[<i>seizing the dagger</i>]
+Hold, worthy lady, hold!
 Do not yourself such wrong, who are in this
 Relieved, but not betrayed.
 
-CLEOPATRA  What, of death, too,
+<speaker>CLEOPATRA</speaker>
+What, of death, too,
 That rids our dogs of languish?
 
-PROCULEIUS  Cleopatra,
+<speaker>PROCULEIUS</speaker>
+Cleopatra,
 Do not abuse my master's bounty by
 Th' undoing of yourself. Let the world see
 His nobleness well acted, which your death
 Will never let come forth.
 
-CLEOPATRA  Where art thou, Death?
+<speaker>CLEOPATRA</speaker>
+Where art thou, Death?
 Come hither, come! Come, come, and take a queen
 Worth many babes and beggars.
 
-<b>PROCULEIUS  O,</b> temperance, lady!
+<speaker>PROCULEIUS</speaker>
+O, temperance, lady!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Sir, I will eat no meat; I'll not drink, sir.
 If idle talk will once be necessary--
 I'll not sleep neither. This mortal house I'll ruin,
@@ -5292,58 +5933,66 @@ Blow me into abhorring; rather make
 My country's high pyramides my gibbet
 And hang me up in chains!
 
-PROCULEIUS  You do extend
+<speaker>PROCULEIUS</speaker>
+You do extend
 These thoughts of horror further than you shall
 Find cause in Caesar.
 
-[Enter Dolabella.]
+[<i>Enter Dolabella.</i>]
 
-
-DOLABELLA  Proculeius,
+<speaker>DOLABELLA</speaker>
+Proculeius,
 What thou hast done thy master Caesar knows,
 And he hath sent for thee. For the Queen,
 I'll take her to my guard.
 
-PROCULEIUS  So, Dolabella,
+<speaker>PROCULEIUS</speaker>
+So, Dolabella,
 It shall content me best. Be gentle to her.
-[To Cleopatra.] To Caesar I will speak what you
+[<i>To Cleopatra.</i>]
+To Caesar I will speak what you
 shall please,
 If you'll employ me to him.
 
-CLEOPATRA  Say I would die.
-[Proculeius, Gallus, and Soldiers exit.]
+<speaker>CLEOPATRA</speaker>
+Say I would die.
+[<i>Proculeius, Gallus, and Soldiers exit.</i>]
 
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 Most noble empress, you have heard of me.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I cannot tell.
 
-DOLABELLA  Assuredly you know me.
+<speaker>DOLABELLA</speaker>
+Assuredly you know me.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 No matter, sir, what I have heard or known.
 You laugh when boys or women tell their dreams;
 Is 't not your trick?
 
-DOLABELLA  I understand not, madam.
+<speaker>DOLABELLA</speaker>
+I understand not, madam.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 I dreamt there was an emperor Antony.
 O, such another sleep, that I might see
 But such another man.
 
-DOLABELLA  If it might please you--
+<speaker>DOLABELLA</speaker>
+If it might please you--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 His face was as the heavens, and therein stuck
 A sun and moon, which kept their course and
 lighted
 The little O, the Earth.
 
-DOLABELLA  Most sovereign creature--
+<speaker>DOLABELLA</speaker>
+Most sovereign creature--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 His legs bestrid the ocean, his reared arm
 Crested the world. His voice was propertied
 As all the tuned spheres, and that to friends;
@@ -5357,15 +6006,17 @@ Walked crowns and crownets; realms and islands
 were
 As plates dropped from his pocket.
 
-DOLABELLA  Cleopatra--
+<speaker>DOLABELLA</speaker>
+Cleopatra--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Think you there was, or might be, such a man
 As this I dreamt of?
 
-DOLABELLA  Gentle madam, no.
+<speaker>DOLABELLA</speaker>
+Gentle madam, no.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 You lie up to the hearing of the gods!
 But if there be nor ever were one such,
 It's past the size of dreaming. Nature wants stuff
@@ -5373,58 +6024,70 @@ To vie strange forms with fancy, yet t' imagine
 An Antony were nature's piece 'gainst fancy,
 Condemning shadows quite.
 
-DOLABELLA  Hear me, good madam.
+<speaker>DOLABELLA</speaker>
+Hear me, good madam.
 Your loss is as yourself, great; and you bear it
 As answering to the weight. Would I might never
 O'ertake pursued success but I do feel,
 By the rebound of yours, a grief that smites
 My very heart at root.
 
-CLEOPATRA  I thank you, sir.
+<speaker>CLEOPATRA</speaker>
+I thank you, sir.
 Know you what Caesar means to do with me?
 
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 I am loath to tell you what I would you knew.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Nay, pray you, sir.
 
-DOLABELLA  Though he be honorable--
+<speaker>DOLABELLA</speaker>
+Though he be honorable--
 
-CLEOPATRA  He'll lead me, then, in triumph.
+<speaker>CLEOPATRA</speaker>
+He'll lead me, then, in triumph.
 
-DOLABELLA  Madam, he will. I know 't.
+<speaker>DOLABELLA</speaker>
+Madam, he will. I know 't.
 
-[Flourish. Enter Caesar, Proculeius, Gallus, Maecenas,
-and others of his train.]
+[<i>Flourish. Enter Caesar, Proculeius, Gallus, Maecenas,
+and others of his train.</i>]
 
+<speaker>ALL</speaker>
+Make way there! Caesar!
 
-ALL  Make way there! Caesar!
+<speaker>CAESAR</speaker>
+Which is the Queen of Egypt?
 
-CAESAR  Which is the Queen of Egypt?
+<speaker>DOLABELLA</speaker>
+It is the Emperor, madam.
+[<i>Cleopatra kneels.</i>]
 
-DOLABELLA  It is the Emperor, madam.
-[Cleopatra kneels.]
-
-CAESAR  Arise. You shall not kneel.
+<speaker>CAESAR</speaker>
+Arise. You shall not kneel.
 I pray you, rise. Rise, Egypt.
 
-CLEOPATRA  Sir, the gods
+<speaker>CLEOPATRA</speaker>
+Sir, the gods
 Will have it thus. My master and my lord
-I must obey.	[She stands.]
+I must obey.	[<i>She stands.</i>]
 
-CAESAR  Take to you no hard thoughts.
+<speaker>CAESAR</speaker>
+Take to you no hard thoughts.
 The record of what injuries you did us,
 Though written in our flesh, we shall remember
 As things but done by chance.
 
-CLEOPATRA  Sole sir o' th' world,
+<speaker>CLEOPATRA</speaker>
+Sole sir o' th' world,
 I cannot project mine own cause so well
 To make it clear, but do confess I have
 Been laden with like frailties which before
 Have often shamed our sex.
 
-CAESAR  Cleopatra, know
+<speaker>CAESAR</speaker>
+Cleopatra, know
 We will extenuate rather than enforce.
 If you apply yourself to our intents,
 Which towards you are most gentle, you shall find
@@ -5435,44 +6098,46 @@ Of my good purposes, and put your children
 To that destruction which I'll guard them from
 If thereon you rely. I'll take my leave.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 And may through all the world. 'Tis yours, and we,
 Your scutcheons and your signs of conquest, shall
 Hang in what place you please. Here, my good lord.
-[She holds out a paper.]
+[<i>She holds out a paper.</i>]
 
-CAESAR
+<speaker>CAESAR</speaker>
 You shall advise me in all for Cleopatra.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 This is the brief of money, plate, and jewels
 I am possessed of. 'Tis exactly valued,
 Not petty things admitted.--Where's Seleucus?
 
-[Enter Seleucus.]
+[<i>Enter Seleucus.</i>]
 
+<speaker>SELEUCUS</speaker>
+Here, madam.
 
-SELEUCUS  Here, madam.
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 This is my treasurer. Let him speak, my lord,
 Upon his peril, that I have reserved
 To myself nothing.--Speak the truth, Seleucus.
 
-SELEUCUS
+<speaker>SELEUCUS</speaker>
 Madam, I had rather seel my lips
 Than to my peril speak that which is not.
 
-CLEOPATRA  What have I kept back?
+<speaker>CLEOPATRA</speaker>
+What have I kept back?
 
-SELEUCUS
+<speaker>SELEUCUS</speaker>
 Enough to purchase what you have made known.
 
-CAESAR
+<speaker>CAESAR</speaker>
 Nay, blush not, Cleopatra. I approve
 Your wisdom in the deed.
 
-CLEOPATRA  See, Caesar, O, behold
+<speaker>CLEOPATRA</speaker>
+See, Caesar, O, behold
 How pomp is followed! Mine will now be yours,
 And should we shift estates, yours would be mine.
 The ingratitude of this Seleucus does
@@ -5483,9 +6148,10 @@ Go back, I warrant thee! But I'll catch thine eyes
 Though they had wings. Slave, soulless villain, dog!
 O rarely base!
 
-CAESAR  Good queen, let us entreat you--
+<speaker>CAESAR</speaker>
+Good queen, let us entreat you--
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 O Caesar, what a wounding shame is this,
 That thou vouchsafing here to visit me,
 Doing the honor of thy lordliness
@@ -5499,22 +6165,25 @@ Some nobler token I have kept apart
 For Livia and Octavia, to induce
 Their mediation, must I be unfolded
 With one that I have bred? The gods! It smites me
-Beneath the fall I have. [To Seleucus.] Prithee, go
+Beneath the fall I have. [<i>To Seleucus.</i>]
+Prithee, go
 hence,
 Or I shall show the cinders of my spirits
 Through th' ashes of my chance. Wert thou a man,
 Thou wouldst have mercy on me.
 
-CAESAR  Forbear, Seleucus.
-[Seleucus exits.]
+<speaker>CAESAR</speaker>
+Forbear, Seleucus.
+[<i>Seleucus exits.</i>]
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Be it known that we, the greatest, are misthought
 For things that others do; and when we fall,
 We answer others' merits in our name--
 Are therefore to be pitied.
 
-CAESAR  Cleopatra,
+<speaker>CAESAR</speaker>
+Cleopatra,
 Not what you have reserved nor what acknowledged
 Put we i' th' roll of conquest. Still be 't yours!
 Bestow it at your pleasure, and believe
@@ -5528,38 +6197,43 @@ Yourself shall give us counsel. Feed and sleep.
 Our care and pity is so much upon you
 That we remain your friend. And so adieu.
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 My master and my lord!
 
-CAESAR  Not so. Adieu.
-[Flourish. Caesar and his train exit.]
+<speaker>CAESAR</speaker>
+Not so. Adieu.
+[<i>Flourish. Caesar and his train exit.</i>]
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 He words me, girls, he words me, that I should not
 Be noble to myself. But hark thee, Charmian.
-[She whispers to Charmian.]
+[<i>She whispers to Charmian.</i>]
 
-IRAS
+<speaker>IRAS</speaker>
 Finish, good lady. The bright day is done,
 And we are for the dark.
 
-<b>CLEOPATRA,</b> [to Charmian]  Hie thee again.
+<speaker>CLEOPATRA,</speaker>
+[<i>to Charmian</i>]
+Hie thee again.
 I have spoke already, and it is provided.
 Go put it to the haste.
 
-CHARMIAN  Madam, I will.
+<speaker>CHARMIAN</speaker>
+Madam, I will.
 
-[Enter Dolabella.]
+[<i>Enter Dolabella.</i>]
 
-
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 Where's the Queen?
 
-CHARMIAN  Behold, sir.	[She exits.]
+<speaker>CHARMIAN</speaker>
+Behold, sir. [<i>She exits.</i>]
 
-CLEOPATRA  Dolabella.
+<speaker>CLEOPATRA</speaker>
+Dolabella.
 
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 Madam, as thereto sworn by your command,
 Which my love makes religion to obey,
 I tell you this: Caesar through Syria
@@ -5568,14 +6242,16 @@ You with your children will he send before.
 Make your best use of this. I have performed
 Your pleasure and my promise.
 
-CLEOPATRA  Dolabella,
+<speaker>CLEOPATRA</speaker>
+Dolabella,
 I shall remain your debtor.
 
-DOLABELLA  I your servant.
+<speaker>DOLABELLA</speaker>
+I your servant.
 Adieu, good queen. I must attend on Caesar.
 
-CLEOPATRA
-Farewell, and thanks.	[He exits.]
+<speaker>CLEOPATRA</speaker>
+Farewell, and thanks.	[<i>He exits.</i>]
 Now, Iras, what think'st thou?
 Thou an Egyptian puppet shall be shown
 In Rome as well as I. Mechanic slaves
@@ -5584,9 +6260,10 @@ Uplift us to the view. In their thick breaths,
 Rank of gross diet, shall we be enclouded
 And forced to drink their vapor.
 
-IRAS  The gods forbid!
+<speaker>IRAS</speaker>
+The gods forbid!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Nay, 'tis most certain, Iras. Saucy lictors
 Will catch at us like strumpets, and scald rhymers
 Ballad us out o' tune. The quick comedians
@@ -5594,21 +6271,25 @@ Extemporally will stage us and present
 Our Alexandrian revels. Antony
 Shall be brought drunken forth, and I shall see
 Some squeaking Cleopatra boy my greatness
-I' th' posture of a whore.
+<speaker>I'</speaker>
+th' posture of a whore.
 
-IRAS  O the good gods!
+<speaker>IRAS</speaker>
+O the good gods!
 
-CLEOPATRA  Nay, that's certain.
+<speaker>CLEOPATRA</speaker>
+Nay, that's certain.
 
-IRAS
+<speaker>IRAS</speaker>
 I'll never see 't! For I am sure mine nails
 Are stronger than mine eyes.
 
-CLEOPATRA  Why, that's the way
+<speaker>CLEOPATRA</speaker>
+Why, that's the way
 To fool their preparation and to conquer
 Their most absurd intents.
 
-[Enter Charmian.]
+[<i>Enter Charmian.</i>]
 
 Now, Charmian!
 Show me, my women, like a queen. Go fetch
@@ -5618,18 +6299,18 @@ Now, noble Charmian, we'll dispatch indeed,
 And when thou hast done this chare, I'll give thee
 leave
 To play till Doomsday.--Bring our crown and all.
-[Iras exits. A noise within.]
+[<i>Iras exits. A noise within.</i>]
 Wherefore's this noise?
 
-[Enter a Guardsman.]
+[<i>Enter a Guardsman.</i>]
 
-
-GUARDSMAN  Here is a rural fellow
+<speaker>GUARDSMAN</speaker>
+Here is a rural fellow
 That will not be denied your Highness' presence.
 He brings you figs.
 
-CLEOPATRA
-Let him come in.	[Guardsman exits.]
+<speaker>CLEOPATRA</speaker>
+Let him come in.	[<i>Guardsman exits.</i>]
 What poor an instrument
 May do a noble deed! He brings me liberty.
 My resolution's placed, and I have nothing
@@ -5637,23 +6318,27 @@ Of woman in me. Now from head to foot
 I am marble-constant. Now the fleeting moon
 No planet is of mine.
 
-[Enter Guardsman and Countryman, with a basket.]
+[<i>Enter Guardsman and Countryman, with a basket.</i>]
 
+<speaker>GUARDSMAN</speaker>
+This is the man.
 
-GUARDSMAN  This is the man.
-
-CLEOPATRA  Avoid, and leave him.	[Guardsman exits.]
+<speaker>CLEOPATRA</speaker>
+Avoid, and leave him. [<i>Guardsman exits.</i>]
 Hast thou the pretty worm of Nilus there
 That kills and pains not?
 
-COUNTRYMAN  Truly I have him, but I would not be
+<speaker>COUNTRYMAN</speaker>
+Truly I have him, but I would not be
 the party that should desire you to touch him, for
 his biting is immortal. Those that do die of it do
 seldom or never recover.
 
-CLEOPATRA  Remember'st thou any that have died on 't?
+<speaker>CLEOPATRA</speaker>
+Remember'st thou any that have died on 't?
 
-COUNTRYMAN  Very many, men and women too. I
+<speaker>COUNTRYMAN</speaker>
+Very many, men and women too. I
 heard of one of them no longer than yesterday--a
 very honest woman, but something given to lie, as a
 woman should not do but in the way of honesty--
@@ -5663,49 +6348,60 @@ But he that will believe all that they say shall never
 be saved by half that they do. But this is most
 falliable, the worm's an odd worm.
 
-CLEOPATRA  Get thee hence. Farewell.
+<speaker>CLEOPATRA</speaker>
+Get thee hence. Farewell.
 
-COUNTRYMAN  I wish you all joy of the worm.
-[He sets down the basket.]
+<speaker>COUNTRYMAN</speaker>
+I wish you all joy of the worm.
+[<i>He sets down the basket.</i>]
 
-CLEOPATRA  Farewell.
+<speaker>CLEOPATRA</speaker>
+Farewell.
 
-COUNTRYMAN  You must think this, look you, that the
+<speaker>COUNTRYMAN</speaker>
+You must think this, look you, that the
 worm will do his kind.
 
-CLEOPATRA  Ay, ay, farewell.
+<speaker>CLEOPATRA</speaker>
+Ay, ay, farewell.
 
-COUNTRYMAN  Look you, the worm is not to be trusted
+<speaker>COUNTRYMAN</speaker>
+Look you, the worm is not to be trusted
 but in the keeping of wise people, for indeed there
 is no goodness in the worm.
 
-CLEOPATRA  Take thou no care; it shall be heeded.
+<speaker>CLEOPATRA</speaker>
+Take thou no care; it shall be heeded.
 
-COUNTRYMAN  Very good. Give it nothing, I pray you,
+<speaker>COUNTRYMAN</speaker>
+Very good. Give it nothing, I pray you,
 for it is not worth the feeding.
 
-CLEOPATRA  Will it eat me?
+<speaker>CLEOPATRA</speaker>
+Will it eat me?
 
-COUNTRYMAN  You must not think I am so simple but
+<speaker>COUNTRYMAN</speaker>
+You must not think I am so simple but
 I know the devil himself will not eat a woman. I
 know that a woman is a dish for the gods if the devil
 dress her not. But truly these same whoreson devils
 do the gods great harm in their women, for in every
 ten that they make, the devils mar five.
 
-CLEOPATRA  Well, get thee gone. Farewell.
+<speaker>CLEOPATRA</speaker>
+Well, get thee gone. Farewell.
 
-COUNTRYMAN  Yes, forsooth. I wish you joy o' th'
-worm.	[He exits.]
+<speaker>COUNTRYMAN</speaker>
+Yes, forsooth. I wish you joy o' th'
+worm.	[<i>He exits.</i>]
 
-[Enter Iras bearing Cleopatra's royal regalia.]
+[<i>Enter Iras bearing Cleopatra's royal regalia.</i>]
 
-
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 Give me my robe. Put on my crown. I have
 Immortal longings in me. Now no more
 The juice of Egypt's grape shall moist this lip.
-[Charmian and Iras begin to dress her.]
+[<i>Charmian and Iras begin to dress her.</i>]
 Yare, yare, good Iras, quick. Methinks I hear
 Antony call. I see him rouse himself
 To praise my noble act. I hear him mock
@@ -5716,7 +6412,7 @@ I am fire and air; my other elements
 I give to baser life.--So, have you done?
 Come then, and take the last warmth of my lips.
 Farewell, kind Charmian.--Iras, long farewell.
-[She kisses them. Iras falls and dies.]
+[<i>She kisses them. Iras falls and dies.</i>]
 Have I the aspic in my lips? Dost fall?
 If thou and nature can so gently part,
 The stroke of death is as a lover's pinch,
@@ -5724,130 +6420,144 @@ Which hurts and is desired. Dost thou lie still?
 If thus thou vanishest, thou tell'st the world
 It is not worth leave-taking.
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 Dissolve, thick cloud, and rain, that I may say
 The gods themselves do weep!
 
-CLEOPATRA  This proves me base.
+<speaker>CLEOPATRA</speaker>
+This proves me base.
 If she first meet the curled Antony,
 He'll make demand of her, and spend that kiss
 Which is my heaven to have.--Come, thou mortal
-wretch,	[She places an asp on her breast.]
+wretch,	[<i>She places an asp on her breast.</i>]
 With thy sharp teeth this knot intrinsicate
 Of life at once untie. Poor venomous fool,
 Be angry and dispatch. O, couldst thou speak,
 That I might hear thee call great Caesar ass
 Unpolicied!
 
-CHARMIAN  O eastern star!
+<speaker>CHARMIAN</speaker>
+O eastern star!
 
-CLEOPATRA  Peace, peace!
+<speaker>CLEOPATRA</speaker>
+Peace, peace!
 Dost thou not see my baby at my breast,
 That sucks the nurse asleep?
 
-<b>CHARMIAN  O,</b> break! O, break!
+<speaker>CHARMIAN</speaker>
+O, break! O, break!
 
-CLEOPATRA
+<speaker>CLEOPATRA</speaker>
 As sweet as balm, as soft as air, as gentle--
 O Antony!--Nay, I will take thee too.
-[She places an asp on her arm.]
-What should I stay--	[Dies.]
+[<i>She places an asp on her arm.</i>]
+What should I stay--	[<i>Dies.</i>]
 
-CHARMIAN  In this wild world? So, fare thee well.
+<speaker>CHARMIAN</speaker>
+In this wild world? So, fare thee well.
 Now boast thee, Death, in thy possession lies
 A lass unparalleled. Downy windows, close,
-[She closes Cleopatra's eyes.]
+[<i>She closes Cleopatra's eyes.</i>]
 And golden Phoebus, never be beheld
 Of eyes again so royal. Your crown's awry.
 I'll mend it, and then play--
 
-[Enter the Guard rustling in.]
+[<i>Enter the Guard rustling in.</i>]
 
-
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 Where's the Queen?
 
-CHARMIAN  Speak softly. Wake her not.
+<speaker>CHARMIAN</speaker>
+Speak softly. Wake her not.
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 Caesar hath sent--
 
-CHARMIAN  Too slow a messenger.
-[She takes out an asp.]
+<speaker>CHARMIAN</speaker>
+Too slow a messenger.
+[<i>She takes out an asp.</i>]
 O, come apace, dispatch! I partly feel thee.
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 Approach, ho! All's not well. Caesar's beguiled.
 
-SECOND GUARD
+<speaker>SECOND GUARD</speaker>
 There's Dolabella sent from Caesar. Call him.
-[A Guardsman exits.]
+[<i>A Guardsman exits.</i>]
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 What work is here, Charmian? Is this well done?
 
-CHARMIAN
+<speaker>CHARMIAN</speaker>
 It is well done, and fitting for a princess
 Descended of so many royal kings.
-Ah, soldier!	[Charmian dies.]
+Ah, soldier!	[<i>Charmian dies.</i>]
 
-[Enter Dolabella.]
+[<i>Enter Dolabella.</i>]
 
-
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 How goes it here?
 
-SECOND GUARD  All dead.
+<speaker>SECOND GUARD</speaker>
+All dead.
 
-DOLABELLA  Caesar, thy thoughts
+<speaker>DOLABELLA</speaker>
+Caesar, thy thoughts
 Touch their effects in this. Thyself art coming
 To see performed the dreaded act which thou
 So sought'st to hinder.
 
-[Enter Caesar and all his train, marching.]
+[<i>Enter Caesar and all his train, marching.</i>]
 
+<speaker>ALL</speaker>
+A way there, a way for Caesar!
 
-ALL  A way there, a way for Caesar!
-
-DOLABELLA
+<speaker>DOLABELLA</speaker>
 O sir, you are too sure an augurer:
 That you did fear is done.
 
-CAESAR  Bravest at the last,
+<speaker>CAESAR</speaker>
+Bravest at the last,
 She leveled at our purposes and, being royal,
 Took her own way. The manner of their deaths?
 I do not see them bleed.
 
-DOLABELLA  Who was last with them?
+<speaker>DOLABELLA</speaker>
+Who was last with them?
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 A simple countryman that brought her figs.
 This was his basket.
 
-CAESAR  Poisoned, then.
+<speaker>CAESAR</speaker>
+Poisoned, then.
 
-FIRST GUARD  O Caesar,
+<speaker>FIRST GUARD</speaker>
+O Caesar,
 This Charmian lived but now; she stood and spake.
 I found her trimming up the diadem
 On her dead mistress; tremblingly she stood,
 And on the sudden dropped.
 
-<b>CAESAR  O,</b> noble weakness!
+<speaker>CAESAR</speaker>
+O, noble weakness!
 If they had swallowed poison, 'twould appear
 By external swelling; but she looks like sleep,
 As she would catch another Antony
 In her strong toil of grace.
 
-DOLABELLA  Here on her breast
+<speaker>DOLABELLA</speaker>
+Here on her breast
 There is a vent of blood, and something blown.
 The like is on her arm.
 
-FIRST GUARD
+<speaker>FIRST GUARD</speaker>
 This is an aspic's trail, and these fig leaves
 Have slime upon them, such as th' aspic leaves
 Upon the caves of Nile.
 
-CAESAR  Most probable
+<speaker>CAESAR</speaker>
+Most probable
 That so she died, for her physician tells me
 She hath pursued conclusions infinite
 Of easy ways to die. Take up her bed,
@@ -5861,6 +6571,6 @@ Brought them to be lamented. Our army shall
 In solemn show attend this funeral,
 And then to Rome. Come, Dolabella, see
 High order in this great solemnity.
-[They all exit, the Guards
-bearing the dead bodies.]
+[<i>They all exit, the Guards
+bearing the dead bodies.</i>]
 `;
