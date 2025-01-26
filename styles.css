@@ -266,6 +266,7 @@ body {
     white-space: pre-wrap;
     font-family: 'EB Garamond', serif;
     position: relative;
+    counter-reset: lines;
 }
 
 .text-content hr {
@@ -358,20 +359,6 @@ body {
     background-color: transparent !important;
 }
 
-.line-number {
-    display: inline-block;
-    width: 2em;
-    text-align: right;
-    color: #6b7280;
-    font-size: 0.8rem;
-    font-family: monospace;
-    user-select: none;
-    position: absolute;
-    left: 0.5rem;
-    margin-top: 0.4em;
-    vertical-align: bottom;
-}
-
 /* Add bullet point styling */
 .text-content ul {
     list-style-type: square;
@@ -382,4 +369,27 @@ body {
 .text-content ul ul {
     margin-top: 0.25em;
     margin-bottom: 0.25em;
+}
+
+/* Add these styles back to styles.css */
+.play-line {
+    position: relative;
+}
+
+.numbered {
+    counter-increment: lines 5;
+}
+
+.numbered::before {
+    content: counter(lines);
+    position: absolute;
+    left: -3em;
+    width: 2em;
+    text-align: right;
+    color: #666;
+    user-select: none;
+}
+
+.text-content {
+    counter-reset: lines;
 }

@@ -11,7 +11,7 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 ### TODO
 - return shakespeare head to original position during rotation
 - Go through all the character files and fix the formatting.. what we have is not ideal
-
+- make line breaks more clear, indent slightly when a line is broken
 
 ### Characters
 The text sources are not quite satisfactory, pulled the formatting from Folger sites like https://www.folger.edu/explore/shakespeares-works/coriolanus/read/characterList/
