@@ -339,7 +339,7 @@ body {
     display: none;
 }
 
-.act-header, .scene-header {
+.act-header, .scene-header, .characters-header {
     display: block;
     margin: 0;
     padding: 0;
@@ -370,4 +370,16 @@ body {
     left: 0.5rem;
     margin-top: 0.4em;
     vertical-align: bottom;
+}
+
+/* Add bullet point styling */
+.text-content ul {
+    list-style-type: square;
+    padding-left: 1.5em;
+    color: #1a1a1a;
+}
+
+.text-content ul ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.25em;
 }
