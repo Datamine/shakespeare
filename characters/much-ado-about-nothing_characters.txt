@@ -1,0 +1,27 @@
+LEONATO, Governor of Messina
+HERO, his daughter
+BEATRICE, his niece
+LEONATO&rsquo;S BROTHER
+Waiting gentlewomen to Hero:
+  MARGARET
+  URSULA
+DON PEDRO, Prince of Aragon
+COUNT CLAUDIO, a young lord from Florence
+SIGNIOR BENEDICK, a gentleman from Padua
+BALTHASAR
+SIGNIOR ANTONIO
+DON JOHN, Don Pedro&rsquo;s brother
+Don John&rsquo;s followers:
+  BORACHIO
+  CONRADE
+DOGBERRY, Master Constable in Messina
+VERGES, Dogberry&rsquo;s partner
+GEORGE SEACOAL, leader of the Watch
+FIRST WATCHMAN
+SECOND WATCHMAN
+SEXTON
+FRIAR FRANCIS
+MESSENGER to Leonato
+MESSENGER to Don Pedro
+BOY
+Musicians, Lords, Attendants, Son to Leonato&rsquo;s brother

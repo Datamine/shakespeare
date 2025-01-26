@@ -6,70 +6,18 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-vi-part-3/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-KING HENRY VI
-QUEEN MARGARET
-PRINCE EDWARD
-Lord CLIFFORD
-Lancastrian supporters:
-Earl of NORTHUMBERLAND
-Earl of WESTMORLAND
-Duke of EXETER
-Earl of OXFORD
-Sir John SOMERVILLE
-Supporters first of York, then of Lancaster:
-Earl of WARWICK
-Marquess of MONTAGUE
-Duke of SOMERSET
-Richard Plantagenet, Duke of YORK
-Sons of Richard, Duke of York:
-EDWARD, Earl of March, later KING EDWARD IV
-GEORGE, later Duke of CLARENCE
-RICHARD, later Duke of GLOUCESTER
-RUTLAND
-SIR JOHN Mortimer, York's uncle
-LADY GREY, later QUEEN ELIZABETH
-Earl RIVERS, brother to the queen
-Yorkist supporters:
-Duke of NORFOLK
-Earl of PEMBROKE
-Lord STAFFORD
-Lord HASTINGS
-Sir William STANLEY
-Sir John MONTGOMERY
-KING LEWIS of France
-LADY BONA, his sister-in-law
-Rutland's TUTOR
-A SON that has killed his father
-A FATHER that has killed his son
-FIRST GAMEKEEPER
-SECOND GAMEKEEPER
-A NOBLEMAN
-POST
-FIRST WATCH
-SECOND WATCH
-THIRD WATCH
-HUNTSMAN
-LIEUTENANT at the Tower of London
-FIRST MESSENGER
-SECOND MESSENGER
-Other MESSENGERS
-MAYOR of York
-SOLDIER
-Soldiers, Servants, Attendants, Drummers, Trumpeters, Sir Hugh Mortimer, Henry, Earl of Richmond, Aldermen of York, Mayor of Coventry, Nurse, the infant prince, and Others
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Alarum. Enter Richard Plantagenet, Duke of York;
 Edward; Richard; Norfolk; Montague; Warwick; and
 Soldiers, all wearing the white rose.</i>]
 
-<speaker>WARWICK</speaker>
+WARWICK
 I wonder how the King escaped our hands.
 
-<speaker>YORK</speaker>
+YORK
 While we pursued the horsemen of the north,
 He slyly stole away and left his men;
 Whereat the great lord of Northumberland,
@@ -79,33 +27,31 @@ Lord Clifford, and Lord Stafford, all abreast,
 Charged our main battle's front and, breaking in,
 Were by the swords of common soldiers slain.
 
-<speaker>EDWARD</speaker>
+EDWARD
 Lord Stafford's father, Duke of Buckingham,
 Is either slain or wounded dangerous.
 I cleft his beaver with a downright blow.
 That this is true, father, behold his blood.
 [<i>He shows his bloody sword.</i>]
 
-<speaker>MONTAGUE,</speaker>
-[<i>to York, showing his sword</i>]
+MONTAGUE, [<i>to York, showing his sword</i>]
 And, brother, here's the Earl of Wiltshire's blood,
 Whom I encountered as the battles joined.
 
-<speaker>RICHARD,</speaker>
-[<i>holding up a severed head</i>]
+RICHARD, [<i>holding up a severed head</i>]
 Speak thou for me, and tell them what I did.
 
-<speaker>YORK</speaker>
+YORK
 Richard hath best deserved of all my sons.
 But is your Grace dead, my lord of Somerset?
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 Such hope have all the line of John of Gaunt!
 
-<speaker>RICHARD</speaker>
+RICHARD
 Thus do I hope to shake King Henry's head.
 
-<speaker>WARWICK</speaker>
+WARWICK
 And so do I, victorious prince of York.
 Before I see thee seated in that throne
 Which now the house of Lancaster usurps,
@@ -114,42 +60,42 @@ This is the palace of the fearful king,
 And this the regal seat. Possess it, York,
 For this is thine and not King Henry's heirs'.
 
-<speaker>YORK</speaker>
+YORK
 Assist me, then, sweet Warwick, and I will,
 For hither we have broken in by force.
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 We'll all assist you. He that flies shall die.
 
-<speaker>YORK</speaker>
+YORK
 Thanks, gentle Norfolk. Stay by me, my lords.--
 And soldiers, stay and lodge by me this night.
 [<i>They go up onto a dais or platform.</i>]
 
-<speaker>WARWICK</speaker>
+WARWICK
 And when the King comes, offer him no violence
 Unless he seek to thrust you out perforce.
 [<i>Soldiers exit or retire out of sight.</i>]
 
-<speaker>YORK</speaker>
+YORK
 The Queen this day here holds her parliament,
 But little thinks we shall be of her council.
 By words or blows, here let us win our right.
 
-<speaker>RICHARD</speaker>
+RICHARD
 Armed as we are, let's stay within this house.
 
-<speaker>WARWICK</speaker>
+WARWICK
 "The Bloody Parliament" shall this be called
 Unless Plantagenet, Duke of York, be king
 And bashful Henry deposed, whose cowardice
 Hath made us bywords to our enemies.
 
-<speaker>YORK</speaker>
+YORK
 Then leave me not, my lords; be resolute.
 I mean to take possession of my right.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Neither the King nor he that loves him best,
 The proudest he that holds up Lancaster,
 Dares stir a wing if Warwick shake his bells.
@@ -161,7 +107,7 @@ Resolve thee, Richard; claim the English crown.
 Westmorland, Exeter, and the rest, all wearing
 the red rose.</i>]
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 My lords, look where the sturdy rebel sits,
 Even in the chair of state! Belike he means,
 Backed by the power of Warwick, that false peer,
@@ -171,36 +117,36 @@ And thine, Lord Clifford, and you both have vowed
 revenge
 On him, his sons, his favorites, and his friends.
 
-<speaker>NORTHUMBERLAND</speaker>
+NORTHUMBERLAND
 If I be not, heavens be revenged on me!
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 The hope thereof makes Clifford mourn in steel.
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 What, shall we suffer this? Let's pluck him down.
 My heart for anger burns. I cannot brook it.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Be patient, gentle Earl of Westmorland.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 Patience is for poltroons such as he.
 He durst not sit there had your father lived.
 My gracious lord, here in the Parliament
 Let us assail the family of York.
 
-<speaker>NORTHUMBERLAND</speaker>
+NORTHUMBERLAND
 Well hast thou spoken, cousin. Be it so.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Ah, know you not the city favors them,
 And they have troops of soldiers at their beck?
 
-<speaker>EXETER</speaker>
+EXETER
 But when the Duke is slain, they'll quickly fly.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Far be the thought of this from Henry's heart,
 To make a shambles of the Parliament House!
 Cousin of Exeter, frowns, words, and threats
@@ -209,72 +155,69 @@ Thou factious Duke of York, descend my throne
 And kneel for grace and mercy at my feet.
 I am thy sovereign.
 
-<speaker>YORK</speaker>
-I am thine.
+YORK  I am thine.
 
-<speaker>EXETER</speaker>
+EXETER
 For shame, come down. He made thee Duke of
 York.
 
-<speaker>YORK</speaker>
+YORK
 It was my inheritance, as the earldom was.
 
-<speaker>EXETER</speaker>
+EXETER
 Thy father was a traitor to the crown.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Exeter, thou art a traitor to the crown
 In following this usurping Henry.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 Whom should he follow but his natural king?
 
-<speaker>WARWICK</speaker>
+WARWICK
 True, Clifford, that's Richard, Duke of York.
 
-<speaker>KING HENRY,</speaker>
-[<i>to York</i>]
+KING HENRY, [<i>to York</i>]
 And shall I stand, and thou sit in my throne?
 
-<speaker>YORK</speaker>
+YORK
 It must and shall be so. Content thyself.
 
-<speaker>WARWICK,</speaker>
-[<i>to King Henry</i>]
+WARWICK, [<i>to King Henry</i>]
 Be Duke of Lancaster. Let him be king.
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 He is both king and Duke of Lancaster,
 And that the lord of Westmorland shall maintain.
 
-<speaker>WARWICK</speaker>
+WARWICK
 And Warwick shall disprove it. You forget
 That we are those which chased you from the field
 And slew your fathers and, with colors spread,
 Marched through the city to the palace gates.
 
-<speaker>NORTHUMBERLAND</speaker>
+NORTHUMBERLAND
 Yes, Warwick, I remember it to my grief;
 And by his soul, thou and thy house shall rue it.
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 Plantagenet, of thee and these thy sons,
 Thy kinsmen, and thy friends, I'll have more lives
 Than drops of blood were in my father's veins.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 Urge it no more, lest that, instead of words,
 I send thee, Warwick, such a messenger
 As shall revenge his death before I stir.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Poor Clifford, how I scorn his worthless threats!
 
-<speaker>YORK</speaker>
+YORK
 Will you we show our title to the crown?
 If not, our swords shall plead it in the field.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 What title hast thou, traitor, to the crown?
 Thy father was as thou art, Duke of York;
 Thy grandfather, Roger Mortimer, Earl of March.
@@ -282,41 +225,39 @@ I am the son of Henry the Fifth,
 Who made the Dauphin and the French to stoop
 And seized upon their towns and provinces.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Talk not of France, sith thou hast lost it all.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 The Lord Protector lost it and not I.
 When I was crowned, I was but nine months old.
 
-<speaker>RICHARD</speaker>
+RICHARD
 You are old enough now, and yet, methinks, you
 lose.--
 Father, tear the crown from the usurper's head.
 
-<speaker>EDWARD</speaker>
+EDWARD
 Sweet father, do so. Set it on your head.
 
-<speaker>MONTAGUE,</speaker>
-[<i>to York</i>]
+MONTAGUE, [<i>to York</i>]
 Good brother, as thou lov'st and honorest arms,
 Let's fight it out and not stand caviling thus.
 
-<speaker>RICHARD</speaker>
+RICHARD
 Sound drums and trumpets, and the King will fly.
 
-<speaker>YORK</speaker>
-Sons, peace!
+YORK  Sons, peace!
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Peace thou, and give King Henry leave to speak!
 
-<speaker>WARWICK</speaker>
+WARWICK
 Plantagenet shall speak first. Hear him, lords,
 And be you silent and attentive too,
 For he that interrupts him shall not live.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Think'st thou that I will leave my kingly throne,
 Wherein my grandsire and my father sat?
 No. First shall war unpeople this my realm;
@@ -325,86 +266,81 @@ And now in England to our heart's great sorrow,
 Shall be my winding-sheet. Why faint you, lords?
 My title's good, and better far than his.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Prove it, Henry, and thou shalt be king.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Henry the Fourth by conquest got the crown.
 
-<speaker>YORK</speaker>
+YORK
 'Twas by rebellion against his king.
 
-<speaker>KING HENRY,</speaker>
-[<i>aside</i>]
+KING HENRY, [<i>aside</i>]
 I know not what to say; my title's weak.--
 Tell me, may not a king adopt an heir?
 
-<speaker>YORK</speaker>
-What then?
+YORK  What then?
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 An if he may, then am I lawful king;
 For Richard, in the view of many lords,
 Resigned the crown to Henry the Fourth,
 Whose heir my father was, and I am his.
 
-<speaker>YORK</speaker>
+YORK
 He rose against him, being his sovereign,
 And made him to resign his crown perforce.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Suppose, my lords, he did it unconstrained,
 Think you 'twere prejudicial to his crown?
 
-<speaker>EXETER</speaker>
+EXETER
 No, for he could not so resign his crown
 But that the next heir should succeed and reign.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Art thou against us, Duke of Exeter?
 
-<speaker>EXETER</speaker>
+EXETER
 His is the right, and therefore pardon me.
 
-<speaker>YORK</speaker>
+YORK
 Why whisper you, my lords, and answer not?
 
-<speaker>EXETER</speaker>
+EXETER
 My conscience tells me he is lawful king.
 
-<speaker>KING HENRY,</speaker>
-[<i>aside</i>]
+KING HENRY, [<i>aside</i>]
 All will revolt from me and turn to him.
 
-<speaker>NORTHUMBERLAND,</speaker>
-[<i>to York</i>]
+NORTHUMBERLAND, [<i>to York</i>]
 Plantagenet, for all the claim thou lay'st,
 Think not that Henry shall be so deposed.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Deposed he shall be, in despite of all.
 
-<speaker>NORTHUMBERLAND</speaker>
+NORTHUMBERLAND
 Thou art deceived. 'Tis not thy southern power
 Of Essex, Norfolk, Suffolk, nor of Kent,
 Which makes thee thus presumptuous and proud,
 Can set the Duke up in despite of me.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 King Henry, be thy title right or wrong,
 Lord Clifford vows to fight in thy defense.
 May that ground gape and swallow me alive
 Where I shall kneel to him that slew my father.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 O Clifford, how thy words revive my heart!
 
-<speaker>YORK</speaker>
+YORK
 Henry of Lancaster, resign thy crown.--
 What mutter you, or what conspire you, lords?
 
-<speaker>WARWICK,</speaker>
-[<i>to King Henry</i>]
+WARWICK, [<i>to King Henry</i>]
 Do right unto this princely Duke of York,
 Or I will fill the house with armed men,
 And over the chair of state, where now he sits,
@@ -412,70 +348,68 @@ Write up his title with usurping blood.
 [<i>He stamps with his foot,
 and the Soldiers show themselves.</i>]
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 My lord of Warwick, hear but one word:
 Let me for this my lifetime reign as king.
 
-<speaker>YORK</speaker>
+YORK
 Confirm the crown to me and to mine heirs,
 And thou shalt reign in quiet while thou liv'st.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 I am content. Richard Plantagenet,
 Enjoy the kingdom after my decease.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 What wrong is this unto the Prince your son!
 
-<speaker>WARWICK</speaker>
+WARWICK
 What good is this to England and himself!
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 Base, fearful, and despairing Henry!
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 How hast thou injured both thyself and us!
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 I cannot stay to hear these articles.
 
-<speaker>NORTHUMBERLAND</speaker>
-Nor I.
+NORTHUMBERLAND  Nor I.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 Come, cousin, let us tell the Queen these news.
 
-<speaker>WESTMORLAND</speaker>
+WESTMORLAND
 Farewell, faint-hearted and degenerate king,
 In whose cold blood no spark of honor bides.
 
-<speaker>NORTHUMBERLAND</speaker>
+NORTHUMBERLAND
 Be thou a prey unto the house of York,
 And die in bands for this unmanly deed.
 
-<speaker>CLIFFORD</speaker>
+CLIFFORD
 In dreadful war mayst thou be overcome,
 Or live in peace abandoned and despised!
 [<i>Westmorland, Northumberland, Clifford,
 and their Soldiers exit.</i>]
 
-<speaker>WARWICK</speaker>
+WARWICK
 Turn this way, Henry, and regard them not.
 
-<speaker>EXETER</speaker>
+EXETER
 They seek revenge and therefore will not yield.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Ah, Exeter!
 
-<speaker>WARWICK</speaker>
-Why should you sigh, my lord?
+WARWICK  Why should you sigh, my lord?
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Not for myself, Lord Warwick, but my son,
 Whom I unnaturally shall disinherit.
 But be it as it may. [<i>(To York.)</i>]
-I here entail
+ - I here entail
 The crown to thee and to thine heirs forever,
 Conditionally, that here thou take an oath
 To cease this civil war and, whilst I live,
@@ -483,61 +417,58 @@ To honor me as thy king and sovereign,
 And neither by treason nor hostility
 To seek to put me down and reign thyself.
 
-<speaker>YORK</speaker>
+YORK
 This oath I willingly take and will perform.
 
-<speaker>WARWICK</speaker>
+WARWICK
 Long live King Henry! Plantagenet, embrace him.
 [<i>York stands, and King Henry ascends the dais.</i>]
 
-<speaker>KING HENRY,</speaker>
-[<i>to York</i>]
+KING HENRY, [<i>to York</i>]
 And long live thou and these thy forward sons!
 [<i>They embrace.</i>]
 
-<speaker>YORK</speaker>
+YORK
 Now York and Lancaster are reconciled.
 
-<speaker>EXETER</speaker>
+EXETER
 Accursed be he that seeks to make them foes.
 [<i>Sennet. Here they come down.</i>]
 
-<speaker>YORK,</speaker>
-[<i>to King Henry</i>]
+YORK, [<i>to King Henry</i>]
 Farewell, my gracious lord. I'll to my castle.
 
-<speaker>WARWICK</speaker>
+WARWICK
 And I'll keep London with my soldiers.
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 And I to Norfolk with my followers.
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 And I unto the sea, from whence I came.
 [<i>York, Edward, Richard, Warwick, Norfolk,
 Montague, and their Soldiers exit.</i>]
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 And I with grief and sorrow to the court.
 
 [<i>Enter Queen Margaret, with Prince Edward.</i>]
 
-<speaker>EXETER</speaker>
+EXETER
 Here comes the Queen, whose looks bewray her
 anger.
 I'll steal away.
 
-<speaker>KING HENRY</speaker>
-Exeter, so will I.
+KING HENRY  Exeter, so will I.
 [<i>They begin to exit.</i>]
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Nay, go not from me. I will follow thee.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Be patient, gentle queen, and I will stay.
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Who can be patient in such extremes?
 Ah, wretched man, would I had died a maid
 And never seen thee, never borne thee son,
@@ -551,15 +482,15 @@ there,
 Rather than have made that savage duke thine heir
 And disinherited thine only son.
 
-<speaker>PRINCE EDWARD</speaker>
+PRINCE EDWARD
 Father, you cannot disinherit me.
 If you be king, why should not I succeed?
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Pardon me, Margaret.--Pardon me, sweet son.
 The Earl of Warwick and the Duke enforced me.
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Enforced thee? Art thou king and wilt be forced?
 I shame to hear thee speak. Ah, timorous wretch,
 Thou hast undone thyself, thy son, and me,
@@ -588,27 +519,27 @@ And utter ruin of the house of York.
 Thus do I leave thee.--Come, son, let's away.
 Our army is ready. Come, we'll after them.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Stay, gentle Margaret, and hear me speak.
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Thou hast spoke too much already. Get thee gone.
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Gentle son Edward, thou wilt stay with me?
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Ay, to be murdered by his enemies!
 
-<speaker>PRINCE EDWARD</speaker>
+PRINCE EDWARD
 When I return with victory from the field,
 I'll see your Grace. Till then, I'll follow her.
 
-<speaker>QUEEN MARGARET</speaker>
+QUEEN MARGARET
 Come, son, away. We may not linger thus.
 [<i>Queen Margaret and Prince Edward exit.</i>]
 
-<speaker>KING HENRY</speaker>
+KING HENRY
 Poor queen! How love to me and to her son
 Hath made her break out into terms of rage!
 Revenged may she be on that hateful duke,
@@ -619,7 +550,7 @@ The loss of those three lords torments my heart.
 I'll write unto them and entreat them fair.
 Come, cousin, you shall be the messenger.
 
-<speaker>EXETER</speaker>
+EXETER
 And I, I hope, shall reconcile them all.
 [<i>Flourish. They exit.</i>]
 
@@ -2391,7 +2322,7 @@ It were no less, but yet I'll make a pause.
 
 <speaker>RICHARD,</speaker>
 [<i>aside to Clarence</i>]
-Yea, is it so?
+  Yea, is it so?
 I see the lady hath a thing to grant
 Before the King will grant her humble suit.
 
@@ -2401,7 +2332,7 @@ He knows the game; how true he keeps the wind!
 
 <speaker>RICHARD,</speaker>
 [<i>aside to Clarence</i>]
-Silence!
+  Silence!
 
 <speaker>KING EDWARD</speaker>
 Widow, we will consider of your suit,
@@ -2988,7 +2919,7 @@ Now, sister, let us hear your firm resolve.
 <speaker>LADY BONA</speaker>
 Your grant or your denial shall be mine.
 [<i>(Speaks to Warwick.)</i>]
-Yet I confess that often ere this
+ Yet I confess that often ere this
 day,
 When I have heard your king's desert recounted,
 Mine ear hath tempted judgment to desire.
@@ -3044,9 +2975,9 @@ Warwick, this is some post to us or thee.
 My lord ambassador, these letters are for you,
 Sent from your brother, Marquess Montague.
 [<i>(To Lewis.)</i>]
-These from our king unto your Majesty.
+ These from our king unto your Majesty.
 [<i>(To Margaret.)</i>]
-And, madam, these for you--from
+ And, madam, these for you--from
 whom, I know not.	[<i>They all read their letters.</i>]
 
 <speaker>OXFORD,</speaker>
@@ -4105,7 +4036,7 @@ Come, fellow soldier, make thou proclamation.
 
 <speaker>SOLDIER</speaker>
 [<i>reads</i>]
-Edward the Fourth, by the Grace of
+  Edward the Fourth, by the Grace of
 God, King of England and France, and Lord of
 Ireland, &c.
 
@@ -4894,7 +4825,7 @@ Petitioners for blood thou ne'er putt'st back.
 
 <speaker>KING EDWARD</speaker>
 Away, I say! [<i>(To Soldiers.)</i>]
-I charge you bear her
+ I charge you bear her
 hence.
 
 <speaker>QUEEN MARGARET</speaker>
@@ -5108,7 +5039,7 @@ And that I love the tree from whence thou sprang'st,
 Witness the loving kiss I give the fruit.
 [<i>He kisses the infant.</i>]
 [<i>Aside.</i>]
-To say the truth, so Judas kissed his master
+ To say the truth, so Judas kissed his master
 And cried "All hail!" whenas he meant all harm.
 
 <speaker>KING EDWARD</speaker>

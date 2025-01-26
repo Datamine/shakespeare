@@ -6,57 +6,13 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/pericles/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-GOWER, fourteenth-century poet and Chorus of the play
-PERICLES, prince of Tyre
-THAISA, princess of Pentapolis and wife to Pericles
-MARINA, daughter of Pericles and Thaisa
-Lords of Tyre:
-HELICANUS
-ESCANES
-Three other LORDS of Tyre
-ANTIOCHUS, king of Antioch
-DAUGHTER, princess of Antioch
-THALIARD, nobleman of Antioch
-MESSENGER
-CLEON, governor of Tarsus
-DIONYZA, wife to Cleon
-LEONINE, servant to Dionyza
-A LORD of Tarsus
-Three PIRATES
-SIMONIDES, king of Pentapolis
-Three FISHERMEN
-MARSHAL
-Five KNIGHTS, suitors for the hand of Thaisa
-LORDS of Pentapolis
-LYCHORIDA, attendant to Thaisa and, later, to Marina
-Two SAILORS, mariners onboard ship from Pentapolis
-LORD CERIMON, a wiseman/physician in Ephesus
-PHILEMON, servant to Cerimon
-Two SUPPLIANTS
-Two GENTLEMEN of Ephesus
-SERVANT
-DIANA, goddess of chastity
-LYSIMACHUS, governor of Mytilene
-PANDER, owner of brothel
-BAWD, mistress of brothel and wife to Pander
-BOLT, servant to Pander and Bawd
-Two GENTLEMEN, visitors to brothel
-Tyrian SAILOR
-SAILOR from Mytilene
-GENTLEMAN of Tyre
-LORD of Mytilene
-Followers of Antiochus, Attendants to Pericles, Attendants to Simonides, Squires to the five Knights, Tyrian gentlemen, Citizens of Tarsus, Ladies of Pentapolis, Servants to Cerimon, Companion to Marina, Priestesses in Diana's temple, Messenger from Tyre
-
-
-<b id="act-1" class="act-header">Act 1</b>
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
 1 Chorus
 <hr>
 [<i>Enter Gower.</i>]
 
-<speaker>GOWER</speaker>
+GOWER
 To sing a song that old was sung,
 From ashes ancient Gower is come,
 Assuming man's infirmities
@@ -178,7 +134,7 @@ So I bequeath a happy peace to you
 And all good men, as every prince should do;
 My riches to the earth from whence they came,
 [<i>To the Daughter.</i>]
-But my unspotted fire of love to
+ But my unspotted fire of love to
 you.--
 Thus ready for the way of life or death,
 I wait the sharpest blow.
@@ -197,16 +153,16 @@ Like a bold champion I assume the lists,
 Nor ask advice of any other thought
 But faithfulness and courage.
 [<i>He reads the Riddle:</i>]
-I am no viper, yet I feed
-On mother's flesh which did me breed.
-I sought a husband, in which labor
-I found that kindness in a father.
-He's father, son, and husband mild;
-I mother, wife, and yet his child.
-How they may be, and yet in two,
-As you will live resolve it you.
+	I am no viper, yet I feed
+	On mother's flesh which did me breed.
+	I sought a husband, in which labor
+	I found that kindness in a father.
+	He's father, son, and husband mild;
+	I mother, wife, and yet his child.
+	How they may be, and yet in two,
+	As you will live resolve it you.
 [<i>Aside.</i>]
-Sharp physic is the last! But, O you powers
+ Sharp physic is the last! But, O you powers
 That gives heaven countless eyes to view men's acts,
 Why cloud they not their sights perpetually
 If this be true which makes me pale to read it?
@@ -316,7 +272,7 @@ To your secrecy; and for your faithfulness
 We will advance you, Thaliard. Behold,
 Here's poison, and here's gold. [<i>He gives poison and
 money.</i>]
-We hate the Prince
+ We hate the Prince
 Of Tyre, and thou must kill him. It fits thee not
 To ask the reason why: because we bid it.
 Say, is it done?
@@ -336,7 +292,7 @@ My lord, Prince Pericles is fled. [<i>He exits.</i>]
 
 <speaker>ANTIOCHUS,</speaker>
 [<i>to Thaliard</i>]
-As thou wilt live, fly after,
+  As thou wilt live, fly after,
 and like an arrow shot from a well-experienced
 archer hits the mark his eye doth level at, so thou
 never return unless thou say Prince Pericles is
@@ -358,7 +314,7 @@ My heart can lend no succor to my head.
 
 <speaker>PERICLES</speaker>
 Let none disturb us. [<i>(Attendant exits.)</i>]
-Why should
+ Why should
 this change of thoughts,
 The sad companion dull-eyed Melancholy,
 Be my so used a guest as not an hour
@@ -557,7 +513,7 @@ Does speak sufficiently he's gone to travel.
 
 <speaker>THALIARD,</speaker>
 [<i>aside</i>]
-How? The King gone?
+  How? The King gone?
 
 <speaker>HELICANUS</speaker>
 If further yet you will be satisfied
@@ -567,7 +523,7 @@ Being at Antioch--
 
 <speaker>THALIARD,</speaker>
 [<i>aside</i>]
-What from Antioch?
+  What from Antioch?
 
 <speaker>HELICANUS</speaker>
 Royal Antiochus, on what cause I know not,
@@ -579,7 +535,7 @@ With whom each minute threatens life or death.
 
 <speaker>THALIARD,</speaker>
 [<i>aside</i>]
-Well, I perceive I shall not be hanged
+  Well, I perceive I shall not be hanged
 now, although I would; but since he's gone, the
 King's ears it must please. He 'scaped the land to
 perish at the sea. I'll present myself.--Peace to the
@@ -889,7 +845,7 @@ church, steeple, bells and all.
 
 <speaker>PERICLES,</speaker>
 [<i>aside</i>]
-A pretty moral.
+  A pretty moral.
 
 <speaker>THIRD FISHERMAN</speaker>
 But, master, if I had been the sexton,
@@ -908,7 +864,7 @@ were of my mind--
 
 <speaker>PERICLES,</speaker>
 [<i>aside</i>]
-Simonides?
+  Simonides?
 
 <speaker>THIRD FISHERMAN</speaker>
 We would purge the land of these
@@ -947,7 +903,7 @@ than we can do with working.
 
 <speaker>SECOND FISHERMAN,</speaker>
 [<i>to Pericles</i>]
-Canst thou catch any
+  Canst thou catch any
 fishes, then?
 
 <speaker>PERICLES</speaker>
@@ -971,7 +927,7 @@ For that I am a man, pray you see me buried.
 Die, quotha? Now gods forbid 't, an I
 have a gown. Here, come, put it on; keep thee
 warm. [<i>Pericles puts on the garment.</i>]
-Now, afore
+ Now, afore
 me, a handsome fellow! Come, thou shalt go home,
 and we'll have flesh for holidays, fish for fasting
 days, and, moreo'er, puddings and flapjacks, and
@@ -1273,7 +1229,7 @@ You are princes and my guests.
 
 <speaker>THAISA,</speaker>
 [<i>to Pericles</i>]
-But you my knight and guest,
+  But you my knight and guest,
 To whom this wreath of victory I give
 And crown you king of this day's happiness.
 [<i>She places a wreath on Pericles' head.</i>]
@@ -1300,7 +1256,7 @@ For who hates honor hates the gods above.
 
 <speaker>MARSHAL,</speaker>
 [<i>to Pericles</i>]
-Sir, yonder is your place.
+  Sir, yonder is your place.
 
 <speaker>PERICLES</speaker>
 Some other is more fit.
@@ -1316,7 +1272,7 @@ You are right courteous knights.
 <speaker>SIMONIDES</speaker>
 Sit, sir, sit. [<i>They sit.</i>]
 [<i>Aside.</i>]
-By Jove I wonder, that is king of thoughts,
+ By Jove I wonder, that is king of thoughts,
 These cates resist me, he not thought upon.
 
 <speaker>THAISA,</speaker>
@@ -1459,11 +1415,11 @@ Of your fair courtesy.	[<i>They dance.</i>]
 Unclasp, unclasp!
 Thanks, gentlemen, to all; all have done well;
 [<i>To Pericles.</i>]
-But you the best.--Pages and lights, to
+ But you the best.--Pages and lights, to
 conduct
 These knights unto their several lodgings. [<i>To
 Pericles.</i>]
-Yours, sir,
+ Yours, sir,
 We have given order be next our own.
 
 <speaker>PERICLES</speaker>
@@ -1664,7 +1620,7 @@ She thinks not so. Peruse this writing else.
 
 <speaker>PERICLES,</speaker>
 [<i>aside</i>]
-What's here?
+  What's here?
 A letter that she loves the knight of Tyre?
 'Tis the King's subtlety to have my life.--
 O, seek not to entrap me, gracious lord,
@@ -1726,12 +1682,12 @@ At that would make me glad?
 <speaker>SIMONIDES</speaker>
 Yea, mistress, are you so peremptory?
 [<i>(Aside.)</i>]
-I am glad on 't with all my heart.--
+ I am glad on 't with all my heart.--
 I'll tame you! I'll bring you in subjection.
 Will you, not having my consent,
 Bestow your love and your affections
 Upon a stranger? [<i>(Aside.)</i>]
-Who, for aught I know,
+ Who, for aught I know,
 May be--nor can I think the contrary--
 As great in blood as I myself.--
 Therefore, hear you, mistress: either frame
@@ -1745,7 +1701,7 @@ What, are you both pleased?
 
 <speaker>THAISA</speaker>
 Yes, [<i>(to Pericles)</i>]
-if you love me, sir.
+ if you love me, sir.
 
 <speaker>PERICLES</speaker>
 Even as my life my blood that fosters it.
@@ -1893,7 +1849,7 @@ Even for this charge.	[<i>She hands him the infant.</i>]
 
 <speaker>PERICLES,</speaker>
 [<i>to the infant</i>]
-Now mild may be thy life,
+  Now mild may be thy life,
 For a more blusterous birth had never babe.
 Quiet and gentle thy conditions, for
 Thou art the rudeliest welcome to this world
@@ -2012,7 +1968,7 @@ Till now, I ne'er endured.
 Your master will be dead ere you return.
 There's nothing can be ministered to nature
 That can recover him. [<i>To Second Suppliant.</i>]
-Give
+ Give
 this to the 'pothecary,
 And tell me how it works.	[<i>Suppliants exit.</i>]
 
@@ -2134,14 +2090,14 @@ Shrouded in cloth of state, balmed and entreasured
 With full bags of spices. A passport too!
 Apollo, perfect me in the characters.
 [<i>He reads.</i>]
-Here I give to understand,
-If e'er this coffin drives aland,
-I, King Pericles, have lost
-This queen, worth all our mundane cost.
-Who finds her, give her burying.
-She was the daughter of a king.
-Besides this treasure for a fee,
-The gods requite his charity.
+	Here I give to understand,
+	If e'er this coffin drives aland,
+	I, King Pericles, have lost
+	This queen, worth all our mundane cost.
+	Who finds her, give her burying.
+	She was the daughter of a king.
+	Besides this treasure for a fee,
+	The gods requite his charity.
 If thou livest, Pericles, thou hast a heart
 That ever cracks for woe. This chanced tonight.
 
@@ -2165,7 +2121,7 @@ Who was by good appliance recovered.
 Well said, well said! The fire and cloths.
 The rough and woeful music that we have,
 Cause it to sound, beseech you. [<i>Music sounds.</i>]
-The
+ The
 viol once more!
 How thou stirr'st, thou block! The music there.
 [<i>Music sounds.</i>]
@@ -2795,7 +2751,7 @@ should lodge them with this sign.
 
 <speaker>BAWD,</speaker>
 [<i>to Marina</i>]
-Pray you, come hither awhile. You
+  Pray you, come hither awhile. You
 have fortunes coming upon you. Mark me: you
 must seem to do that fearfully which you commit
 willingly, despise profit where you have most gain.
@@ -2836,7 +2792,7 @@ Ay, by my faith, they shall not be changed yet.
 <speaker>BAWD</speaker>
 Bolt, spend thou that in the town. [<i>(She gives him
 money.)</i>]
-Report what a sojourner we have. You'll
+ Report what a sojourner we have. You'll
 lose nothing by custom. When Nature framed this
 piece, she meant thee a good turn. Therefore say
 what a paragon she is, and thou hast the harvest
@@ -2850,7 +2806,7 @@ tonight.
 
 <speaker>BAWD,</speaker>
 [<i>to Marina</i>]
-Come your ways. Follow me.
+  Come your ways. Follow me.
 
 <speaker>MARINA</speaker>
 If fires be hot, knives sharp, or waters deep,
@@ -2999,16 +2955,16 @@ And yet he rides it out. Now please you wit
 The epitaph is for Marina writ
 By wicked Dionyza:
 
-The fairest, sweetest, and best lies here,
-Who withered in her spring of year.
-She was of Tyrus, the King's daughter,
-On whom foul death hath made this slaughter.
-Marina was she called, and at her birth,
-Thetis, being proud, swallowed some part o' th' earth.
-Therefore the Earth, fearing to be o'erflowed,
-Hath Thetis' birth-child on the heavens bestowed.
-Wherefore she does--and swears she'll never stint--
-Make raging battery upon shores of flint.
+	The fairest, sweetest, and best lies here,
+	Who withered in her spring of year.
+	She was of Tyrus, the King's daughter,
+	On whom foul death hath made this slaughter.
+	Marina was she called, and at her birth,
+	Thetis, being proud, swallowed some part o' th' earth.
+	Therefore the Earth, fearing to be o'erflowed,
+	Hath Thetis' birth-child on the heavens bestowed.
+	Wherefore she does--and swears she'll never stint--
+	Make raging battery upon shores of flint.
 
 No visor does become black villainy
 So well as soft and tender flattery.
@@ -3081,7 +3037,7 @@ baggage would but give way to customers.
 
 <speaker>LYSIMACHUS,</speaker>
 [<i>removing his disguise</i>]
-How now! How a
+  How now! How a
 dozen of virginities?
 
 <speaker>BAWD</speaker>
@@ -3147,7 +3103,7 @@ I beseech you, do. [<i>He moves aside.</i>]
 
 <speaker>BAWD,</speaker>
 [<i>to Marina</i>]
-First, I would have you note this is
+  First, I would have you note this is
 an honorable man.
 
 <speaker>MARINA</speaker>
@@ -3174,7 +3130,7 @@ receive.
 
 <speaker>LYSIMACHUS,</speaker>
 [<i>coming forward</i>]
-Ha' you done?
+  Ha' you done?
 
 <speaker>BAWD</speaker>
 My lord, she's not paced yet. You must take some
@@ -3278,7 +3234,7 @@ Hear from me, it shall be for thy good.
 
 <speaker>BOLT,</speaker>
 [<i>at the door</i>]
-I beseech your Honor, one piece
+  I beseech your Honor, one piece
 for me.
 
 <speaker>LYSIMACHUS</speaker>
@@ -3432,29 +3388,29 @@ Come your ways.
 
 <speaker>GOWER</speaker>
 Marina thus the brothel 'scapes, and chances
-Into an honest house, our story says.
+   Into an honest house, our story says.
 She sings like one immortal, and she dances
-As goddesslike to her admired lays.
+   As goddesslike to her admired lays.
 Deep clerks she dumbs, and with her neele composes
-Nature's own shape, of bud, bird, branch, or berry,
+   Nature's own shape, of bud, bird, branch, or berry,
 That even her art sisters the natural roses.
-Her inkle, silk, twin with the rubied cherry,
+   Her inkle, silk, twin with the rubied cherry,
 That pupils lacks she none of noble race,
-Who pour their bounty on her, and her gain
+   Who pour their bounty on her, and her gain
 She gives the cursed bawd. Here we her place,
-And to her father turn our thoughts again,
+   And to her father turn our thoughts again,
 Where we left him, on the sea. We there him lost,
-Where, driven before the winds, he is arrived
+   Where, driven before the winds, he is arrived
 Here where his daughter dwells; and on this coast
-Suppose him now at anchor. The city strived
+   Suppose him now at anchor. The city strived
 God Neptune's annual feast to keep, from whence
-Lysimachus our Tyrian ship espies,
+   Lysimachus our Tyrian ship espies,
 His banners sable, trimmed with rich expense,
-And to him in his barge with fervor hies.
+   And to him in his barge with fervor hies.
 In your supposing once more put your sight
-Of heavy Pericles. Think this his bark,
+   Of heavy Pericles. Think this his bark,
 Where what is done in action--more, if might--
-Shall be discovered. Please you sit and hark.
+   Shall be discovered. Please you sit and hark.
 [<i>He exits.</i>]
 
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
@@ -3491,7 +3447,7 @@ I pray, greet him fairly.
 
 <speaker>SAILOR FROM MYTILENE,</speaker>
 [<i>to Lysimachus</i>]
-Sir,
+  Sir,
 This is the man that can, in aught you would,
 Resolve you.
 
@@ -3543,7 +3499,7 @@ Yet let me obtain my wish.
 
 <speaker>HELICANUS</speaker>
 Behold him. [<i>Pericles is revealed.</i>]
-This was a goodly
+ This was a goodly
 person,
 Till the disaster that one mortal night
 Drove him to this.
@@ -3640,7 +3596,7 @@ See, she will speak to him.
 
 <speaker>MARINA,</speaker>
 [<i>to Pericles</i>]
-Hail, sir! My lord, lend ear.
+  Hail, sir! My lord, lend ear.
 
 <speaker>PERICLES</speaker>
 Hum, ha! [<i>He pushes her away.</i>]
@@ -3657,7 +3613,7 @@ Who stood equivalent with mighty kings.
 But time hath rooted out my parentage,
 And to the world and awkward casualties
 Bound me in servitude. [<i>Aside.</i>]
-I will desist,
+ I will desist,
 But there is something glows upon my cheek,
 And whispers in mine ear "Go not till he speak."
 
@@ -3796,7 +3752,7 @@ Delivered weeping.
 <speaker>PERICLES</speaker>
 O, stop there a little!
 [<i>Aside.</i>]
-This is the rarest dream that e'er dull sleep
+ This is the rarest dream that e'er dull sleep
 Did mock sad fools withal. This cannot be
 My daughter, buried.--Well, where were you bred?
 I'll hear you more, to the bottom of your story,
@@ -3890,7 +3846,7 @@ Did come to see you.
 
 <speaker>PERICLES,</speaker>
 [<i>to Lysimachus</i>]
-I embrace you.--
+  I embrace you.--
 Give me my robes.--I am wild in my beholding.
 [<i>They put fresh garments on him.</i>]
 O heavens bless my girl! But hark, what music?
@@ -4097,7 +4053,7 @@ A second time within these arms!	[<i>They embrace.</i>]
 
 <speaker>MARINA,</speaker>
 [<i>kneeling</i>]
-My heart
+  My heart
 Leaps to be gone into my mother's bosom.
 
 <speaker>PERICLES</speaker>
@@ -4107,7 +4063,7 @@ For she was yielded there.
 
 <speaker>THAISA,</speaker>
 [<i>embracing Marina</i>]
-Blessed, and mine own!
+  Blessed, and mine own!
 
 <speaker>HELICANUS</speaker>
 Hail, madam, and my queen.

@@ -1,0 +1,24 @@
+HELEN, a gentlewoman of Rossillion
+BERTRAM, Count of Rossillion
+COUNTESS of Rossillion, Bertram&rsquo;s mother
+In the Countess&rsquo;s household:
+  STEWARD
+  FOOL
+  PAGE
+PAROLLES, companion to Bertram
+KING of France
+LAFEW, a French lord
+Later Captains in the army of the Duke of Florence:
+  FIRST LORD
+  SECOND LORD
+Other LORDS in the court of the King of France
+From the court of the King of France:
+  FIRST GENTLEMAN
+  SECOND GENTLEMAN
+  GENTLEMAN, a "&ldquo;gentle Astringer&rdquo;"
+FIRST SOLDIER, interpreter
+The DUKE of Florence
+A WIDOW of Florence
+DIANA, the Widow&rsquo;s daughter
+MARIANA, the Widow&rsquo;s neighbor
+Attendants, Soldiers, Citizens of Florence, Servants

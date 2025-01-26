@@ -6,57 +6,14 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/richard-ii/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-KING RICHARD II
-Richard's friends:
-Sir John BUSHY
-Sir John BAGOT
-Sir Henry GREEN
-Richard's QUEEN
-Queen's LADIES-IN-WAITING
-JOHN OF GAUNT, Duke of Lancaster
-HENRY BOLINGBROKE, Duke of HEREFORD, son to John of Gaunt, and later King Henry IV
-DUCHESS OF GLOUCESTER, widow to Thomas, Duke of Gloucester
-Edmund, DUKE OF YORK
-DUCHESS OF YORK
-DUKE OF AUMERLE, Earl of Rutland, son to Duke and Duchess of York
-York's SERVINGMEN
-Thomas MOWBRAY, Duke of Norfolk
-Officials in trial by combat:
-LORD MARSHAL
-FIRST HERALD
-SECOND HERALD
-Supporters of King Richard:
-EARL OF SALISBURY
-BISHOP OF CARLISLE
-SIR STEPHEN SCROOP
-LORD BERKELEY
-ABBOT OF WESTMINSTER
-WELSH CAPTAIN
-Supporters of Bolingbroke:
-Henry Percy, EARL OF NORTHUMBERLAND
-LORD ROSS
-LORD WILLOUGHBY
-HARRY PERCY, son of Northumberland, later known as "Hotspur"
-LORD FITZWATER
-DUKE OF SURREY
-ANOTHER LORD
-GARDENER
-Gardener's Servingmen
-GROOM of Richard's stable
-KEEPER of prison at Pomfret Castle
-SIR PIERCE OF EXTON
-Servingmen to Exton
-Lords, Attendants, Officers, Soldiers, Servingmen, Exton's Men
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter King Richard, John of Gaunt, with other Nobles
 and Attendants.</i>]
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Old John of Gaunt, time-honored Lancaster,
 Hast thou, according to thy oath and band,
 Brought hither Henry Hereford, thy bold son,
@@ -64,21 +21,20 @@ Here to make good the boist'rous late appeal,
 Which then our leisure would not let us hear,
 Against the Duke of Norfolk, Thomas Mowbray?
 
-<speaker>GAUNT</speaker>
-I have, my liege.
+GAUNT  I have, my liege.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Tell me, moreover, hast thou sounded him
 If he appeal the Duke on ancient malice
 Or worthily, as a good subject should,
 On some known ground of treachery in him?
 
-<speaker>GAUNT</speaker>
+GAUNT
 As near as I could sift him on that argument,
 On some apparent danger seen in him
 Aimed at your Highness, no inveterate malice.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Then call them to our presence.
 [<i>An Attendant exits.</i>]
 Face to face
@@ -89,23 +45,23 @@ In rage deaf as the sea, hasty as fire.
 
 [<i>Enter Bolingbroke and Mowbray.</i>]
 
-<speaker>BOLINGBROKE</speaker>
+BOLINGBROKE
 Many years of happy days befall
 My gracious sovereign, my most loving liege.
 
-<speaker>MOWBRAY</speaker>
+MOWBRAY
 Each day still better other's happiness
 Until the heavens, envying earth's good hap,
 Add an immortal title to your crown.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 We thank you both. Yet one but flatters us,
 As well appeareth by the cause you come:
 Namely, to appeal each other of high treason.
 Cousin of Hereford, what dost thou object
 Against the Duke of Norfolk, Thomas Mowbray?
 
-<speaker>BOLINGBROKE</speaker>
+BOLINGBROKE
 First--heaven be the record to my speech!--
 In the devotion of a subject's love,
 Tend'ring the precious safety of my prince
@@ -125,7 +81,7 @@ And wish, so please my sovereign, ere I move,
 What my tongue speaks my right-drawn sword may
 prove.
 
-<speaker>MOWBRAY</speaker>
+MOWBRAY
 Let not my cold words here accuse my zeal.
 'Tis not the trial of a woman's war,
 The bitter clamor of two eager tongues,
@@ -149,8 +105,7 @@ Wherever Englishman durst set his foot.
 Meantime let this defend my loyalty:
 By all my hopes, most falsely doth he lie.
 
-<speaker>BOLINGBROKE,</speaker>
-[<i>throwing down a gage</i>]
+BOLINGBROKE, [<i>throwing down a gage</i>]
 Pale trembling coward, there I throw my gage,
 Disclaiming here the kindred of the King,
 And lay aside my high blood's royalty,
@@ -161,8 +116,7 @@ By that and all the rites of knighthood else
 Will I make good against thee, arm to arm,
 What I have spoke or thou canst worse devise.
 
-<speaker>MOWBRAY,</speaker>
-[<i>picking up the gage</i>]
+MOWBRAY, [<i>picking up the gage</i>]
 I take it up, and by that sword I swear
 Which gently laid my knighthood on my shoulder,
 I'll answer thee in any fair degree
@@ -170,12 +124,12 @@ Or chivalrous design of knightly trial;
 And when I mount, alive may I not light
 If I be traitor or unjustly fight.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 What doth our cousin lay to Mowbray's charge?
 It must be great that can inherit us
 So much as of a thought of ill in him.
 
-<speaker>BOLINGBROKE</speaker>
+BOLINGBROKE
 Look what I speak, my life shall prove it true:
 That Mowbray hath received eight thousand nobles
 In name of lendings for your Highness' soldiers,
@@ -201,17 +155,17 @@ To me for justice and rough chastisement.
 And, by the glorious worth of my descent,
 This arm shall do it, or this life be spent.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 How high a pitch his resolution soars!--
 Thomas of Norfolk, what sayst thou to this?
 
-<speaker>MOWBRAY</speaker>
+MOWBRAY
 O, let my sovereign turn away his face
 And bid his ears a little while be deaf,
 Till I have told this slander of his blood
 How God and good men hate so foul a liar.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Mowbray, impartial are our eyes and ears.
 Were he my brother, nay, my kingdom's heir,
 As he is but my father's brother's son,
@@ -222,7 +176,7 @@ The unstooping firmness of my upright soul.
 He is our subject, Mowbray; so art thou.
 Free speech and fearless I to thee allow.
 
-<speaker>MOWBRAY</speaker>
+MOWBRAY
 Then, Bolingbroke, as low as to thy heart,
 Through the false passage of thy throat, thou liest.
 Three parts of that receipt I had for Calais
@@ -254,7 +208,7 @@ In haste whereof most heartily I pray
 Your Highness to assign our trial day.
 [<i>Bolingbroke picks up the gage.</i>]
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Wrath-kindled gentlemen, be ruled by me.
 Let's purge this choler without letting blood.
 This we prescribe, though no physician.
@@ -264,21 +218,20 @@ Our doctors say this is no month to bleed.--
 Good uncle, let this end where it begun;
 We'll calm the Duke of Norfolk, you your son.
 
-<speaker>GAUNT</speaker>
+GAUNT
 To be a make-peace shall become my age.--
 Throw down, my son, the Duke of Norfolk's gage.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 And, Norfolk, throw down his.
 
-<speaker>GAUNT</speaker>
-When, Harry, when?
+GAUNT  When, Harry, when?
 Obedience bids I should not bid again.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 Norfolk, throw down, we bid; there is no boot.
 
-<speaker>MOWBRAY</speaker>
+MOWBRAY
 Myself I throw, dread sovereign, at thy foot.
 [<i>Mowbray kneels.</i>]
 My life thou shalt command, but not my shame.
@@ -290,12 +243,10 @@ Pierced to the soul with slander's venomed spear,
 The which no balm can cure but his heart-blood
 Which breathed this poison.
 
-<speaker>KING RICHARD</speaker>
-Rage must be withstood.
+KING RICHARD  Rage must be withstood.
 Give me his gage. Lions make leopards tame.
 
-<speaker>MOWBRAY,</speaker>
-[<i>standing</i>]
+MOWBRAY, [<i>standing</i>]
 Yea, but not change his spots. Take but my shame
 And I resign my gage. My dear dear lord,
 The purest treasure mortal times afford
@@ -308,11 +259,10 @@ Take honor from me and my life is done.
 Then, dear my liege, mine honor let me try.
 In that I live, and for that will I die.
 
-<speaker>KING RICHARD,</speaker>
-[<i>to Bolingbroke</i>]
+KING RICHARD, [<i>to Bolingbroke</i>]
 Cousin, throw up your gage. Do you begin.
 
-<speaker>BOLINGBROKE</speaker>
+BOLINGBROKE
 O, God defend my soul from such deep sin!
 Shall I seem crestfallen in my father's sight?
 Or with pale beggar-fear impeach my height
@@ -323,7 +273,7 @@ The slavish motive of recanting fear
 And spit it bleeding in his high disgrace,
 Where shame doth harbor, even in Mowbray's face.
 
-<speaker>KING RICHARD</speaker>
+KING RICHARD
 We were not born to sue, but to command,
 Which, since we cannot do, to make you friends,
 Be ready, as your lives shall answer it,
@@ -625,13 +575,13 @@ Stay! The King hath thrown his warder down.
 Let them lay by their helmets and their spears,
 And both return back to their chairs again.
 [<i>To his council.</i>]
-Withdraw with us, and let the
+ Withdraw with us, and let the
 trumpets sound
 While we return these dukes what we decree.
 [<i>Trumpets sound while Richard consults with Gaunt
 and other Nobles.</i>]
 [<i>To Bolingbroke and Mowbray.</i>]
-Draw near,
+ Draw near,
 And list what with our council we have done.
 For that our kingdom's earth should not be soiled
 With that dear blood which it hath fostered;
@@ -703,7 +653,7 @@ To dwell in solemn shades of endless night.
 <speaker>KING RICHARD</speaker>
 Return again, and take an oath with thee.
 [<i>To Mowbray and Bolingbroke.</i>]
-Lay on our royal
+ Lay on our royal
 sword your banished hands.
 [<i>They place their right hands on the hilts of
 Richard's sword.</i>]
@@ -752,7 +702,7 @@ Uncle, even in the glasses of thine eyes
 I see thy grieved heart. Thy sad aspect
 Hath from the number of his banished years
 Plucked four away. [<i>To Bolingbroke.</i>]
-Six frozen
+ Six frozen
 winters spent,
 Return with welcome home from banishment.
 
@@ -1032,10 +982,10 @@ vain,
 For they breathe truth that breathe their words in
 pain.
 He that no more must say is listened more
-Than they whom youth and ease have taught to
-gloze.
+   Than they whom youth and ease have taught to
+   gloze.
 More are men's ends marked than their lives before.
-The setting sun and music at the close,
+   The setting sun and music at the close,
 As the last taste of sweets, is sweetest last,
 Writ in remembrance more than things long past.
 Though Richard my life's counsel would not hear,
@@ -1636,7 +1586,7 @@ And duty bids defend; t' other again
 Is my kinsman, whom the King hath wronged,
 Whom conscience and my kindred bids to right.
 Well, somewhat we must do. [<i>To Queen.</i>]
-Come,
+ Come,
 cousin,
 I'll dispose of you.--Gentlemen, go muster up your
 men
@@ -1861,7 +1811,7 @@ Whose duty is deceivable and false.
 
 <speaker>BOLINGBROKE,</speaker>
 [<i>standing</i>]
-My gracious uncle--
+  My gracious uncle--
 
 <speaker>YORK</speaker>
 Tut, tut!
@@ -2067,7 +2017,7 @@ And plague injustice with the pains of hell.
 <speaker>BOLINGBROKE</speaker>
 My Lord Northumberland, see them dispatched.	[<i>Northumberland exits with Bushy and Green.</i>]
 [<i>To York.</i>]
-Uncle, you say the Queen is at your
+ Uncle, you say the Queen is at your
 house.
 For God's sake, fairly let her be entreated.
 Tell her I send to her my kind commends.
@@ -2185,9 +2135,9 @@ Comfort, my liege. Why looks your Grace so pale?
 
 <speaker>KING RICHARD</speaker>
 But now the blood of twenty thousand men
-Did triumph in my face, and they are fled;
+   Did triumph in my face, and they are fled;
 And till so much blood thither come again
-Have I not reason to look pale and dead?
+   Have I not reason to look pale and dead?
 All souls that will be safe, fly from my side,
 For time hath set a blot upon my pride.
 
@@ -2343,9 +2293,9 @@ Speak sweetly, man, although thy looks be sour.
 
 <speaker>SCROOP</speaker>
 Men judge by the complexion of the sky
-The state and inclination of the day;
+   The state and inclination of the day;
 So may you by my dull and heavy eye.
-My tongue hath but a heavier tale to say.
+   My tongue hath but a heavier tale to say.
 I play the torturer by small and small
 To lengthen out the worst that must be spoken.
 Your uncle York is joined with Bolingbroke,
@@ -2356,7 +2306,7 @@ Upon his party.
 <speaker>KING RICHARD</speaker>
 Thou hast said enough.
 [<i>To Aumerle.</i>]
-Beshrew thee, cousin, which didst
+ Beshrew thee, cousin, which didst
 lead me forth
 Of that sweet way I was in to despair.
 What say you now? What comfort have we now?
@@ -2444,7 +2394,7 @@ O, belike it is the Bishop of Carlisle.
 
 <speaker>BOLINGBROKE,</speaker>
 [<i>to Northumberland</i>]
-Noble lord,
+  Noble lord,
 Go to the rude ribs of that ancient castle,
 Through brazen trumpet send the breath of parley
 Into his ruined ears, and thus deliver:
@@ -2556,7 +2506,7 @@ With all the gracious utterance thou hast,
 Speak to his gentle hearing kind commends.
 [<i>Northumberland returns to Bolingbroke.</i>]
 [<i>To Aumerle.</i>]
-We do debase ourselves, cousin, do
+ We do debase ourselves, cousin, do
 we not,
 To look so poorly and to speak so fair?
 Shall we call back Northumberland and send
@@ -2657,7 +2607,7 @@ Me rather had my heart might feel your love
 Than my unpleased eye see your courtesy.
 Up, cousin, up. Your heart is up, I know,
 Thus high at least [<i>indicating his crown,</i>]
-although
+ although
 your knee be low.
 
 <speaker>BOLINGBROKE,</speaker>
@@ -3493,7 +3443,7 @@ Doubly divorced! Bad men, you violate
 A twofold marriage--twixt my crown and me,
 And then betwixt me and my married wife.
 [<i>To Queen.</i>]
-Let me unkiss the oath twixt thee and
+ Let me unkiss the oath twixt thee and
 me;
 And yet not so, for with a kiss 'twas made.--
 Part us, Northumberland, I towards the north,
@@ -3860,7 +3810,7 @@ Thou hast a traitor in thy presence there.
 
 <speaker>KING HENRY,</speaker>
 [<i>to Aumerle</i>]
-Villain, I'll make thee safe.
+  Villain, I'll make thee safe.
 [<i>He draws his sword.</i>]
 
 <speaker>AUMERLE</speaker>
@@ -4010,7 +3960,7 @@ Dost thou teach pardon pardon to destroy?
 Ah, my sour husband, my hard-hearted lord,
 That sets the word itself against the word!
 [<i>To King Henry.</i>]
-Speak "pardon" as 'tis current in
+ Speak "pardon" as 'tis current in
 our land;
 The chopping French we do not understand.
 Thine eye begins to speak; set thy tongue there,
@@ -4131,7 +4081,7 @@ And straight am nothing. But whate'er I be,
 Nor I nor any man that but man is
 With nothing shall be pleased till he be eased
 With being nothing. [<i>(The music plays.)</i>]
-Music do I
+ Music do I
 hear?
 Ha, ha, keep time! How sour sweet music is
 When time is broke and no proportion kept.

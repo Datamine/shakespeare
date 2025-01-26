@@ -6,58 +6,28 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/king-john/
 Created on Oct 4, 2017, from FDT version 0.9.2.2`;
 
-export const text = `Characters in the Play
-<hr>
-JOHN, King of England, with dominion over assorted Continental territories
-QUEEN ELEANOR, King John's mother, widow of King Henry II
-BLANCHE of Spain, niece to King John
-PRINCE HENRY, son to King John
-CONSTANCE, widow of Geoffrey, King John's elder brother
-ARTHUR, Duke of Brittany, her son
-KING PHILIP II of France
-LOUIS THE DAUPHIN, his son
-DUKE OF AUSTRIA (also called LIMOGES)
-CHATILLION, ambassador from France to King John
-COUNT MELUN
-A FRENCH HERALD
-CARDINAL PANDULPH, Papal Legate
-LADY FAULCONBRIDGE
-The BASTARD, PHILIP FAULCONBRIDGE, her son by King Richard I
-ROBERT FAULCONBRIDGE, her son by Sir Robert Faulconbridge
-JAMES GURNEY, her servant
-HUBERT, supporter of King John
-English nobles:
-EARL OF SALISBURY
-EARL OF PEMBROKE
-EARL OF ESSEX
-LORD BIGOT
-A CITIZEN of Angiers
-PETER of Pomfret, a Prophet
-An ENGLISH HERALD
-EXECUTIONERS
-English MESSENGER, French MESSENGER, Sheriff, Lords, Soldiers, Attendants
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter King John, Queen Eleanor, Pembroke, Essex, and
 Salisbury, with the Chatillion of France.</i>]
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Now say, Chatillion, what would France with us?
 
-<speaker>CHATILLION</speaker>
+CHATILLION
 Thus, after greeting, speaks the King of France
 In my behavior to the majesty,
 The borrowed majesty, of England here.
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 A strange beginning: "borrowed majesty"!
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Silence, good mother. Hear the embassy.
 
-<speaker>CHATILLION</speaker>
+CHATILLION
 Philip of France, in right and true behalf
 Of thy deceased brother Geoffrey's son,
 Arthur Plantagenet, lays most lawful claim
@@ -68,22 +38,22 @@ Which sways usurpingly these several titles,
 And put the same into young Arthur's hand,
 Thy nephew and right royal sovereign.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 What follows if we disallow of this?
 
-<speaker>CHATILLION</speaker>
+CHATILLION
 The proud control of fierce and bloody war,
 To enforce these rights so forcibly withheld.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Here have we war for war and blood for blood,
 Controlment for controlment: so answer France.
 
-<speaker>CHATILLION</speaker>
+CHATILLION
 Then take my king's defiance from my mouth,
 The farthest limit of my embassy.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Bear mine to him, and so depart in peace.
 Be thou as lightning in the eyes of France,
 For ere thou canst report, I will be there;
@@ -94,8 +64,7 @@ An honorable conduct let him have.
 Pembroke, look to 't.--Farewell, Chatillion.
 [<i>Chatillion and Pembroke exit.</i>]
 
-<speaker>QUEEN ELEANOR,</speaker>
-[<i>aside to King John</i>]
+QUEEN ELEANOR, [<i>aside to King John</i>]
 What now, my son! Have I not ever said
 How that ambitious Constance would not cease
 Till she had kindled France and all the world
@@ -105,12 +74,10 @@ With very easy arguments of love,
 Which now the manage of two kingdoms must
 With fearful bloody issue arbitrate.
 
-<speaker>KING JOHN,</speaker>
-[<i>aside to Queen Eleanor</i>]
+KING JOHN, [<i>aside to Queen Eleanor</i>]
 Our strong possession and our right for us.
 
-<speaker>QUEEN ELEANOR,</speaker>
-[<i>aside to King John</i>]
+QUEEN ELEANOR, [<i>aside to King John</i>]
 Your strong possession much more than your right,
 Or else it must go wrong with you and me--
 So much my conscience whispers in your ear,
@@ -118,13 +85,12 @@ Which none but God and you and I shall hear.
 
 [<i>Enter a Sheriff, who speaks aside to Essex.</i>]
 
-<speaker>ESSEX</speaker>
+ESSEX
 My liege, here is the strangest controversy
 Come from the country to be judged by you
 That e'er I heard. Shall I produce the men?
 
-<speaker>KING JOHN</speaker>
-Let them approach. [<i>Sheriff exits.</i>]
+KING JOHN  Let them approach.	[<i>Sheriff exits.</i>]
 Our abbeys and our priories shall pay
 This expedition's charge.
 
@@ -132,48 +98,47 @@ This expedition's charge.
 
 What men are you?
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 Your faithful subject I, a gentleman,
 Born in Northamptonshire, and eldest son,
 As I suppose, to Robert Faulconbridge,
 A soldier, by the honor-giving hand
 Of Coeur de Lion knighted in the field.
 
-<speaker>KING JOHN,</speaker>
-[<i>to Robert Faulconbridge</i>]
-What art thou?
+KING JOHN, [<i>to Robert Faulconbridge</i>]
+ - What art thou?
 
-<speaker>ROBERT FAULCONBRIDGE</speaker>
+ROBERT FAULCONBRIDGE
 The son and heir to that same Faulconbridge.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Is that the elder, and art thou the heir?
 You came not of one mother then, it seems.
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 Most certain of one mother, mighty king--
 That is well known--and, as I think, one father.
 But for the certain knowledge of that truth
 I put you o'er to heaven and to my mother.
 Of that I doubt, as all men's children may.
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 Out on thee, rude man! Thou dost shame thy
 mother
 And wound her honor with this diffidence.
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 I, madam? No, I have no reason for it.
 That is my brother's plea, and none of mine,
 The which if he can prove, he pops me out
 At least from fair five hundred pound a year.
 Heaven guard my mother's honor and my land!
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 A good blunt fellow.--Why, being younger born,
 Doth he lay claim to thine inheritance?
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 I know not why, except to get the land.
 But once he slandered me with bastardy.
 But whe'er I be as true begot or no,
@@ -186,38 +151,36 @@ And were our father, and this son like him,
 O, old Sir Robert, father, on my knee
 I give heaven thanks I was not like to thee!
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Why, what a madcap hath heaven lent us here!
 
-<speaker>QUEEN ELEANOR,</speaker>
-[<i>aside to King John</i>]
+QUEEN ELEANOR, [<i>aside to King John</i>]
 He hath a trick of Coeur de Lion's face;
 The accent of his tongue affecteth him.
 Do you not read some tokens of my son
 In the large composition of this man?
 
-<speaker>KING JOHN,</speaker>
-[<i>aside to Queen Eleanor</i>]
+KING JOHN, [<i>aside to Queen Eleanor</i>]
 Mine eye hath well examined his parts
 And finds them perfect Richard. [<i>To Robert
 Faulconbridge</i>]
-Sirrah, speak.
+ - Sirrah, speak.
 What doth move you to claim your brother's land?
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 Because he hath a half-face, like my father.
 With half that face would he have all my land--
 A half-faced groat five hundred pound a year!
 
-<speaker>ROBERT FAULCONBRIDGE</speaker>
+ROBERT FAULCONBRIDGE
 My gracious liege, when that my father lived,
 Your brother did employ my father much--
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 Well, sir, by this you cannot get my land.
 Your tale must be how he employed my mother.
 
-<speaker>ROBERT FAULCONBRIDGE</speaker>
+ROBERT FAULCONBRIDGE
 And once dispatched him in an embassy
 To Germany, there with the Emperor
 To treat of high affairs touching that time.
@@ -236,7 +199,7 @@ Full fourteen weeks before the course of time.
 Then, good my liege, let me have what is mine,
 My father's land, as was my father's will.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 Sirrah, your brother is legitimate.
 Your father's wife did after wedlock bear him,
 An if she did play false, the fault was hers,
@@ -252,21 +215,21 @@ Being none of his, refuse him. This concludes:
 My mother's son did get your father's heir;
 Your father's heir must have your father's land.
 
-<speaker>ROBERT FAULCONBRIDGE</speaker>
+ROBERT FAULCONBRIDGE
 Shall then my father's will be of no force
 To dispossess that child which is not his?
 
-<speaker>PHILIP FAULCONBRIDGE</speaker>
+PHILIP FAULCONBRIDGE
 Of no more force to dispossess me, sir,
 Than was his will to get me, as I think.
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 Whether hadst thou rather: be a Faulconbridge
 And, like thy brother, to enjoy thy land,
 Or the reputed son of Coeur de Lion,
 Lord of thy presence, and no land besides?
 
-<speaker>BASTARD</speaker>
+BASTARD
 Madam, an if my brother had my shape
 And I had his, Sir Robert's his like him,
 And if my legs were two such riding-rods,
@@ -279,31 +242,30 @@ Would I might never stir from off this place,
 I would give it every foot to have this face.
 I would not be Sir Nob in any case.
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 I like thee well. Wilt thou forsake thy fortune,
 Bequeath thy land to him, and follow me?
 I am a soldier and now bound to France.
 
-<speaker>BASTARD</speaker>
+BASTARD
 Brother, take you my land. I'll take my chance.
 Your face hath got five hundred pound a year,
 Yet sell your face for five pence and 'tis dear.--
 Madam, I'll follow you unto the death.
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 Nay, I would have you go before me thither.
 
-<speaker>BASTARD</speaker>
+BASTARD
 Our country manners give our betters way.
 
-<speaker>KING JOHN</speaker>
-What is thy name?
+KING JOHN  What is thy name?
 
-<speaker>BASTARD</speaker>
+BASTARD
 Philip, my liege, so is my name begun,
 Philip, good old Sir Robert's wife's eldest son.
 
-<speaker>KING JOHN</speaker>
+KING JOHN
 From henceforth bear his name whose form thou
 bearest.
 Kneel thou down Philip, but rise more great.
@@ -311,35 +273,33 @@ Kneel thou down Philip, but rise more great.
 tapping him on the shoulder with his sword.</i>]
 Arise Sir Richard and Plantagenet.
 
-<speaker>BASTARD,</speaker>
-[<i>rising, to Robert Faulconbridge</i>]
+BASTARD, [<i>rising, to Robert Faulconbridge</i>]
 Brother by th' mother's side, give me your hand.
 My father gave me honor, yours gave land.
 Now blessed be the hour, by night or day,
 When I was got, Sir Robert was away!
 
-<speaker>QUEEN ELEANOR</speaker>
+QUEEN ELEANOR
 The very spirit of Plantagenet!
 I am thy grandam, Richard. Call me so.
 
-<speaker>BASTARD</speaker>
+BASTARD
 Madam, by chance but not by truth. What though?
 Something about, a little from the right,
-In at the window, or else o'er the hatch.
+ - In at the window, or else o'er the hatch.
 Who dares not stir by day must walk by night,
-And have is have, however men do catch.
+ - And have is have, however men do catch.
 Near or far off, well won is still well shot,
 And I am I, howe'er I was begot.
 
-<speaker>KING JOHN,</speaker>
-[<i>to Robert Faulconbridge</i>]
+KING JOHN, [<i>to Robert Faulconbridge</i>]
 Go, Faulconbridge, now hast thou thy desire.
 A landless knight makes thee a landed squire.--
 Come, madam,--and come, Richard. We must
 speed
 For France, for France, for it is more than need.
 
-<speaker>BASTARD</speaker>
+BASTARD
 Brother, adieu, good fortune come to thee,
 For thou wast got i' th' way of honesty.
 [<i>All but Bastard exit.</i>]
@@ -356,11 +316,9 @@ And when my knightly stomach is sufficed,
 Why then I suck my teeth and catechize
 My picked man of countries: "My dear sir,"
 Thus leaning on mine elbow I begin,
-<speaker>"I</speaker>
-shall beseech you"--that is Question now,
+"I shall beseech you"--that is Question now,
 And then comes Answer like an absey-book:
-<speaker>"O,</speaker>
-sir," says Answer, "at your best command,
+"O, sir," says Answer, "at your best command,
 At your employment, at your service, sir."
 "No, sir," says Question, "I, sweet sir, at yours."
 And so, ere Answer knows what Question would,
@@ -389,28 +347,27 @@ That will take pains to blow a horn before her?
 O me, 'tis my mother.--How now, good lady?
 What brings you here to court so hastily?
 
-<speaker>LADY FAULCONBRIDGE</speaker>
+LADY FAULCONBRIDGE
 Where is that slave thy brother? Where is he
 That holds in chase mine honor up and down?
 
-<speaker>BASTARD</speaker>
+BASTARD
 My brother Robert, old Sir Robert's son?
 Colbrand the Giant, that same mighty man?
 Is it Sir Robert's son that you seek so?
 
-<speaker>LADY FAULCONBRIDGE</speaker>
+LADY FAULCONBRIDGE
 "Sir Robert's son"? Ay, thou unreverent boy,
 Sir Robert's son. Why scorn'st thou at Sir Robert?
 He is Sir Robert's son, and so art thou.
 
-<speaker>BASTARD</speaker>
+BASTARD
 James Gurney, wilt thou give us leave awhile?
 
-<speaker>GURNEY</speaker>
+GURNEY
 Good leave, good Philip.
 
-<speaker>BASTARD</speaker>
-"Philip Sparrow," James.
+BASTARD  "Philip Sparrow," James.
 There's toys abroad. Anon I'll tell thee more.
 [<i>James Gurney exits.</i>]
 Madam, I was not old Sir Robert's son.
@@ -422,13 +379,13 @@ We know his handiwork. Therefore, good mother,
 To whom am I beholding for these limbs?
 Sir Robert never holp to make this leg.
 
-<speaker>LADY FAULCONBRIDGE</speaker>
+LADY FAULCONBRIDGE
 Hast thou conspired with thy brother too,
 That for thine own gain shouldst defend mine
 honor?
 What means this scorn, thou most untoward knave?
 
-<speaker>BASTARD</speaker>
+BASTARD
 Knight, knight, good mother, Basilisco-like.
 What, I am dubbed! I have it on my shoulder.
 But, mother, I am not Sir Robert's son.
@@ -437,13 +394,13 @@ Legitimation, name, and all is gone.
 Then, good my mother, let me know my father--
 Some proper man, I hope. Who was it, mother?
 
-<speaker>LADY FAULCONBRIDGE</speaker>
+LADY FAULCONBRIDGE
 Hast thou denied thyself a Faulconbridge?
 
-<speaker>BASTARD</speaker>
+BASTARD
 As faithfully as I deny the devil.
 
-<speaker>LADY FAULCONBRIDGE</speaker>
+LADY FAULCONBRIDGE
 King Richard Coeur de Lion was thy father.
 By long and vehement suit I was seduced
 To make room for him in my husband's bed.
@@ -451,7 +408,7 @@ Heaven lay not my transgression to my charge!
 Thou art the issue of my dear offense,
 Which was so strongly urged past my defense.
 
-<speaker>BASTARD</speaker>
+BASTARD
 Now, by this light, were I to get again,
 Madam, I would not wish a better father.
 Some sins do bear their privilege on Earth,
@@ -467,9 +424,9 @@ With all my heart I thank thee for my father.
 Who lives and dares but say thou didst not well
 When I was got, I'll send his soul to hell.
 Come, lady, I will show thee to my kin,
-And they shall say when Richard me begot,
+ - And they shall say when Richard me begot,
 If thou hadst said him nay, it had been sin.
-Who says it was, he lies. I say 'twas not.
+ - Who says it was, he lies. I say 'twas not.
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -730,7 +687,7 @@ There's a good grandam.
 
 <speaker>ARTHUR,</speaker>
 [<i>weeping</i>]
-Good my mother, peace.
+  Good my mother, peace.
 I would that I were low laid in my grave.
 I am not worth this coil that's made for me.
 
@@ -923,7 +880,7 @@ Saint George, that swinged the dragon and e'er
 since
 Sits on 's horseback at mine hostess' door,
 Teach us some fence! [<i>To Austria.</i>]
-Sirrah, were I at
+ Sirrah, were I at
 home
 At your den, sirrah, with your lioness,
 I would set an ox head to your lion's hide
@@ -1173,7 +1130,7 @@ walk aside and talk.</i>]
 
 <speaker>BASTARD,</speaker>
 [<i>aside</i>]
-Here's a stay
+  Here's a stay
 That shakes the rotten carcass of old Death
 Out of his rags! Here's a large mouth indeed
 That spits forth death and mountains, rocks and
@@ -1243,9 +1200,9 @@ Drawn in the flattering table of her eye.
 <speaker>BASTARD,</speaker>
 [<i>aside</i>]
 "Drawn in the flattering table of her eye"?
-Hanged in the frowning wrinkle of her brow
+   Hanged in the frowning wrinkle of her brow
 And quartered in her heart! He doth espy
-Himself love's traitor. This is pity now,
+   Himself love's traitor. This is pity now,
 That hanged and drawn and quartered there should
 be
 In such a love so vile a lout as he.
@@ -1324,7 +1281,7 @@ And Earl of Richmond, and this rich, fair town
 We make him lord of.--Call the Lady Constance.
 Some speedy messenger bid her repair
 To our solemnity. [<i>Salisbury exits.</i>]
-I trust we
+ I trust we
 shall,
 If not fill up the measure of her will,
 Yet in some measure satisfy her so
@@ -1945,7 +1902,7 @@ Hubert, Lords.</i>]
 [<i>to Queen Eleanor</i>]
 So shall it be. Your Grace shall stay behind
 So strongly guarded. [<i>To Arthur.</i>]
-Cousin, look not sad.
+ Cousin, look not sad.
 Thy grandam loves thee, and thy uncle will
 As dear be to thee as thy father was.
 
@@ -2058,7 +2015,7 @@ Enough.
 I could be merry now. Hubert, I love thee.
 Well, I'll not say what I intend for thee.
 Remember. [<i>He turns to Queen Eleanor.</i>]
-Madam, fare
+ Madam, fare
 you well.
 I'll send those powers o'er to your Majesty.
 
@@ -2067,7 +2024,7 @@ My blessing go with thee.
 
 <speaker>KING JOHN,</speaker>
 [<i>to Arthur</i>]
-For England, cousin, go.
+  For England, cousin, go.
 Hubert shall be your man, attend on you
 With all true duty.--On toward Calais, ho!
 [<i>They exit.</i>]
@@ -2406,7 +2363,7 @@ I warrant I love you more than you do me.
 His words do take possession of my bosom.
 [<i>He shows Arthur a paper.</i>]
 Read here, young Arthur. [<i>(Aside.)</i>]
-How now,
+ How now,
 foolish rheum?
 Turning dispiteous torture out of door?
 I must be brief lest resolution drop
@@ -2467,7 +2424,7 @@ Hubert's.
 
 <speaker>HUBERT</speaker>
 [<i>stamps his foot and calls</i>]
-Come forth.
+  Come forth.
 
 [<i>Enter Executioners with ropes, a heated iron, and a
 brazier of burning coals.</i>]
@@ -2796,7 +2753,7 @@ With these ill tidings.
 [<i>Enter Bastard and Peter of Pomfret.</i>]
 
 [<i>To Bastard.</i>]
-Now, what says the world
+ Now, what says the world
 To your proceedings? Do not seek to stuff
 My head with more ill news, for it is full.
 
@@ -2872,7 +2829,7 @@ The spirit of the time shall teach me speed.
 <speaker>KING JOHN</speaker>
 Spoke like a sprightful noble gentleman.
 [<i>To Messenger.</i>]
-Go after him, for he perhaps shall
+ Go after him, for he perhaps shall
 need
 Some messenger betwixt me and the peers,
 And be thou he.
@@ -3149,7 +3106,7 @@ I am no villain.
 
 <speaker>SALISBURY,</speaker>
 [<i>drawing his sword</i>]
-Must I rob the law?
+  Must I rob the law?
 
 <speaker>BASTARD</speaker>
 Your sword is bright, sir. Put it up again.
@@ -3187,7 +3144,7 @@ Cut him to pieces.
 
 <speaker>BASTARD,</speaker>
 [<i>drawing his sword</i>]
-Keep the peace, I say.
+  Keep the peace, I say.
 
 <speaker>SALISBURY</speaker>
 Stand by, or I shall gall you, Faulconbridge.
@@ -3307,7 +3264,7 @@ The circle of my glory.
 
 <speaker>PANDULPH,</speaker>
 [<i>handing John the crown</i>]
-Take again
+  Take again
 From this my hand, as holding of the Pope,
 Your sovereign greatness and authority.
 
@@ -3412,7 +3369,7 @@ Have thou the ordering of this present time.
 
 <speaker>BASTARD</speaker>
 Away, then, with good courage! [<i>(Aside.)</i>]
-Yet I
+ Yet I
 know
 Our party may well meet a prouder foe.
 [<i>They exit.</i>]

@@ -6,76 +6,38 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/macbeth/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-Three Witches, the Weird Sisters
-DUNCAN, king of Scotland
-MALCOLM, his elder son
-DONALBAIN, Duncan's younger son
-MACBETH, thane of Glamis
-LADY MACBETH
-SEYTON, attendant to Macbeth
-Three Murderers in Macbeth's service
-Both attending upon Lady Macbeth:
-A Doctor
-A Gentlewoman
-A Porter
-BANQUO, commander, with Macbeth, of Duncan's army
-FLEANCE, his son
-MACDUFF, a Scottish noble
-LADY MACDUFF
-Their son
-Scottish Nobles:
-LENNOX
-ROSS
-ANGUS
-MENTEITH
-CAITHNESS
-SIWARD, commander of the English forces
-YOUNG SIWARD, Siward's son
-A Captain in Duncan's army
-An Old Man
-A Doctor at the English court
-HECATE
-Apparitions: an Armed Head, a Bloody Child, a Crowned Child, and eight nonspeaking kings
-Three Messengers, Three Servants, a Lord, a Soldier
-Attendants, a Sewer, Servants, Lords, Thanes, Soldiers (all nonspeaking)
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Thunder and Lightning. Enter three Witches.</i>]
 
-<speaker>FIRST WITCH</speaker>
+FIRST WITCH
 When shall we three meet again?
 In thunder, lightning, or in rain?
 
-<speaker>SECOND WITCH</speaker>
+SECOND WITCH
 When the hurly-burly's done,
 When the battle's lost and won.
 
-<speaker>THIRD WITCH</speaker>
+THIRD WITCH
 That will be ere the set of sun.
 
-<speaker>FIRST WITCH</speaker>
+FIRST WITCH
 Where the place?
 
-<speaker>SECOND WITCH</speaker>
-Upon the heath.
+SECOND WITCH  Upon the heath.
 
-<speaker>THIRD WITCH</speaker>
+THIRD WITCH
 There to meet with Macbeth.
 
-<speaker>FIRST WITCH</speaker>
-I come, Graymalkin.
+FIRST WITCH  I come, Graymalkin.
 
-<speaker>SECOND WITCH</speaker>
-Paddock calls.
+SECOND WITCH  Paddock calls.
 
-<speaker>THIRD WITCH</speaker>
-Anon.
+THIRD WITCH  Anon.
 
-<speaker>ALL</speaker>
+ALL
 Fair is foul, and foul is fair;
 Hover through the fog and filthy air.
 [<i>They exit.</i>]
@@ -422,12 +384,12 @@ Have overthrown him.
 
 <speaker>MACBETH,</speaker>
 [<i>aside</i>]
-Glamis and Thane of Cawdor!
+  Glamis and Thane of Cawdor!
 The greatest is behind. [<i>To Ross and Angus.</i>]
-Thanks
+ Thanks
 for your pains.
 [<i>Aside to Banquo.</i>]
-Do you not hope your children
+ Do you not hope your children
 shall be kings,
 When those that gave the Thane of Cawdor to me
 Promised no less to them?
@@ -444,11 +406,11 @@ Cousins, a word, I pray you.	[<i>They step aside.</i>]
 
 <speaker>MACBETH,</speaker>
 [<i>aside</i>]
-Two truths are told
+  Two truths are told
 As happy prologues to the swelling act
 Of the imperial theme.--I thank you, gentlemen.
 [<i>Aside.</i>]
-This supernatural soliciting
+ This supernatural soliciting
 Cannot be ill, cannot be good. If ill,
 Why hath it given me earnest of success
 Commencing in a truth? I am Thane of Cawdor.
@@ -478,7 +440,7 @@ But with the aid of use.
 
 <speaker>MACBETH,</speaker>
 [<i>aside</i>]
-Come what come may,
+  Come what come may,
 Time and the hour runs through the roughest day.
 
 <speaker>BANQUO</speaker>
@@ -490,7 +452,7 @@ With things forgotten. Kind gentlemen, your pains
 Are registered where every day I turn
 The leaf to read them. Let us toward the King.
 [<i>Aside to Banquo.</i>]
-Think upon what hath chanced,
+ Think upon what hath chanced,
 and at more time,
 The interim having weighed it, let us speak
 Our free hearts each to other.
@@ -606,7 +568,7 @@ It is a peerless kinsman.
 
 <speaker>LADY MACBETH,</speaker>
 [<i>reading the letter</i>]
-They met me in the
+  They met me in the
 day of success, and I have learned by the perfect'st
 report they have more in them than mortal knowledge.
 When I burned in desire to question them further, they
@@ -1057,7 +1019,7 @@ Whether they live or die.
 
 <speaker>MACBETH,</speaker>
 [<i>within</i>]
-Who's there? what, ho!
+  Who's there? what, ho!
 
 <speaker>LADY MACBETH</speaker>
 Alack, I am afraid they have awaked,
@@ -1210,22 +1172,22 @@ couldst.
 Here's a knocking indeed! If a man were
 porter of hell gate, he should have old turning the
 key. [<i>(Knock.)</i>]
-Knock, knock, knock! Who's there, i'
+ Knock, knock, knock! Who's there, i'
 th' name of Beelzebub? Here's a farmer that hanged
 himself on th' expectation of plenty. Come in time!
 Have napkins enough about you; here you'll sweat
 for 't. [<i>(Knock.)</i>]
-Knock, knock! Who's there, in th'
+ Knock, knock! Who's there, in th'
 other devil's name? Faith, here's an equivocator
 that could swear in both the scales against either
 scale, who committed treason enough for God's
 sake yet could not equivocate to heaven. O, come in,
 equivocator. [<i>(Knock.)</i>]
-Knock, knock, knock! Who's
+ Knock, knock, knock! Who's
 there? Faith, here's an English tailor come hither for
 stealing out of a French hose. Come in, tailor. Here
 you may roast your goose. [<i>(Knock.)</i>]
-Knock, knock!
+ Knock, knock!
 Never at quiet.--What are you?--But this place is
 too cold for hell. I'll devil-porter it no further. I had
 thought to have let in some of all professions that go
@@ -1457,7 +1419,7 @@ Look to the lady.
 
 <speaker>MALCOLM,</speaker>
 [<i>aside to Donalbain</i>]
-Why do we hold our
+  Why do we hold our
 tongues,
 That most may claim this argument for ours?
 
@@ -1743,7 +1705,7 @@ And champion me to th' utterance.--Who's there?
 [<i>Enter Servant and two Murderers.</i>]
 
 [<i>To the Servant.</i>]
-Now go to the door, and stay there
+ Now go to the door, and stay there
 till we call.	[<i>Servant exits.</i>]
 Was it not yesterday we spoke together?
 
@@ -1990,7 +1952,7 @@ Hark, I hear horses.
 
 <speaker>BANQUO,</speaker>
 [<i>within</i>]
-Give us a light there, ho!
+  Give us a light there, ho!
 
 <speaker>SECOND MURDERER</speaker>
 Then 'tis he. The rest
@@ -2018,7 +1980,7 @@ Stand to 't.
 
 <speaker>BANQUO,</speaker>
 [<i>to Fleance</i>]
-It will be rain tonight.
+  It will be rain tonight.
 
 <speaker>FIRST MURDERER</speaker>
 Let it come down!
@@ -2076,7 +2038,7 @@ See, they encounter thee with their hearts' thanks.
 Both sides are even. Here I'll sit i' th' midst.
 Be large in mirth. Anon we'll drink a measure
 The table round. [<i>He approaches the Murderer.</i>]
-There's
+ There's
 blood upon thy face.
 
 <speaker>MURDERER</speaker>
@@ -2129,7 +2091,7 @@ Meeting were bare without it.
 
 <speaker>MACBETH,</speaker>
 [<i>to Lady Macbeth</i>]
-Sweet remembrancer!--
+  Sweet remembrancer!--
 Now, good digestion wait on appetite
 And health on both!
 
@@ -2201,7 +2163,7 @@ You look but on a stool.
 
 <speaker>MACBETH</speaker>
 Prithee, see there. Behold, look! [<i>To the Ghost.</i>]
-Lo,
+ Lo,
 how say you?
 Why, what care I? If thou canst nod, speak too.--
 If charnel houses and our graves must send
@@ -2266,7 +2228,7 @@ Only it spoils the pleasure of the time.
 
 <speaker>MACBETH,</speaker>
 [<i>to the Ghost</i>]
-What man dare, I dare.
+  What man dare, I dare.
 Approach thou like the rugged Russian bear,
 The armed rhinoceros, or th' Hyrcan tiger;
 Take any shape but that, and my firm nerves
@@ -2969,7 +2931,7 @@ Thou liest, thou shag-eared villain!
 <speaker>MURDERER</speaker>
 What, you egg?
 [<i>Stabbing him.</i>]
-Young fry of treachery!
+ Young fry of treachery!
 
 <speaker>SON</speaker>
 He has killed

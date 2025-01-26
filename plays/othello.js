@@ -6,47 +6,25 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/othello/
 Created on May 11, 2016, from FDT version 0.9.2.1`;
 
-export const text = `Characters in the Play
-<hr>
-OTHELLO, a Moorish general in the Venetian army
-DESDEMONA, a Venetian lady
-BRABANTIO, a Venetian senator, father to Desdemona
-IAGO, Othello's standard-bearer, or "ancient"
-EMILIA, Iago's wife and Desdemona's attendant
-CASSIO, Othello's second-in-command, or lieutenant
-RODERIGO, a Venetian gentleman
-Duke of Venice
-Venetian gentlemen, kinsmen to Brabantio:
-LODOVICO
-GRATIANO
-Venetian senators
-MONTANO, an official in Cyprus
-BIANCA, a woman in Cyprus in love with Cassio
-Clown, a comic servant to Othello and Desdemona
-Gentlemen of Cyprus
-Sailors
-Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Roderigo and Iago.</i>]
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Tush, never tell me! I take it much unkindly
 That thou, Iago, who hast had my purse
 As if the strings were thine, shouldst know of this.
 
-<speaker>IAGO</speaker>
-'Sblood, but you'll not hear me!
+IAGO  'Sblood, but you'll not hear me!
 If ever I did dream of such a matter,
 Abhor me.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Thou toldst me thou didst hold him in thy hate.
 
-<speaker>IAGO</speaker>
-Despise me
+IAGO  Despise me
 If I do not. Three great ones of the city,
 In personal suit to make me his lieutenant,
 Off-capped to him; and, by the faith of man,
@@ -56,8 +34,7 @@ Evades them with a bombast circumstance,
 Horribly stuffed with epithets of war,
 And in conclusion,
 Nonsuits my mediators. For "Certes," says he,
-<speaker>"I</speaker>
-have already chose my officer."
+"I have already chose my officer."
 And what was he?
 Forsooth, a great arithmetician,
 One Michael Cassio, a Florentine,
@@ -76,10 +53,10 @@ By debitor and creditor. This countercaster,
 He, in good time, must his lieutenant be,
 And I, God bless the mark, his Moorship's ancient.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 By heaven, I rather would have been his hangman.
 
-<speaker>IAGO</speaker>
+IAGO
 Why, there's no remedy. 'Tis the curse of service.
 Preferment goes by letter and affection,
 And not by old gradation, where each second
@@ -87,11 +64,10 @@ Stood heir to th' first. Now, sir, be judge yourself
 Whether I in any just term am affined
 To love the Moor.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 I would not follow him, then.
 
-<speaker>IAGO</speaker>
-O, sir, content you.
+IAGO  O, sir, content you.
 I follow him to serve my turn upon him.
 We cannot all be masters, nor all masters
 Cannot be truly followed. You shall mark
@@ -120,12 +96,11 @@ In complement extern, 'tis not long after
 But I will wear my heart upon my sleeve
 For daws to peck at. I am not what I am.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 What a full fortune does the thick-lips owe
 If he can carry 't thus!
 
-<speaker>IAGO</speaker>
-Call up her father.
+IAGO  Call up her father.
 Rouse him. Make after him, poison his delight,
 Proclaim him in the streets; incense her kinsmen,
 And, though he in a fertile climate dwell,
@@ -133,38 +108,37 @@ Plague him with flies. Though that his joy be joy,
 Yet throw such chances of vexation on 't
 As it may lose some color.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Here is her father's house. I'll call aloud.
 
-<speaker>IAGO</speaker>
+IAGO
 Do, with like timorous accent and dire yell
 As when, by night and negligence, the fire
 Is spied in populous cities.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 What ho, Brabantio! Signior Brabantio, ho!
 
-<speaker>IAGO</speaker>
+IAGO
 Awake! What ho, Brabantio! Thieves, thieves!
 Look to your house, your daughter, and your bags!
 Thieves, thieves!
 
 [<i>Enter Brabantio, above.</i>]
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 What is the reason of this terrible summons?
 What is the matter there?
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Signior, is all your family within?
 
-<speaker>IAGO</speaker>
+IAGO
 Are your doors locked?
 
-<speaker>BRABANTIO</speaker>
-Why, wherefore ask you this?
+BRABANTIO  Why, wherefore ask you this?
 
-<speaker>IAGO</speaker>
+IAGO
 Zounds, sir, you're robbed. For shame, put on your
 gown!
 Your heart is burst. You have lost half your soul.
@@ -174,20 +148,17 @@ Awake the snorting citizens with the bell,
 Or else the devil will make a grandsire of you.
 Arise, I say!
 
-<speaker>BRABANTIO</speaker>
-What, have you lost your wits?
+BRABANTIO  What, have you lost your wits?
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Most reverend signior, do you know my voice?
 
-<speaker>BRABANTIO</speaker>
-Not I. What are you?
+BRABANTIO  Not I. What are you?
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 My name is Roderigo.
 
-<speaker>BRABANTIO</speaker>
-The worser welcome.
+BRABANTIO  The worser welcome.
 I have charged thee not to haunt about my doors.
 In honest plainness thou hast heard me say
 My daughter is not for thee. And now in madness,
@@ -195,51 +166,42 @@ Being full of supper and distemp'ring draughts,
 Upon malicious bravery dost thou come
 To start my quiet.
 
-<speaker>RODERIGO</speaker>
-Sir, sir, sir--
+RODERIGO  Sir, sir, sir--
 
-<speaker>BRABANTIO</speaker>
-But thou must needs be sure
+BRABANTIO  But thou must needs be sure
 My spirit and my place have in them power
 To make this bitter to thee.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Patience, good sir.
 
-<speaker>BRABANTIO</speaker>
-What tell'st thou me of robbing?
+BRABANTIO  What tell'st thou me of robbing?
 This is Venice. My house is not a grange.
 
-<speaker>RODERIGO</speaker>
-Most grave Brabantio,
+RODERIGO  Most grave Brabantio,
 In simple and pure soul I come to you--
 
-<speaker>IAGO</speaker>
-Zounds, sir, you are one of those that will not
+IAGO  Zounds, sir, you are one of those that will not
 serve God if the devil bid you. Because we come to
 do you service and you think we are ruffians, you'll
 have your daughter covered with a Barbary horse,
 you'll have your nephews neigh to you, you'll have
 coursers for cousins and jennets for germans.
 
-<speaker>BRABANTIO</speaker>
-What profane wretch art thou?
+BRABANTIO  What profane wretch art thou?
 
-<speaker>IAGO</speaker>
-I am one, sir, that comes to tell you your daughter
+IAGO  I am one, sir, that comes to tell you your daughter
 and the Moor are now making the beast with
 two backs.
 
-<speaker>BRABANTIO</speaker>
-Thou art a villain.
+BRABANTIO  Thou art a villain.
 
-<speaker>IAGO</speaker>
-You are a senator.
+IAGO  You are a senator.
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 This thou shalt answer. I know thee, Roderigo.
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 Sir, I will answer anything. But I beseech you,
 If 't be your pleasure and most wise consent--
 As partly I find it is--that your fair daughter,
@@ -262,16 +224,14 @@ If she be in her chamber or your house,
 Let loose on me the justice of the state
 For thus deluding you.
 
-<speaker>BRABANTIO</speaker>
-Strike on the tinder, ho!
+BRABANTIO  Strike on the tinder, ho!
 Give me a taper. Call up all my people.
 This accident is not unlike my dream.
 Belief of it oppresses me already.
 Light, I say, light!	[<i>He exits.</i>]
 
-<speaker>IAGO,</speaker>
-[<i>to Roderigo</i>]
-Farewell, for I must leave you.
+IAGO, [<i>to Roderigo</i>]
+ - Farewell, for I must leave you.
 It seems not meet nor wholesome to my place
 To be producted, as if I stay I shall,
 Against the Moor. For I do know the state,
@@ -292,7 +252,7 @@ And there will I be with him. So, farewell.	[<i>He exits.</i>]
 [<i>Enter Brabantio in his nightgown, with Servants and
 Torches.</i>]
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 It is too true an evil. Gone she is,
 And what's to come of my despised time
 Is naught but bitterness.--Now, Roderigo,
@@ -306,10 +266,9 @@ tapers.
 Raise all my kindred.--Are they married, think
 you?
 
-<speaker>RODERIGO</speaker>
-Truly, I think they are.
+RODERIGO  Truly, I think they are.
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 O heaven! How got she out? O treason of the blood!
 Fathers, from hence trust not your daughters' minds
 By what you see them act.--Is there not charms
@@ -317,19 +276,18 @@ By which the property of youth and maidhood
 May be abused? Have you not read, Roderigo,
 Of some such thing?
 
-<speaker>RODERIGO</speaker>
-Yes, sir, I have indeed.
+RODERIGO  Yes, sir, I have indeed.
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 Call up my brother.--O, would you had had her!--
 Some one way, some another.--Do you know
 Where we may apprehend her and the Moor?
 
-<speaker>RODERIGO</speaker>
+RODERIGO
 I think I can discover him, if you please
 To get good guard and go along with me.
 
-<speaker>BRABANTIO</speaker>
+BRABANTIO
 Pray you lead on. At every house I'll call.
 I may command at most.--Get weapons, ho!
 And raise some special officers of night.--
@@ -569,7 +527,7 @@ In fearful sense.
 
 <speaker>SAILOR,</speaker>
 [<i>within</i>]
-What ho, what ho, what ho!
+  What ho, what ho, what ho!
 
 [<i>Enter Sailor.</i>]
 
@@ -650,7 +608,7 @@ Officers.</i>]
 Valiant Othello, we must straight employ you
 Against the general enemy Ottoman.
 [<i>To Brabantio.</i>]
-I did not see you. Welcome, gentle
+ I did not see you. Welcome, gentle
 signior.
 We lacked your counsel and your help tonight.
 
@@ -1006,7 +964,7 @@ To be sent after me.
 <speaker>DUKE</speaker>
 Let it be so.
 Good night to everyone. [<i>To Brabantio.</i>]
-And, noble
+ And, noble
 signior,
 If virtue no delighted beauty lack,
 Your son-in-law is far more fair than black.
@@ -1446,15 +1404,15 @@ I am about it, but indeed my invention comes
 from my pate as birdlime does from frieze: it
 plucks out brains and all. But my muse labors, and
 thus she is delivered:
-If she be fair and wise, fairness and wit,
-The one's for use, the other useth it.
+	If she be fair and wise, fairness and wit,
+	The one's for use, the other useth it.
 
 <speaker>DESDEMONA</speaker>
 Well praised! How if she be black and witty?
 
 <speaker>IAGO</speaker>
-If she be black, and thereto have a wit,
-She'll find a white that shall her blackness hit.
+	If she be black, and thereto have a wit,
+	She'll find a white that shall her blackness hit.
 
 <speaker>DESDEMONA</speaker>
 Worse and worse.
@@ -1463,8 +1421,8 @@ Worse and worse.
 How if fair and foolish?
 
 <speaker>IAGO</speaker>
-She never yet was foolish that was fair,
-For even her folly helped her to an heir.
+	She never yet was foolish that was fair,
+	For even her folly helped her to an heir.
 
 <speaker>DESDEMONA</speaker>
 These are old fond paradoxes to make
@@ -1472,8 +1430,8 @@ fools laugh i' th' alehouse. What miserable praise
 hast thou for her that's foul and foolish?
 
 <speaker>IAGO</speaker>
-There's none so foul and foolish thereunto,
-But does foul pranks which fair and wise ones do.
+	There's none so foul and foolish thereunto,
+	But does foul pranks which fair and wise ones do.
 
 <speaker>DESDEMONA</speaker>
 O heavy ignorance! Thou praisest the
@@ -1483,23 +1441,23 @@ of her merit did justly put on the vouch of very
 malice itself?
 
 <speaker>IAGO</speaker>
-She that was ever fair and never proud,
-Had tongue at will and yet was never loud,
-Never lacked gold and yet went never gay,
-Fled from her wish, and yet said "Now I may,"
-She that being angered, her revenge being nigh,
-Bade her wrong stay and her displeasure fly,
-She that in wisdom never was so frail
-To change the cod's head for the salmon's tail,
-She that could think and ne'er disclose her mind,
-See suitors following and not look behind,
-She was a wight, if ever such wight were--
+	She that was ever fair and never proud,
+	Had tongue at will and yet was never loud,
+	Never lacked gold and yet went never gay,
+	Fled from her wish, and yet said "Now I may,"
+	She that being angered, her revenge being nigh,
+	Bade her wrong stay and her displeasure fly,
+	She that in wisdom never was so frail
+	To change the cod's head for the salmon's tail,
+	She that could think and ne'er disclose her mind,
+	See suitors following and not look behind,
+	She was a wight, if ever such wight were--
 
 <speaker>DESDEMONA</speaker>
 To do what?
 
 <speaker>IAGO</speaker>
-To suckle fools and chronicle small beer.
+	To suckle fools and chronicle small beer.
 
 <speaker>DESDEMONA</speaker>
 O, most lame and impotent conclusion!
@@ -1514,7 +1472,7 @@ more in the soldier than in the scholar.
 
 <speaker>IAGO,</speaker>
 [<i>aside</i>]
-He takes her by the palm. Ay, well said,
+  He takes her by the palm. Ay, well said,
 whisper. With as little a web as this will I ensnare as
 great a fly as Cassio. Ay, smile upon her, do. I will
 gyve thee in thine own courtship. You say true, 'tis
@@ -1571,7 +1529,7 @@ That e'er our hearts shall make!
 
 <speaker>IAGO,</speaker>
 [<i>aside</i>]
-O, you are well tuned now,
+  O, you are well tuned now,
 But I'll set down the pegs that make this music,
 As honest as I am.
 
@@ -1593,9 +1551,9 @@ Once more, well met at Cyprus.
 
 <speaker>IAGO,</speaker>
 [<i>to a departing Attendant</i>]
-Do thou meet me presently
+  Do thou meet me presently
 at the harbor. [<i>To Roderigo.</i>]
-Come hither. If
+ Come hither. If
 thou be'st valiant--as they say base men being in
 love have then a nobility in their natures more than
 is native to them--list me. The Lieutenant tonight
@@ -1758,7 +1716,7 @@ Will I look to 't.
 Iago is most honest.
 Michael, goodnight. Tomorrow with your earliest
 Let me have speech with you. [<i>To Desdemona.</i>]
-Come,
+ Come,
 my dear love,
 The purchase made, the fruits are to ensue;
 That profit's yet to come 'tween me and you.--
@@ -1870,11 +1828,11 @@ am a soldier.
 <speaker>IAGO</speaker>
 Some wine, ho!
 [<i>Sings.</i>]
-And let me the cannikin clink, clink,
-And let me the cannikin clink.
-A soldier's a man,
-O, man's life's but a span,
-Why, then, let a soldier drink.
+	And let me the cannikin clink, clink,
+	And let me the cannikin clink.
+	   A soldier's a man,
+	   O, man's life's but a span,
+	Why, then, let a soldier drink.
 Some wine, boys!
 
 <speaker>CASSIO</speaker>
@@ -1906,14 +1864,14 @@ justice.
 <speaker>IAGO</speaker>
 O sweet England!
 [<i>Sings.</i>]
-King Stephen was and-a worthy peer,
-His breeches cost him but a crown;
-He held them sixpence all too dear;
-With that he called the tailor lown.
-He was a wight of high renown,
-And thou art but of low degree;
-'Tis pride that pulls the country down,
-Then take thy auld cloak about thee.
+	King Stephen was and-a worthy peer,
+	   His breeches cost him but a crown;
+	He held them sixpence all too dear;
+	   With that he called the tailor lown.
+	He was a wight of high renown,
+	   And thou art but of low degree;
+	'Tis pride that pulls the country down,
+	   Then take thy auld cloak about thee.
 Some wine, ho!
 
 <speaker>CASSIO</speaker>
@@ -1990,7 +1948,7 @@ And looks not on his evils. Is not this true?
 
 <speaker>IAGO,</speaker>
 [<i>aside to Roderigo</i>]
-How now, Roderigo?
+  How now, Roderigo?
 I pray you, after the Lieutenant, go.
 [<i>Roderigo exits.</i>]
 
@@ -2189,7 +2147,7 @@ What is the matter, dear?
 All's well now,
 sweeting.
 Come away to bed. [<i>To Montano.</i>]
-Sir, for your hurts,
+ Sir, for your hurts,
 Myself will be your surgeon.--Lead him off.
 [<i>Montano is led off.</i>]
 Iago, look with care about the town
@@ -2482,7 +2440,7 @@ May be more free.
 
 <speaker>CASSIO</speaker>
 I humbly thank you for 't. [<i>Iago exits.</i>]
-I never
+ I never
 knew
 A Florentine more kind and honest.
 
@@ -3008,7 +2966,7 @@ Set on thy wife to observe. Leave me, Iago.
 
 <speaker>IAGO,</speaker>
 [<i>beginning to exit</i>]
-My lord, I take my leave.
+  My lord, I take my leave.
 
 <speaker>OTHELLO</speaker>
 Why did I marry? This honest creature doubtless
@@ -3150,7 +3108,7 @@ To have me filch it?
 
 <speaker>IAGO,</speaker>
 [<i>snatching it</i>]
-Why, what is that to you?
+  Why, what is that to you?
 
 <speaker>EMILIA</speaker>
 If it be not for some purpose of import,
@@ -3394,7 +3352,7 @@ Even so my bloody thoughts, with violent pace
 Shall ne'er look back, ne'er ebb to humble love,
 Till that a capable and wide revenge
 Swallow them up. [<i>He kneels.</i>]
-Now by yond marble
+ Now by yond marble
 heaven,
 In the due reverence of a sacred vow,
 I here engage my words.
@@ -3515,7 +3473,7 @@ Be called to him.--How is 't with you, my lord?
 
 <speaker>OTHELLO</speaker>
 Well, my good lady. [<i>Aside.</i>]
-O, hardness to
+ O, hardness to
 dissemble!--
 How do you, Desdemona?
 
@@ -3524,7 +3482,7 @@ Well, my good lord.
 
 <speaker>OTHELLO</speaker>
 Give me your hand. [<i>He takes her hand.</i>]
-This hand
+ This hand
 is moist, my lady.
 
 <speaker>DESDEMONA</speaker>
@@ -3647,7 +3605,7 @@ Pray you, let Cassio be received again.
 
 <speaker>OTHELLO</speaker>
 Fetch me the handkerchief! [<i>Aside.</i>]
-My mind
+ My mind
 misgives.
 
 <speaker>DESDEMONA</speaker>
@@ -4092,7 +4050,7 @@ How quickly should you speed!
 
 <speaker>CASSIO,</speaker>
 [<i>laughing</i>]
-Alas, poor caitiff!
+  Alas, poor caitiff!
 
 <speaker>OTHELLO</speaker>
 Look how he laughs already!
@@ -4229,7 +4187,7 @@ Go to; say no more. [<i>Cassio exits.</i>]
 
 <speaker>OTHELLO,</speaker>
 [<i>coming forward</i>]
-How shall I murder him,
+  How shall I murder him,
 Iago?
 
 <speaker>IAGO</speaker>
@@ -4370,7 +4328,7 @@ My lord?
 
 <speaker>OTHELLO,</speaker>
 [<i>reading</i>]
-"This fail you not to do, as you
+  "This fail you not to do, as you
 will"--
 
 <speaker>LODOVICO</speaker>
@@ -4416,7 +4374,7 @@ Why, sweet Othello!
 
 <speaker>OTHELLO,</speaker>
 [<i>striking her</i>]
-Devil!
+  Devil!
 
 <speaker>DESDEMONA</speaker>
 I have not deserved this.
@@ -4445,7 +4403,7 @@ Mistress.
 
 <speaker>DESDEMONA,</speaker>
 [<i>turning back</i>]
-My lord?
+  My lord?
 
 <speaker>OTHELLO</speaker>
 What would you with her, sir?
@@ -4589,7 +4547,7 @@ What horrible fancy's this?
 
 <speaker>OTHELLO,</speaker>
 [<i>to Emilia</i>]
-Some of your function,
+  Some of your function,
 mistress.
 Leave procreants alone, and shut the door.
 Cough, or cry "hem," if anybody come.
@@ -4855,7 +4813,7 @@ Alas, Iago,
 What shall I do to win my lord again?
 Good friend, go to him. For by this light of heaven,
 I know not how I lost him. [<i>She kneels.</i>]
-Here I
+ Here I
 kneel.
 If e'er my will did trespass 'gainst his love,
 Either in discourse of thought or actual deed,
@@ -4865,7 +4823,7 @@ Or that I do not yet, and ever did,
 And ever will--though he do shake me off
 To beggarly divorcement--love him dearly,
 Comfort forswear me! [<i>She stands.</i>]
-Unkindness may
+ Unkindness may
 do much,
 And his unkindness may defeat my life,
 But never taint my love. I cannot say "whore"--
@@ -5117,29 +5075,29 @@ barefoot to Palestine for a touch of his nether lip.
 
 <speaker>DESDEMONA,</speaker>
 [<i>singing</i>]
-The poor soul sat sighing by a sycamore tree,
-Sing all a green willow.
-Her hand on her bosom, her head on her knee,
-Sing willow, willow, willow.
-The fresh streams ran by her and murmured her
+	The poor soul sat sighing by a sycamore tree,
+	   Sing all a green willow.
+	Her hand on her bosom, her head on her knee,
+	   Sing willow, willow, willow.
+	The fresh streams ran by her and murmured her
 moans,
-Sing willow, willow, willow;
-Her salt tears fell from her, and softened the
+	   Sing willow, willow, willow;
+	Her salt tears fell from her, and softened the
 stones--
 Lay by these.
-Sing willow, willow, willow.
+	   Sing willow, willow, willow.
 Prithee hie thee! He'll come anon.
-Sing all a green willow must be my garland.
-Let nobody blame him, his scorn I approve.
+	Sing all a green willow must be my garland.
+	Let nobody blame him, his scorn I approve.
 Nay, that's not next. Hark, who is 't that knocks?
 
 <speaker>EMILIA</speaker>
 It's the wind.
 
 <speaker>DESDEMONA</speaker>
-I called my love false love, but what said he then?
-Sing willow, willow, willow.
-If I court more women, you'll couch with more
+	I called my love false love, but what said he then?
+	   Sing willow, willow, willow.
+	If I court more women, you'll couch with more
 men.--
 So, get thee gone. Good night. Mine eyes do itch;
 Doth that bode weeping?
@@ -5301,7 +5259,7 @@ O, villain that I am!
 
 <speaker>OTHELLO,</speaker>
 [<i>aside</i>]
-It is even so.
+  It is even so.
 
 <speaker>CASSIO</speaker>
 O, help ho! Light! A surgeon!
@@ -5392,7 +5350,7 @@ And cannot make away.
 <speaker>IAGO</speaker>
 O treacherous villains!
 [<i>To Lodovico and Gratiano.</i>]
-What are you there?
+ What are you there?
 Come in, and give some help.
 
 <speaker>RODERIGO</speaker>
@@ -5403,7 +5361,7 @@ That's one of them.
 
 <speaker>IAGO,</speaker>
 [<i>to Roderigo</i>]
-O murd'rous slave! O villain!
+  O murd'rous slave! O villain!
 [<i>He stabs Roderigo.</i>]
 
 <speaker>RODERIGO</speaker>
@@ -5474,7 +5432,7 @@ Gentlemen all, I do suspect this trash
 To be a party in this injury.--
 Patience awhile, good Cassio.--Come, come;
 Lend me a light. [<i>Peering at Roderigo.</i>]
-Know we this
+ Know we this
 face or no?
 Alas, my friend and my dear countryman
 Roderigo? No! Yes, sure. O heaven, Roderigo!
@@ -5504,7 +5462,7 @@ Roderigo?
 
 <speaker>IAGO</speaker>
 He, he, 'tis he! [<i>A chair is brought in.</i>]
-O, that's well
+ O, that's well
 said; the chair.--
 Some good man bear him carefully from hence.
 I'll fetch the General's surgeon.-- For you, mistress,
@@ -5520,7 +5478,7 @@ None in the world. Nor do I know the man.
 What, look you pale?--O, bear him out o' th' air.
 [<i>Cassio, in the chair, and Roderigo are carried off.</i>]
 [<i>To Gratiano and Lodovico.</i>]
-Stay you, good
+ Stay you, good
 gentlemen.--Look you pale, mistress?--
 Do you perceive the gastness of her eye?--
 Nay, if you stare, we shall hear more anon.--
@@ -5546,7 +5504,7 @@ Alas, good gentleman! Alas, good Cassio!
 This is the fruits of whoring. Prithee, Emilia,
 Go know of Cassio where he supped tonight.
 [<i>To Bianca.</i>]
-What, do you shake at that?
+ What, do you shake at that?
 
 <speaker>BIANCA</speaker>
 He supped at my house, but I therefore shake not.
@@ -5570,7 +5528,7 @@ Come, mistress, you must tell 's another tale.--
 Emilia, run you to the citadel
 And tell my lord and lady what hath happed.--
 Will you go on afore? [<i>Aside.</i>]
-This is the night
+ This is the night
 That either makes me or fordoes me quite.
 [<i>They exit in different directions.</i>]
 
@@ -5597,7 +5555,7 @@ I cannot give it vital growth again.
 It needs must wither. I'll smell it on the tree.
 O balmy breath, that dost almost persuade
 Justice to break her sword! [<i>He kisses her.</i>]
-One
+ One
 more, one more.
 Be thus when thou art dead, and I will kill thee
 And love thee after. One more, and this the last.
@@ -5800,7 +5758,7 @@ So, so.
 
 <speaker>EMILIA,</speaker>
 [<i>within</i>]
-What, ho! My lord, my lord!
+  What, ho! My lord, my lord!
 
 <speaker>OTHELLO</speaker>
 Who's
@@ -5825,7 +5783,7 @@ Should yawn at alteration.
 
 <speaker>EMILIA,</speaker>
 [<i>within</i>]
-I do beseech you
+  I do beseech you
 That I may speak with you. O, good my lord--
 
 <speaker>OTHELLO</speaker>
@@ -6074,7 +6032,7 @@ That e'er did lift up eye.
 
 <speaker>OTHELLO,</speaker>
 [<i>standing</i>]
-O, she was foul!--
+  O, she was foul!--
 I scarce did know you, uncle. There lies your niece,
 Whose breath indeed these hands have newly
 stopped.
@@ -6141,7 +6099,7 @@ Filth, thou liest!
 <speaker>EMILIA</speaker>
 By heaven, I do not, I do not, gentlemen!
 [<i>To Othello.</i>]
-O murd'rous coxcomb, what should
+ O murd'rous coxcomb, what should
 such a fool
 Do with so good a wife?
 
@@ -6179,7 +6137,7 @@ What did thy song bode, lady?
 Hark, canst thou hear me? I will play the swan
 And die in music.
 [<i>She sings.</i>]
-Willow, willow, willow.
+	Willow, willow, willow.
 Moor, she was chaste. She loved thee, cruel Moor.
 So come my soul to bliss, as I speak true.
 So speaking as I think, alas, I die. 	[<i>She dies.</i>]
@@ -6229,7 +6187,7 @@ Blow me about in winds, roast me in sulfur,
 Wash me in steep-down gulfs of liquid fire!
 O Desdemon! Dead, Desdemon! Dead! O, O!
 
-[<i>Enter Lodovico, Cassio in a chair, Montano, and Iago,
+ [<i>Enter Lodovico, Cassio in a chair, Montano, and Iago,
 with Officers.</i>]
 
 <speaker>LODOVICO</speaker>
@@ -6302,7 +6260,7 @@ You shall understand what hath befall'n,
 Which, as I think, you know not. Here is a letter
 Found in the pocket of the slain Roderigo,
 And here another. [<i>He shows papers.</i>]
-The one of
+ The one of
 them imports
 The death of Cassio, to be undertook
 By Roderigo.
@@ -6393,14 +6351,14 @@ For he was great of heart.
 
 <speaker>LODOVICO,</speaker>
 [<i>to Iago</i>]
-O Spartan dog,
+  O Spartan dog,
 More fell than anguish, hunger, or the sea,
 Look on the tragic loading of this bed.
 This is thy work.--The object poisons sight.
 Let it be hid.--Gratiano, keep the house,
 And seize upon the fortunes of the Moor,
 For they succeed on you. [<i>To Cassio.</i>]
-To you, lord
+ To you, lord
 governor,
 Remains the censure of this hellish villain.
 The time, the place, the torture, O, enforce it.

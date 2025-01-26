@@ -6,267 +6,173 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/romeo-and-juliet/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-ROMEO
-MONTAGUE, his father
-LADY MONTAGUE, his mother
-BENVOLIO, their kinsman
-ABRAM, a Montague servingman
-BALTHASAR, Romeo's servingman
-JULIET
-CAPULET, her father
-LADY CAPULET, her mother
-NURSE to Juliet
-TYBALT, kinsman to the Capulets
-PETRUCHIO, Tybalt's companion
-Capulet's Cousin
-Servingmen:
-SAMPSON
-GREGORY
-PETER
-Other Servingmen
-ESCALUS, Prince of Verona
-PARIS, the Prince's kinsman and Juliet's suitor
-MERCUTIO, the Prince's kinsman and Romeo's friend
-Paris' Page
-FRIAR LAWRENCE
-FRIAR JOHN
-APOTHECARY
-Three or four Citizens
-Three Musicians
-Three Watchmen
-CHORUS
-Attendants, Maskers, Torchbearers, a Boy with a drum, Gentlemen, Gentlewomen, Tybalt's Page, Servingmen.
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-
-THE PROLOGUE
-<hr>
-[<i>Enter Chorus.</i>]
-
-Two households, both alike in dignity
-(In fair Verona, where we lay our scene),
-From ancient grudge break to new mutiny,
-Where civil blood makes civil hands unclean.
-From forth the fatal loins of these two foes
-A pair of star-crossed lovers take their life;
-Whose misadventured piteous overthrows
-Doth with their death bury their parents' strife.
-The fearful passage of their death-marked love
-And the continuance of their parents' rage,
-Which, but their children's end, naught could remove,
-Is now the two hours' traffic of our stage;
-The which, if you with patient ears attend,
-What here shall miss, our toil shall strive to mend.
-[<i>Chorus exits.</i>]
-
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Sampson and Gregory, with swords and bucklers,
 of the house of Capulet.</i>]
 
-<speaker>SAMPSON</speaker>
-Gregory, on my word we'll not carry coals.
+SAMPSON  Gregory, on my word we'll not carry coals.
 
-<speaker>GREGORY</speaker>
-No, for then we should be colliers.
+GREGORY  No, for then we should be colliers.
 
-<speaker>SAMPSON</speaker>
-I mean, an we be in choler, we'll draw.
+SAMPSON  I mean, an we be in choler, we'll draw.
 
-<speaker>GREGORY</speaker>
-Ay, while you live, draw your neck out of
+GREGORY  Ay, while you live, draw your neck out of
 collar.
 
-<speaker>SAMPSON</speaker>
-I strike quickly, being moved.
+SAMPSON  I strike quickly, being moved.
 
-<speaker>GREGORY</speaker>
-But thou art not quickly moved to strike.
+GREGORY  But thou art not quickly moved to strike.
 
-<speaker>SAMPSON</speaker>
-A dog of the house of Montague moves me.
+SAMPSON  A dog of the house of Montague moves me.
 
-<speaker>GREGORY</speaker>
-To move is to stir, and to be valiant is to
+GREGORY  To move is to stir, and to be valiant is to
 stand. Therefore if thou art moved thou runn'st
 away.
 
-<speaker>SAMPSON</speaker>
-A dog of that house shall move me to stand. I
+SAMPSON  A dog of that house shall move me to stand. I
 will take the wall of any man or maid of Montague's.
 
-<speaker>GREGORY</speaker>
-That shows thee a weak slave, for the weakest
+GREGORY  That shows thee a weak slave, for the weakest
 goes to the wall.
 
-<speaker>SAMPSON</speaker>
-'Tis true, and therefore women, being the
+SAMPSON  'Tis true, and therefore women, being the
 weaker vessels, are ever thrust to the wall. Therefore
 I will push Montague's men from the wall and
 thrust his maids to the wall.
 
-<speaker>GREGORY</speaker>
-The quarrel is between our masters and us
+GREGORY  The quarrel is between our masters and us
 their men.
 
-<speaker>SAMPSON</speaker>
-'Tis all one. I will show myself a tyrant.
+SAMPSON  'Tis all one. I will show myself a tyrant.
 When I have fought with the men, I will be civil
 with the maids; I will cut off their heads.
 
-<speaker>GREGORY</speaker>
-The heads of the maids?
+GREGORY  The heads of the maids?
 
-<speaker>SAMPSON</speaker>
-Ay, the heads of the maids, or their maidenheads.
+SAMPSON  Ay, the heads of the maids, or their maidenheads.
 Take it in what sense thou wilt.
 
-<speaker>GREGORY</speaker>
-They must take it in sense that feel it.
+GREGORY  They must take it in sense that feel it.
 
-<speaker>SAMPSON</speaker>
-Me they shall feel while I am able to stand,
+SAMPSON  Me they shall feel while I am able to stand,
 and 'tis known I am a pretty piece of flesh.
 
-<speaker>GREGORY</speaker>
-'Tis well thou art not fish; if thou hadst, thou
+GREGORY  'Tis well thou art not fish; if thou hadst, thou
 hadst been poor-john. Draw thy tool. Here comes
 of the house of Montagues.
 
 [<i>Enter Abram with another Servingman.</i>]
 
-<speaker>SAMPSON</speaker>
-My naked weapon is out. Quarrel, I will back
+SAMPSON  My naked weapon is out. Quarrel, I will back
 thee.
 
-<speaker>GREGORY</speaker>
-How? Turn thy back and run?
+GREGORY  How? Turn thy back and run?
 
-<speaker>SAMPSON</speaker>
-Fear me not.
+SAMPSON  Fear me not.
 
-<speaker>GREGORY</speaker>
-No, marry. I fear thee!
+GREGORY  No, marry. I fear thee!
 
-<speaker>SAMPSON</speaker>
-Let us take the law of our sides; let them
+SAMPSON  Let us take the law of our sides; let them
 begin.
 
-<speaker>GREGORY</speaker>
-I will frown as I pass by, and let them take it
+GREGORY  I will frown as I pass by, and let them take it
 as they list.
 
-<speaker>SAMPSON</speaker>
-Nay, as they dare. I will bite my thumb at
+SAMPSON  Nay, as they dare. I will bite my thumb at
 them, which is disgrace to them if they bear it.
 [<i>He bites his thumb.</i>]
 
-<speaker>ABRAM</speaker>
-Do you bite your thumb at us, sir?
+ABRAM  Do you bite your thumb at us, sir?
 
-<speaker>SAMPSON</speaker>
-I do bite my thumb, sir.
+SAMPSON  I do bite my thumb, sir.
 
-<speaker>ABRAM</speaker>
-Do you bite your thumb at us, sir?
+ABRAM  Do you bite your thumb at us, sir?
 
-<speaker>SAMPSON,</speaker>
-[<i>aside to Gregory</i>]
-Is the law of our side if I
+SAMPSON, [<i>aside to Gregory</i>]
+ - Is the law of our side if I
 say "Ay"?
 
-<speaker>GREGORY,</speaker>
-[<i>aside to Sampson</i>]
-No.
+GREGORY, [<i>aside to Sampson</i>]
+ - No.
 
-<speaker>SAMPSON</speaker>
-No, sir, I do not bite my thumb at you, sir,
+SAMPSON  No, sir, I do not bite my thumb at you, sir,
 but I bite my thumb, sir.
 
-<speaker>GREGORY</speaker>
-Do you quarrel, sir?
+GREGORY  Do you quarrel, sir?
 
-<speaker>ABRAM</speaker>
-Quarrel, sir? No, sir.
+ABRAM  Quarrel, sir? No, sir.
 
-<speaker>SAMPSON</speaker>
-But if you do, sir, I am for you. I serve as
+SAMPSON  But if you do, sir, I am for you. I serve as
 good a man as you.
 
-<speaker>ABRAM</speaker>
-No better.
+ABRAM  No better.
 
-<speaker>SAMPSON</speaker>
-Well, sir.
+SAMPSON  Well, sir.
 
 [<i>Enter Benvolio.</i>]
 
-<speaker>GREGORY,</speaker>
-[<i>aside to Sampson</i>]
-Say "better"; here comes
+GREGORY, [<i>aside to Sampson</i>]
+ - Say "better"; here comes
 one of my master's kinsmen.
 
-<speaker>SAMPSON</speaker>
-Yes, better, sir.
+SAMPSON  Yes, better, sir.
 
-<speaker>ABRAM</speaker>
-You lie.
+ABRAM  You lie.
 
-<speaker>SAMPSON</speaker>
-Draw if you be men.--Gregory, remember
+SAMPSON  Draw if you be men.--Gregory, remember
 thy washing blow.	[<i>They fight.</i>]
 
-<speaker>BENVOLIO</speaker>
-Part, fools! [<i>Drawing his sword.</i>]
+BENVOLIO  Part, fools!	[<i>Drawing his sword.</i>]
 Put up your swords. You know not what you do.
 
 [<i>Enter Tybalt, drawing his sword.</i>]
 
-<speaker>TYBALT</speaker>
+TYBALT
 What, art thou drawn among these heartless hinds?
 Turn thee, Benvolio; look upon thy death.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 I do but keep the peace. Put up thy sword,
 Or manage it to part these men with me.
 
-<speaker>TYBALT</speaker>
+TYBALT
 What, drawn and talk of peace? I hate the word
 As I hate hell, all Montagues, and thee.
 Have at thee, coward!	[<i>They fight.</i>]
 
 [<i>Enter three or four Citizens with clubs or partisans.</i>]
 
-<speaker>CITIZENS</speaker>
+CITIZENS
 Clubs, bills, and partisans! Strike! Beat them down!
 Down with the Capulets! Down with the Montagues!
 
 [<i>Enter old Capulet in his gown, and his Wife.</i>]
 
-<speaker>CAPULET</speaker>
+CAPULET
 What noise is this? Give me my long sword, ho!
 
-<speaker>LADY CAPULET</speaker>
+LADY CAPULET
 A crutch, a crutch! Why call you for a
 sword?
 
 [<i>Enter old Montague and his Wife.</i>]
 
-<speaker>CAPULET</speaker>
+CAPULET
 My sword, I say. Old Montague is come
 And flourishes his blade in spite of me.
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 Thou villain Capulet!--Hold me not; let me go.
 
-<speaker>LADY MONTAGUE</speaker>
+LADY MONTAGUE
 Thou shalt not stir one foot to seek a foe.
 
 [<i>Enter Prince Escalus with his train.</i>]
 
-<speaker>PRINCE</speaker>
+PRINCE
 Rebellious subjects, enemies to peace,
 Profaners of this neighbor-stained steel--
 Will they not hear?--What ho! You men, you beasts,
@@ -293,12 +199,11 @@ Once more, on pain of death, all men depart.
 [<i>All but Montague, Lady Montague,
 and Benvolio exit.</i>]
 
-<speaker>MONTAGUE,</speaker>
-[<i>to Benvolio</i>]
+MONTAGUE, [<i>to Benvolio</i>]
 Who set this ancient quarrel new abroach?
 Speak, nephew, were you by when it began?
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Here were the servants of your adversary,
 And yours, close fighting ere I did approach.
 I drew to part them. In the instant came
@@ -310,11 +215,11 @@ While we were interchanging thrusts and blows
 Came more and more and fought on part and part,
 Till the Prince came, who parted either part.
 
-<speaker>LADY MONTAGUE</speaker>
+LADY MONTAGUE
 O, where is Romeo? Saw you him today?
 Right glad I am he was not at this fray.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Madam, an hour before the worshiped sun
 Peered forth the golden window of the east,
 A troubled mind drove me to walk abroad,
@@ -330,7 +235,7 @@ Being one too many by my weary self),
 Pursued my humor, not pursuing his,
 And gladly shunned who gladly fled from me.
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 Many a morning hath he there been seen,
 With tears augmenting the fresh morning's dew,
 Adding to clouds more clouds with his deep sighs.
@@ -344,16 +249,16 @@ And makes himself an artificial night.
 Black and portentous must this humor prove,
 Unless good counsel may the cause remove.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 My noble uncle, do you know the cause?
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 I neither know it nor can learn of him.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Have you importuned him by any means?
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 Both by myself and many other friends.
 But he, his own affections' counselor,
 Is to himself--I will not say how true,
@@ -367,51 +272,46 @@ We would as willingly give cure as know.
 
 [<i>Enter Romeo.</i>]
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 See where he comes. So please you, step aside.
 I'll know his grievance or be much denied.
 
-<speaker>MONTAGUE</speaker>
+MONTAGUE
 I would thou wert so happy by thy stay
 To hear true shrift.--Come, madam, let's away.
 [<i>Montague and Lady Montague exit.</i>]
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Good morrow, cousin.
 
-<speaker>ROMEO</speaker>
-Is the day so young?
+ROMEO  Is the day so young?
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 But new struck nine.
 
-<speaker>ROMEO</speaker>
-Ay me, sad hours seem long.
+ROMEO  Ay me, sad hours seem long.
 Was that my father that went hence so fast?
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 It was. What sadness lengthens Romeo's hours?
 
-<speaker>ROMEO</speaker>
+ROMEO
 Not having that which, having, makes them short.
 
-<speaker>BENVOLIO</speaker>
-In love?
+BENVOLIO  In love?
 
-<speaker>ROMEO</speaker>
-Out--
+ROMEO  Out--
 
-<speaker>BENVOLIO</speaker>
-Of love?
+BENVOLIO  Of love?
 
-<speaker>ROMEO</speaker>
+ROMEO
 Out of her favor where I am in love.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Alas that love, so gentle in his view,
 Should be so tyrannous and rough in proof!
 
-<speaker>ROMEO</speaker>
+ROMEO
 Alas that love, whose view is muffled still,
 Should without eyes see pathways to his will!
 Where shall we dine?--O me! What fray was here?
@@ -426,17 +326,14 @@ Still-waking sleep that is not what it is!
 This love feel I, that feel no love in this.
 Dost thou not laugh?
 
-<speaker>BENVOLIO</speaker>
-No, coz, I rather weep.
+BENVOLIO  No, coz, I rather weep.
 
-<speaker>ROMEO</speaker>
+ROMEO
 Good heart, at what?
 
-<speaker>BENVOLIO</speaker>
-At thy good heart's oppression.
+BENVOLIO  At thy good heart's oppression.
 
-<speaker>ROMEO</speaker>
-Why, such is love's transgression.
+ROMEO  Why, such is love's transgression.
 Griefs of mine own lie heavy in my breast,
 Which thou wilt propagate to have it pressed
 With more of thine. This love that thou hast shown
@@ -448,38 +345,36 @@ What is it else? A madness most discreet,
 A choking gall, and a preserving sweet.
 Farewell, my coz.
 
-<speaker>BENVOLIO</speaker>
-Soft, I will go along.
+BENVOLIO  Soft, I will go along.
 An if you leave me so, you do me wrong.
 
-<speaker>ROMEO</speaker>
+ROMEO
 Tut, I have lost myself. I am not here.
 This is not Romeo. He's some other where.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Tell me in sadness, who is that you love?
 
-<speaker>ROMEO</speaker>
-What, shall I groan and tell thee?
+ROMEO  What, shall I groan and tell thee?
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Groan? Why, no. But sadly tell me who.
 
-<speaker>ROMEO</speaker>
+ROMEO
 A sick man in sadness makes his will--
 A word ill urged to one that is so ill.
 In sadness, cousin, I do love a woman.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 I aimed so near when I supposed you loved.
 
-<speaker>ROMEO</speaker>
+ROMEO
 A right good markman! And she's fair I love.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 A right fair mark, fair coz, is soonest hit.
 
-<speaker>ROMEO</speaker>
+ROMEO
 Well in that hit you miss. She'll not be hit
 With Cupid's arrow. She hath Dian's wit,
 And, in strong proof of chastity well armed,
@@ -490,10 +385,10 @@ Nor ope her lap to saint-seducing gold.
 O, she is rich in beauty, only poor
 That, when she dies, with beauty dies her store.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Then she hath sworn that she will still live chaste?
 
-<speaker>ROMEO</speaker>
+ROMEO
 She hath, and in that sparing makes huge waste;
 For beauty, starved with her severity,
 Cuts beauty off from all posterity.
@@ -502,18 +397,17 @@ To merit bliss by making me despair.
 She hath forsworn to love, and in that vow
 Do I live dead, that live to tell it now.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 Be ruled by me. Forget to think of her.
 
-<speaker>ROMEO</speaker>
+ROMEO
 O, teach me how I should forget to think!
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 By giving liberty unto thine eyes.
 Examine other beauties.
 
-<speaker>ROMEO</speaker>
-'Tis the way
+ROMEO  'Tis the way
 To call hers, exquisite, in question more.
 These happy masks that kiss fair ladies' brows,
 Being black, puts us in mind they hide the fair.
@@ -524,7 +418,7 @@ What doth her beauty serve but as a note
 Where I may read who passed that passing fair?
 Farewell. Thou canst not teach me to forget.
 
-<speaker>BENVOLIO</speaker>
+BENVOLIO
 I'll pay that doctrine or else die in debt.
 [<i>They exit.</i>]
 
@@ -1288,7 +1182,7 @@ Shall have the chinks.	[<i>Nurse moves away.</i>]
 
 <speaker>ROMEO,</speaker>
 [<i>aside</i>]
-Is she a Capulet?
+  Is she a Capulet?
 O dear account! My life is my foe's debt.
 
 <speaker>BENVOLIO</speaker>
@@ -1327,7 +1221,7 @@ I know not.
 
 <speaker>JULIET</speaker>
 Go ask his name. [<i>The Nurse goes.</i>]
-If he be married,
+ If he be married,
 My grave is like to be my wedding bed.
 
 <speaker>NURSE,</speaker>
@@ -1490,7 +1384,7 @@ Ay me.
 
 <speaker>ROMEO,</speaker>
 [<i>aside</i>]
-She speaks.
+  She speaks.
 O, speak again, bright angel, for thou art
 As glorious to this night, being o'er my head,
 As is a winged messenger of heaven
@@ -1687,7 +1581,7 @@ And follow thee my lord throughout the world.
 
 <speaker>NURSE,</speaker>
 [<i>within</i>]
-Madam.
+  Madam.
 
 <speaker>JULIET</speaker>
 I come anon.--But if thou meanest not well,
@@ -1695,7 +1589,7 @@ I do beseech thee--
 
 <speaker>NURSE,</speaker>
 [<i>within</i>]
-Madam.
+  Madam.
 
 <speaker>JULIET</speaker>
 By and by, I come.--
@@ -2202,12 +2096,12 @@ What hast thou found?
 No hare, sir, unless a hare, sir, in a Lenten
 pie that is something stale and hoar ere it be spent.
 [<i>Singing.</i>]
-An old hare hoar,
-And an old hare hoar,
-Is very good meat in Lent.
-But a hare that is hoar
-Is too much for a score
-When it hoars ere it be spent.
+	An old hare hoar,
+	And an old hare hoar,
+	   Is very good meat in Lent.
+	But a hare that is hoar
+	Is too much for a score
+	   When it hoars ere it be spent.
 Romeo, will you come to your father's? We'll to
 dinner thither.
 
@@ -2233,7 +2127,7 @@ down, an he were lustier than he is, and twenty
 such jacks. An if I cannot, I'll find those that shall.
 Scurvy knave, I am none of his flirt-gills; I am none
 of his skains-mates. [<i>To Peter.</i>]
-And thou must stand
+ And thou must stand
 by too and suffer every knave to use me at his
 pleasure.
 
@@ -2247,7 +2141,7 @@ side.
 <speaker>NURSE</speaker>
 Now, afore God, I am so vexed that every part
 about me quivers. Scurvy knave! [<i>To Romeo.</i>]
-Pray
+ Pray
 you, sir, a word. And, as I told you, my young lady
 bid me inquire you out. What she bid me say, I will
 keep to myself. But first let me tell you, if you
@@ -2812,7 +2706,7 @@ There lies that Tybalt.
 
 <speaker>CITIZEN,</speaker>
 [<i>to Tybalt</i>]
-Up, sir, go with me.
+  Up, sir, go with me.
 I charge thee in the Prince's name, obey.
 
 [<i>Enter Prince, old Montague, Capulet, their Wives and all.</i>]
@@ -3444,7 +3338,7 @@ My lord, I would that Thursday were tomorrow.
 <speaker>CAPULET</speaker>
 Well, get you gone. O' Thursday be it, then.
 [<i>To Lady Capulet.</i>]
-Go you to Juliet ere you go to bed.
+ Go you to Juliet ere you go to bed.
 Prepare her, wife, against this wedding day.--
 Farewell, my lord.--Light to my chamber, ho!--
 Afore me, it is so very late that we
@@ -4542,9 +4436,9 @@ Then have at you with my wit. I will dry-beat
 you with an iron wit, and put up my iron dagger.
 Answer me like men.
 [<i>Sings.</i>]
-When griping griefs the heart doth wound
-And doleful dumps the mind oppress,
-Then music with her silver sound--
+	When griping griefs the heart doth wound
+	And doleful dumps the mind oppress,
+	Then music with her silver sound--
 Why "silver sound"? Why "music with her silver
 sound"? What say you, Simon Catling?
 
@@ -4570,8 +4464,8 @@ O, I cry you mercy. You are the singer. I will say
 for you. It is "music with her silver sound" because
 musicians have no gold for sounding:
 [<i>Sings.</i>]
-Then music with her silver sound
-With speedy help doth lend redress.
+	Then music with her silver sound
+	With speedy help doth lend redress.
 [<i>He exits.</i>]
 
 <speaker>FIRST MUSICIAN</speaker>
@@ -4943,7 +4837,7 @@ Come, bitter conduct, come, unsavory guide!
 Thou desperate pilot, now at once run on
 The dashing rocks thy seasick weary bark!
 Here's to my love. [<i>Drinking.</i>]
-O true apothecary,
+ O true apothecary,
 Thy drugs are quick. Thus with a kiss I die.
 [<i>He dies.</i>]
 

@@ -1,0 +1,33 @@
+ROMEO
+MONTAGUE, his father
+LADY MONTAGUE, his mother
+BENVOLIO, their kinsman
+ABRAM, a Montague servingman
+BALTHASAR, Romeo&rsquo;s servingman
+JULIET
+CAPULET, her father
+LADY CAPULET, her mother
+NURSE to Juliet
+TYBALT, kinsman to the Capulets
+PETRUCHIO, Tybalt&rsquo;s companion
+Capulet&rsquo;s Cousin
+Servingmen:
+  SAMPSON
+  GREGORY
+  PETER
+Other Servingmen
+ESCALUS, Prince of Verona
+PARIS, the Prince&rsquo;s kinsman and Juliet&rsquo;s suitor
+MERCUTIO, the Prince&rsquo;s kinsman and Romeo&rsquo;s friend
+Paris&rsquo; Page
+FRIAR LAWRENCE
+FRIAR JOHN
+APOTHECARY
+Three or four Citizens
+Three Musicians
+Three Watchmen
+CHORUS
+Attendants, Maskers, Torchbearers, a Boy with a drum, Gentlemen, Gentlewomen, Tybalt&rsquo;s Page, Servingmen.
+
+
+THE PROLOGUE

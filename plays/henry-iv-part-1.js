@@ -6,41 +6,14 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-iv-part-1/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-KING HENRY IV, formerly Henry Bolingbroke
-PRINCE HAL, Prince of Wales and heir to the throne (also called Harry and Harry Monmouth)
-LORD JOHN OF LANCASTER, younger son of King Henry
-EARL OF WESTMORELAND
-SIR WALTER BLUNT
-HOTSPUR (Sir Henry, or Harry, Percy)
-LADY PERCY (also called Kate)
-EARL OF NORTHUMBERLAND, Henry Percy, Hotspur's father
-EARL OF WORCESTER, Thomas Percy, Hotspur's uncle
-EDMUND MORTIMER, earl of March
-LADY MORTIMER (also called "the Welsh lady")
-OWEN GLENDOWER, a Welsh lord, father of Lady Mortimer
-DOUGLAS (Archibald, earl of Douglas)
-ARCHBISHOP (Richard Scroop, archbishop of York)
-SIR MICHAEL, a priest or knight associated with the archbishop
-SIR RICHARD VERNON, an English knight
-SIR JOHN FALSTAFF
-POINS (also called Edward, Yedward, and Ned)
-BARDOLPH
-PETO
-GADSHILL, setter for the robbers
-HOSTESS of the tavern (also called Mistress Quickly)
-VINTNER, or keeper of the tavern
-FRANCIS, an apprentice tapster
-Carriers, Ostlers, Chamberlain, Travelers, Sheriff, Servants, Lords, Attendants, Messengers, Soldiers
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter the King, Lord John of Lancaster, and the Earl
 of Westmoreland, with others.</i>]
 
-<speaker>KING</speaker>
+KING
 So shaken as we are, so wan with care,
 Find we a time for frighted peace to pant
 And breathe short-winded accents of new broils
@@ -75,7 +48,7 @@ Of you, my gentle cousin Westmoreland,
 What yesternight our council did decree
 In forwarding this dear expedience.
 
-<speaker>WESTMORELAND</speaker>
+WESTMORELAND
 My liege, this haste was hot in question,
 And many limits of the charge set down
 But yesternight, when all athwart there came
@@ -90,11 +63,11 @@ Such beastly shameless transformation
 By those Welshwomen done, as may not be
 Without much shame retold or spoken of.
 
-<speaker>KING</speaker>
+KING
 It seems then that the tidings of this broil
 Brake off our business for the Holy Land.
 
-<speaker>WESTMORELAND</speaker>
+WESTMORELAND
 This matched with other did, my gracious lord.
 For more uneven and unwelcome news
 Came from the north, and thus it did import:
@@ -109,7 +82,7 @@ For he that brought them, in the very heat
 And pride of their contention did take horse,
 Uncertain of the issue any way.
 
-<speaker>KING</speaker>
+KING
 Here is a dear, a true-industrious friend,
 Sir Walter Blunt, new lighted from his horse,
 Stained with the variation of each soil
@@ -125,10 +98,10 @@ Of Murray, Angus, and Menteith.
 And is not this an honorable spoil?
 A gallant prize? Ha, cousin, is it not?
 
-<speaker>WESTMORELAND</speaker>
+WESTMORELAND
 In faith, it is a conquest for a prince to boast of.
 
-<speaker>KING</speaker>
+KING
 Yea, there thou mak'st me sad, and mak'st me sin
 In envy that my Lord Northumberland
 Should be the father to so blest a son,
@@ -148,13 +121,13 @@ Which he in this adventure hath surprised
 To his own use he keeps, and sends me word
 I shall have none but Mordake, Earl of Fife.
 
-<speaker>WESTMORELAND</speaker>
+WESTMORELAND
 This is his uncle's teaching. This is Worcester,
 Malevolent to you in all aspects,
 Which makes him prune himself, and bristle up
 The crest of youth against your dignity.
 
-<speaker>KING</speaker>
+KING
 But I have sent for him to answer this.
 And for this cause awhile we must neglect
 Our holy purpose to Jerusalem.
@@ -164,8 +137,7 @@ But come yourself with speed to us again,
 For more is to be said and to be done
 Than out of anger can be uttered.
 
-<speaker>WESTMORELAND</speaker>
-I will, my liege.
+WESTMORELAND  I will, my liege.
 [<i>They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
@@ -374,7 +346,7 @@ proverbs. He will give the devil his due.
 
 <speaker>POINS,</speaker>
 [<i>to Falstaff</i>]
-Then art thou damned for keeping
+  Then art thou damned for keeping
 thy word with the devil.
 
 <speaker>PRINCE</speaker>
@@ -972,7 +944,7 @@ ostler!
 
 <speaker>OSTLER,</speaker>
 [<i>within</i>]
-Anon, anon.
+  Anon, anon.
 
 <speaker>FIRST CARRIER</speaker>
 I prithee, Tom, beat Cut's saddle. Put a
@@ -1041,7 +1013,7 @@ two of that, i' faith.
 
 <speaker>GADSHILL,</speaker>
 [<i>to Second Carrier</i>]
-I pray thee, lend me
+  I pray thee, lend me
 thine.
 
 <speaker>SECOND CARRIER</speaker>
@@ -1189,7 +1161,7 @@ is threescore and ten miles afoot with me, and the
 stony-hearted villains know it well enough. A plague
 upon it when thieves cannot be true one to another!
 [<i>(They whistle, within.)</i>]
-Whew! A plague upon you
+ Whew! A plague upon you
 all!
 
 [<i>Enter the Prince, Poins, Peto, and Bardolph.</i>]
@@ -1291,11 +1263,11 @@ hanged.
 
 <speaker>PRINCE,</speaker>
 [<i>aside to Poins</i>]
-Ned, where are our disguises?
+  Ned, where are our disguises?
 
 <speaker>POINS,</speaker>
 [<i>aside to Prince</i>]
-Here, hard by. Stand close.
+  Here, hard by. Stand close.
 [<i>The Prince and Poins exit.</i>]
 
 <speaker>FALSTAFF</speaker>
@@ -1312,7 +1284,7 @@ and ease our legs.
 
 <speaker>THIEVES,</speaker>
 [<i>advancing</i>]
-Stand!
+  Stand!
 
 <speaker>TRAVELERS</speaker>
 Jesus bless us!
@@ -1606,14 +1578,14 @@ I'll show thee a precedent.	[<i>Poins exits.</i>]
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>PRINCE</speaker>
 Thou art perfect.
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 [<i>Enter Francis, the Drawer.</i>]
 
@@ -1635,7 +1607,7 @@ Forsooth, five years, and as much as to--
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>FRANCIS</speaker>
 Anon, anon, sir.
@@ -1653,7 +1625,7 @@ in England, I could find in my heart--
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>FRANCIS</speaker>
 Anon, sir.
@@ -1667,7 +1639,7 @@ be--
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>FRANCIS</speaker>
 Anon, sir.--Pray, stay a little, my lord.
@@ -1685,7 +1657,7 @@ me when thou wilt, and thou shalt have it.
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>FRANCIS</speaker>
 Anon, anon.
@@ -1717,7 +1689,7 @@ What, sir?
 
 <speaker>POINS,</speaker>
 [<i>within</i>]
-Francis!
+  Francis!
 
 <speaker>PRINCE</speaker>
 Away, you rogue! Dost thou not hear them
@@ -1736,7 +1708,7 @@ the door. Shall I let them in?
 <speaker>PRINCE</speaker>
 Let them alone awhile, and then open the
 door. [<i>Vintner exits.</i>]
-Poins!
+ Poins!
 
 [<i>Enter Poins.</i>]
 
@@ -1804,7 +1776,7 @@ that compound.
 
 <speaker>FALSTAFF,</speaker>
 [<i>to Francis</i>]
-You rogue, here's lime in this
+  You rogue, here's lime in this
 sack too.--There is nothing but roguery to be
 found in villainous man, yet a coward is worse than
 a cup of sack with lime in it. A villainous coward! Go
@@ -1855,7 +1827,7 @@ drunk'st last.
 
 <speaker>FALSTAFF</speaker>
 All is one for that. [<i>(He drinketh.)</i>]
-A plague of
+ A plague of
 all cowards, still say I.
 
 <speaker>PRINCE</speaker>
@@ -1885,7 +1857,7 @@ a handsaw. Ecce signum! I never dealt better since
 I was a man. All would not do. A plague of
 all cowards! Let them speak. [<i>Pointing to Gadshill,
 Bardolph, and Peto.</i>]
-If they speak more or
+ If they speak more or
 less than truth, they are villains, and the sons of
 darkness.
 
@@ -1966,7 +1938,7 @@ Seven by these hilts, or I am a villain else.
 
 <speaker>PRINCE,</speaker>
 [<i>to Poins</i>]
-Prithee, let him alone. We shall have
+  Prithee, let him alone. We shall have
 more anon.
 
 <speaker>FALSTAFF</speaker>
@@ -2129,7 +2101,7 @@ Faith, and I'll send him packing. [<i>He exits.</i>]
 
 <speaker>PRINCE</speaker>
 Now, sirs. [<i>To Gadshill.</i>]
-By 'r Lady, you fought
+ By 'r Lady, you fought
 fair.--So did you, Peto.--So did you, Bardolph.--
 You are lions too. You ran away upon instinct. You
 will not touch the true prince. No, fie!
@@ -2268,7 +2240,7 @@ upon the particulars of my life.
 
 <speaker>FALSTAFF</speaker>
 Shall I? Content. [<i>He sits down.</i>]
-This chair
+ This chair
 shall be my state, this dagger my scepter, and this
 cushion my crown.
 
@@ -2286,11 +2258,11 @@ and I will do it in King Cambyses' vein.
 
 <speaker>PRINCE,</speaker>
 [<i>bowing</i>]
-Well, here is my leg.
+  Well, here is my leg.
 
 <speaker>FALSTAFF</speaker>
 And here is my speech. [<i>As King.</i>]
-Stand
+ Stand
 aside, nobility.
 
 <speaker>HOSTESS</speaker>
@@ -2315,7 +2287,7 @@ players as ever I see.
 <speaker>FALSTAFF</speaker>
 Peace, good pint-pot. Peace, good tickle-brain.--
 [<i>As King.</i>]
-Harry, I do not only marvel
+ Harry, I do not only marvel
 where thou spendest thy time, but also how thou
 art accompanied. For though the camomile, the
 more it is trodden on, the faster it grows, so youth,
@@ -2344,7 +2316,7 @@ What manner of man, an it like your Majesty?
 
 <speaker>FALSTAFF,</speaker>
 [<i>as King</i>]
-A goodly portly man, i' faith, and a
+  A goodly portly man, i' faith, and a
 corpulent; of a cheerful look, a pleasing eye, and a
 most noble carriage, and, as I think, his age some
 fifty, or, by 'r Lady, inclining to threescore; and now
@@ -2363,39 +2335,39 @@ me, and I'll play my father.
 
 <speaker>FALSTAFF,</speaker>
 [<i>rising</i>]
-Depose me? If thou dost it half so
+  Depose me? If thou dost it half so
 gravely, so majestically, both in word and matter,
 hang me up by the heels for a rabbit-sucker or a
 poulter's hare.
 
 <speaker>PRINCE,</speaker>
 [<i>sitting down</i>]
-Well, here I am set.
+  Well, here I am set.
 
 <speaker>FALSTAFF</speaker>
 And here I stand.--Judge, my masters.
 
 <speaker>PRINCE,</speaker>
 [<i>as King</i>]
-Now, Harry, whence come you?
+  Now, Harry, whence come you?
 
 <speaker>FALSTAFF,</speaker>
 [<i>as Prince</i>]
-My noble lord, from Eastcheap.
+  My noble lord, from Eastcheap.
 
 <speaker>PRINCE,</speaker>
 [<i>as King</i>]
-The complaints I hear of thee are
+  The complaints I hear of thee are
 grievous.
 
 <speaker>FALSTAFF,</speaker>
 [<i>as Prince</i>]
-'Sblood, my lord, they are false.
+  'Sblood, my lord, they are false.
 --Nay, I'll tickle you for a young prince, i' faith.
 
 <speaker>PRINCE,</speaker>
 [<i>as King</i>]
-Swearest thou? Ungracious boy,
+  Swearest thou? Ungracious boy,
 henceforth ne'er look on me. Thou art violently
 carried away from grace. There is a devil haunts
 thee in the likeness of an old fat man. A tun of man
@@ -2414,25 +2386,25 @@ nothing?
 
 <speaker>FALSTAFF,</speaker>
 [<i>as Prince</i>]
-I would your Grace would take
+  I would your Grace would take
 me with you. Whom means your Grace?
 
 <speaker>PRINCE,</speaker>
 [<i>as King</i>]
-That villainous abominable misleader
+  That villainous abominable misleader
 of youth, Falstaff, that old white-bearded Satan.
 
 <speaker>FALSTAFF,</speaker>
 [<i>as Prince</i>]
-My lord, the man I know.
+  My lord, the man I know.
 
 <speaker>PRINCE,</speaker>
 [<i>as King</i>]
-I know thou dost.
+  I know thou dost.
 
 <speaker>FALSTAFF,</speaker>
 [<i>as Prince</i>]
-But to say I know more harm in
+  But to say I know more harm in
 him than in myself were to say more than I know.
 That he is old, the more the pity; his white hairs do
 witness it. But that he is, saving your reverence, a
@@ -2495,7 +2467,7 @@ a halter as another.
 
 <speaker>PRINCE,</speaker>
 [<i>standing</i>]
-Go hide thee behind the arras. The
+  Go hide thee behind the arras. The
 rest walk up above.--Now, my masters, for a true
 face and good conscience.
 
@@ -2565,7 +2537,7 @@ snorting like a horse.
 Hark, how hard he fetches breath. Search his
 pockets. [<i>(He searcheth his pocket, and findeth certain
 papers.)</i>]
-What hast thou found?
+ What hast thou found?
 
 <speaker>PETO</speaker>
 Nothing but papers, my lord.
@@ -2738,7 +2710,7 @@ As is appointed us, at Shrewsbury.
 My father Glendower is not ready yet,
 Nor shall we need his help these fourteen days.
 [<i>To Glendower.</i>]
-Within that space you may have
+ Within that space you may have
 drawn together
 Your tenants, friends, and neighboring gentlemen.
 
@@ -3373,7 +3345,7 @@ lent you, four-and-twenty pound.
 
 <speaker>FALSTAFF,</speaker>
 [<i>pointing to Bardolph</i>]
-He had his part of it.
+  He had his part of it.
 Let him pay.
 
 <speaker>HOSTESS</speaker>
@@ -3389,7 +3361,7 @@ seal ring of my grandfather's worth forty mark.
 
 <speaker>HOSTESS,</speaker>
 [<i>to Bardolph</i>]
-O Jesu, I have heard the Prince
+  O Jesu, I have heard the Prince
 tell him, I know not how oft, that that ring was
 copper.
 
@@ -3409,7 +3381,7 @@ Yea, two and two, Newgate fashion.
 
 <speaker>HOSTESS,</speaker>
 [<i>to Prince</i>]
-My lord, I pray you, hear me.
+  My lord, I pray you, hear me.
 
 <speaker>PRINCE</speaker>
 What say'st thou, Mistress Quickly? How doth
@@ -3571,7 +3543,7 @@ breakfast, love thy husband, look to thy servants,
 cherish thy guests. Thou shalt find me tractable
 to any honest reason. Thou seest I am pacified still.
 Nay, prithee, begone. [<i>(Hostess exits.)</i>]
-Now, Hal, to
+ Now, Hal, to
 the news at court. For the robbery, lad, how is that
 answered?
 
@@ -3659,7 +3631,7 @@ Do so, and 'tis well.
 [<i>Enter a Messenger with letters.</i>]
 
 What letters hast thou there? [<i>To Douglas.</i>]
-I can but
+ I can but
 thank you.
 
 <speaker>MESSENGER</speaker>
@@ -4476,7 +4448,7 @@ Here comes your cousin.
 
 <speaker>HOTSPUR,</speaker>
 [<i>to Douglas</i>]
-My uncle is returned.
+  My uncle is returned.
 Deliver up my Lord of Westmoreland.--
 Uncle, what news?
 
@@ -4612,7 +4584,7 @@ Because some tell me that thou art a king.
 
 <speaker>BLUNT,</speaker>
 [<i>as King</i>]
-They tell thee true.
+  They tell thee true.
 
 <speaker>DOUGLAS</speaker>
 The Lord of Stafford dear today hath bought
@@ -4809,7 +4781,7 @@ It is the Prince of Wales that threatens thee,
 Who never promiseth but he means to pay.
 [<i>They fight. Douglas flieth.</i>]
 [<i>To King.</i>]
-Cheerly, my lord. How fares your Grace?
+ Cheerly, my lord. How fares your Grace?
 Sir Nicholas Gawsey hath for succor sent,
 And so hath Clifton. I'll to Clifton straight.
 
@@ -4936,7 +4908,7 @@ Therefore I'll make him sure, yea, and I'll swear
 I killed him. Why may not he rise as well as I?
 Nothing confutes me but eyes, and nobody sees me.
 Therefore, sirrah, [<i>stabbing him</i>]
-with a new wound
+ with a new wound
 in your thigh, come you along with me.
 [<i>He takes up Hotspur on his back.</i>]
 

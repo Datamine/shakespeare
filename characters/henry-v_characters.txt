@@ -1,0 +1,60 @@
+CHORUS
+HENRY V, KING OF ENGLAND
+THOMAS, DUKE OF EXETER, uncle to the King
+Brothers to the King:
+  HUMPHREY, DUKE OF GLOUCESTER
+  JOHN, DUKE OF BEDFORD
+  THOMAS, DUKE OF CLARENCE
+Cousins to the King:
+  DUKE OF YORK
+  EARL OF WESTMORELAND
+  EARL OF CAMBRIDGE
+English nobles:
+  EARL OF WARWICK
+  EARL OF SALISBURY
+  EARL OF HUNTINGTON
+  LORD SCROOP OF MASHAM
+SIR THOMAS GREY
+HOSTESS QUICKLY
+Former companions of Henry, now in his army:
+  PISTOL
+  NYM
+  BARDOLPH
+BOY, their servant
+Officers in Henry&rsquo;s army:
+  SIR THOMAS ERPINGHAM
+  CAPTAIN FLUELLEN
+  CAPTAIN GOWER
+  CAPTAIN MACMORRIS
+  CAPTAIN JAMY
+English heralds
+Soldiers in Henry&rsquo;s army:
+  JOHN BATES
+  ALEXANDER COURT
+  MICHAEL WILLIAMS
+BISHOP OF CANTERBURY
+BISHOP OF ELY
+
+KING OF FRANCE
+QUEEN ISABEL OF FRANCE
+KATHERINE, Princess of France
+ALICE, a gentlewoman attending on Katherine
+DAUPHIN (i.e., Prince) of France
+French nobles:
+  DUKE OF BERRI
+  DUKE OF BRITTANY
+  DUKE OF ORLEANS
+  DUKE OF BOURBON
+  DUKE OF BURGUNDY
+  CONSTABLE OF FRANCE
+  LORD GRANDPRE
+  LORD RAMBURES
+  LORD BEAUMONT
+MONTJOY, French herald
+French ambassadors to England
+MONSIEUR LE FER, a French soldier
+Governor of Harfleur
+Lords, Attendants, Soldiers, French Prisoners, Messengers
+
+
+PROLOGUE

@@ -6,39 +6,18 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/the-comedy-of-errors/
 Created on Oct 4, 2017, from FDT version 0.9.2.2`;
 
-export const text = `Characters in the Play
-<hr>
-EGEON, a merchant from Syracuse
-Solinus, DUKE of Ephesus
-ANTIPHOLUS OF SYRACUSE, a traveler in search of his mother and his brother
-DROMIO OF SYRACUSE, Antipholus of Syracuse's servant
-FIRST MERCHANT, a citizen of Ephesus
-ANTIPHOLUS OF EPHESUS, a citizen of Ephesus
-DROMIO OF EPHESUS, Antipholus of Ephesus's servant
-ADRIANA, Antipholus of Ephesus's wife
-LUCIANA, Adriana's sister
-LUCE (also called Nell), kitchen maid betrothed to Dromio of Ephesus
-MESSENGER, servant to Antipholus of Ephesus and Adriana
-ANGELO, an Ephesian goldsmith
-SECOND MERCHANT, a citizen of Ephesus to whom Angelo owes money
-BALTHASAR, an Ephesian merchant invited to dinner by Antipholus of Ephesus
-COURTESAN, hostess of Antipholus of Ephesus at dinner
-DR. PINCH, a schoolmaster, engaged as an exorcist
-OFFICER (also called Jailer), an Ephesian law officer
-LADY ABBESS (also called Emilia), head of a priory in Ephesus
-Attendants, Servants to Pinch, Headsman, Officers
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Solinus the Duke of Ephesus, with Egeon the
 Merchant of Syracuse, Jailer, and other Attendants.</i>]
 
-<speaker>EGEON</speaker>
+EGEON
 Proceed, Solinus, to procure my fall,
 And by the doom of death end woes and all.
 
-<speaker>DUKE</speaker>
+DUKE
 Merchant of Syracusa, plead no more.
 I am not partial to infringe our laws.
 The enmity and discord which of late
@@ -63,16 +42,16 @@ Thy substance, valued at the highest rate,
 Cannot amount unto a hundred marks;
 Therefore by law thou art condemned to die.
 
-<speaker>EGEON</speaker>
+EGEON
 Yet this my comfort: when your words are done,
 My woes end likewise with the evening sun.
 
-<speaker>DUKE</speaker>
+DUKE
 Well, Syracusian, say in brief the cause
 Why thou departedst from thy native home
 And for what cause thou cam'st to Ephesus.
 
-<speaker>EGEON</speaker>
+EGEON
 A heavier task could not have been imposed
 Than I to speak my griefs unspeakable;
 Yet, that the world may witness that my end
@@ -139,11 +118,11 @@ Of Corinth that, of Epidaurus this.
 But ere they came--O, let me say no more!
 Gather the sequel by that went before.
 
-<speaker>DUKE</speaker>
+DUKE
 Nay, forward, old man. Do not break off so,
 For we may pity though not pardon thee.
 
-<speaker>EGEON</speaker>
+EGEON
 O, had the gods done so, I had not now
 Worthily termed them merciless to us.
 For, ere the ships could meet by twice five leagues,
@@ -168,12 +147,12 @@ Thus have you heard me severed from my bliss,
 That by misfortunes was my life prolonged
 To tell sad stories of my own mishaps.
 
-<speaker>DUKE</speaker>
+DUKE
 And for the sake of them thou sorrowest for,
 Do me the favor to dilate at full
 What have befall'n of them and thee till now.
 
-<speaker>EGEON</speaker>
+EGEON
 My youngest boy, and yet my eldest care,
 At eighteen years became inquisitive
 After his brother, and importuned me
@@ -191,7 +170,7 @@ But here must end the story of my life;
 And happy were I in my timely death
 Could all my travels warrant me they live.
 
-<speaker>DUKE</speaker>
+DUKE
 Hapless Egeon, whom the fates have marked
 To bear the extremity of dire mishap,
 Now, trust me, were it not against our laws,
@@ -209,10 +188,9 @@ Beg thou, or borrow, to make up the sum,
 And live. If no, then thou art doomed to die.--
 Jailer, take him to thy custody.
 
-<speaker>JAILER</speaker>
-I will, my lord.
+JAILER  I will, my lord.
 
-<speaker>EGEON</speaker>
+EGEON
 Hopeless and helpless doth Egeon wend,
 But to procrastinate his lifeless end.
 [<i>They exit.</i>]
@@ -985,7 +963,7 @@ Come, sir, to dinner.--Dromio, keep the gate.--
 Husband, I'll dine above with you today,
 And shrive you of a thousand idle pranks.
 [<i>To Dromio.</i>]
-Sirrah, if any ask you for your master,
+ Sirrah, if any ask you for your master,
 Say he dines forth, and let no creature enter.--
 Come, sister.--Dromio, play the porter well.
 
@@ -1074,7 +1052,7 @@ part.
 Better cheer may you have, but not with better
 heart.	[<i>He attempts to open the door.</i>]
 But soft! My door is locked. [<i>To Dromio.</i>]
-Go, bid
+ Go, bid
 them let us in.
 
 <speaker>DROMIO OF EPHESUS</speaker>
@@ -1169,7 +1147,7 @@ I thought to have asked you.
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
-And you said no.
+   And you said no.
 
 <speaker>DROMIO OF EPHESUS</speaker>
 So, come help. Well struck! There was blow for
@@ -1317,7 +1295,7 @@ There will we dine. This woman that I mean,
 My wife--but, I protest, without desert--
 Hath oftentimes upbraided me withal;
 To her will we to dinner. [<i>To Angelo.</i>]
-Get you home
+ Get you home
 And fetch the chain; by this, I know, 'tis made.
 Bring it, I pray you, to the Porpentine,
 For there's the house. That chain will I bestow--
@@ -1339,61 +1317,61 @@ Do so. This jest shall cost me some expense.
 
 <speaker>LUCIANA</speaker>
 And may it be that you have quite forgot
-A husband's office? Shall, Antipholus,
+   A husband's office? Shall, Antipholus,
 Even in the spring of love thy love-springs rot?
-Shall love, in building, grow so ruinous?
+   Shall love, in building, grow so ruinous?
 If you did wed my sister for her wealth,
-Then for her wealth's sake use her with more
-kindness.
+   Then for her wealth's sake use her with more
+   kindness.
 Or if you like elsewhere, do it by stealth --
-Muffle your false love with some show of
-blindness.
+   Muffle your false love with some show of
+   blindness.
 Let not my sister read it in your eye;
-Be not thy tongue thy own shame's orator;
+   Be not thy tongue thy own shame's orator;
 Look sweet, speak fair, become disloyalty;
-Apparel vice like virtue's harbinger.
+   Apparel vice like virtue's harbinger.
 Bear a fair presence, though your heart be tainted.
-Teach sin the carriage of a holy saint.
+   Teach sin the carriage of a holy saint.
 Be secret-false. What need she be acquainted?
-What simple thief brags of his own attaint?
+   What simple thief brags of his own attaint?
 'Tis double wrong to truant with your bed
-And let her read it in thy looks at board.
+   And let her read it in thy looks at board.
 Shame hath a bastard fame, well managed;
-Ill deeds is doubled with an evil word.
+   Ill deeds is doubled with an evil word.
 Alas, poor women, make us but believe,
-Being compact of credit, that you love us.
+   Being compact of credit, that you love us.
 Though others have the arm, show us the sleeve;
-We in your motion turn, and you may move us.
+   We in your motion turn, and you may move us.
 Then, gentle brother, get you in again.
-Comfort my sister, cheer her, call her wife.
+   Comfort my sister, cheer her, call her wife.
 'Tis holy sport to be a little vain
-When the sweet breath of flattery conquers strife.
+   When the sweet breath of flattery conquers strife.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Sweet mistress--what your name is else I know not,
-Nor by what wonder you do hit of mine--
+   Nor by what wonder you do hit of mine--
 Less in your knowledge and your grace you show not
-Than our Earth's wonder, more than Earth divine.
+   Than our Earth's wonder, more than Earth divine.
 Teach me, dear creature, how to think and speak.
-Lay open to my earthy gross conceit,
+   Lay open to my earthy gross conceit,
 Smothered in errors, feeble, shallow, weak,
-The folded meaning of your words' deceit.
+   The folded meaning of your words' deceit.
 Against my soul's pure truth why labor you
-To make it wander in an unknown field?
+   To make it wander in an unknown field?
 Are you a god? Would you create me new?
-Transform me, then, and to your power I'll yield.
+   Transform me, then, and to your power I'll yield.
 But if that I am I, then well I know
-Your weeping sister is no wife of mine,
+   Your weeping sister is no wife of mine,
 Nor to her bed no homage do I owe.
-Far more, far more, to you do I decline.
+   Far more, far more, to you do I decline.
 O, train me not, sweet mermaid, with thy note
-To drown me in thy sister's flood of tears.
+   To drown me in thy sister's flood of tears.
 Sing, Siren, for thyself, and I will dote.
-Spread o'er the silver waves thy golden hairs,
+   Spread o'er the silver waves thy golden hairs,
 And as a bed I'll take them and there lie,
-And in that glorious supposition think
+   And in that glorious supposition think
 He gains by death that hath such means to die.
-Let love, being light, be drowned if she sink.
+   Let love, being light, be drowned if she sink.
 
 <speaker>LUCIANA</speaker>
 What, are you mad that you do reason so?
@@ -1837,7 +1815,7 @@ I do arrest you, sir. You hear the suit.
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 I do obey thee till I give thee bail.
 [<i>To Angelo.</i>]
-But, sirrah, you shall buy this sport as
+ But, sirrah, you shall buy this sport as
 dear
 As all the metal in your shop will answer.
 
@@ -1899,9 +1877,9 @@ For servants must their masters' minds fulfill.
 
 <speaker>ADRIANA</speaker>
 Ah, Luciana, did he tempt thee so?
-Might'st thou perceive austerely in his eye
+   Might'st thou perceive austerely in his eye
 That he did plead in earnest, yea or no?
-Looked he or red or pale, or sad or merrily?
+   Looked he or red or pale, or sad or merrily?
 What observation mad'st thou in this case
 Of his heart's meteors tilting in his face?
 
@@ -1953,10 +1931,10 @@ No evil lost is wailed when it is gone.
 
 <speaker>ADRIANA</speaker>
 Ah, but I think him better than I say,
-And yet would herein others' eyes were worse.
+   And yet would herein others' eyes were worse.
 Far from her nest the lapwing cries away.
-My heart prays for him, though my tongue do
-curse.
+   My heart prays for him, though my tongue do
+   curse.
 
 [<i>Enter Dromio of Syracuse with the key.</i>]
 
@@ -2005,7 +1983,7 @@ money in his desk?
 
 <speaker>ADRIANA</speaker>
 Go fetch it, sister. [<i>(Luciana exits.)</i>]
-This I wonder at,
+ This I wonder at,
 That he, unknown to me, should be in debt.
 Tell me, was he arrested on a band?
 
@@ -2365,7 +2343,7 @@ Free from these slanders and this open shame.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 "Dined at home"? [<i>To Dromio.</i>]
-Thou villain, what
+ Thou villain, what
 sayest thou?
 
 <speaker>DROMIO OF EPHESUS</speaker>
@@ -2438,7 +2416,7 @@ They must be bound and laid in some dark room.
 [<i>to Adriana</i>]
 Say wherefore didst thou lock me forth today.
 [<i>To Dromio of Ephesus.</i>]
-And why dost thou deny the
+ And why dost thou deny the
 bag of gold?
 
 <speaker>ADRIANA</speaker>
@@ -2524,7 +2502,7 @@ and Dromio of Ephesus.
 Officer, Adriana, Luciana, Courtesan remain.</i>]
 Sister, go you with me.
 [<i>To Officer.</i>]
-Say now whose suit is he arrested at.
+ Say now whose suit is he arrested at.
 
 <speaker>OFFICER</speaker>
 One Angelo, a goldsmith. Do you know him?
@@ -3047,10 +3025,10 @@ I think you all have drunk of Circe's cup.
 If here you housed him, here he would have been.
 If he were mad, he would not plead so coldly.
 [<i>To Adriana.</i>]
-You say he dined at home; the
+ You say he dined at home; the
 goldsmith here
 Denies that saying. [<i>To Dromio of Ephesus.</i>]
-Sirrah,
+ Sirrah,
 what say you?
 
 <speaker>DROMIO OF EPHESUS,</speaker>
@@ -3259,7 +3237,7 @@ No, I say nay to that.
 And so do I, yet did she call me so,
 And this fair gentlewoman, her sister here,
 Did call me brother. [<i>To Luciana.</i>]
-What I told you
+ What I told you
 then
 I hope I shall have leisure to make good,
 If this be not a dream I see and hear.

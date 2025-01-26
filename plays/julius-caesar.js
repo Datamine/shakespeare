@@ -6,131 +6,69 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/julius-caesar/
 Created on May 11, 2016, from FDT version 0.9.2.1`;
 
-export const text = `Characters in the Play
-<hr>
-JULIUS CAESAR
-CALPHURNIA, his wife
-Servant to them
-MARCUS BRUTUS
-PORTIA, his wife
-LUCIUS, their servant
-Patricians who, with Brutus, conspire against Caesar:
-CAIUS CASSIUS
-CASCA
-CINNA
-DECIUS BRUTUS
-CAIUS LIGARIUS
-METELLUS CIMBER
-TREBONIUS
-Senators:
-CICERO
-PUBLIUS
-POPILIUS LENA
-Tribunes:
-FLAVIUS
-MARULLUS
-Rulers of Rome in Acts 4 and 5:
-MARK ANTONY
-LEPIDUS
-OCTAVIUS
-Servant to Antony
-Servant to Octavius
-Officers and soldiers in the armies of Brutus and Cassius:
-LUCILIUS
-TITINIUS
-MESSALA
-VARRO
-CLAUDIUS
-YOUNG CATO
-STRATO
-VOLUMNIUS
-LABEO (nonspeaking)
-FLAVIUS (nonspeaking)
-DARDANUS
-CLITUS
-A Carpenter
-A Cobbler
-A Soothsayer
-ARTEMIDORUS
-First, Second, Third, and Fourth Plebeians
-CINNA the poet
-PINDARUS, slave to Cassius, freed upon Cassius's death
-First, Second, Third, and Fourth Soldiers in Brutus's army
-Another Poet
-A Messenger
-First and Second Soldiers in Antony's army
-Citizens, Senators, Petitioners, Plebeians, Soldiers
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Flavius, Marullus, and certain Commoners,
 including a Carpenter and a Cobbler, over the stage.</i>]
 
-<speaker>FLAVIUS</speaker>
+FLAVIUS
 Hence! Home, you idle creatures, get you home!
 Is this a holiday? What, know you not,
 Being mechanical, you ought not walk
 Upon a laboring day without the sign
 Of your profession?--Speak, what trade art thou?
 
-<speaker>CARPENTER</speaker>
-Why, sir, a carpenter.
+CARPENTER  Why, sir, a carpenter.
 
-<speaker>MARULLUS</speaker>
+MARULLUS
 Where is thy leather apron and thy rule?
 What dost thou with thy best apparel on?--
 You, sir, what trade are you?
 
-<speaker>COBBLER</speaker>
-Truly, sir, in respect of a fine workman, I am
+COBBLER  Truly, sir, in respect of a fine workman, I am
 but, as you would say, a cobbler.
 
-<speaker>MARULLUS</speaker>
+MARULLUS
 But what trade art thou? Answer me directly.
 
-<speaker>COBBLER</speaker>
-A trade, sir, that I hope I may use with a safe
+COBBLER  A trade, sir, that I hope I may use with a safe
 conscience, which is indeed, sir, a mender of bad
 soles.
 
-<speaker>FLAVIUS</speaker>
+FLAVIUS
 What trade, thou knave? Thou naughty knave, what
 trade?
 
-<speaker>COBBLER</speaker>
-Nay, I beseech you, sir, be not out with me.
+COBBLER  Nay, I beseech you, sir, be not out with me.
 Yet if you be out, sir, I can mend you.
 
-<speaker>MARULLUS</speaker>
+MARULLUS
 What mean'st thou by that? Mend me, thou saucy
 fellow?
 
-<speaker>COBBLER</speaker>
-Why, sir, cobble you.
+COBBLER  Why, sir, cobble you.
 
-<speaker>FLAVIUS</speaker>
-Thou art a cobbler, art thou?
+FLAVIUS  Thou art a cobbler, art thou?
 
-<speaker>COBBLER</speaker>
-Truly, sir, all that I live by is with the
+COBBLER  Truly, sir, all that I live by is with the
 awl. I meddle with no tradesman's matters nor
 women's matters, but withal I am indeed, sir, a
 surgeon to old shoes: when they are in great danger,
 I recover them. As proper men as ever trod upon
 neat's leather have gone upon my handiwork.
 
-<speaker>FLAVIUS</speaker>
+FLAVIUS
 But wherefore art not in thy shop today?
 Why dost thou lead these men about the streets?
 
-<speaker>COBBLER</speaker>
-Truly, sir, to wear out their shoes, to
+COBBLER  Truly, sir, to wear out their shoes, to
 get myself into more work. But indeed, sir, we
 make holiday to see Caesar and to rejoice in his
 triumph.
 
-<speaker>MARULLUS</speaker>
+MARULLUS
 Wherefore rejoice? What conquest brings he home?
 What tributaries follow him to Rome
 To grace in captive bonds his chariot wheels?
@@ -157,7 +95,7 @@ Run to your houses, fall upon your knees,
 Pray to the gods to intermit the plague
 That needs must light on this ingratitude.
 
-<speaker>FLAVIUS</speaker>
+FLAVIUS
 Go, go, good countrymen, and for this fault
 Assemble all the poor men of your sort,
 Draw them to Tiber banks, and weep your tears
@@ -170,11 +108,10 @@ Go you down that way towards the Capitol.
 This way will I. Disrobe the images
 If you do find them decked with ceremonies.
 
-<speaker>MARULLUS</speaker>
-May we do so?
+MARULLUS  May we do so?
 You know it is the feast of Lupercal.
 
-<speaker>FLAVIUS</speaker>
+FLAVIUS
 It is no matter. Let no images
 Be hung with Caesar's trophies. I'll about
 And drive away the vulgar from the streets;
@@ -1414,7 +1351,7 @@ To add unto his sickness? No, my Brutus,
 You have some sick offense within your mind,
 Which by the right and virtue of my place
 I ought to know of. [<i>She kneels.</i>]
-And upon my
+ And upon my
 knees
 I charm you, by my once commended beauty,
 By all your vows of love, and that great vow
@@ -1736,7 +1673,7 @@ So to most noble Caesar.
 
 <speaker>CAESAR,</speaker>
 [<i>to Servant</i>]
-Bid them prepare within.--
+  Bid them prepare within.--
 I am to blame to be thus waited for.	[<i>Servant exits.</i>]
 Now, Cinna.--Now, Metellus.--What, Trebonius,
 I have an hour's talk in store for you.
@@ -1745,7 +1682,7 @@ Be near me that I may remember you.
 
 <speaker>TREBONIUS</speaker>
 Caesar, I will. [<i>Aside.</i>]
-And so near will I be
+ And so near will I be
 That your best friends shall wish I had been further.
 
 <speaker>CAESAR</speaker>
@@ -1771,7 +1708,7 @@ Caius Ligarius. There is but one mind in all these
 men, and it is bent against Caesar. If thou beest not
 immortal, look about you. Security gives way to
 conspiracy. The mighty gods defend thee!
-Thy lover,
+	Thy lover,
 Artemidorus
 Here will I stand till Caesar pass along,
 And as a suitor will I give him this.
@@ -1797,7 +1734,7 @@ To know my errand, madam.
 I would have had thee there and here again
 Ere I can tell thee what thou shouldst do there.
 [<i>Aside.</i>]
-O constancy, be strong upon my side;
+ O constancy, be strong upon my side;
 Set a huge mountain 'tween my heart and tongue.
 I have a man's mind but a woman's might.
 How hard it is for women to keep counsel!--
@@ -1870,14 +1807,14 @@ Speak to great Caesar as he comes along.	[<i>He exits.</i>]
 
 <speaker>PORTIA</speaker>
 I must go in. [<i>Aside.</i>]
-Ay me, how weak a thing
+ Ay me, how weak a thing
 The heart of woman is! O Brutus,
 The heavens speed thee in thine enterprise!
 Sure the boy heard me. [<i>To Lucius.</i>]
-Brutus hath a
+ Brutus hath a
 suit
 That Caesar will not grant. [<i>Aside.</i>]
-O, I grow
+ O, I grow
 faint.--
 Run, Lucius, and commend me to my lord.
 Say I am merry. Come to me again
@@ -2320,7 +2257,7 @@ You shall, Mark Antony.
 <speaker>CASSIUS</speaker>
 Brutus, a word with you.
 [<i>Aside to Brutus.</i>]
-You know not what you do. Do
+ You know not what you do. Do
 not consent
 That Antony speak in his funeral.
 Know you how much the people may be moved
@@ -2328,7 +2265,7 @@ By that which he will utter?
 
 <speaker>BRUTUS,</speaker>
 [<i>aside to Cassius</i>]
-By your pardon,
+  By your pardon,
 I will myself into the pulpit first
 And show the reason of our Caesar's death.
 What Antony shall speak I will protest
@@ -3858,7 +3795,7 @@ Nothing, my lord.
 <speaker>BRUTUS</speaker>
 Sleep again, Lucius.--Sirrah Claudius!
 [<i>To Varro.</i>]
-Fellow thou, awake!	[<i>They rise up.</i>]
+ Fellow thou, awake!	[<i>They rise up.</i>]
 
 <speaker>VARRO</speaker>
 My lord?
@@ -3950,7 +3887,7 @@ Make forth. The Generals would have some words.
 
 <speaker>OCTAVIUS,</speaker>
 [<i>to his Officers</i>]
-Stir not until the signal.
+  Stir not until the signal.
 [<i>The Generals step forward.</i>]
 
 <speaker>BRUTUS</speaker>
@@ -4196,7 +4133,7 @@ My life is run his compass.--Sirrah, what news?
 
 <speaker>PINDARUS,</speaker>
 [<i>above.</i>]
-O my lord!
+  O my lord!
 
 <speaker>CASSIUS</speaker>
 What news?

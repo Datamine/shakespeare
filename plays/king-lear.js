@@ -6,72 +6,38 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/king-lear/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-LEAR, king of Britain
-GONERIL, Lear's eldest daughter
-DUKE OF ALBANY, her husband
-OSWALD, her steward
-REGAN, Lear's second daughter
-DUKE OF CORNWALL, her husband
-CORDELIA, Lear's youngest daughter
-KING OF FRANCE, her suitor and then husband
-DUKE OF BURGUNDY, her suitor
-EARL OF KENT
-FOOL
-EARL OF GLOUCESTER
-EDGAR, his elder son
-EDMUND, his younger and illegitimate son
-CURAN, gentleman of Gloucester's household
-OLD MAN, a tenant of Gloucester's
-KNIGHT, serving Lear
-GENTLEMEN
-Three SERVANTS
-MESSENGERS
-DOCTOR
-CAPTAINS
-HERALD
-Knights in Lear's train, Servants, Officers, Soldiers, Attendants, Gentlemen
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Kent, Gloucester, and Edmund.</i>]
 
-<speaker>KENT</speaker>
-I thought the King had more affected the Duke
+KENT  I thought the King had more affected the Duke
 of Albany than Cornwall.
 
-<speaker>GLOUCESTER</speaker>
-It did always seem so to us, but now in
+GLOUCESTER  It did always seem so to us, but now in
 the division of the kingdom, it appears not which
 of the dukes he values most, for equalities are so
 weighed that curiosity in neither can make choice
 of either's moiety.
 
-<speaker>KENT</speaker>
-Is not this your son, my lord?
+KENT  Is not this your son, my lord?
 
-<speaker>GLOUCESTER</speaker>
-His breeding, sir, hath been at my
+GLOUCESTER  His breeding, sir, hath been at my
 charge. I have so often blushed to acknowledge
 him that now I am brazed to 't.
 
-<speaker>KENT</speaker>
-I cannot conceive you.
+KENT  I cannot conceive you.
 
-<speaker>GLOUCESTER</speaker>
-Sir, this young fellow's mother could,
+GLOUCESTER  Sir, this young fellow's mother could,
 whereupon she grew round-wombed and had indeed,
 sir, a son for her cradle ere she had a husband
 for her bed. Do you smell a fault?
 
-<speaker>KENT</speaker>
-I cannot wish the fault undone, the issue of it
+KENT  I cannot wish the fault undone, the issue of it
 being so proper.
 
-<speaker>GLOUCESTER</speaker>
-But I have a son, sir, by order of law,
+GLOUCESTER  But I have a son, sir, by order of law,
 some year elder than this, who yet is no dearer in
 my account. Though this knave came something
 saucily to the world before he was sent for, yet was
@@ -79,38 +45,31 @@ his mother fair, there was good sport at his making,
 and the whoreson must be acknowledged.--Do you
 know this noble gentleman, Edmund?
 
-<speaker>EDMUND</speaker>
-No, my lord.
+EDMUND  No, my lord.
 
-<speaker>GLOUCESTER</speaker>
-My lord of Kent. Remember him hereafter
+GLOUCESTER  My lord of Kent. Remember him hereafter
 as my honorable friend.
 
-<speaker>EDMUND</speaker>
-My services to your Lordship.
+EDMUND  My services to your Lordship.
 
-<speaker>KENT</speaker>
-I must love you and sue to know you better.
+KENT  I must love you and sue to know you better.
 
-<speaker>EDMUND</speaker>
-Sir, I shall study deserving.
+EDMUND  Sir, I shall study deserving.
 
-<speaker>GLOUCESTER</speaker>
-He hath been out nine years, and away he
+GLOUCESTER  He hath been out nine years, and away he
 shall again. [<i>(Sennet.)</i>]
-The King is coming.
+ - The King is coming.
 
 [<i>Enter King Lear, Cornwall, Albany, Goneril, Regan,
 Cordelia, and Attendants.</i>]
 
-<speaker>LEAR</speaker>
+LEAR
 Attend the lords of France and Burgundy,
 Gloucester.
 
-<speaker>GLOUCESTER</speaker>
-I shall, my lord. [<i>He exits.</i>]
+GLOUCESTER  I shall, my lord.	[<i>He exits.</i>]
 
-<speaker>LEAR</speaker>
+LEAR
 Meantime we shall express our darker purpose.--
 Give me the map there.	[<i>He is handed a map.</i>]
 Know that we have divided
@@ -135,7 +94,7 @@ That we our largest bounty may extend
 Where nature doth with merit challenge. Goneril,
 Our eldest born, speak first.
 
-<speaker>GONERIL</speaker>
+GONERIL
 Sir, I love you more than word can wield the
 matter,
 Dearer than eyesight, space, and liberty,
@@ -145,12 +104,10 @@ As much as child e'er loved, or father found;
 A love that makes breath poor, and speech unable.
 Beyond all manner of so much I love you.
 
-<speaker>CORDELIA,</speaker>
-[<i>aside</i>]
+CORDELIA, [<i>aside</i>]
 What shall Cordelia speak? Love, and be silent.
 
-<speaker>LEAR,</speaker>
-[<i>pointing to the map</i>]
+LEAR, [<i>pointing to the map</i>]
 Of all these bounds, even from this line to this,
 With shadowy forests and with champains riched,
 With plenteous rivers and wide-skirted meads,
@@ -159,7 +116,7 @@ Be this perpetual.--What says our second
 daughter,
 Our dearest Regan, wife of Cornwall? Speak.
 
-<speaker>REGAN</speaker>
+REGAN
 I am made of that self mettle as my sister
 And prize me at her worth. In my true heart
 I find she names my very deed of love;
@@ -170,13 +127,12 @@ possesses,
 And find I am alone felicitate
 In your dear Highness' love.
 
-<speaker>CORDELIA,</speaker>
-[<i>aside</i>]
-Then poor Cordelia!
+CORDELIA, [<i>aside</i>]
+ - Then poor Cordelia!
 And yet not so, since I am sure my love's
 More ponderous than my tongue.
 
-<speaker>LEAR</speaker>
+LEAR
 To thee and thine hereditary ever
 Remain this ample third of our fair kingdom,
 No less in space, validity, and pleasure
@@ -186,29 +142,25 @@ The vines of France and milk of Burgundy
 Strive to be interessed, what can you say to draw
 A third more opulent than your sisters'? Speak.
 
-<speaker>CORDELIA</speaker>
-Nothing, my lord.
+CORDELIA  Nothing, my lord.
 
-<speaker>LEAR</speaker>
-Nothing?
+LEAR  Nothing?
 
-<speaker>CORDELIA</speaker>
-Nothing.
+CORDELIA  Nothing.
 
-<speaker>LEAR</speaker>
+LEAR
 Nothing will come of nothing. Speak again.
 
-<speaker>CORDELIA</speaker>
+CORDELIA
 Unhappy that I am, I cannot heave
 My heart into my mouth. I love your Majesty
 According to my bond, no more nor less.
 
-<speaker>LEAR</speaker>
+LEAR
 How, how, Cordelia? Mend your speech a little,
 Lest you may mar your fortunes.
 
-<speaker>CORDELIA</speaker>
-Good my lord,
+CORDELIA  Good my lord,
 You have begot me, bred me, loved me.
 I return those duties back as are right fit:
 Obey you, love you, and most honor you.
@@ -220,19 +172,15 @@ Half my love with him, half my care and duty.
 Sure I shall never marry like my sisters,
 To love my father all.
 
-<speaker>LEAR</speaker>
-But goes thy heart with this?
+LEAR  But goes thy heart with this?
 
-<speaker>CORDELIA</speaker>
-Ay, my good lord.
+CORDELIA  Ay, my good lord.
 
-<speaker>LEAR</speaker>
-So young and so untender?
+LEAR  So young and so untender?
 
-<speaker>CORDELIA</speaker>
-So young, my lord, and true.
+CORDELIA  So young, my lord, and true.
 
-<speaker>LEAR</speaker>
+LEAR
 Let it be so. Thy truth, then, be thy dower,
 For by the sacred radiance of the sun,
 The mysteries of Hecate and the night,
@@ -248,20 +196,18 @@ To gorge his appetite, shall to my bosom
 Be as well neighbored, pitied, and relieved
 As thou my sometime daughter.
 
-<speaker>KENT</speaker>
-Good my liege--
+KENT  Good my liege--
 
-<speaker>LEAR</speaker>
-Peace, Kent.
+LEAR  Peace, Kent.
 Come not between the dragon and his wrath.
 I loved her most and thought to set my rest
 On her kind nursery. [<i>To Cordelia.</i>]
-Hence and avoid
+ - Hence and avoid
 my sight!--
 So be my grave my peace as here I give
 Her father's heart from her.--Call France. Who stirs?
 Call Burgundy. [<i>An Attendant exits.</i>]
-Cornwall and
+ - Cornwall and
 Albany,
 With my two daughters' dowers digest the third.
 Let pride, which she calls plainness, marry her.
@@ -276,16 +222,15 @@ The sway, revenue, execution of the rest,
 Beloved sons, be yours, which to confirm,
 This coronet part between you.
 
-<speaker>KENT</speaker>
-Royal Lear,
+KENT  Royal Lear,
 Whom I have ever honored as my king,
 Loved as my father, as my master followed,
 As my great patron thought on in my prayers--
 
-<speaker>LEAR</speaker>
+LEAR
 The bow is bent and drawn. Make from the shaft.
 
-<speaker>KENT</speaker>
+KENT
 Let it fall rather, though the fork invade
 The region of my heart. Be Kent unmannerly
 When Lear is mad. What wouldst thou do, old man?
@@ -300,42 +245,36 @@ Thy youngest daughter does not love thee least,
 Nor are those empty-hearted whose low sounds
 Reverb no hollowness.
 
-<speaker>LEAR</speaker>
-Kent, on thy life, no more.
+LEAR  Kent, on thy life, no more.
 
-<speaker>KENT</speaker>
+KENT
 My life I never held but as a pawn
 To wage against thine enemies, nor fear to lose
 it,
 Thy safety being motive.
 
-<speaker>LEAR</speaker>
-Out of my sight!
+LEAR  Out of my sight!
 
-<speaker>KENT</speaker>
+KENT
 See better, Lear, and let me still remain
 The true blank of thine eye.
 
-<speaker>LEAR</speaker>
-Now, by Apollo--
+LEAR  Now, by Apollo--
 
-<speaker>KENT</speaker>
-Now, by Apollo, king,
+KENT  Now, by Apollo, king,
 Thou swear'st thy gods in vain.
 
-<speaker>LEAR</speaker>
-O vassal! Miscreant!
+LEAR  O vassal! Miscreant!
 
-<speaker>ALBANY/CORNWALL</speaker>
-Dear sir, forbear.
+ALBANY/CORNWALL  Dear sir, forbear.
 
-<speaker>KENT</speaker>
+KENT
 Kill thy physician, and thy fee bestow
 Upon the foul disease. Revoke thy gift,
 Or whilst I can vent clamor from my throat,
 I'll tell thee thou dost evil.
 
-<speaker>LEAR</speaker>
+LEAR
 Hear me, recreant; on thine allegiance, hear me!
 That thou hast sought to make us break our vows--
 Which we durst never yet--and with strained pride
@@ -350,15 +289,15 @@ Thy banished trunk be found in our dominions,
 The moment is thy death. Away! By Jupiter,
 This shall not be revoked.
 
-<speaker>KENT</speaker>
+KENT
 Fare thee well, king. Sith thus thou wilt appear,
 Freedom lives hence, and banishment is here.
 [<i>To Cordelia.</i>]
-The gods to their dear shelter take
+ - The gods to their dear shelter take
 thee, maid,
 That justly think'st and hast most rightly said.
 [<i>To Goneril and Regan.</i>]
-And your large speeches
+ - And your large speeches
 may your deeds approve,
 That good effects may spring from words of love.--
 Thus Kent, O princes, bids you all adieu.
@@ -368,23 +307,20 @@ He'll shape his old course in a country new.
 [<i>Flourish. Enter Gloucester with France, and Burgundy,
 and Attendants.</i>]
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 Here's France and Burgundy, my noble lord.
 
-<speaker>LEAR</speaker>
-My lord of Burgundy,
+LEAR  My lord of Burgundy,
 We first address toward you, who with this king
 Hath rivaled for our daughter. What in the least
 Will you require in present dower with her,
 Or cease your quest of love?
 
-<speaker>BURGUNDY</speaker>
-Most royal Majesty,
+BURGUNDY  Most royal Majesty,
 I crave no more than hath your Highness offered,
 Nor will you tender less.
 
-<speaker>LEAR</speaker>
-Right noble Burgundy,
+LEAR  Right noble Burgundy,
 When she was dear to us, we did hold her so,
 But now her price is fallen. Sir, there she stands.
 If aught within that little seeming substance,
@@ -392,32 +328,28 @@ Or all of it, with our displeasure pieced
 And nothing more, may fitly like your Grace,
 She's there, and she is yours.
 
-<speaker>BURGUNDY</speaker>
-I know no answer.
+BURGUNDY  I know no answer.
 
-<speaker>LEAR</speaker>
+LEAR
 Will you, with those infirmities she owes,
 Unfriended, new-adopted to our hate,
 Dowered with our curse and strangered with our
 oath,
 Take her or leave her?
 
-<speaker>BURGUNDY</speaker>
-Pardon me, royal sir,
+BURGUNDY  Pardon me, royal sir,
 Election makes not up in such conditions.
 
-<speaker>LEAR</speaker>
+LEAR
 Then leave her, sir, for by the power that made me
 I tell you all her wealth.--For you, great king,
 I would not from your love make such a stray
 To match you where I hate. Therefore beseech you
-<speaker>T'</speaker>
-avert your liking a more worthier way
+T' avert your liking a more worthier way
 Than on a wretch whom Nature is ashamed
 Almost t' acknowledge hers.
 
-<speaker>FRANCE</speaker>
-This is most strange,
+FRANCE  This is most strange,
 That she whom even but now was your best
 object,
 The argument of your praise, balm of your age,
@@ -430,9 +362,8 @@ Fall into taint; which to believe of her
 Must be a faith that reason without miracle
 Should never plant in me.
 
-<speaker>CORDELIA,</speaker>
-[<i>to Lear</i>]
-I yet beseech your Majesty--
+CORDELIA, [<i>to Lear</i>]
+ - I yet beseech your Majesty--
 If for I want that glib and oily art
 To speak and purpose not, since what I well
 intend
@@ -445,12 +376,11 @@ A still-soliciting eye and such a tongue
 That I am glad I have not, though not to have it
 Hath lost me in your liking.
 
-<speaker>LEAR</speaker>
-Better thou
+LEAR  Better thou
 Hadst not been born than not t' have pleased me
 better.
 
-<speaker>FRANCE</speaker>
+FRANCE
 Is it but this--a tardiness in nature
 Which often leaves the history unspoke
 That it intends to do?--My lord of Burgundy,
@@ -459,28 +389,25 @@ When it is mingled with regards that stands
 Aloof from th' entire point. Will you have her?
 She is herself a dowry.
 
-<speaker>BURGUNDY,</speaker>
-[<i>to Lear</i>]
-Royal king,
+BURGUNDY, [<i>to Lear</i>]
+ - Royal king,
 Give but that portion which yourself proposed,
 And here I take Cordelia by the hand,
 Duchess of Burgundy.
 
-<speaker>LEAR</speaker>
+LEAR
 Nothing. I have sworn. I am firm.
 
-<speaker>BURGUNDY,</speaker>
-[<i>to Cordelia</i>]
+BURGUNDY, [<i>to Cordelia</i>]
 I am sorry, then, you have so lost a father
 That you must lose a husband.
 
-<speaker>CORDELIA</speaker>
-Peace be with
+CORDELIA  Peace be with
 Burgundy.
 Since that respect and fortunes are his love,
 I shall not be his wife.
 
-<speaker>FRANCE</speaker>
+FRANCE
 Fairest Cordelia, that art most rich being poor;
 Most choice, forsaken; and most loved, despised,
 Thee and thy virtues here I seize upon,
@@ -496,21 +423,20 @@ Can buy this unprized precious maid of me.--
 Bid them farewell, Cordelia, though unkind.
 Thou losest here a better where to find.
 
-<speaker>LEAR</speaker>
+LEAR
 Thou hast her, France. Let her be thine, for we
 Have no such daughter, nor shall ever see
 That face of hers again. [<i>To Cordelia.</i>]
-Therefore
+ - Therefore
 begone
 Without our grace, our love, our benison.--
 Come, noble Burgundy.
 [<i>Flourish. All but France, Cordelia,
 Goneril, and Regan exit.</i>]
 
-<speaker>FRANCE</speaker>
-Bid farewell to your sisters.
+FRANCE  Bid farewell to your sisters.
 
-<speaker>CORDELIA</speaker>
+CORDELIA
 The jewels of our father, with washed eyes
 Cordelia leaves you. I know you what you are,
 And like a sister am most loath to call
@@ -521,68 +447,57 @@ But yet, alas, stood I within his grace,
 I would prefer him to a better place.
 So farewell to you both.
 
-<speaker>REGAN</speaker>
+REGAN
 Prescribe not us our duty.
 
-<speaker>GONERIL</speaker>
-Let your study
+GONERIL  Let your study
 Be to content your lord, who hath received you
 At Fortune's alms. You have obedience scanted
 And well are worth the want that you have wanted.
 
-<speaker>CORDELIA</speaker>
+CORDELIA
 Time shall unfold what plighted cunning hides,
 Who covers faults at last with shame derides.
 Well may you prosper.
 
-<speaker>FRANCE</speaker>
-Come, my fair Cordelia.
+FRANCE  Come, my fair Cordelia.
 [<i>France and Cordelia exit.</i>]
 
-<speaker>GONERIL</speaker>
-Sister, it is not little I have to say of what
+GONERIL  Sister, it is not little I have to say of what
 most nearly appertains to us both. I think our
 father will hence tonight.
 
-<speaker>REGAN</speaker>
-That's most certain, and with you; next month
+REGAN  That's most certain, and with you; next month
 with us.
 
-<speaker>GONERIL</speaker>
-You see how full of changes his age is; the
+GONERIL  You see how full of changes his age is; the
 observation we have made of it hath not been
 little. He always loved our sister most, and with
 what poor judgment he hath now cast her off
 appears too grossly.
 
-<speaker>REGAN</speaker>
-'Tis the infirmity of his age. Yet he hath ever
+REGAN  'Tis the infirmity of his age. Yet he hath ever
 but slenderly known himself.
 
-<speaker>GONERIL</speaker>
-The best and soundest of his time hath been
+GONERIL  The best and soundest of his time hath been
 but rash. Then must we look from his age to
 receive not alone the imperfections of long-engraffed
 condition, but therewithal the unruly waywardness
 that infirm and choleric years bring with
 them.
 
-<speaker>REGAN</speaker>
-Such unconstant starts are we like to have
+REGAN  Such unconstant starts are we like to have
 from him as this of Kent's banishment.
 
-<speaker>GONERIL</speaker>
-There is further compliment of leave-taking
+GONERIL  There is further compliment of leave-taking
 between France and him. Pray you, let us sit
 together. If our father carry authority with such
 disposition as he bears, this last surrender of his will
 but offend us.
 
-<speaker>REGAN</speaker>
-We shall further think of it.
+REGAN  We shall further think of it.
 
-<speaker>GONERIL</speaker>
-We must do something, and i' th' heat.
+GONERIL  We must do something, and i' th' heat.
 [<i>They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
@@ -669,7 +584,7 @@ wrote this but as an essay or taste of my virtue.
 
 <speaker>GLOUCESTER</speaker>
 [<i>(reads)</i>]
-This policy and reverence of age
+  This policy and reverence of age
 makes the world bitter to the best of our times, keeps
 our fortunes from us till our oldness cannot relish
 them. I begin to find an idle and fond bondage in the
@@ -1038,7 +953,7 @@ So please you-- [<i>He exits.</i>]
 <speaker>LEAR</speaker>
 What says the fellow there? Call the clotpole
 back. [<i>A Knight exits.</i>]
-Where's my Fool? Ho! I think
+ Where's my Fool? Ho! I think
 the world's asleep.
 
 [<i>Enter Knight again.</i>]
@@ -1091,7 +1006,7 @@ the Fool hath much pined away.
 No more of that. I have noted it well.--Go you
 and tell my daughter I would speak with her. [<i>An
 Attendant exits.</i>]
-Go you call hither my Fool.
+ Go you call hither my Fool.
 [<i>Another exits.</i>]
 
 [<i>Enter Oswald, the Steward.</i>]
@@ -1118,7 +1033,7 @@ I'll not be strucken, my lord.
 
 <speaker>KENT,</speaker>
 [<i>tripping him</i>]
-Nor tripped neither, you base
+  Nor tripped neither, you base
 football player?
 
 <speaker>LEAR</speaker>
@@ -1127,7 +1042,7 @@ love thee.
 
 <speaker>KENT,</speaker>
 [<i>to Oswald</i>]
-Come, sir, arise. Away. I'll teach you
+  Come, sir, arise. Away. I'll teach you
 differences. Away, away. If you will measure your
 lubber's length again, tarry. But away. Go to. Have
 you wisdom? So.	[<i>Oswald exits.</i>]
@@ -1140,7 +1055,7 @@ earnest of thy service.	[<i>He gives Kent a purse.</i>]
 
 <speaker>FOOL</speaker>
 Let me hire him too. [<i>To Kent.</i>]
-Here's my
+ Here's my
 coxcomb.	[<i>He offers Kent his cap.</i>]
 
 <speaker>LEAR</speaker>
@@ -1148,7 +1063,7 @@ How now, my pretty knave, how dost thou?
 
 <speaker>FOOL,</speaker>
 [<i>to Kent</i>]
-Sirrah, you were best take my
+  Sirrah, you were best take my
 coxcomb.
 
 <speaker>LEAR</speaker>
@@ -1157,7 +1072,7 @@ Why, my boy?
 <speaker>FOOL</speaker>
 Why? For taking one's part that's out of favor.
 [<i>To Kent.</i>]
-Nay, an thou canst not smile as the
+ Nay, an thou canst not smile as the
 wind sits, thou 'lt catch cold shortly. There, take my
 coxcomb. Why, this fellow has banished two on 's
 daughters and did the third a blessing against his
@@ -1192,16 +1107,16 @@ Do.
 
 <speaker>FOOL</speaker>
 Mark it, nuncle:
-Have more than thou showest.
-Speak less than thou knowest,
-Lend less than thou owest,
-Ride more than thou goest,
-Learn more than thou trowest,
-Set less than thou throwest;
-Leave thy drink and thy whore
-And keep in-a-door,
-And thou shalt have more
-Than two tens to a score.
+	Have more than thou showest.
+	Speak less than thou knowest,
+	Lend less than thou owest,
+	Ride more than thou goest,
+	Learn more than thou trowest,
+	Set less than thou throwest;
+	Leave thy drink and thy whore
+	And keep in-a-door,
+	And thou shalt have more
+	Than two tens to a score.
 
 <speaker>KENT</speaker>
 This is nothing, Fool.
@@ -1217,7 +1132,7 @@ nothing.
 
 <speaker>FOOL,</speaker>
 [<i>to Kent</i>]
-Prithee tell him, so much the rent of his
+  Prithee tell him, so much the rent of his
 land comes to. He will not believe a Fool.
 
 <speaker>LEAR</speaker>
@@ -1232,13 +1147,13 @@ No, lad, teach me.
 
 <speaker>FOOL</speaker>
 That lord that counseled thee
-To give away thy land,
-Come place him here by me;
-Do thou for him stand.
-The sweet and bitter fool
-Will presently appear:
-The one in motley here,
-The other found out there.
+	   To give away thy land,
+	Come place him here by me;
+	   Do thou for him stand.
+	The sweet and bitter fool
+	   Will presently appear:
+	The one in motley here,
+	   The other found out there.
 
 <speaker>LEAR</speaker>
 Dost thou call me "fool," boy?
@@ -1269,10 +1184,10 @@ the dirt. Thou hadst little wit in thy bald crown
 when thou gav'st thy golden one away. If I speak
 like myself in this, let him be whipped that first
 finds it so. [<i>Sings.</i>]
-Fools had ne'er less grace in a year,
-For wise men are grown foppish
-And know not how their wits to wear,
-Their manners are so apish.
+	Fools had ne'er less grace in a year,
+	   For wise men are grown foppish
+	And know not how their wits to wear,
+	   Their manners are so apish.
 
 <speaker>LEAR</speaker>
 When were you wont to be so full of songs,
@@ -1283,10 +1198,10 @@ I have used it, nuncle, e'er since thou mad'st thy
 daughters thy mothers. For when thou gav'st them
 the rod and put'st down thine own breeches,
 [<i>Sings.</i>]
-Then they for sudden joy did weep,
-And I for sorrow sung,
-That such a king should play bo-peep
-And go the fools among.
+	Then they for sudden joy did weep,
+	   And I for sorrow sung,
+	That such a king should play bo-peep
+	   And go the fools among.
 Prithee, nuncle, keep a schoolmaster that can teach
 thy Fool to lie. I would fain learn to lie.
 
@@ -1314,12 +1229,12 @@ Thou wast a pretty fellow when thou hadst no
 need to care for her frowning. Now thou art an O
 without a figure. I am better than thou art now. I
 am a Fool. Thou art nothing. [<i>To Goneril.</i>]
-Yes,
+ Yes,
 forsooth, I will hold my tongue. So your face bids
 me, though you say nothing.
-Mum, mum,
-He that keeps nor crust nor crumb,
-Weary of all, shall want some.
+	Mum, mum,
+	He that keeps nor crust nor crumb,
+	Weary of all, shall want some.
 [<i>He points at Lear.</i>]
 That's a shelled peascod.
 
@@ -1341,8 +1256,8 @@ Will call discreet proceeding.
 
 <speaker>FOOL</speaker>
 For you know, nuncle,
-The hedge-sparrow fed the cuckoo so long,
-That it's had it head bit off by it young.
+	The hedge-sparrow fed the cuckoo so long,
+	That it's had it head bit off by it young.
 So out went the candle, and we were left darkling.
 
 <speaker>LEAR</speaker>
@@ -1427,7 +1342,7 @@ Pray, sir, be patient.
 
 <speaker>LEAR,</speaker>
 [<i>to Goneril</i>]
-Detested kite, thou liest.
+  Detested kite, thou liest.
 My train are men of choice and rarest parts,
 That all particulars of duty know
 And in the most exact regard support
@@ -1484,7 +1399,7 @@ What's the matter, sir?
 
 <speaker>LEAR</speaker>
 I'll tell thee. [<i>To Goneril.</i>]
-Life and death! I am
+ Life and death! I am
 ashamed
 That thou hast power to shake my manhood thus,
 That these hot tears, which break from me perforce,
@@ -1516,11 +1431,11 @@ You, sir, more knave than Fool, after your master.
 <speaker>FOOL</speaker>
 Nuncle Lear, Nuncle Lear, tarry. Take the Fool
 with thee.
-A fox, when one has caught her,
-And such a daughter,
-Should sure to the slaughter,
-If my cap would buy a halter.
-So the Fool follows after.	[<i>He exits.</i>]
+	A fox, when one has caught her,
+	And such a daughter,
+	Should sure to the slaughter,
+	If my cap would buy a halter.
+	So the Fool follows after.	[<i>He exits.</i>]
 
 <speaker>GONERIL</speaker>
 This man hath had good counsel. A hundred
@@ -1557,7 +1472,7 @@ Inform her full of my particular fear,
 And thereto add such reasons of your own
 As may compact it more. Get you gone,
 And hasten your return. [<i>Oswald exits.</i>]
-No, no, my
+ No, no, my
 lord,
 This milky gentleness and course of yours,
 Though I condemn not, yet, under pardon,
@@ -1581,7 +1496,7 @@ Well, well, th' event.
 
 <speaker>LEAR,</speaker>
 [<i>to Kent</i>]
-Go you before to Gloucester with these
+  Go you before to Gloucester with these
 letters. Acquaint my daughter no further with anything
 you know than comes from her demand out of
 the letter. If your diligence be not speedy, I shall be
@@ -1758,7 +1673,7 @@ Draw. Seem to defend yourself. Now, quit you
 well.	[<i>They draw.</i>]
 Yield! Come before my father! Light, hoa, here!
 [<i>Aside to Edgar.</i>]
-Fly, brother.--Torches, torches!
+ Fly, brother.--Torches, torches!
 --So, farewell.	[<i>Edgar exits.</i>]
 Some blood drawn on me would beget opinion
 Of my more fierce endeavor. I have seen drunkards
@@ -1792,7 +1707,7 @@ Fled this way, sir, when by no means he could--
 
 <speaker>GLOUCESTER</speaker>
 Pursue him, ho! Go after. [<i>Servants exit.</i>]
-By no
+ By no
 means what?
 
 <speaker>EDMUND</speaker>
@@ -2008,7 +1923,7 @@ What a brazen-faced varlet art thou to deny thou
 knowest me! Is it two days ago since I tripped up
 thy heels and beat thee before the King? [<i>He draws
 his sword.</i>]
-Draw, you rogue, for though it be night,
+ Draw, you rogue, for though it be night,
 yet the moon shines. I'll make a sop o' th' moonshine
 of you, you whoreson, cullionly barbermonger.
 Draw!
@@ -2170,7 +2085,7 @@ win your displeasure to entreat me to 't.
 
 <speaker>CORNWALL,</speaker>
 [<i>to Oswald</i>]
-What was th' offense you gave
+  What was th' offense you gave
 him?
 
 <speaker>OSWALD</speaker>
@@ -2322,7 +2237,7 @@ Of this remove.
 
 <speaker>KENT,</speaker>
 [<i>waking</i>]
-Hail to thee, noble master.
+  Hail to thee, noble master.
 
 <speaker>LEAR</speaker>
 Ha?
@@ -2397,12 +2312,12 @@ The shame which here it suffers.
 <speaker>FOOL</speaker>
 Winter's not gone yet if the wild geese fly that
 way.
-Fathers that wear rags
-Do make their children blind,
-But fathers that bear bags
-Shall see their children kind.
-Fortune, that arrant whore,
-Ne'er turns the key to th' poor.
+	Fathers that wear rags
+	   Do make their children blind,
+	But fathers that bear bags
+	   Shall see their children kind.
+	Fortune, that arrant whore,
+	Ne'er turns the key to th' poor.
 But, for all this, thou shalt have as many dolors for
 thy daughters as thou canst tell in a year.
 
@@ -2416,7 +2331,7 @@ With the Earl, sir, here within.
 
 <speaker>LEAR,</speaker>
 [<i>to Fool and Gentleman</i>]
-Follow me not. Stay
+  Follow me not. Stay
 here.	[<i>He exits.</i>]
 
 <speaker>GENTLEMAN</speaker>
@@ -2444,14 +2359,14 @@ but the great one that goes upward, let him
 draw thee after. When a wise man gives thee better
 counsel, give me mine again. I would have none but
 knaves follow it, since a Fool gives it.
-That sir which serves and seeks for gain,
-And follows but for form,
-Will pack when it begins to rain
-And leave thee in the storm.
-But I will tarry; the Fool will stay,
-And let the wise man fly.
-The knave turns fool that runs away;
-The Fool no knave, perdie.
+	That sir which serves and seeks for gain,
+	   And follows but for form,
+	Will pack when it begins to rain
+	   And leave thee in the storm.
+	But I will tarry; the Fool will stay,
+	   And let the wise man fly.
+	The knave turns fool that runs away;
+	   The Fool no knave, perdie.
 
 <speaker>KENT</speaker>
 Where learned you this, Fool?
@@ -2506,7 +2421,7 @@ To suffer with the body. I'll forbear,
 And am fallen out with my more headier will,
 To take the indisposed and sickly fit
 For the sound man. [<i>Noticing Kent again.</i>]
-Death on
+ Death on
 my state! Wherefore
 Should he sit here? This act persuades me
 That this remotion of the Duke and her
@@ -2547,7 +2462,7 @@ Regan, I think you are. I know what reason
 I have to think so: if thou shouldst not be glad,
 I would divorce me from thy mother's tomb,
 Sepulch'ring an adult'ress. [<i>To Kent.</i>]
-O, are you
+ O, are you
 free?
 Some other time for that.--Beloved Regan,
 Thy sister's naught. O Regan, she hath tied
@@ -2596,7 +2511,7 @@ Return you to my sister.
 
 <speaker>LEAR,</speaker>
 [<i>rising</i>]
-Never, Regan.
+  Never, Regan.
 She hath abated me of half my train,
 Looked black upon me, struck me with her tongue
 Most serpentlike upon the very heart.
@@ -2669,7 +2584,7 @@ If you do love old men, if your sweet sway
 Allow obedience, if you yourselves are old,
 Make it your cause. Send down and take my part.
 [<i>To Goneril.</i>]
-Art not ashamed to look upon this
+ Art not ashamed to look upon this
 beard?	[<i>Regan takes Goneril's hand.</i>]
 O Regan, will you take her by the hand?
 
@@ -2780,7 +2695,7 @@ And speak 't again, my lord. No more with me.
 Those wicked creatures yet do look well-favored
 When others are more wicked. Not being the worst
 Stands in some rank of praise. [<i>To Goneril.</i>]
-I'll go
+ I'll go
 with thee.
 Thy fifty yet doth double five-and-twenty,
 And thou art twice her love.
@@ -3013,14 +2928,14 @@ So old and white as this. O, ho, 'tis foul!
 <speaker>FOOL</speaker>
 He that has a house to put 's head in has a good
 headpiece.
-The codpiece that will house
-Before the head has any,
-The head and he shall louse;
-So beggars marry many.
-The man that makes his toe
-What he his heart should make,
-Shall of a corn cry woe,
-And turn his sleep to wake.
+	The codpiece that will house
+	   Before the head has any,
+	The head and he shall louse;
+	   So beggars marry many.
+	The man that makes his toe
+	   What he his heart should make,
+	Shall of a corn cry woe,
+	   And turn his sleep to wake.
 For there was never yet fair woman but she made
 mouths in a glass.
 
@@ -3084,10 +2999,10 @@ That's sorry yet for thee.
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
-He that has and a little tiny wit,
-With hey, ho, the wind and the rain,
-Must make content with his fortunes fit,
-Though the rain it raineth every day.
+	He that has and a little tiny wit,
+	   With hey, ho, the wind and the rain,
+	Must make content with his fortunes fit,
+	   Though the rain it raineth every day.
 
 <speaker>LEAR</speaker>
 True, my good boy.--Come, bring us to this hovel.
@@ -3096,20 +3011,20 @@ True, my good boy.--Come, bring us to this hovel.
 <speaker>FOOL</speaker>
 This is a brave night to cool a courtesan. I'll
 speak a prophecy ere I go:
-When priests are more in word than matter,
-When brewers mar their malt with water,
-When nobles are their tailors' tutors,
-No heretics burned but wenches' suitors,
-When every case in law is right,
-No squire in debt, nor no poor knight;
-When slanders do not live in tongues,
-Nor cutpurses come not to throngs,
-When usurers tell their gold i' th' field,
-And bawds and whores do churches build,
-Then shall the realm of Albion
-Come to great confusion;
-Then comes the time, who lives to see 't,
-That going shall be used with feet.
+	When priests are more in word than matter,
+	When brewers mar their malt with water,
+	When nobles are their tailors' tutors,
+	No heretics burned but wenches' suitors,
+	When every case in law is right,
+	No squire in debt, nor no poor knight;
+	When slanders do not live in tongues,
+	Nor cutpurses come not to throngs,
+	When usurers tell their gold i' th' field,
+	And bawds and whores do churches build,
+	Then shall the realm of Albion
+	Come to great confusion;
+	Then comes the time, who lives to see 't,
+	That going shall be used with feet.
 This prophecy Merlin shall make, for I live before
 his time.
 [<i>He exits.</i>]
@@ -3216,7 +3131,7 @@ And show the heavens more just.
 
 <speaker>EDGAR</speaker>
 [<i>within</i>]
-Fathom and half, fathom and half!
+  Fathom and half, fathom and half!
 Poor Tom!
 
 [<i>Enter Fool.</i>]
@@ -3348,11 +3263,11 @@ at curfew and walks till the first cock. He
 gives the web and the pin, squints the eye, and
 makes the harelip, mildews the white wheat, and
 hurts the poor creature of earth.
-Swithold footed thrice the 'old,
-He met the nightmare and her ninefold,
-Bid her alight,
-And her troth plight,
-And aroint thee, witch, aroint thee.
+	Swithold footed thrice the 'old,
+	He met the nightmare and her ninefold,
+	   Bid her alight,
+	   And her troth plight,
+	And aroint thee, witch, aroint thee.
 
 <speaker>KENT</speaker>
 How fares your Grace?
@@ -3376,9 +3291,9 @@ the standing pool; who is whipped from tithing to
 tithing, and stocked, punished, and imprisoned;
 who hath had three suits to his back, six shirts to
 his body,
-Horse to ride, and weapon to wear;
-But mice and rats and such small deer
-Have been Tom's food for seven long year.
+	Horse to ride, and weapon to wear;
+	But mice and rats and such small deer
+	Have been Tom's food for seven long year.
 Beware my follower. Peace, Smulkin! Peace, thou
 fiend!
 
@@ -3411,7 +3326,7 @@ And bring you where both fire and food is ready.
 <speaker>LEAR</speaker>
 First let me talk with this philosopher.
 [<i>To Edgar.</i>]
-What is the cause of thunder?
+ What is the cause of thunder?
 
 <speaker>KENT</speaker>
 Good my lord, take his offer; go into th' house.
@@ -3450,7 +3365,7 @@ do beseech your Grace--
 <speaker>LEAR</speaker>
 O, cry you mercy, sir.
 [<i>To Edgar.</i>]
-Noble philosopher, your company.
+ Noble philosopher, your company.
 
 <speaker>EDGAR</speaker>
 Tom's a-cold.
@@ -3466,7 +3381,7 @@ This way, my lord.
 
 <speaker>LEAR,</speaker>
 [<i>indicating Edgar</i>]
-With him.
+  With him.
 I will keep still with my philosopher.
 
 <speaker>KENT,</speaker>
@@ -3475,7 +3390,7 @@ Good my lord, soothe him. Let him take the fellow.
 
 <speaker>GLOUCESTER,</speaker>
 [<i>to Kent</i>]
-Take him you on.
+  Take him you on.
 
 <speaker>KENT,</speaker>
 [<i>to Edgar</i>]
@@ -3488,9 +3403,9 @@ Come, good Athenian.
 No words, no words. Hush.
 
 <speaker>EDGAR</speaker>
-Child Rowland to the dark tower came.
-His word was still "Fie, foh, and fum,
-I smell the blood of a British man."
+	Child Rowland to the dark tower came.
+	His word was still "Fie, foh, and fum,
+	I smell the blood of a British man."
 [<i>They exit.</i>]
 
 <b id="act-3-scene-5" class="scene-header">Scene 5</b>
@@ -3533,7 +3448,7 @@ may be ready for our apprehension.
 
 <speaker>EDMUND,</speaker>
 [<i>aside</i>]
-If I find him comforting the King, it
+  If I find him comforting the King, it
 will stuff his suspicion more fully.--I will persevere
 in my course of loyalty, though the conflict be sore
 between that and my blood.
@@ -3590,23 +3505,23 @@ horse's health, a boy's love, or a whore's oath.
 <speaker>LEAR</speaker>
 It shall be done. I will arraign them straight.
 [<i>To Edgar.</i>]
-Come, sit thou here, most learned
+ Come, sit thou here, most learned
 justice.
 [<i>To Fool.</i>]
-Thou sapient sir, sit here. Now, you
+ Thou sapient sir, sit here. Now, you
 she-foxes--
 
 <speaker>EDGAR</speaker>
 Look where he stands and glares!--Want'st
 thou eyes at trial, madam?
 [<i>Sings.</i>]
-Come o'er the burn, Bessy, to me--
+ Come o'er the burn, Bessy, to me--
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
-Her boat hath a leak,
-And she must not speak
-Why she dares not come over to thee.
+	Her boat hath a leak,
+	And she must not speak
+	Why she dares not come over to thee.
 
 <speaker>EDGAR</speaker>
 The foul fiend haunts Poor Tom in the voice of
@@ -3622,22 +3537,22 @@ Will you lie down and rest upon the cushions?
 <speaker>LEAR</speaker>
 I'll see their trial first. Bring in their evidence.
 [<i>To Edgar.</i>]
-Thou robed man of justice, take thy
+ Thou robed man of justice, take thy
 place,
 [<i>To Fool.</i>]
-And thou, his yokefellow of equity,
+ And thou, his yokefellow of equity,
 Bench by his side. [<i>To Kent.</i>]
-You are o' th'
+ You are o' th'
 commission;
 Sit you, too.
 
 <speaker>EDGAR</speaker>
 Let us deal justly.
 [<i>Sings.</i>]
-Sleepest or wakest, thou jolly shepherd?
-Thy sheep be in the corn.
-And for one blast of thy minikin mouth,
-Thy sheep shall take no harm.
+	Sleepest or wakest, thou jolly shepherd?
+	   Thy sheep be in the corn.
+	And for one blast of thy minikin mouth,
+	   Thy sheep shall take no harm.
 Purr the cat is gray.
 
 <speaker>LEAR</speaker>
@@ -3680,14 +3595,14 @@ Tray, Blanch, and Sweetheart, see, they bark at me.
 <speaker>EDGAR</speaker>
 Tom will throw his head at them.--Avaunt, you
 curs!
-Be thy mouth or black or white,
-Tooth that poisons if it bite,
-Mastiff, greyhound, mongrel grim,
-Hound or spaniel, brach, or lym,
-Bobtail tike, or trundle-tail,
-Tom will make him weep and wail;
-For, with throwing thus my head,
-Dogs leapt the hatch, and all are fled.
+	Be thy mouth or black or white,
+	Tooth that poisons if it bite,
+	Mastiff, greyhound, mongrel grim,
+	Hound or spaniel, brach, or lym,
+	Bobtail tike, or trundle-tail,
+	Tom will make him weep and wail;
+	For, with throwing thus my head,
+	Dogs leapt the hatch, and all are fled.
 Do de, de, de. Sessa! Come, march to wakes
 and fairs and market towns. Poor Tom, thy horn
 is dry.
@@ -3696,7 +3611,7 @@ is dry.
 Then let them anatomize Regan; see what breeds
 about her heart. Is there any cause in nature that
 make these hard hearts? [<i>To Edgar.</i>]
-You, sir, I
+ You, sir, I
 entertain for one of my hundred; only I do not like
 the fashion of your garments. You will say they are
 Persian, but let them be changed.
@@ -3706,7 +3621,7 @@ Now, good my lord, lie here and rest awhile.
 
 <speaker>LEAR,</speaker>
 [<i>lying down</i>]
-Make no noise, make no noise.
+  Make no noise, make no noise.
 Draw the curtains. So, so, we'll go to supper i' th'
 morning.
 
@@ -3740,7 +3655,7 @@ Oppressed nature sleeps.
 This rest might yet have balmed thy broken sinews,
 Which, if convenience will not allow,
 Stand in hard cure. [<i>To the Fool.</i>]
-Come, help to
+ Come, help to
 bear thy master.
 Thou must not stay behind.
 
@@ -3774,10 +3689,10 @@ and Servants.</i>]
 
 <speaker>CORNWALL,</speaker>
 [<i>to Goneril</i>]
-Post speedily to my lord your
+  Post speedily to my lord your
 husband. Show him this letter. [<i>He gives her a
 paper.</i>]
-The army of France is landed.--Seek out
+ The army of France is landed.--Seek out
 the traitor Gloucester.	[<i>Some Servants exit.</i>]
 
 <speaker>REGAN</speaker>
@@ -4108,7 +4023,7 @@ They kill us for their sport.
 
 <speaker>EDGAR,</speaker>
 [<i>aside</i>]
-How should this be?
+  How should this be?
 Bad is the trade that must play fool to sorrow,
 Ang'ring itself and others.--Bless thee, master.
 
@@ -4143,7 +4058,7 @@ Sirrah, naked fellow--
 
 <speaker>EDGAR</speaker>
 Poor Tom's a-cold. [<i>Aside.</i>]
-I cannot daub it further.
+ I cannot daub it further.
 
 <speaker>GLOUCESTER</speaker>
 Come hither, fellow.
@@ -4220,7 +4135,7 @@ What like, offensive.
 
 <speaker>GONERIL,</speaker>
 [<i>to Edmund</i>]
-Then shall you go no further.
+  Then shall you go no further.
 It is the cowish terror of his spirit,
 That dares not undertake. He'll not feel wrongs
 Which tie him to an answer. Our wishes on the way
@@ -4234,7 +4149,7 @@ If you dare venture in your own behalf--
 A mistress's command. Wear this; spare speech.
 [<i>She gives him a favor.</i>]
 Decline your head. [<i>She kisses him.</i>]
-This kiss, if it
+ This kiss, if it
 durst speak,
 Would stretch thy spirits up into the air.
 Conceive, and fare thee well.
@@ -4354,7 +4269,7 @@ This letter, madam, craves a speedy answer.
 
 <speaker>GONERIL,</speaker>
 [<i>aside</i>]
-One way I like this well.
+  One way I like this well.
 But being widow and my Gloucester with her
 May all the building in my fancy pluck
 Upon my hateful life. Another way
@@ -4974,7 +4889,7 @@ Then kill, kill, kill, kill, kill, kill!
 <speaker>GENTLEMAN,</speaker>
 [<i>noticing Lear</i>]
 O, here he is. [<i>To an Attendant.</i>]
-Lay hand upon
+ Lay hand upon
 him.--Sir,
 Your most dear daughter--
 
@@ -5140,7 +5055,7 @@ nothing done if he return the conqueror. Then am I
 the prisoner, and his bed my jail, from the loathed
 warmth whereof deliver me and supply the place for
 your labor.
-Your (wife, so I would say) affectionate servant,
+	Your (wife, so I would say) affectionate servant,
 and, for you, her own for venture,	Goneril.
 O indistinguished space of woman's will!
 A plot upon her virtuous husband's life,
@@ -5308,7 +5223,7 @@ To be my child Cordelia.
 
 <speaker>CORDELIA,</speaker>
 [<i>weeping</i>]
-And so I am; I am.
+  And so I am; I am.
 
 <speaker>LEAR</speaker>
 Be your tears wet? Yes, faith. I pray, weep not.
@@ -5586,7 +5501,7 @@ That are to censure them.
 
 <speaker>CORDELIA,</speaker>
 [<i>to Lear</i>]
-We are not the first
+  We are not the first
 Who with best meaning have incurred the worst.
 For thee, oppressed king, I am cast down.
 Myself could else outfrown false Fortune's frown.
@@ -5760,7 +5675,7 @@ Sick, O, sick!
 
 <speaker>GONERIL,</speaker>
 [<i>aside</i>]
-If not, I'll ne'er trust medicine.
+  If not, I'll ne'er trust medicine.
 
 <speaker>EDMUND</speaker>
 There's my exchange.	[<i>He throws down a glove.</i>]
@@ -6008,7 +5923,7 @@ What kind of help?
 
 <speaker>ALBANY,</speaker>
 [<i>to Gentleman</i>]
-Speak, man!
+  Speak, man!
 
 <speaker>EDGAR</speaker>
 What means this bloody knife?
@@ -6041,7 +5956,7 @@ This judgment of the heavens, that makes us
 tremble,
 Touches us not with pity. O, is this he?
 [<i>To Kent.</i>]
-The time will not allow the compliment
+ The time will not allow the compliment
 Which very manners urges.
 
 <speaker>KENT</speaker>
@@ -6079,7 +5994,7 @@ Run, run, O, run!
 
 <speaker>EDGAR</speaker>
 To who, my lord? [<i>To Edmund.</i>]
-Who has the office?
+ Who has the office?
 Send
 Thy token of reprieve.
 
@@ -6089,7 +6004,7 @@ Captain.
 
 <speaker>EDGAR,</speaker>
 [<i>to a Soldier</i>]
-Haste thee for thy life.
+  Haste thee for thy life.
 [<i>The Soldier exits with Edmund's sword.</i>]
 
 <speaker>EDMUND,</speaker>
@@ -6155,7 +6070,7 @@ Did I not, fellow?
 I have seen the day, with my good biting falchion
 I would have made him skip. I am old now,
 And these same crosses spoil me. [<i>To Kent.</i>]
-Who
+ Who
 are you?
 Mine eyes are not o' th' best. I'll tell you straight.
 
@@ -6231,7 +6146,7 @@ Look there, look there!	[<i>He dies.</i>]
 
 <speaker>EDGAR</speaker>
 He faints. [<i>To Lear.</i>]
-My lord,
+ My lord,
 my lord!
 
 <speaker>KENT</speaker>
@@ -6255,7 +6170,7 @@ He but usurped his life.
 <speaker>ALBANY</speaker>
 Bear them from hence. Our present business
 Is general woe. [<i>To Edgar and Kent.</i>]
-Friends of my
+ Friends of my
 soul, you twain
 Rule in this realm, and the gored state sustain.
 

@@ -6,53 +6,8 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-vi-part-1/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-The English
-KING HENRY VI
-Lord TALBOT, afterwards Earl of Shrewsbury
-JOHN TALBOT, his son
-Duke of GLOUCESTER, the king's uncle, and Lord Protector
-Duke of BEDFORD, the king's uncle, and Regent of France
-Duke of EXETER, the king's great-uncle
-Cardinal, Bishop of WINCHESTER, the king's great-uncle
-Duke of SOMERSET
-Richard PLANTAGENET, later Duke of YORK, and Regent of France
-Earl of WARWICK
-Earl of SALISBURY
-Earl of SUFFOLK, William de la Pole
-Edmund MORTIMER, Earl of March
-Sir William GLANSDALE
-Sir Thomas GARGRAVE
-Sir John FASTOLF
-Sir William LUCY
-WOODVILLE, Lieutenant of the Tower of London
-VERNON, of the White Rose or York faction
-BASSET, of the Red Rose or Lancaster faction
-A LAWYER
-JAILORS to Mortimer
-A LEGATE
-MAYOR of London
-Heralds, Attendants, three Messengers, Servingmen in blue coats and in tawny coats, two Warders, Officers, Soldiers, Captains, Watch, Trumpeters, Drummer, Servant, two Ambassadors
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-The French
-CHARLES, Dauphin of France
-Joan la PUCELLE, also Joan of Arc
-REIGNIER, Duke of Anjou and Maine, King of Naples
-MARGARET, his daughter
-Duke of ALANSON
-Bastard of ORLEANCE
-Duke of BURGUNDY
-GENERAL of the French forces at Bordeaux
-COUNTESS of Auvergne
-Her PORTER
-MASTER GUNNER of Orleance
-BOY, his son
-SERGEANT of a Band
-A SHEPHERD, Pucelle's father
-Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of Paris, Herald, Scout, Fiends accompanying Pucelle
-
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Dead March. Enter the funeral of King Henry the Fifth,
@@ -61,7 +16,7 @@ the Duke of Gloucester, Protector; the Duke of Exeter;
 the Earl of Warwick; the Bishop of Winchester; and
 the Duke of Somerset, with Heralds and Attendants.</i>]
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 Hung be the heavens with black, yield day to night!
 Comets, importing change of times and states,
 Brandish your crystal tresses in the sky,
@@ -70,7 +25,7 @@ That have consented unto Henry's death:
 King Henry the Fifth, too famous to live long.
 England ne'er lost a king of so much worth.
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 England ne'er had a king until his time.
 Virtue he had, deserving to command;
 His brandished sword did blind men with his beams;
@@ -81,7 +36,7 @@ Than midday sun fierce bent against their faces.
 What should I say? His deeds exceed all speech.
 He ne'er lift up his hand but conquered.
 
-<speaker>EXETER</speaker>
+EXETER
 We mourn in black; why mourn we not in blood?
 Henry is dead and never shall revive.
 Upon a wooden coffin we attend,
@@ -94,31 +49,31 @@ Or shall we think the subtle-witted French
 Conjurers and sorcerers, that, afraid of him,
 By magic verses have contrived his end?
 
-<speaker>WINCHESTER</speaker>
+WINCHESTER
 He was a king blest of the King of kings;
 Unto the French the dreadful Judgment Day
 So dreadful will not be as was his sight.
 The battles of the Lord of Hosts he fought;
 The Church's prayers made him so prosperous.
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 The Church? Where is it? Had not churchmen prayed,
 His thread of life had not so soon decayed.
 None do you like but an effeminate prince
 Whom like a schoolboy you may overawe.
 
-<speaker>WINCHESTER</speaker>
+WINCHESTER
 Gloucester, whate'er we like, thou art Protector
 And lookest to command the Prince and realm.
 Thy wife is proud; she holdeth thee in awe
 More than God or religious churchmen may.
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 Name not religion, for thou lov'st the flesh,
 And ne'er throughout the year to church thou go'st,
 Except it be to pray against thy foes.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 Cease, cease these jars, and rest your minds in peace!
 Let's to the altar.--Heralds, wait on us.--
 Instead of gold, we'll offer up our arms,
@@ -136,28 +91,28 @@ Than Julius Caesar or bright--
 
 [<i>Enter a Messenger.</i>]
 
-<speaker>MESSENGER</speaker>
+MESSENGER
 My honorable lords, health to you all.
 Sad tidings bring I to you out of France,
 Of loss, of slaughter, and discomfiture:
 Guyen, Champaigne, Rheims, Roan, Orleance,
 Paris, Gisors, Poitiers, are all quite lost.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 What say'st thou, man, before dead Henry's corse?
 Speak softly, or the loss of those great towns
 Will make him burst his lead and rise from death.
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 Is Paris lost? Is Roan yielded up?
 If Henry were recalled to life again,
 These news would cause him once more yield the
 ghost.
 
-<speaker>EXETER</speaker>
+EXETER
 How were they lost? What treachery was used?
 
-<speaker>MESSENGER</speaker>
+MESSENGER
 No treachery, but want of men and money.
 Amongst the soldiers, this is muttered:
 That here you maintain several factions
@@ -172,11 +127,11 @@ Let not sloth dim your honors new begot.
 Cropped are the flower-de-luces in your arms;
 Of England's coat, one half is cut away.	[<i>He exits.</i>]
 
-<speaker>EXETER</speaker>
+EXETER
 Were our tears wanting to this funeral,
 These tidings would call forth her flowing tides.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 Me they concern; regent I am of France.
 Give me my steeled coat, I'll fight for France.
 Away with these disgraceful wailing robes.
@@ -185,7 +140,7 @@ To weep their intermissive miseries.
 
 [<i>Enter to them another Messenger, with papers.</i>]
 
-<speaker>SECOND MESSENGER</speaker>
+SECOND MESSENGER
 Lords, view these letters, full of bad mischance.
 France is revolted from the English quite,
 Except some petty towns of no import.
@@ -194,31 +149,31 @@ The Bastard of Orleance with him is joined;
 Reignier, Duke of Anjou, doth take his part;
 The Duke of Alanson flieth to his side.	[<i>He exits.</i>]
 
-<speaker>EXETER</speaker>
+EXETER
 The Dauphin crowned king? All fly to him?
 O, whither shall we fly from this reproach?
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 We will not fly but to our enemies' throats.--
 Bedford, if thou be slack, I'll fight it out.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 Gloucester, why doubt'st thou of my forwardness?
 An army have I mustered in my thoughts,
 Wherewith already France is overrun.
 
 [<i>Enter another Messenger.</i>]
 
-<speaker>THIRD MESSENGER</speaker>
+THIRD MESSENGER
 My gracious lords, to add to your laments,
 Wherewith you now bedew King Henry's hearse,
 I must inform you of a dismal fight
 Betwixt the stout Lord Talbot and the French.
 
-<speaker>WINCHESTER</speaker>
+WINCHESTER
 What? Wherein Talbot overcame, is 't so?
 
-<speaker>THIRD MESSENGER</speaker>
+THIRD MESSENGER
 O no, wherein Lord Talbot was o'erthrown.
 The circumstance I'll tell you more at large.
 The tenth of August last, this dreadful lord,
@@ -239,8 +194,7 @@ Here, there, and everywhere, enraged, he slew.
 The French exclaimed the devil was in arms;
 All the whole army stood agazed on him.
 His soldiers, spying his undaunted spirit,
-<speaker>"A</speaker>
-Talbot! A Talbot!" cried out amain
+"A Talbot! A Talbot!" cried out amain
 And rushed into the bowels of the battle.
 Here had the conquest fully been sealed up
 If Sir John Fastolf had not played the coward.
@@ -255,18 +209,18 @@ Whom all France, with their chief assembled
 strength,
 Durst not presume to look once in the face.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 Is Talbot slain then? I will slay myself
 For living idly here, in pomp and ease,
 Whilst such a worthy leader, wanting aid,
 Unto his dastard foemen is betrayed.
 
-<speaker>THIRD MESSENGER</speaker>
+THIRD MESSENGER
 O, no, he lives, but is took prisoner,
 And Lord Scales with him, and Lord Hungerford;
 Most of the rest slaughtered or took likewise.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 His ransom there is none but I shall pay.
 I'll hale the Dauphin headlong from his throne;
 His crown shall be the ransom of my friend.
@@ -277,7 +231,7 @@ To keep our great Saint George's feast withal.
 Ten thousand soldiers with me I will take,
 Whose bloody deeds shall make all Europe quake.
 
-<speaker>THIRD MESSENGER</speaker>
+THIRD MESSENGER
 So you had need; 'fore Orleance besieged,
 The English army is grown weak and faint;
 The Earl of Salisbury craveth supply
@@ -285,28 +239,27 @@ And hardly keeps his men from mutiny,
 Since they so few watch such a multitude.
 [<i>He exits.</i>]
 
-<speaker>EXETER</speaker>
+EXETER
 Remember, lords, your oaths to Henry sworn:
 Either to quell the Dauphin utterly
 Or bring him in obedience to your yoke.
 
-<speaker>BEDFORD</speaker>
+BEDFORD
 I do remember it, and here take my leave
 To go about my preparation.	[<i>Bedford exits.</i>]
 
-<speaker>GLOUCESTER</speaker>
+GLOUCESTER
 I'll to the Tower with all the haste I can
 To view th' artillery and munition,
 And then I will proclaim young Henry king.
 [<i>Gloucester exits.</i>]
 
-<speaker>EXETER</speaker>
+EXETER
 To Eltham will I, where the young king is,
 Being ordained his special governor;
 And for his safety there I'll best devise.	[<i>He exits.</i>]
 
-<speaker>WINCHESTER,</speaker>
-[<i>aside</i>]
+WINCHESTER, [<i>aside</i>]
 Each hath his place and function to attend.
 I am left out; for me nothing remains.
 But long I will not be Jack-out-of-office.
@@ -472,7 +425,7 @@ Otherwise I renounce all confidence.
 I am prepared. Here is my keen-edged sword,
 Decked with fine flower-de-luces on each side--
 [<i>Aside.</i>]
-The which at Touraine, in Saint Katherine's
+ The which at Touraine, in Saint Katherine's
 churchyard,
 Out of a great deal of old iron I chose forth.
 
@@ -722,7 +675,7 @@ Come, officer, as loud as e'er thou canst, cry.
 
 <speaker>OFFICER</speaker>
 [<i>reads</i>]
-All manner of men, assembled here in
+  All manner of men, assembled here in
 arms this day against God's peace and the King's, we
 charge and command you, in his Highness' name, to
 repair to your several dwelling places, and not to
@@ -740,7 +693,7 @@ Thy heartblood I will have for this day's work.
 <speaker>MAYOR</speaker>
 I'll call for clubs if you will not away.
 [<i>(Aside.)</i>]
-This cardinal's more haughty than the devil!
+ This cardinal's more haughty than the devil!
 
 <speaker>GLOUCESTER</speaker>
 Mayor, farewell. Thou dost but what thou mayst.
@@ -755,7 +708,7 @@ at separate doors, with their Servingmen.</i>]
 [<i>to Officers</i>]
 See the coast cleared, and then we will depart.
 [<i>(Aside.)</i>]
-Good God, these nobles should such
+ Good God, these nobles should such
 stomachs bear!
 I myself fight not once in forty year.
 [<i>They exit.</i>]
@@ -2134,7 +2087,7 @@ So help me God, as I intend it not.
 O, loving uncle--kind Duke of Gloucester--
 How joyful am I made by this contract.
 [<i>To the Servingmen.</i>]
-Away, my masters, trouble us
+ Away, my masters, trouble us
 no more,
 But join in friendship as your lords have done.
 
@@ -3880,7 +3833,7 @@ Yet if this servile usage once offend,
 Go and be free again as Suffolk's friend.
 [<i>She is going.</i>]
 O, stay! [<i>(Aside.)</i>]
-I have no power to let her pass.
+ I have no power to let her pass.
 My hand would free her, but my heart says no.
 As plays the sun upon the glassy streams,
 Twinkling another counterfeited beam,
@@ -4109,7 +4062,7 @@ Give thee her hand for sign of plighted faith.
 Reignier of France, I give thee kingly thanks
 Because this is in traffic of a king.
 [<i>Aside.</i>]
-And yet methinks I could be well content
+ And yet methinks I could be well content
 To be mine own attorney in this case.--
 I'll over then to England with this news,
 And make this marriage to be solemnized.

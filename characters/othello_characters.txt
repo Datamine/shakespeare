@@ -1,0 +1,18 @@
+OTHELLO, a Moorish general in the Venetian army
+DESDEMONA, a Venetian lady
+BRABANTIO, a Venetian senator, father to Desdemona
+IAGO, Othello&rsquo;s standard-bearer, or "&ldquo;ancient&rdquo;"
+EMILIA, Iago&rsquo;s wife and Desdemona&rsquo;s attendant
+CASSIO, Othello&rsquo;s second-in-command, or lieutenant
+RODERIGO, a Venetian gentleman
+Duke of Venice
+Venetian gentlemen, kinsmen to Brabantio:
+  LODOVICO
+  GRATIANO
+Venetian senators
+MONTANO, an official in Cyprus
+BIANCA, a woman in Cyprus in love with Cassio
+Clown, a comic servant to Othello and Desdemona
+Gentlemen of Cyprus
+Sailors
+Servants, Attendants, Officers, Messengers, Herald, Musicians, Torchbearers.

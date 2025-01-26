@@ -1,0 +1,28 @@
+JOHN, King of England, with dominion over assorted Continental territories
+QUEEN ELEANOR, King John&rsquo;s mother, widow of King Henry II
+BLANCHE of Spain, niece to King John
+PRINCE HENRY, son to King John
+CONSTANCE, widow of Geoffrey, King John&rsquo;s elder brother
+ARTHUR, Duke of Brittany, her son
+KING PHILIP II of France
+LOUIS THE DAUPHIN, his son
+DUKE OF AUSTRIA (also called LIMOGES)
+CHATILLION, ambassador from France to King John
+COUNT MELUN
+A FRENCH HERALD
+CARDINAL PANDULPH, Papal Legate
+LADY FAULCONBRIDGE
+The BASTARD, PHILIP FAULCONBRIDGE, her son by King Richard I
+ROBERT FAULCONBRIDGE, her son by Sir Robert Faulconbridge
+JAMES GURNEY, her servant
+HUBERT, supporter of King John
+English nobles:
+  EARL OF SALISBURY
+  EARL OF PEMBROKE
+  EARL OF ESSEX
+  LORD BIGOT
+A CITIZEN of Angiers
+PETER of Pomfret, a Prophet
+An ENGLISH HERALD
+EXECUTIONERS
+English MESSENGER, French MESSENGER, Sheriff, Lords, Soldiers, Attendants

@@ -6,113 +6,27 @@ Folger Shakespeare Library
 https://shakespeare.folger.edu/shakespeares-works/henry-viii/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
-export const text = `Characters in the Play
-<hr>
-KING Henry the Eighth
-Duke of NORFOLK
-Duke of SUFFOLK
-Cardinal WOLSEY, Archbishop of Canterbury
-SECRETARIES to Wolsey
-CROMWELL, servant to Wolsey, later secretary to the Privy Council
-Cardinal CAMPEIUS, Papal Legate
-GARDINER, secretary to the king, later Bishop of Winchester
-PAGE to Gardiner
-QUEEN KATHERINE, Henry's first wife, later Princess Dowager
-GRIFFITH, attendant on Katherine
-PATIENCE, woman to Katherine
-Queen's GENTLEMAN USHER
-CAPUCHIUS, ambassador from the Emperor Charles
-Duke of BUCKINGHAM
-Lord ABERGAVENNY, Buckingham's son-in-law
-Earl of SURREY, Buckingham's son-in-law
-Sir Nicholas VAUX
-Knevet, former SURVEYOR to Buckingham
-BRANDON
-SERGEANT at Arms
-FIRST GENTLEMAN
-SECOND GENTLEMAN
-ANNE Bullen, Katherine's lady-in-waiting, later Henry's second wife and queen
-OLD LADY, with Anne Bullen
-Lord CHAMBERLAIN
-Lord SANDS (also Sir Walter SANDS)
-Sir Thomas LOVELL
-Sir Henry GUILFORD
-Bishop of LINCOLN
-CRANMER, later Archbishop of Canterbury
-Lord CHANCELLOR
-GARTER King of Arms
-THIRD GENTLEMAN
-Sir Anthony DENNY
-Doctor BUTTS
-KEEPER
-PORTER and his MAN
-SCRIBES
-CRIER
-PROLOGUE
-EPILOGUE
-Spirits, Princess Elizabeth as an infant, Duchess of Norfolk, Marquess and Marchioness of Dorset, Lords, Nobles, Countesses, Bishops, Judges, Priests, Ladies, Gentlemen, Gentlemen Ushers, Lord Mayor, Four Representatives of the Cinque Ports, Aldermen, Women, Musicians, Choristers, Guards, Tipstaves, Halberds, Vergers, Attendants, Servants, Messenger, Pages, Footboys, Grooms
+export const text = `<b id="act-1" class="act-header">Act 1</b>
 
-
-[<i>Enter Prologue.</i>]
-
-PROLOGUE
-I come no more to make you laugh. Things now
-That bear a weighty and a serious brow,
-Sad, high, and working, full of state and woe,
-Such noble scenes as draw the eye to flow,
-We now present. Those that can pity here
-May, if they think it well, let fall a tear;
-The subject will deserve it. Such as give
-Their money out of hope they may believe
-May here find truth too. Those that come to see
-Only a show or two, and so agree
-The play may pass, if they be still and willing,
-I'll undertake may see away their shilling
-Richly in two short hours. Only they
-That come to hear a merry, bawdy play,
-A noise of targets, or to see a fellow
-In a long motley coat guarded with yellow,
-Will be deceived. For, gentle hearers, know
-To rank our chosen truth with such a show
-As fool and fight is, besides forfeiting
-Our own brains and the opinion that we bring
-To make that only true we now intend,
-Will leave us never an understanding friend.
-Therefore, for goodness' sake, and as you are known
-The first and happiest hearers of the town,
-Be sad, as we would make you. Think you see
-The very persons of our noble story
-As they were living. Think you see them great,
-And followed with the general throng and sweat
-Of thousand friends. Then, in a moment, see
-How soon this mightiness meets misery.
-And if you can be merry then, I'll say
-A man may weep upon his wedding day.
-[<i>He exits.</i>]
-
-<b id="act-1" class="act-header">Act 1</b>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter the Duke of Norfolk at one door; at the other, the
 Duke of Buckingham and the Lord Abergavenny.</i>]
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 Good morrow, and well met. How have you done
 Since last we saw in France?
 
-<speaker>NORFOLK</speaker>
-I thank your Grace,
+NORFOLK  I thank your Grace,
 Healthful, and ever since a fresh admirer
 Of what I saw there.
 
-<speaker>BUCKINGHAM</speaker>
-An untimely ague
+BUCKINGHAM  An untimely ague
 Stayed me a prisoner in my chamber when
 Those suns of glory, those two lights of men,
 Met in the vale of Andren.
 
-<speaker>NORFOLK</speaker>
-'Twixt Guynes and Arde.
+NORFOLK  'Twixt Guynes and Arde.
 I was then present, saw them salute on horseback,
 Beheld them when they lighted, how they clung
 In their embracement, as they grew together--
@@ -120,12 +34,10 @@ Which had they, what four throned ones could have
 weighed
 Such a compounded one?
 
-<speaker>BUCKINGHAM</speaker>
-All the whole time
+BUCKINGHAM  All the whole time
 I was my chamber's prisoner.
 
-<speaker>NORFOLK</speaker>
-Then you lost
+NORFOLK  Then you lost
 The view of earthly glory. Men might say
 Till this time pomp was single, but now married
 To one above itself. Each following day
@@ -152,10 +64,9 @@ Beyond thought's compass, that former fabulous story,
 Being now seen possible enough, got credit
 That Bevis was believed.
 
-<speaker>BUCKINGHAM</speaker>
-O, you go far.
+BUCKINGHAM  O, you go far.
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 As I belong to worship, and affect
 In honor honesty, the tract of everything
 Would by a good discourser lose some life
@@ -164,23 +75,21 @@ To the disposing of it naught rebelled.
 Order gave each thing view. The office did
 Distinctly his full function.
 
-<speaker>BUCKINGHAM</speaker>
-Who did guide,
+BUCKINGHAM  Who did guide,
 I mean who set the body and the limbs
 Of this great sport together, as you guess?
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 One, certes, that promises no element
 In such a business.
 
-<speaker>BUCKINGHAM</speaker>
-I pray you who, my lord?
+BUCKINGHAM  I pray you who, my lord?
 
-<speaker>NORFOLK</speaker>
+NORFOLK
 All this was ordered by the good discretion
 Of the right reverend Cardinal of York.
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 The devil speed him! No man's pie is freed
 From his ambitious finger. What had he
 To do in these fierce vanities? I wonder
@@ -188,8 +97,7 @@ That such a keech can with his very bulk
 Take up the rays o' th' beneficial sun
 And keep it from the Earth.
 
-<speaker>NORFOLK</speaker>
-Surely, sir,
+NORFOLK  Surely, sir,
 There's in him stuff that puts him to these ends;
 For, being not propped by ancestry, whose grace
 Chalks successors their way, nor called upon
@@ -200,8 +108,7 @@ The force of his own merit makes his way--
 A gift that heaven gives for him which buys
 A place next to the King.
 
-<speaker>ABERGAVENNY</speaker>
-I cannot tell
+ABERGAVENNY  I cannot tell
 What heaven hath given him--let some graver eye
 Pierce into that--but I can see his pride
 Peep through each part of him. Whence has he that?
@@ -209,8 +116,7 @@ If not from hell, the devil is a niggard,
 Or has given all before, and he begins
 A new hell in himself.
 
-<speaker>BUCKINGHAM</speaker>
-Why the devil,
+BUCKINGHAM  Why the devil,
 Upon this French going-out, took he upon him,
 Without the privity o' th' King, t' appoint
 Who should attend on him? He makes up the file
@@ -220,54 +126,45 @@ He meant to lay upon; and his own letter,
 The honorable board of council out,
 Must fetch him in he papers.
 
-<speaker>ABERGAVENNY</speaker>
-I do know
+ABERGAVENNY  I do know
 Kinsmen of mine, three at the least, that have
 By this so sickened their estates that never
 They shall abound as formerly.
 
-<speaker>BUCKINGHAM</speaker>
-O, many
+BUCKINGHAM  O, many
 Have broke their backs with laying manors on 'em
 For this great journey. What did this vanity
 But minister communication of
 A most poor issue?
 
-<speaker>NORFOLK</speaker>
-Grievingly I think
+NORFOLK  Grievingly I think
 The peace between the French and us not values
 The cost that did conclude it.
 
-<speaker>BUCKINGHAM</speaker>
-Every man,
+BUCKINGHAM  Every man,
 After the hideous storm that followed, was
 A thing inspired and, not consulting, broke
 Into a general prophecy: that this tempest,
 Dashing the garment of this peace, aboded
 The sudden breach on 't.
 
-<speaker>NORFOLK</speaker>
-Which is budded out,
+NORFOLK  Which is budded out,
 For France hath flawed the league and hath attached
 Our merchants' goods at Bordeaux.
 
-<speaker>ABERGAVENNY</speaker>
-Is it therefore
+ABERGAVENNY  Is it therefore
 Th' ambassador is silenced?
 
-<speaker>NORFOLK</speaker>
-Marry, is 't.
+NORFOLK  Marry, is 't.
 
-<speaker>ABERGAVENNY</speaker>
+ABERGAVENNY
 A proper title of a peace, and purchased
 At a superfluous rate!
 
-<speaker>BUCKINGHAM</speaker>
-Why, all this business
+BUCKINGHAM  Why, all this business
 Our reverend cardinal carried.
 
-<speaker>NORFOLK</speaker>
-Like it your Grace,
+NORFOLK  Like it your Grace,
 The state takes notice of the private difference
 Betwixt you and the Cardinal. I advise you--
 And take it from a heart that wishes towards you
@@ -288,46 +185,40 @@ certain of the Guard, and two Secretaries with papers.
 The Cardinal in his passage fixeth his eye on Buckingham,
 and Buckingham on him, both full of disdain.</i>]
 
-<speaker>WOLSEY,</speaker>
-[<i>aside to a Secretary</i>]
+WOLSEY, [<i>aside to a Secretary</i>]
 The Duke of Buckingham's surveyor, ha?
 Where's his examination?
 
-<speaker>SECRETARY</speaker>
-Here, so please you.
+SECRETARY  Here, so please you.
 [<i>He hands Wolsey a paper.</i>]
 
-<speaker>WOLSEY</speaker>
+WOLSEY
 Is he in person ready?
 
-<speaker>SECRETARY</speaker>
-Ay, please your Grace.
+SECRETARY  Ay, please your Grace.
 
-<speaker>WOLSEY</speaker>
+WOLSEY
 Well, we shall then know more, and Buckingham
 Shall lessen this big look.
 [<i>Cardinal Wolsey and his train exit.</i>]
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 This butcher's cur is venomed-mouthed, and I
 Have not the power to muzzle him; therefore best
 Not wake him in his slumber. A beggar's book
 Outworths a noble's blood.
 
-<speaker>NORFOLK</speaker>
-What, are you chafed?
+NORFOLK  What, are you chafed?
 Ask God for temp'rance. That's th' appliance only
 Which your disease requires.
 
-<speaker>BUCKINGHAM</speaker>
-I read in 's looks
+BUCKINGHAM  I read in 's looks
 Matter against me, and his eye reviled
 Me as his abject object. At this instant
 He bores me with some trick. He's gone to th' King.
 I'll follow and outstare him.
 
-<speaker>NORFOLK</speaker>
-Stay, my lord,
+NORFOLK  Stay, my lord,
 And let your reason with your choler question
 What 'tis you go about. To climb steep hills
 Requires slow pace at first. Anger is like
@@ -336,14 +227,12 @@ Self-mettle tires him. Not a man in England
 Can advise me like you; be to yourself
 As you would to your friend.
 
-<speaker>BUCKINGHAM</speaker>
-I'll to the King,
+BUCKINGHAM  I'll to the King,
 And from a mouth of honor quite cry down
 This Ipswich fellow's insolence, or proclaim
 There's difference in no persons.
 
-<speaker>NORFOLK</speaker>
-Be advised.
+NORFOLK  Be advised.
 Heat not a furnace for your foe so hot
 That it do singe yourself. We may outrun
 By violent swiftness that which we run at
@@ -355,8 +244,7 @@ More stronger to direct you than yourself,
 If with the sap of reason you would quench
 Or but allay the fire of passion.
 
-<speaker>BUCKINGHAM</speaker>
-Sir,
+BUCKINGHAM  Sir,
 I am thankful to you, and I'll go along
 By your prescription. But this top-proud fellow--
 Whom from the flow of gall I name not, but
@@ -365,10 +253,9 @@ And proofs as clear as founts in July when
 We see each grain of gravel, I do know
 To be corrupt and treasonous.
 
-<speaker>NORFOLK</speaker>
-Say not "treasonous."
+NORFOLK  Say not "treasonous."
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 To th' King I'll say 't, and make my vouch as strong
 As shore of rock. Attend. This holy fox,
 Or wolf, or both--for he is equal rav'nous
@@ -381,10 +268,9 @@ To this last costly treaty, th' interview
 That swallowed so much treasure and like a glass
 Did break i' th' rinsing.
 
-<speaker>NORFOLK</speaker>
-Faith, and so it did.
+NORFOLK  Faith, and so it did.
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 Pray give me favor, sir. This cunning cardinal
 The articles o' th' combination drew
 As himself pleased; and they were ratified
@@ -412,85 +298,74 @@ As soon he shall by me--that thus the Cardinal
 Does buy and sell his honor as he pleases
 And for his own advantage.
 
-<speaker>NORFOLK</speaker>
-I am sorry
+NORFOLK  I am sorry
 To hear this of him, and could wish he were
 Something mistaken in 't.
 
-<speaker>BUCKINGHAM</speaker>
-No, not a syllable.
+BUCKINGHAM  No, not a syllable.
 I do pronounce him in that very shape
 He shall appear in proof.
 
 [<i>Enter Brandon, a Sergeant-at-Arms before him, and two
 or three of the Guard.</i>]
 
-<speaker>BRANDON</speaker>
+BRANDON
 Your office, Sergeant: execute it.
 
-<speaker>SERGEANT,</speaker>
-[<i>to Buckingham</i>]
-Sir,
+SERGEANT, [<i>to Buckingham</i>]
+ - Sir,
 My lord the Duke of Buckingham and Earl
 Of Hertford, Stafford, and Northampton, I
 Arrest thee of high treason, in the name
 Of our most sovereign king.
 
-<speaker>BUCKINGHAM,</speaker>
-[<i>to Norfolk</i>]
-Lo you, my lord,
+BUCKINGHAM, [<i>to Norfolk</i>]
+ - Lo you, my lord,
 The net has fall'n upon me. I shall perish
 Under device and practice.
 
-<speaker>BRANDON</speaker>
-I am sorry
+BRANDON  I am sorry
 To see you ta'en from liberty, to look on
 The business present. 'Tis his Highness' pleasure
 You shall to th' Tower.
 
-<speaker>BUCKINGHAM</speaker>
-It will help me nothing
+BUCKINGHAM  It will help me nothing
 To plead mine innocence, for that dye is on me
 Which makes my whit'st part black. The will of heaven
 Be done in this and all things. I obey.
 O my Lord Abergavenny, fare you well.
 
-<speaker>BRANDON</speaker>
+BRANDON
 Nay, he must bear you company.--The King
 Is pleased you shall to th' Tower, till you know
 How he determines further.
 
-<speaker>ABERGAVENNY</speaker>
-As the Duke said,
+ABERGAVENNY  As the Duke said,
 The will of heaven be done, and the King's pleasure
 By me obeyed.
 
-<speaker>BRANDON</speaker>
-Here is a warrant from
+BRANDON  Here is a warrant from
 The King t' attach Lord Mountacute, and the bodies
 Of the Duke's confessor, John de la Car,
 One Gilbert Peck, his counselor--
 
-<speaker>BUCKINGHAM</speaker>
-So, so;
+BUCKINGHAM  So, so;
 These are the limbs o' th' plot. No more, I hope.
 
-<speaker>BRANDON</speaker>
+BRANDON
 A monk o' th' Chartreux.
 
-<speaker>BUCKINGHAM</speaker>
-O, Michael Hopkins?
+BUCKINGHAM  O, Michael Hopkins?
 
-<speaker>BRANDON</speaker>
-He.
+BRANDON  He.
 
-<speaker>BUCKINGHAM</speaker>
+BUCKINGHAM
 My surveyor is false. The o'ergreat cardinal
 Hath showed him gold. My life is spanned already.
 I am the shadow of poor Buckingham,
 Whose figure even this instant cloud puts on
 By dark'ning my clear sun. [<i>To Norfolk.</i>]
-My lord,
+ - My lord,
 farewell.
 [<i>They exit.</i>]
 
@@ -658,7 +533,7 @@ I put it to your care.
 
 <speaker>WOLSEY,</speaker>
 [<i>aside to his Secretary</i>]
-A word with you.
+  A word with you.
 Let there be letters writ to every shire
 Of the King's grace and pardon. The grieved commons
 Hardly conceive of me. Let it be noised
@@ -724,7 +599,7 @@ Deliver all with charity.
 
 <speaker>KING,</speaker>
 [<i>to Surveyor</i>]
-Speak on.
+  Speak on.
 How grounded he his title to the crown
 Upon our fail? To this point hast thou heard him
 At any time speak aught?
@@ -1217,7 +1092,7 @@ My royal choice.
 
 <speaker>KING,</speaker>
 [<i>unmasking</i>]
-You have found him, cardinal.
+  You have found him, cardinal.
 You hold a fair assembly; you do well, lord.
 You are a churchman, or I'll tell you, cardinal,
 I should judge now unhappily.
@@ -1238,7 +1113,7 @@ The Viscount Rochford, one of her Highness' women.
 By heaven, she is a dainty one.--Sweetheart,
 I were unmannerly to take you out
 And not to kiss you. [<i>He kisses Anne.</i>]
-A health,
+ A health,
 gentlemen!
 Let it go round.	[<i>He drinks a toast.</i>]
 
@@ -1458,7 +1333,7 @@ Who undertakes you to your end.
 
 <speaker>VAUX,</speaker>
 [<i>calling as to Officers offstage</i>]
-Prepare there!
+  Prepare there!
 The Duke is coming. See the barge be ready,
 And fit it with such furniture as suits
 The greatness of his person.
@@ -1695,7 +1570,7 @@ Who's there? Ha?
 
 <speaker>NORFOLK,</speaker>
 [<i>to Suffolk</i>]
-Pray God he be not angry.
+  Pray God he be not angry.
 
 <speaker>KING</speaker>
 Who's there, I say? How dare you thrust yourselves
@@ -1717,7 +1592,7 @@ Is this an hour for temporal affairs, ha?
 Who's there? My good Lord Cardinal? O my Wolsey,
 The quiet of my wounded conscience,
 Thou art a cure fit for a king. [<i>To Campeius.</i>]
-You're
+ You're
 welcome,
 Most learned reverend sir, into our kingdom.
 Use us and it.--My good lord, have great care
@@ -1730,7 +1605,7 @@ Of private conference.
 
 <speaker>KING,</speaker>
 [<i>to Norfolk and Suffolk</i>]
-We are busy. Go.
+  We are busy. Go.
 
 <speaker>NORFOLK,</speaker>
 [<i>aside to Suffolk</i>]
@@ -1738,18 +1613,18 @@ This priest has no pride in him?
 
 <speaker>SUFFOLK,</speaker>
 [<i>aside to Norfolk</i>]
-Not to speak of.
+  Not to speak of.
 I would not be so sick, though for his place.
 But this cannot continue.
 
 <speaker>NORFOLK,</speaker>
 [<i>aside to Suffolk</i>]
-If it do,
+  If it do,
 I'll venture one have-at-him.
 
 <speaker>SUFFOLK,</speaker>
 [<i>aside to Norfolk</i>]
-I another.
+  I another.
 [<i>Norfolk and Suffolk exit.</i>]
 
 <speaker>WOLSEY</speaker>
@@ -1807,7 +1682,7 @@ You are the King's now.
 
 <speaker>GARDINER,</speaker>
 [<i>aside to Wolsey</i>]
-But to be commanded
+  But to be commanded
 Forever by your Grace, whose hand has raised me.
 
 <speaker>KING</speaker>
@@ -2004,7 +1879,7 @@ Whose health and royalty I pray for.
 Lady,
 I shall not fail t' approve the fair conceit
 The King hath of you. [<i>(Aside.)</i>]
-I have perused her
+ I have perused her
 well.
 Beauty and honor in her are so mingled
 That they have caught the King. And who knows yet
@@ -2413,7 +2288,7 @@ She intends unto his Holiness.
 
 <speaker>KING,</speaker>
 [<i>aside</i>]
-I may perceive
+  I may perceive
 These cardinals trifle with me. I abhor
 This dilatory sloth and tricks of Rome.
 My learned and well-beloved servant Cranmer,
@@ -2434,19 +2309,19 @@ Sing, and disperse 'em if thou canst. Leave working.
 <speaker>WOMAN</speaker>
 [<i>sings song.</i>]
 
-Orpheus with his lute made trees
-And the mountaintops that freeze
-Bow themselves when he did sing.
-To his music plants and flowers
-Ever sprung, as sun and showers
-There had made a lasting spring.
+	Orpheus with his lute made trees
+	And the mountaintops that freeze
+	   Bow themselves when he did sing.
+	To his music plants and flowers
+	Ever sprung, as sun and showers
+	   There had made a lasting spring.
 
-Everything that heard him play,
-Even the billows of the sea,
-Hung their heads and then lay by.
-In sweet music is such art,
-Killing care and grief of heart
-Fall asleep or, hearing, die.
+	Everything that heard him play,
+	Even the billows of the sea,
+	   Hung their heads and then lay by.
+	In sweet music is such art,
+	Killing care and grief of heart
+	   Fall asleep or, hearing, die.
 
 [<i>Enter a Gentleman.</i>]
 
@@ -2541,7 +2416,7 @@ His service and his counsel.
 
 <speaker>QUEEN KATHERINE,</speaker>
 [<i>aside</i>]
-To betray me.--
+  To betray me.--
 My lords, I thank you both for your good wills.
 You speak like honest men; pray God you prove so.
 But how to make you suddenly an answer
@@ -2664,7 +2539,7 @@ You have angels' faces, but heaven knows your hearts.
 What will become of me now, wretched lady?
 I am the most unhappy woman living.
 [<i>To her Women.</i>]
-Alas, poor wenches, where are now
+ Alas, poor wenches, where are now
 your fortunes?
 Shipwracked upon a kingdom where no pity,
 No friends, no hope, no kindred weep for me,
@@ -2911,7 +2786,7 @@ I think by this he is.
 <speaker>WOLSEY</speaker>
 Leave me awhile. [<i>Cromwell exits.</i>]
 [<i>Aside.</i>]
-It shall be to the Duchess of Alencon,
+ It shall be to the Duchess of Alencon,
 The French king's sister; he shall marry her.
 Anne Bullen? No, I'll no Anne Bullens for him.
 There's more in 't than fair visage. Bullen?
@@ -2961,13 +2836,13 @@ What piles of wealth hath he accumulated
 To his own portion! And what expense by th' hour
 Seems to flow from him! How i' th' name of thrift
 Does he rake this together? [<i>Seeing the nobles.</i>]
-Now,
+ Now,
 my lords,
 Saw you the Cardinal?
 
 <speaker>NORFOLK,</speaker>
 [<i>indicating Wolsey</i>]
-My lord, we have
+  My lord, we have
 Stood here observing him. Some strange commotion
 Is in his brain. He bites his lip, and starts,
 Stops on a sudden, looks upon the ground,
@@ -2996,7 +2871,7 @@ To bless your eye withal.
 
 <speaker>KING,</speaker>
 [<i>studying Wolsey</i>]
-If we did think
+  If we did think
 His contemplation were above the Earth
 And fixed on spiritual object, he should still
 Dwell in his musings, but I am afraid
@@ -3049,7 +2924,7 @@ My bounties upon you.
 
 <speaker>WOLSEY,</speaker>
 [<i>aside</i>]
-What should this mean?
+  What should this mean?
 
 <speaker>SURREY,</speaker>
 [<i>aside</i>]
@@ -3462,7 +3337,7 @@ For thine own future safety.
 
 <speaker>CROMWELL,</speaker>
 [<i>weeping</i>]
-O, my lord,
+  O, my lord,
 Must I then leave you? Must I needs forgo
 So good, so noble, and so true a master?
 Bear witness, all that have not hearts of iron,
@@ -3965,7 +3840,7 @@ They are harsh and heavy to me.	[<i>Music ceases.</i>]
 
 <speaker>PATIENCE,</speaker>
 [<i>aside to Griffith</i>]
-Do you note
+  Do you note
 How much her Grace is altered on the sudden?
 How long her face is drawn? How pale she looks,
 And of an earthy cold? Mark her eyes.
@@ -3989,7 +3864,7 @@ Deserve we no more reverence?
 
 <speaker>GRIFFITH,</speaker>
 [<i>to Messenger</i>]
-You are to blame,
+  You are to blame,
 Knowing she will not lose her wonted greatness,
 To use so rude behavior. Go to. Kneel.
 
@@ -4299,7 +4174,7 @@ What!	[<i>Lovell and Denny exit.</i>]
 
 <speaker>CRANMER,</speaker>
 [<i>aside</i>]
-I am fearful. Wherefore frowns he thus?
+  I am fearful. Wherefore frowns he thus?
 'Tis his aspect of terror. All's not well.
 
 <speaker>KING</speaker>
@@ -4308,7 +4183,7 @@ Wherefore I sent for you.
 
 <speaker>CRANMER,</speaker>
 [<i>kneeling</i>]
-It is my duty
+  It is my duty
 <speaker>T'</speaker>
 attend your Highness' pleasure.
 
@@ -4336,7 +4211,7 @@ Would come against you.
 
 <speaker>CRANMER,</speaker>
 [<i>kneeling</i>]
-I humbly thank your
+  I humbly thank your
 Highness,
 And am right glad to catch this good occasion
 Most throughly to be winnowed, where my chaff
@@ -4400,7 +4275,7 @@ Will render you no remedy, this ring
 Deliver them, and your appeal to us
 There make before them.	[<i>He gives Cranmer a ring.</i>]
 [<i>Aside.</i>]
-Look, the good man weeps!
+ Look, the good man weeps!
 He's honest, on mine honor! God's blest mother,
 I swear he is truehearted, and a soul
 None better in my kingdom.--Get you gone,
@@ -4410,7 +4285,7 @@ His language in his tears.
 
 <speaker>LOVELL</speaker>
 [<i>(within)</i>]
-Come back! What mean you?
+  Come back! What mean you?
 
 [<i>Enter Old Lady, followed by Lovell.</i>]
 
@@ -4493,7 +4368,7 @@ Shall understand it presently.	[<i>Butts exits.</i>]
 
 <speaker>CRANMER,</speaker>
 [<i>aside</i>]
-'Tis Butts,
+  'Tis Butts,
 The King's physician. As he passed along
 How earnestly he cast his eyes upon me!
 Pray heaven he sound not my disgrace. For certain
@@ -4562,7 +4437,7 @@ Yes.
 
 <speaker>NORFOLK,</speaker>
 [<i>to Keeper</i>]
-Who waits there?
+  Who waits there?
 
 <speaker>KEEPER</speaker>
 Without, my noble lords?
@@ -4579,7 +4454,7 @@ Let him come in.
 
 <speaker>KEEPER,</speaker>
 [<i>at door</i>]
-Your Grace may enter now.
+  Your Grace may enter now.
 [<i>Cranmer approaches the council table.</i>]
 
 <speaker>CHANCELLOR</speaker>
@@ -4864,7 +4739,7 @@ And brother-love I do it.	[<i>He embraces Cranmer.</i>]
 
 <speaker>CRANMER,</speaker>
 [<i>weeping</i>]
-And let heaven
+  And let heaven
 Witness how dear I hold this confirmation.
 
 <speaker>KING</speaker>
@@ -4890,7 +4765,7 @@ slaves, leave your gaping!
 
 <speaker>ONE,</speaker>
 [<i>within</i>]
-Good Master Porter, I belong to th'
+  Good Master Porter, I belong to th'
 larder.
 
 <speaker>PORTER</speaker>
@@ -4930,7 +4805,7 @@ And that I would not for a cow, God save her!
 
 <speaker>ONE,</speaker>
 [<i>within</i>]
-Do you hear, Master Porter?
+  Do you hear, Master Porter?
 
 <speaker>PORTER</speaker>
 I shall be with you presently, good master
