@@ -30,6 +30,9 @@ def process_content(content):
     content = re.sub(r'"(?=$|\s|[.,!?;])', r'&rdquo;\g<0>', content)  # Quote before space or punctuation
     content = content.replace("'", "&rsquo;")  # Single quotes/apostrophes
     
+    # Replace em dashes
+    content = content.replace("--", "&mdash;")
+    
     # Replace special characters in both parts
     credits = credits.replace('`', '\\`').replace('$', '\\$')
     content = content.replace('`', '\\`').replace('$', '\\$')
@@ -170,25 +173,7 @@ def process_content(content):
     # Now handle indented character names in the character list section
     lines = content.split('\n')
     processed_lines = []
-    hr_count = 0
-    
-    for line in lines:
-        if '<hr>' in line:
-            hr_count += 1
-            processed_lines.append(line)
-            continue
-            
-        # Only process lines between first and second <hr>
-        if hr_count == 1:
-            print(line)
-            # Check if line starts with whitespace
-            if line.startswith((' ', '\t')):
-                # Replace leading whitespace with " - "
-                line = " - " + line.lstrip()
-        
-        processed_lines.append(line)
-    
-    content = '\n'.join(processed_lines)
+    content = '\n'.join(lines)
     
     return credits, content
 

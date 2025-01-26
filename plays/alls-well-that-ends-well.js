@@ -35,8 +35,8 @@ under whose practices he hath persecuted time
 with hope, and finds no other advantage in the
 process but only the losing of hope by time.
 
-COUNTESS  This young gentlewoman had a father--O,
-that "&ldquo;had,&rdquo;" how sad a passage &rsquo;tis!--whose skill
+COUNTESS  This young gentlewoman had a father&mdash;O,
+that "&ldquo;had,&rdquo;" how sad a passage &rsquo;tis!&mdash;whose skill
 was almost as great as his honesty; had it stretched
 so far, would have made nature immortal, and
 death should have play for lack of work. Would for
@@ -61,7 +61,7 @@ LAFEW  A fistula, my lord.
 
 BERTRAM  I heard not of it before.
 
-LAFEW  I would it were not notorious.--Was this gentlewoman
+LAFEW  I would it were not notorious.&mdash;Was this gentlewoman
 the daughter of Gerard de Narbon?
 
 COUNTESS  His sole child, my lord, and bequeathed to
@@ -69,7 +69,7 @@ my overlooking. I have those hopes of her good
 that her education promises. Her dispositions she
 inherits, which makes fair gifts fairer; for where an
 unclean mind carries virtuous qualities, there
-commendations go with pity--they are virtues and
+commendations go with pity&mdash;they are virtues and
 traitors too. In her they are the better for their simpleness.
 She derives her honesty and achieves her
 goodness.
@@ -80,9 +80,9 @@ tears.
 COUNTESS  &rsquo;Tis the best brine a maiden can season her
 praise in. The remembrance of her father never
 approaches her heart but the tyranny of her sorrows
-takes all livelihood from her cheek.--No
+takes all livelihood from her cheek.&mdash;No
 more of this, Helena. Go to. No more, lest it be
-rather thought you affect a sorrow than to have--
+rather thought you affect a sorrow than to have&mdash;
 
 HELEN  I do affect a sorrow indeed, but I have it too.
 
@@ -107,19 +107,19 @@ Under thy own life&rsquo;s key Be checked for silence,
 But never taxed for speech. What heaven more will,
 That thee may furnish and my prayers pluck down,
 Fall on thy head. [<i>To Lafew.</i>]
- - Farewell, my lord.
+ Farewell, my lord.
 &rsquo;Tis an unseasoned courtier. Good my lord,
 Advise him.
 
 LAFEW  He cannot want the best that shall
 Attend his love.
 
-COUNTESS  Heaven bless him.--Farewell, Bertram.
+COUNTESS  Heaven bless him.&mdash;Farewell, Bertram.
 
 BERTRAM  The best wishes that can be forged in your
 thoughts be servants to you.	[<i>Countess exits.</i>]
 [<i>To Helen.</i>]
- - Be comfortable to my mother, your
+ Be comfortable to my mother, your
 mistress, and make much of her.
 
 LAFEW  Farewell, pretty lady. You must hold the credit
@@ -142,7 +142,7 @@ The hind that would be mated by the lion
 Must die for love. &rsquo;Twas pretty, though a plague,
 To see him every hour, to sit and draw
 His arched brows, his hawking eye, his curls
-In our heart&rsquo;s table--heart too capable
+In our heart&rsquo;s table&mdash;heart too capable
 Of every line and trick of his sweet favor.
 But now he&rsquo;s gone, and my idolatrous fancy
 Must sanctify his relics. Who comes here?
@@ -232,7 +232,7 @@ it looks ill, it eats dryly; marry, &rsquo;tis a withered pear.
 It was formerly better, marry, yet &rsquo;tis a withered
 pear. Will you anything with it?
 
-HELEN  Not my virginity, yet--
+HELEN  Not my virginity, yet&mdash;
 There shall your master have a thousand loves,
 A mother, and a mistress, and a friend,
 A phoenix, captain, and an enemy,
@@ -242,13 +242,13 @@ His humble ambition, proud humility,
 His jarring concord, and his discord dulcet,
 His faith, his sweet disaster, with a world
 Of pretty, fond adoptious christendoms
-That blinking Cupid gossips. Now shall he--
+That blinking Cupid gossips. Now shall he&mdash;
 I know not what he shall. God send him well.
-The court&rsquo;s a learning place, and he is one--
+The court&rsquo;s a learning place, and he is one&mdash;
 
 PAROLLES  What one, i&rsquo; faith?
 
-HELEN  That I wish well. &rsquo;Tis pity--
+HELEN  That I wish well. &rsquo;Tis pity&mdash;
 
 PAROLLES  What&rsquo;s pity?
 
@@ -319,7 +319,7 @@ Impossible be strange attempts to those
 That weigh their pains in sense and do suppose
 What hath been cannot be. Who ever strove
 To show her merit that did miss her love?
-The King&rsquo;s disease--my project may deceive me,
+The King&rsquo;s disease&mdash;my project may deceive me,
 But my intents are fixed and will not leave me.
 [<i>She exits.</i>]
 
@@ -413,13 +413,13 @@ So in approof lives not his epitaph
 As in your royal speech.
 
 <speaker>KING</speaker>
-Would I were with him! He would always say--
+Would I were with him! He would always say&mdash;
 Methinks I hear him now; his plausive words
 He scattered not in ears, but grafted them
-To grow there and to bear. "&ldquo;Let me not live"--
+To grow there and to bear. "&ldquo;Let me not live"&mdash;
 This his good melancholy oft began
 On the catastrophe and heel of pastime,
-When it was out--"Let me not live,&rdquo;" quoth he,
+When it was out&mdash;"Let me not live,&rdquo;" quoth he,
 "&ldquo;After my flame lacks oil, to be the snuff
 Of younger spirits, whose apprehensive senses
 All but new things disdain, whose judgments are
@@ -435,7 +435,7 @@ You&rsquo;re loved, sir.
 They that least lend it you shall lack you first.
 
 <speaker>KING</speaker>
-I fill a place, I know &rsquo;t.--How long is &rsquo;t, count,
+I fill a place, I know &rsquo;t.&mdash;How long is &rsquo;t, count,
 Since the physician at your father&rsquo;s died?
 He was much famed.
 
@@ -443,8 +443,8 @@ He was much famed.
 Some six months since, my lord.
 
 <speaker>KING</speaker>
-If he were living, I would try him yet.--
-Lend me an arm.--The rest have worn me out
+If he were living, I would try him yet.&mdash;
+Lend me an arm.&mdash;The rest have worn me out
 With several applications. Nature and sickness
 Debate it at their leisure. Welcome, count.
 My son&rsquo;s no dearer.
@@ -577,7 +577,7 @@ come to you. Of her I am to speak.
 
 <speaker>COUNTESS</speaker>
 Sirrah, tell my gentlewoman I would speak
-with her--Helen, I mean.
+with her&mdash;Helen, I mean.
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
@@ -717,8 +717,8 @@ He must not be my brother.
 Nor I your mother?
 
 <speaker>HELEN</speaker>
-You are my mother, madam. Would you were--
-So that my lord your son were not my brother--
+You are my mother, madam. Would you were&mdash;
+So that my lord your son were not my brother&mdash;
 Indeed my mother! Or were you both our mothers,
 I care no more for than I do for heaven,
 So I were not his sister. Can &rsquo;t no other
@@ -797,7 +797,7 @@ That seeks not to find that her search implies,
 But riddle-like lives sweetly where she dies.
 
 <speaker>COUNTESS</speaker>
-Had you not lately an intent--speak truly--
+Had you not lately an intent&mdash;speak truly&mdash;
 To go to Paris?
 
 <speaker>HELEN</speaker>
@@ -875,7 +875,7 @@ Bertram Count Rossillion, and Parolles.</i>]
 
 <speaker>KING</speaker>
 Farewell, young lords. These warlike principles
-Do not throw from you.--And you, my lords,
+Do not throw from you.&mdash;And you, my lords,
 farewell.
 Share the advice betwixt you. If both gain all,
 The gift doth stretch itself as &rsquo;tis received
@@ -891,9 +891,9 @@ No, no, it cannot be. And yet my heart
 Will not confess he owes the malady
 That doth my life besiege. Farewell, young lords.
 Whether I live or die, be you the sons
-Of worthy Frenchmen. Let higher Italy--
+Of worthy Frenchmen. Let higher Italy&mdash;
 Those bated that inherit but the fall
-Of the last monarchy--see that you come
+Of the last monarchy&mdash;see that you come
 Not to woo honor but to wed it. When
 The bravest questant shrinks, find what you seek,
 That fame may cry you loud. I say farewell.
@@ -911,7 +911,7 @@ Before you serve.
 Our hearts receive your warnings.
 
 <speaker>KING</speaker>
-Farewell.--Come hither to me.
+Farewell.&mdash;Come hither to me.
 [<i>The King speaks to Attendants, while Bertram,
 Parolles, and other Lords come forward.</i>]
 
@@ -1050,8 +1050,8 @@ If seriously I may convey my thoughts
 In this my light deliverance, I have spoke
 With one that in her sex, her years, profession,
 Wisdom, and constancy hath amazed me more
-Than I dare blame my weakness. Will you see her--
-For that is her demand--and know her business?
+Than I dare blame my weakness. Will you see her&mdash;
+For that is her demand&mdash;and know her business?
 That done, laugh well at me.
 
 <speaker>KING</speaker>
@@ -1240,8 +1240,8 @@ Thy resolved patient, on thee still rely.
 More should I question thee, and more I must,
 Though more to know could not be more to trust:
 From whence thou cam&rsquo;st, how tended on; but rest
-Unquestioned welcome and undoubted blessed.--
-Give me some help here, ho!--If thou proceed
+Unquestioned welcome and undoubted blessed.&mdash;
+Give me some help here, ho!&mdash;If thou proceed
 As high as word, my deed shall match thy deed.
 [<i>Flourish. They exit, the King assisted.</i>]
 
@@ -1316,7 +1316,7 @@ fool in question, hoping to be the wiser by your
 answer. I pray you, sir, are you a courtier?
 
 <speaker>FOOL</speaker>
-O Lord, sir!--There&rsquo;s a simple putting off. More,
+O Lord, sir!&mdash;There&rsquo;s a simple putting off. More,
 more, a hundred of them.
 
 <speaker>COUNTESS</speaker>
@@ -1324,20 +1324,20 @@ Sir, I am a poor friend of yours that loves
 you.
 
 <speaker>FOOL</speaker>
-O Lord, sir!--Thick, thick. Spare not me.
+O Lord, sir!&mdash;Thick, thick. Spare not me.
 
 <speaker>COUNTESS</speaker>
 I think, sir, you can eat none of this homely
 meat.
 
 <speaker>FOOL</speaker>
-O Lord, sir!--Nay, put me to &rsquo;t, I warrant you.
+O Lord, sir!&mdash;Nay, put me to &rsquo;t, I warrant you.
 
 <speaker>COUNTESS</speaker>
 You were lately whipped, sir, as I think.
 
 <speaker>FOOL</speaker>
-O Lord, sir!--Spare not me.
+O Lord, sir!&mdash;Spare not me.
 
 <speaker>COUNTESS</speaker>
 Do you cry "&ldquo;O Lord, sir!&rdquo;" at your whipping,
@@ -1354,7 +1354,7 @@ I play the noble huswife with the time to
 entertain it so merrily with a fool.
 
 <speaker>FOOL</speaker>
-O Lord, sir!--Why, there &rsquo;t serves well again.
+O Lord, sir!&mdash;Why, there &rsquo;t serves well again.
 
 <speaker>COUNTESS,</speaker>
 [<i>giving him a paper</i>]
@@ -1396,19 +1396,19 @@ hath shot out in our latter times.
 And so &rsquo;tis.
 
 <speaker>LAFEW</speaker>
-To be relinquished of the artists--
+To be relinquished of the artists&mdash;
 
 <speaker>PAROLLES</speaker>
 So I say, both of Galen and Paracelsus.
 
 <speaker>LAFEW</speaker>
-Of all the learned and authentic fellows--
+Of all the learned and authentic fellows&mdash;
 
 <speaker>PAROLLES</speaker>
 Right, so I say.
 
 <speaker>LAFEW</speaker>
-That gave him out incurable--
+That gave him out incurable&mdash;
 
 <speaker>PAROLLES</speaker>
 Why, there &rsquo;tis. So say I too.
@@ -1417,7 +1417,7 @@ Why, there &rsquo;tis. So say I too.
 Not to be helped.
 
 <speaker>PAROLLES</speaker>
-Right, as &rsquo;twere a man assured of a--
+Right, as &rsquo;twere a man assured of a&mdash;
 
 <speaker>LAFEW</speaker>
 Uncertain life and sure death.
@@ -1443,13 +1443,13 @@ That&rsquo;s it. I would have said the very same.
 
 <speaker>LAFEW</speaker>
 Why, your dolphin is not lustier. &rsquo;Fore me, I
-speak in respect--
+speak in respect&mdash;
 
 <speaker>PAROLLES</speaker>
 Nay, &rsquo;tis strange, &rsquo;tis very strange; that is the
 brief and the tedious of it; and he&rsquo;s of a most facinorous
 spirit that will not acknowledge it to be
-the--
+the&mdash;
 
 <speaker>LAFEW</speaker>
 Very hand of heaven.
@@ -1458,13 +1458,13 @@ Very hand of heaven.
 Ay, so I say.
 
 <speaker>LAFEW</speaker>
-In a most weak--
+In a most weak&mdash;
 
 <speaker>PAROLLES</speaker>
 And debile minister. Great power, great
 transcendence, which should indeed give us a further
 use to be made than alone the recov&rsquo;ry of the
-King, as to be--
+King, as to be&mdash;
 
 <speaker>LAFEW</speaker>
 Generally thankful.
@@ -1526,7 +1526,7 @@ We understand it and thank heaven for you.
 
 <speaker>HELEN</speaker>
 I am a simple maid, and therein wealthiest
-That I protest I simply am a maid.--
+That I protest I simply am a maid.&mdash;
 Please it your Majesty, I have done already.
 The blushes in my cheeks thus whisper me:
 "&ldquo;We blush that thou shouldst choose; but, be
@@ -1607,7 +1607,7 @@ am a youth of fourteen; I have known thee already.
 [<i>to Bertram</i>]
 I dare not say I take you, but I give
 Me and my service ever whilst I live
-Into your guiding power.--This is the man.
+Into your guiding power.&mdash;This is the man.
 
 <speaker>KING</speaker>
 Why then, young Bertram, take her. She&rsquo;s thy wife.
@@ -1642,8 +1642,8 @@ I can build up. Strange is it that our bloods,
 Of color, weight, and heat, poured all together,
 Would quite confound distinction, yet stands off
 In differences so mighty. If she be
-All that is virtuous, save what thou dislik&rsquo;st--
-"&ldquo;A poor physician&rsquo;s daughter"--thou dislik&rsquo;st
+All that is virtuous, save what thou dislik&rsquo;st&mdash;
+"&ldquo;A poor physician&rsquo;s daughter"&mdash;thou dislik&rsquo;st
 Of virtue for the name. But do not so.
 From lowest place whence virtuous things proceed,
 The place is dignified by th&rsquo; doer&rsquo;s deed.
@@ -1679,7 +1679,7 @@ Let the rest go.
 
 <speaker>KING</speaker>
 My honor&rsquo;s at the stake, which to defeat
-I must produce my power.--Here, take her hand,
+I must produce my power.&mdash;Here, take her hand,
 Proud, scornful boy, unworthy this good gift,
 That dost in vile misprision shackle up
 My love and her desert; that canst not dream
@@ -1779,11 +1779,11 @@ up, and that thou &rsquo;rt scarce worth.
 
 <speaker>PAROLLES</speaker>
 Hadst thou not the privilege of antiquity
-upon thee--
+upon thee&mdash;
 
 <speaker>LAFEW</speaker>
 Do not plunge thyself too far in anger lest thou
-hasten thy trial, which if--Lord have mercy on
+hasten thy trial, which if&mdash;Lord have mercy on
 thee for a hen! So, my good window of lattice, fare
 thee well; thy casement I need not open, for I look
 through thee. Give me thy hand.
@@ -1831,7 +1831,7 @@ be patient; there is no fettering of authority. I&rsquo;ll
 beat him, by my life, if I can meet him with any
 convenience, an he were double and double a lord.
 I&rsquo;ll have no more pity of his age than I would have
-of--I&rsquo;ll beat him, an if I could but meet him again.
+of&mdash;I&rsquo;ll beat him, an if I could but meet him again.
 
 [<i>Enter Lafew.</i>]
 
@@ -1978,7 +1978,7 @@ own good fortunes.
 
 <speaker>PAROLLES</speaker>
 You had my prayers to lead them on, and to
-keep them on have them still.--O my knave, how
+keep them on have them still.&mdash;O my knave, how
 does my old lady?
 
 <speaker>FOOL</speaker>
@@ -2131,7 +2131,7 @@ End ere I do begin.
   A good traveler is something at the latter
 end of a dinner, but one that lies three thirds,
 and uses a known truth to pass a thousand nothings
-with, should be once heard and thrice beaten.--
+with, should be once heard and thrice beaten.&mdash;
 God save you, captain.
 
 <speaker>BERTRAM,</speaker>
@@ -2158,7 +2158,7 @@ prayers. Fare you well, my lord, and believe this of
 me: there can be no kernel in this light nut. The
 soul of this man is his clothes. Trust him not in
 matter of heavy consequence. I have kept of them
-tame and know their natures.--Farewell, monsieur.
+tame and know their natures.&mdash;Farewell, monsieur.
 I have spoken better of you than you have or
 will to deserve at my hand, but we must do good
 against evil.	[<i>He exits.</i>]
@@ -2206,7 +2206,7 @@ I leave you to your wisdom.
 
 <speaker>HELEN</speaker>
 Sir, I can nothing say
-But that I am your most obedient servant--
+But that I am your most obedient servant&mdash;
 
 <speaker>BERTRAM</speaker>
 Come, come, no more of that.
@@ -2229,7 +2229,7 @@ Well, what would you say?
 
 <speaker>HELEN</speaker>
 I am not worthy of the wealth I owe,
-Nor dare I say &rsquo;tis mine--and yet it is--
+Nor dare I say &rsquo;tis mine&mdash;and yet it is&mdash;
 But, like a timorous thief, most fain would steal
 What law does vouch mine own.
 
@@ -2246,13 +2246,13 @@ Strangers and foes do sunder and not kiss.
 I pray you stay not, but in haste to horse.
 
 <speaker>HELEN</speaker>
-I shall not break your bidding, good my lord.--
-Where are my other men?--Monsieur, farewell.
+I shall not break your bidding, good my lord.&mdash;
+Where are my other men?&mdash;Monsieur, farewell.
 [<i>She exits.</i>]
 
 <speaker>BERTRAM</speaker>
 Go thou toward home, where I will never come
-Whilst I can shake my sword or hear the drum.--
+Whilst I can shake my sword or hear the drum.&mdash;
 Away, and for our flight.
 
 <speaker>PAROLLES</speaker>
@@ -2400,7 +2400,7 @@ Madam, my lord is gone, forever gone.
 Do not say so.
 
 <speaker>COUNTESS</speaker>
-Think upon patience, pray you.--Gentlemen,
+Think upon patience, pray you.&mdash;Gentlemen,
 I have felt so many quirks of joy and grief
 That the first face of neither on the start
 Can woman me unto &rsquo;t. Where is my son, I pray you?
@@ -2433,7 +2433,7 @@ I prithee, lady, have a better cheer.
 If thou engrossest all the griefs are thine,
 Thou robb&rsquo;st me of a moiety. He was my son,
 But I do wash his name out of my blood,
-And thou art all my child.--Towards Florence is he?
+And thou art all my child.&mdash;Towards Florence is he?
 
 <speaker>SECOND GENTLEMAN</speaker>
 Ay, madam.
@@ -2657,7 +2657,7 @@ you may know by their trumpets.
 
 <speaker>MARIANA</speaker>
 Come, let&rsquo;s return again and suffice ourselves
-with the report of it.--Well, Diana, take heed of
+with the report of it.&mdash;Well, Diana, take heed of
 this French earl. The honor of a maid is her name,
 and no legacy is so rich as honesty.
 
@@ -2670,7 +2670,7 @@ companion.
 <speaker>MARIANA</speaker>
 I know that knave, hang him! One Parolles, a
 filthy officer he is in those suggestions for the
-young earl.--Beware of them, Diana. Their promises,
+young earl.&mdash;Beware of them, Diana. Their promises,
 enticements, oaths, tokens, and all these
 engines of lust are not the things they go under.
 Many a maid hath been seduced by them; and
@@ -2692,7 +2692,7 @@ I hope so.
 
 Look, here comes a pilgrim. I know she will lie at
 my house; thither they send one another. I&rsquo;ll question
-her.--God save you, pilgrim. Whither are
+her.&mdash;God save you, pilgrim. Whither are
 bound?
 
 <speaker>HELEN,</speaker>
@@ -2708,7 +2708,7 @@ At the Saint Francis here beside the port.
   Is this the way?	[<i>A march afar.</i>]
 
 <speaker>WIDOW</speaker>
-Ay, marry, is &rsquo;t.--Hark you, they come this way.--
+Ay, marry, is &rsquo;t.&mdash;Hark you, they come this way.&mdash;
 If you will tarry, holy pilgrim,
 But till the troops come by,
 I will conduct you where you shall be lodged,
@@ -3274,7 +3274,7 @@ stripped.
 
 <speaker>PAROLLES</speaker>
 Though I swore I leapt from the window of
-the citadel--
+the citadel&mdash;
 
 <speaker>LORD,</speaker>
 [<i>aside</i>]
@@ -3297,7 +3297,7 @@ would swear I recovered it.
   You shall hear one anon.
 
 <speaker>PAROLLES</speaker>
-A drum, now, of the enemy&rsquo;s--
+A drum, now, of the enemy&rsquo;s&mdash;
 [<i>Alarum within.</i>]
 
 <speaker>LORD,</speaker>
@@ -3412,7 +3412,7 @@ So should you be.
 
 <speaker>DIANA</speaker>
 No.
-My mother did but duty--such, my lord,
+My mother did but duty&mdash;such, my lord,
 As you owe to your wife.
 
 <speaker>BERTRAM</speaker>
@@ -3669,7 +3669,7 @@ They cannot be too sweet for the King&rsquo;s tartness.
 
 [<i>Enter Bertram Count Rossillion.</i>]
 
-Here&rsquo;s his Lordship now.--How now, my lord? Is &rsquo;t
+Here&rsquo;s his Lordship now.&mdash;How now, my lord? Is &rsquo;t
 not after midnight?
 
 <speaker>BERTRAM</speaker>
@@ -3732,7 +3732,7 @@ nothing of me.
 <speaker>FIRST LORD,</speaker>
 [<i>aside to Bertram</i>]
   Hush, hush. Hoodman
-comes.--Portotartarossa.
+comes.&mdash;Portotartarossa.
 
 <speaker>FIRST SOLDIER,</speaker>
 [<i>to Parolles</i>]
@@ -3751,7 +3751,7 @@ Bosko Chimurcho.
 Boblibindo chicurmurco.
 
 <speaker>FIRST SOLDIER</speaker>
-You are a merciful general.--Our general
+You are a merciful general.&mdash;Our general
 bids you answer to what I shall ask you out of a
 note.
 
@@ -3761,7 +3761,7 @@ And truly, as I hope to live.
 <speaker>FIRST SOLDIER,</speaker>
 [<i>as if reading a note</i>]
   First, demand of
-him how many horse the Duke is strong.--What say
+him how many horse the Duke is strong.&mdash;What say
 you to that?
 
 <speaker>PAROLLES</speaker>
@@ -3786,7 +3786,7 @@ slave is this!
 [<i>aside to Bertram</i>]
   You&rsquo;re deceived, my
 lord. This is Monsieur Parolles, the gallant
-militarist--that was his own phrase--that had the
+militarist&mdash;that was his own phrase&mdash;that had the
 whole theoric of war in the knot of his scarf, and
 the practice in the chape of his dagger.
 
@@ -3801,8 +3801,8 @@ everything in him by wearing his apparel neatly.
   Well, that&rsquo;s set down.
 
 <speaker>PAROLLES</speaker>
-"&ldquo;Five or six thousand horse,&rdquo;" I said--I will
-say true--"or thereabouts&rdquo;" set down, for I&rsquo;ll speak
+"&ldquo;Five or six thousand horse,&rdquo;" I said&mdash;I will
+say true&mdash;"or thereabouts&rdquo;" set down, for I&rsquo;ll speak
 truth.
 
 <speaker>FIRST LORD,</speaker>
@@ -3827,7 +3827,7 @@ The rogues are marvelous poor.
 <speaker>FIRST SOLDIER,</speaker>
 [<i>as if reading a note</i>]
   Demand of him of
-what strength they are o&rsquo; foot.--What say you to
+what strength they are o&rsquo; foot.&mdash;What say you to
 that?
 
 <speaker>PAROLLES</speaker>
@@ -3863,7 +3863,7 @@ one Captain Dumaine be i&rsquo; th&rsquo; camp, a Frenchman;
 what his reputation is with the Duke, what his valor,
 honesty, and expertness in wars; or whether he
 thinks it were not possible with well-weighing sums
-of gold to corrupt him to a revolt.--What say you to
+of gold to corrupt him to a revolt.&mdash;What say you to
 this? What do you know of it?
 
 <speaker>PAROLLES</speaker>
@@ -3933,7 +3933,7 @@ I do not know if it be it or no.
 <speaker>FIRST SOLDIER</speaker>
 [<i>reads</i>]
   Dian, the Count&rsquo;s a fool and full
-of gold--
+of gold&mdash;
 
 <speaker>PAROLLES</speaker>
 That is not the Duke&rsquo;s letter, sir. That is an
@@ -4107,7 +4107,7 @@ die. The General says you that have so traitorously
 discovered the secrets of your army and made
 such pestiferous reports of men very nobly held
 can serve the world for no honest use. Therefore
-you must die.--Come, headsman, off with his
+you must die.&mdash;Come, headsman, off with his
 head.
 
 <speaker>PAROLLES</speaker>
@@ -4141,7 +4141,7 @@ it of you. But fare you well.
 [<i>Bertram and Lords exit.</i>]
 
 <speaker>FIRST SOLDIER</speaker>
-You are undone, captain--all but your
+You are undone, captain&mdash;all but your
 scarf; that has a knot on &rsquo;t yet.
 
 <speaker>PAROLLES</speaker>
@@ -4203,7 +4203,7 @@ That can such sweet use make of what they hate
 When saucy trusting of the cozened thoughts
 Defiles the pitchy night! So lust doth play
 With what it loathes for that which is away.
-But more of this hereafter.--You, Diana,
+But more of this hereafter.&mdash;You, Diana,
 Under my poor instructions yet must suffer
 Something in my behalf.
 
@@ -4213,7 +4213,7 @@ Go with your impositions, I am yours
 Upon your will to suffer.
 
 <speaker>HELEN</speaker>
-Yet, I pray you--
+Yet, I pray you&mdash;
 But with the word "&ldquo;The time will bring on summer,&rdquo;"
 When briers shall have leaves as well as thorns
 And be as sweet as sharp. We must away.
@@ -4431,7 +4431,7 @@ As nothing can unroot you.
 
 In happy time!
 This man may help me to his Majesty&rsquo;s ear,
-If he would spend his power.--God save you, sir.
+If he would spend his power.&mdash;God save you, sir.
 
 <speaker>GENTLEMAN</speaker>
 And you.
@@ -4476,7 +4476,7 @@ Lord, how we lose our pains!
 
 <speaker>HELEN</speaker>
 All&rsquo;s well that ends well yet,
-Though time seem so adverse and means unfit.--
+Though time seem so adverse and means unfit.&mdash;
 I do beseech you, whither is he gone?
 
 <speaker>GENTLEMAN</speaker>
@@ -4498,7 +4498,7 @@ This I&rsquo;ll do for you.
 
 <speaker>HELEN</speaker>
 And you shall find yourself to be well thanked
-Whate&rsquo;er falls more. We must to horse again.--
+Whate&rsquo;er falls more. We must to horse again.&mdash;
 Go, go, provide.
 [<i>They exit.</i>]
 
@@ -4539,9 +4539,9 @@ close-stool, to give to a nobleman!
 
 [<i>Enter Lafew.</i>]
 
-Look, here he comes himself.--Here is a purr of
-Fortune&rsquo;s, sir, or of Fortune&rsquo;s cat--but not a
-musk-cat--that has fall&rsquo;n into the unclean fishpond
+Look, here he comes himself.&mdash;Here is a purr of
+Fortune&rsquo;s, sir, or of Fortune&rsquo;s cat&mdash;but not a
+musk-cat&mdash;that has fall&rsquo;n into the unclean fishpond
 of her displeasure and, as he says, is muddied
 withal. Pray you, sir, use the carp as you may,
 for he looks like a poor, decayed, ingenious, foolish,
@@ -4628,7 +4628,7 @@ Though my revenges were high bent upon him
 And watched the time to shoot.
 
 <speaker>LAFEW</speaker>
-This I must say--
+This I must say&mdash;
 But first I beg my pardon: the young lord
 Did to his Majesty, his mother, and his lady
 Offense of mighty note, but to himself
@@ -4797,11 +4797,11 @@ She never saw it.
 Thou speak&rsquo;st it falsely, as I love mine honor,
 And mak&rsquo;st conjectural fears to come into me
 Which I would fain shut out. If it should prove
-That thou art so inhuman--&rsquo;twill not prove so,
+That thou art so inhuman&mdash;&rsquo;twill not prove so,
 And yet I know not. Thou didst hate her deadly,
 And she is dead, which nothing but to close
 Her eyes myself could win me to believe
-More than to see this ring.--Take him away.
+More than to see this ring.&mdash;Take him away.
 My forepast proofs, howe&rsquo;er the matter fall,
 Shall tax my fears of little vanity,
 Having vainly feared too little. Away with him.
@@ -4850,7 +4850,7 @@ this. I&rsquo;ll none of him.
 
 <speaker>KING</speaker>
 The heavens have thought well on thee, Lafew,
-To bring forth this discov&rsquo;ry.--Seek these suitors.
+To bring forth this discov&rsquo;ry.&mdash;Seek these suitors.
 Go speedily, and bring again the Count.
 [<i>Gentleman and Attendants exit.</i>]
 I am afeard the life of Helen, lady,
@@ -4990,8 +4990,8 @@ At market price have bought.
 <speaker>DIANA</speaker>
 I must be patient.
 You that have turned off a first so noble wife
-May justly diet me. I pray you yet--
-Since you lack virtue, I will lose a husband--
+May justly diet me. I pray you yet&mdash;
+Since you lack virtue, I will lose a husband&mdash;
 Send for your ring. I will return it home,
 And give me mine again.
 
@@ -5024,16 +5024,16 @@ I have spoke the truth.
 My lord, I do confess the ring was hers.
 
 <speaker>KING</speaker>
-You boggle shrewdly. Every feather starts you.--
+You boggle shrewdly. Every feather starts you.&mdash;
 Is this the man you speak of?
 
 <speaker>DIANA</speaker>
 Ay, my lord.
 
 <speaker>KING</speaker>
-Tell me, sirrah--but tell me true, I charge you,
+Tell me, sirrah&mdash;but tell me true, I charge you,
 Not fearing the displeasure of your master,
-Which, on your just proceeding, I&rsquo;ll keep off--
+Which, on your just proceeding, I&rsquo;ll keep off&mdash;
 By him and by this woman here what know you?
 
 <speaker>PAROLLES</speaker>
@@ -5141,7 +5141,7 @@ It might be yours or hers for aught I know.
 <speaker>KING,</speaker>
 [<i>to Attendants</i>]
 Take her away. I do not like her now.
-To prison with her, and away with him.--
+To prison with her, and away with him.&mdash;
 Unless thou tell&rsquo;st me where thou hadst this ring,
 Thou diest within this hour.
 
@@ -5219,11 +5219,11 @@ I&rsquo;ll love her dearly, ever, ever dearly.
 
 <speaker>HELEN</speaker>
 If it appear not plain and prove untrue,
-Deadly divorce step between me and you.--
+Deadly divorce step between me and you.&mdash;
 O my dear mother, do I see you living?
 
 <speaker>LAFEW</speaker>
-Mine eyes smell onions. I shall weep anon.--
+Mine eyes smell onions. I shall weep anon.&mdash;
 [<i>To Parolles.</i>]
  Good Tom Drum, lend me a handkercher.
 So, I thank thee. Wait on me home.

@@ -29,7 +29,7 @@ Met in the vale of Andren.
 NORFOLK  &rsquo;Twixt Guynes and Arde.
 I was then present, saw them salute on horseback,
 Beheld them when they lighted, how they clung
-In their embracement, as they grew together--
+In their embracement, as they grew together&mdash;
 Which had they, what four throned ones could have
 weighed
 Such a compounded one?
@@ -57,8 +57,8 @@ Equal in luster, were now best, now worst,
 As presence did present them: him in eye
 Still him in praise; and being present both,
 &rsquo;Twas said they saw but one, and no discerner
-Durst wag his tongue in censure. When these suns--
-For so they phrase &rsquo;em--by their heralds challenged
+Durst wag his tongue in censure. When these suns&mdash;
+For so they phrase &rsquo;em&mdash;by their heralds challenged
 The noble spirits to arms, they did perform
 Beyond thought&rsquo;s compass, that former fabulous story,
 Being now seen possible enough, got credit
@@ -104,13 +104,13 @@ Chalks successors their way, nor called upon
 For high feats done to th&rsquo; crown, neither allied
 To eminent assistants, but spiderlike,
 Out of his self-drawing web, he gives us note
-The force of his own merit makes his way--
+The force of his own merit makes his way&mdash;
 A gift that heaven gives for him which buys
 A place next to the King.
 
 ABERGAVENNY  I cannot tell
-What heaven hath given him--let some graver eye
-Pierce into that--but I can see his pride
+What heaven hath given him&mdash;let some graver eye
+Pierce into that&mdash;but I can see his pride
 Peep through each part of him. Whence has he that?
 If not from hell, the devil is a niggard,
 Or has given all before, and he begins
@@ -166,9 +166,9 @@ Our reverend cardinal carried.
 
 NORFOLK  Like it your Grace,
 The state takes notice of the private difference
-Betwixt you and the Cardinal. I advise you--
+Betwixt you and the Cardinal. I advise you&mdash;
 And take it from a heart that wishes towards you
-Honor and plenteous safety--that you read
+Honor and plenteous safety&mdash;that you read
 The Cardinal&rsquo;s malice and his potency
 Together; to consider further that
 What his high hatred would effect wants not
@@ -246,9 +246,9 @@ Or but allay the fire of passion.
 
 BUCKINGHAM  Sir,
 I am thankful to you, and I&rsquo;ll go along
-By your prescription. But this top-proud fellow--
+By your prescription. But this top-proud fellow&mdash;
 Whom from the flow of gall I name not, but
-From sincere motions--by intelligence,
+From sincere motions&mdash;by intelligence,
 And proofs as clear as founts in July when
 We see each grain of gravel, I do know
 To be corrupt and treasonous.
@@ -258,10 +258,10 @@ NORFOLK  Say not "&ldquo;treasonous.&rdquo;"
 BUCKINGHAM
 To th&rsquo; King I&rsquo;ll say &rsquo;t, and make my vouch as strong
 As shore of rock. Attend. This holy fox,
-Or wolf, or both--for he is equal rav&rsquo;nous
+Or wolf, or both&mdash;for he is equal rav&rsquo;nous
 As he is subtle, and as prone to mischief
 As able to perform &rsquo;t, his mind and place
-Infecting one another, yea reciprocally--
+Infecting one another, yea reciprocally&mdash;
 Only to show his pomp as well in France
 As here at home, suggests the King our master
 To this last costly treaty, th&rsquo; interview
@@ -277,24 +277,24 @@ As himself pleased; and they were ratified
 As he cried "&ldquo;Thus let be,&rdquo;" to as much end
 As give a crutch to th&rsquo; dead. But our Count Cardinal
 Has done this, and &rsquo;tis well, for worthy Wolsey,
-Who cannot err, he did it. Now this follows--
+Who cannot err, he did it. Now this follows&mdash;
 Which, as I take it, is a kind of puppy
 To th&rsquo; old dam treason: Charles the Emperor,
-Under pretense to see the Queen his aunt--
+Under pretense to see the Queen his aunt&mdash;
 For &rsquo;twas indeed his color, but he came
-To whisper Wolsey--here makes visitation;
+To whisper Wolsey&mdash;here makes visitation;
 His fears were that the interview betwixt
 England and France might through their amity
 Breed him some prejudice, for from this league
 Peeped harms that menaced him; privily
-Deals with our cardinal and, as I trow--
+Deals with our cardinal and, as I trow&mdash;
 Which I do well, for I am sure the Emperor
 Paid ere he promised, whereby his suit was granted
 Ere it was asked. But when the way was made
 And paved with gold, the Emperor thus desired
 That he would please to alter the King&rsquo;s course
-And break the foresaid peace. Let the King know--
-As soon he shall by me--that thus the Cardinal
+And break the foresaid peace. Let the King know&mdash;
+As soon he shall by me&mdash;that thus the Cardinal
 Does buy and sell his honor as he pleases
 And for his own advantage.
 
@@ -313,14 +313,14 @@ BRANDON
 Your office, Sergeant: execute it.
 
 SERGEANT, [<i>to Buckingham</i>]
- - Sir,
+  Sir,
 My lord the Duke of Buckingham and Earl
 Of Hertford, Stafford, and Northampton, I
 Arrest thee of high treason, in the name
 Of our most sovereign king.
 
 BUCKINGHAM, [<i>to Norfolk</i>]
- - Lo you, my lord,
+  Lo you, my lord,
 The net has fall&rsquo;n upon me. I shall perish
 Under device and practice.
 
@@ -336,7 +336,7 @@ Be done in this and all things. I obey.
 O my Lord Abergavenny, fare you well.
 
 BRANDON
-Nay, he must bear you company.--The King
+Nay, he must bear you company.&mdash;The King
 Is pleased you shall to th&rsquo; Tower, till you know
 How he determines further.
 
@@ -347,7 +347,7 @@ By me obeyed.
 BRANDON  Here is a warrant from
 The King t&rsquo; attach Lord Mountacute, and the bodies
 Of the Duke&rsquo;s confessor, John de la Car,
-One Gilbert Peck, his counselor--
+One Gilbert Peck, his counselor&mdash;
 
 BUCKINGHAM  So, so;
 These are the limbs o&rsquo; th&rsquo; plot. No more, I hope.
@@ -365,7 +365,7 @@ Hath showed him gold. My life is spanned already.
 I am the shadow of poor Buckingham,
 Whose figure even this instant cloud puts on
 By dark&rsquo;ning my clear sun. [<i>To Norfolk.</i>]
- - My lord,
+ My lord,
 farewell.
 [<i>They exit.</i>]
 
@@ -382,7 +382,7 @@ his right side.</i>]
 My life itself, and the best heart of it,
 Thanks you for this great care. I stood i&rsquo; th&rsquo; level
 Of a full-charged confederacy, and give thanks
-To you that choked it.--Let be called before us
+To you that choked it.&mdash;Let be called before us
 That gentleman of Buckingham&rsquo;s; in person
 I&rsquo;ll hear him his confessions justify,
 And point by point the treasons of his master
@@ -425,12 +425,12 @@ Most bitterly on you as putter-on
 Of these exactions, yet the King our master,
 Whose honor heaven shield from soil, even he
 escapes not
-Language unmannerly--yea, such which breaks
+Language unmannerly&mdash;yea, such which breaks
 The sides of loyalty and almost appears
 In loud rebellion.
 
 <speaker>NORFOLK</speaker>
-Not "&ldquo;almost appears"--
+Not "&ldquo;almost appears"&mdash;
 It doth appear. For, upon these taxations,
 The clothiers all, not able to maintain
 The many to them longing, have put off
@@ -560,12 +560,12 @@ They turn to vicious forms ten times more ugly
 Than ever they were fair. This man so complete,
 Who was enrolled &rsquo;mongst wonders, and when we
 Almost with ravished list&rsquo;ning could not find
-His hour of speech a minute--he, my lady,
+His hour of speech a minute&mdash;he, my lady,
 Hath into monstrous habits put the graces
 That once were his, and is become as black
-As if besmeared in hell. Sit by us. You shall hear--
-This was his gentleman in trust--of him
-Things to strike honor sad.--Bid him recount
+As if besmeared in hell. Sit by us. You shall hear&mdash;
+This was his gentleman in trust&mdash;of him
+Things to strike honor sad.&mdash;Bid him recount
 The fore-recited practices, whereof
 We cannot feel too little, hear too much.
 
@@ -578,8 +578,8 @@ Out of the Duke of Buckingham.
 Speak freely.
 
 <speaker>SURVEYOR</speaker>
-First, it was usual with him--every day
-It would infect his speech--that if the King
+First, it was usual with him&mdash;every day
+It would infect his speech&mdash;that if the King
 Should without issue die, he&rsquo;ll carry it so
 To make the scepter his. These very words
 I&rsquo;ve heard him utter to his son-in-law,
@@ -637,8 +637,8 @@ Whom after under the confession&rsquo;s seal
 He solemnly had sworn that what he spoke
 My chaplain to no creature living but
 To me should utter, with demure confidence
-This pausingly ensued: &rsquo;Neither the King, nor &rsquo;s heirs--
-Tell you the Duke--shall prosper. Bid him strive
+This pausingly ensued: &rsquo;Neither the King, nor &rsquo;s heirs&mdash;
+Tell you the Duke&mdash;shall prosper. Bid him strive
 To gain the love o&rsquo; th&rsquo; commonalty; the Duke
 Shall govern England.&rsquo;&rdquo;"
 
@@ -647,11 +647,11 @@ If I know you well,
 You were the Duke&rsquo;s surveyor, and lost your office
 On the complaint o&rsquo; th&rsquo; tenants. Take good heed
 You charge not in your spleen a noble person
-And spoil your nobler soul. I say, take heed--
+And spoil your nobler soul. I say, take heed&mdash;
 Yes, heartily beseech you.
 
 <speaker>KING</speaker>
-Let him on.--
+Let him on.&mdash;
 Go forward.
 
 <speaker>SURVEYOR</speaker>
@@ -679,7 +679,7 @@ Proceed.
 <speaker>SURVEYOR</speaker>
 Being at Greenwich,
 After your Highness had reproved the Duke
-About Sir William Blumer--
+About Sir William Blumer&mdash;
 
 <speaker>KING</speaker>
 I remember of such a time, being my sworn servant,
@@ -736,8 +736,8 @@ Men into such strange mysteries?
 
 <speaker>SANDS</speaker>
 New customs,
-Though they be never so ridiculous--
-Nay, let &rsquo;em be unmanly--yet are followed.
+Though they be never so ridiculous&mdash;
+Nay, let &rsquo;em be unmanly&mdash;yet are followed.
 
 <speaker>CHAMBERLAIN</speaker>
 As far as I see, all the good our English
@@ -781,8 +781,8 @@ To think an English courtier may be wise
 And never see the Louvre.
 
 <speaker>LOVELL</speaker>
-They must either--
-For so run the conditions--leave those remnants
+They must either&mdash;
+For so run the conditions&mdash;leave those remnants
 Of fool and feather that they got in France,
 With all their honorable points of ignorance
 Pertaining thereunto, as fights and fireworks,
@@ -857,7 +857,7 @@ They are set here for examples.
 <speaker>CHAMBERLAIN</speaker>
 True, they are so,
 But few now give so great ones. My barge stays.
-Your Lordship shall along.--Come, good Sir Thomas,
+Your Lordship shall along.&mdash;Come, good Sir Thomas,
 We shall be late else, which I would not be,
 For I was spoke to, with Sir Henry Guilford
 This night to be comptrollers.
@@ -914,7 +914,7 @@ Faith, how easy?
 As easy as a down bed would afford it.
 
 <speaker>CHAMBERLAIN</speaker>
-Sweet ladies, will it please you sit?--Sir Harry,
+Sweet ladies, will it please you sit?&mdash;Sir Harry,
 Place you that side; I&rsquo;ll take the charge of this.
 [<i>The guests are seated.</i>]
 His Grace is ent&rsquo;ring. Nay, you must not freeze;
@@ -924,7 +924,7 @@ Pray sit between these ladies.
 
 <speaker>SANDS</speaker>
 By my faith,
-And thank your Lordship.--By your leave, sweet ladies.
+And thank your Lordship.&mdash;By your leave, sweet ladies.
 [<i>He sits between Anne Bullen and another lady.</i>]
 If I chance to talk a little wild, forgive me;
 I had it from my father.
@@ -965,8 +965,8 @@ And save me so much talking.
 
 <speaker>WOLSEY</speaker>
 My Lord Sands,
-I am beholding to you. Cheer your neighbors.--
-Ladies, you are not merry.--Gentlemen,
+I am beholding to you. Cheer your neighbors.&mdash;
+Ladies, you are not merry.&mdash;Gentlemen,
 Whose fault is this?
 
 <speaker>SANDS</speaker>
@@ -982,7 +982,7 @@ My Lord Sands.
 Yes, if I make my play.
 Here&rsquo;s to your Ladyship, and pledge it, madam,
 [<i>He drinks to her.</i>]
-For &rsquo;tis to such a thing--
+For &rsquo;tis to such a thing&mdash;
 
 <speaker>ANNE</speaker>
 You cannot show me.
@@ -999,7 +999,7 @@ Look out there, some of you.	[<i>Servants exit.</i>]
 
 <speaker>WOLSEY</speaker>
 What warlike voice,
-And to what end, is this?--Nay, ladies, fear not.
+And to what end, is this?&mdash;Nay, ladies, fear not.
 By all the laws of war you&rsquo;re privileged.
 
 [<i>Enter a Servant.</i>]
@@ -1015,8 +1015,8 @@ From foreign princes.
 
 <speaker>WOLSEY</speaker>
 Good Lord Chamberlain,
-Go, give &rsquo;em welcome--you can speak the French
-tongue--
+Go, give &rsquo;em welcome&mdash;you can speak the French
+tongue&mdash;
 And pray receive &rsquo;em nobly, and conduct &rsquo;em
 Into our presence, where this heaven of beauty
 Shall shine at full upon them. Some attend him.
@@ -1110,7 +1110,7 @@ An &rsquo;t please your Grace, Sir Thomas Bullen&rsquo;s daughter,
 The Viscount Rochford, one of her Highness&rsquo; women.
 
 <speaker>KING</speaker>
-By heaven, she is a dainty one.--Sweetheart,
+By heaven, she is a dainty one.&mdash;Sweetheart,
 I were unmannerly to take you out
 And not to kiss you. [<i>He kisses Anne.</i>]
  A health,
@@ -1136,8 +1136,8 @@ There&rsquo;s fresher air, my lord,
 In the next chamber.
 
 <speaker>KING</speaker>
-Lead in your ladies ev&rsquo;ry one.--Sweet partner,
-I must not yet forsake you.--Let&rsquo;s be merry,
+Lead in your ladies ev&rsquo;ry one.&mdash;Sweet partner,
+I must not yet forsake you.&mdash;Let&rsquo;s be merry,
 Good my Lord Cardinal. I have half a dozen healths
 To drink to these fair ladies, and a measure
 To lead &rsquo;em once again, and then let&rsquo;s dream
@@ -1301,7 +1301,7 @@ Is only bitter to him, only dying,
 Go with me like good angels to my end,
 And as the long divorce of steel falls on me,
 Make of your prayers one sweet sacrifice,
-And lift my soul to heaven.--Lead on, a&rsquo; God&rsquo;s name.
+And lift my soul to heaven.&mdash;Lead on, a&rsquo; God&rsquo;s name.
 
 <speaker>LOVELL</speaker>
 I do beseech your Grace, for charity,
@@ -1359,7 +1359,7 @@ Forever from the world. I had my trial,
 And must needs say a noble one, which makes me
 A little happier than my wretched father.
 Yet thus far we are one in fortunes: both
-Fell by our servants, by those men we loved most--
+Fell by our servants, by those men we loved most&mdash;
 A most unnatural and faithless service.
 Heaven has an end in all; yet, you that hear me,
 This from a dying man receive as certain:
@@ -1501,7 +1501,7 @@ Between us and the Emperor, the Queen&rsquo;s
 great-nephew,
 He dives into the King&rsquo;s soul and there scatters
 Dangers, doubts, wringing of the conscience,
-Fears and despairs--and all these for his marriage.
+Fears and despairs&mdash;and all these for his marriage.
 And out of all these to restore the King,
 He counsels a divorce, a loss of her
 That like a jewel has hung twenty years
@@ -1544,7 +1544,7 @@ To him that made him proud, the Pope.
 Let&rsquo;s in,
 And with some other business put the King
 From these sad thoughts that work too much upon
-him.--
+him.&mdash;
 My lord, you&rsquo;ll bear us company?
 
 <speaker>CHAMBERLAIN</speaker>
@@ -1593,7 +1593,7 @@ Thou art a cure fit for a king. [<i>To Campeius.</i>]
  You&rsquo;re
 welcome,
 Most learned reverend sir, into our kingdom.
-Use us and it.--My good lord, have great care
+Use us and it.&mdash;My good lord, have great care
 I be not found a talker.
 
 <speaker>WOLSEY</speaker>
@@ -1632,8 +1632,8 @@ Your scruple to the voice of Christendom.
 Who can be angry now? What envy reach you?
 The Spaniard, tied by blood and favor to her,
 Must now confess, if they have any goodness,
-The trial just and noble; all the clerks--
-I mean the learned ones in Christian kingdoms--
+The trial just and noble; all the clerks&mdash;
+I mean the learned ones in Christian kingdoms&mdash;
 Have their free voices; Rome, the nurse of judgment,
 Invited by your noble self, hath sent
 One general tongue unto us, this good man,
@@ -1650,7 +1650,7 @@ for.	[<i>He embraces Campeius.</i>]
 [<i>handing the King a paper</i>]
 Your Grace must needs deserve all strangers&rsquo; loves,
 You are so noble. To your Highness&rsquo; hand
-I tender my commission--by whose virtue,
+I tender my commission&mdash;by whose virtue,
 The court of Rome commanding, you, my Lord
 Cardinal of York, are joined with me their servant
 In the unpartial judging of this business.
@@ -1709,7 +1709,7 @@ How? Of me?
 
 <speaker>CAMPEIUS</speaker>
 They will not stick to say you envied him
-And, fearing he would rise--he was so virtuous--
+And, fearing he would rise&mdash;he was so virtuous&mdash;
 Kept him a foreign man still, which so grieved him
 That he ran mad and died.
 
@@ -1743,12 +1743,12 @@ O, &rsquo;tis a tender place, and I must leave her.
 Not for that neither. Here&rsquo;s the pang that pinches:
 His Highness having lived so long with her, and she
 So good a lady that no tongue could ever
-Pronounce dishonor of her--by my life,
-She never knew harm-doing!--O, now, after
+Pronounce dishonor of her&mdash;by my life,
+She never knew harm-doing!&mdash;O, now, after
 So many courses of the sun enthroned,
 Still growing in a majesty and pomp, the which
 To leave a thousandfold more bitter than
-&rsquo;Tis sweet at first t&rsquo; acquire--after this process,
+&rsquo;Tis sweet at first t&rsquo; acquire&mdash;after this process,
 To give her the avaunt! It is a pity
 Would move a monster.
 
@@ -1882,7 +1882,7 @@ well.
 Beauty and honor in her are so mingled
 That they have caught the King. And who knows yet
 But from this lady may proceed a gem
-To lighten all this isle?--I&rsquo;ll to the King
+To lighten all this isle?&mdash;I&rsquo;ll to the King
 And say I spoke with you.
 
 <speaker>ANNE</speaker>
@@ -1894,9 +1894,9 @@ Why, this it is! See, see!
 I have been begging sixteen years in court,
 Am yet a courtier beggarly, nor could
 Come pat betwixt too early and too late
-For any suit of pounds; and you--O, fate!--
-A very fresh fish here--fie, fie, fie upon
-This compelled fortune!--have your mouth filled up
+For any suit of pounds; and you&mdash;O, fate!&mdash;
+A very fresh fish here&mdash;fie, fie, fie upon
+This compelled fortune!&mdash;have your mouth filled up
 Before you open it.
 
 <speaker>ANNE</speaker>
@@ -1904,7 +1904,7 @@ This is strange to me.
 
 <speaker>OLD LADY</speaker>
 How tastes it? Is it bitter? Forty pence, no.
-There was a lady once--&rsquo;tis an old story--
+There was a lady once&mdash;&rsquo;tis an old story&mdash;
 That would not be a queen, that would she not,
 For all the mud in Egypt. Have you heard it?
 
@@ -2078,7 +2078,7 @@ Or God will punish me. I do believe,
 Induced by potent circumstances, that
 You are mine enemy, and make my challenge
 You shall not be my judge; for it is you
-Have blown this coal betwixt my lord and me--
+Have blown this coal betwixt my lord and me&mdash;
 Which God&rsquo;s dew quench! Therefore I say again,
 I utterly abhor, yea, from my soul
 Refuse you for my judge, whom, yet once more,
@@ -2160,11 +2160,11 @@ In any of their courts.
 Go thy ways, Kate.
 That man i&rsquo; th&rsquo; world who shall report he has
 A better wife, let him in naught be trusted,
-For speaking false in that. Thou art, alone--
+For speaking false in that. Thou art, alone&mdash;
 If thy rare qualities, sweet gentleness,
 Thy meekness saintlike, wifelike government,
 Obeying in commanding, and thy parts
-Sovereign and pious else, could speak thee out--
+Sovereign and pious else, could speak thee out&mdash;
 The queen of earthly queens. She&rsquo;s noble born,
 And like her true nobility she has
 Carried herself towards me.
@@ -2173,9 +2173,9 @@ Carried herself towards me.
 Most gracious sir,
 In humblest manner I require your Highness
 That it shall please you to declare in hearing
-Of all these ears--for where I am robbed and bound,
+Of all these ears&mdash;for where I am robbed and bound,
 There must I be unloosed, although not there
-At once and fully satisfied--whether ever I
+At once and fully satisfied&mdash;whether ever I
 Did broach this business to your Highness, or
 Laid any scruple in your way which might
 Induce you to the question on &rsquo;t, or ever
@@ -2290,7 +2290,7 @@ These cardinals trifle with me. I abhor
 This dilatory sloth and tricks of Rome.
 My learned and well-beloved servant Cranmer,
 Prithee return. With thy approach, I know,
-My comfort comes along.--Break up the court.
+My comfort comes along.&mdash;Break up the court.
 I say, set on.
 [<i>They exit, in manner as they entered.</i>]
 
@@ -2374,7 +2374,7 @@ Out with it boldly. Truth loves open dealing.
 
 <speaker>WOLSEY</speaker>
 Tanta est erga te mentis integritas, regina
-serenissima--
+serenissima&mdash;
 
 <speaker>QUEEN KATHERINE</speaker>
 O, good my lord, no Latin!
@@ -2390,13 +2390,13 @@ May be absolved in English.
 
 <speaker>WOLSEY</speaker>
 Noble lady,
-I am sorry my integrity should breed--
-And service to his Majesty and you--
+I am sorry my integrity should breed&mdash;
+And service to his Majesty and you&mdash;
 So deep suspicion, where all faith was meant.
 We come not by the way of accusation,
 To taint that honor every good tongue blesses,
-Nor to betray you any way to sorrow--
-You have too much, good lady--but to know
+Nor to betray you any way to sorrow&mdash;
+You have too much, good lady&mdash;but to know
 How you stand minded in the weighty difference
 Between the King and you, and to deliver,
 Like free and honest men, our just opinions
@@ -2407,24 +2407,24 @@ Most honored madam,
 My Lord of York, out of his noble nature,
 Zeal, and obedience he still bore your Grace,
 Forgetting, like a good man, your late censure
-Both of his truth and him--which was too far--
+Both of his truth and him&mdash;which was too far&mdash;
 Offers, as I do, in a sign of peace,
 His service and his counsel.
 
 <speaker>QUEEN KATHERINE,</speaker>
 [<i>aside</i>]
-  To betray me.--
+  To betray me.&mdash;
 My lords, I thank you both for your good wills.
 You speak like honest men; pray God you prove so.
 But how to make you suddenly an answer
-In such a point of weight, so near mine honor--
-More near my life, I fear--with my weak wit,
+In such a point of weight, so near mine honor&mdash;
+More near my life, I fear&mdash;with my weak wit,
 And to such men of gravity and learning,
 In truth I know not. I was set at work
 Among my maids, full little, God knows, looking
 Either for such men or such business.
-For her sake that I have been--for I feel
-The last fit of my greatness--good your Graces,
+For her sake that I have been&mdash;for I feel
+The last fit of my greatness&mdash;good your Graces,
 Let me have time and counsel for my cause.
 Alas, I am a woman friendless, hopeless.
 
@@ -2488,9 +2488,9 @@ You turn the good we offer into envy.
 
 <speaker>QUEEN KATHERINE</speaker>
 You turn me into nothing! Woe upon you
-And all such false professors. Would you have me--
+And all such false professors. Would you have me&mdash;
 If you have any justice, any pity,
-If you be anything but churchmen&rsquo;s habits--
+If you be anything but churchmen&rsquo;s habits&mdash;
 Put my sick cause into his hands that hates me?
 Alas, has banished me his bed already,
 His love, too, long ago. I am old, my lords,
@@ -2503,10 +2503,10 @@ Make me a curse like this.
 Your fears are worse.
 
 <speaker>QUEEN KATHERINE</speaker>
-Have I lived thus long--let me speak myself,
-Since virtue finds no friends--a wife, a true one--
+Have I lived thus long&mdash;let me speak myself,
+Since virtue finds no friends&mdash;a wife, a true one&mdash;
 A woman, I dare say without vainglory,
-Never yet branded with suspicion--
+Never yet branded with suspicion&mdash;
 Have I with all my full affections
 Still met the King, loved him next heav&rsquo;n, obeyed him,
 Been, out of fondness, superstitious to him,
@@ -2613,8 +2613,8 @@ Out of himself?
 <speaker>CHAMBERLAIN</speaker>
 My lords, you speak your pleasures;
 What he deserves of you and me I know;
-What we can do to him--though now the time
-Gives way to us--I much fear. If you cannot
+What we can do to him&mdash;though now the time
+Gives way to us&mdash;I much fear. If you cannot
 Bar his access to th&rsquo; King, never attempt
 Anything on him, for he hath a witchcraft
 Over the King in &rsquo;s tongue.
@@ -2854,7 +2854,7 @@ It may well be
 There is a mutiny in &rsquo;s mind. This morning
 Papers of state he sent me to peruse,
 As I required, and wot you what I found?
-There--on my conscience, put unwittingly--
+There&mdash;on my conscience, put unwittingly&mdash;
 Forsooth, an inventory, thus importing
 The several parcels of his plate, his treasure,
 Rich stuffs and ornaments of household, which
@@ -2948,7 +2948,7 @@ Heaped upon me, poor undeserver, I
 Can nothing render but allegiant thanks,
 My prayers to heaven for you, my loyalty,
 Which ever has and ever shall be growing
-Till death--that winter--kill it.
+Till death&mdash;that winter&mdash;kill it.
 
 <speaker>KING</speaker>
 Fairly answered.
@@ -2960,24 +2960,24 @@ That, as my hand has opened bounty to you,
 My heart dropped love, my power rained honor, more
 On you than any, so your hand and heart,
 Your brain, and every function of your power
-Should--notwithstanding that your bond of duty
-As &rsquo;twere in love&rsquo;s particular--be more
+Should&mdash;notwithstanding that your bond of duty
+As &rsquo;twere in love&rsquo;s particular&mdash;be more
 To me, your friend, than any.
 
 <speaker>WOLSEY</speaker>
 I do profess
 That for your Highness&rsquo; good I ever labored
-More than mine own, that am, have, and will be--
+More than mine own, that am, have, and will be&mdash;
 Though all the world should crack their duty to you
 And throw it from their soul, though perils did
 Abound as thick as thought could make &rsquo;em, and
-Appear in forms more horrid--yet my duty,
+Appear in forms more horrid&mdash;yet my duty,
 As doth a rock against the chiding flood,
 Should the approach of this wild river break,
 And stand unshaken yours.
 
 <speaker>KING</speaker>
-&rsquo;Tis nobly spoken.--
+&rsquo;Tis nobly spoken.&mdash;
 Take notice, lords: he has a loyal breast,
 For you have seen him open &rsquo;t.
 [<i>He hands Wolsey papers.</i>]
@@ -2994,13 +2994,13 @@ What sudden anger&rsquo;s this? How have I reaped it?
 He parted frowning from me, as if ruin
 Leaped from his eyes. So looks the chafed lion
 Upon the daring huntsman that has galled him,
-Then makes him nothing. I must read this paper--
+Then makes him nothing. I must read this paper&mdash;
 I fear, the story of his anger.
 [<i>He reads one of the papers.</i>]
 &rsquo;Tis so.
 This paper has undone me. &rsquo;Tis th&rsquo; accompt
 Of all that world of wealth I have drawn together
-For mine own ends--indeed, to gain the popedom
+For mine own ends&mdash;indeed, to gain the popedom
 And fee my friends in Rome. O negligence,
 Fit for a fool to fall by! What cross devil
 Made me put this main secret in the packet
@@ -3039,8 +3039,8 @@ Who dare cross &rsquo;em,
 Bearing the King&rsquo;s will from his mouth expressly?
 
 <speaker>WOLSEY</speaker>
-Till I find more than will or words to do it--
-I mean your malice--know, officious lords,
+Till I find more than will or words to do it&mdash;
+I mean your malice&mdash;know, officious lords,
 I dare and must deny it. Now I feel
 Of what coarse metal you are molded, envy;
 How eagerly you follow my disgraces,
@@ -3088,7 +3088,7 @@ This talking lord can lay upon my credit,
 I answer, is most false. The Duke by law
 Found his deserts. How innocent I was
 From any private malice in his end,
-His noble jury and foul cause can witness.--
+His noble jury and foul cause can witness.&mdash;
 If I loved many words, lord, I should tell you
 You have as little honesty as honor,
 That in the way of loyalty and truth
@@ -3099,7 +3099,7 @@ And all that love his follies.
 <speaker>SURREY</speaker>
 By my soul,
 Your long coat, priest, protects you; thou shouldst feel
-My sword i&rsquo; th&rsquo; life blood of thee else.--My lords,
+My sword i&rsquo; th&rsquo; life blood of thee else.&mdash;My lords,
 Can you endure to hear this arrogance?
 And from this fellow? If we live thus tamely,
 To be thus jaded by a piece of scarlet,
@@ -3116,13 +3116,13 @@ Of gleaning all the land&rsquo;s wealth into one,
 Into your own hands, card&rsquo;nal, by extortion;
 The goodness of your intercepted packets
 You writ to th&rsquo; Pope against the King. Your goodness,
-Since you provoke me, shall be most notorious.--
+Since you provoke me, shall be most notorious.&mdash;
 My Lord of Norfolk, as you are truly noble,
 As you respect the common good, the state
 Of our despised nobility, our issues,
 Whom, if he live, will scarce be gentlemen,
 Produce the grand sum of his sins, the articles
-Collected from his life.--I&rsquo;ll startle you
+Collected from his life.&mdash;I&rsquo;ll startle you
 Worse than the sacring bell when the brown wench
 Lay kissing in your arms, Lord Cardinal.
 
@@ -3180,8 +3180,8 @@ That out of mere ambition you have caused
 Your holy hat to be stamped on the King&rsquo;s coin.
 
 <speaker>SURREY</speaker>
-Then, that you have sent innumerable substance--
-By what means got I leave to your own conscience--
+Then, that you have sent innumerable substance&mdash;
+By what means got I leave to your own conscience&mdash;
 To furnish Rome and to prepare the ways
 You have for dignities, to the mere undoing
 Of all the kingdom. Many more there are
@@ -3199,10 +3199,10 @@ So little of his great self.
 I forgive him.
 
 <speaker>SUFFOLK</speaker>
-Lord Cardinal, the King&rsquo;s further pleasure is--
+Lord Cardinal, the King&rsquo;s further pleasure is&mdash;
 Because all those things you have done of late
 By your power legative within this kingdom
-Fall into th&rsquo; compass of a praemunire--
+Fall into th&rsquo; compass of a praemunire&mdash;
 That therefore such a writ be sued against you,
 To forfeit all your goods, lands, tenements,
 Chattels, and whatsoever, and to be
@@ -3263,8 +3263,8 @@ Why, well.
 Never so truly happy, my good Cromwell.
 I know myself now, and I feel within me
 A peace above all earthly dignities,
-A still and quiet conscience. The King has cured me--
-I humbly thank his Grace--and from these shoulders,
+A still and quiet conscience. The King has cured me&mdash;
+I humbly thank his Grace&mdash;and from these shoulders,
 These ruined pillars, out of pity, taken
 A load would sink a navy: too much honor.
 O, &rsquo;tis a burden, Cromwell, &rsquo;tis a burden
@@ -3326,8 +3326,8 @@ I am a poor fall&rsquo;n man, unworthy now
 To be thy lord and master. Seek the King;
 That sun, I pray, may never set! I have told him
 What and how true thou art. He will advance thee;
-Some little memory of me will stir him--
-I know his noble nature--not to let
+Some little memory of me will stir him&mdash;
+I know his noble nature&mdash;not to let
 Thy hopeful service perish too. Good Cromwell,
 Neglect him not. Make use now, and provide
 For thine own future safety.
@@ -3502,7 +3502,7 @@ Bishops of London and Winchester.</i>]
 
 <speaker>SECOND GENTLEMAN</speaker>
 Heaven bless thee!
-Thou hast the sweetest face I ever looked on.--
+Thou hast the sweetest face I ever looked on.&mdash;
 Sir, as I have a soul, she is an angel.
 Our king has all the Indies in his arms,
 And more, and richer, when he strains that lady.
@@ -3576,7 +3576,7 @@ The beauty of her person to the people.
 Believe me, sir, she is the goodliest woman
 That ever lay by man, which when the people
 Had the full view of, such a noise arose
-As the shrouds make at sea in a stiff tempest--
+As the shrouds make at sea in a stiff tempest&mdash;
 As loud and to as many tunes. Hats, cloaks,
 Doublets, I think, flew up, and had their faces
 Been loose, this day they had been lost. Such joy
@@ -3596,9 +3596,9 @@ Came to the altar, where she kneeled and saintlike
 Cast her fair eyes to heaven and prayed devoutly,
 Then rose again and bowed her to the people.
 When by the Archbishop of Canterbury
-She had all the royal makings of a queen--
+She had all the royal makings of a queen&mdash;
 As, holy oil, Edward Confessor&rsquo;s crown,
-The rod, and bird of peace, and all such emblems--
+The rod, and bird of peace, and all such emblems&mdash;
 Laid nobly on her; which performed, the choir,
 With all the choicest music of the kingdom,
 Together sung Te Deum. So she parted,
@@ -3770,9 +3770,9 @@ To keep mine honor from corruption
 But such an honest chronicler as Griffith.
 Whom I most hated living, thou hast made me,
 With thy religious truth and modesty,
-Now in his ashes honor. Peace be with him!--
+Now in his ashes honor. Peace be with him!&mdash;
 Patience, be near me still, and set me lower.
-I have not long to trouble thee.--Good Griffith,
+I have not long to trouble thee.&mdash;Good Griffith,
 Cause the musicians play me that sad note
 I named my knell, whilst I sit meditating
 On that celestial harmony I go to.
@@ -3853,7 +3853,7 @@ Heaven comfort her!
 
 <speaker>MESSENGER,</speaker>
 [<i>to Katherine</i>]
-An &rsquo;t like your Grace--
+An &rsquo;t like your Grace&mdash;
 
 <speaker>KATHERINE</speaker>
 You are a saucy fellow.
@@ -3912,7 +3912,7 @@ Madam, in good health.
 <speaker>KATHERINE</speaker>
 So may he ever do, and ever flourish,
 When I shall dwell with worms, and my poor name
-Banished the kingdom.--Patience, is that letter
+Banished the kingdom.&mdash;Patience, is that letter
 I caused you write yet sent away?
 
 <speaker>PATIENCE</speaker>
@@ -3922,31 +3922,31 @@ it to Capuchius.</i>]
 
 <speaker>KATHERINE</speaker>
 Sir, I most humbly pray you to deliver
-This to my lord the King--
+This to my lord the King&mdash;
 
 <speaker>CAPUCHIUS</speaker>
 Most willing, madam.
 
 <speaker>KATHERINE</speaker>
 In which I have commended to his goodness
-The model of our chaste loves, his young daughter--
-The dews of heaven fall thick in blessings on her!--
-Beseeching him to give her virtuous breeding--
+The model of our chaste loves, his young daughter&mdash;
+The dews of heaven fall thick in blessings on her!&mdash;
+Beseeching him to give her virtuous breeding&mdash;
 She is young and of a noble, modest nature;
-I hope she will deserve well--and a little
+I hope she will deserve well&mdash;and a little
 To love her for her mother&rsquo;s sake that loved him,
 Heaven knows how dearly. My next poor petition
 Is that his noble Grace would have some pity
 Upon my wretched women, that so long
 Have followed both my fortunes faithfully,
-Of which there is not one, I dare avow--
-And now I should not lie--but will deserve,
+Of which there is not one, I dare avow&mdash;
+And now I should not lie&mdash;but will deserve,
 For virtue and true beauty of the soul,
 For honesty and decent carriage,
 A right good husband. Let him be a noble;
 And sure those men are happy that shall have &rsquo;em.
-The last is for my men--they are the poorest,
-But poverty could never draw &rsquo;em from me--
+The last is for my men&mdash;they are the poorest,
+But poverty could never draw &rsquo;em from me&mdash;
 That they may have their wages duly paid &rsquo;em,
 And something over to remember me by.
 If heaven had pleased to have given me longer life
@@ -3967,7 +3967,7 @@ In all humility unto his Highness.
 Say his long trouble now is passing
 Out of this world. Tell him in death I blessed him,
 For so I will. Mine eyes grow dim. Farewell,
-My lord.--Griffith, farewell.--Nay, Patience,
+My lord.&mdash;Griffith, farewell.&mdash;Nay, Patience,
 You must not leave me yet. I must to bed;
 Call in more women. When I am dead, good wench,
 Let me be used with honor. Strew me over
@@ -3994,7 +3994,7 @@ It hath struck.
 These should be hours for necessities,
 Not for delights; times to repair our nature
 With comforting repose, and not for us
-To waste these times.--Good hour of night, Sir
+To waste these times.&mdash;Good hour of night, Sir
 Thomas.
 Whither so late?
 
@@ -4022,8 +4022,8 @@ That seeks dispatch by day.
 My lord, I love you,
 And durst commend a secret to your ear
 Much weightier than this work. The Queen&rsquo;s in
-labor--
-They say in great extremity--and feared
+labor&mdash;
+They say in great extremity&mdash;and feared
 She&rsquo;ll with the labor end.
 
 <speaker>GARDINER</speaker>
@@ -4044,7 +4044,7 @@ Hear me, Sir Thomas. You&rsquo;re a gentleman
 Of mine own way. I know you wise, religious;
 And let me tell you, it will ne&rsquo;er be well,
 &rsquo;Twill not, Sir Thomas Lovell, take &rsquo;t of me,
-Till Cranmer, Cromwell--her two hands--and she
+Till Cranmer, Cromwell&mdash;her two hands&mdash;and she
 Sleep in their graves.
 
 <speaker>LOVELL</speaker>
@@ -4061,9 +4061,9 @@ One syllable against him?
 Yes, yes, Sir Thomas,
 There are that dare, and I myself have ventured
 To speak my mind of him. And indeed this day,
-Sir--I may tell it you, I think--I have
-Incensed the lords o&rsquo; th&rsquo; Council that he is--
-For so I know he is, they know he is--
+Sir&mdash;I may tell it you, I think&mdash;I have
+Incensed the lords o&rsquo; th&rsquo; Council that he is&mdash;
+For so I know he is, they know he is&mdash;
 A most arch heretic, a pestilence
 That does infect the land; with which they, moved,
 Have broken with the King, who hath so far
@@ -4090,7 +4090,7 @@ Sir, I did never win of you before.
 
 <speaker>KING</speaker>
 But little, Charles,
-Nor shall not when my fancy&rsquo;s on my play.--
+Nor shall not when my fancy&rsquo;s on my play.&mdash;
 Now, Lovell, from the Queen what is the news?
 
 <speaker>LOVELL</speaker>
@@ -4191,8 +4191,8 @@ hand.	[<i>Cranmer rises.</i>]
 Ah, my good lord, I grieve at what I speak,
 And am right sorry to repeat what follows.
 I have, and most unwillingly, of late
-Heard many grievous--I do say, my lord,
-Grievous--complaints of you, which, being
+Heard many grievous&mdash;I do say, my lord,
+Grievous&mdash;complaints of you, which, being
 considered,
 Have moved us and our Council that you shall
 This morning come before us, where I know
@@ -4273,7 +4273,7 @@ There make before them.	[<i>He gives Cranmer a ring.</i>]
  Look, the good man weeps!
 He&rsquo;s honest, on mine honor! God&rsquo;s blest mother,
 I swear he is truehearted, and a soul
-None better in my kingdom.--Get you gone,
+None better in my kingdom.&mdash;Get you gone,
 And do as I have bid you.	[<i>Cranmer exits.</i>]
 He has strangled
 His language in his tears.
@@ -4286,7 +4286,7 @@ His language in his tears.
 
 <speaker>OLD LADY</speaker>
 I&rsquo;ll not come back! The tidings that I bring
-Will make my boldness manners.--Now, good angels
+Will make my boldness manners.&mdash;Now, good angels
 Fly o&rsquo;er thy royal head and shade thy person
 Under their blessed wings!
 
@@ -4367,8 +4367,8 @@ Shall understand it presently.	[<i>Butts exits.</i>]
 The King&rsquo;s physician. As he passed along
 How earnestly he cast his eyes upon me!
 Pray heaven he sound not my disgrace. For certain
-This is of purpose laid by some that hate me--
-God turn their hearts! I never sought their malice--
+This is of purpose laid by some that hate me&mdash;
+God turn their hearts! I never sought their malice&mdash;
 To quench mine honor. They would shame to make me
 Wait else at door, a fellow councillor,
 &rsquo;Mong boys, grooms, and lackeys. But their pleasures
@@ -4399,8 +4399,8 @@ Pages, and footboys.
 Ha! &rsquo;Tis he indeed.
 Is this the honor they do one another?
 &rsquo;Tis well there&rsquo;s one above &rsquo;em yet. I had thought
-They had parted so much honesty among &rsquo;em--
-At least good manners--as not thus to suffer
+They had parted so much honesty among &rsquo;em&mdash;
+At least good manners&mdash;as not thus to suffer
 A man of his place, and so near our favor,
 To dance attendance on their Lordships&rsquo; pleasures,
 And at the door, too, like a post with packets.
@@ -4457,13 +4457,13 @@ My good lord Archbishop, I&rsquo;m very sorry
 To sit here at this present and behold
 That chair stand empty. But we all are men,
 In our own natures frail, and capable
-Of our flesh--few are angels--out of which frailty
+Of our flesh&mdash;few are angels&mdash;out of which frailty
 And want of wisdom you, that best should teach us,
 Have misdemeaned yourself, and not a little,
 Toward the King first, then his laws, in filling
 The whole realm, by your teaching and your
-chaplains&rsquo;--
-For so we are informed--with new opinions,
+chaplains&rsquo;&mdash;
+For so we are informed&mdash;with new opinions,
 Divers and dangerous, which are heresies
 And, not reformed, may prove pernicious.
 
@@ -4487,8 +4487,8 @@ Both of my life and office, I have labored,
 And with no little study, that my teaching
 And the strong course of my authority
 Might go one way and safely; and the end
-Was ever to do well. Nor is there living--
-I speak it with a single heart, my lords--
+Was ever to do well. Nor is there living&mdash;
+I speak it with a single heart, my lords&mdash;
 A man that more detests, more stirs against,
 Both in his private conscience and his place,
 Defacers of a public peace than I do.
@@ -4511,7 +4511,7 @@ We will be short with you. &rsquo;Tis his Highness&rsquo; pleasure,
 And our consent, for better trial of you
 From hence you be committed to the Tower,
 Where, being but a private man again,
-You shall know many dare accuse you boldly--
+You shall know many dare accuse you boldly&mdash;
 More than, I fear, you are provided for.
 
 <speaker>CRANMER</speaker>
@@ -4541,8 +4541,8 @@ For what they have been. &rsquo;Tis a cruelty
 To load a falling man.
 
 <speaker>GARDINER</speaker>
-Good Master Secretary--
-I cry your Honor mercy--you may worst
+Good Master Secretary&mdash;
+I cry your Honor mercy&mdash;you may worst
 Of all this table say so.
 
 <speaker>CROMWELL</speaker>
@@ -4585,7 +4585,7 @@ Then thus for you, my lord: it stands agreed,
 I take it, by all voices, that forthwith
 You be conveyed to th&rsquo; Tower a prisoner,
 There to remain till the King&rsquo;s further pleasure
-Be known unto us.--Are you all agreed, lords?
+Be known unto us.&mdash;Are you all agreed, lords?
 
 <speaker>ALL</speaker>
 We are.
@@ -4665,7 +4665,7 @@ They are too thin and base to hide offenses.
 To me you cannot reach. You play the spaniel,
 And think with wagging of your tongue to win me;
 But whatsoe&rsquo;er thou tak&rsquo;st me for, I&rsquo;m sure
-Thou hast a cruel nature and a bloody.--
+Thou hast a cruel nature and a bloody.&mdash;
 Good man, sit down.	[<i>Cranmer takes his seat.</i>]
 Now let me see the proudest
 He, that dares most, but wag his finger at thee.
@@ -4673,7 +4673,7 @@ By all that&rsquo;s holy, he had better starve
 Than but once think this place becomes thee not.
 
 <speaker>SURREY</speaker>
-May it please your Grace--
+May it please your Grace&mdash;
 
 <speaker>KING</speaker>
 No, sir, it does not please
@@ -4681,7 +4681,7 @@ me.
 I had thought I had had men of some understanding
 And wisdom of my Council, but I find none.
 Was it discretion, lords, to let this man,
-This good man--few of you deserve that title--
+This good man&mdash;few of you deserve that title&mdash;
 This honest man, wait like a lousy footboy
 At chamber door? And one as great as you are?
 Why, what a shame was this! Did my commission
@@ -4724,7 +4724,7 @@ That am a poor and humble subject to you?
 Come, come, my lord, you&rsquo;d spare your spoons.
 You shall have two noble partners with you: the
 old Duchess of Norfolk and Lady Marquess Dorset.
-Will these please you?--
+Will these please you?&mdash;
 Once more, my lord of Winchester, I charge you,
 Embrace and love this man.
 
@@ -4741,7 +4741,7 @@ Witness how dear I hold this confirmation.
 Good man, those joyful tears show thy true heart.
 The common voice, I see, is verified
 Of thee, which says thus: "&ldquo;Do my Lord of Canterbury
-A shrewd turn, and he&rsquo;s your friend forever."--
+A shrewd turn, and he&rsquo;s your friend forever."&mdash;
 Come, lords, we trifle time away. I long
 To have this young one made a Christian.
 As I have made you one, lords, one remain.
@@ -4765,15 +4765,15 @@ larder.
 
 <speaker>PORTER</speaker>
 Belong to th&rsquo; gallows and be hanged, you rogue!
-Is this a place to roar in?--Fetch me a dozen crab-tree
+Is this a place to roar in?&mdash;Fetch me a dozen crab-tree
 staves, and strong ones. These are but switches
-to &rsquo;em.--I&rsquo;ll scratch your heads! You must be seeing
+to &rsquo;em.&mdash;I&rsquo;ll scratch your heads! You must be seeing
 christenings? Do you look for ale and cakes here,
 you rude rascals?
 
 PORTER&rsquo;S MAN
-Pray, sir, be patient. &rsquo;Tis as much impossible--
-Unless we sweep &rsquo;em from the door with cannons--
+Pray, sir, be patient. &rsquo;Tis as much impossible&mdash;
+Unless we sweep &rsquo;em from the door with cannons&mdash;
 To scatter &rsquo;em as &rsquo;tis to make &rsquo;em sleep
 On May Day morning, which will never be.
 We may as well push against Paul&rsquo;s as stir &rsquo;em.
@@ -4783,8 +4783,8 @@ How got they in, and be hanged?
 
 PORTER&rsquo;S MAN
 Alas, I know not. How gets the tide in?
-As much as one sound cudgel of four foot--
-You see the poor remainder--could distribute,
+As much as one sound cudgel of four foot&mdash;
+You see the poor remainder&mdash;could distribute,
 I made no spare, sir.
 
 <speaker>PORTER</speaker>
@@ -4795,7 +4795,7 @@ I am not Samson, nor Sir Guy, nor Colbrand,
 To mow &rsquo;em down before me; but if I spared any
 That had a head to hit, either young or old,
 He or she, cuckold or cuckold-maker,
-Let me ne&rsquo;er hope to see a chine again--
+Let me ne&rsquo;er hope to see a chine again&mdash;
 And that I would not for a cow, God save her!
 
 <speaker>ONE,</speaker>
@@ -4804,7 +4804,7 @@ And that I would not for a cow, God save her!
 
 <speaker>PORTER</speaker>
 I shall be with you presently, good master
-puppy.-- Keep the door close, sirrah.
+puppy.&mdash; Keep the door close, sirrah.
 
 PORTER&rsquo;S MAN  What would you have me do?
 
@@ -4818,7 +4818,7 @@ this one christening will beget a thousand;
 here will be father, godfather, and all together.
 
 PORTER&rsquo;S MAN  The spoons will be the bigger, sir. There is
-a fellow somewhat near the door--he should be a
+a fellow somewhat near the door&mdash;he should be a
 brazier by his face, for, o&rsquo; my conscience, twenty of
 the dog days now reign in &rsquo;s nose. All that stand
 about him are under the line; they need no other
@@ -4855,7 +4855,7 @@ the running banquet of two beadles that is to come.
 Mercy o&rsquo; me, what a multitude are here!
 They grow still too. From all parts they are coming,
 As if we kept a fair here! Where are these porters,
-These lazy knaves?--You&rsquo;ve made a fine hand, fellows!
+These lazy knaves?&mdash;You&rsquo;ve made a fine hand, fellows!
 There&rsquo;s a trim rabble let in. Are all these
 Your faithful friends o&rsquo; th&rsquo; suburbs? We shall have
 Great store of room, no doubt, left for the ladies,
@@ -4947,11 +4947,11 @@ When she has so much English.
 Let me speak, sir,
 For heaven now bids me; and the words I utter
 Let none think flattery, for they&rsquo;ll find &rsquo;em truth.
-This royal infant--heaven still move about her!--
+This royal infant&mdash;heaven still move about her!&mdash;
 Though in her cradle, yet now promises
 Upon this land a thousand thousand blessings,
-Which time shall bring to ripeness. She shall be--
-But few now living can behold that goodness--
+Which time shall bring to ripeness. She shall be&mdash;
+But few now living can behold that goodness&mdash;
 A pattern to all princes living with her
 And all that shall succeed. Saba was never
 More covetous of wisdom and fair virtue
@@ -5007,8 +5007,8 @@ Thou hast made me now a man. Never before
 This happy child did I get anything.
 This oracle of comfort has so pleased me
 That when I am in heaven I shall desire
-To see what this child does and praise my Maker.--
-I thank you all.--To you, my good lord mayor
+To see what this child does and praise my Maker.&mdash;
+I thank you all.&mdash;To you, my good lord mayor
 And you, good brethren, I am much beholding.
 I have received much honor by your presence,
 And you shall find me thankful. Lead the way, lords.
@@ -5023,11 +5023,11 @@ This little one shall make it holiday.
 <speaker>EPILOGUE</speaker>
 &rsquo;Tis ten to one this play can never please
 All that are here. Some come to take their ease
-And sleep an act or two--but those, we fear,
+And sleep an act or two&mdash;but those, we fear,
 We&rsquo;ve frighted with our trumpets; so, &rsquo;tis clear,
-They&rsquo;ll say &rsquo;tis naught--others, to hear the city
-Abused extremely and to cry "&ldquo;That&rsquo;s witty!"--
-Which we have not done neither--that I fear
+They&rsquo;ll say &rsquo;tis naught&mdash;others, to hear the city
+Abused extremely and to cry "&ldquo;That&rsquo;s witty!"&mdash;
+Which we have not done neither&mdash;that I fear
 All the expected good we&rsquo;re like to hear
 For this play at this time is only in
 The merciful construction of good women,

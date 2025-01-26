@@ -29,7 +29,7 @@ For common justice, you&rsquo;re as pregnant in
 As art and practice hath enriched any
 That we remember. There is our commission,
 [<i>He hands Escalus a paper.</i>]
-From which we would not have you warp.--Call
+From which we would not have you warp.&mdash;Call
 hither,
 I say, bid come before us Angelo.
 [<i>An Attendant exits.</i>]
@@ -223,7 +223,7 @@ art tainted or free.
 <speaker>LUCIO</speaker>
 Behold, behold, where Madam Mitigation
 comes! I have purchased as many diseases under
-her roof as come to--
+her roof as come to&mdash;
 
 <speaker>SECOND GENTLEMAN</speaker>
 To what, I pray?
@@ -427,7 +427,7 @@ Call it so.
 Away, sir. You must go.
 
 <speaker>CLAUDIO</speaker>
-One word, good friend.--Lucio, a word with you.
+One word, good friend.&mdash;Lucio, a word with you.
 
 <speaker>LUCIO</speaker>
 A hundred, if they&rsquo;ll do you any good. Is lechery
@@ -451,7 +451,7 @@ With child, perhaps?
 
 <speaker>CLAUDIO</speaker>
 Unhappily, even so.
-And the new deputy now for the Duke--
+And the new deputy now for the Duke&mdash;
 Whether it be the fault and glimpse of newness,
 Or whether that the body public be
 A horse whereon the governor doth ride,
@@ -459,7 +459,7 @@ Who, newly in the seat, that it may know
 He can command, lets it straight feel the spur;
 Whether the tyranny be in his place
 Or in his eminence that fills it up,
-I stagger in--but this new governor
+I stagger in&mdash;but this new governor
 Awakes me all the enrolled penalties
 Which have, like unscoured armor, hung by th&rsquo; wall
 So long that nineteen zodiacs have gone round,
@@ -542,8 +542,8 @@ Even like an o&rsquo;ergrown lion in a cave
 That goes not out to prey. Now, as fond fathers,
 Having bound up the threat&rsquo;ning twigs of birch
 Only to stick it in their children&rsquo;s sight
-For terror, not to use--in time the rod
-More mocked than feared--so our decrees,
+For terror, not to use&mdash;in time the rod
+More mocked than feared&mdash;so our decrees,
 Dead to infliction, to themselves are dead,
 And liberty plucks justice by the nose,
 The baby beats the nurse, and quite athwart
@@ -695,9 +695,9 @@ Is very snow-broth; one who never feels
 The wanton stings and motions of the sense,
 But doth rebate and blunt his natural edge
 With profits of the mind: study and fast.
-He--to give fear to use and liberty,
+He&mdash;to give fear to use and liberty,
 Which have for long run by the hideous law
-As mice by lions--hath picked out an act
+As mice by lions&mdash;hath picked out an act
 Under whose heavy sense your brother&rsquo;s life
 Falls into forfeit. He arrests him on it,
 And follows close the rigor of the statute
@@ -723,7 +723,7 @@ To do him good?
 Assay the power you have.
 
 <speaker>ISABELLA</speaker>
-My power? Alas, I doubt--
+My power? Alas, I doubt&mdash;
 
 <speaker>LUCIO</speaker>
 Our doubts are traitors
@@ -881,14 +881,14 @@ How know you that?
 
 <speaker>ELBOW</speaker>
 My wife, sir, whom I detest before heaven and
-your Honor--
+your Honor&mdash;
 
 <speaker>ESCALUS</speaker>
 How? Thy wife?
 
 <speaker>ELBOW</speaker>
 Ay, sir, whom I thank heaven is an honest
-woman--
+woman&mdash;
 
 <speaker>ESCALUS</speaker>
 Dost thou detest her therefore?
@@ -934,7 +934,7 @@ Sir, we had but two in the house, which at that very
 distant time stood, as it were, in a fruit dish, a dish
 of some threepence; your Honors have seen such
 dishes; they are not china dishes, but very good
-dishes--
+dishes&mdash;
 
 <speaker>ESCALUS</speaker>
 Go to, go to. No matter for the dish, sir.
@@ -946,16 +946,16 @@ Elbow, being, as I say, with child, and being great-bellied,
 and longing, as I said, for prunes; and
 having but two in the dish, as I said, Master Froth
 here, this very man, having eaten the rest, as I said,
-and, as I say, paying for them very honestly--for, as
+and, as I say, paying for them very honestly&mdash;for, as
 you know, Master Froth, I could not give you threepence
-again--
+again&mdash;
 
 <speaker>FROTH</speaker>
 No, indeed.
 
 <speaker>POMPEY</speaker>
 Very well. You being then, if you be remembered,
-cracking the stones of the foresaid prunes--
+cracking the stones of the foresaid prunes&mdash;
 
 <speaker>FROTH</speaker>
 Ay, so I did indeed.
@@ -964,13 +964,13 @@ Ay, so I did indeed.
 Why, very well. I telling you then, if you be
 remembered, that such a one and such a one were
 past cure of the thing you wot of, unless they kept
-very good diet, as I told you--
+very good diet, as I told you&mdash;
 
 <speaker>FROTH</speaker>
 All this is true.
 
 <speaker>POMPEY</speaker>
-Why, very well then--
+Why, very well then&mdash;
 
 <speaker>ESCALUS</speaker>
 Come, you are a tedious fool. To the purpose:
@@ -987,15 +987,15 @@ No, sir, nor I mean it not.
 Sir, but you shall come to it, by your Honor&rsquo;s
 leave. And I beseech you, look into Master Froth
 here, sir, a man of fourscore pound a year, whose
-father died at Hallowmas--was &rsquo;t not at Hallowmas,
+father died at Hallowmas&mdash;was &rsquo;t not at Hallowmas,
 Master Froth?
 
 <speaker>FROTH</speaker>
 All-hallond Eve.
 
 <speaker>POMPEY</speaker>
-Why, very well. I hope here be truths.--He,
-sir, sitting, as I say, in a lower chair, sir--[<i>To Froth.</i>]
+Why, very well. I hope here be truths.&mdash;He,
+sir, sitting, as I say, in a lower chair, sir&mdash;[<i>To Froth.</i>]
 &rsquo;Twas in the Bunch of Grapes, where indeed you
 have a delight to sit, have you not?
 
@@ -1037,8 +1037,8 @@ Well, sir, what did this gentleman to her?
 
 <speaker>POMPEY</speaker>
 I beseech you, sir, look in this gentleman&rsquo;s
-face.--Good Master Froth, look upon his Honor.
-&rsquo;Tis for a good purpose.--Doth your Honor mark
+face.&mdash;Good Master Froth, look upon his Honor.
+&rsquo;Tis for a good purpose.&mdash;Doth your Honor mark
 his face?
 
 <speaker>ESCALUS</speaker>
@@ -1093,9 +1093,9 @@ Is this true?
 [<i>to Pompey</i>]
   O thou caitiff! O thou varlet! O
 thou wicked Hannibal! I respected with her before I
-was married to her?--If ever I was respected with
+was married to her?&mdash;If ever I was respected with
 her, or she with me, let not your Worship think me
-the poor duke&rsquo;s officer.--Prove this, thou wicked
+the poor duke&rsquo;s officer.&mdash;Prove this, thou wicked
 Hannibal, or I&rsquo;ll have mine action of batt&rsquo;ry on thee.
 
 <speaker>ESCALUS</speaker>
@@ -1152,7 +1152,7 @@ Hath she had any more than one husband?
 Nine, sir. Overdone by the last.
 
 <speaker>ESCALUS</speaker>
-Nine?--Come hither to me, Master Froth.
+Nine?&mdash;Come hither to me, Master Froth.
 Master Froth, I would not have you acquainted with
 tapsters; they will draw you, Master Froth, and you
 will hang them. Get you gone, and let me hear no
@@ -1535,9 +1535,9 @@ Those many had not dared to do that evil
 If the first that did th&rsquo; edict infringe
 Had answered for his deed. Now &rsquo;tis awake,
 Takes note of what is done, and, like a prophet,
-Looks in a glass that shows what future evils--
+Looks in a glass that shows what future evils&mdash;
 Either now, or by remissness new-conceived,
-And so in progress to be hatched and born--
+And so in progress to be hatched and born&mdash;
 Are now to have no successive degrees
 But, ere they live, to end.
 
@@ -1736,7 +1736,7 @@ I would do more than that if more were needful.
 Look, here comes one, a gentlewoman of mine,
 Who, falling in the flaws of her own youth,
 Hath blistered her report. She is with child,
-And he that got it, sentenced--a young man,
+And he that got it, sentenced&mdash;a young man,
 More fit to do another such offense
 Than die for this.
 
@@ -1795,7 +1795,7 @@ As that the sin hath brought you to this shame,
 Which sorrow is always toward ourselves, not
 heaven,
 Showing we would not spare heaven as we love it,
-But as we stand in fear--
+But as we stand in fear&mdash;
 
 <speaker>JULIET</speaker>
 I do repent me as it is an evil,
@@ -1831,7 +1831,7 @@ And in my heart the strong and swelling evil
 Of my conception. The state whereon I studied
 Is, like a good thing being often read,
 Grown sere and tedious. Yea, my gravity,
-Wherein--let no man hear me--I take pride,
+Wherein&mdash;let no man hear me&mdash;I take pride,
 Could I with boot change for an idle plume
 Which the air beats for vain. O place, O form,
 How often dost thou with thy case, thy habit,
@@ -1975,8 +1975,8 @@ Accountant to the law upon that pain.
 True.
 
 <speaker>ANGELO</speaker>
-Admit no other way to save his life--
-As I subscribe not that, nor any other--
+Admit no other way to save his life&mdash;
+As I subscribe not that, nor any other&mdash;
 But, in the loss of question, that you, his sister,
 Finding yourself desired of such a person
 Whose credit with the judge, or own great place,
@@ -2039,7 +2039,7 @@ Nay, women are frail too.
 <speaker>ISABELLA</speaker>
 Ay, as the glasses where they view themselves,
 Which are as easy broke as they make forms.
-Women--help, heaven--men their creation mar
+Women&mdash;help, heaven&mdash;men their creation mar
 In profiting by them. Nay, call us ten times frail,
 For we are soft as our complexions are,
 And credulous to false prints.
@@ -2049,7 +2049,7 @@ I think it well.
 And from this testimony of your own sex,
 Since I suppose we are made to be no stronger
 Than faults may shake our frames, let me be bold.
-I do arrest your words. Be that you are--
+I do arrest your words. Be that you are&mdash;
 That is, a woman. If you be more, you&rsquo;re none.
 If you be one, as you are well expressed
 By all external warrants, show it now
@@ -2209,7 +2209,7 @@ Most holy sir, I thank you.
 My business is a word or two with Claudio.
 
 <speaker>PROVOST</speaker>
-And very welcome.--Look, signior, here&rsquo;s your
+And very welcome.&mdash;Look, signior, here&rsquo;s your
 sister.
 
 <speaker>DUKE,</speaker>
@@ -2293,10 +2293,10 @@ And hug it in mine arms.
 There spake my brother! There my father&rsquo;s grave
 Did utter forth a voice. Yes, thou must die.
 Thou art too noble to conserve a life
-In base appliances. This outward-sainted deputy--
+In base appliances. This outward-sainted deputy&mdash;
 Whose settled visage and deliberate word
 Nips youth i&rsquo; th&rsquo; head, and follies doth enew
-As falcon doth the fowl--is yet a devil.
+As falcon doth the fowl&mdash;is yet a devil.
 His filth within being cast, he would appear
 A pond as deep as hell.
 
@@ -2345,7 +2345,7 @@ Which is the least?
 <speaker>CLAUDIO</speaker>
 If it were damnable, he being so wise,
 Why would he for the momentary trick
-Be perdurably fined? O, Isabel--
+Be perdurably fined? O, Isabel&mdash;
 
 <speaker>ISABELLA</speaker>
 What says my brother?
@@ -2367,7 +2367,7 @@ To be imprisoned in the viewless winds
 And blown with restless violence round about
 The pendent world; or to be worse than worst
 Of those that lawless and incertain thought
-Imagine howling--&rsquo;tis too horrible.
+Imagine howling&mdash;&rsquo;tis too horrible.
 The weariest and most loathed worldly life
 That age, ache, penury, and imprisonment
 Can lay on nature is a paradise
@@ -2397,7 +2397,7 @@ I&rsquo;ll pray a thousand prayers for thy death,
 No word to save thee.
 
 <speaker>CLAUDIO</speaker>
-Nay, hear me, Isabel--
+Nay, hear me, Isabel&mdash;
 
 <speaker>ISABELLA</speaker>
 O, fie, fie, fie!
@@ -2406,7 +2406,7 @@ Mercy to thee would prove itself a bawd.
 &rsquo;Tis best that thou diest quickly.
 
 <speaker>CLAUDIO</speaker>
-O, hear me, Isabella--
+O, hear me, Isabella&mdash;
 
 [<i>Enter Duke as a Friar.</i>]
 
@@ -2450,7 +2450,7 @@ love with life that I will sue to be rid of it.
 
 <speaker>DUKE,</speaker>
 [<i>as Friar</i>]
-  Hold you there. Farewell.--Provost, a
+  Hold you there. Farewell.&mdash;Provost, a
 word with you.
 
 [<i>Enter Provost.</i>]
@@ -2628,7 +2628,7 @@ that craft, being richer than innocency, stands for
 the facing.
 
 <speaker>ELBOW</speaker>
-Come your way, sir.--Bless you, good father
+Come your way, sir.&mdash;Bless you, good father
 friar.
 
 <speaker>DUKE,</speaker>
@@ -2656,12 +2656,12 @@ So stinkingly depending? Go mend, go mend.
 
 <speaker>POMPEY</speaker>
 Indeed, it does stink in some sort, sir. But yet,
-sir, I would prove--
+sir, I would prove&mdash;
 
 <speaker>DUKE,</speaker>
 [<i>as Friar</i>]
 Nay, if the devil have given thee proofs for sin,
-Thou wilt prove his.--Take him to prison, officer.
+Thou wilt prove his.&mdash;Take him to prison, officer.
 Correction and instruction must both work
 Ere this rude beast will profit.
 
@@ -2677,7 +2677,7 @@ That we were all, as some would seem to be,
 From our faults, as faults from seeming, free.
 
 <speaker>ELBOW</speaker>
-His neck will come to your waist--a cord, sir.
+His neck will come to your waist&mdash;a cord, sir.
 
 [<i>Enter Lucio.</i>]
 
@@ -2728,7 +2728,7 @@ For being a bawd, for being a bawd.
 <speaker>LUCIO</speaker>
 Well, then, imprison him. If imprisonment be
 the due of a bawd, why, &rsquo;tis his right. Bawd is he,
-doubtless, and of antiquity too. Bawd born.--
+doubtless, and of antiquity too. Bawd born.&mdash;
 Farewell, good Pompey. Commend me to the prison,
 Pompey. You will turn good husband now,
 Pompey; you will keep the house.
@@ -2740,7 +2740,7 @@ I hope, sir, your good Worship will be my bail.
 No, indeed, will I not, Pompey; it is not the
 wear. I will pray, Pompey, to increase your bondage.
 If you take it not patiently, why, your mettle is
-the more. Adieu, trusty Pompey.--Bless you, friar.
+the more. Adieu, trusty Pompey.&mdash;Bless you, friar.
 
 <speaker>DUKE,</speaker>
 [<i>as Friar</i>]
@@ -2760,7 +2760,7 @@ ha?
   You will not bail me, then, sir?
 
 <speaker>LUCIO</speaker>
-Then, Pompey, nor now.--What news abroad,
+Then, Pompey, nor now.&mdash;What news abroad,
 friar? What news?
 
 <speaker>ELBOW,</speaker>
@@ -2952,7 +2952,7 @@ never bring them to light Would he were returned.
 Marry, this Claudio is condemned for untrussing.
 Farewell, good friar. I prithee pray for me. The
 Duke, I say to thee again, would eat mutton on
-Fridays. He&rsquo;s now past it, yet--and I say to thee--
+Fridays. He&rsquo;s now past it, yet&mdash;and I say to thee&mdash;
 he would mouth with a beggar though she smelt
 brown bread and garlic. Say that I said so. Farewell.
 [<i>He exits.</i>]
@@ -2995,7 +2995,7 @@ how he goes about to abuse me.
 
 <speaker>ESCALUS</speaker>
 That fellow is a fellow of much license. Let
-him be called before us. Away with her to prison.--
+him be called before us. Away with her to prison.&mdash;
 Go to, no more words.	[<i>Officers exit with Bawd.</i>]
 Provost, my brother Angelo will not be altered.
 Claudio must die tomorrow. Let him be furnished
@@ -3051,7 +3051,7 @@ especially to know himself.
 <speaker>ESCALUS</speaker>
 Rather rejoicing to see another merry than
 merry at anything which professed to make him
-rejoice--a gentleman of all temperance. But leave
+rejoice&mdash;a gentleman of all temperance. But leave
 we him to his events, with a prayer they may prove
 prosperous, and let me desire to know how you find
 Claudio prepared. I am made to understand that
@@ -3208,7 +3208,7 @@ I come about my brother.
 [<i>as Friar</i>]
   &rsquo;Tis well borne up.
 I have not yet made known to Mariana
-A word of this.--What ho, within; come forth.
+A word of this.&mdash;What ho, within; come forth.
 
 [<i>Enter Mariana.</i>]
 
@@ -3312,7 +3312,7 @@ hangman. I would be glad to receive some instruction
 from my fellow partner.
 
 <speaker>PROVOST</speaker>
-What ho, Abhorson!--Where&rsquo;s Abhorson
+What ho, Abhorson!&mdash;Where&rsquo;s Abhorson
 there?
 
 [<i>Enter Abhorson.</i>]
@@ -3337,9 +3337,9 @@ Go to, sir; you weigh equally. A feather will
 turn the scale.	[<i>He exits.</i>]
 
 <speaker>POMPEY</speaker>
-Pray, sir, by your good favor--for surely, sir, a
+Pray, sir, by your good favor&mdash;for surely, sir, a
 good favor you have, but that you have a hanging
-look--do you call, sir, your occupation a mystery?
+look&mdash;do you call, sir, your occupation a mystery?
 
 <speaker>ABHORSON</speaker>
 Ay, sir, a mystery.
@@ -3412,11 +3412,11 @@ He will not wake.
 Who can do good on him?
 Well, go, prepare yourself. [<i>Knock within.</i>]
  But hark,
-what noise?--
+what noise?&mdash;
 Heaven give your spirits comfort. [<i>Claudio exits,
 with Officer.</i>]
  [<i>Knock within.</i>]
- By and by!--
+ By and by!&mdash;
 I hope it is some pardon or reprieve
 For the most gentle Claudio.
 
@@ -3834,7 +3834,7 @@ persuasion.
 
 <speaker>DUKE,</speaker>
 [<i>as Friar</i>]
-  But hear you--
+  But hear you&mdash;
 
 <speaker>BARNARDINE</speaker>
 Not a word. If you have anything to say to
@@ -3901,8 +3901,8 @@ Quick, dispatch, and send the head to Angelo.
 [<i>Provost exits.</i>]
 
 <speaker>DUKE</speaker>
-Now will I write letters to Angelo--
-The Provost he shall bear them--whose contents
+Now will I write letters to Angelo&mdash;
+The Provost he shall bear them&mdash;whose contents
 Shall witness to him I am near at home
 And that by great injunctions I am bound
 To enter publicly. Him I&rsquo;ll desire
@@ -3980,7 +3980,7 @@ This nor hurts him nor profits you a jot.
 Forbear it, therefore; give your cause to heaven.
 Mark what I say, which you shall find
 By every syllable a faithful verity.
-The Duke comes home tomorrow--nay, dry your
+The Duke comes home tomorrow&mdash;nay, dry your
 eyes.
 One of our convent, and his confessor,
 Gives me this instance. Already he hath carried
@@ -4010,7 +4010,7 @@ And shall be absent. Wend you with this letter.
 [<i>He hands her the paper.</i>]
 Command these fretting waters from your eyes
 With a light heart. Trust not my holy order
-If I pervert your course.--Who&rsquo;s here?
+If I pervert your course.&mdash;Who&rsquo;s here?
 
 [<i>Enter Lucio.</i>]
 
@@ -4185,7 +4185,7 @@ I should not think it strange, for &rsquo;tis a physic
 That&rsquo;s bitter to sweet end.
 
 <speaker>MARIANA</speaker>
-I would Friar Peter--
+I would Friar Peter&mdash;
 
 [<i>Enter Friar Peter.</i>]
 
@@ -4236,7 +4236,7 @@ A forted residence &rsquo;gainst the tooth of time
 And razure of oblivion. Give me your hand
 And let the subject see, to make them know
 That outward courtesies would fain proclaim
-Favors that keep within.--Come, Escalus,
+Favors that keep within.&mdash;Come, Escalus,
 You must walk by us on our other hand.
 And good supporters are you.
 
@@ -4249,7 +4249,7 @@ Now is your time. Speak loud, and kneel before him.
 <speaker>ISABELLA,</speaker>
 [<i>kneeling</i>]
 Justice, O royal duke. Vail your regard
-Upon a wronged--I would fain have said, a maid.
+Upon a wronged&mdash;I would fain have said, a maid.
 O worthy prince, dishonor not your eye
 By throwing it on any other object
 Till you have heard me in my true complaint
@@ -4318,7 +4318,7 @@ Had I more name for badness.
 
 <speaker>DUKE</speaker>
 By mine honesty,
-If she be mad--as I believe no other--
+If she be mad&mdash;as I believe no other&mdash;
 Her madness hath the oddest frame of sense,
 Such a dependency of thing on thing,
 As e&rsquo;er I heard in madness.
@@ -4341,7 +4341,7 @@ Condemned upon the act of fornication
 To lose his head, condemned by Angelo.
 I, in probation of a sisterhood,
 Was sent to by my brother; one Lucio
-As then the messenger--
+As then the messenger&mdash;
 
 <speaker>LUCIO,</speaker>
 [<i>to Duke</i>]
@@ -4382,11 +4382,11 @@ Right.
 
 <speaker>DUKE</speaker>
 It may be right, but you are i&rsquo; the wrong
-To speak before your time.--Proceed.
+To speak before your time.&mdash;Proceed.
 
 <speaker>ISABELLA</speaker>
 I went
-To this pernicious caitiff deputy--
+To this pernicious caitiff deputy&mdash;
 
 <speaker>DUKE</speaker>
 That&rsquo;s somewhat madly spoken.
@@ -4401,8 +4401,8 @@ Mended again. The matter; proceed.
 <speaker>ISABELLA</speaker>
 In brief, to set the needless process by:
 How I persuaded, how I prayed and kneeled,
-How he refelled me, and how I replied--
-For this was of much length--the vile conclusion
+How he refelled me, and how I replied&mdash;
+For this was of much length&mdash;the vile conclusion
 I now begin with grief and shame to utter.
 He would not, but by gift of my chaste body
 To his concupiscible intemperate lust,
@@ -4441,11 +4441,11 @@ woe,
 As I, thus wronged, hence unbelieved go.
 
 <speaker>DUKE</speaker>
-I know you&rsquo;d fain be gone.--An officer!
+I know you&rsquo;d fain be gone.&mdash;An officer!
 [<i>An Officer comes forward.</i>]
 To prison with her. Shall we thus permit
 A blasting and a scandalous breath to fall
-On him so near us? This needs must be a practice.--
+On him so near us? This needs must be a practice.&mdash;
 Who knew of your intent and coming hither?
 
 <speaker>ISABELLA</speaker>
@@ -4510,10 +4510,10 @@ Her shall you hear disproved to her eyes
 Till she herself confess it.
 
 <speaker>DUKE</speaker>
-Good friar, let&rsquo;s hear it.--
+Good friar, let&rsquo;s hear it.&mdash;
 Do you not smile at this, Lord Angelo?
-O heaven, the vanity of wretched fools!--
-Give us some seats.--Come, cousin Angelo,
+O heaven, the vanity of wretched fools!&mdash;
+Give us some seats.&mdash;Come, cousin Angelo,
 In this I&rsquo;ll be impartial. Be you judge
 Of your own cause.	[<i>Duke and Angelo are seated.</i>]
 
@@ -4664,14 +4664,14 @@ To find this practice out.
 
 <speaker>DUKE</speaker>
 Ay, with my heart,
-And punish them to your height of pleasure.--
+And punish them to your height of pleasure.&mdash;
 Thou foolish friar, and thou pernicious woman,
 Compact with her that&rsquo;s gone, think&rsquo;st thou thy
 oaths,
 Though they would swear down each particular
 saint,
 Were testimonies against his worth and credit
-That&rsquo;s sealed in approbation?--You, Lord Escalus,
+That&rsquo;s sealed in approbation?&mdash;You, Lord Escalus,
 Sit with my cousin; lend him your kind pains
 To find out this abuse, whence &rsquo;tis derived.
 [<i>The Duke rises. Escalus is seated.</i>]
@@ -4783,7 +4783,7 @@ Look you speak justly.
 
 <speaker>DUKE,</speaker>
 [<i>as Friar</i>]
-Boldly, at least.--But, O, poor souls,
+Boldly, at least.&mdash;But, O, poor souls,
 Come you to seek the lamb here of the fox?
 Good night to your redress. Is the Duke gone?
 Then is your cause gone too. The Duke&rsquo;s unjust
@@ -4801,7 +4801,7 @@ Is &rsquo;t not enough thou hast suborned these women
 To accuse this worthy man, but, in foul mouth
 And in the witness of his proper ear,
 To call him villain? And then to glance from him
-To th&rsquo; Duke himself, to tax him with injustice?--
+To th&rsquo; Duke himself, to tax him with injustice?&mdash;
 Take him hence. To th&rsquo; rack with him. We&rsquo;ll touse
 him
 Joint by joint, but we will know his purpose.
@@ -4830,7 +4830,7 @@ What can you vouch against him, Signior Lucio?
 Is this the man that you did tell us of?
 
 <speaker>LUCIO</speaker>
-&rsquo;Tis he, my lord.--Come hither, Goodman Baldpate.
+&rsquo;Tis he, my lord.&mdash;Come hither, Goodman Baldpate.
 Do you know me?
 
 <speaker>DUKE,</speaker>
@@ -4886,7 +4886,7 @@ companion.
   Stay, sir, stay awhile.
 
 <speaker>ANGELO</speaker>
-What, resists he?--Help him, Lucio.
+What, resists he?&mdash;Help him, Lucio.
 
 <speaker>LUCIO,</speaker>
 [<i>to the disguised Duke</i>]
@@ -4899,12 +4899,12 @@ face, and be hanged an hour! Will &rsquo;t not off?
 [<i>Angelo and Escalus stand.</i>]
 
 <speaker>DUKE</speaker>
-Thou art the first knave that e&rsquo;er mad&rsquo;st a duke.--
+Thou art the first knave that e&rsquo;er mad&rsquo;st a duke.&mdash;
 First, provost, let me bail these gentle three.
 [<i>To Lucio.</i>]
  Sneak not away, sir, for the friar and
 you
-Must have a word anon.--Lay hold on him.
+Must have a word anon.&mdash;Lay hold on him.
 
 <speaker>LUCIO</speaker>
 This may prove worse than hanging.
@@ -4946,7 +4946,7 @@ Go take her hence and marry her instantly.
 [<i>To Friar Peter.</i>]
  Do you the office, friar, which
 consummate,
-Return him here again.--Go with him, provost.
+Return him here again.&mdash;Go with him, provost.
 [<i>Angelo, Mariana, Friar Peter, and Provost exit.</i>]
 
 <speaker>ESCALUS</speaker>
@@ -4991,22 +4991,22 @@ For this new-married man approaching here,
 Whose salt imagination yet hath wronged
 Your well-defended honor, you must pardon
 For Mariana&rsquo;s sake. But as he adjudged your
-brother--
+brother&mdash;
 Being criminal in double violation
 Of sacred chastity and of promise-breach
-Thereon dependent for your brother&rsquo;s life--
+Thereon dependent for your brother&rsquo;s life&mdash;
 The very mercy of the law cries out
 Most audible, even from his proper tongue,
 "&ldquo;An Angelo for Claudio, death for death.&rdquo;"
 Haste still pays haste, and leisure answers leisure;
 Like doth quit like, and measure still for
-measure.--
+measure.&mdash;
 Then, Angelo, thy fault&rsquo;s thus manifested,
 Which, though thou wouldst deny, denies thee
 vantage.
 We do condemn thee to the very block
 Where Claudio stooped to death, and with like
-haste.--
+haste.&mdash;
 Away with him.
 
 <speaker>MARIANA</speaker>
@@ -5032,16 +5032,16 @@ Never crave him. We are definitive.
 
 <speaker>MARIANA,</speaker>
 [<i>kneeling</i>]
-Gentle my liege--
+Gentle my liege&mdash;
 
 <speaker>DUKE</speaker>
-You do but lose your labor.--
+You do but lose your labor.&mdash;
 Away with him to death. [<i>To Lucio.</i>]
  Now, sir, to
 you.
 
 <speaker>MARIANA</speaker>
-O, my good lord.--Sweet Isabel, take my part.
+O, my good lord.&mdash;Sweet Isabel, take my part.
 Lend me your knees, and all my life to come
 I&rsquo;ll lend you all my life to do you service.
 
@@ -5084,7 +5084,7 @@ Merely, my lord.
 <speaker>DUKE</speaker>
 Your suit&rsquo;s unprofitable. Stand up, I say.
 [<i>They stand.</i>]
-I have bethought me of another fault.--
+I have bethought me of another fault.&mdash;
 Provost, how came it Claudio was beheaded
 At an unusual hour?
 
@@ -5144,14 +5144,14 @@ Which is that Barnardine?
 This, my lord.
 
 <speaker>DUKE</speaker>
-There was a friar told me of this man.--
+There was a friar told me of this man.&mdash;
 Sirrah, thou art said to have a stubborn soul
 That apprehends no further than this world,
 And squar&rsquo;st thy life according. Thou &rsquo;rt condemned.
 But, for those earthly faults, I quit them all,
 And pray thee take this mercy to provide
-For better times to come.--Friar, advise him.
-I leave him to your hand.--What muffled fellow&rsquo;s
+For better times to come.&mdash;Friar, advise him.
+I leave him to your hand.&mdash;What muffled fellow&rsquo;s
 that?
 
 <speaker>PROVOST</speaker>
@@ -5167,7 +5167,7 @@ Is he pardoned; and for your lovely sake,
 Give me your hand and say you will be mine,
 He is my brother too. But fitter time for that.
 By this Lord Angelo perceives he&rsquo;s safe;
-Methinks I see a quick&rsquo;ning in his eye.--
+Methinks I see a quick&rsquo;ning in his eye.&mdash;
 Well, Angelo, your evil quits you well.
 Look that you love your wife, her worth worth
 yours.
@@ -5186,11 +5186,11 @@ trick. If you will hang me for it, you may, but I had
 rather it would please you I might be whipped.
 
 <speaker>DUKE</speaker>
-Whipped first, sir, and hanged after.--
+Whipped first, sir, and hanged after.&mdash;
 Proclaim it, provost, round about the city,
-If any woman wronged by this lewd fellow--
+If any woman wronged by this lewd fellow&mdash;
 As I have heard him swear himself there&rsquo;s one
-Whom he begot with child--let her appear,
+Whom he begot with child&mdash;let her appear,
 And he shall marry her. The nuptial finished,
 Let him be whipped and hanged.
 
@@ -5203,7 +5203,7 @@ making me a cuckold.
 <speaker>DUKE</speaker>
 Upon mine honor, thou shalt marry her.
 Thy slanders I forgive and therewithal
-Remit thy other forfeits.--Take him to prison,
+Remit thy other forfeits.&mdash;Take him to prison,
 And see our pleasure herein executed.
 
 <speaker>LUCIO</speaker>
@@ -5213,19 +5213,19 @@ whipping, and hanging.
 <speaker>DUKE</speaker>
 Slandering a prince deserves it.
 [<i>Officers take Lucio away.</i>]
-She, Claudio, that you wronged, look you restore.--
-Joy to you, Mariana.--Love her, Angelo.
-I have confessed her, and I know her virtue.--
+She, Claudio, that you wronged, look you restore.&mdash;
+Joy to you, Mariana.&mdash;Love her, Angelo.
+I have confessed her, and I know her virtue.&mdash;
 Thanks, good friend Escalus, for thy much goodness.
-There&rsquo;s more behind that is more gratulate.--
+There&rsquo;s more behind that is more gratulate.&mdash;
 Thanks, provost, for thy care and secrecy.
-We shall employ thee in a worthier place.--
+We shall employ thee in a worthier place.&mdash;
 Forgive him, Angelo, that brought you home
 The head of Ragozine for Claudio&rsquo;s.
-Th&rsquo; offense pardons itself.--Dear Isabel,
+Th&rsquo; offense pardons itself.&mdash;Dear Isabel,
 I have a motion much imports your good,
 Whereto if you&rsquo;ll a willing ear incline,
-What&rsquo;s mine is yours, and what is yours is mine.--
+What&rsquo;s mine is yours, and what is yours is mine.&mdash;
 So, bring us to our palace, where we&rsquo;ll show
 What&rsquo;s yet behind that&rsquo;s meet you all should know.
 [<i>They exit.</i>]

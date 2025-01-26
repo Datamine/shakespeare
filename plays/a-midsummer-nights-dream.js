@@ -39,7 +39,7 @@ But I will wed thee in another key,
 With pomp, with triumph, and with reveling.
 
 [<i>Enter Egeus and his daughter Hermia, and Lysander 
- - and Demetrius.</i>]
+ and Demetrius.</i>]
 
 EGEUS
 Happy be Theseus, our renowned duke!
@@ -49,22 +49,22 @@ Thanks, good Egeus. What&rsquo;s the news with thee?
 
 EGEUS
 Full of vexation come I, with complaint
-Against my child, my daughter Hermia.--
-Stand forth, Demetrius.--My noble lord,
-This man hath my consent to marry her.--
-Stand forth, Lysander.--And, my gracious duke,
-This man hath bewitched the bosom of my child.--
+Against my child, my daughter Hermia.&mdash;
+Stand forth, Demetrius.&mdash;My noble lord,
+This man hath my consent to marry her.&mdash;
+Stand forth, Lysander.&mdash;And, my gracious duke,
+This man hath bewitched the bosom of my child.&mdash;
 Thou, thou, Lysander, thou hast given her rhymes
 And interchanged love tokens with my child.
 Thou hast by moonlight at her window sung
 With feigning voice verses of feigning love
 And stol&rsquo;n the impression of her fantasy
 With bracelets of thy hair, rings, gauds, conceits,
-Knacks, trifles, nosegays, sweetmeats--messengers
+Knacks, trifles, nosegays, sweetmeats&mdash;messengers
 Of strong prevailment in unhardened youth.
 With cunning hast thou filched my daughter&rsquo;s heart,
 Turned her obedience (which is due to me)
-To stubborn harshness.--And, my gracious duke,
+To stubborn harshness.&mdash;And, my gracious duke,
 Be it so she will not here before your Grace
 Consent to marry with Demetrius,
 I beg the ancient privilege of Athens:
@@ -168,15 +168,15 @@ THESEUS
 I must confess that I have heard so much,
 And with Demetrius thought to have spoke thereof;
 But, being overfull of self-affairs,
-My mind did lose it.--But, Demetrius, come,
+My mind did lose it.&mdash;But, Demetrius, come,
 And come, Egeus; you shall go with me.
-I have some private schooling for you both.--
+I have some private schooling for you both.&mdash;
 For you, fair Hermia, look you arm yourself
 To fit your fancies to your father&rsquo;s will,
 Or else the law of Athens yields you up
 (Which by no means we may extenuate)
-To death or to a vow of single life.--
-Come, my Hippolyta. What cheer, my love?--
+To death or to a vow of single life.&mdash;
+Come, my Hippolyta. What cheer, my love?&mdash;
 Demetrius and Egeus, go along.
 I must employ you in some business
 Against our nuptial and confer with you
@@ -198,19 +198,19 @@ LYSANDER
 Ay me! For aught that I could ever read,
 Could ever hear by tale or history,
 The course of true love never did run smooth.
-But either it was different in blood--
+But either it was different in blood&mdash;
 
 HERMIA
 O cross! Too high to be enthralled to low.
 
 LYSANDER
-Or else misgraffed in respect of years--
+Or else misgraffed in respect of years&mdash;
 
 HERMIA
 O spite! Too old to be engaged to young.
 
 LYSANDER
-Or else it stood upon the choice of friends--
+Or else it stood upon the choice of friends&mdash;
 
 HERMIA
 O hell, to choose love by another&rsquo;s eyes!
@@ -334,7 +334,7 @@ There my Lysander and myself shall meet
 And thence from Athens turn away our eyes
 To seek new friends and stranger companies.
 Farewell, sweet playfellow. Pray thou for us,
-And good luck grant thee thy Demetrius.--
+And good luck grant thee thy Demetrius.&mdash;
 Keep word, Lysander. We must starve our sight
 From lovers&rsquo; food till morrow deep midnight.
 
@@ -418,7 +418,7 @@ proceed.
 You, Nick Bottom, are set down for Pyramus.
 
 <speaker>BOTTOM</speaker>
-What is Pyramus--a lover or a tyrant?
+What is Pyramus&mdash;a lover or a tyrant?
 
 <speaker>QUINCE</speaker>
 A lover that kills himself most gallant for love.
@@ -427,7 +427,7 @@ A lover that kills himself most gallant for love.
 That will ask some tears in the true performing
 of it. If I do it, let the audience look to their
 eyes. I will move storms; I will condole in some
-measure. To the rest.--Yet my chief humor is for a
+measure. To the rest.&mdash;Yet my chief humor is for a
 tyrant. I could play Ercles rarely, or a part to tear a
 cat in, to make all split:
 
@@ -454,7 +454,7 @@ Here, Peter Quince.
 Flute, you must take Thisbe on you.
 
 <speaker>FLUTE</speaker>
-What is Thisbe--a wand&rsquo;ring knight?
+What is Thisbe&mdash;a wand&rsquo;ring knight?
 
 <speaker>QUINCE</speaker>
 It is the lady that Pyramus must love.
@@ -470,11 +470,11 @@ you may speak as small as you will.
 <speaker>BOTTOM</speaker>
 An I may hide my face, let me play Thisbe too.
 I&rsquo;ll speak in a monstrous little voice: "&ldquo;Thisne,
-Thisne!"--"Ah Pyramus, my lover dear! Thy Thisbe
+Thisne!"&mdash;"Ah Pyramus, my lover dear! Thy Thisbe
 dear and lady dear!&rdquo;"
 
 <speaker>QUINCE</speaker>
-No, no, you must play Pyramus--and, Flute,
+No, no, you must play Pyramus&mdash;and, Flute,
 you Thisbe.
 
 <speaker>BOTTOM</speaker>
@@ -488,14 +488,14 @@ Here, Peter Quince.
 
 <speaker>QUINCE</speaker>
 Robin Starveling, you must play Thisbe&rsquo;s
-mother.--Tom Snout, the tinker.
+mother.&mdash;Tom Snout, the tinker.
 
 <speaker>SNOUT</speaker>
 Here, Peter Quince.
 
 <speaker>QUINCE</speaker>
-You, Pyramus&rsquo; father.--Myself, Thisbe&rsquo;s
-father.--Snug the joiner, you the lion&rsquo;s part.--
+You, Pyramus&rsquo; father.&mdash;Myself, Thisbe&rsquo;s
+father.&mdash;Snug the joiner, you the lion&rsquo;s part.&mdash;
 And I hope here is a play fitted.
 
 <speaker>SNUG</speaker>
@@ -770,7 +770,7 @@ We shall chide downright if I longer stay.
 
 <speaker>OBERON</speaker>
 Well, go thy way. Thou shalt not from this grove
-Till I torment thee for this injury.--
+Till I torment thee for this injury.&mdash;
 My gentle Puck, come hither. Thou rememb&rsquo;rest
 Since once I sat upon a promontory
 And heard a mermaid on a dolphin&rsquo;s back
@@ -951,7 +951,7 @@ Fear not, my lord. Your servant shall do so.
 
 <speaker>TITANIA</speaker>
 Come, now a roundel and a fairy song;
-Then, for the third part of a minute, hence--
+Then, for the third part of a minute, hence&mdash;
 Some to kill cankers in the muskrose buds,
 Some war with reremice for their leathern wings
 To make my small elves coats, and some keep back
@@ -1034,7 +1034,7 @@ O, take the sense, sweet, of my innocence!
 Love takes the meaning in love&rsquo;s conference.
 I mean that my heart unto yours is knit,
 So that but one heart we can make of it;
-Two bosoms interchained with an oath--
+Two bosoms interchained with an oath&mdash;
 So then two bosoms and a single troth.
 Then by your side no bed-room me deny,
 For lying so, Hermia, I do not lie.
@@ -1074,7 +1074,7 @@ With half that wish the wisher&rsquo;s eyes be pressed!
 	And here the maiden, sleeping sound
 	On the dank and dirty ground.
 	Pretty soul, she durst not lie
-	Near this lack-love, this kill-courtesy.--
+	Near this lack-love, this kill-courtesy.&mdash;
 	Churl, upon thy eyes I throw
 	All the power this charm doth owe.
 [<i>He anoints Lysander&rsquo;s eyelids
@@ -1112,7 +1112,7 @@ Do as a monster fly my presence thus.
 What wicked and dissembling glass of mine
 Made me compare with Hermia&rsquo;s sphery eyne?
 But who is here? Lysander, on the ground!
-Dead or asleep? I see no blood, no wound.--
+Dead or asleep? I see no blood, no wound.&mdash;
 Lysander, if you live, good sir, awake.
 
 <speaker>LYSANDER,</speaker>
@@ -1158,7 +1158,7 @@ O, that a lady of one man refused
 Should of another therefore be abused!	[<i>She exits.</i>]
 
 <speaker>LYSANDER</speaker>
-She sees not Hermia.--Hermia, sleep thou there,
+She sees not Hermia.&mdash;Hermia, sleep thou there,
 And never mayst thou come Lysander near.
 For, as a surfeit of the sweetest things
 The deepest loathing to the stomach brings,
@@ -1180,7 +1180,7 @@ And you sat smiling at his cruel prey.
 Lysander! What, removed? Lysander, lord!
 What, out of hearing? Gone? No sound, no word?
 Alack, where are you? Speak, an if you hear.
-Speak, of all loves! I swoon almost with fear.--
+Speak, of all loves! I swoon almost with fear.&mdash;
 No? Then I well perceive you are not nigh.
 Either death or you I&rsquo;ll find immediately.
 [<i>She exits.</i>]
@@ -1321,15 +1321,15 @@ according to his cue.
 [<i>aside</i>]
 What hempen homespuns have we swagg&rsquo;ring here
 So near the cradle of the Fairy Queen?
-What, a play toward? I&rsquo;ll be an auditor--
+What, a play toward? I&rsquo;ll be an auditor&mdash;
 An actor too perhaps, if I see cause.
 
 <speaker>QUINCE</speaker>
-Speak, Pyramus.--Thisbe, stand forth.
+Speak, Pyramus.&mdash;Thisbe, stand forth.
 
 <speaker>BOTTOM,</speaker>
 [<i>as Pyramus</i>]
-	Thisbe, the flowers of odious savors sweet--
+	Thisbe, the flowers of odious savors sweet&mdash;
 
 <speaker>QUINCE</speaker>
 Odors, odors!
@@ -1337,7 +1337,7 @@ Odors, odors!
 <speaker>BOTTOM,</speaker>
 [<i>as Pyramus</i>]
 		...odors savors sweet.
-	So hath thy breath, my dearest Thisbe dear.--
+	So hath thy breath, my dearest Thisbe dear.&mdash;
 	But hark, a voice! Stay thou but here awhile,
 	And by and by I will to thee appear.	[<i>He exits.</i>]
 
@@ -1364,7 +1364,7 @@ come again.
 <speaker>QUINCE</speaker>
 "&ldquo;Ninus&rsquo; tomb,&rdquo;" man! Why, you must not
 speak that yet. That you answer to Pyramus. You
-speak all your part at once, cues and all.--Pyramus,
+speak all your part at once, cues and all.&mdash;Pyramus,
 enter. Your cue is past. It is "&ldquo;never tire.&rdquo;"
 
 <speaker>FLUTE</speaker>
@@ -1425,7 +1425,7 @@ I am not afraid.
 	The ouzel cock, so black of hue,
 	   With orange-tawny bill,
 	The throstle with his note so true,
-	   The wren with little quill--
+	   The wren with little quill&mdash;
 
 <speaker>TITANIA,</speaker>
 [<i>waking up</i>]
@@ -1436,7 +1436,7 @@ What angel wakes me from my flow&rsquo;ry bed?
 	The finch, the sparrow, and the lark,
 	   The plainsong cuckoo gray,
 	Whose note full many a man doth mark
-	   And dares not answer "&ldquo;nay"--
+	   And dares not answer "&ldquo;nay"&mdash;
 for, indeed, who would set his wit to so foolish a
 bird? Who would give a bird the lie though he cry
 "&ldquo;cuckoo&rdquo;" never so?
@@ -1474,7 +1474,7 @@ I&rsquo;ll give thee fairies to attend on thee,
 And they shall fetch thee jewels from the deep
 And sing while thou on pressed flowers dost sleep.
 And I will purge thy mortal grossness so
-That thou shalt like an airy spirit go.--
+That thou shalt like an airy spirit go.&mdash;
 Peaseblossom, Cobweb, Mote, and Mustardseed!
 
 [<i>Enter four Fairies: Peaseblossom, Cobweb,
@@ -1521,7 +1521,7 @@ Hail!
 Hail!
 
 <speaker>BOTTOM</speaker>
-I cry your Worships mercy, heartily.--I beseech
+I cry your Worships mercy, heartily.&mdash;I beseech
 your Worship&rsquo;s name.
 
 <speaker>COBWEB</speaker>
@@ -1530,7 +1530,7 @@ Cobweb.
 <speaker>BOTTOM</speaker>
 I shall desire you of more acquaintance, good
 Master Cobweb. If I cut my finger, I shall make
-bold with you.--Your name, honest gentleman?
+bold with you.&mdash;Your name, honest gentleman?
 
 <speaker>PEASEBLOSSOM</speaker>
 Peaseblossom.
@@ -1539,7 +1539,7 @@ Peaseblossom.
 I pray you, commend me to Mistress Squash,
 your mother, and to Master Peascod, your father.
 Good Master Peaseblossom, I shall desire you of
-more acquaintance too.--Your name, I beseech
+more acquaintance too.&mdash;Your name, I beseech
 you, sir?
 
 <speaker>MUSTARDSEED</speaker>
@@ -1614,7 +1614,7 @@ But hast thou yet latched the Athenian&rsquo;s eyes
 With the love juice, as I did bid thee do?
 
 <speaker>ROBIN</speaker>
-I took him sleeping--that is finished, too--
+I took him sleeping&mdash;that is finished, too&mdash;
 And the Athenian woman by his side,
 That, when he waked, of force she must be eyed.
 
@@ -1726,7 +1726,7 @@ Swifter than arrow from the Tartar&rsquo;s bow.	[<i>He exits.</i>]
 	Sink in apple of his eye.
 	When his love he doth espy,
 	Let her shine as gloriously
-	As the Venus of the sky.--
+	As the Venus of the sky.&mdash;
 	When thou wak&rsquo;st, if she be by,
 	Beg of her for remedy.
 
@@ -1867,14 +1867,14 @@ You speak not as you think. It cannot be.
 <speaker>HELENA</speaker>
 Lo, she is one of this confederacy!
 Now I perceive they have conjoined all three
-To fashion this false sport in spite of me.--
+To fashion this false sport in spite of me.&mdash;
 Injurious Hermia, most ungrateful maid,
 Have you conspired, have you with these contrived,
 To bait me with this foul derision?
 Is all the counsel that we two have shared,
 The sisters&rsquo; vows, the hours that we have spent
 When we have chid the hasty-footed time
-For parting us--O, is all forgot?
+For parting us&mdash;O, is all forgot?
 All schooldays&rsquo; friendship, childhood innocence?
 We, Hermia, like two artificial gods,
 Have with our needles created both one flower,
@@ -1945,7 +1945,7 @@ If she cannot entreat, I can compel.
 <speaker>LYSANDER</speaker>
 Thou canst compel no more than she entreat.
 Thy threats have no more strength than her weak
-prayers.--
+prayers.&mdash;
 Helen, I love thee. By my life, I do.
 I swear by that which I will lose for thee,
 To prove him false that says I love thee not.
@@ -2011,7 +2011,7 @@ Am not I Hermia? Are not you Lysander?
 I am as fair now as I was erewhile.
 Since night you loved me; yet since night you left
 me.
-Why, then, you left me--O, the gods forbid!--
+Why, then, you left me&mdash;O, the gods forbid!&mdash;
 In earnest, shall I say?
 
 <speaker>LYSANDER</speaker>
@@ -2062,7 +2062,7 @@ That I can match her.
 <speaker>HELENA</speaker>
 Good Hermia, do not be so bitter with me.
 I evermore did love you, Hermia,
-Did ever keep your counsels, never wronged you--
+Did ever keep your counsels, never wronged you&mdash;
 Save that, in love unto Demetrius,
 I told him of your stealth unto this wood.
 He followed you; for love, I followed him.
@@ -2104,7 +2104,7 @@ Let me come to her.
 <speaker>LYSANDER</speaker>
 Get you gone, you dwarf,
 You minimus of hind&rsquo;ring knotgrass made,
-You bead, you acorn--
+You bead, you acorn&mdash;
 
 <speaker>DEMETRIUS</speaker>
 You are too officious
@@ -2422,7 +2422,7 @@ peas. But, I pray you, let none of your people stir
 me; I have an exposition of sleep come upon me.
 
 <speaker>TITANIA</speaker>
-Sleep thou, and I will wind thee in my arms.--
+Sleep thou, and I will wind thee in my arms.&mdash;
 Fairies, begone, and be all ways away.
 [<i>Fairies exit.</i>]
 So doth the woodbine the sweet honeysuckle
@@ -2479,7 +2479,7 @@ How came these things to pass?
 O, how mine eyes do loathe his visage now!
 
 <speaker>OBERON</speaker>
-Silence awhile.--Robin, take off this head.--
+Silence awhile.&mdash;Robin, take off this head.&mdash;
 Titania, music call; and strike more dead
 Than common sleep of all these five the sense.
 
@@ -2553,7 +2553,7 @@ Slow in pursuit, but matched in mouth like bells,
 Each under each. A cry more tunable
 Was never holloed to, nor cheered with horn,
 In Crete, in Sparta, nor in Thessaly.
-Judge when you hear.--But soft! What nymphs are
+Judge when you hear.&mdash;But soft! What nymphs are
 these?
 
 <speaker>EGEUS</speaker>
@@ -2597,16 +2597,16 @@ To sleep by hate and fear no enmity?
 My lord, I shall reply amazedly,
 Half sleep, half waking. But as yet, I swear,
 I cannot truly say how I came here.
-But, as I think--for truly would I speak,
+But, as I think&mdash;for truly would I speak,
 And now I do bethink me, so it is:
 I came with Hermia hither. Our intent
 Was to be gone from Athens, where we might,
-Without the peril of the Athenian law--
+Without the peril of the Athenian law&mdash;
 
 <speaker>EGEUS</speaker>
-Enough, enough!--My lord, you have enough.
+Enough, enough!&mdash;My lord, you have enough.
 I beg the law, the law upon his head.
-They would have stol&rsquo;n away.--They would,
+They would have stol&rsquo;n away.&mdash;They would,
 Demetrius,
 Thereby to have defeated you and me:
 You of your wife and me of my consent,
@@ -2633,10 +2633,10 @@ And will forevermore be true to it.
 
 <speaker>THESEUS</speaker>
 Fair lovers, you are fortunately met.
-Of this discourse we more will hear anon.--
+Of this discourse we more will hear anon.&mdash;
 Egeus, I will overbear your will,
 For in the temple by and by, with us,
-These couples shall eternally be knit.--
+These couples shall eternally be knit.&mdash;
 And, for the morning now is something worn,
 Our purposed hunting shall be set aside.
 Away with us to Athens. Three and three,
@@ -2687,9 +2687,9 @@ Snout the tinker! Starveling! God&rsquo;s my life! Stolen
 hence and left me asleep! I have had a most rare
 vision. I have had a dream past the wit of man to say
 what dream it was. Man is but an ass if he go about
-to expound this dream. Methought I was--there
+to expound this dream. Methought I was&mdash;there
 is no man can tell what. Methought I was and
-methought I had--but man is but a patched fool if
+methought I had&mdash;but man is but a patched fool if
 he will offer to say what methought I had. The eye of
 man hath not heard, the ear of man hath not seen,
 man&rsquo;s hand is not able to taste, his tongue to
@@ -2827,7 +2827,7 @@ But, howsoever, strange and admirable.
 [<i>Enter Lovers: Lysander, Demetrius, Hermia, and Helena.</i>]
 
 <speaker>THESEUS</speaker>
-Here come the lovers full of joy and mirth.--
+Here come the lovers full of joy and mirth.&mdash;
 Joy, gentle friends! Joy and fresh days of love
 Accompany your hearts!
 
@@ -2914,7 +2914,7 @@ To do you service.
 I will hear that play,
 For never anything can be amiss
 When simpleness and duty tender it.
-Go, bring them in--and take your places, ladies.
+Go, bring them in&mdash;and take your places, ladies.
 [<i>Philostrate exits.</i>]
 
 <speaker>HIPPOLYTA</speaker>
@@ -2980,11 +2980,11 @@ not enough to speak, but to speak true.
 
 <speaker>HIPPOLYTA</speaker>
 Indeed he hath played on this prologue like
-a child on a recorder--a sound, but not in
+a child on a recorder&mdash;a sound, but not in
 government.
 
 <speaker>THESEUS</speaker>
-His speech was like a tangled chain--nothing
+His speech was like a tangled chain&mdash;nothing
 impaired, but all disordered. Who is next?
 
 [<i>Enter Pyramus (Bottom), and Thisbe (Flute), and
@@ -3292,14 +3292,14 @@ And so the lion vanished.
 Sweet Moon, I thank thee for thy sunny beams.
    I thank thee, Moon, for shining now so bright,
 For by thy gracious, golden, glittering gleams,
-   I trust to take of truest Thisbe sight.--
+   I trust to take of truest Thisbe sight.&mdash;
       But stay! O spite!
       But mark, poor knight,
    What dreadful dole is here!
       Eyes, do you see!
       How can it be!
    O dainty duck! O dear!
-      Thy mantle good--
+      Thy mantle good&mdash;
       What, stained with blood?
    Approach, ye Furies fell!
       O Fates, come, come,
@@ -3317,7 +3317,7 @@ Beshrew my heart but I pity the man.
 [<i>as Pyramus</i>]
 O, wherefore, Nature, didst thou lions frame,
    Since lion vile hath here deflowered my dear,
-Which is--no, no--which was the fairest dame
+Which is&mdash;no, no&mdash;which was the fairest dame
    That lived, that loved, that liked, that looked with
    cheer?
       Come, tears, confound!
@@ -3370,7 +3370,7 @@ She hath spied him already with those
 sweet eyes.
 
 <speaker>DEMETRIUS</speaker>
-And thus she means, videlicet--
+And thus she means, videlicet&mdash;
 
 <speaker>FLUTE,</speaker>
 [<i>as Thisbe</i>]

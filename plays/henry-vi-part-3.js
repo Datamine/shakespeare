@@ -68,7 +68,7 @@ NORFOLK
 We&rsquo;ll all assist you. He that flies shall die.
 
 YORK
-Thanks, gentle Norfolk. Stay by me, my lords.--
+Thanks, gentle Norfolk. Stay by me, my lords.&mdash;
 And soldiers, stay and lodge by me this night.
 [<i>They go up onto a dais or platform.</i>]
 
@@ -150,7 +150,7 @@ KING HENRY
 Far be the thought of this from Henry&rsquo;s heart,
 To make a shambles of the Parliament House!
 Cousin of Exeter, frowns, words, and threats
-Shall be the war that Henry means to use.--
+Shall be the war that Henry means to use.&mdash;
 Thou factious Duke of York, descend my throne
 And kneel for grace and mercy at my feet.
 I am thy sovereign.
@@ -234,7 +234,7 @@ When I was crowned, I was but nine months old.
 
 RICHARD
 You are old enough now, and yet, methinks, you
-lose.--
+lose.&mdash;
 Father, tear the crown from the usurper&rsquo;s head.
 
 EDWARD
@@ -276,7 +276,7 @@ YORK
 &rsquo;Twas by rebellion against his king.
 
 KING HENRY, [<i>aside</i>]
-I know not what to say; my title&rsquo;s weak.--
+I know not what to say; my title&rsquo;s weak.&mdash;
 Tell me, may not a king adopt an heir?
 
 YORK  What then?
@@ -337,7 +337,7 @@ KING HENRY
 O Clifford, how thy words revive my heart!
 
 YORK
-Henry of Lancaster, resign thy crown.--
+Henry of Lancaster, resign thy crown.&mdash;
 What mutter you, or what conspire you, lords?
 
 WARWICK, [<i>to King Henry</i>]
@@ -409,7 +409,7 @@ KING HENRY
 Not for myself, Lord Warwick, but my son,
 Whom I unnaturally shall disinherit.
 But be it as it may. [<i>(To York.)</i>]
- - I here entail
+ I here entail
 The crown to thee and to thine heirs forever,
 Conditionally, that here thou take an oath
 To cease this civil war and, whilst I live,
@@ -487,7 +487,7 @@ Father, you cannot disinherit me.
 If you be king, why should not I succeed?
 
 KING HENRY
-Pardon me, Margaret.--Pardon me, sweet son.
+Pardon me, Margaret.&mdash;Pardon me, sweet son.
 The Earl of Warwick and the Duke enforced me.
 
 QUEEN MARGARET
@@ -516,7 +516,7 @@ The northern lords that have forsworn thy colors
 Will follow mine if once they see them spread;
 And spread they shall be, to thy foul disgrace
 And utter ruin of the house of York.
-Thus do I leave thee.--Come, son, let&rsquo;s away.
+Thus do I leave thee.&mdash;Come, son, let&rsquo;s away.
 Our army is ready. Come, we&rsquo;ll after them.
 
 KING HENRY
@@ -630,11 +630,11 @@ Until the white rose that I wear be dyed
 Even in the lukewarm blood of Henry&rsquo;s heart.
 
 <speaker>YORK</speaker>
-Richard, enough. I will be king or die.--
+Richard, enough. I will be king or die.&mdash;
 Brother, thou shalt to London presently,
-And whet on Warwick to this enterprise.--
+And whet on Warwick to this enterprise.&mdash;
 Thou, Richard, shalt to the Duke of Norfolk
-And tell him privily of our intent.--
+And tell him privily of our intent.&mdash;
 You, Edward, shall unto my Lord Cobham,
 With whom the Kentishmen will willingly rise;
 In them I trust, for they are soldiers
@@ -656,7 +656,7 @@ And therefore fortify your hold, my lord.	[<i>He exits.</i>]
 
 <speaker>YORK</speaker>
 Ay, with my sword. What, think&rsquo;st thou that we fear
-them?--
+them?&mdash;
 Edward and Richard, you shall stay with me;
 My brother Montague shall post to London.
 Let noble Warwick, Cobham, and the rest,
@@ -762,7 +762,7 @@ The sight of any of the house of York
 Is as a fury to torment my soul,
 And till I root out their accursed line
 And leave not one alive, I live in hell.
-Therefore--	[<i>He raises his rapier.</i>]
+Therefore&mdash;	[<i>He raises his rapier.</i>]
 
 <speaker>RUTLAND</speaker>
 O, let me pray before I take my death!
@@ -877,7 +877,7 @@ But buckler with thee blows twice two for one.
 
 <speaker>QUEEN MARGARET</speaker>
 Hold, valiant Clifford, for a thousand causes
-I would prolong a while the traitor&rsquo;s life.--
+I would prolong a while the traitor&rsquo;s life.&mdash;
 Wrath makes him deaf; speak thou, Northumberland.
 
 <speaker>NORTHUMBERLAND</speaker>
@@ -934,7 +934,7 @@ That not a tear can fall for Rutland&rsquo;s death?
 Why art thou patient, man? Thou shouldst be mad;
 And I, to make thee mad, do mock thee thus.
 Stamp, rave, and fret, that I may sing and dance.
-Thou would&rsquo;st be fee&rsquo;d, I see, to make me sport.--
+Thou would&rsquo;st be fee&rsquo;d, I see, to make me sport.&mdash;
 York cannot speak unless he wear a crown.
 A crown for York!	[<i>She is handed a paper crown.</i>]
 And, lords, bow low to him.
@@ -944,7 +944,7 @@ Ay, marry, sir, now looks he like a king.
 Ay, this is he that took King Henry&rsquo;s chair,
 And this is he was his adopted heir.
 But how is it that great Plantagenet
-Is crowned so soon and broke his solemn oath?--
+Is crowned so soon and broke his solemn oath?&mdash;
 As I bethink me, you should not be king
 Till our King Henry had shook hands with Death.
 And will you pale your head in Henry&rsquo;s glory
@@ -1028,7 +1028,7 @@ And say "&ldquo;Alas, it was a piteous deed.&rdquo;"
 There, take the crown and, with the crown, my
 curse,
 And in thy need such comfort come to thee
-As now I reap at thy too cruel hand.--
+As now I reap at thy too cruel hand.&mdash;
 Hard-hearted Clifford, take me from the world,
 My soul to heaven, my blood upon your heads.
 
@@ -1314,7 +1314,7 @@ That cries "&ldquo;Retire!&rdquo;" if Warwick bid him stay.
 
 <speaker>EDWARD</speaker>
 Lord Warwick, on thy shoulder will I lean,
-And when thou fail&rsquo;st--as God forbid the hour!--
+And when thou fail&rsquo;st&mdash;as God forbid the hour!&mdash;
 Must Edward fall, which peril heaven forfend.
 
 <speaker>WARWICK</speaker>
@@ -1425,7 +1425,7 @@ How it doth grieve me that thy head is here.
 My lord, cheer up your spirits; our foes are nigh,
 And this soft courage makes your followers faint.
 You promised knighthood to our forward son.
-Unsheathe your sword and dub him presently.--
+Unsheathe your sword and dub him presently.&mdash;
 Edward, kneel down.	[<i>He kneels.</i>]
 
 <speaker>KING HENRY,</speaker>
@@ -1535,7 +1535,7 @@ You said so much before, and yet you fled.
 No, nor your manhood that durst make you stay.
 
 <speaker>RICHARD</speaker>
-Northumberland, I hold thee reverently.--
+Northumberland, I hold thee reverently.&mdash;
 Break off the parley, for scarce I can refrain
 The execution of my big-swoll&rsquo;n heart
 Upon that Clifford, that cruel child-killer.
@@ -1601,7 +1601,7 @@ To let thy tongue detect thy baseborn heart?
 
 <speaker>EDWARD</speaker>
 A wisp of straw were worth a thousand crowns
-To make this shameless callet know herself.--
+To make this shameless callet know herself.&mdash;
 Helen of Greece was fairer far than thou,
 Although thy husband may be Menelaus;
 And ne&rsquo;er was Agamemnon&rsquo;s brother wronged
@@ -1632,7 +1632,7 @@ Or bathed thy growing with our heated bloods.
 <speaker>EDWARD</speaker>
 And in this resolution, I defy thee,
 Not willing any longer conference,
-Since thou denied&rsquo;st the gentle king to speak.--
+Since thou denied&rsquo;st the gentle king to speak.&mdash;
 Sound, trumpets! Let our bloody colors wave;
 And either victory or else a grave!
 
@@ -1720,7 +1720,7 @@ Now, lords, take leave until we meet again,
 Where&rsquo;er it be, in heaven or in Earth.
 
 <speaker>RICHARD</speaker>
-Brother, give me thy hand.--And, gentle Warwick,
+Brother, give me thy hand.&mdash;And, gentle Warwick,
 Let me embrace thee in my weary arms.
 I that did never weep now melt with woe
 That winter should cut off our springtime so.
@@ -1822,9 +1822,9 @@ And to conclude, the shepherd&rsquo;s homely curds,
 His cold thin drink out of his leather bottle,
 His wonted sleep under a fresh tree&rsquo;s shade,
 All which secure and sweetly he enjoys,
-Is far beyond a prince&rsquo;s delicates--
+Is far beyond a prince&rsquo;s delicates&mdash;
 His viands sparkling in a golden cup,
-His body couched in a curious bed--
+His body couched in a curious bed&mdash;
 When care, mistrust, and treason waits on him.
 
 [<i>Alarum. Enter at one door a Son that hath killed his
@@ -2045,14 +2045,14 @@ Now death shall stop his dismal threat&rsquo;ning sound,
 And his ill-boding tongue no more shall speak.
 
 <speaker>WARWICK</speaker>
-I think his understanding is bereft.--
+I think his understanding is bereft.&mdash;
 Speak, Clifford, dost thou know who speaks to
-thee?--
+thee?&mdash;
 Dark cloudy death o&rsquo;ershades his beams of life,
 And he nor sees nor hears us what we say.
 
 <speaker>RICHARD</speaker>
-O, would he did--and so, perhaps, he doth!
+O, would he did&mdash;and so, perhaps, he doth!
 &rsquo;Tis but his policy to counterfeit,
 Because he would avoid such bitter taunts
 Which in the time of death he gave our father.
@@ -2115,7 +2115,7 @@ To effect this marriage, so it please my lord.
 Even as thou wilt, sweet Warwick, let it be;
 For in thy shoulder do I build my seat,
 And never will I undertake the thing
-Wherein thy counsel and consent is wanting.--
+Wherein thy counsel and consent is wanting.&mdash;
 Richard, I will create thee Duke of Gloucester,
 And George, of Clarence. Warwick as ourself
 Shall do and undo as him pleaseth best.
@@ -2530,7 +2530,7 @@ Her looks doth argue her replete with modesty;
 Her words doth show her wit incomparable;
 All her perfections challenge sovereignty.
 One way or other, she is for a king,
-And she shall be my love or else my queen.--
+And she shall be my love or else my queen.&mdash;
 Say that King Edward take thee for his queen?
 
 <speaker>LADY GREY</speaker>
@@ -2609,14 +2609,14 @@ And brought your prisoner to your palace gate.
 See that he be conveyed unto the Tower.
 [<i>Nobleman exits.</i>]
 And go we, brothers, to the man that took him,
-To question of his apprehension.--
-Widow, go you along.--Lords, use her honorably.
+To question of his apprehension.&mdash;
+Widow, go you along.&mdash;Lords, use her honorably.
 [<i>They exit.
 Richard remains.</i>]
 
 <speaker>RICHARD</speaker>
 Ay, Edward will use women honorably!
-Would he were wasted--marrow, bones, and all--
+Would he were wasted&mdash;marrow, bones, and all&mdash;
 That from his loins no hopeful branch may spring
 To cross me from the golden time I look for.
 And yet, between my soul&rsquo;s desire and me,
@@ -2928,7 +2928,7 @@ Mine ear hath tempted judgment to desire.
 Then, Warwick, thus: our sister shall be Edward&rsquo;s.
 And now forthwith shall articles be drawn
 Touching the jointure that your king must make,
-Which with her dowry shall be counterpoised.--
+Which with her dowry shall be counterpoised.&mdash;
 Draw near, Queen Margaret, and be a witness
 That Bona shall be wife to the English king.
 
@@ -2951,7 +2951,7 @@ That your estate requires and mine can yield.
 
 <speaker>WARWICK</speaker>
 Henry now lives in Scotland at his ease,
-Where, having nothing, nothing can he lose.--
+Where, having nothing, nothing can he lose.&mdash;
 And as for you yourself, our quondam queen,
 You have a father able to maintain you,
 And better &rsquo;twere you troubled him than France.
@@ -2977,7 +2977,7 @@ Sent from your brother, Marquess Montague.
 [<i>(To Lewis.)</i>]
  These from our king unto your Majesty.
 [<i>(To Margaret.)</i>]
- And, madam, these for you--from
+ And, madam, these for you&mdash;from
 whom, I know not.	[<i>They all read their letters.</i>]
 
 <speaker>OXFORD,</speaker>
@@ -3013,7 +3013,7 @@ This proveth Edward&rsquo;s love and Warwick&rsquo;s honesty.
 <speaker>WARWICK</speaker>
 King Lewis, I here protest in sight of heaven
 And by the hope I have of heavenly bliss,
-That I am clear from this misdeed of Edward&rsquo;s--
+That I am clear from this misdeed of Edward&rsquo;s&mdash;
 No more my king, for he dishonors me,
 But most himself, if he could see his shame.
 Did I forget that by the house of York
@@ -3360,7 +3360,7 @@ daughter.
 
 <speaker>CLARENCE,</speaker>
 [<i>aside</i>]
-Belike the elder; Clarence will have the younger.--
+Belike the elder; Clarence will have the younger.&mdash;
 Now, brother king, farewell, and sit you fast,
 For I will hence to Warwick&rsquo;s other daughter,
 That, though I want a kingdom, yet in marriage
@@ -3421,7 +3421,7 @@ The common people by numbers swarm to us.
 
 [<i>Enter Clarence and Somerset.</i>]
 
-But see where Somerset and Clarence comes.--
+But see where Somerset and Clarence comes.&mdash;
 Speak suddenly, my lords: are we all friends?
 
 <speaker>CLARENCE</speaker>
@@ -3563,13 +3563,13 @@ My mind exceeds the compass of her wheel.
 Then for his mind be Edward England&rsquo;s king,
 [<i>Takes off his crown.</i>]
 But Henry now shall wear the English crown
-And be true king indeed, thou but the shadow.--
+And be true king indeed, thou but the shadow.&mdash;
 My lord of Somerset, at my request,
 See that forthwith Duke Edward be conveyed
 Unto my brother, Archbishop of York.
 When I have fought with Pembroke and his fellows,
 I&rsquo;ll follow you and tell what answer
-Lewis and the Lady Bona send to him.--
+Lewis and the Lady Bona send to him.&mdash;
 Now for awhile farewell, good Duke of York.
 
 [<i>They begin to lead him out forcibly.</i>]
@@ -3642,8 +3642,8 @@ I am informed that he comes towards London
 To set the crown once more on Henry&rsquo;s head.
 Guess thou the rest: King Edward&rsquo;s friends must
 down.
-But to prevent the tyrant&rsquo;s violence--
-For trust not him that hath once broken faith--
+But to prevent the tyrant&rsquo;s violence&mdash;
+For trust not him that hath once broken faith&mdash;
 I&rsquo;ll hence forthwith unto the sanctuary
 To save at least the heir of Edward&rsquo;s right.
 There shall I rest secure from force and fraud.
@@ -3679,7 +3679,7 @@ and a Huntsman with him.</i>]
 This way, my lord, for this way lies the game.
 
 <speaker>KING EDWARD</speaker>
-Nay, this way, man. See where the huntsmen stand.--
+Nay, this way, man. See where the huntsmen stand.&mdash;
 Now, brother of Gloucester, Lord Hastings, and the
 rest,
 Stand you thus close to steal the Bishop&rsquo;s deer?
@@ -3744,7 +3744,7 @@ For that it made my imprisonment a pleasure,
 Ay, such a pleasure as encaged birds
 Conceive when, after many moody thoughts,
 At last by notes of household harmony
-They quite forget their loss of liberty.--
+They quite forget their loss of liberty.&mdash;
 But, Warwick, after God thou sett&rsquo;st me free,
 And chiefly, therefore, I thank God and thee.
 He was the author, thou the instrument.
@@ -3796,8 +3796,8 @@ For on thy fortune I repose myself.
 <speaker>WARWICK</speaker>
 Why, then, though loath, yet must I be content.
 We&rsquo;ll yoke together like a double shadow
-To Henry&rsquo;s body, and supply his place--
-I mean, in bearing weight of government--
+To Henry&rsquo;s body, and supply his place&mdash;
+I mean, in bearing weight of government&mdash;
 While he enjoys the honor and his ease.
 And, Clarence, now then it is more than needful
 Forthwith that Edward be pronounced a traitor
@@ -3811,7 +3811,7 @@ Ay, therein Clarence shall not want his part.
 
 <speaker>KING HENRY</speaker>
 But with the first of all your chief affairs
-Let me entreat--for I command no more--
+Let me entreat&mdash;for I command no more&mdash;
 That Margaret your queen and my son Edward
 Be sent for, to return from France with speed,
 For till I see them here, by doubtful fear
@@ -3991,7 +3991,7 @@ Our dukedom, till God please to send the rest.
 
 <speaker>MONTGOMERY</speaker>
 Then fare you well, for I will hence again.
-I came to serve a king and not a duke.--
+I came to serve a king and not a duke.&mdash;
 Drummer, strike up, and let us march away.
 [<i>The Drum begins to march.</i>]
 
@@ -4030,7 +4030,7 @@ Ay, now my sovereign speaketh like himself,
 And now will I be Edward&rsquo;s champion.
 
 <speaker>HASTINGS</speaker>
-Sound, trumpet! Edward shall be here proclaimed.--
+Sound, trumpet! Edward shall be here proclaimed.&mdash;
 Come, fellow soldier, make thou proclamation.
 [<i>Flourish. Sound.</i>]
 
@@ -4087,17 +4087,17 @@ In Warwickshire I have true-hearted friends,
 Not mutinous in peace yet bold in war.
 Those will I muster up; and thou, son Clarence,
 Shalt stir up in Suffolk, Norfolk, and in Kent
-The knights and gentlemen to come with thee.--
+The knights and gentlemen to come with thee.&mdash;
 Thou, brother Montague, in Buckingham,
 Northampton, and in Leicestershire shalt find
-Men well inclined to hear what thou command&rsquo;st.--
+Men well inclined to hear what thou command&rsquo;st.&mdash;
 And thou, brave Oxford, wondrous well beloved,
-In Oxfordshire shalt muster up thy friends.--
+In Oxfordshire shalt muster up thy friends.&mdash;
 My sovereign, with the loving citizens,
 Like to his island girt in with the ocean,
 Or modest Dian circled with her nymphs,
 Shall rest in London till we come to him.
-Fair lords, take leave, and stand not to reply.--
+Fair lords, take leave, and stand not to reply.&mdash;
 Farewell, my sovereign.
 
 <speaker>KING HENRY</speaker>
@@ -4157,10 +4157,10 @@ all wearing the white rose.</i>]
 
 <speaker>KING EDWARD</speaker>
 Seize on the shamefaced Henry, bear him hence,
-And once again proclaim us King of England.--
+And once again proclaim us King of England.&mdash;
 You are the fount that makes small brooks to flow.
 Now stops thy spring; my sea shall suck them dry
-And swell so much the higher by their ebb.--
+And swell so much the higher by their ebb.&mdash;
 Hence with him to the Tower. Let him not speak.
 [<i>Soldiers exit with King Henry and Exeter.</i>]
 And, lords, towards Coventry bend we our course,
@@ -4181,7 +4181,7 @@ Brave warriors, march amain towards Coventry.
 Coventry, two Messengers, and others, upon the walls.</i>]
 
 <speaker>WARWICK</speaker>
-Where is the post that came from valiant Oxford?--
+Where is the post that came from valiant Oxford?&mdash;
 How far hence is thy lord, mine honest fellow?
 
 <speaker>FIRST MESSENGER</speaker>
@@ -4360,7 +4360,7 @@ with Soldiers, Drum and Colors.</i>]
 And lo, where George of Clarence sweeps along,
 Of force enough to bid his brother battle,
 With whom an upright zeal to right prevails
-More than the nature of a brother&rsquo;s love.--
+More than the nature of a brother&rsquo;s love.&mdash;
 Come, Clarence, come; thou wilt, if Warwick call.
 
 <speaker>CLARENCE</speaker>
@@ -4380,12 +4380,12 @@ Than Jephthah when he sacrificed his daughter.
 I am so sorry for my trespass made
 That, to deserve well at my brother&rsquo;s hands,
 I here proclaim myself thy mortal foe,
-With resolution, wheresoe&rsquo;er I meet thee--
-As I will meet thee if thou stir abroad--
+With resolution, wheresoe&rsquo;er I meet thee&mdash;
+As I will meet thee if thou stir abroad&mdash;
 To plague thee for thy foul misleading me.
 And so, proud-hearted Warwick, I defy thee
-And to my brother turn my blushing cheeks.--
-Pardon me, Edward, I will make amends.--
+And to my brother turn my blushing cheeks.&mdash;
+Pardon me, Edward, I will make amends.&mdash;
 And, Richard, do not frown upon my faults,
 For I will henceforth be no more unconstant.
 
@@ -4409,7 +4409,7 @@ I will away towards Barnet presently
 And bid thee battle, Edward, if thou dar&rsquo;st.
 
 <speaker>KING EDWARD</speaker>
-Yes, Warwick, Edward dares, and leads the way.--
+Yes, Warwick, Edward dares, and leads the way.&mdash;
 [<i>Warwick exits from the walls and descends.</i>]
 Lords, to the field! Saint George and victory!
 [<i>They exit. March. Warwick and his company follows.</i>]
@@ -4461,7 +4461,7 @@ Ah, Warwick, Warwick, wert thou as we are,
 We might recover all our loss again.
 The Queen from France hath brought a puissant
 power;
-Even now we heard the news. Ah, could&rsquo;st thou fly--
+Even now we heard the news. Ah, could&rsquo;st thou fly&mdash;
 
 <speaker>WARWICK</speaker>
 Why, then, I would not fly. Ah, Montague,
@@ -4562,7 +4562,7 @@ From shelves and rocks that threaten us with wrack.
 As good to chide the waves as speak them fair.
 And what is Edward but a ruthless sea?
 What Clarence but a quicksand of deceit?
-And Richard but a ragged fatal rock--
+And Richard but a ragged fatal rock&mdash;
 All these the enemies to our poor bark?
 Say you can swim: alas, &rsquo;tis but awhile;
 Tread on the sand: why, there you quickly sink;
@@ -4601,7 +4601,7 @@ Go home to bed and, like the owl by day,
 If he arise, be mocked and wondered at.
 
 <speaker>QUEEN MARGARET</speaker>
-Thanks, gentle Somerset.--Sweet Oxford, thanks.
+Thanks, gentle Somerset.&mdash;Sweet Oxford, thanks.
 
 <speaker>PRINCE EDWARD</speaker>
 And take his thanks that yet hath nothing else.
@@ -4687,7 +4687,7 @@ under guard.</i>]
 
 <speaker>KING EDWARD</speaker>
 Bring forth the gallant; let us hear him speak.
-What, can so young a thorn begin to prick?--
+What, can so young a thorn begin to prick?&mdash;
 Edward, what satisfaction canst thou make
 For bearing arms, for stirring up my subjects,
 And all the trouble thou hast turned me to?
@@ -4802,7 +4802,7 @@ Away with her. Go bear her hence perforce.
 <speaker>QUEEN MARGARET</speaker>
 Nay, never bear me hence! Dispatch me here.
 Here sheathe thy sword; I&rsquo;ll pardon thee my death.
-What, wilt thou not?--Then, Clarence, do it thou.
+What, wilt thou not?&mdash;Then, Clarence, do it thou.
 
 <speaker>CLARENCE</speaker>
 By heaven, I will not do thee so much ease.
@@ -4857,7 +4857,7 @@ with the Lieutenant above on the Tower walls.</i>]
 Good day, my lord. What, at your book so hard?
 
 <speaker>KING HENRY</speaker>
-Ay, my good lord--"my lord,&rdquo;" I should say rather.
+Ay, my good lord&mdash;"my lord,&rdquo;" I should say rather.
 &rsquo;Tis sin to flatter; "&ldquo;good&rdquo;" was little better:
 "&ldquo;Good Gloucester&rdquo;" and "&ldquo;good devil&rdquo;" were alike,
 And both preposterous: therefore, not "&ldquo;good lord.&rdquo;"
@@ -4934,7 +4934,7 @@ Not like the fruit of such a goodly tree.
 Teeth hadst thou in thy head when thou wast born
 To signify thou cam&rsquo;st to bite the world.
 And if the rest be true which I have heard,
-Thou cam&rsquo;st--
+Thou cam&rsquo;st&mdash;
 
 <speaker>RICHARD</speaker>
 I&rsquo;ll hear no more. Die, prophet, in thy speech;
@@ -4953,7 +4953,7 @@ See how my sword weeps for the poor king&rsquo;s death.
 O, may such purple tears be always shed
 From those that wish the downfall of our house.
 If any spark of life be yet remaining,
-Down, down to hell, and say I sent thee thither--
+Down, down to hell, and say I sent thee thither&mdash;
 [<i>Stabs him again.</i>]
 I that have neither pity, love, nor fear.
 Indeed, &rsquo;tis true that Henry told me of,
@@ -5004,8 +5004,8 @@ Montague,
 That in their chains fettered the kingly lion
 And made the forest tremble when they roared.
 Thus have we swept suspicion from our seat
-And made our footstool of security.--
-Come hither, Bess, and let me kiss my boy.--
+And made our footstool of security.&mdash;
+Come hither, Bess, and let me kiss my boy.&mdash;
 Young Ned, for thee, thine uncles and myself
 Have in our armors watched the winter&rsquo;s night,
 Went all afoot in summer&rsquo;s scalding heat,
