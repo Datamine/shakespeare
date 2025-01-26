@@ -10,7 +10,11 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 
 ### TODO
 - return shakespeare head to original position during rotation
-- change ASCII quotation marks and apostrophes into HTML ldquo/rdquo/apos.
+- Go through all the character files and fix the formatting.. what we have is not ideal
+
+
+### Characters
+The text sources are not quite satisfactory, pulled the formatting from Folger sites like https://www.folger.edu/explore/shakespeares-works/coriolanus/read/characterList/
 
 ### Text Sources
 All the Shakespeare plays in `plays/` are from https://github.com/cobanov/shakespeare-dataset. That repository itself appears to be sourced from the Folger Shakespeare Library.

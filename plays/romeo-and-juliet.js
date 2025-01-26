@@ -13,11 +13,11 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 [<i>Enter Sampson and Gregory, with swords and bucklers,
 of the house of Capulet.</i>]
 
-SAMPSON  Gregory, on my word we'll not carry coals.
+SAMPSON  Gregory, on my word we&rsquo;ll not carry coals.
 
 GREGORY  No, for then we should be colliers.
 
-SAMPSON  I mean, an we be in choler, we'll draw.
+SAMPSON  I mean, an we be in choler, we&rsquo;ll draw.
 
 GREGORY  Ay, while you live, draw your neck out of
 collar.
@@ -29,24 +29,24 @@ GREGORY  But thou art not quickly moved to strike.
 SAMPSON  A dog of the house of Montague moves me.
 
 GREGORY  To move is to stir, and to be valiant is to
-stand. Therefore if thou art moved thou runn'st
+stand. Therefore if thou art moved thou runn&rsquo;st
 away.
 
 SAMPSON  A dog of that house shall move me to stand. I
-will take the wall of any man or maid of Montague's.
+will take the wall of any man or maid of Montague&rsquo;s.
 
 GREGORY  That shows thee a weak slave, for the weakest
 goes to the wall.
 
-SAMPSON  'Tis true, and therefore women, being the
+SAMPSON  &rsquo;Tis true, and therefore women, being the
 weaker vessels, are ever thrust to the wall. Therefore
-I will push Montague's men from the wall and
+I will push Montague&rsquo;s men from the wall and
 thrust his maids to the wall.
 
 GREGORY  The quarrel is between our masters and us
 their men.
 
-SAMPSON  'Tis all one. I will show myself a tyrant.
+SAMPSON  &rsquo;Tis all one. I will show myself a tyrant.
 When I have fought with the men, I will be civil
 with the maids; I will cut off their heads.
 
@@ -58,9 +58,9 @@ Take it in what sense thou wilt.
 GREGORY  They must take it in sense that feel it.
 
 SAMPSON  Me they shall feel while I am able to stand,
-and 'tis known I am a pretty piece of flesh.
+and &rsquo;tis known I am a pretty piece of flesh.
 
-GREGORY  'Tis well thou art not fish; if thou hadst, thou
+GREGORY  &rsquo;Tis well thou art not fish; if thou hadst, thou
 hadst been poor-john. Draw thy tool. Here comes
 of the house of Montagues.
 
@@ -93,7 +93,7 @@ ABRAM  Do you bite your thumb at us, sir?
 
 SAMPSON, [<i>aside to Gregory</i>]
  - Is the law of our side if I
-say "Ay"?
+say "&ldquo;Ay&rdquo;"?
 
 GREGORY, [<i>aside to Sampson</i>]
  - No.
@@ -115,8 +115,8 @@ SAMPSON  Well, sir.
 [<i>Enter Benvolio.</i>]
 
 GREGORY, [<i>aside to Sampson</i>]
- - Say "better"; here comes
-one of my master's kinsmen.
+ - Say "&ldquo;better&rdquo;"; here comes
+one of my master&rsquo;s kinsmen.
 
 SAMPSON  Yes, better, sir.
 
@@ -184,7 +184,7 @@ And hear the sentence of your moved prince.
 Three civil brawls bred of an airy word
 By thee, old Capulet, and Montague,
 Have thrice disturbed the quiet of our streets
-And made Verona's ancient citizens
+And made Verona&rsquo;s ancient citizens
 Cast by their grave-beseeming ornaments
 To wield old partisans in hands as old,
 Cankered with peace, to part your cankered hate.
@@ -226,7 +226,7 @@ A troubled mind drove me to walk abroad,
 Where underneath the grove of sycamore
 That westward rooteth from this city side,
 So early walking did I see your son.
-Towards him I made, but he was 'ware of me
+Towards him I made, but he was &rsquo;ware of me
 And stole into the covert of the wood.
 I, measuring his affections by my own
 (Which then most sought where most might not be
@@ -237,11 +237,11 @@ And gladly shunned who gladly fled from me.
 
 MONTAGUE
 Many a morning hath he there been seen,
-With tears augmenting the fresh morning's dew,
+With tears augmenting the fresh morning&rsquo;s dew,
 Adding to clouds more clouds with his deep sighs.
 But all so soon as the all-cheering sun
 Should in the farthest east begin to draw
-The shady curtains from Aurora's bed,
+The shady curtains from Aurora&rsquo;s bed,
 Away from light steals home my heavy son
 And private in his chamber pens himself,
 Shuts up his windows, locks fair daylight out,
@@ -260,7 +260,7 @@ Have you importuned him by any means?
 
 MONTAGUE
 Both by myself and many other friends.
-But he, his own affections' counselor,
+But he, his own affections&rsquo; counselor,
 Is to himself--I will not say how true,
 But to himself so secret and so close,
 So far from sounding and discovery,
@@ -274,11 +274,11 @@ We would as willingly give cure as know.
 
 BENVOLIO
 See where he comes. So please you, step aside.
-I'll know his grievance or be much denied.
+I&rsquo;ll know his grievance or be much denied.
 
 MONTAGUE
 I would thou wert so happy by thy stay
-To hear true shrift.--Come, madam, let's away.
+To hear true shrift.--Come, madam, let&rsquo;s away.
 [<i>Montague and Lady Montague exit.</i>]
 
 BENVOLIO
@@ -293,7 +293,7 @@ ROMEO  Ay me, sad hours seem long.
 Was that my father that went hence so fast?
 
 BENVOLIO
-It was. What sadness lengthens Romeo's hours?
+It was. What sadness lengthens Romeo&rsquo;s hours?
 
 ROMEO
 Not having that which, having, makes them short.
@@ -316,7 +316,7 @@ Alas that love, whose view is muffled still,
 Should without eyes see pathways to his will!
 Where shall we dine?--O me! What fray was here?
 Yet tell me not, for I have heard it all.
-Here's much to do with hate, but more with love.
+Here&rsquo;s much to do with hate, but more with love.
 Why then, O brawling love, O loving hate,
 O anything of nothing first create!
 O heavy lightness, serious vanity,
@@ -331,15 +331,15 @@ BENVOLIO  No, coz, I rather weep.
 ROMEO
 Good heart, at what?
 
-BENVOLIO  At thy good heart's oppression.
+BENVOLIO  At thy good heart&rsquo;s oppression.
 
-ROMEO  Why, such is love's transgression.
+ROMEO  Why, such is love&rsquo;s transgression.
 Griefs of mine own lie heavy in my breast,
 Which thou wilt propagate to have it pressed
 With more of thine. This love that thou hast shown
 Doth add more grief to too much of mine own.
 Love is a smoke made with the fume of sighs;
-Being purged, a fire sparkling in lovers' eyes;
+Being purged, a fire sparkling in lovers&rsquo; eyes;
 Being vexed, a sea nourished with loving tears.
 What is it else? A madness most discreet,
 A choking gall, and a preserving sweet.
@@ -350,7 +350,7 @@ An if you leave me so, you do me wrong.
 
 ROMEO
 Tut, I have lost myself. I am not here.
-This is not Romeo. He's some other where.
+This is not Romeo. He&rsquo;s some other where.
 
 BENVOLIO
 Tell me in sadness, who is that you love?
@@ -369,18 +369,18 @@ BENVOLIO
 I aimed so near when I supposed you loved.
 
 ROMEO
-A right good markman! And she's fair I love.
+A right good markman! And she&rsquo;s fair I love.
 
 BENVOLIO
 A right fair mark, fair coz, is soonest hit.
 
 ROMEO
-Well in that hit you miss. She'll not be hit
-With Cupid's arrow. She hath Dian's wit,
+Well in that hit you miss. She&rsquo;ll not be hit
+With Cupid&rsquo;s arrow. She hath Dian&rsquo;s wit,
 And, in strong proof of chastity well armed,
-From love's weak childish bow she lives uncharmed.
+From love&rsquo;s weak childish bow she lives uncharmed.
 She will not stay the siege of loving terms,
-Nor bide th' encounter of assailing eyes,
+Nor bide th&rsquo; encounter of assailing eyes,
 Nor ope her lap to saint-seducing gold.
 O, she is rich in beauty, only poor
 That, when she dies, with beauty dies her store.
@@ -407,9 +407,9 @@ BENVOLIO
 By giving liberty unto thine eyes.
 Examine other beauties.
 
-ROMEO  'Tis the way
+ROMEO  &rsquo;Tis the way
 To call hers, exquisite, in question more.
-These happy masks that kiss fair ladies' brows,
+These happy masks that kiss fair ladies&rsquo; brows,
 Being black, puts us in mind they hide the fair.
 He that is strucken blind cannot forget
 The precious treasure of his eyesight lost.
@@ -419,7 +419,7 @@ Where I may read who passed that passing fair?
 Farewell. Thou canst not teach me to forget.
 
 BENVOLIO
-I'll pay that doctrine or else die in debt.
+I&rsquo;ll pay that doctrine or else die in debt.
 [<i>They exit.</i>]
 
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
@@ -428,16 +428,16 @@ I'll pay that doctrine or else die in debt.
 
 <speaker>CAPULET</speaker>
 But Montague is bound as well as I,
-In penalty alike, and 'tis not hard, I think,
+In penalty alike, and &rsquo;tis not hard, I think,
 For men so old as we to keep the peace.
 
 <speaker>PARIS</speaker>
 Of honorable reckoning are you both,
-And pity 'tis you lived at odds so long.
+And pity &rsquo;tis you lived at odds so long.
 But now, my lord, what say you to my suit?
 
 <speaker>CAPULET</speaker>
-But saying o'er what I have said before.
+But saying o&rsquo;er what I have said before.
 My child is yet a stranger in the world.
 She hath not seen the change of fourteen years.
 Let two more summers wither in their pride
@@ -449,7 +449,7 @@ Younger than she are happy mothers made.
 <speaker>CAPULET</speaker>
 And too soon marred are those so early made.
 Earth hath swallowed all my hopes but she;
-She's the hopeful lady of my earth.
+She&rsquo;s the hopeful lady of my earth.
 But woo her, gentle Paris, get her heart;
 My will to her consent is but a part.
 And, she agreed, within her scope of choice
@@ -467,7 +467,7 @@ Among fresh fennel buds shall you this night
 Inherit at my house. Hear all, all see,
 And like her most whose merit most shall be;
 Which, on more view of many, mine, being one,
-May stand in number, though in reck'ning none.
+May stand in number, though in reck&rsquo;ning none.
 Come go with me.	[<i>To Servingman, giving him a list.</i>]
 Go, sirrah, trudge about
 Through fair Verona, find those persons out
@@ -489,10 +489,10 @@ In good time!
 
 <speaker>BENVOLIO,</speaker>
 [<i>to Romeo</i>]
-Tut, man, one fire burns out another's burning;
-One pain is lessened by another's anguish.
+Tut, man, one fire burns out another&rsquo;s burning;
+One pain is lessened by another&rsquo;s anguish.
 Turn giddy, and be helped by backward turning.
-One desperate grief cures with another's languish.
+One desperate grief cures with another&rsquo;s languish.
 Take thou some new infection to thy eye,
 And the rank poison of the old will die.
 
@@ -511,11 +511,11 @@ Why Romeo, art thou mad?
 <speaker>ROMEO</speaker>
 Not mad, but bound more than a madman is,
 Shut up in prison, kept without my food,
-Whipped and tormented, and--good e'en, good
+Whipped and tormented, and--good e&rsquo;en, good
 fellow.
 
 <speaker>SERVINGMAN</speaker>
-God gi' good e'en. I pray, sir, can you
+God gi&rsquo; good e&rsquo;en. I pray, sir, can you
 read?
 
 <speaker>ROMEO</speaker>
@@ -557,19 +557,19 @@ To our house.
 Whose house?
 
 <speaker>SERVINGMAN</speaker>
-My master's.
+My master&rsquo;s.
 
 <speaker>ROMEO</speaker>
 Indeed I should have asked thee that before.
 
 <speaker>SERVINGMAN</speaker>
-Now I'll tell you without asking. My
+Now I&rsquo;ll tell you without asking. My
 master is the great rich Capulet, and, if you be not
 of the house of Montagues, I pray come and crush a
 cup of wine. Rest you merry.	[<i>He exits.</i>]
 
 <speaker>BENVOLIO</speaker>
-At this same ancient feast of Capulet's
+At this same ancient feast of Capulet&rsquo;s
 Sups the fair Rosaline whom thou so loves,
 With all the admired beauties of Verona.
 Go thither, and with unattainted eye
@@ -582,18 +582,18 @@ Maintains such falsehood, then turn tears to fire;
 And these who, often drowned, could never die,
 Transparent heretics, be burnt for liars.
 One fairer than my love? The all-seeing sun
-Ne'er saw her match since first the world begun.
+Ne&rsquo;er saw her match since first the world begun.
 
 <speaker>BENVOLIO</speaker>
 Tut, you saw her fair, none else being by,
 Herself poised with herself in either eye;
 But in that crystal scales let there be weighed
-Your lady's love against some other maid
+Your lady&rsquo;s love against some other maid
 That I will show you shining at this feast,
 And she shall scant show well that now seems best.
 
 <speaker>ROMEO</speaker>
-I'll go along, no such sight to be shown,
+I&rsquo;ll go along, no such sight to be shown,
 But to rejoice in splendor of mine own.
 [<i>They exit.</i>]
 
@@ -602,12 +602,12 @@ But to rejoice in splendor of mine own.
 [<i>Enter Lady Capulet and Nurse.</i>]
 
 <speaker>LADY CAPULET</speaker>
-Nurse, where's my daughter? Call her forth to me.
+Nurse, where&rsquo;s my daughter? Call her forth to me.
 
 <speaker>NURSE</speaker>
 Now, by my maidenhead at twelve year old,
 I bade her come.--What, lamb! What, ladybird!
-God forbid. Where's this girl? What, Juliet!
+God forbid. Where&rsquo;s this girl? What, Juliet!
 
 [<i>Enter Juliet.</i>]
 
@@ -623,18 +623,18 @@ Madam, I am here. What is your will?
 <speaker>LADY CAPULET</speaker>
 This is the matter.--Nurse, give leave awhile.
 We must talk in secret.--Nurse, come back again.
-I have remembered me, thou 's hear our counsel.
-Thou knowest my daughter's of a pretty age.
+I have remembered me, thou &rsquo;s hear our counsel.
+Thou knowest my daughter&rsquo;s of a pretty age.
 
 <speaker>NURSE</speaker>
 Faith, I can tell her age unto an hour.
 
 <speaker>LADY CAPULET</speaker>
-She's not fourteen.
+She&rsquo;s not fourteen.
 
 <speaker>NURSE</speaker>
-I'll lay fourteen of my teeth (and yet, to my teen
-be it spoken, I have but four) she's not fourteen.
+I&rsquo;ll lay fourteen of my teeth (and yet, to my teen
+be it spoken, I have but four) she&rsquo;s not fourteen.
 How long is it now to Lammastide?
 
 <speaker>LADY CAPULET</speaker>
@@ -648,7 +648,7 @@ Were of an age. Well, Susan is with God;
 She was too good for me. But, as I said,
 On Lammas Eve at night shall she be fourteen.
 That shall she. Marry, I remember it well.
-'Tis since the earthquake now eleven years,
+&rsquo;Tis since the earthquake now eleven years,
 And she was weaned (I never shall forget it)
 Of all the days of the year, upon that day.
 For I had then laid wormwood to my dug,
@@ -658,50 +658,50 @@ Nay, I do bear a brain. But, as I said,
 When it did taste the wormwood on the nipple
 Of my dug and felt it bitter, pretty fool,
 To see it tetchy and fall out with the dug.
-"Shake," quoth the dovehouse. 'Twas no need, I
+"&ldquo;Shake,&rdquo;" quoth the dovehouse. &rsquo;Twas no need, I
 trow,
 To bid me trudge.
 And since that time it is eleven years.
-For then she could stand high-lone. Nay, by th'
+For then she could stand high-lone. Nay, by th&rsquo;
 rood,
 She could have run and waddled all about,
 For even the day before, she broke her brow,
 And then my husband (God be with his soul,
 He was a merry man) took up the child.
-"Yea," quoth he, "Dost thou fall upon thy face?
+"&ldquo;Yea,&rdquo;" quoth he, "&ldquo;Dost thou fall upon thy face?
 Thou wilt fall backward when thou hast more wit,
-Wilt thou not, Jule?" And, by my holidam,
-The pretty wretch left crying and said "Ay."
+Wilt thou not, Jule?&rdquo;" And, by my holidam,
+The pretty wretch left crying and said "&ldquo;Ay.&rdquo;"
 To see now how a jest shall come about!
 I warrant, an I should live a thousand years,
-I never should forget it. "Wilt thou not, Jule?"
+I never should forget it. "&ldquo;Wilt thou not, Jule?&rdquo;"
 quoth he.
-And, pretty fool, it stinted and said "Ay."
+And, pretty fool, it stinted and said "&ldquo;Ay.&rdquo;"
 
 <speaker>LADY CAPULET</speaker>
 Enough of this. I pray thee, hold thy peace.
 
 <speaker>NURSE</speaker>
 Yes, madam, yet I cannot choose but laugh
-To think it should leave crying and say "Ay."
+To think it should leave crying and say "&ldquo;Ay.&rdquo;"
 And yet, I warrant, it had upon its brow
-A bump as big as a young cock'rel's stone,
+A bump as big as a young cock&rsquo;rel&rsquo;s stone,
 A perilous knock, and it cried bitterly.
-"Yea," quoth my husband. "Fall'st upon thy face?
+"&ldquo;Yea,&rdquo;" quoth my husband. "&ldquo;Fall&rsquo;st upon thy face?
 Thou wilt fall backward when thou comest to age,
-Wilt thou not, Jule?" It stinted and said "Ay."
+Wilt thou not, Jule?&rdquo;" It stinted and said "&ldquo;Ay.&rdquo;"
 
 <speaker>JULIET</speaker>
 And stint thou, too, I pray thee, nurse, say I.
 
 <speaker>NURSE</speaker>
 Peace. I have done. God mark thee to his grace,
-Thou wast the prettiest babe that e'er I nursed.
+Thou wast the prettiest babe that e&rsquo;er I nursed.
 An I might live to see thee married once,
 I have my wish.
 
 <speaker>LADY CAPULET</speaker>
-Marry, that "marry" is the very theme
+Marry, that "&ldquo;marry&rdquo;" is the very theme
 I came to talk of.--Tell me, daughter Juliet,
 How stands your disposition to be married?
 
@@ -723,28 +723,28 @@ The valiant Paris seeks you for his love.
 
 <speaker>NURSE</speaker>
 A man, young lady--lady, such a man
-As all the world--why, he's a man of wax.
+As all the world--why, he&rsquo;s a man of wax.
 
 <speaker>LADY CAPULET</speaker>
-Verona's summer hath not such a flower.
+Verona&rsquo;s summer hath not such a flower.
 
 <speaker>NURSE</speaker>
-Nay, he's a flower, in faith, a very flower.
+Nay, he&rsquo;s a flower, in faith, a very flower.
 
 <speaker>LADY CAPULET</speaker>
 What say you? Can you love the gentleman?
 This night you shall behold him at our feast.
-Read o'er the volume of young Paris' face,
-And find delight writ there with beauty's pen.
+Read o&rsquo;er the volume of young Paris&rsquo; face,
+And find delight writ there with beauty&rsquo;s pen.
 Examine every married lineament
 And see how one another lends content,
 And what obscured in this fair volume lies
 Find written in the margent of his eyes.
 This precious book of love, this unbound lover,
 To beautify him only lacks a cover.
-The fish lives in the sea, and 'tis much pride
+The fish lives in the sea, and &rsquo;tis much pride
 For fair without the fair within to hide.
-That book in many's eyes doth share the glory
+That book in many&rsquo;s eyes doth share the glory
 That in gold clasps locks in the golden story.
 So shall you share all that he doth possess
 By having him, making yourself no less.
@@ -753,10 +753,10 @@ By having him, making yourself no less.
 No less? Nay, bigger. Women grow by men.
 
 <speaker>LADY CAPULET</speaker>
-Speak briefly. Can you like of Paris' love?
+Speak briefly. Can you like of Paris&rsquo; love?
 
 <speaker>JULIET</speaker>
-I'll look to like, if looking liking move.
+I&rsquo;ll look to like, if looking liking move.
 But no more deep will I endart mine eye
 Than your consent gives strength to make it fly.
 
@@ -788,13 +788,13 @@ Or shall we on without apology?
 
 <speaker>BENVOLIO</speaker>
 The date is out of such prolixity.
-We'll have no Cupid hoodwinked with a scarf,
-Bearing a Tartar's painted bow of lath,
+We&rsquo;ll have no Cupid hoodwinked with a scarf,
+Bearing a Tartar&rsquo;s painted bow of lath,
 Scaring the ladies like a crowkeeper,
 Nor no without-book prologue, faintly spoke
 After the prompter, for our entrance.
 But let them measure us by what they will.
-We'll measure them a measure and be gone.
+We&rsquo;ll measure them a measure and be gone.
 
 <speaker>ROMEO</speaker>
 Give me a torch. I am not for this ambling.
@@ -809,14 +809,14 @@ With nimble soles. I have a soul of lead
 So stakes me to the ground I cannot move.
 
 <speaker>MERCUTIO</speaker>
-You are a lover. Borrow Cupid's wings
+You are a lover. Borrow Cupid&rsquo;s wings
 And soar with them above a common bound.
 
 <speaker>ROMEO</speaker>
 I am too sore enpierced with his shaft
 To soar with his light feathers, and so bound
 I cannot bound a pitch above dull woe.
-Under love's heavy burden do I sink.
+Under love&rsquo;s heavy burden do I sink.
 
 <speaker>MERCUTIO</speaker>
 And to sink in it should you burden love--
@@ -824,7 +824,7 @@ Too great oppression for a tender thing.
 
 <speaker>ROMEO</speaker>
 Is love a tender thing? It is too rough,
-Too rude, too boist'rous, and it pricks like thorn.
+Too rude, too boist&rsquo;rous, and it pricks like thorn.
 
 <speaker>MERCUTIO</speaker>
 If love be rough with you, be rough with love.
@@ -842,18 +842,18 @@ But every man betake him to his legs.
 A torch for me. Let wantons light of heart
 Tickle the senseless rushes with their heels,
 For I am proverbed with a grandsire phrase:
-I'll be a candle holder and look on;
-The game was ne'er so fair, and I am done.
+I&rsquo;ll be a candle holder and look on;
+The game was ne&rsquo;er so fair, and I am done.
 
 <speaker>MERCUTIO</speaker>
-Tut, dun's the mouse, the constable's own word.
-If thou art dun, we'll draw thee from the mire--
+Tut, dun&rsquo;s the mouse, the constable&rsquo;s own word.
+If thou art dun, we&rsquo;ll draw thee from the mire--
 Or, save your reverence, love--wherein thou
 stickest
 Up to the ears. Come, we burn daylight, ho!
 
 <speaker>ROMEO</speaker>
-Nay, that's not so.
+Nay, that&rsquo;s not so.
 
 <speaker>MERCUTIO</speaker>
 I mean, sir, in delay
@@ -863,7 +863,7 @@ Five times in that ere once in our five wits.
 
 <speaker>ROMEO</speaker>
 And we mean well in going to this masque,
-But 'tis no wit to go.
+But &rsquo;tis no wit to go.
 
 <speaker>MERCUTIO</speaker>
 Why, may one ask?
@@ -885,35 +885,35 @@ In bed asleep while they do dream things true.
 
 <speaker>MERCUTIO</speaker>
 O, then I see Queen Mab hath been with you.
-She is the fairies' midwife, and she comes
+She is the fairies&rsquo; midwife, and she comes
 In shape no bigger than an agate stone
 On the forefinger of an alderman,
 Drawn with a team of little atomi
-Over men's noses as they lie asleep.
-Her wagon spokes made of long spinners' legs,
+Over men&rsquo;s noses as they lie asleep.
+Her wagon spokes made of long spinners&rsquo; legs,
 The cover of the wings of grasshoppers,
 Her traces of the smallest spider web,
-Her collars of the moonshine's wat'ry beams,
-Her whip of cricket's bone, the lash of film,
+Her collars of the moonshine&rsquo;s wat&rsquo;ry beams,
+Her whip of cricket&rsquo;s bone, the lash of film,
 Her wagoner a small gray-coated gnat,
 Not half so big as a round little worm
 Pricked from the lazy finger of a maid.
 Her chariot is an empty hazelnut,
 Made by the joiner squirrel or old grub,
-Time out o' mind the fairies' coachmakers.
+Time out o&rsquo; mind the fairies&rsquo; coachmakers.
 And in this state she gallops night by night
-Through lovers' brains, and then they dream of love;
-On courtiers' knees, that dream on cur'sies straight;
-O'er lawyers' fingers, who straight dream on fees;
-O'er ladies' lips, who straight on kisses dream,
+Through lovers&rsquo; brains, and then they dream of love;
+On courtiers&rsquo; knees, that dream on cur&rsquo;sies straight;
+O&rsquo;er lawyers&rsquo; fingers, who straight dream on fees;
+O&rsquo;er ladies&rsquo; lips, who straight on kisses dream,
 Which oft the angry Mab with blisters plagues
 Because their breaths with sweetmeats tainted are.
-Sometime she gallops o'er a courtier's nose,
+Sometime she gallops o&rsquo;er a courtier&rsquo;s nose,
 And then dreams he of smelling out a suit.
-And sometime comes she with a tithe-pig's tail,
-Tickling a parson's nose as he lies asleep;
+And sometime comes she with a tithe-pig&rsquo;s tail,
+Tickling a parson&rsquo;s nose as he lies asleep;
 Then he dreams of another benefice.
-Sometime she driveth o'er a soldier's neck,
+Sometime she driveth o&rsquo;er a soldier&rsquo;s neck,
 And then dreams he of cutting foreign throats,
 Of breaches, ambuscadoes, Spanish blades,
 Of healths five fathom deep, and then anon
@@ -930,7 +930,7 @@ This is she--
 
 <speaker>ROMEO</speaker>
 Peace, peace, Mercutio, peace.
-Thou talk'st of nothing.
+Thou talk&rsquo;st of nothing.
 
 <speaker>MERCUTIO</speaker>
 True, I talk of dreams,
@@ -950,7 +950,7 @@ Supper is done, and we shall come too late.
 I fear too early, for my mind misgives
 Some consequence yet hanging in the stars
 Shall bitterly begin his fearful date
-With this night's revels, and expire the term
+With this night&rsquo;s revels, and expire the term
 Of a despised life closed in my breast
 By some vile forfeit of untimely death.
 But he that hath the steerage of my course
@@ -966,14 +966,14 @@ and then withdraw to the side.</i>]
 [<i>Servingmen come forth with napkins.</i>]
 
 <speaker>FIRST SERVINGMAN</speaker>
-Where's Potpan that he helps not
+Where&rsquo;s Potpan that he helps not
 to take away? He shift a trencher? He scrape a
 trencher?
 
 <speaker>SECOND SERVINGMAN</speaker>
 When good manners shall lie
-all in one or two men's hands, and they unwashed
-too, 'tis a foul thing.
+all in one or two men&rsquo;s hands, and they unwashed
+too, &rsquo;tis a foul thing.
 
 <speaker>FIRST SERVINGMAN</speaker>
 Away with the joint stools, remove
@@ -1004,12 +1004,12 @@ Unplagued with corns will walk a bout with
 you.--
 Ah, my mistresses, which of you all
 Will now deny to dance? She that makes dainty,
-She, I'll swear, hath corns. Am I come near you
+She, I&rsquo;ll swear, hath corns. Am I come near you
 now?--
 Welcome, gentlemen. I have seen the day
 That I have worn a visor and could tell
-A whispering tale in a fair lady's ear,
-Such as would please. 'Tis gone, 'tis gone, 'tis gone.
+A whispering tale in a fair lady&rsquo;s ear,
+Such as would please. &rsquo;Tis gone, &rsquo;tis gone, &rsquo;tis gone.
 You are welcome, gentlemen.--Come, musicians,
 play.	[<i>Music plays and they dance.</i>]
 A hall, a hall, give room!--And foot it, girls.--
@@ -1018,20 +1018,19 @@ And quench the fire; the room is grown too hot.--
 Ah, sirrah, this unlooked-for sport comes well.--
 Nay, sit, nay, sit, good cousin Capulet,
 For you and I are past our dancing days.
-How long is 't now since last yourself and I
+How long is &rsquo;t now since last yourself and I
 Were in a mask?
 
-<speaker>CAPULET'S COUSIN</speaker>
-By 'r Lady, thirty years.
+CAPULET&rsquo;S COUSIN  By &rsquo;r Lady, thirty years.
 
 <speaker>CAPULET</speaker>
-What, man, 'tis not so much, 'tis not so much.
-'Tis since the nuptial of Lucentio,
+What, man, &rsquo;tis not so much, &rsquo;tis not so much.
+&rsquo;Tis since the nuptial of Lucentio,
 Come Pentecost as quickly as it will,
 Some five and twenty years, and then we masked.
 
-<speaker>CAPULET'S COUSIN</speaker>
-'Tis more, 'tis more. His son is elder, sir.
+CAPULET&rsquo;S COUSIN
+&rsquo;Tis more, &rsquo;tis more. His son is elder, sir.
 His son is thirty.
 
 <speaker>CAPULET</speaker>
@@ -1040,7 +1039,7 @@ His son was but a ward two years ago.
 
 <speaker>ROMEO,</speaker>
 [<i>to a Servingman</i>]
-What lady's that which doth enrich the hand
+What lady&rsquo;s that which doth enrich the hand
 Of yonder knight?
 
 <speaker>SERVINGMAN</speaker>
@@ -1049,14 +1048,14 @@ I know not, sir.
 <speaker>ROMEO</speaker>
 O, she doth teach the torches to burn bright!
 It seems she hangs upon the cheek of night
-As a rich jewel in an Ethiop's ear--
+As a rich jewel in an Ethiop&rsquo;s ear--
 Beauty too rich for use, for Earth too dear.
 So shows a snowy dove trooping with crows
-As yonder lady o'er her fellows shows.
-The measure done, I'll watch her place of stand
+As yonder lady o&rsquo;er her fellows shows.
+The measure done, I&rsquo;ll watch her place of stand
 And, touching hers, make blessed my rude hand.
 Did my heart love till now? Forswear it, sight,
-For I ne'er saw true beauty till this night.
+For I ne&rsquo;er saw true beauty till this night.
 
 <speaker>TYBALT</speaker>
 This, by his voice, should be a Montague.--
@@ -1079,7 +1078,7 @@ To scorn at our solemnity this night.
 Young Romeo is it?
 
 <speaker>TYBALT</speaker>
-'Tis he, that villain Romeo.
+&rsquo;Tis he, that villain Romeo.
 
 <speaker>CAPULET</speaker>
 Content thee, gentle coz. Let him alone.
@@ -1095,37 +1094,37 @@ An ill-beseeming semblance for a feast.
 
 <speaker>TYBALT</speaker>
 It fits when such a villain is a guest.
-I'll not endure him.
+I&rsquo;ll not endure him.
 
 <speaker>CAPULET</speaker>
 He shall be endured.
 What, goodman boy? I say he shall. Go to.
 Am I the master here or you? Go to.
-You'll not endure him! God shall mend my soul,
-You'll make a mutiny among my guests,
-You will set cock-a-hoop, you'll be the man!
+You&rsquo;ll not endure him! God shall mend my soul,
+You&rsquo;ll make a mutiny among my guests,
+You will set cock-a-hoop, you&rsquo;ll be the man!
 
 <speaker>TYBALT</speaker>
-Why, uncle, 'tis a shame.
+Why, uncle, &rsquo;tis a shame.
 
 <speaker>CAPULET</speaker>
 Go to, go to.
-You are a saucy boy. Is 't so indeed?
+You are a saucy boy. Is &rsquo;t so indeed?
 This trick may chance to scathe you. I know what.
-You must contrary me. Marry, 'tis time--
+You must contrary me. Marry, &rsquo;tis time--
 Well said, my hearts.--You are a princox, go.
 Be quiet, or--More light, more light!--for shame,
-I'll make you quiet.--What, cheerly, my hearts!
+I&rsquo;ll make you quiet.--What, cheerly, my hearts!
 
 <speaker>TYBALT</speaker>
 Patience perforce with willful choler meeting
 Makes my flesh tremble in their different greeting.
 I will withdraw, but this intrusion shall,
-Now seeming sweet, convert to bitt'rest gall.
+Now seeming sweet, convert to bitt&rsquo;rest gall.
 [<i>He exits.</i>]
 
 <speaker>ROMEO,</speaker>
-[<i>taking Juliet's hand</i>]
+[<i>taking Juliet&rsquo;s hand</i>]
 If I profane with my unworthiest hand
 This holy shrine, the gentle sin is this:
 My lips, two blushing pilgrims, ready stand
@@ -1134,8 +1133,8 @@ To smooth that rough touch with a tender kiss.
 <speaker>JULIET</speaker>
 Good pilgrim, you do wrong your hand too much,
 Which mannerly devotion shows in this;
-For saints have hands that pilgrims' hands do touch,
-And palm to palm is holy palmers' kiss.
+For saints have hands that pilgrims&rsquo; hands do touch,
+And palm to palm is holy palmers&rsquo; kiss.
 
 <speaker>ROMEO</speaker>
 Have not saints lips, and holy palmers too?
@@ -1148,10 +1147,10 @@ O then, dear saint, let lips do what hands do.
 They pray: grant thou, lest faith turn to despair.
 
 <speaker>JULIET</speaker>
-Saints do not move, though grant for prayers' sake.
+Saints do not move, though grant for prayers&rsquo; sake.
 
 <speaker>ROMEO</speaker>
-Then move not while my prayer's effect I take.
+Then move not while my prayer&rsquo;s effect I take.
 [<i>He kisses her.</i>]
 Thus from my lips, by thine, my sin is purged.
 
@@ -1163,7 +1162,7 @@ Sin from my lips? O trespass sweetly urged!
 Give me my sin again.	[<i>He kisses her.</i>]
 
 <speaker>JULIET</speaker>
-You kiss by th' book.
+You kiss by th&rsquo; book.
 
 <speaker>NURSE</speaker>
 Madam, your mother craves a word with you.
@@ -1183,7 +1182,7 @@ Shall have the chinks.	[<i>Nurse moves away.</i>]
 <speaker>ROMEO,</speaker>
 [<i>aside</i>]
   Is she a Capulet?
-O dear account! My life is my foe's debt.
+O dear account! My life is my foe&rsquo;s debt.
 
 <speaker>BENVOLIO</speaker>
 Away, begone. The sport is at the best.
@@ -1194,11 +1193,11 @@ Ay, so I fear. The more is my unrest.
 <speaker>CAPULET</speaker>
 Nay, gentlemen, prepare not to be gone.
 We have a trifling foolish banquet towards.--
-Is it e'en so? Why then, I thank you all.
+Is it e&rsquo;en so? Why then, I thank you all.
 I thank you, honest gentlemen. Good night.--
-More torches here.--Come on then, let's to bed.--
+More torches here.--Come on then, let&rsquo;s to bed.--
 Ah, sirrah, by my fay, it waxes late.
-I'll to my rest.
+I&rsquo;ll to my rest.
 [<i>All but Juliet and the Nurse begin to exit.</i>]
 
 <speaker>JULIET</speaker>
@@ -1208,13 +1207,13 @@ Come hither, nurse. What is yond gentleman?
 The son and heir of old Tiberio.
 
 <speaker>JULIET</speaker>
-What's he that now is going out of door?
+What&rsquo;s he that now is going out of door?
 
 <speaker>NURSE</speaker>
 Marry, that, I think, be young Petruchio.
 
 <speaker>JULIET</speaker>
-What's he that follows here, that would not dance?
+What&rsquo;s he that follows here, that would not dance?
 
 <speaker>NURSE</speaker>
 I know not.
@@ -1236,16 +1235,16 @@ Prodigious birth of love it is to me
 That I must love a loathed enemy.
 
 <speaker>NURSE</speaker>
-What's this? What's this?
+What&rsquo;s this? What&rsquo;s this?
 
 <speaker>JULIET</speaker>
 A rhyme I learned even now
 Of one I danced withal.
-[<i>One calls within "Juliet."</i>]
+[<i>One calls within "&ldquo;Juliet."</i>]
 
 <speaker>NURSE</speaker>
 Anon, anon.
-Come, let's away. The strangers all are gone.
+Come, let&rsquo;s away. The strangers all are gone.
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -1261,13 +1260,13 @@ With tender Juliet matched, is now not fair.
 Now Romeo is beloved and loves again,
 Alike bewitched by the charm of looks,
 But to his foe supposed he must complain,
-And she steal love's sweet bait from fearful hooks.
+And she steal love&rsquo;s sweet bait from fearful hooks.
 Being held a foe, he may not have access
 To breathe such vows as lovers use to swear,
 And she as much in love, her means much less
 To meet her new beloved anywhere.
 But passion lends them power, time means, to meet,
-Temp'ring extremities with extreme sweet.
+Temp&rsquo;ring extremities with extreme sweet.
 [<i>Chorus exits.</i>]
 
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
@@ -1286,26 +1285,26 @@ Romeo, my cousin Romeo, Romeo!
 
 <speaker>MERCUTIO</speaker>
 He is wise
-And, on my life, hath stol'n him home to bed.
+And, on my life, hath stol&rsquo;n him home to bed.
 
 <speaker>BENVOLIO</speaker>
 He ran this way and leapt this orchard wall.
 Call, good Mercutio.
 
 <speaker>MERCUTIO</speaker>
-Nay, I'll conjure too.
+Nay, I&rsquo;ll conjure too.
 Romeo! Humors! Madman! Passion! Lover!
 Appear thou in the likeness of a sigh.
 Speak but one rhyme and I am satisfied.
-Cry but "Ay me," pronounce but "love" and
-"dove."
+Cry but "&ldquo;Ay me,&rdquo;" pronounce but "&ldquo;love&rdquo;" and
+"&ldquo;dove.&rdquo;"
 Speak to my gossip Venus one fair word,
 One nickname for her purblind son and heir,
 Young Abraham Cupid, he that shot so trim
 When King Cophetua loved the beggar maid.--
 He heareth not, he stirreth not, he moveth not.
 The ape is dead, and I must conjure him.--
-I conjure thee by Rosaline's bright eyes,
+I conjure thee by Rosaline&rsquo;s bright eyes,
 By her high forehead, and her scarlet lip,
 By her fine foot, straight leg, and quivering thigh,
 And the demesnes that there adjacent lie,
@@ -1315,12 +1314,12 @@ That in thy likeness thou appear to us.
 An if he hear thee, thou wilt anger him.
 
 <speaker>MERCUTIO</speaker>
-This cannot anger him. 'Twould anger him
-To raise a spirit in his mistress' circle
+This cannot anger him. &rsquo;Twould anger him
+To raise a spirit in his mistress&rsquo; circle
 Of some strange nature, letting it there stand
 Till she had laid it and conjured it down.
 That were some spite. My invocation
-Is fair and honest. In his mistress' name,
+Is fair and honest. In his mistress&rsquo; name,
 I conjure only but to raise up him.
 
 <speaker>BENVOLIO</speaker>
@@ -1334,13 +1333,13 @@ Now will he sit under a medlar tree
 And wish his mistress were that kind of fruit
 As maids call medlars when they laugh alone.--
 O Romeo, that she were, O, that she were
-An open-arse, thou a pop'rin pear.
-Romeo, good night. I'll to my truckle bed;
+An open-arse, thou a pop&rsquo;rin pear.
+Romeo, good night. I&rsquo;ll to my truckle bed;
 This field-bed is too cold for me to sleep.--
 Come, shall we go?
 
 <speaker>BENVOLIO</speaker>
-Go, then, for 'tis in vain
+Go, then, for &rsquo;tis in vain
 To seek him here that means not to be found.
 [<i>They exit.</i>]
 
@@ -1365,7 +1364,7 @@ It is my lady. O, it is my love!
 O, that she knew she were!
 She speaks, yet she says nothing. What of that?
 Her eye discourses; I will answer it.
-I am too bold. 'Tis not to me she speaks.
+I am too bold. &rsquo;Tis not to me she speaks.
 Two of the fairest stars in all the heaven,
 Having some business, do entreat her eyes
 To twinkle in their spheres till they return.
@@ -1386,9 +1385,9 @@ Ay me.
 [<i>aside</i>]
   She speaks.
 O, speak again, bright angel, for thou art
-As glorious to this night, being o'er my head,
+As glorious to this night, being o&rsquo;er my head,
 As is a winged messenger of heaven
-Unto the white-upturned wond'ring eyes
+Unto the white-upturned wond&rsquo;ring eyes
 Of mortals that fall back to gaze on him
 When he bestrides the lazy puffing clouds
 And sails upon the bosom of the air.
@@ -1397,19 +1396,19 @@ And sails upon the bosom of the air.
 O Romeo, Romeo, wherefore art thou Romeo?
 Deny thy father and refuse thy name,
 Or, if thou wilt not, be but sworn my love,
-And I'll no longer be a Capulet.
+And I&rsquo;ll no longer be a Capulet.
 
 <speaker>ROMEO,</speaker>
 [<i>aside</i>]
 Shall I hear more, or shall I speak at this?
 
 <speaker>JULIET</speaker>
-'Tis but thy name that is my enemy.
+&rsquo;Tis but thy name that is my enemy.
 Thou art thyself, though not a Montague.
-What's Montague? It is nor hand, nor foot,
+What&rsquo;s Montague? It is nor hand, nor foot,
 Nor arm, nor face. O, be some other name
 Belonging to a man.
-What's in a name? That which we call a rose
+What&rsquo;s in a name? That which we call a rose
 By any other word would smell as sweet.
 So Romeo would, were he not Romeo called,
 Retain that dear perfection which he owes
@@ -1419,7 +1418,7 @@ Take all myself.
 
 <speaker>ROMEO</speaker>
 I take thee at thy word.
-Call me but love, and I'll be new baptized.
+Call me but love, and I&rsquo;ll be new baptized.
 Henceforth I never will be Romeo.
 
 <speaker>JULIET</speaker>
@@ -1435,7 +1434,7 @@ Had I it written, I would tear the word.
 
 <speaker>JULIET</speaker>
 My ears have yet not drunk a hundred words
-Of thy tongue's uttering, yet I know the sound.
+Of thy tongue&rsquo;s uttering, yet I know the sound.
 Art thou not Romeo, and a Montague?
 
 <speaker>ROMEO</speaker>
@@ -1448,7 +1447,7 @@ And the place death, considering who thou art,
 If any of my kinsmen find thee here.
 
 <speaker>ROMEO</speaker>
-With love's light wings did I o'erperch these walls,
+With love&rsquo;s light wings did I o&rsquo;erperch these walls,
 For stony limits cannot hold love out,
 And what love can do, that dares love attempt.
 Therefore thy kinsmen are no stop to me.
@@ -1465,13 +1464,13 @@ And I am proof against their enmity.
 I would not for the world they saw thee here.
 
 <speaker>ROMEO</speaker>
-I have night's cloak to hide me from their eyes,
+I have night&rsquo;s cloak to hide me from their eyes,
 And, but thou love me, let them find me here.
 My life were better ended by their hate
 Than death prorogued, wanting of thy love.
 
 <speaker>JULIET</speaker>
-By whose direction found'st thou out this place?
+By whose direction found&rsquo;st thou out this place?
 
 <speaker>ROMEO</speaker>
 By love, that first did prompt me to inquire.
@@ -1486,20 +1485,20 @@ Else would a maiden blush bepaint my cheek
 For that which thou hast heard me speak tonight.
 Fain would I dwell on form; fain, fain deny
 What I have spoke. But farewell compliment.
-Dost thou love me? I know thou wilt say "Ay,"
-And I will take thy word. Yet, if thou swear'st,
-Thou mayst prove false. At lovers' perjuries,
+Dost thou love me? I know thou wilt say "&ldquo;Ay,&rdquo;"
+And I will take thy word. Yet, if thou swear&rsquo;st,
+Thou mayst prove false. At lovers&rsquo; perjuries,
 They say, Jove laughs. O gentle Romeo,
 If thou dost love, pronounce it faithfully.
 Or, if thou thinkest I am too quickly won,
-I'll frown and be perverse and say thee nay,
+I&rsquo;ll frown and be perverse and say thee nay,
 So thou wilt woo, but else not for the world.
 In truth, fair Montague, I am too fond,
 And therefore thou mayst think my havior light.
-But trust me, gentleman, I'll prove more true
+But trust me, gentleman, I&rsquo;ll prove more true
 Than those that have more coying to be strange.
 I should have been more strange, I must confess,
-But that thou overheard'st ere I was ware
+But that thou overheard&rsquo;st ere I was ware
 My true-love passion. Therefore pardon me,
 And not impute this yielding to light love,
 Which the dark night hath so discovered.
@@ -1509,7 +1508,7 @@ Lady, by yonder blessed moon I vow,
 That tips with silver all these fruit-tree tops--
 
 <speaker>JULIET</speaker>
-O, swear not by the moon, th' inconstant moon,
+O, swear not by the moon, th&rsquo; inconstant moon,
 That monthly changes in her circled orb,
 Lest that thy love prove likewise variable.
 
@@ -1520,18 +1519,18 @@ What shall I swear by?
 Do not swear at all.
 Or, if thou wilt, swear by thy gracious self,
 Which is the god of my idolatry,
-And I'll believe thee.
+And I&rsquo;ll believe thee.
 
 <speaker>ROMEO</speaker>
-If my heart's dear love--
+If my heart&rsquo;s dear love--
 
 <speaker>JULIET</speaker>
 Well, do not swear. Although I joy in thee,
 I have no joy of this contract tonight.
 It is too rash, too unadvised, too sudden,
 Too like the lightning, which doth cease to be
-Ere one can say "It lightens." Sweet, good night.
-This bud of love, by summer's ripening breath,
+Ere one can say "&ldquo;It lightens.&rdquo;" Sweet, good night.
+This bud of love, by summer&rsquo;s ripening breath,
 May prove a beauteous flower when next we meet.
 Good night, good night. As sweet repose and rest
 Come to thy heart as that within my breast.
@@ -1543,7 +1542,7 @@ O, wilt thou leave me so unsatisfied?
 What satisfaction canst thou have tonight?
 
 <speaker>ROMEO</speaker>
-Th' exchange of thy love's faithful vow for mine.
+Th&rsquo; exchange of thy love&rsquo;s faithful vow for mine.
 
 <speaker>JULIET</speaker>
 I gave thee mine before thou didst request it,
@@ -1574,9 +1573,9 @@ Too flattering sweet to be substantial.
 Three words, dear Romeo, and good night indeed.
 If that thy bent of love be honorable,
 Thy purpose marriage, send me word tomorrow,
-By one that I'll procure to come to thee,
+By one that I&rsquo;ll procure to come to thee,
 Where and what time thou wilt perform the rite,
-And all my fortunes at thy foot I'll lay
+And all my fortunes at thy foot I&rsquo;ll lay
 And follow thee my lord throughout the world.
 
 <speaker>NURSE,</speaker>
@@ -1612,16 +1611,16 @@ But love from love, toward school with heavy looks.
 [<i>Enter Juliet above again.</i>]
 
 <speaker>JULIET</speaker>
-Hist, Romeo, hist! O, for a falc'ner's voice
+Hist, Romeo, hist! O, for a falc&rsquo;ner&rsquo;s voice
 To lure this tassel-gentle back again!
 Bondage is hoarse and may not speak aloud,
 Else would I tear the cave where Echo lies
 And make her airy tongue more hoarse than mine
-With repetition of "My Romeo!"
+With repetition of "&ldquo;My Romeo!&rdquo;"
 
 <speaker>ROMEO</speaker>
 It is my soul that calls upon my name.
-How silver-sweet sound lovers' tongues by night,
+How silver-sweet sound lovers&rsquo; tongues by night,
 Like softest music to attending ears.
 
 <speaker>JULIET</speaker>
@@ -1631,14 +1630,14 @@ Romeo.
 My dear.
 
 <speaker>JULIET</speaker>
-What o'clock tomorrow
+What o&rsquo;clock tomorrow
 Shall I send to thee?
 
 <speaker>ROMEO</speaker>
 By the hour of nine.
 
 <speaker>JULIET</speaker>
-I will not fail. 'Tis twenty year till then.
+I will not fail. &rsquo;Tis twenty year till then.
 I have forgot why I did call thee back.
 
 <speaker>ROMEO</speaker>
@@ -1646,15 +1645,15 @@ Let me stand here till thou remember it.
 
 <speaker>JULIET</speaker>
 I shall forget, to have thee still stand there,
-Rememb'ring how I love thy company.
+Rememb&rsquo;ring how I love thy company.
 
 <speaker>ROMEO</speaker>
-And I'll still stay, to have thee still forget,
+And I&rsquo;ll still stay, to have thee still forget,
 Forgetting any other home but this.
 
 <speaker>JULIET</speaker>
-'Tis almost morning. I would have thee gone,
-And yet no farther than a wanton's bird,
+&rsquo;Tis almost morning. I would have thee gone,
+And yet no farther than a wanton&rsquo;s bird,
 That lets it hop a little from his hand,
 Like a poor prisoner in his twisted gyves,
 And with a silken thread plucks it back again,
@@ -1668,13 +1667,13 @@ Sweet, so would I.
 Yet I should kill thee with much cherishing.
 Good night, good night. Parting is such sweet
 sorrow
-That I shall say "Good night" till it be morrow.
+That I shall say "&ldquo;Good night&rdquo;" till it be morrow.
 [<i>She exits.</i>]
 
 <speaker>ROMEO</speaker>
 Sleep dwell upon thine eyes, peace in thy breast.
 Would I were sleep and peace so sweet to rest.
-Hence will I to my ghostly friar's close cell,
+Hence will I to my ghostly friar&rsquo;s close cell,
 His help to crave, and my dear hap to tell.
 [<i>He exits.</i>]
 
@@ -1684,14 +1683,14 @@ His help to crave, and my dear hap to tell.
 
 <speaker>FRIAR LAWRENCE</speaker>
 The gray-eyed morn smiles on the frowning night,
-Check'ring the eastern clouds with streaks of light,
+Check&rsquo;ring the eastern clouds with streaks of light,
 And fleckled darkness like a drunkard reels
-From forth day's path and Titan's fiery wheels.
+From forth day&rsquo;s path and Titan&rsquo;s fiery wheels.
 Now, ere the sun advance his burning eye,
-The day to cheer and night's dank dew to dry,
+The day to cheer and night&rsquo;s dank dew to dry,
 I must upfill this osier cage of ours
 With baleful weeds and precious-juiced flowers.
-The Earth that's nature's mother is her tomb;
+The Earth that&rsquo;s nature&rsquo;s mother is her tomb;
 What is her burying grave, that is her womb;
 And from her womb children of divers kind
 We sucking on her natural bosom find,
@@ -1725,14 +1724,14 @@ Good morrow, father.
 Benedicite.
 What early tongue so sweet saluteth me?
 Young son, it argues a distempered head
-So soon to bid "Good morrow" to thy bed.
-Care keeps his watch in every old man's eye,
+So soon to bid "&ldquo;Good morrow&rdquo;" to thy bed.
+Care keeps his watch in every old man&rsquo;s eye,
 And, where care lodges, sleep will never lie;
 But where unbruised youth with unstuffed brain
 Doth couch his limbs, there golden sleep doth
 reign.
 Therefore thy earliness doth me assure
-Thou art uproused with some distemp'rature,
+Thou art uproused with some distemp&rsquo;rature,
 Or, if not so, then here I hit it right:
 Our Romeo hath not been in bed tonight.
 
@@ -1744,17 +1743,17 @@ God pardon sin! Wast thou with Rosaline?
 
 <speaker>ROMEO</speaker>
 With Rosaline, my ghostly father? No.
-I have forgot that name and that name's woe.
+I have forgot that name and that name&rsquo;s woe.
 
 <speaker>FRIAR LAWRENCE</speaker>
-That's my good son. But where hast thou been
+That&rsquo;s my good son. But where hast thou been
 then?
 
 <speaker>ROMEO</speaker>
-I'll tell thee ere thou ask it me again.
+I&rsquo;ll tell thee ere thou ask it me again.
 I have been feasting with mine enemy,
 Where on a sudden one hath wounded me
-That's by me wounded. Both our remedies
+That&rsquo;s by me wounded. Both our remedies
 Within thy help and holy physic lies.
 I bear no hatred, blessed man, for, lo,
 My intercession likewise steads my foe.
@@ -1764,19 +1763,19 @@ Be plain, good son, and homely in thy drift.
 Riddling confession finds but riddling shrift.
 
 <speaker>ROMEO</speaker>
-Then plainly know my heart's dear love is set
+Then plainly know my heart&rsquo;s dear love is set
 On the fair daughter of rich Capulet.
 As mine on hers, so hers is set on mine,
 And all combined, save what thou must combine
 By holy marriage. When and where and how
 We met, we wooed, and made exchange of vow
-I'll tell thee as we pass, but this I pray,
+I&rsquo;ll tell thee as we pass, but this I pray,
 That thou consent to marry us today.
 
 <speaker>FRIAR LAWRENCE</speaker>
 Holy Saint Francis, what a change is here!
 Is Rosaline, that thou didst love so dear,
-So soon forsaken? Young men's love then lies
+So soon forsaken? Young men&rsquo;s love then lies
 Not truly in their hearts, but in their eyes.
 Jesu Maria, what a deal of brine
 Hath washed thy sallow cheeks for Rosaline!
@@ -1786,20 +1785,20 @@ The sun not yet thy sighs from heaven clears,
 Thy old groans yet ringing in mine ancient ears.
 Lo, here upon thy cheek the stain doth sit
 Of an old tear that is not washed off yet.
-If e'er thou wast thyself, and these woes thine,
+If e&rsquo;er thou wast thyself, and these woes thine,
 Thou and these woes were all for Rosaline.
 And art thou changed? Pronounce this sentence
 then:
-Women may fall when there's no strength in men.
+Women may fall when there&rsquo;s no strength in men.
 
 <speaker>ROMEO</speaker>
-Thou chid'st me oft for loving Rosaline.
+Thou chid&rsquo;st me oft for loving Rosaline.
 
 <speaker>FRIAR LAWRENCE</speaker>
 For doting, not for loving, pupil mine.
 
 <speaker>ROMEO</speaker>
-And bad'st me bury love.
+And bad&rsquo;st me bury love.
 
 <speaker>FRIAR LAWRENCE</speaker>
 Not in a grave
@@ -1814,9 +1813,9 @@ The other did not so.
 O, she knew well
 Thy love did read by rote, that could not spell.
 But come, young waverer, come, go with me.
-In one respect I'll thy assistant be,
+In one respect I&rsquo;ll thy assistant be,
 For this alliance may so happy prove
-To turn your households' rancor to pure love.
+To turn your households&rsquo; rancor to pure love.
 
 <speaker>ROMEO</speaker>
 O, let us hence. I stand on sudden haste.
@@ -1834,7 +1833,7 @@ Where the devil should this Romeo be?
 Came he not home tonight?
 
 <speaker>BENVOLIO</speaker>
-Not to his father's. I spoke with his man.
+Not to his father&rsquo;s. I spoke with his man.
 
 <speaker>MERCUTIO</speaker>
 Why, that same pale hard-hearted wench, that
@@ -1843,7 +1842,7 @@ Torments him so that he will sure run mad.
 
 <speaker>BENVOLIO</speaker>
 Tybalt, the kinsman to old Capulet,
-Hath sent a letter to his father's house.
+Hath sent a letter to his father&rsquo;s house.
 
 <speaker>MERCUTIO</speaker>
 A challenge, on my life.
@@ -1855,21 +1854,21 @@ Romeo will answer it.
 Any man that can write may answer a letter.
 
 <speaker>BENVOLIO</speaker>
-Nay, he will answer the letter's master, how
+Nay, he will answer the letter&rsquo;s master, how
 he dares, being dared.
 
 <speaker>MERCUTIO</speaker>
 Alas, poor Romeo, he is already dead,
-stabbed with a white wench's black eye, run
+stabbed with a white wench&rsquo;s black eye, run
 through the ear with a love-song, the very pin of his
-heart cleft with the blind bow-boy's butt shaft. And
+heart cleft with the blind bow-boy&rsquo;s butt shaft. And
 is he a man to encounter Tybalt?
 
 <speaker>BENVOLIO</speaker>
 Why, what is Tybalt?
 
 <speaker>MERCUTIO</speaker>
-More than prince of cats. O, he's the courageous
+More than prince of cats. O, he&rsquo;s the courageous
 captain of compliments. He fights as you sing
 prick-song, keeps time, distance, and proportion.
 He rests his minim rests, one, two, and the third in
@@ -1883,11 +1882,11 @@ The what?
 
 <speaker>MERCUTIO</speaker>
 The pox of such antic, lisping, affecting
-phantasimes, these new tuners of accent: "By
+phantasimes, these new tuners of accent: "&ldquo;By
 Jesu, a very good blade! A very tall man! A very good
-whore!" Why, is not this a lamentable thing, grandsire,
+whore!&rdquo;" Why, is not this a lamentable thing, grandsire,
 that we should be thus afflicted with these
-strange flies, these fashion-mongers, these "pardon-me" 's,
+strange flies, these fashion-mongers, these "&ldquo;pardon-me&rdquo;" &rsquo;s,
 who stand so much on the new form
 that they cannot sit at ease on the old bench? O their
 bones, their bones!
@@ -1905,7 +1904,7 @@ was a kitchen wench (marry, she had a better love
 to berhyme her), Dido a dowdy, Cleopatra a gypsy,
 Helen and Hero hildings and harlots, Thisbe a gray
 eye or so, but not to the purpose.--Signior Romeo,
-bonjour. There's a French salutation to your French
+bonjour. There&rsquo;s a French salutation to your French
 slop. You gave us the counterfeit fairly last night.
 
 <speaker>ROMEO</speaker>
@@ -1921,7 +1920,7 @@ great, and in such a case as mine a man may strain
 courtesy.
 
 <speaker>MERCUTIO</speaker>
-That's as much as to say such a case as
+That&rsquo;s as much as to say such a case as
 yours constrains a man to bow in the hams.
 
 <speaker>ROMEO</speaker>
@@ -1937,7 +1936,7 @@ A most courteous exposition.
 Nay, I am the very pink of courtesy.
 
 <speaker>ROMEO</speaker>
-"Pink" for flower.
+"&ldquo;Pink&rdquo;" for flower.
 
 <speaker>MERCUTIO</speaker>
 Right.
@@ -1960,7 +1959,7 @@ Come between us, good Benvolio. My wits
 faints.
 
 <speaker>ROMEO</speaker>
-Switch and spurs, switch and spurs, or I'll cry
+Switch and spurs, switch and spurs, or I&rsquo;ll cry
 a match.
 
 <speaker>MERCUTIO</speaker>
@@ -1988,11 +1987,11 @@ And is it not, then, well served into a sweet
 goose?
 
 <speaker>MERCUTIO</speaker>
-O, here's a wit of cheveril that stretches
+O, here&rsquo;s a wit of cheveril that stretches
 from an inch narrow to an ell broad.
 
 <speaker>ROMEO</speaker>
-I stretch it out for that word "broad," which
+I stretch it out for that word "&ldquo;broad,&rdquo;" which
 added to the goose, proves thee far and wide a
 broad goose.
 
@@ -2023,7 +2022,7 @@ longer.
 [<i>Enter Nurse and her man Peter.</i>]
 
 <speaker>ROMEO</speaker>
-Here's goodly gear. A sail, a sail!
+Here&rsquo;s goodly gear. A sail, a sail!
 
 <speaker>MERCUTIO</speaker>
 Two, two--a shirt and a smock.
@@ -2038,20 +2037,20 @@ Anon.
 My fan, Peter.
 
 <speaker>MERCUTIO</speaker>
-Good Peter, to hide her face, for her fan's
+Good Peter, to hide her face, for her fan&rsquo;s
 the fairer face.
 
 <speaker>NURSE</speaker>
 God you good morrow, gentlemen.
 
 <speaker>MERCUTIO</speaker>
-God you good e'en, fair gentlewoman.
+God you good e&rsquo;en, fair gentlewoman.
 
 <speaker>NURSE</speaker>
-Is it good e'en?
+Is it good e&rsquo;en?
 
 <speaker>MERCUTIO</speaker>
-'Tis no less, I tell you, for the bawdy hand of
+&rsquo;Tis no less, I tell you, for the bawdy hand of
 the dial is now upon the prick of noon.
 
 <speaker>NURSE</speaker>
@@ -2062,8 +2061,8 @@ One, gentlewoman, that God hath made, himself
 to mar.
 
 <speaker>NURSE</speaker>
-By my troth, it is well said: "for himself to
-mar," quoth he? Gentlemen, can any of you tell me
+By my troth, it is well said: "&ldquo;for himself to
+mar,&rdquo;" quoth he? Gentlemen, can any of you tell me
 where I may find the young Romeo?
 
 <speaker>ROMEO</speaker>
@@ -2076,7 +2075,7 @@ fault of a worse.
 You say well.
 
 <speaker>MERCUTIO</speaker>
-Yea, is the worst well? Very well took, i'
+Yea, is the worst well? Very well took, i&rsquo;
 faith, wisely, wisely.
 
 <speaker>NURSE</speaker>
@@ -2102,7 +2101,7 @@ pie that is something stale and hoar ere it be spent.
 	But a hare that is hoar
 	Is too much for a score
 	   When it hoars ere it be spent.
-Romeo, will you come to your father's? We'll to
+Romeo, will you come to your father&rsquo;s? We&rsquo;ll to
 dinner thither.
 
 <speaker>ROMEO</speaker>
@@ -2122,9 +2121,9 @@ talk and will speak more in a minute than he will
 stand to in a month.
 
 <speaker>NURSE</speaker>
-An he speak anything against me, I'll take him
+An he speak anything against me, I&rsquo;ll take him
 down, an he were lustier than he is, and twenty
-such jacks. An if I cannot, I'll find those that shall.
+such jacks. An if I cannot, I&rsquo;ll find those that shall.
 Scurvy knave, I am none of his flirt-gills; I am none
 of his skains-mates. [<i>To Peter.</i>]
  And thou must stand
@@ -2145,7 +2144,7 @@ about me quivers. Scurvy knave! [<i>To Romeo.</i>]
 you, sir, a word. And, as I told you, my young lady
 bid me inquire you out. What she bid me say, I will
 keep to myself. But first let me tell you, if you
-should lead her in a fool's paradise, as they say, it
+should lead her in a fool&rsquo;s paradise, as they say, it
 were a very gross kind of behavior, as they say. For
 the gentlewoman is young; and therefore, if you
 should deal double with her, truly it were an ill
@@ -2157,7 +2156,7 @@ Nurse, commend me to thy lady and mistress.
 I protest unto thee--
 
 <speaker>NURSE</speaker>
-Good heart, and i' faith I will tell her as much.
+Good heart, and i&rsquo; faith I will tell her as much.
 Lord, Lord, she will be a joyful woman.
 
 <speaker>ROMEO</speaker>
@@ -2171,7 +2170,7 @@ I take it, is a gentlemanlike offer.
 <speaker>ROMEO</speaker>
 Bid her devise
 Some means to come to shrift this afternoon,
-And there she shall at Friar Lawrence' cell
+And there she shall at Friar Lawrence&rsquo; cell
 Be shrived and married. Here is for thy pains.
 [<i>Offering her money.</i>]
 
@@ -2190,7 +2189,7 @@ Within this hour my man shall be with thee
 And bring thee cords made like a tackled stair,
 Which to the high topgallant of my joy
 Must be my convoy in the secret night.
-Farewell. Be trusty, and I'll quit thy pains.
+Farewell. Be trusty, and I&rsquo;ll quit thy pains.
 Farewell. Commend me to thy mistress.
 
 <speaker>NURSE</speaker>
@@ -2200,19 +2199,19 @@ Now, God in heaven bless thee! Hark you, sir.
 What sayst thou, my dear nurse?
 
 <speaker>NURSE</speaker>
-Is your man secret? Did you ne'er hear say
-"Two may keep counsel, putting one away"?
+Is your man secret? Did you ne&rsquo;er hear say
+"&ldquo;Two may keep counsel, putting one away&rdquo;"?
 
 <speaker>ROMEO</speaker>
-Warrant thee, my man's as true as steel.
+Warrant thee, my man&rsquo;s as true as steel.
 
 <speaker>NURSE</speaker>
 Well, sir, my mistress is the sweetest lady. Lord,
-Lord, when 'twas a little prating thing--O, there is
+Lord, when &rsquo;twas a little prating thing--O, there is
 a nobleman in town, one Paris, that would fain lay
 knife aboard, but she, good soul, had as lief see a
 toad, a very toad, as see him. I anger her sometimes
-and tell her that Paris is the properer man, but I'll
+and tell her that Paris is the properer man, but I&rsquo;ll
 warrant you, when I say so, she looks as pale as any
 clout in the versal world. Doth not rosemary and
 Romeo begin both with a letter?
@@ -2221,7 +2220,7 @@ Romeo begin both with a letter?
 Ay, nurse, what of that? Both with an R.
 
 <speaker>NURSE</speaker>
-Ah, mocker, that's the dog's name. R is for
+Ah, mocker, that&rsquo;s the dog&rsquo;s name. R is for
 the--No, I know it begins with some other letter,
 and she hath the prettiest sententious of it, of you
 and rosemary, that it would do you good to hear it.
@@ -2246,14 +2245,14 @@ Before and apace.
 <speaker>JULIET</speaker>
 The clock struck nine when I did send the Nurse.
 In half an hour she promised to return.
-Perchance she cannot meet him. That's not so.
-O, she is lame! Love's heralds should be thoughts,
-Which ten times faster glides than the sun's beams,
+Perchance she cannot meet him. That&rsquo;s not so.
+O, she is lame! Love&rsquo;s heralds should be thoughts,
+Which ten times faster glides than the sun&rsquo;s beams,
 Driving back shadows over louring hills.
 Therefore do nimble-pinioned doves draw Love,
 And therefore hath the wind-swift Cupid wings.
 Now is the sun upon the highmost hill
-Of this day's journey, and from nine till twelve
+Of this day&rsquo;s journey, and from nine till twelve
 Is three long hours, yet she is not come.
 Had she affections and warm youthful blood,
 She would be as swift in motion as a ball;
@@ -2296,17 +2295,17 @@ To say to me that thou art out of breath?
 The excuse that thou dost make in this delay
 Is longer than the tale thou dost excuse.
 Is thy news good or bad? Answer to that.
-Say either, and I'll stay the circumstance.
-Let me be satisfied; is 't good or bad?
+Say either, and I&rsquo;ll stay the circumstance.
+Let me be satisfied; is &rsquo;t good or bad?
 
 <speaker>NURSE</speaker>
 Well, you have made a simple choice. You know
 not how to choose a man. Romeo? No, not he.
-Though his face be better than any man's, yet his leg
-excels all men's, and for a hand and a foot and a
+Though his face be better than any man&rsquo;s, yet his leg
+excels all men&rsquo;s, and for a hand and a foot and a
 body, though they be not to be talked on, yet they
 are past compare. He is not the flower of courtesy,
-but I'll warrant him as gentle as a lamb. Go thy
+but I&rsquo;ll warrant him as gentle as a lamb. Go thy
 ways, wench. Serve God. What, have you dined at
 home?
 
@@ -2317,13 +2316,12 @@ What says he of our marriage? What of that?
 <speaker>NURSE</speaker>
 Lord, how my head aches! What a head have I!
 It beats as it would fall in twenty pieces.
-My back o' t' other side! Ah, my back, my back!
+My back o&rsquo; t&rsquo; other side! Ah, my back, my back!
 Beshrew your heart for sending me about
 To catch my death with jaunting up and down.
 
 <speaker>JULIET</speaker>
-<speaker>I'</speaker>
-faith, I am sorry that thou art not well.
+I&rsquo; faith, I am sorry that thou art not well.
 Sweet, sweet, sweet nurse, tell me, what says my
 love?
 
@@ -2335,17 +2333,17 @@ warrant, a virtuous--Where is your mother?
 <speaker>JULIET</speaker>
 Where is my mother? Why, she is within.
 Where should she be? How oddly thou repliest:
-"Your love says, like an honest gentleman,
-Where is your mother?"
+"&ldquo;Your love says, like an honest gentleman,
+Where is your mother?&rdquo;"
 
 <speaker>NURSE</speaker>
-O God's lady dear,
+O God&rsquo;s lady dear,
 Are you so hot? Marry, come up, I trow.
 Is this the poultice for my aching bones?
 Henceforward do your messages yourself.
 
 <speaker>JULIET</speaker>
-Here's such a coil. Come, what says Romeo?
+Here&rsquo;s such a coil. Come, what says Romeo?
 
 <speaker>NURSE</speaker>
 Have you got leave to go to shrift today?
@@ -2354,16 +2352,16 @@ Have you got leave to go to shrift today?
 I have.
 
 <speaker>NURSE</speaker>
-Then hie you hence to Friar Lawrence' cell.
+Then hie you hence to Friar Lawrence&rsquo; cell.
 There stays a husband to make you a wife.
 Now comes the wanton blood up in your cheeks;
-They'll be in scarlet straight at any news.
+They&rsquo;ll be in scarlet straight at any news.
 Hie you to church. I must another way,
 To fetch a ladder by the which your love
-Must climb a bird's nest soon when it is dark.
+Must climb a bird&rsquo;s nest soon when it is dark.
 I am the drudge and toil in your delight,
 But you shall bear the burden soon at night.
-Go. I'll to dinner. Hie you to the cell.
+Go. I&rsquo;ll to dinner. Hie you to the cell.
 
 <speaker>JULIET</speaker>
 Hie to high fortune! Honest nurse, farewell.
@@ -2397,7 +2395,7 @@ Too swift arrives as tardy as too slow.
 [<i>Enter Juliet.</i>]
 
 Here comes the lady. O, so light a foot
-Will ne'er wear out the everlasting flint.
+Will ne&rsquo;er wear out the everlasting flint.
 A lover may bestride the gossamers
 That idles in the wanton summer air,
 And yet not fall, so light is vanity.
@@ -2415,7 +2413,7 @@ As much to him, else is his thanks too much.
 Ah, Juliet, if the measure of thy joy
 Be heaped like mine, and that thy skill be more
 To blazon it, then sweeten with thy breath
-This neighbor air, and let rich music's tongue
+This neighbor air, and let rich music&rsquo;s tongue
 Unfold the imagined happiness that both
 Receive in either by this dear encounter.
 
@@ -2438,16 +2436,16 @@ Till Holy Church incorporate two in one.
 [<i>Enter Mercutio, Benvolio, and their men.</i>]
 
 <speaker>BENVOLIO</speaker>
-I pray thee, good Mercutio, let's retire.
+I pray thee, good Mercutio, let&rsquo;s retire.
 The day is hot, the Capels are abroad,
-And if we meet we shall not 'scape a brawl,
+And if we meet we shall not &rsquo;scape a brawl,
 For now, these hot days, is the mad blood stirring.
 
 <speaker>MERCUTIO</speaker>
 Thou art like one of these fellows that, when
 he enters the confines of a tavern, claps me his
-sword upon the table and says "God send me no
-need of thee" and, by the operation of the second
+sword upon the table and says "&ldquo;God send me no
+need of thee&rdquo;" and, by the operation of the second
 cup, draws him on the drawer when indeed there is
 no need.
 
@@ -2499,7 +2497,7 @@ By my heel, I care not.
 <speaker>TYBALT,</speaker>
 [<i>to his companions</i>]
 Follow me close, for I will speak to them.--
-Gentlemen, good e'en. A word with one of you.
+Gentlemen, good e&rsquo;en. A word with one of you.
 
 <speaker>MERCUTIO</speaker>
 And but one word with one of us? Couple it
@@ -2519,7 +2517,7 @@ Mercutio, thou consortest with Romeo.
 <speaker>MERCUTIO</speaker>
 Consort? What, dost thou make us minstrels?
 An thou make minstrels of us, look to hear
-nothing but discords. Here's my fiddlestick; here's
+nothing but discords. Here&rsquo;s my fiddlestick; here&rsquo;s
 that shall make you dance. Zounds, consort!
 
 <speaker>BENVOLIO</speaker>
@@ -2529,8 +2527,8 @@ Or reason coldly of your grievances,
 Or else depart. Here all eyes gaze on us.
 
 <speaker>MERCUTIO</speaker>
-Men's eyes were made to look, and let them gaze.
-I will not budge for no man's pleasure, I.
+Men&rsquo;s eyes were made to look, and let them gaze.
+I will not budge for no man&rsquo;s pleasure, I.
 
 [<i>Enter Romeo.</i>]
 
@@ -2538,9 +2536,9 @@ I will not budge for no man's pleasure, I.
 Well, peace be with you, sir. Here comes my man.
 
 <speaker>MERCUTIO</speaker>
-But I'll be hanged, sir, if he wear your livery.
-Marry, go before to field, he'll be your follower.
-Your Worship in that sense may call him "man."
+But I&rsquo;ll be hanged, sir, if he wear your livery.
+Marry, go before to field, he&rsquo;ll be your follower.
+Your Worship in that sense may call him "&ldquo;man.&rdquo;"
 
 <speaker>TYBALT</speaker>
 Romeo, the love I bear thee can afford
@@ -2604,14 +2602,14 @@ Away, Tybalt!
 
 <speaker>MERCUTIO</speaker>
 I am hurt.
-A plague o' both houses! I am sped.
+A plague o&rsquo; both houses! I am sped.
 Is he gone and hath nothing?
 
 <speaker>BENVOLIO</speaker>
 What, art thou hurt?
 
 <speaker>MERCUTIO</speaker>
-Ay, ay, a scratch, a scratch. Marry, 'tis enough.
+Ay, ay, a scratch, a scratch. Marry, &rsquo;tis enough.
 Where is my page?--Go, villain, fetch a surgeon.
 [<i>Page exits.</i>]
 
@@ -2619,10 +2617,10 @@ Where is my page?--Go, villain, fetch a surgeon.
 Courage, man, the hurt cannot be much.
 
 <speaker>MERCUTIO</speaker>
-No, 'tis not so deep as a well, nor so wide as
-a church door, but 'tis enough. 'Twill serve. Ask for
+No, &rsquo;tis not so deep as a well, nor so wide as
+a church door, but &rsquo;tis enough. &rsquo;Twill serve. Ask for
 me tomorrow, and you shall find me a grave man. I
-am peppered, I warrant, for this world. A plague o'
+am peppered, I warrant, for this world. A plague o&rsquo;
 both your houses! Zounds, a dog, a rat, a mouse, a
 cat, to scratch a man to death! A braggart, a rogue, a
 villain that fights by the book of arithmetic! Why the
@@ -2634,19 +2632,19 @@ I thought all for the best.
 
 <speaker>MERCUTIO</speaker>
 Help me into some house, Benvolio,
-Or I shall faint. A plague o' both your houses!
-They have made worms' meat of me.
+Or I shall faint. A plague o&rsquo; both your houses!
+They have made worms&rsquo; meat of me.
 I have it, and soundly, too. Your houses!
 [<i>All but Romeo exit.</i>]
 
 <speaker>ROMEO</speaker>
-This gentleman, the Prince's near ally,
+This gentleman, the Prince&rsquo;s near ally,
 My very friend, hath got this mortal hurt
 In my behalf. My reputation stained
-With Tybalt's slander--Tybalt, that an hour
+With Tybalt&rsquo;s slander--Tybalt, that an hour
 Hath been my cousin! O sweet Juliet,
 Thy beauty hath made me effeminate
-And in my temper softened valor's steel.
+And in my temper softened valor&rsquo;s steel.
 
 [<i>Enter Benvolio.</i>]
 
@@ -2656,7 +2654,7 @@ That gallant spirit hath aspired the clouds,
 Which too untimely here did scorn the earth.
 
 <speaker>ROMEO</speaker>
-This day's black fate on more days doth depend.
+This day&rsquo;s black fate on more days doth depend.
 This but begins the woe others must end.
 
 [<i>Enter Tybalt.</i>]
@@ -2668,8 +2666,8 @@ Here comes the furious Tybalt back again.
 Alive in triumph, and Mercutio slain!
 Away to heaven, respective lenity,
 And fire-eyed fury be my conduct now.--
-Now, Tybalt, take the "villain" back again
-That late thou gavest me, for Mercutio's soul
+Now, Tybalt, take the "&ldquo;villain&rdquo;" back again
+That late thou gavest me, for Mercutio&rsquo;s soul
 Is but a little way above our heads,
 Staying for thine to keep him company.
 Either thou or I, or both, must go with him.
@@ -2689,7 +2687,7 @@ Stand not amazed. The Prince will doom thee death
 If thou art taken. Hence, be gone, away.
 
 <speaker>ROMEO</speaker>
-O, I am Fortune's fool!
+O, I am Fortune&rsquo;s fool!
 
 <speaker>BENVOLIO</speaker>
 Why dost thou stay?
@@ -2707,7 +2705,7 @@ There lies that Tybalt.
 <speaker>CITIZEN,</speaker>
 [<i>to Tybalt</i>]
   Up, sir, go with me.
-I charge thee in the Prince's name, obey.
+I charge thee in the Prince&rsquo;s name, obey.
 
 [<i>Enter Prince, old Montague, Capulet, their Wives and all.</i>]
 
@@ -2721,7 +2719,7 @@ There lies the man, slain by young Romeo,
 That slew thy kinsman, brave Mercutio.
 
 <speaker>LADY CAPULET</speaker>
-Tybalt, my cousin, O my brother's child!
+Tybalt, my cousin, O my brother&rsquo;s child!
 O prince! O cousin! Husband! O, the blood is spilled
 Of my dear kinsman! Prince, as thou art true,
 For blood of ours, shed blood of Montague.
@@ -2731,28 +2729,28 @@ O cousin, cousin!
 Benvolio, who began this bloody fray?
 
 <speaker>BENVOLIO</speaker>
-Tybalt, here slain, whom Romeo's hand did slay--
+Tybalt, here slain, whom Romeo&rsquo;s hand did slay--
 Romeo, that spoke him fair, bid him bethink
 How nice the quarrel was, and urged withal
 Your high displeasure. All this uttered
 With gentle breath, calm look, knees humbly bowed
 Could not take truce with the unruly spleen
 Of Tybalt, deaf to peace, but that he tilts
-With piercing steel at bold Mercutio's breast,
+With piercing steel at bold Mercutio&rsquo;s breast,
 Who, all as hot, turns deadly point to point
 And, with a martial scorn, with one hand beats
 Cold death aside and with the other sends
 It back to Tybalt, whose dexterity
 Retorts it. Romeo he cries aloud
-"Hold, friends! Friends, part!" and swifter than his
+"&ldquo;Hold, friends! Friends, part!&rdquo;" and swifter than his
 tongue
 His agile arm beats down their fatal points,
-And 'twixt them rushes; underneath whose arm
+And &rsquo;twixt them rushes; underneath whose arm
 An envious thrust from Tybalt hit the life
 Of stout Mercutio, and then Tybalt fled.
 But by and by comes back to Romeo,
 Who had but newly entertained revenge,
-And to 't they go like lightning, for ere I
+And to &rsquo;t they go like lightning, for ere I
 Could draw to part them was stout Tybalt slain,
 And, as he fell, did Romeo turn and fly.
 This is the truth, or let Benvolio die.
@@ -2770,16 +2768,16 @@ Romeo slew him; he slew Mercutio.
 Who now the price of his dear blood doth owe?
 
 <speaker>MONTAGUE</speaker>
-Not Romeo, Prince; he was Mercutio's friend.
+Not Romeo, Prince; he was Mercutio&rsquo;s friend.
 His fault concludes but what the law should end,
 The life of Tybalt.
 
 <speaker>PRINCE</speaker>
 And for that offense
 Immediately we do exile him hence.
-I have an interest in your hearts' proceeding:
+I have an interest in your hearts&rsquo; proceeding:
 My blood for your rude brawls doth lie a-bleeding.
-But I'll amerce you with so strong a fine
+But I&rsquo;ll amerce you with so strong a fine
 That you shall all repent the loss of mine.
 I will be deaf to pleading and excuses.
 Nor tears nor prayers shall purchase out abuses.
@@ -2788,7 +2786,7 @@ Else, when he is found, that hour is his last.
 Bear hence this body and attend our will.
 Mercy but murders, pardoning those that kill.
 [<i>They exit, the Capulet men
-bearing off Tybalt's body.</i>]
+bearing off Tybalt&rsquo;s body.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
@@ -2796,11 +2794,11 @@ bearing off Tybalt's body.</i>]
 
 <speaker>JULIET</speaker>
 Gallop apace, you fiery-footed steeds,
-Towards Phoebus' lodging. Such a wagoner
+Towards Phoebus&rsquo; lodging. Such a wagoner
 As Phaeton would whip you to the west
 And bring in cloudy night immediately.
 Spread thy close curtain, love-performing night,
-That runaways' eyes may wink, and Romeo
+That runaways&rsquo; eyes may wink, and Romeo
 Leap to these arms, untalked of and unseen.
 Lovers can see to do their amorous rites
 By their own beauties, or, if love be blind,
@@ -2814,7 +2812,7 @@ Think true love acted simple modesty.
 Come, night. Come, Romeo. Come, thou day in
 night,
 For thou wilt lie upon the wings of night
-Whiter than new snow upon a raven's back.
+Whiter than new snow upon a raven&rsquo;s back.
 Come, gentle night; come, loving black-browed
 night,
 Give me my Romeo, and when I shall die,
@@ -2833,7 +2831,7 @@ And may not wear them.
 
 O, here comes my nurse,
 And she brings news, and every tongue that speaks
-But Romeo's name speaks heavenly eloquence.--
+But Romeo&rsquo;s name speaks heavenly eloquence.--
 Now, nurse, what news? What hast thou there? The
 cords
 That Romeo bid thee fetch?
@@ -2846,9 +2844,9 @@ Ay, ay, the cords.
 Ay me, what news? Why dost thou wring thy hands?
 
 <speaker>NURSE</speaker>
-Ah weraday, he's dead, he's dead, he's dead!
+Ah weraday, he&rsquo;s dead, he&rsquo;s dead, he&rsquo;s dead!
 We are undone, lady, we are undone.
-Alack the day, he's gone, he's killed, he's dead.
+Alack the day, he&rsquo;s gone, he&rsquo;s killed, he&rsquo;s dead.
 
 <speaker>JULIET</speaker>
 Can heaven be so envious?
@@ -2861,12 +2859,12 @@ Whoever would have thought it? Romeo!
 <speaker>JULIET</speaker>
 What devil art thou that dost torment me thus?
 This torture should be roared in dismal hell.
-Hath Romeo slain himself? Say thou but "Ay,"
-And that bare vowel "I" shall poison more
+Hath Romeo slain himself? Say thou but "&ldquo;Ay,&rdquo;"
+And that bare vowel "&ldquo;I&rdquo;" shall poison more
 Than the death-darting eye of cockatrice.
-I am not I if there be such an "I,"
-Or those eyes shut that makes thee answer "Ay."
-If he be slain, say "Ay," or if not, "No."
+I am not I if there be such an "&ldquo;I,&rdquo;"
+Or those eyes shut that makes thee answer "&ldquo;Ay.&rdquo;"
+If he be slain, say "&ldquo;Ay,&rdquo;" or if not, "&ldquo;No.&rdquo;"
 Brief sounds determine my weal or woe.
 
 <speaker>NURSE</speaker>
@@ -2878,7 +2876,7 @@ All in gore blood. I swooned at the sight.
 
 <speaker>JULIET</speaker>
 O break, my heart, poor bankrout, break at once!
-To prison, eyes; ne'er look on liberty.
+To prison, eyes; ne&rsquo;er look on liberty.
 Vile earth to earth resign; end motion here,
 And thou and Romeo press one heavy bier.
 
@@ -2899,18 +2897,18 @@ Tybalt is gone and Romeo banished.
 Romeo that killed him--he is banished.
 
 <speaker>JULIET</speaker>
-O God, did Romeo's hand shed Tybalt's blood?
+O God, did Romeo&rsquo;s hand shed Tybalt&rsquo;s blood?
 
 <speaker>NURSE</speaker>
 It did, it did, alas the day, it did.
 
 <speaker>JULIET</speaker>
-O serpent heart hid with a flow'ring face!
+O serpent heart hid with a flow&rsquo;ring face!
 Did ever dragon keep so fair a cave?
 Beautiful tyrant, fiend angelical!
 Dove-feathered raven, wolvish-ravening lamb!
 Despised substance of divinest show!
-Just opposite to what thou justly seem'st,
+Just opposite to what thou justly seem&rsquo;st,
 A damned saint, an honorable villain.
 O nature, what hadst thou to do in hell
 When thou didst bower the spirit of a fiend
@@ -2920,10 +2918,10 @@ So fairly bound? O, that deceit should dwell
 In such a gorgeous palace!
 
 <speaker>NURSE</speaker>
-There's no trust,
+There&rsquo;s no trust,
 No faith, no honesty in men. All perjured,
 All forsworn, all naught, all dissemblers.
-Ah, where's my man? Give me some aqua vitae.
+Ah, where&rsquo;s my man? Give me some aqua vitae.
 These griefs, these woes, these sorrows make me
 old.
 Shame come to Romeo!
@@ -2932,7 +2930,7 @@ Shame come to Romeo!
 Blistered be thy tongue
 For such a wish! He was not born to shame.
 Upon his brow shame is ashamed to sit,
-For 'tis a throne where honor may be crowned
+For &rsquo;tis a throne where honor may be crowned
 Sole monarch of the universal Earth.
 O, what a beast was I to chide at him!
 
@@ -2950,52 +2948,52 @@ Back, foolish tears, back to your native spring;
 Your tributary drops belong to woe,
 Which you, mistaking, offer up to joy.
 My husband lives, that Tybalt would have slain,
-And Tybalt's dead, that would have slain my
+And Tybalt&rsquo;s dead, that would have slain my
 husband.
 All this is comfort. Wherefore weep I then?
-Some word there was, worser than Tybalt's death,
+Some word there was, worser than Tybalt&rsquo;s death,
 That murdered me. I would forget it fain,
 But, O, it presses to my memory
-Like damned guilty deeds to sinners' minds:
-"Tybalt is dead and Romeo banished."
-That "banished," that one word "banished,"
-Hath slain ten thousand Tybalts. Tybalt's death
+Like damned guilty deeds to sinners&rsquo; minds:
+"&ldquo;Tybalt is dead and Romeo banished.&rdquo;"
+That "&ldquo;banished,&rdquo;" that one word "&ldquo;banished,&rdquo;"
+Hath slain ten thousand Tybalts. Tybalt&rsquo;s death
 Was woe enough if it had ended there;
 Or, if sour woe delights in fellowship
 And needly will be ranked with other griefs,
-Why followed not, when she said "Tybalt's dead,"
-"Thy father" or "thy mother," nay, or both,
+Why followed not, when she said "&ldquo;Tybalt&rsquo;s dead,&rdquo;"
+"&ldquo;Thy father&rdquo;" or "&ldquo;thy mother,&rdquo;" nay, or both,
 Which modern lamentation might have moved?
-But with a rearward following Tybalt's death,
-"Romeo is banished." To speak that word
+But with a rearward following Tybalt&rsquo;s death,
+"&ldquo;Romeo is banished.&rdquo;" To speak that word
 Is father, mother, Tybalt, Romeo, Juliet,
-All slain, all dead. "Romeo is banished."
+All slain, all dead. "&ldquo;Romeo is banished.&rdquo;"
 There is no end, no limit, measure, bound,
-In that word's death. No words can that woe sound.
+In that word&rsquo;s death. No words can that woe sound.
 Where is my father and my mother, nurse?
 
 <speaker>NURSE</speaker>
-Weeping and wailing over Tybalt's corse.
+Weeping and wailing over Tybalt&rsquo;s corse.
 Will you go to them? I will bring you thither.
 
 <speaker>JULIET</speaker>
 Wash they his wounds with tears? Mine shall be
 spent,
-When theirs are dry, for Romeo's banishment.--
+When theirs are dry, for Romeo&rsquo;s banishment.--
 Take up those cords.
 [<i>The Nurse picks up the rope ladder.</i>]
 Poor ropes, you are beguiled,
 Both you and I, for Romeo is exiled.
 He made you for a highway to my bed,
 But I, a maid, die maiden-widowed.
-Come, cords--come, nurse. I'll to my wedding bed,
+Come, cords--come, nurse. I&rsquo;ll to my wedding bed,
 And death, not Romeo, take my maidenhead!
 
 <speaker>NURSE</speaker>
-Hie to your chamber. I'll find Romeo
+Hie to your chamber. I&rsquo;ll find Romeo
 To comfort you. I wot well where he is.
 Hark you, your Romeo will be here at night.
-I'll to him. He is hid at Lawrence' cell.
+I&rsquo;ll to him. He is hid at Lawrence&rsquo; cell.
 
 <speaker>JULIET</speaker>
 O, find him!	[<i>Giving the Nurse a ring.</i>]
@@ -3015,26 +3013,26 @@ And thou art wedded to calamity.
 [<i>Enter Romeo.</i>]
 
 <speaker>ROMEO</speaker>
-Father, what news? What is the Prince's doom?
+Father, what news? What is the Prince&rsquo;s doom?
 What sorrow craves acquaintance at my hand
 That I yet know not?
 
 <speaker>FRIAR LAWRENCE</speaker>
 Too familiar
 Is my dear son with such sour company.
-I bring thee tidings of the Prince's doom.
+I bring thee tidings of the Prince&rsquo;s doom.
 
 <speaker>ROMEO</speaker>
-What less than doomsday is the Prince's doom?
+What less than doomsday is the Prince&rsquo;s doom?
 
 <speaker>FRIAR LAWRENCE</speaker>
 A gentler judgment vanished from his lips:
-Not body's death, but body's banishment.
+Not body&rsquo;s death, but body&rsquo;s banishment.
 
 <speaker>ROMEO</speaker>
-Ha, banishment? Be merciful, say "death,"
+Ha, banishment? Be merciful, say "&ldquo;death,&rdquo;"
 For exile hath more terror in his look,
-Much more than death. Do not say "banishment."
+Much more than death. Do not say "&ldquo;banishment.&rdquo;"
 
 <speaker>FRIAR LAWRENCE</speaker>
 Here from Verona art thou banished.
@@ -3043,29 +3041,29 @@ Be patient, for the world is broad and wide.
 <speaker>ROMEO</speaker>
 There is no world without Verona walls
 But purgatory, torture, hell itself.
-Hence "banished" is "banished from the world,"
-And world's exile is death. Then "banished"
-Is death mistermed. Calling death "banished,"
-Thou cutt'st my head off with a golden ax
+Hence "&ldquo;banished&rdquo;" is "&ldquo;banished from the world,&rdquo;"
+And world&rsquo;s exile is death. Then "&ldquo;banished&rdquo;"
+Is death mistermed. Calling death "&ldquo;banished,&rdquo;"
+Thou cutt&rsquo;st my head off with a golden ax
 And smilest upon the stroke that murders me.
 
 <speaker>FRIAR LAWRENCE</speaker>
 O deadly sin, O rude unthankfulness!
 Thy fault our law calls death, but the kind prince,
 Taking thy part, hath rushed aside the law
-And turned that black word "death" to
-"banishment."
+And turned that black word "&ldquo;death&rdquo;" to
+"&ldquo;banishment.&rdquo;"
 This is dear mercy, and thou seest it not.
 
 <speaker>ROMEO</speaker>
-'Tis torture and not mercy. Heaven is here
+&rsquo;Tis torture and not mercy. Heaven is here
 Where Juliet lives, and every cat and dog
 And little mouse, every unworthy thing,
 Live here in heaven and may look on her,
 But Romeo may not. More validity,
 More honorable state, more courtship lives
 In carrion flies than Romeo. They may seize
-On the white wonder of dear Juliet's hand
+On the white wonder of dear Juliet&rsquo;s hand
 And steal immortal blessing from her lips,
 Who even in pure and vestal modesty
 Still blush, as thinking their own kisses sin;
@@ -3075,13 +3073,13 @@ They are free men, but I am banished.
 And sayest thou yet that exile is not death?
 Hadst thou no poison mixed, no sharp-ground
 knife,
-No sudden mean of death, though ne'er so mean,
-But "banished" to kill me? "Banished"?
+No sudden mean of death, though ne&rsquo;er so mean,
+But "&ldquo;banished&rdquo;" to kill me? "&ldquo;Banished&rdquo;"?
 O friar, the damned use that word in hell.
 Howling attends it. How hast thou the heart,
 Being a divine, a ghostly confessor,
 A sin absolver, and my friend professed,
-To mangle me with that word "banished"?
+To mangle me with that word "&ldquo;banished&rdquo;"?
 
 <speaker>FRIAR LAWRENCE</speaker>
 Thou fond mad man, hear me a little speak.
@@ -3090,14 +3088,14 @@ Thou fond mad man, hear me a little speak.
 O, thou wilt speak again of banishment.
 
 <speaker>FRIAR LAWRENCE</speaker>
-I'll give thee armor to keep off that word,
-Adversity's sweet milk, philosophy,
+I&rsquo;ll give thee armor to keep off that word,
+Adversity&rsquo;s sweet milk, philosophy,
 To comfort thee, though thou art banished.
 
 <speaker>ROMEO</speaker>
-Yet "banished"? Hang up philosophy.
+Yet "&ldquo;banished&rdquo;"? Hang up philosophy.
 Unless philosophy can make a Juliet,
-Displant a town, reverse a prince's doom,
+Displant a town, reverse a prince&rsquo;s doom,
 It helps not, it prevails not. Talk no more.
 
 <speaker>FRIAR LAWRENCE</speaker>
@@ -3130,14 +3128,14 @@ Mistlike, enfold me from the search of eyes.
 [<i>Knock.</i>]
 
 <speaker>FRIAR LAWRENCE</speaker>
-Hark, how they knock!--Who's there?--Romeo,
+Hark, how they knock!--Who&rsquo;s there?--Romeo,
 arise.
 Thou wilt be taken.--Stay awhile.--Stand up.
 [<i>Knock.</i>]
-Run to my study.--By and by.--God's will,
+Run to my study.--By and by.--God&rsquo;s will,
 What simpleness is this?--I come, I come.
 [<i>Knock.</i>]
-Who knocks so hard? Whence come you? What's
+Who knocks so hard? Whence come you? What&rsquo;s
 your will?
 
 <speaker>NURSE,</speaker>
@@ -3153,26 +3151,26 @@ Welcome, then.
 
 <speaker>NURSE</speaker>
 O holy friar, O, tell me, holy friar,
-Where's my lady's lord? Where's Romeo?
+Where&rsquo;s my lady&rsquo;s lord? Where&rsquo;s Romeo?
 
 <speaker>FRIAR LAWRENCE</speaker>
 There on the ground, with his own tears made
 drunk.
 
 <speaker>NURSE</speaker>
-O, he is even in my mistress' case,
+O, he is even in my mistress&rsquo; case,
 Just in her case. O woeful sympathy!
 Piteous predicament! Even so lies she,
-Blubb'ring and weeping, weeping and blubb'ring.--
+Blubb&rsquo;ring and weeping, weeping and blubb&rsquo;ring.--
 Stand up, stand up. Stand an you be a man.
-For Juliet's sake, for her sake, rise and stand.
+For Juliet&rsquo;s sake, for her sake, rise and stand.
 Why should you fall into so deep an O?
 
 <speaker>ROMEO</speaker>
 Nurse.
 
 <speaker>NURSE</speaker>
-Ah sir, ah sir, death's the end of all.
+Ah sir, ah sir, death&rsquo;s the end of all.
 
 <speaker>ROMEO,</speaker>
 [<i>rising up</i>]
@@ -3186,13 +3184,13 @@ My concealed lady to our canceled love?
 <speaker>NURSE</speaker>
 O, she says nothing, sir, but weeps and weeps,
 And now falls on her bed, and then starts up,
-And "Tybalt" calls, and then on Romeo cries,
+And "&ldquo;Tybalt&rdquo;" calls, and then on Romeo cries,
 And then down falls again.
 
 <speaker>ROMEO</speaker>
 As if that name,
 Shot from the deadly level of a gun,
-Did murder her, as that name's cursed hand
+Did murder her, as that name&rsquo;s cursed hand
 Murdered her kinsman.--O, tell me, friar, tell me,
 In what vile part of this anatomy
 Doth my name lodge? Tell me, that I may sack
@@ -3214,7 +3212,7 @@ Why railest thou on thy birth, the heaven, and earth,
 Since birth and heaven and earth all three do meet
 In thee at once, which thou at once wouldst lose?
 Fie, fie, thou shamest thy shape, thy love, thy wit,
-Which, like a usurer, abound'st in all
+Which, like a usurer, abound&rsquo;st in all
 And usest none in that true use indeed
 Which should bedeck thy shape, thy love, thy wit.
 Thy noble shape is but a form of wax,
@@ -3223,7 +3221,7 @@ Thy dear love sworn but hollow perjury,
 Killing that love which thou hast vowed to cherish;
 Thy wit, that ornament to shape and love,
 Misshapen in the conduct of them both,
-Like powder in a skilless soldier's flask,
+Like powder in a skilless soldier&rsquo;s flask,
 Is set afire by thine own ignorance,
 And thou dismembered with thine own defense.
 What, rouse thee, man! Thy Juliet is alive,
@@ -3245,7 +3243,7 @@ Where thou shalt live till we can find a time
 To blaze your marriage, reconcile your friends,
 Beg pardon of the Prince, and call thee back
 With twenty hundred thousand times more joy
-Than thou went'st forth in lamentation.--
+Than thou went&rsquo;st forth in lamentation.--
 Go before, nurse. Commend me to thy lady,
 And bid her hasten all the house to bed,
 Which heavy sorrow makes them apt unto.
@@ -3254,7 +3252,7 @@ Romeo is coming.
 <speaker>NURSE</speaker>
 O Lord, I could have stayed here all the night
 To hear good counsel. O, what learning is!--
-My lord, I'll tell my lady you will come.
+My lord, I&rsquo;ll tell my lady you will come.
 
 <speaker>ROMEO</speaker>
 Do so, and bid my sweet prepare to chide.
@@ -3273,10 +3271,10 @@ Go hence, good night--and here stands all your
 state:
 Either be gone before the watch be set
 Or by the break of day disguised from hence.
-Sojourn in Mantua. I'll find out your man,
+Sojourn in Mantua. I&rsquo;ll find out your man,
 And he shall signify from time to time
 Every good hap to you that chances here.
-Give me thy hand. 'Tis late. Farewell. Good night.
+Give me thy hand. &rsquo;Tis late. Farewell. Good night.
 
 <speaker>ROMEO</speaker>
 But that a joy past joy calls out on me,
@@ -3293,7 +3291,7 @@ Things have fallen out, sir, so unluckily
 That we have had no time to move our daughter.
 Look you, she loved her kinsman Tybalt dearly,
 And so did I. Well, we were born to die.
-'Tis very late. She'll not come down tonight.
+&rsquo;Tis very late. She&rsquo;ll not come down tonight.
 I promise you, but for your company,
 I would have been abed an hour ago.
 
@@ -3304,14 +3302,14 @@ daughter.
 
 <speaker>LADY CAPULET</speaker>
 I will, and know her mind early tomorrow.
-Tonight she's mewed up to her heaviness.
+Tonight she&rsquo;s mewed up to her heaviness.
 
 <speaker>CAPULET</speaker>
 Sir Paris, I will make a desperate tender
-Of my child's love. I think she will be ruled
+Of my child&rsquo;s love. I think she will be ruled
 In all respects by me. Nay, more, I doubt it not.--
 Wife, go you to her ere you go to bed.
-Acquaint her here of my son Paris' love,
+Acquaint her here of my son Paris&rsquo; love,
 And bid her--mark you me?--on Wednesday
 next--
 But soft, what day is this?
@@ -3321,22 +3319,21 @@ Monday, my lord.
 
 <speaker>CAPULET</speaker>
 Monday, ha ha! Well, Wednesday is too soon.
-<speaker>O'</speaker>
-Thursday let it be.--O' Thursday, tell her,
+O&rsquo; Thursday let it be.--O&rsquo; Thursday, tell her,
 She shall be married to this noble earl.--
 Will you be ready? Do you like this haste?
-We'll keep no great ado: a friend or two.
+We&rsquo;ll keep no great ado: a friend or two.
 For hark you, Tybalt being slain so late,
 It may be thought we held him carelessly,
 Being our kinsman, if we revel much.
-Therefore we'll have some half a dozen friends,
+Therefore we&rsquo;ll have some half a dozen friends,
 And there an end. But what say you to Thursday?
 
 <speaker>PARIS</speaker>
 My lord, I would that Thursday were tomorrow.
 
 <speaker>CAPULET</speaker>
-Well, get you gone. O' Thursday be it, then.
+Well, get you gone. O&rsquo; Thursday be it, then.
 [<i>To Lady Capulet.</i>]
  Go you to Juliet ere you go to bed.
 Prepare her, wife, against this wedding day.--
@@ -3360,7 +3357,7 @@ Believe me, love, it was the nightingale.
 It was the lark, the herald of the morn,
 No nightingale. Look, love, what envious streaks
 Do lace the severing clouds in yonder east.
-Night's candles are burnt out, and jocund day
+Night&rsquo;s candles are burnt out, and jocund day
 Stands tiptoe on the misty mountain-tops.
 I must be gone and live, or stay and die.
 
@@ -3369,18 +3366,18 @@ Yond light is not daylight, I know it, I.
 It is some meteor that the sun exhaled
 To be to thee this night a torchbearer
 And light thee on thy way to Mantua.
-Therefore stay yet. Thou need'st not to be gone.
+Therefore stay yet. Thou need&rsquo;st not to be gone.
 
 <speaker>ROMEO</speaker>
-Let me be ta'en; let me be put to death.
+Let me be ta&rsquo;en; let me be put to death.
 I am content, so thou wilt have it so.
-I'll say yon gray is not the morning's eye;
-'Tis but the pale reflex of Cynthia's brow.
+I&rsquo;ll say yon gray is not the morning&rsquo;s eye;
+&rsquo;Tis but the pale reflex of Cynthia&rsquo;s brow.
 Nor that is not the lark whose notes do beat
 The vaulty heaven so high above our heads.
 I have more care to stay than will to go.
 Come death and welcome. Juliet wills it so.
-How is 't, my soul? Let's talk. It is not day.
+How is &rsquo;t, my soul? Let&rsquo;s talk. It is not day.
 
 <speaker>JULIET</speaker>
 It is, it is. Hie hence, begone, away!
@@ -3391,7 +3388,7 @@ This doth not so, for she divideth us.
 Some say the lark and loathed toad changed eyes.
 O, now I would they had changed voices too,
 Since arm from arm that voice doth us affray,
-Hunting thee hence with hunt's-up to the day.
+Hunting thee hence with hunt&rsquo;s-up to the day.
 O, now begone. More light and light it grows.
 
 <speaker>ROMEO</speaker>
@@ -3413,7 +3410,7 @@ The day is broke; be wary; look about.	[<i>She exits.</i>]
 Then, window, let day in, and let life out.
 
 <speaker>ROMEO</speaker>
-Farewell, farewell. One kiss and I'll descend.
+Farewell, farewell. One kiss and I&rsquo;ll descend.
 [<i>They kiss, and Romeo descends.</i>]
 
 <speaker>JULIET</speaker>
@@ -3429,7 +3426,7 @@ I will omit no opportunity
 That may convey my greetings, love, to thee.
 
 <speaker>JULIET</speaker>
-O, think'st thou we shall ever meet again?
+O, think&rsquo;st thou we shall ever meet again?
 
 <speaker>ROMEO</speaker>
 I doubt it not; and all these woes shall serve
@@ -3458,7 +3455,7 @@ But send him back.
 Ho, daughter, are you up?
 
 <speaker>JULIET</speaker>
-Who is 't that calls? It is my lady mother.
+Who is &rsquo;t that calls? It is my lady mother.
 Is she not down so late or up so early?
 What unaccustomed cause procures her hither?
 [<i>Juliet descends.</i>]
@@ -3470,7 +3467,7 @@ Why, how now, Juliet?
 Madam, I am not well.
 
 <speaker>LADY CAPULET</speaker>
-Evermore weeping for your cousin's death?
+Evermore weeping for your cousin&rsquo;s death?
 What, wilt thou wash him from his grave with tears?
 An if thou couldst, thou couldst not make him live.
 Therefore have done. Some grief shows much of
@@ -3489,7 +3486,7 @@ Feeling so the loss,
 I cannot choose but ever weep the friend.
 
 <speaker>LADY CAPULET</speaker>
-Well, girl, thou weep'st not so much for his death
+Well, girl, thou weep&rsquo;st not so much for his death
 As that the villain lives which slaughtered him.
 
 <speaker>JULIET</speaker>
@@ -3509,11 +3506,11 @@ That is because the traitor murderer lives.
 
 <speaker>JULIET</speaker>
 Ay, madam, from the reach of these my hands.
-Would none but I might venge my cousin's death!
+Would none but I might venge my cousin&rsquo;s death!
 
 <speaker>LADY CAPULET</speaker>
 We will have vengeance for it, fear thou not.
-Then weep no more. I'll send to one in Mantua,
+Then weep no more. I&rsquo;ll send to one in Mantua,
 Where that same banished runagate doth live,
 Shall give him such an unaccustomed dram
 That he shall soon keep Tybalt company.
@@ -3532,8 +3529,8 @@ To wreak the love I bore my cousin
 Upon his body that hath slaughtered him.
 
 <speaker>LADY CAPULET</speaker>
-Find thou the means, and I'll find such a man.
-But now I'll tell thee joyful tidings, girl.
+Find thou the means, and I&rsquo;ll find such a man.
+But now I&rsquo;ll tell thee joyful tidings, girl.
 
 <speaker>JULIET</speaker>
 And joy comes well in such a needy time.
@@ -3551,11 +3548,11 @@ Madam, in happy time! What day is that?
 <speaker>LADY CAPULET</speaker>
 Marry, my child, early next Thursday morn
 The gallant, young, and noble gentleman,
-The County Paris, at Saint Peter's Church
+The County Paris, at Saint Peter&rsquo;s Church
 Shall happily make thee there a joyful bride.
 
 <speaker>JULIET</speaker>
-Now, by Saint Peter's Church, and Peter too,
+Now, by Saint Peter&rsquo;s Church, and Peter too,
 He shall not make me there a joyful bride!
 I wonder at this haste, that I must wed
 Ere he that should be husband comes to woo.
@@ -3572,10 +3569,10 @@ And see how he will take it at your hands.
 
 <speaker>CAPULET</speaker>
 When the sun sets, the earth doth drizzle dew,
-But for the sunset of my brother's son
+But for the sunset of my brother&rsquo;s son
 It rains downright.
 How now, a conduit, girl? What, still in tears?
-Evermore show'ring? In one little body
+Evermore show&rsquo;ring? In one little body
 Thou counterfeits a bark, a sea, a wind.
 For still thy eyes, which I may call the sea,
 Do ebb and flow with tears; the bark thy body is,
@@ -3603,11 +3600,11 @@ But thankful even for hate that is meant love.
 
 <speaker>CAPULET</speaker>
 How, how, how, how? Chopped logic? What is this?
-"Proud," and "I thank you," and "I thank you not,"
-And yet "not proud"? Mistress minion you,
+"&ldquo;Proud,&rdquo;" and "&ldquo;I thank you,&rdquo;" and "&ldquo;I thank you not,&rdquo;"
+And yet "&ldquo;not proud&rdquo;"? Mistress minion you,
 Thank me no thankings, nor proud me no prouds,
-But fettle your fine joints 'gainst Thursday next
-To go with Paris to Saint Peter's Church,
+But fettle your fine joints &rsquo;gainst Thursday next
+To go with Paris to Saint Peter&rsquo;s Church,
 Or I will drag thee on a hurdle thither.
 Out, you green-sickness carrion! Out, you baggage!
 You tallow face!
@@ -3622,7 +3619,7 @@ Hear me with patience but to speak a word.
 
 <speaker>CAPULET</speaker>
 Hang thee, young baggage, disobedient wretch!
-I tell thee what: get thee to church o' Thursday,
+I tell thee what: get thee to church o&rsquo; Thursday,
 Or never after look me in the face.
 Speak not; reply not; do not answer me.
 My fingers itch.--Wife, we scarce thought us
@@ -3644,41 +3641,41 @@ Good Prudence, smatter with your gossips, go.
 I speak no treason.
 
 <speaker>CAPULET</speaker>
-O, God 'i' g' eden!
+O, God &rsquo;i&rsquo; g&rsquo; eden!
 
 <speaker>NURSE</speaker>
 May not one speak?
 
 <speaker>CAPULET</speaker>
 Peace, you mumbling fool!
-Utter your gravity o'er a gossip's bowl,
+Utter your gravity o&rsquo;er a gossip&rsquo;s bowl,
 For here we need it not.
 
 <speaker>LADY CAPULET</speaker>
 You are too hot.
 
 <speaker>CAPULET</speaker>
-God's bread, it makes me mad.
+God&rsquo;s bread, it makes me mad.
 Day, night, hour, tide, time, work, play,
 Alone, in company, still my care hath been
 To have her matched. And having now provided
 A gentleman of noble parentage,
 Of fair demesnes, youthful, and nobly ligned,
 Stuffed, as they say, with honorable parts,
-Proportioned as one's thought would wish a man--
+Proportioned as one&rsquo;s thought would wish a man--
 And then to have a wretched puling fool,
-A whining mammet, in her fortune's tender,
-To answer "I'll not wed. I cannot love.
-I am too young. I pray you, pardon me."
-But, an you will not wed, I'll pardon you!
+A whining mammet, in her fortune&rsquo;s tender,
+To answer "&ldquo;I&rsquo;ll not wed. I cannot love.
+I am too young. I pray you, pardon me.&rdquo;"
+But, an you will not wed, I&rsquo;ll pardon you!
 Graze where you will, you shall not house with me.
-Look to 't; think on 't. I do not use to jest.
+Look to &rsquo;t; think on &rsquo;t. I do not use to jest.
 Thursday is near. Lay hand on heart; advise.
-An you be mine, I'll give you to my friend.
+An you be mine, I&rsquo;ll give you to my friend.
 An you be not, hang, beg, starve, die in the streets,
-For, by my soul, I'll ne'er acknowledge thee,
+For, by my soul, I&rsquo;ll ne&rsquo;er acknowledge thee,
 Nor what is mine shall never do thee good.
-Trust to 't; bethink you. I'll not be forsworn.
+Trust to &rsquo;t; bethink you. I&rsquo;ll not be forsworn.
 [<i>He exits.</i>]
 
 <speaker>JULIET</speaker>
@@ -3690,7 +3687,7 @@ Or, if you do not, make the bridal bed
 In that dim monument where Tybalt lies.
 
 <speaker>LADY CAPULET</speaker>
-Talk not to me, for I'll not speak a word.
+Talk not to me, for I&rsquo;ll not speak a word.
 Do as thou wilt, for I have done with thee.
 [<i>She exits.</i>]
 
@@ -3709,21 +3706,21 @@ Some comfort, nurse.
 <speaker>NURSE</speaker>
 Faith, here it is.
 Romeo is banished, and all the world to nothing
-That he dares ne'er come back to challenge you,
+That he dares ne&rsquo;er come back to challenge you,
 Or, if he do, it needs must be by stealth.
 Then, since the case so stands as now it doth,
 I think it best you married with the County.
-O, he's a lovely gentleman!
-Romeo's a dishclout to him. An eagle, madam,
+O, he&rsquo;s a lovely gentleman!
+Romeo&rsquo;s a dishclout to him. An eagle, madam,
 Hath not so green, so quick, so fair an eye
 As Paris hath. Beshrew my very heart,
 I think you are happy in this second match,
 For it excels your first, or, if it did not,
-Your first is dead, or 'twere as good he were
+Your first is dead, or &rsquo;twere as good he were
 As living here and you no use of him.
 
 <speaker>JULIET</speaker>
-Speak'st thou from thy heart?
+Speak&rsquo;st thou from thy heart?
 
 <speaker>NURSE</speaker>
 And from my soul too, else beshrew them both.
@@ -3737,7 +3734,7 @@ What?
 <speaker>JULIET</speaker>
 Well, thou hast comforted me marvelous much.
 Go in and tell my lady I am gone,
-Having displeased my father, to Lawrence' cell
+Having displeased my father, to Lawrence&rsquo; cell
 To make confession and to be absolved.
 
 <speaker>NURSE</speaker>
@@ -3750,7 +3747,7 @@ Or to dispraise my lord with that same tongue
 Which she hath praised him with above compare
 So many thousand times? Go, counselor.
 Thou and my bosom henceforth shall be twain.
-I'll to the Friar to know his remedy.
+I&rsquo;ll to the Friar to know his remedy.
 If all else fail, myself have power to die.
 [<i>She exits.</i>]
 
@@ -3767,11 +3764,11 @@ My father Capulet will have it so,
 And I am nothing slow to slack his haste.
 
 <speaker>FRIAR LAWRENCE</speaker>
-You say you do not know the lady's mind?
+You say you do not know the lady&rsquo;s mind?
 Uneven is the course. I like it not.
 
 <speaker>PARIS</speaker>
-Immoderately she weeps for Tybalt's death,
+Immoderately she weeps for Tybalt&rsquo;s death,
 And therefore have I little talk of love,
 For Venus smiles not in a house of tears.
 Now, sir, her father counts it dangerous
@@ -3796,13 +3793,13 @@ Happily met, my lady and my wife.
 That may be, sir, when I may be a wife.
 
 <speaker>PARIS</speaker>
-That "may be" must be, love, on Thursday next.
+That "&ldquo;may be&rdquo;" must be, love, on Thursday next.
 
 <speaker>JULIET</speaker>
 What must be shall be.
 
 <speaker>FRIAR LAWRENCE</speaker>
-That's a certain text.
+That&rsquo;s a certain text.
 
 <speaker>PARIS</speaker>
 Come you to make confession to this father?
@@ -3831,7 +3828,7 @@ The tears have got small victory by that,
 For it was bad enough before their spite.
 
 <speaker>PARIS</speaker>
-Thou wrong'st it more than tears with that report.
+Thou wrong&rsquo;st it more than tears with that report.
 
 <speaker>JULIET</speaker>
 That is no slander, sir, which is a truth,
@@ -3869,21 +3866,21 @@ Tell me not, friar, that thou hearest of this,
 Unless thou tell me how I may prevent it.
 If in thy wisdom thou canst give no help,
 Do thou but call my resolution wise,
-And with this knife I'll help it presently.
+And with this knife I&rsquo;ll help it presently.
 [<i>She shows him her knife.</i>]
-God joined my heart and Romeo's, thou our hands;
-And ere this hand, by thee to Romeo's sealed,
+God joined my heart and Romeo&rsquo;s, thou our hands;
+And ere this hand, by thee to Romeo&rsquo;s sealed,
 Shall be the label to another deed,
 Or my true heart with treacherous revolt
 Turn to another, this shall slay them both.
 Therefore out of thy long-experienced time
 Give me some present counsel, or, behold,
-'Twixt my extremes and me this bloody knife
+&rsquo;Twixt my extremes and me this bloody knife
 Shall play the umpire, arbitrating that
 Which the commission of thy years and art
 Could to no issue of true honor bring.
 Be not so long to speak. I long to die
-If what thou speak'st speak not of remedy.
+If what thou speak&rsquo;st speak not of remedy.
 
 <speaker>FRIAR LAWRENCE</speaker>
 Hold, daughter, I do spy a kind of hope,
@@ -3893,8 +3890,8 @@ If, rather than to marry County Paris,
 Thou hast the strength of will to slay thyself,
 Then is it likely thou wilt undertake
 A thing like death to chide away this shame,
-That cop'st with death himself to 'scape from it;
-And if thou darest, I'll give thee remedy.
+That cop&rsquo;st with death himself to &rsquo;scape from it;
+And if thou darest, I&rsquo;ll give thee remedy.
 
 <speaker>JULIET</speaker>
 O, bid me leap, rather than marry Paris,
@@ -3902,7 +3899,7 @@ From off the battlements of any tower,
 Or walk in thievish ways, or bid me lurk
 Where serpents are. Chain me with roaring bears,
 Or hide me nightly in a charnel house,
-O'ercovered quite with dead men's rattling bones,
+O&rsquo;ercovered quite with dead men&rsquo;s rattling bones,
 With reeky shanks and yellow chapless skulls.
 Or bid me go into a new-made grave
 And hide me with a dead man in his shroud
@@ -3924,7 +3921,7 @@ A cold and drowsy humor; for no pulse
 Shall keep his native progress, but surcease.
 No warmth, no breath shall testify thou livest.
 The roses in thy lips and cheeks shall fade
-To paly ashes, thy eyes' windows fall
+To paly ashes, thy eyes&rsquo; windows fall
 Like death when he shuts up the day of life.
 Each part, deprived of supple government,
 Shall, stiff and stark and cold, appear like death,
@@ -3952,7 +3949,7 @@ Give me, give me! O, tell not me of fear!
 <speaker>FRIAR LAWRENCE,</speaker>
 [<i>giving Juliet the vial</i>]
 Hold, get you gone. Be strong and prosperous
-In this resolve. I'll send a friar with speed
+In this resolve. I&rsquo;ll send a friar with speed
 To Mantua with my letters to thy lord.
 
 <speaker>JULIET</speaker>
@@ -3969,18 +3966,18 @@ two or three.</i>]
 <speaker>CAPULET</speaker>
 So many guests invite as here are writ.
 [<i>One or two of the Servingmen exit
-with Capulet's list.</i>]
+with Capulet&rsquo;s list.</i>]
 Sirrah, go hire me twenty cunning cooks.
 
 <speaker>SERVINGMAN</speaker>
-You shall have none ill, sir, for I'll try if
+You shall have none ill, sir, for I&rsquo;ll try if
 they can lick their fingers.
 
 <speaker>CAPULET</speaker>
 How canst thou try them so?
 
 <speaker>SERVINGMAN</speaker>
-Marry, sir, 'tis an ill cook that cannot lick
+Marry, sir, &rsquo;tis an ill cook that cannot lick
 his own fingers. Therefore he that cannot lick his
 fingers goes not with me.
 
@@ -4015,17 +4012,17 @@ Henceforward I am ever ruled by you.
 
 <speaker>CAPULET</speaker>
 Send for the County. Go tell him of this.
-I'll have this knot knit up tomorrow morning.
+I&rsquo;ll have this knot knit up tomorrow morning.
 
 <speaker>JULIET</speaker>
-I met the youthful lord at Lawrence' cell
+I met the youthful lord at Lawrence&rsquo; cell
 And gave him what becomed love I might,
-Not stepping o'er the bounds of modesty.
+Not stepping o&rsquo;er the bounds of modesty.
 
 <speaker>CAPULET</speaker>
-Why, I am glad on 't. This is well. Stand up.
+Why, I am glad on &rsquo;t. This is well. Stand up.
 [<i>Juliet rises.</i>]
-This is as 't should be.--Let me see the County.
+This is as &rsquo;t should be.--Let me see the County.
 Ay, marry, go, I say, and fetch him hither.--
 Now, afore God, this reverend holy friar,
 All our whole city is much bound to him.
@@ -4039,19 +4036,19 @@ As you think fit to furnish me tomorrow?
 No, not till Thursday. There is time enough.
 
 <speaker>CAPULET</speaker>
-Go, nurse. Go with her. We'll to church tomorrow.
+Go, nurse. Go with her. We&rsquo;ll to church tomorrow.
 [<i>Juliet and the Nurse exit.</i>]
 
 <speaker>LADY CAPULET</speaker>
 We shall be short in our provision.
-'Tis now near night.
+&rsquo;Tis now near night.
 
 <speaker>CAPULET</speaker>
 Tush, I will stir about,
 And all things shall be well, I warrant thee, wife.
 Go thou to Juliet. Help to deck up her.
-I'll not to bed tonight. Let me alone.
-I'll play the housewife for this once.--What ho!--
+I&rsquo;ll not to bed tonight. Let me alone.
+I&rsquo;ll play the housewife for this once.--What ho!--
 They are all forth. Well, I will walk myself
 To County Paris, to prepare up him
 Against tomorrow. My heart is wondrous light
@@ -4091,7 +4088,7 @@ Get thee to bed and rest, for thou hast need.
 Farewell.--God knows when we shall meet again.
 I have a faint cold fear thrills through my veins
 That almost freezes up the heat of life.
-I'll call them back again to comfort me.--
+I&rsquo;ll call them back again to comfort me.--
 Nurse!--What should she do here?
 My dismal scene I needs must act alone.
 Come, vial.	[<i>She takes out the vial.</i>]
@@ -4108,7 +4105,7 @@ I fear it is. And yet methinks it should not,
 For he hath still been tried a holy man.
 How if, when I am laid into the tomb,
 I wake before the time that Romeo
-Come to redeem me? There's a fearful point.
+Come to redeem me? There&rsquo;s a fearful point.
 Shall I not then be stifled in the vault,
 To whose foul mouth no healthsome air breathes in,
 And there die strangled ere my Romeo comes?
@@ -4119,7 +4116,7 @@ As in a vault, an ancient receptacle
 Where for this many hundred years the bones
 Of all my buried ancestors are packed;
 Where bloody Tybalt, yet but green in earth,
-Lies fest'ring in his shroud; where, as they say,
+Lies fest&rsquo;ring in his shroud; where, as they say,
 At some hours in the night spirits resort--
 Alack, alack, is it not like that I,
 So early waking, what with loathsome smells,
@@ -4127,14 +4124,14 @@ And shrieks like mandrakes torn out of the earth,
 That living mortals, hearing them, run mad--
 O, if I wake, shall I not be distraught,
 Environed with all these hideous fears,
-And madly play with my forefathers' joints,
+And madly play with my forefathers&rsquo; joints,
 And pluck the mangled Tybalt from his shroud,
-And, in this rage, with some great kinsman's bone,
-As with a club, dash out my desp'rate brains?
-O look, methinks I see my cousin's ghost
+And, in this rage, with some great kinsman&rsquo;s bone,
+As with a club, dash out my desp&rsquo;rate brains?
+O look, methinks I see my cousin&rsquo;s ghost
 Seeking out Romeo that did spit his body
-Upon a rapier's point! Stay, Tybalt, stay!
-Romeo, Romeo, Romeo! Here's drink. I drink to
+Upon a rapier&rsquo;s point! Stay, Tybalt, stay!
+Romeo, Romeo, Romeo! Here&rsquo;s drink. I drink to
 thee.	[<i>She drinks and falls upon her bed
 within the curtains.</i>]
 
@@ -4152,18 +4149,18 @@ They call for dates and quinces in the pastry.
 
 <speaker>CAPULET</speaker>
 Come, stir, stir, stir! The second cock hath crowed.
-The curfew bell hath rung. 'Tis three o'clock.--
+The curfew bell hath rung. &rsquo;Tis three o&rsquo;clock.--
 Look to the baked meats, good Angelica.
 Spare not for cost.
 
 <speaker>NURSE</speaker>
 Go, you cot-quean, go,
-Get you to bed. Faith, you'll be sick tomorrow
-For this night's watching.
+Get you to bed. Faith, you&rsquo;ll be sick tomorrow
+For this night&rsquo;s watching.
 
 <speaker>CAPULET</speaker>
 No, not a whit. What, I have watched ere now
-All night for lesser cause, and ne'er been sick.
+All night for lesser cause, and ne&rsquo;er been sick.
 
 <speaker>LADY CAPULET</speaker>
 Ay, you have been a mouse-hunt in your time,
@@ -4195,7 +4192,7 @@ And never trouble Peter for the matter.
 Mass, and well said. A merry whoreson, ha!
 Thou shalt be loggerhead.
 [<i>Second Servingman exits.</i>]
-Good faith, 'tis day.
+Good faith, &rsquo;tis day.
 The County will be here with music straight,
 [<i>Play music.</i>]
 For so he said he would. I hear him near.--
@@ -4204,7 +4201,7 @@ Nurse!--Wife! What ho!--What, nurse, I say!
 [<i>Enter Nurse.</i>]
 
 Go waken Juliet. Go and trim her up.
-I'll go and chat with Paris. Hie, make haste,
+I&rsquo;ll go and chat with Paris. Hie, make haste,
 Make haste. The bridegroom he is come already.
 Make haste, I say.
 [<i>He exits.</i>]
@@ -4226,12 +4223,12 @@ That you shall rest but little.--God forgive me,
 Marry, and amen! How sound is she asleep!
 I needs must wake her.--Madam, madam, madam!
 Ay, let the County take you in your bed,
-He'll fright you up, i' faith.--Will it not be?
-[<i>She opens the bed's curtains.</i>]
+He&rsquo;ll fright you up, i&rsquo; faith.--Will it not be?
+[<i>She opens the bed&rsquo;s curtains.</i>]
 What, dressed, and in your clothes, and down
 again?
 I must needs wake you. Lady, lady, lady!--
-Alas, alas! Help, help! My lady's dead.--
+Alas, alas! Help, help! My lady&rsquo;s dead.--
 O, weraday, that ever I was born!--
 Some aqua vitae, ho!--My lord! My lady!
 
@@ -4260,13 +4257,13 @@ Help, help! Call help.
 For shame, bring Juliet forth. Her lord is come.
 
 <speaker>NURSE</speaker>
-She's dead, deceased. She's dead, alack the day!
+She&rsquo;s dead, deceased. She&rsquo;s dead, alack the day!
 
 <speaker>LADY CAPULET</speaker>
-Alack the day, she's dead, she's dead, she's dead.
+Alack the day, she&rsquo;s dead, she&rsquo;s dead, she&rsquo;s dead.
 
 <speaker>CAPULET</speaker>
-Ha, let me see her! Out, alas, she's cold.
+Ha, let me see her! Out, alas, she&rsquo;s cold.
 Her blood is settled, and her joints are stiff.
 Life and these lips have long been separated.
 Death lies on her like an untimely frost
@@ -4279,7 +4276,7 @@ O lamentable day!
 O woeful time!
 
 <speaker>CAPULET</speaker>
-Death, that hath ta'en her hence to make me wail,
+Death, that hath ta&rsquo;en her hence to make me wail,
 Ties up my tongue and will not let me speak.
 
 [<i>Enter Friar Lawrence and the County Paris, with
@@ -4295,15 +4292,15 @@ Hath Death lain with thy wife. There she lies,
 Flower as she was, deflowered by him.
 Death is my son-in-law; Death is my heir.
 My daughter he hath wedded. I will die
-And leave him all. Life, living, all is Death's.
+And leave him all. Life, living, all is Death&rsquo;s.
 
 <speaker>PARIS</speaker>
-Have I thought long to see this morning's face,
+Have I thought long to see this morning&rsquo;s face,
 And doth it give me such a sight as this?
 
 <speaker>LADY CAPULET</speaker>
 Accursed, unhappy, wretched, hateful day!
-Most miserable hour that e'er time saw
+Most miserable hour that e&rsquo;er time saw
 In lasting labor of his pilgrimage!
 But one, poor one, one poor and loving child,
 But one thing to rejoice and solace in,
@@ -4325,32 +4322,32 @@ O love! O life! Not life, but love in death!
 
 <speaker>CAPULET</speaker>
 Despised, distressed, hated, martyred, killed!
-Uncomfortable time, why cam'st thou now
+Uncomfortable time, why cam&rsquo;st thou now
 To murder, murder our solemnity?
 O child! O child! My soul and not my child!
 Dead art thou! Alack, my child is dead,
 And with my child my joys are buried.
 
 <speaker>FRIAR LAWRENCE</speaker>
-Peace, ho, for shame! Confusion's cure lives not
+Peace, ho, for shame! Confusion&rsquo;s cure lives not
 In these confusions. Heaven and yourself
 Had part in this fair maid. Now heaven hath all,
 And all the better is it for the maid.
 Your part in her you could not keep from death,
 But heaven keeps his part in eternal life.
 The most you sought was her promotion,
-For 'twas your heaven she should be advanced;
+For &rsquo;twas your heaven she should be advanced;
 And weep you now, seeing she is advanced
 Above the clouds, as high as heaven itself?
 O, in this love you love your child so ill
 That you run mad, seeing that she is well.
-She's not well married that lives married long,
-But she's best married that dies married young.
+She&rsquo;s not well married that lives married long,
+But she&rsquo;s best married that dies married young.
 Dry up your tears, and stick your rosemary
 On this fair corse, and, as the custom is,
 And in her best array, bear her to church,
 For though fond nature bids us all lament,
-Yet nature's tears are reason's merriment.
+Yet nature&rsquo;s tears are reason&rsquo;s merriment.
 
 <speaker>CAPULET</speaker>
 All things that we ordained festival
@@ -4383,20 +4380,20 @@ Ay, by my troth, the case may be amended.
 [<i>Enter Peter.</i>]
 
 <speaker>PETER</speaker>
-Musicians, O musicians, "Heart's ease,"
-"Heart's ease." O, an you will have me live, play
-"Heart's ease."
+Musicians, O musicians, "&ldquo;Heart&rsquo;s ease,&rdquo;"
+"&ldquo;Heart&rsquo;s ease.&rdquo;" O, an you will have me live, play
+"&ldquo;Heart&rsquo;s ease.&rdquo;"
 
 <speaker>FIRST MUSICIAN</speaker>
-Why "Heart's ease?"
+Why "&ldquo;Heart&rsquo;s ease?&rdquo;"
 
 <speaker>PETER</speaker>
-O musicians, because my heart itself plays "My
-heart is full." O, play me some merry dump to
+O musicians, because my heart itself plays "&ldquo;My
+heart is full.&rdquo;" O, play me some merry dump to
 comfort me.
 
 <speaker>FIRST MUSICIAN</speaker>
-Not a dump, we. 'Tis no time to play
+Not a dump, we. &rsquo;Tis no time to play
 now.
 
 <speaker>PETER</speaker>
@@ -4420,8 +4417,8 @@ Then will I give you the
 serving-creature.
 
 <speaker>PETER</speaker>
-Then will I lay the serving-creature's dagger on
-your pate. I will carry no crochets. I'll re you, I'll fa
+Then will I lay the serving-creature&rsquo;s dagger on
+your pate. I will carry no crochets. I&rsquo;ll re you, I&rsquo;ll fa
 you. Do you note me?
 
 <speaker>FIRST MUSICIAN</speaker>
@@ -4439,8 +4436,8 @@ Answer me like men.
 	When griping griefs the heart doth wound
 	And doleful dumps the mind oppress,
 	Then music with her silver sound--
-Why "silver sound"? Why "music with her silver
-sound"? What say you, Simon Catling?
+Why "&ldquo;silver sound&rdquo;"? Why "&ldquo;music with her silver
+sound&rdquo;"? What say you, Simon Catling?
 
 <speaker>FIRST MUSICIAN</speaker>
 Marry, sir, because silver hath a
@@ -4450,7 +4447,7 @@ sweet sound.
 Prates.--What say you, Hugh Rebeck?
 
 <speaker>SECOND MUSICIAN</speaker>
-I say "silver sound" because musicians
+I say "&ldquo;silver sound&rdquo;" because musicians
 sound for silver.
 
 <speaker>PETER</speaker>
@@ -4461,7 +4458,7 @@ Faith, I know not what to say.
 
 <speaker>PETER</speaker>
 O, I cry you mercy. You are the singer. I will say
-for you. It is "music with her silver sound" because
+for you. It is "&ldquo;music with her silver sound&rdquo;" because
 musicians have no gold for sounding:
 [<i>Sings.</i>]
 	Then music with her silver sound
@@ -4472,7 +4469,7 @@ musicians have no gold for sounding:
 What a pestilent knave is this same!
 
 <speaker>SECOND MUSICIAN</speaker>
-Hang him, Jack. Come, we'll in
+Hang him, Jack. Come, we&rsquo;ll in
 here, tarry for the mourners, and stay dinner.
 [<i>They exit.</i>]
 
@@ -4484,7 +4481,7 @@ here, tarry for the mourners, and stay dinner.
 <speaker>ROMEO</speaker>
 If I may trust the flattering truth of sleep,
 My dreams presage some joyful news at hand.
-My bosom's lord sits lightly in his throne,
+My bosom&rsquo;s lord sits lightly in his throne,
 And all this day an unaccustomed spirit
 Lifts me above the ground with cheerful thoughts.
 I dreamt my lady came and found me dead
@@ -4493,9 +4490,9 @@ think!)
 And breathed such life with kisses in my lips
 That I revived and was an emperor.
 Ah me, how sweet is love itself possessed
-When but love's shadows are so rich in joy!
+When but love&rsquo;s shadows are so rich in joy!
 
-[<i>Enter Romeo's man Balthasar, in riding boots.</i>]
+[<i>Enter Romeo&rsquo;s man Balthasar, in riding boots.</i>]
 
 News from Verona!--How now, Balthasar?
 Dost thou not bring me letters from the Friar?
@@ -4505,15 +4502,15 @@ For nothing can be ill if she be well.
 
 <speaker>BALTHASAR</speaker>
 Then she is well and nothing can be ill.
-Her body sleeps in Capels' monument,
+Her body sleeps in Capels&rsquo; monument,
 And her immortal part with angels lives.
-I saw her laid low in her kindred's vault
+I saw her laid low in her kindred&rsquo;s vault
 And presently took post to tell it you.
 O, pardon me for bringing these ill news,
 Since you did leave it for my office, sir.
 
 <speaker>ROMEO</speaker>
-Is it e'en so?--Then I deny you, stars!--
+Is it e&rsquo;en so?--Then I deny you, stars!--
 Thou knowest my lodging. Get me ink and paper,
 And hire post-horses. I will hence tonight.
 
@@ -4532,10 +4529,10 @@ No, my good lord.
 
 <speaker>ROMEO</speaker>
 No matter. Get thee gone,
-And hire those horses. I'll be with thee straight.
+And hire those horses. I&rsquo;ll be with thee straight.
 [<i>Balthasar exits.</i>]
 Well, Juliet, I will lie with thee tonight.
-Let's see for means. O mischief, thou art swift
+Let&rsquo;s see for means. O mischief, thou art swift
 To enter in the thoughts of desperate men.
 I do remember an apothecary
 (And hereabouts he dwells) which late I noted
@@ -4550,13 +4547,13 @@ Green earthen pots, bladders, and musty seeds,
 Remnants of packthread, and old cakes of roses
 Were thinly scattered to make up a show.
 Noting this penury, to myself I said
-"An if a man did need a poison now,
+"&ldquo;An if a man did need a poison now,
 Whose sale is present death in Mantua,
-Here lives a caitiff wretch would sell it him."
+Here lives a caitiff wretch would sell it him.&rdquo;"
 O, this same thought did but forerun my need,
 And this same needy man must sell it me.
 As I remember, this should be the house.
-Being holiday, the beggar's shop is shut.--
+Being holiday, the beggar&rsquo;s shop is shut.--
 What ho, Apothecary!
 
 [<i>Enter Apothecary.</i>]
@@ -4573,10 +4570,10 @@ As will disperse itself through all the veins,
 That the life-weary taker may fall dead,
 And that the trunk may be discharged of breath
 As violently as hasty powder fired
-Doth hurry from the fatal cannon's womb.
+Doth hurry from the fatal cannon&rsquo;s womb.
 
 <speaker>APOTHECARY</speaker>
-Such mortal drugs I have, but Mantua's law
+Such mortal drugs I have, but Mantua&rsquo;s law
 Is death to any he that utters them.
 
 <speaker>ROMEO</speaker>
@@ -4584,7 +4581,7 @@ Art thou so bare and full of wretchedness,
 And fearest to die? Famine is in thy cheeks,
 Need and oppression starveth in thy eyes,
 Contempt and beggary hangs upon thy back.
-The world is not thy friend, nor the world's law.
+The world is not thy friend, nor the world&rsquo;s law.
 The world affords no law to make thee rich.
 Then be not poor, but break it, and take this.
 
@@ -4602,7 +4599,7 @@ Of twenty men, it would dispatch you straight.
 
 <speaker>ROMEO,</speaker>
 [<i>handing him the money</i>]
-There is thy gold, worse poison to men's souls,
+There is thy gold, worse poison to men&rsquo;s souls,
 Doing more murder in this loathsome world
 Than these poor compounds that thou mayst not
 sell.
@@ -4610,7 +4607,7 @@ I sell thee poison; thou hast sold me none.
 Farewell, buy food, and get thyself in flesh.
 [<i>Apothecary exits.</i>]
 Come, cordial and not poison, go with me
-To Juliet's grave, for there must I use thee.
+To Juliet&rsquo;s grave, for there must I use thee.
 [<i>He exits.</i>]
 
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
@@ -4655,7 +4652,7 @@ Get me an iron crow and bring it straight
 Unto my cell.
 
 <speaker>FRIAR JOHN</speaker>
-Brother, I'll go and bring it thee.	[<i>He exits.</i>]
+Brother, I&rsquo;ll go and bring it thee.	[<i>He exits.</i>]
 
 <speaker>FRIAR LAWRENCE</speaker>
 Now must I to the monument alone.
@@ -4664,7 +4661,7 @@ She will beshrew me much that Romeo
 Hath had no notice of these accidents.
 But I will write again to Mantua,
 And keep her at my cell till Romeo come.
-Poor living corse, closed in a dead man's tomb!
+Poor living corse, closed in a dead man&rsquo;s tomb!
 [<i>He exits.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
@@ -4700,7 +4697,7 @@ Nightly shall be to strew thy grave and weep.
 [<i>Page whistles.</i>]
 The boy gives warning something doth approach.
 What cursed foot wanders this way tonight,
-To cross my obsequies and true love's rite?
+To cross my obsequies and true love&rsquo;s rite?
 What, with a torch? Muffle me, night, awhile.
 [<i>He steps aside.</i>]
 
@@ -4711,10 +4708,10 @@ Give me that mattock and the wrenching iron.
 Hold, take this letter. Early in the morning
 See thou deliver it to my lord and father.
 Give me the light. Upon thy life I charge thee,
-Whate'er thou hearest or seest, stand all aloof
+Whate&rsquo;er thou hearest or seest, stand all aloof
 And do not interrupt me in my course.
 Why I descend into this bed of death
-Is partly to behold my lady's face,
+Is partly to behold my lady&rsquo;s face,
 But chiefly to take thence from her dead finger
 A precious ring, a ring that I must use
 In dear employment. Therefore hence, begone.
@@ -4736,7 +4733,7 @@ Live and be prosperous, and farewell, good fellow.
 
 <speaker>BALTHASAR,</speaker>
 [<i>aside</i>]
-For all this same, I'll hide me hereabout.
+For all this same, I&rsquo;ll hide me hereabout.
 His looks I fear, and his intents I doubt.
 [<i>He steps aside.</i>]
 
@@ -4745,11 +4742,11 @@ His looks I fear, and his intents I doubt.
 Thou detestable maw, thou womb of death,
 Gorged with the dearest morsel of the earth,
 Thus I enforce thy rotten jaws to open,
-And in despite I'll cram thee with more food.
+And in despite I&rsquo;ll cram thee with more food.
 
 <speaker>PARIS</speaker>
 This is that banished haughty Montague
-That murdered my love's cousin, with which grief
+That murdered my love&rsquo;s cousin, with which grief
 It is supposed the fair creature died,
 And here is come to do some villainous shame
 To the dead bodies. I will apprehend him.
@@ -4761,7 +4758,7 @@ Obey and go with me, for thou must die.
 
 <speaker>ROMEO</speaker>
 I must indeed, and therefore came I hither.
-Good gentle youth, tempt not a desp'rate man.
+Good gentle youth, tempt not a desp&rsquo;rate man.
 Fly hence and leave me. Think upon these gone.
 Let them affright thee. I beseech thee, youth,
 Put not another sin upon my head
@@ -4769,7 +4766,7 @@ By urging me to fury. O, begone!
 By heaven, I love thee better than myself,
 For I come hither armed against myself.
 Stay not, begone, live, and hereafter say
-A madman's mercy bid thee run away.
+A madman&rsquo;s mercy bid thee run away.
 
 <speaker>PARIS</speaker>
 I do defy thy commination
@@ -4789,15 +4786,15 @@ Open the tomb; lay me with Juliet.	[<i>He dies.</i>]
 
 <speaker>ROMEO</speaker>
 In faith, I will.--Let me peruse this face.
-Mercutio's kinsman, noble County Paris!
+Mercutio&rsquo;s kinsman, noble County Paris!
 What said my man when my betossed soul
 Did not attend him as we rode? I think
 He told me Paris should have married Juliet.
 Said he not so? Or did I dream it so?
 Or am I mad, hearing him talk of Juliet,
 To think it was so?--O, give me thy hand,
-One writ with me in sour misfortune's book!
-I'll bury thee in a triumphant grave.--
+One writ with me in sour misfortune&rsquo;s book!
+I&rsquo;ll bury thee in a triumphant grave.--
 [<i>He opens the tomb.</i>]
 A grave? O, no. A lantern, slaughtered youth,
 For here lies Juliet, and her beauty makes
@@ -4806,13 +4803,13 @@ Death, lie thou there, by a dead man interred.
 [<i>Laying Paris in the tomb.</i>]
 How oft when men are at the point of death
 Have they been merry, which their keepers call
-A light'ning before death! O, how may I
-Call this a light'ning?--O my love, my wife,
+A light&rsquo;ning before death! O, how may I
+Call this a light&rsquo;ning?--O my love, my wife,
 Death, that hath sucked the honey of thy breath,
 Hath had no power yet upon thy beauty.
-Thou art not conquered. Beauty's ensign yet
+Thou art not conquered. Beauty&rsquo;s ensign yet
 Is crimson in thy lips and in thy cheeks,
-And death's pale flag is not advanced there.--
+And death&rsquo;s pale flag is not advanced there.--
 Tybalt, liest thou there in thy bloody sheet?
 O, what more favor can I do to thee
 Than with that hand that cut thy youth in twain
@@ -4836,7 +4833,7 @@ A dateless bargain to engrossing death.
 Come, bitter conduct, come, unsavory guide!
 Thou desperate pilot, now at once run on
 The dashing rocks thy seasick weary bark!
-Here's to my love. [<i>Drinking.</i>]
+Here&rsquo;s to my love. [<i>Drinking.</i>]
  O true apothecary,
 Thy drugs are quick. Thus with a kiss I die.
 [<i>He dies.</i>]
@@ -4845,19 +4842,19 @@ Thy drugs are quick. Thus with a kiss I die.
 
 <speaker>FRIAR LAWRENCE</speaker>
 Saint Francis be my speed! How oft tonight
-Have my old feet stumbled at graves!--Who's there?
+Have my old feet stumbled at graves!--Who&rsquo;s there?
 
 <speaker>BALTHASAR</speaker>
-Here's one, a friend, and one that knows you well.
+Here&rsquo;s one, a friend, and one that knows you well.
 
 <speaker>FRIAR LAWRENCE</speaker>
 Bliss be upon you. Tell me, good my friend,
 What torch is yond that vainly lends his light
 To grubs and eyeless skulls? As I discern,
-It burneth in the Capels' monument.
+It burneth in the Capels&rsquo; monument.
 
 <speaker>BALTHASAR</speaker>
-It doth so, holy sir, and there's my master,
+It doth so, holy sir, and there&rsquo;s my master,
 One that you love.
 
 <speaker>FRIAR LAWRENCE</speaker>
@@ -4882,7 +4879,7 @@ And fearfully did menace me with death
 If I did stay to look on his intents.
 
 <speaker>FRIAR LAWRENCE</speaker>
-Stay, then. I'll go alone. Fear comes upon me.
+Stay, then. I&rsquo;ll go alone. Fear comes upon me.
 O, much I fear some ill unthrifty thing.
 
 <speaker>BALTHASAR</speaker>
@@ -4913,7 +4910,7 @@ Of death, contagion, and unnatural sleep.
 A greater power than we can contradict
 Hath thwarted our intents. Come, come away.
 Thy husband in thy bosom there lies dead,
-And Paris, too. Come, I'll dispose of thee
+And Paris, too. Come, I&rsquo;ll dispose of thee
 Among a sisterhood of holy nuns.
 Stay not to question, for the watch is coming.
 Come, go, good Juliet. I dare no longer stay.
@@ -4921,7 +4918,7 @@ Come, go, good Juliet. I dare no longer stay.
 <speaker>JULIET</speaker>
 Go, get thee hence, for I will not away.
 [<i>He exits.</i>]
-What's here? A cup closed in my true love's hand?
+What&rsquo;s here? A cup closed in my true love&rsquo;s hand?
 Poison, I see, hath been his timeless end.--
 O churl, drunk all, and left no friendly drop
 To help me after! I will kiss thy lips.
@@ -4929,15 +4926,15 @@ Haply some poison yet doth hang on them,
 To make me die with a restorative.	[<i>She kisses him.</i>]
 Thy lips are warm!
 
-[<i>Enter Paris's Page and Watch.</i>]
+[<i>Enter Paris&rsquo;s Page and Watch.</i>]
 
 <speaker>FIRST WATCH</speaker>
 Lead, boy. Which way?
 
 <speaker>JULIET</speaker>
-Yea, noise? Then I'll be brief. O, happy dagger,
+Yea, noise? Then I&rsquo;ll be brief. O, happy dagger,
 This is thy sheath. There rust, and let me die.
-[<i>She takes Romeo's dagger, stabs herself, and dies.</i>]
+[<i>She takes Romeo&rsquo;s dagger, stabs herself, and dies.</i>]
 
 <speaker>PAGE</speaker>
 This is the place, there where the torch doth burn.
@@ -4945,7 +4942,7 @@ This is the place, there where the torch doth burn.
 <speaker>FIRST WATCH</speaker>
 The ground is bloody.--Search about the
 churchyard.
-Go, some of you; whoe'er you find, attach.
+Go, some of you; whoe&rsquo;er you find, attach.
 [<i>Some watchmen exit.</i>]
 Pitiful sight! Here lies the County slain,
 And Juliet bleeding, warm, and newly dead,
@@ -4957,10 +4954,10 @@ We see the ground whereon these woes do lie,
 But the true ground of all these piteous woes
 We cannot without circumstance descry.
 
-[<i>Enter Watchmen with Romeo's man Balthasar.</i>]
+[<i>Enter Watchmen with Romeo&rsquo;s man Balthasar.</i>]
 
 <speaker>SECOND WATCH</speaker>
-Here's Romeo's man. We found him in the
+Here&rsquo;s Romeo&rsquo;s man. We found him in the
 churchyard.
 
 <speaker>FIRST WATCH</speaker>
@@ -4971,7 +4968,7 @@ Hold him in safety till the Prince come hither.
 <speaker>THIRD WATCH</speaker>
 Here is a friar that trembles, sighs, and weeps.
 We took this mattock and this spade from him
-As he was coming from this churchyard's side.
+As he was coming from this churchyard&rsquo;s side.
 
 <speaker>FIRST WATCH</speaker>
 A great suspicion. Stay the Friar too.
@@ -4988,8 +4985,8 @@ That calls our person from our morning rest?
 What should it be that is so shrieked abroad?
 
 <speaker>LADY CAPULET</speaker>
-O, the people in the street cry "Romeo,"
-Some "Juliet," and some "Paris," and all run
+O, the people in the street cry "&ldquo;Romeo,&rdquo;"
+Some "&ldquo;Juliet,&rdquo;" and some "&ldquo;Paris,&rdquo;" and all run
 With open outcry toward our monument.
 
 <speaker>PRINCE</speaker>
@@ -5005,15 +5002,15 @@ Search, seek, and know how this foul murder
 comes.
 
 <speaker>FIRST WATCH</speaker>
-Here is a friar, and slaughtered Romeo's man,
+Here is a friar, and slaughtered Romeo&rsquo;s man,
 With instruments upon them fit to open
-These dead men's tombs.
+These dead men&rsquo;s tombs.
 
 <speaker>CAPULET</speaker>
 O heavens! O wife, look how our daughter bleeds!
-This dagger hath mista'en, for, lo, his house
+This dagger hath mista&rsquo;en, for, lo, his house
 Is empty on the back of Montague,
-And it mis-sheathed in my daughter's bosom.
+And it mis-sheathed in my daughter&rsquo;s bosom.
 
 <speaker>LADY CAPULET</speaker>
 O me, this sight of death is as a bell
@@ -5027,7 +5024,7 @@ To see thy son and heir now early down.
 
 <speaker>MONTAGUE</speaker>
 Alas, my liege, my wife is dead tonight.
-Grief of my son's exile hath stopped her breath.
+Grief of my son&rsquo;s exile hath stopped her breath.
 What further woe conspires against mine age?
 
 <speaker>PRINCE</speaker>
@@ -5062,9 +5059,9 @@ Then say at once what thou dost know in this.
 I will be brief, for my short date of breath
 Is not so long as is a tedious tale.
 Romeo, there dead, was husband to that Juliet,
-And she, there dead, that Romeo's faithful wife.
-I married them, and their stol'n marriage day
-Was Tybalt's doomsday, whose untimely death
+And she, there dead, that Romeo&rsquo;s faithful wife.
+I married them, and their stol&rsquo;n marriage day
+Was Tybalt&rsquo;s doomsday, whose untimely death
 Banished the new-made bridegroom from this city,
 For whom, and not for Tybalt, Juliet pined.
 You, to remove that siege of grief from her,
@@ -5079,12 +5076,12 @@ As I intended, for it wrought on her
 The form of death. Meantime I writ to Romeo
 That he should hither come as this dire night
 To help to take her from her borrowed grave,
-Being the time the potion's force should cease.
+Being the time the potion&rsquo;s force should cease.
 But he which bore my letter, Friar John,
 Was stayed by accident, and yesternight
 Returned my letter back. Then all alone
 At the prefixed hour of her waking
-Came I to take her from her kindred's vault,
+Came I to take her from her kindred&rsquo;s vault,
 Meaning to keep her closely at my cell
 Till I conveniently could send to Romeo.
 But when I came, some minute ere the time
@@ -5103,10 +5100,10 @@ Unto the rigor of severest law.
 
 <speaker>PRINCE</speaker>
 We still have known thee for a holy man.--
-Where's Romeo's man? What can he say to this?
+Where&rsquo;s Romeo&rsquo;s man? What can he say to this?
 
 <speaker>BALTHASAR</speaker>
-I brought my master news of Juliet's death,
+I brought my master news of Juliet&rsquo;s death,
 And then in post he came from Mantua
 To this same place, to this same monument.
 This letter he early bid me give his father
@@ -5115,23 +5112,23 @@ If I departed not and left him there.
 
 <speaker>PRINCE</speaker>
 Give me the letter. I will look on it.--
-[<i>He takes Romeo's letter.</i>]
-Where is the County's page, that raised the
+[<i>He takes Romeo&rsquo;s letter.</i>]
+Where is the County&rsquo;s page, that raised the
 watch?--
 Sirrah, what made your master in this place?
 
 <speaker>PAGE</speaker>
-He came with flowers to strew his lady's grave
+He came with flowers to strew his lady&rsquo;s grave
 And bid me stand aloof, and so I did.
 Anon comes one with light to ope the tomb,
 And by and by my master drew on him,
 And then I ran away to call the watch.
 
 <speaker>PRINCE</speaker>
-This letter doth make good the Friar's words,
+This letter doth make good the Friar&rsquo;s words,
 Their course of love, the tidings of her death;
 And here he writes that he did buy a poison
-Of a poor 'pothecary, and therewithal
+Of a poor &rsquo;pothecary, and therewithal
 Came to this vault to die and lie with Juliet.
 Where be these enemies?--Capulet, Montague,
 See what a scourge is laid upon your hate,
@@ -5141,7 +5138,7 @@ Have lost a brace of kinsmen. All are punished.
 
 <speaker>CAPULET</speaker>
 O brother Montague, give me thy hand.
-This is my daughter's jointure, for no more
+This is my daughter&rsquo;s jointure, for no more
 Can I demand.
 
 <speaker>MONTAGUE</speaker>
@@ -5152,7 +5149,7 @@ There shall no figure at such rate be set
 As that of true and faithful Juliet.
 
 <speaker>CAPULET</speaker>
-As rich shall Romeo's by his lady's lie,
+As rich shall Romeo&rsquo;s by his lady&rsquo;s lie,
 Poor sacrifices of our enmity.
 
 <speaker>PRINCE</speaker>

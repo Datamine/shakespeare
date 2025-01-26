@@ -25,9 +25,9 @@ Sprung from the rancorous outrage of your duke
 To merchants, our well-dealing countrymen,
 Who, wanting guilders to redeem their lives,
 Have sealed his rigorous statutes with their bloods,
-Excludes all pity from our threat'ning looks.
+Excludes all pity from our threat&rsquo;ning looks.
 For since the mortal and intestine jars
-'Twixt thy seditious countrymen and us,
+&rsquo;Twixt thy seditious countrymen and us,
 It hath in solemn synods been decreed,
 Both by the Syracusians and ourselves,
 To admit no traffic to our adverse towns.
@@ -35,7 +35,7 @@ Nay, more, if any born at Ephesus
 Be seen at Syracusian marts and fairs;
 Again, if any Syracusian born
 Come to the bay of Ephesus, he dies,
-His goods confiscate to the Duke's dispose,
+His goods confiscate to the Duke&rsquo;s dispose,
 Unless a thousand marks be levied
 To quit the penalty and to ransom him.
 Thy substance, valued at the highest rate,
@@ -49,20 +49,20 @@ My woes end likewise with the evening sun.
 DUKE
 Well, Syracusian, say in brief the cause
 Why thou departedst from thy native home
-And for what cause thou cam'st to Ephesus.
+And for what cause thou cam&rsquo;st to Ephesus.
 
 EGEON
 A heavier task could not have been imposed
 Than I to speak my griefs unspeakable;
 Yet, that the world may witness that my end
 Was wrought by nature, not by vile offense,
-I'll utter what my sorrow gives me leave.
+I&rsquo;ll utter what my sorrow gives me leave.
 In Syracusa was I born, and wed
 Unto a woman happy but for me,
 And by me, had not our hap been bad.
 With her I lived in joy. Our wealth increased
 By prosperous voyages I often made
-To Epidamium, till my factor's death
+To Epidamium, till my factor&rsquo;s death
 And the great care of goods at random left
 Drew me from kind embracements of my spouse;
 From whom my absence was not six months old
@@ -150,7 +150,7 @@ To tell sad stories of my own mishaps.
 DUKE
 And for the sake of them thou sorrowest for,
 Do me the favor to dilate at full
-What have befall'n of them and thee till now.
+What have befall&rsquo;n of them and thee till now.
 
 EGEON
 My youngest boy, and yet my eldest care,
@@ -179,9 +179,9 @@ Which princes, would they, may not disannul,
 My soul should sue as advocate for thee.
 But though thou art adjudged to the death,
 And passed sentence may not be recalled
-But to our honor's great disparagement,
+But to our honor&rsquo;s great disparagement,
 Yet will I favor thee in what I can.
-Therefore, merchant, I'll limit thee this day
+Therefore, merchant, I&rsquo;ll limit thee this day
 To seek thy life by beneficial help.
 Try all the friends thou hast in Ephesus;
 Beg thou, or borrow, to make up the sum,
@@ -216,7 +216,7 @@ There is your money that I had to keep.
 Go bear it to the Centaur, where we host,
 And stay there, Dromio, till I come to thee.
 Within this hour it will be dinnertime.
-Till that, I'll view the manners of the town,
+Till that, I&rsquo;ll view the manners of the town,
 Peruse the traders, gaze upon the buildings,
 And then return and sleep within mine inn,
 For with long travel I am stiff and weary.
@@ -237,8 +237,8 @@ And then go to my inn and dine with me?
 <speaker>FIRST MERCHANT</speaker>
 I am invited, sir, to certain merchants,
 Of whom I hope to make much benefit.
-I crave your pardon. Soon at five o'clock,
-Please you, I'll meet with you upon the mart
+I crave your pardon. Soon at five o&rsquo;clock,
+Please you, I&rsquo;ll meet with you upon the mart
 And afterward consort you till bedtime.
 My present business calls me from you now.
 
@@ -273,7 +273,7 @@ She is so hot because the meat is cold;
 The meat is cold because you come not home;
 You come not home because you have no stomach;
 You have no stomach, having broke your fast.
-But we that know what 'tis to fast and pray
+But we that know what &rsquo;tis to fast and pray
 Are penitent for your default today.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -281,14 +281,14 @@ Stop in your wind, sir. Tell me this, I pray:
 Where have you left the money that I gave you?
 
 <speaker>DROMIO OF EPHESUS</speaker>
-O, sixpence that I had o' Wednesday last
-To pay the saddler for my mistress' crupper?
+O, sixpence that I had o&rsquo; Wednesday last
+To pay the saddler for my mistress&rsquo; crupper?
 The saddler had it, sir; I kept it not.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 I am not in a sportive humor now.
 Tell me, and dally not: where is the money?
-We being strangers here, how dar'st thou trust
+We being strangers here, how dar&rsquo;st thou trust
 So great a charge from thine own custody?
 
 <speaker>DROMIO OF EPHESUS</speaker>
@@ -326,17 +326,17 @@ Where is the thousand marks thou hadst of me?
 
 <speaker>DROMIO OF EPHESUS</speaker>
 I have some marks of yours upon my pate,
-Some of my mistress' marks upon my shoulders,
+Some of my mistress&rsquo; marks upon my shoulders,
 But not a thousand marks between you both.
 If I should pay your Worship those again,
 Perchance you will not bear them patiently.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Thy mistress' marks? What mistress, slave, hast
+Thy mistress&rsquo; marks? What mistress, slave, hast
 thou?
 
 <speaker>DROMIO OF EPHESUS</speaker>
-Your Worship's wife, my mistress at the Phoenix,
+Your Worship&rsquo;s wife, my mistress at the Phoenix,
 She that doth fast till you come home to dinner
 And prays that you will hie you home to dinner.
 
@@ -346,14 +346,14 @@ What, wilt thou flout me thus unto my face,
 Being forbid? There, take you that, sir knave.
 
 <speaker>DROMIO OF EPHESUS</speaker>
-What mean you, sir? For God's sake, hold your
+What mean you, sir? For God&rsquo;s sake, hold your
 hands.
-Nay, an you will not, sir, I'll take my heels.
+Nay, an you will not, sir, I&rsquo;ll take my heels.
 [<i>Dromio of Ephesus exits.</i>]
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Upon my life, by some device or other
-The villain is o'erraught of all my money.
+The villain is o&rsquo;erraught of all my money.
 They say this town is full of cozenage,
 As nimble jugglers that deceive the eye,
 Dark-working sorcerers that change the mind,
@@ -361,7 +361,7 @@ Soul-killing witches that deform the body,
 Disguised cheaters, prating mountebanks,
 And many suchlike liberties of sin.
 If it prove so, I will be gone the sooner.
-I'll to the Centaur to go seek this slave.
+I&rsquo;ll to the Centaur to go seek this slave.
 I greatly fear my money is not safe.
 [<i>He exits.</i>]
 
@@ -374,21 +374,21 @@ Luciana, her sister.</i>]
 <speaker>ADRIANA</speaker>
 Neither my husband nor the slave returned
 That in such haste I sent to seek his master?
-Sure, Luciana, it is two o'clock.
+Sure, Luciana, it is two o&rsquo;clock.
 
 <speaker>LUCIANA</speaker>
 Perhaps some merchant hath invited him,
-And from the mart he's somewhere gone to dinner.
+And from the mart he&rsquo;s somewhere gone to dinner.
 Good sister, let us dine, and never fret.
 A man is master of his liberty;
 Time is their master, and when they see time
-They'll go or come. If so, be patient, sister.
+They&rsquo;ll go or come. If so, be patient, sister.
 
 <speaker>ADRIANA</speaker>
 Why should their liberty than ours be more?
 
 <speaker>LUCIANA</speaker>
-Because their business still lies out o' door.
+Because their business still lies out o&rsquo; door.
 
 <speaker>ADRIANA</speaker>
 Look when I serve him so, he takes it ill.
@@ -397,16 +397,16 @@ Look when I serve him so, he takes it ill.
 O, know he is the bridle of your will.
 
 <speaker>ADRIANA</speaker>
-There's none but asses will be bridled so.
+There&rsquo;s none but asses will be bridled so.
 
 <speaker>LUCIANA</speaker>
 Why, headstrong liberty is lashed with woe.
-There's nothing situate under heaven's eye
+There&rsquo;s nothing situate under heaven&rsquo;s eye
 But hath his bound in earth, in sea, in sky.
 The beasts, the fishes, and the winged fowls
-Are their males' subjects and at their controls.
+Are their males&rsquo; subjects and at their controls.
 Man, more divine, the master of all these,
-Lord of the wide world and wild wat'ry seas,
+Lord of the wide world and wild wat&rsquo;ry seas,
 Endued with intellectual sense and souls,
 Of more preeminence than fish and fowls,
 Are masters to their females, and their lords.
@@ -422,7 +422,7 @@ Not this, but troubles of the marriage bed.
 But, were you wedded, you would bear some sway.
 
 <speaker>LUCIANA</speaker>
-Ere I learn love, I'll practice to obey.
+Ere I learn love, I&rsquo;ll practice to obey.
 
 <speaker>ADRIANA</speaker>
 How if your husband start some otherwhere?
@@ -452,11 +452,11 @@ Here comes your man. Now is your husband nigh.
 Say, is your tardy master now at hand?
 
 <speaker>DROMIO OF EPHESUS</speaker>
-Nay, he's at two hands with me,
+Nay, he&rsquo;s at two hands with me,
 and that my two ears can witness.
 
 <speaker>ADRIANA</speaker>
-Say, didst thou speak with him? Know'st thou his
+Say, didst thou speak with him? Know&rsquo;st thou his
 mind?
 
 <speaker>DROMIO OF EPHESUS</speaker>
@@ -487,24 +487,23 @@ I mean not cuckold mad,
 But sure he is stark mad.
 When I desired him to come home to dinner,
 He asked me for a thousand marks in gold.
-"'Tis dinnertime," quoth I. "My gold," quoth he.
-"Your meat doth burn," quoth I. "My gold," quoth
+"&ldquo;&rsquo;Tis dinnertime,&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth he.
+"&ldquo;Your meat doth burn,&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth
 he.
-"Will you come?" quoth I. "My gold," quoth he.
-"Where is the thousand marks I gave thee, villain?"
-"The pig," quoth I, "is burned." "My gold," quoth
+"&ldquo;Will you come?&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth he.
+"&ldquo;Where is the thousand marks I gave thee, villain?&rdquo;"
+"&ldquo;The pig,&rdquo;" quoth I, "&ldquo;is burned.&rdquo;" "&ldquo;My gold,&rdquo;" quoth
 he.
-"My mistress, sir," quoth I. "Hang up thy mistress!
-I know not thy mistress. Out on thy mistress!"
+"&ldquo;My mistress, sir,&rdquo;" quoth I. "&ldquo;Hang up thy mistress!
+I know not thy mistress. Out on thy mistress!&rdquo;"
 
 <speaker>LUCIANA</speaker>
 Quoth who?
 
 <speaker>DROMIO OF EPHESUS</speaker>
 Quoth my master.
-<speaker>"I</speaker>
-know," quoth he, "no house, no wife, no
-mistress."
+"&ldquo;I know,&rdquo;" quoth he, "&ldquo;no house, no wife, no
+mistress.&rdquo;"
 So that my errand, due unto my tongue,
 I thank him, I bare home upon my shoulders,
 For, in conclusion, he did beat me there.
@@ -514,7 +513,7 @@ Go back again, thou slave, and fetch him home.
 
 <speaker>DROMIO OF EPHESUS</speaker>
 Go back again and be new beaten home?
-For God's sake, send some other messenger.
+For God&rsquo;s sake, send some other messenger.
 
 <speaker>ADRIANA</speaker>
 Back, slave, or I will break thy pate across.
@@ -539,13 +538,13 @@ Fie, how impatience loureth in your face.
 <speaker>ADRIANA</speaker>
 His company must do his minions grace,
 Whilst I at home starve for a merry look.
-Hath homely age th' alluring beauty took
+Hath homely age th&rsquo; alluring beauty took
 From my poor cheek? Then he hath wasted it.
 Are my discourses dull? Barren my wit?
 If voluble and sharp discourse be marred,
 Unkindness blunts it more than marble hard.
 Do their gay vestments his affections bait?
-That's not my fault; he's master of my state.
+That&rsquo;s not my fault; he&rsquo;s master of my state.
 What ruins are in me that can be found
 By him not ruined? Then is he the ground
 Of my defeatures. My decayed fair
@@ -561,7 +560,7 @@ Unfeeling fools can with such wrongs dispense.
 I know his eye doth homage otherwhere,
 Or else what lets it but he would be here?
 Sister, you know he promised me a chain.
-Would that alone o' love he would detain,
+Would that alone o&rsquo; love he would detain,
 So he would keep fair quarter with his bed.
 I see the jewel best enameled
 Will lose his beauty. Yet the gold bides still
@@ -569,7 +568,7 @@ That others touch, and often touching will
 Wear gold; yet no man that hath a name
 By falsehood and corruption doth it shame.
 Since that my beauty cannot please his eye,
-I'll weep what's left away, and weeping die.
+I&rsquo;ll weep what&rsquo;s left away, and weeping die.
 
 <speaker>LUCIANA</speaker>
 How many fond fools serve mad jealousy!
@@ -583,7 +582,7 @@ How many fond fools serve mad jealousy!
 The gold I gave to Dromio is laid up
 Safe at the Centaur, and the heedful slave
 Is wandered forth in care to seek me out.
-By computation and mine host's report,
+By computation and mine host&rsquo;s report,
 I could not speak with Dromio since at first
 I sent him from the mart. See, here he comes.
 
@@ -607,9 +606,9 @@ I did not see you since you sent me hence,
 Home to the Centaur with the gold you gave me.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Villain, thou didst deny the gold's receipt
-And told'st me of a mistress and a dinner,
-For which I hope thou felt'st I was displeased.
+Villain, thou didst deny the gold&rsquo;s receipt
+And told&rsquo;st me of a mistress and a dinner,
+For which I hope thou felt&rsquo;st I was displeased.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 I am glad to see you in this merry vein.
@@ -617,11 +616,11 @@ What means this jest, I pray you, master, tell me?
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Yea, dost thou jeer and flout me in the teeth?
-Think'st thou I jest? Hold, take thou that and that.
+Think&rsquo;st thou I jest? Hold, take thou that and that.
 [<i>Beats Dromio.</i>]
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Hold, sir, for God's sake! Now your jest is earnest.
+Hold, sir, for God&rsquo;s sake! Now your jest is earnest.
 Upon what bargain do you give it me?
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -636,9 +635,9 @@ And fashion your demeanor to my looks,
 Or I will beat this method in your sconce.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-"Sconce" call you it? So you
+"&ldquo;Sconce&rdquo;" call you it? So you
 would leave battering, I had rather have it a
-"head." An you use these blows long, I must get a
+"&ldquo;head.&rdquo;" An you use these blows long, I must get a
 sconce for my head and ensconce it too, or else I
 shall seek my wit in my shoulders. But I pray, sir,
 why am I beaten?
@@ -658,13 +657,13 @@ Ay, sir, and wherefore, for they
 say every why hath a wherefore.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-"Why" first: for flouting
-me; and then "wherefore": for urging it the second
+"&ldquo;Why&rdquo;" first: for flouting
+me; and then "&ldquo;wherefore": for urging it the second
 time to me.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Was there ever any man thus beaten out of season,
-When in the "why" and the "wherefore" is neither
+When in the "&ldquo;why&rdquo;" and the "&ldquo;wherefore&rdquo;" is neither
 rhyme nor reason?
 Well, sir, I thank you.
 
@@ -676,7 +675,7 @@ Marry, sir, for this something
 that you gave me for nothing.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-I'll make you amends next,
+I&rsquo;ll make you amends next,
 to give you nothing for something. But say, sir, is it
 dinnertime?
 
@@ -685,14 +684,14 @@ No, sir, I think the meat wants
 that I have.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-In good time, sir, what's
+In good time, sir, what&rsquo;s
 that?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Basting.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Well, sir, then 'twill be dry.
+Well, sir, then &rsquo;twill be dry.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 If it be, sir, I pray you eat none of
@@ -707,7 +706,7 @@ purchase me another dry basting.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Well, sir, learn to jest in
-good time. There's a time for all things.
+good time. There&rsquo;s a time for all things.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 I durst have denied that before
@@ -721,10 +720,10 @@ Marry, sir, by a rule as plain as
 the plain bald pate of Father Time himself.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Let's hear it.
+Let&rsquo;s hear it.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-There's no time for a man to
+There&rsquo;s no time for a man to
 recover his hair that grows bald by nature.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -745,7 +744,7 @@ bestows on beasts, and what he hath scanted men
 in hair, he hath given them in wit.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Why, but there's many a
+Why, but there&rsquo;s many a
 man hath more hair than wit.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
@@ -792,7 +791,7 @@ You would all this time
 have proved there is no time for all things.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Marry, and did, sir: namely, e'en
+Marry, and did, sir: namely, e&rsquo;en
 no time to recover hair lost by nature.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -801,11 +800,11 @@ substantial why there is no time to recover.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Thus I mend it: Time himself is
-bald and therefore, to the world's end, will have
+bald and therefore, to the world&rsquo;s end, will have
 bald followers.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-I knew 'twould be a bald
+I knew &rsquo;twould be a bald
 conclusion. But soft, who wafts us yonder?
 
 [<i>Enter Adriana, beckoning them, and Luciana.</i>]
@@ -823,9 +822,9 @@ Unless I spake, or looked, or touched, or carved to
 thee.
 How comes it now, my husband, O, how comes it
 That thou art then estranged from thyself?
-"Thyself" I call it, being strange to me,
+"&ldquo;Thyself&rdquo;" I call it, being strange to me,
 That, undividable, incorporate,
-Am better than thy dear self's better part.
+Am better than thy dear self&rsquo;s better part.
 Ah, do not tear away thyself from me!
 For know, my love, as easy mayst thou fall
 A drop of water in the breaking gulf,
@@ -914,7 +913,7 @@ What, was I married to her in my dream?
 Or sleep I now and think I hear all this?
 What error drives our eyes and ears amiss?
 Until I know this sure uncertainty
-I'll entertain the offered fallacy.
+I&rsquo;ll entertain the offered fallacy.
 
 <speaker>LUCIANA</speaker>
 Dromio, go bid the servants spread for dinner.
@@ -925,10 +924,10 @@ O, for my beads! I cross me for a sinner.
 This is the fairy land. O spite of spites!
 We talk with goblins, owls, and sprites.
 If we obey them not, this will ensue:
-They'll suck our breath, or pinch us black and blue.
+They&rsquo;ll suck our breath, or pinch us black and blue.
 
 <speaker>LUCIANA</speaker>
-Why prat'st thou to thyself and answer'st not?
+Why prat&rsquo;st thou to thyself and answer&rsquo;st not?
 Dromio--thou, Dromio--thou snail, thou slug,
 thou sot.
 
@@ -948,11 +947,11 @@ Thou hast thine own form.
 No, I am an ape.
 
 <speaker>LUCIANA</speaker>
-If thou art changed to aught, 'tis to an ass.
+If thou art changed to aught, &rsquo;tis to an ass.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-'Tis true. She rides me, and I long for grass.
-'Tis so. I am an ass; else it could never be
+&rsquo;Tis true. She rides me, and I long for grass.
+&rsquo;Tis so. I am an ass; else it could never be
 But I should know her as well as she knows me.
 
 <speaker>ADRIANA</speaker>
@@ -960,7 +959,7 @@ Come, come, no longer will I be a fool,
 To put the finger in the eye and weep
 Whilst man and master laughs my woes to scorn.
 Come, sir, to dinner.--Dromio, keep the gate.--
-Husband, I'll dine above with you today,
+Husband, I&rsquo;ll dine above with you today,
 And shrive you of a thousand idle pranks.
 [<i>To Dromio.</i>]
  Sirrah, if any ask you for your master,
@@ -972,7 +971,7 @@ Come, sister.--Dromio, play the porter well.
 Am I in Earth, in heaven, or in hell?
 Sleeping or waking, mad or well-advised?
 Known unto these, and to myself disguised!
-I'll say as they say, and persever so,
+I&rsquo;ll say as they say, and persever so,
 And in this mist at all adventures go.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
@@ -997,7 +996,7 @@ My wife is shrewish when I keep not hours.
 Say that I lingered with you at your shop
 To see the making of her carcanet,
 And that tomorrow you will bring it home.
-But here's a villain that would face me down
+But here&rsquo;s a villain that would face me down
 He met me on the mart, and that I beat him
 And charged him with a thousand marks in gold,
 And that I did deny my wife and house.--
@@ -1021,7 +1020,7 @@ I should kick being kicked and, being at that pass,
 You would keep from my heels and beware of an ass.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-You're sad, Signior Balthasar. Pray God our cheer
+You&rsquo;re sad, Signior Balthasar. Pray God our cheer
 May answer my goodwill and your good welcome
 here.
 
@@ -1038,7 +1037,7 @@ dish.
 Good meat, sir, is common; that every churl affords.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-And welcome more common, for that's nothing but
+And welcome more common, for that&rsquo;s nothing but
 words.
 
 <speaker>BALTHASAR</speaker>
@@ -1063,7 +1062,7 @@ Maud, Bridget, Marian, Ciceley, Gillian, Ginn!
 Mome, malt-horse, capon, coxcomb, idiot, patch!
 Either get thee from the door or sit down at the
 hatch.
-Dost thou conjure for wenches, that thou call'st for
+Dost thou conjure for wenches, that thou call&rsquo;st for
 such store
 When one is one too many? Go, get thee from the
 door.
@@ -1075,14 +1074,14 @@ the street.
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
 Let him walk from whence he came, lest he catch
-cold on 's feet.
+cold on &rsquo;s feet.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Who talks within there? Ho, open the door.
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
-Right, sir, I'll tell you when an you'll tell me
+Right, sir, I&rsquo;ll tell you when an you&rsquo;ll tell me
 wherefore.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
@@ -1094,7 +1093,7 @@ Nor today here you must not. Come again when you
 may.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-What art thou that keep'st me out from the house I
+What art thou that keep&rsquo;st me out from the house I
 owe?
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
@@ -1105,7 +1104,7 @@ Dromio.
 <speaker>DROMIO OF EPHESUS</speaker>
 O villain, thou hast stolen both mine office and my
 name!
-The one ne'er got me credit, the other mickle
+The one ne&rsquo;er got me credit, the other mickle
 blame.
 If thou hadst been Dromio today in my place,
 Thou wouldst have changed thy face for a name, or
@@ -1130,17 +1129,17 @@ O Lord, I must laugh.
 Have at you with a proverb: shall I set in my staff?
 
 <speaker>LUCE</speaker>
-Have at you with another: that's--When, can you
+Have at you with another: that&rsquo;s--When, can you
 tell?
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
-If thy name be called "Luce," Luce, thou hast
+If thy name be called "&ldquo;Luce,&rdquo;" Luce, thou hast
 answered him well.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
 [<i>to Luce</i>]
-Do you hear, you minion? You'll let us in, I hope?
+Do you hear, you minion? You&rsquo;ll let us in, I hope?
 
 <speaker>LUCE</speaker>
 I thought to have asked you.
@@ -1167,7 +1166,7 @@ Master, knock the door hard.
 Let him knock till it ache.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-You'll cry for this, minion, if I beat the door down.
+You&rsquo;ll cry for this, minion, if I beat the door down.
 [<i>He beats on the door.</i>]
 
 <speaker>LUCE</speaker>
@@ -1222,11 +1221,11 @@ It would make a man mad as a buck to be so
 bought and sold.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-Go, fetch me something. I'll break ope the gate.
+Go, fetch me something. I&rsquo;ll break ope the gate.
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
-Break any breaking here, and I'll break your knave's
+Break any breaking here, and I&rsquo;ll break your knave&rsquo;s
 pate.
 
 <speaker>DROMIO OF EPHESUS</speaker>
@@ -1237,10 +1236,10 @@ behind.
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
 [<i>within</i>]
-It seems thou want'st breaking. Out upon thee, hind!
+It seems thou want&rsquo;st breaking. Out upon thee, hind!
 
 <speaker>DROMIO OF EPHESUS</speaker>
-Here's too much "Out upon thee!" I pray thee, let
+Here&rsquo;s too much "&ldquo;Out upon thee!&rdquo;" I pray thee, let
 me in.
 
 <speaker>DROMIO OF SYRACUSE,</speaker>
@@ -1250,13 +1249,13 @@ fin.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
 [<i>to Dromio of Ephesus</i>]
-Well, I'll break in. Go, borrow me a crow.
+Well, I&rsquo;ll break in. Go, borrow me a crow.
 
 <speaker>DROMIO OF EPHESUS</speaker>
 A crow without feather? Master, mean you so?
-For a fish without a fin, there's a fowl without a
+For a fish without a fin, there&rsquo;s a fowl without a
 feather.--
-If a crow help us in, sirrah, we'll pluck a crow
+If a crow help us in, sirrah, we&rsquo;ll pluck a crow
 together.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
@@ -1266,7 +1265,7 @@ Go, get thee gone. Fetch me an iron crow.
 Have patience, sir. O, let it not be so.
 Herein you war against your reputation,
 And draw within the compass of suspect
-Th' unviolated honor of your wife.
+Th&rsquo; unviolated honor of your wife.
 Once this: your long experience of her wisdom,
 Her sober virtue, years, and modesty
 Plead on her part some cause to you unknown.
@@ -1296,16 +1295,16 @@ My wife--but, I protest, without desert--
 Hath oftentimes upbraided me withal;
 To her will we to dinner. [<i>To Angelo.</i>]
  Get you home
-And fetch the chain; by this, I know, 'tis made.
+And fetch the chain; by this, I know, &rsquo;tis made.
 Bring it, I pray you, to the Porpentine,
-For there's the house. That chain will I bestow--
+For there&rsquo;s the house. That chain will I bestow--
 Be it for nothing but to spite my wife--
 Upon mine hostess there. Good sir, make haste.
 Since mine own doors refuse to entertain me,
-I'll knock elsewhere, to see if they'll disdain me.
+I&rsquo;ll knock elsewhere, to see if they&rsquo;ll disdain me.
 
 <speaker>ANGELO</speaker>
-I'll meet you at that place some hour hence.
+I&rsquo;ll meet you at that place some hour hence.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Do so. This jest shall cost me some expense.
@@ -1317,24 +1316,24 @@ Do so. This jest shall cost me some expense.
 
 <speaker>LUCIANA</speaker>
 And may it be that you have quite forgot
-   A husband's office? Shall, Antipholus,
+   A husband&rsquo;s office? Shall, Antipholus,
 Even in the spring of love thy love-springs rot?
    Shall love, in building, grow so ruinous?
 If you did wed my sister for her wealth,
-   Then for her wealth's sake use her with more
+   Then for her wealth&rsquo;s sake use her with more
    kindness.
 Or if you like elsewhere, do it by stealth --
    Muffle your false love with some show of
    blindness.
 Let not my sister read it in your eye;
-   Be not thy tongue thy own shame's orator;
+   Be not thy tongue thy own shame&rsquo;s orator;
 Look sweet, speak fair, become disloyalty;
-   Apparel vice like virtue's harbinger.
+   Apparel vice like virtue&rsquo;s harbinger.
 Bear a fair presence, though your heart be tainted.
    Teach sin the carriage of a holy saint.
 Be secret-false. What need she be acquainted?
    What simple thief brags of his own attaint?
-'Tis double wrong to truant with your bed
+&rsquo;Tis double wrong to truant with your bed
    And let her read it in thy looks at board.
 Shame hath a bastard fame, well managed;
    Ill deeds is doubled with an evil word.
@@ -1344,31 +1343,31 @@ Though others have the arm, show us the sleeve;
    We in your motion turn, and you may move us.
 Then, gentle brother, get you in again.
    Comfort my sister, cheer her, call her wife.
-'Tis holy sport to be a little vain
+&rsquo;Tis holy sport to be a little vain
    When the sweet breath of flattery conquers strife.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Sweet mistress--what your name is else I know not,
    Nor by what wonder you do hit of mine--
 Less in your knowledge and your grace you show not
-   Than our Earth's wonder, more than Earth divine.
+   Than our Earth&rsquo;s wonder, more than Earth divine.
 Teach me, dear creature, how to think and speak.
    Lay open to my earthy gross conceit,
 Smothered in errors, feeble, shallow, weak,
-   The folded meaning of your words' deceit.
-Against my soul's pure truth why labor you
+   The folded meaning of your words&rsquo; deceit.
+Against my soul&rsquo;s pure truth why labor you
    To make it wander in an unknown field?
 Are you a god? Would you create me new?
-   Transform me, then, and to your power I'll yield.
+   Transform me, then, and to your power I&rsquo;ll yield.
 But if that I am I, then well I know
    Your weeping sister is no wife of mine,
 Nor to her bed no homage do I owe.
    Far more, far more, to you do I decline.
 O, train me not, sweet mermaid, with thy note
-   To drown me in thy sister's flood of tears.
+   To drown me in thy sister&rsquo;s flood of tears.
 Sing, Siren, for thyself, and I will dote.
-   Spread o'er the silver waves thy golden hairs,
-And as a bed I'll take them and there lie,
+   Spread o&rsquo;er the silver waves thy golden hairs,
+And as a bed I&rsquo;ll take them and there lie,
    And in that glorious supposition think
 He gains by death that hath such means to die.
    Let love, being light, be drowned if she sink.
@@ -1393,39 +1392,39 @@ sight.
 As good to wink, sweet love, as look on night.
 
 <speaker>LUCIANA</speaker>
-Why call you me "love"? Call my sister so.
+Why call you me "&ldquo;love&rdquo;"? Call my sister so.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Thy sister's sister.
+Thy sister&rsquo;s sister.
 
 <speaker>LUCIANA</speaker>
-That's my sister.
+That&rsquo;s my sister.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 No,
-It is thyself, mine own self's better part,
-Mine eye's clear eye, my dear heart's dearer heart,
-My food, my fortune, and my sweet hope's aim,
-My sole Earth's heaven, and my heaven's claim.
+It is thyself, mine own self&rsquo;s better part,
+Mine eye&rsquo;s clear eye, my dear heart&rsquo;s dearer heart,
+My food, my fortune, and my sweet hope&rsquo;s aim,
+My sole Earth&rsquo;s heaven, and my heaven&rsquo;s claim.
 
 <speaker>LUCIANA</speaker>
 All this my sister is, or else should be.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Call thyself "sister," sweet, for I am thee.
+Call thyself "&ldquo;sister,&rdquo;" sweet, for I am thee.
 Thee will I love, and with thee lead my life;
 Thou hast no husband yet, nor I no wife.
 Give me thy hand.
 
 <speaker>LUCIANA</speaker>
 O soft, sir. Hold you still.
-I'll fetch my sister to get her goodwill.	[<i>She exits.</i>]
+I&rsquo;ll fetch my sister to get her goodwill.	[<i>She exits.</i>]
 
 [<i>Enter Dromio of Syracuse, running.</i>]
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Why, how now, Dromio.
-Where runn'st thou so fast?
+Where runn&rsquo;st thou so fast?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Do you know me, sir? Am I
@@ -1436,11 +1435,11 @@ Thou art Dromio, thou art
 my man, thou art thyself.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-I am an ass, I am a woman's
+I am an ass, I am a woman&rsquo;s
 man, and besides myself.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-What woman's man? And
+What woman&rsquo;s man? And
 how besides thyself?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
@@ -1464,20 +1463,20 @@ What is she?
 <speaker>DROMIO OF SYRACUSE</speaker>
 A very reverend body, ay, such a
 one as a man may not speak of without he say
-"sir-reverence." I have but lean luck in the match,
+"&ldquo;sir-reverence.&rdquo;" I have but lean luck in the match,
 and yet is she a wondrous fat marriage.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-How dost thou mean a "fat
-marriage"?
+How dost thou mean a "&ldquo;fat
+marriage&rdquo;"?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Marry, sir, she's the kitchen
+Marry, sir, she&rsquo;s the kitchen
 wench, and all grease, and I know not what use to
 put her to but to make a lamp of her and run from
 her by her own light. I warrant her rags and the
 tallow in them will burn a Poland winter. If she lives
-till doomsday, she'll burn a week longer than the
+till doomsday, she&rsquo;ll burn a week longer than the
 whole world.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -1489,19 +1488,19 @@ nothing like so clean kept. For why? She sweats. A
 man may go overshoes in the grime of it.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-That's a fault that water will
+That&rsquo;s a fault that water will
 mend.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-No, sir, 'tis in grain; Noah's flood
+No, sir, &rsquo;tis in grain; Noah&rsquo;s flood
 could not do it.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-What's her name?
+What&rsquo;s her name?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Nell, sir, but her name and
-three quarters--that's an ell and three quarters--
+three quarters--that&rsquo;s an ell and three quarters--
 will not measure her from hip to hip.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
@@ -1555,7 +1554,7 @@ in her breath.
 Where America, the Indies?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-O, sir, upon her nose, all o'erembellished
+O, sir, upon her nose, all o&rsquo;erembellished
 with rubies, carbuncles, sapphires,
 declining their rich aspect to the hot breath of
 Spain, who sent whole armadas of carracks to be
@@ -1576,7 +1575,7 @@ witch.
 And, I think, if my breast had not been made of
 faith, and my heart of steel,
 She had transformed me to a curtal dog and made
-me turn i' th' wheel.
+me turn i&rsquo; th&rsquo; wheel.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Go, hie thee presently. Post to the road.
@@ -1585,22 +1584,22 @@ I will not harbor in this town tonight.
 If any bark put forth, come to the mart,
 Where I will walk till thou return to me.
 If everyone knows us, and we know none,
-'Tis time, I think, to trudge, pack, and be gone.
+&rsquo;Tis time, I think, to trudge, pack, and be gone.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 As from a bear a man would run for life,
 So fly I from her that would be my wife.	[<i>He exits.</i>]
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-There's none but witches do inhabit here,
-And therefore 'tis high time that I were hence.
+There&rsquo;s none but witches do inhabit here,
+And therefore &rsquo;tis high time that I were hence.
 She that doth call me husband, even my soul
 Doth for a wife abhor. But her fair sister,
 Possessed with such a gentle sovereign grace,
 Of such enchanting presence and discourse,
 Hath almost made me traitor to myself.
 But lest myself be guilty to self wrong,
-I'll stop mine ears against the mermaid's song.
+I&rsquo;ll stop mine ears against the mermaid&rsquo;s song.
 
 [<i>Enter Angelo with the chain.</i>]
 
@@ -1608,11 +1607,11 @@ I'll stop mine ears against the mermaid's song.
 Master Antipholus.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Ay, that's my name.
+Ay, that&rsquo;s my name.
 
 <speaker>ANGELO</speaker>
-I know it well, sir. Lo, here's the chain.
-I thought to have ta'en you at the Porpentine;
+I know it well, sir. Lo, here&rsquo;s the chain.
+I thought to have ta&rsquo;en you at the Porpentine;
 The chain unfinished made me stay thus long.
 [<i>He gives Antipholus a chain.</i>]
 
@@ -1628,23 +1627,23 @@ Made it for me, sir? I bespoke it not.
 <speaker>ANGELO</speaker>
 Not once, nor twice, but twenty times you have.
 Go home with it, and please your wife withal,
-And soon at supper time I'll visit you
+And soon at supper time I&rsquo;ll visit you
 And then receive my money for the chain.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 I pray you, sir, receive the money now,
-For fear you ne'er see chain nor money more.
+For fear you ne&rsquo;er see chain nor money more.
 
 <speaker>ANGELO</speaker>
 You are a merry man, sir. Fare you well.	[<i>He exits.</i>]
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 What I should think of this I cannot tell,
-But this I think: there's no man is so vain
+But this I think: there&rsquo;s no man is so vain
 That would refuse so fair an offered chain.
 I see a man here needs not live by shifts
 When in the streets he meets such golden gifts.
-I'll to the mart, and there for Dromio stay.
+I&rsquo;ll to the mart, and there for Dromio stay.
 If any ship put out, then straight away.
 [<i>He exits.</i>]
 
@@ -1661,27 +1660,27 @@ And since I have not much importuned you,
 Nor now I had not, but that I am bound
 To Persia and want guilders for my voyage.
 Therefore make present satisfaction,
-Or I'll attach you by this officer.
+Or I&rsquo;ll attach you by this officer.
 
 <speaker>ANGELO</speaker>
 Even just the sum that I do owe to you
 Is growing to me by Antipholus.
 And in the instant that I met with you,
-He had of me a chain. At five o'clock
+He had of me a chain. At five o&rsquo;clock
 I shall receive the money for the same.
 Pleaseth you walk with me down to his house,
 I will discharge my bond and thank you too.
 
 [<i>Enter Antipholus of Ephesus and Dromio of
-Ephesus from the Courtesan's.</i>]
+Ephesus from the Courtesan&rsquo;s.</i>]
 
 <speaker>OFFICER</speaker>
 That labor may you save. See where he comes.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
 [<i>to Dromio of Ephesus</i>]
-While I go to the goldsmith's house, go thou
-And buy a rope's end. That will I bestow
+While I go to the goldsmith&rsquo;s house, go thou
+And buy a rope&rsquo;s end. That will I bestow
 Among my wife and her confederates
 For locking me out of my doors by day.
 But soft. I see the goldsmith. Get thee gone.
@@ -1701,7 +1700,7 @@ If it were chained together, and therefore came not.
 
 <speaker>ANGELO,</speaker>
 [<i>handing a paper to Antipholus of Ephesus</i>]
-Saving your merry humor, here's the note
+Saving your merry humor, here&rsquo;s the note
 How much your chain weighs to the utmost carat,
 The fineness of the gold, and chargeful fashion,
 Which doth amount to three-odd ducats more
@@ -1758,12 +1757,12 @@ Either send the chain, or send by me some token.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Fie, now you run this humor out of breath.
-Come, where's the chain? I pray you, let me see it.
+Come, where&rsquo;s the chain? I pray you, let me see it.
 
 <speaker>SECOND MERCHANT</speaker>
 My business cannot brook this dalliance.
-Good sir, say whe'er you'll answer me or no.
-If not, I'll leave him to the Officer.
+Good sir, say whe&rsquo;er you&rsquo;ll answer me or no.
+If not, I&rsquo;ll leave him to the Officer.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 I answer you? What should I answer you?
@@ -1789,7 +1788,7 @@ Well, officer, arrest him at my suit.
 
 <speaker>OFFICER,</speaker>
 [<i>to Angelo</i>]
-I do, and charge you in the Duke's name to obey
+I do, and charge you in the Duke&rsquo;s name to obey
 me.
 
 <speaker>ANGELO,</speaker>
@@ -1800,7 +1799,7 @@ Or I attach you by this officer.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Consent to pay thee that I never had?--
-Arrest me, foolish fellow, if thou dar'st.
+Arrest me, foolish fellow, if thou dar&rsquo;st.
 
 <speaker>ANGELO,</speaker>
 [<i>to Officer</i>]
@@ -1826,7 +1825,7 @@ To your notorious shame, I doubt it not.
 [<i>Enter Dromio of Syracuse from the bay.</i>]
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Master, there's a bark of Epidamium
+Master, there&rsquo;s a bark of Epidamium
 That stays but till her owner comes aboard,
 And then, sir, she bears away. Our fraughtage, sir,
 I have conveyed aboard, and I have bought
@@ -1847,7 +1846,7 @@ Thou drunken slave, I sent thee for a rope
 And told thee to what purpose and what end.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-You sent me for a rope's end as soon.
+You sent me for a rope&rsquo;s end as soon.
 You sent me to the bay, sir, for a bark.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
@@ -1856,7 +1855,7 @@ And teach your ears to list me with more heed.
 To Adriana, villain, hie thee straight.
 [<i>He gives a key.</i>]
 Give her this key, and tell her in the desk
-That's covered o'er with Turkish tapestry
+That&rsquo;s covered o&rsquo;er with Turkish tapestry
 There is a purse of ducats. Let her send it.
 Tell her I am arrested in the street,
 And that shall bail me. Hie thee, slave. Begone.--
@@ -1868,7 +1867,7 @@ To Adriana. That is where we dined,
 Where Dowsabel did claim me for her husband.
 She is too big, I hope, for me to compass.
 Thither I must, although against my will,
-For servants must their masters' minds fulfill.
+For servants must their masters&rsquo; minds fulfill.
 [<i>He exits.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
@@ -1877,11 +1876,11 @@ For servants must their masters' minds fulfill.
 
 <speaker>ADRIANA</speaker>
 Ah, Luciana, did he tempt thee so?
-   Might'st thou perceive austerely in his eye
+   Might&rsquo;st thou perceive austerely in his eye
 That he did plead in earnest, yea or no?
    Looked he or red or pale, or sad or merrily?
-What observation mad'st thou in this case
-Of his heart's meteors tilting in his face?
+What observation mad&rsquo;st thou in this case
+Of his heart&rsquo;s meteors tilting in his face?
 
 <speaker>LUCIANA</speaker>
 First he denied you had in him no right.
@@ -1912,7 +1911,7 @@ With words that in an honest suit might move.
 First he did praise my beauty, then my speech.
 
 <speaker>ADRIANA</speaker>
-Did'st speak him fair?
+Did&rsquo;st speak him fair?
 
 <speaker>LUCIANA</speaker>
 Have patience, I beseech.
@@ -1931,7 +1930,7 @@ No evil lost is wailed when it is gone.
 
 <speaker>ADRIANA</speaker>
 Ah, but I think him better than I say,
-   And yet would herein others' eyes were worse.
+   And yet would herein others&rsquo; eyes were worse.
 Far from her nest the lapwing cries away.
    My heart prays for him, though my tongue do
    curse.
@@ -1952,7 +1951,7 @@ By running fast.
 Where is thy master, Dromio? Is he well?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-No, he's in Tartar limbo, worse than hell.
+No, he&rsquo;s in Tartar limbo, worse than hell.
 A devil in an everlasting garment hath him,
 One whose hard heart is buttoned up with steel;
 A fiend, a fairy, pitiless and rough;
@@ -1969,14 +1968,14 @@ hell.
 Why, man, what is the matter?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-I do not know the matter. He is 'rested on the case.
+I do not know the matter. He is &rsquo;rested on the case.
 
 <speaker>ADRIANA</speaker>
 What, is he arrested? Tell me at whose suit.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 I know not at whose suit he is arrested well,
-But is in a suit of buff which 'rested him; that can I
+But is in a suit of buff which &rsquo;rested him; that can I
 tell.
 Will you send him, mistress, redemption--the
 money in his desk?
@@ -1995,7 +1994,7 @@ A chain, a chain. Do you not hear it ring?
 What, the chain?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-No, no, the bell. 'Tis time that I were gone.
+No, no, the bell. &rsquo;Tis time that I were gone.
 It was two ere I left him, and now the clock strikes
 one.
 
@@ -2011,9 +2010,9 @@ As if time were in debt. How fondly dost thou
 reason!
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Time is a very bankrout and owes more than he's
+Time is a very bankrout and owes more than he&rsquo;s
 worth to season.
-Nay, he's a thief too. Have you not heard men say
+Nay, he&rsquo;s a thief too. Have you not heard men say
 That time comes stealing on by night and day?
 If he be in debt and theft, and a sergeant in the
 way,
@@ -2022,7 +2021,7 @@ Hath he not reason to turn back an hour in a day?
 [<i>Enter Luciana, with the purse.</i>]
 
 <speaker>ADRIANA</speaker>
-Go, Dromio. There's the money. Bear it straight,
+Go, Dromio. There&rsquo;s the money. Bear it straight,
 And bring thy master home immediately.
 [<i>Dromio exits.</i>]
 Come, sister, I am pressed down with conceit:
@@ -2034,7 +2033,7 @@ Conceit, my comfort and my injury.
 [<i>Enter Antipholus of Syracuse, wearing the chain.</i>]
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-There's not a man I meet but doth salute me
+There&rsquo;s not a man I meet but doth salute me
 As if I were their well-acquainted friend,
 And everyone doth call me by my name.
 Some tender money to me; some invite me;
@@ -2049,7 +2048,7 @@ And Lapland sorcerers inhabit here.
 [<i>Enter Dromio of Syracuse with the purse.</i>]
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Master, here's the gold you sent
+Master, here&rsquo;s the gold you sent
 me for. What, have you got the picture of old Adam
 new-appareled?
 
@@ -2059,7 +2058,7 @@ What gold is this? What Adam dost thou mean?
 <speaker>DROMIO OF SYRACUSE</speaker>
 Not that Adam that kept the
 Paradise, but that Adam that keeps the prison; he
-that goes in the calf's skin that was killed for the
+that goes in the calf&rsquo;s skin that was killed for the
 Prodigal; he that came behind you, sir, like an evil
 angel, and bid you forsake your liberty.
 
@@ -2067,23 +2066,23 @@ angel, and bid you forsake your liberty.
 I understand thee not.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-No? Why, 'tis a plain case: he
+No? Why, &rsquo;tis a plain case: he
 that went like a bass viol in a case of leather; the
 man, sir, that, when gentlemen are tired, gives
-them a sob and 'rests them; he, sir, that takes pity
+them a sob and &rsquo;rests them; he, sir, that takes pity
 on decayed men and gives them suits of durance; he
 that sets up his rest to do more exploits with his
 mace than a morris-pike.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-What, thou mean'st an
+What, thou mean&rsquo;st an
 officer?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Ay, sir, the sergeant of the band;
 he that brings any man to answer it that breaks his
 band; one that thinks a man always going to bed
-and says "God give you good rest."
+and says "&ldquo;God give you good rest.&rdquo;"
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Well, sir, there rest in your
@@ -2120,17 +2119,17 @@ It is the devil.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Nay, she is worse; she is the
-devil's dam, and here she comes in the habit of a
+devil&rsquo;s dam, and here she comes in the habit of a
 light wench. And thereof comes that the wenches
-say "God damn me"; that's as much to say "God
-make me a light wench." It is written they appear
+say "&ldquo;God damn me&rdquo;"; that&rsquo;s as much to say "&ldquo;God
+make me a light wench.&rdquo;" It is written they appear
 to men like angels of light. Light is an effect of fire,
 and fire will burn: ergo, light wenches will burn.
 Come not near her.
 
 <speaker>COURTESAN</speaker>
 Your man and you are marvelous merry, sir.
-Will you go with me? We'll mend our dinner here.
+Will you go with me? We&rsquo;ll mend our dinner here.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Master, if you do, expect spoon
@@ -2145,18 +2144,18 @@ spoon that must eat with the devil.
 
 <speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
 [<i>to the Courtesan</i>]
-Avoid then, fiend! What tell'st thou me of supping?
+Avoid then, fiend! What tell&rsquo;st thou me of supping?
 Thou art, as you are all, a sorceress.
 I conjure thee to leave me and be gone.
 
 <speaker>COURTESAN</speaker>
 Give me the ring of mine you had at dinner
 Or, for my diamond, the chain you promised,
-And I'll be gone, sir, and not trouble you.
+And I&rsquo;ll be gone, sir, and not trouble you.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Some devils ask but the parings
-of one's nail, a rush, a hair, a drop of blood, a pin, a
+of one&rsquo;s nail, a rush, a hair, a drop of blood, a pin, a
 nut, a cherrystone; but she, more covetous, would
 have a chain. Master, be wise. An if you give it her,
 the devil will shake her chain and fright us with it.
@@ -2169,7 +2168,7 @@ I hope you do not mean to cheat me so.
 Avaunt, thou witch!--Come, Dromio, let us go.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-"Fly pride," says the peacock.
+"&ldquo;Fly pride,&rdquo;" says the peacock.
 Mistress, that you know.
 [<i>Antipholus and Dromio exit.</i>]
 
@@ -2198,25 +2197,25 @@ For forty ducats is too much to lose.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Fear me not, man. I will not break away.
-I'll give thee, ere I leave thee, so much money,
-To warrant thee, as I am 'rested for.
+I&rsquo;ll give thee, ere I leave thee, so much money,
+To warrant thee, as I am &rsquo;rested for.
 My wife is in a wayward mood today
 And will not lightly trust the messenger
 That I should be attached in Ephesus.
-I tell you, 'twill sound harshly in her ears.
+I tell you, &rsquo;twill sound harshly in her ears.
 
-[<i>Enter Dromio of Ephesus with a rope's end.</i>]
+[<i>Enter Dromio of Ephesus with a rope&rsquo;s end.</i>]
 
 Here comes my man. I think he brings the
 money.
 How now, sir? Have you that I sent you for?
 
 <speaker>DROMIO OF EPHESUS,</speaker>
-[<i>handing over the rope's end</i>]
-Here's that, I warrant you, will pay them all.
+[<i>handing over the rope&rsquo;s end</i>]
+Here&rsquo;s that, I warrant you, will pay them all.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-But where's the money?
+But where&rsquo;s the money?
 
 <speaker>DROMIO OF EPHESUS</speaker>
 Why, sir, I gave the money for the rope.
@@ -2225,13 +2224,13 @@ Why, sir, I gave the money for the rope.
 Five hundred ducats, villain, for a rope?
 
 <speaker>DROMIO OF EPHESUS</speaker>
-I'll serve you, sir, five hundred at the rate.
+I&rsquo;ll serve you, sir, five hundred at the rate.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 To what end did I bid thee hie thee home?
 
 <speaker>DROMIO OF EPHESUS</speaker>
-To a rope's end, sir, and to that
+To a rope&rsquo;s end, sir, and to that
 end am I returned.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
@@ -2242,7 +2241,7 @@ And to that end, sir, I will welcome you.
 Good sir, be patient.
 
 <speaker>DROMIO OF EPHESUS</speaker>
-Nay, 'tis for me to be patient. I am
+Nay, &rsquo;tis for me to be patient. I am
 in adversity.
 
 <speaker>OFFICER</speaker>
@@ -2287,7 +2286,7 @@ Come, go along. My wife is coming yonder.
 <speaker>DROMIO OF EPHESUS</speaker>
 Mistress, respice finem, respect
 your end, or rather, the prophecy like the parrot,
-"Beware the rope's end."
+"&ldquo;Beware the rope&rsquo;s end.&rdquo;"
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Wilt thou still talk?
@@ -2342,7 +2341,7 @@ Where would you had remained until this time,
 Free from these slanders and this open shame.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-"Dined at home"? [<i>To Dromio.</i>]
+"&ldquo;Dined at home&rdquo;"? [<i>To Dromio.</i>]
  Thou villain, what
 sayest thou?
 
@@ -2376,7 +2375,7 @@ That since have felt the vigor of his rage.
 
 <speaker>ADRIANA,</speaker>
 [<i>to Pinch</i>]
-Is 't good to soothe him in these contraries?
+Is &rsquo;t good to soothe him in these contraries?
 
 <speaker>PINCH</speaker>
 It is no shame. The fellow finds his vein
@@ -2395,7 +2394,7 @@ Money by me? Heart and goodwill you might,
 But surely, master, not a rag of money.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-Went'st not thou to her for a purse of ducats?
+Went&rsquo;st not thou to her for a purse of ducats?
 
 <speaker>ADRIANA</speaker>
 He came to me, and I delivered it.
@@ -2427,13 +2426,13 @@ And, gentle master, I received no gold.
 But I confess, sir, that we were locked out.
 
 <speaker>ADRIANA</speaker>
-Dissembling villain, thou speak'st false in both.
+Dissembling villain, thou speak&rsquo;st false in both.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Dissembling harlot, thou art false in all,
 And art confederate with a damned pack
 To make a loathsome abject scorn of me.
-But with these nails I'll pluck out these false eyes
+But with these nails I&rsquo;ll pluck out these false eyes
 That would behold in me this shameful sport.
 
 <speaker>ADRIANA</speaker>
@@ -2489,7 +2488,7 @@ Out on thee, villain! Wherefore dost thou mad me?
 <speaker>DROMIO OF EPHESUS</speaker>
 Will you be bound for nothing? Be mad, good
 master.
-Cry "The devil!"
+Cry "&ldquo;The devil!&rdquo;"
 
 <speaker>LUCIANA</speaker>
 God help poor souls! How idly do they talk!
@@ -2540,11 +2539,11 @@ and Dromio of Syracuse.</i>]
 God for Thy mercy, they are loose again!
 
 <speaker>ADRIANA</speaker>
-And come with naked swords. Let's call more help
+And come with naked swords. Let&rsquo;s call more help
 To have them bound again.
 
 <speaker>OFFICER</speaker>
-Away! They'll kill us.
+Away! They&rsquo;ll kill us.
 [<i>Run all out as fast as may be, frighted.
 Antipholus and Dromio of Syracuse remain.</i>]
 
@@ -2598,9 +2597,9 @@ Speak softly. Yonder, as I think, he walks.
 Antipholus wearing the chain.</i>]
 
 <speaker>ANGELO</speaker>
-'Tis so, and that self chain about his neck
+&rsquo;Tis so, and that self chain about his neck
 Which he forswore most monstrously to have.
-Good sir, draw near to me. I'll speak to him.--
+Good sir, draw near to me. I&rsquo;ll speak to him.--
 Signior Antipholus, I wonder much
 That you would put me to this shame and trouble,
 And not without some scandal to yourself,
@@ -2622,14 +2621,14 @@ Yes, that you did, sir, and forswore it too.
 Who heard me to deny it or forswear it?
 
 <speaker>SECOND MERCHANT</speaker>
-These ears of mine, thou know'st, did hear thee.
-Fie on thee, wretch. 'Tis pity that thou liv'st
+These ears of mine, thou know&rsquo;st, did hear thee.
+Fie on thee, wretch. &rsquo;Tis pity that thou liv&rsquo;st
 To walk where any honest men resort.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Thou art a villain to impeach me thus.
-I'll prove mine honor and mine honesty
-Against thee presently if thou dar'st stand.
+I&rsquo;ll prove mine honor and mine honesty
+Against thee presently if thou dar&rsquo;st stand.
 
 <speaker>SECOND MERCHANT</speaker>
 I dare, and do defy thee for a villain.	[<i>They draw.</i>]
@@ -2637,12 +2636,12 @@ I dare, and do defy thee for a villain.	[<i>They draw.</i>]
 [<i>Enter Adriana, Luciana, Courtesan, and others.</i>]
 
 <speaker>ADRIANA</speaker>
-Hold, hurt him not, for God's sake. He is mad.--
+Hold, hurt him not, for God&rsquo;s sake. He is mad.--
 Some get within him; take his sword away.
 Bind Dromio too, and bear them to my house!
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-Run, master, run. For God's sake, take a house.
+Run, master, run. For God&rsquo;s sake, take a house.
 This is some priory. In, or we are spoiled.
 [<i>Antipholus and Dromio of Syracuse
 exit to the Priory.</i>]
@@ -2670,7 +2669,7 @@ How long hath this possession held the man?
 This week he hath been heavy, sour, sad,
 And much different from the man he was.
 But till this afternoon his passion
-Ne'er brake into extremity of rage.
+Ne&rsquo;er brake into extremity of rage.
 
 <speaker>ABBESS</speaker>
 Hath he not lost much wealth by wrack of sea?
@@ -2716,14 +2715,14 @@ Still did I tell him it was vile and bad.
 <speaker>ABBESS</speaker>
 And thereof came it that the man was mad.
 The venom clamors of a jealous woman
-Poisons more deadly than a mad dog's tooth.
+Poisons more deadly than a mad dog&rsquo;s tooth.
 It seems his sleeps were hindered by thy railing,
 And thereof comes it that his head is light.
 Thou sayst his meat was sauced with thy
 upbraidings.
 Unquiet meals make ill digestions.
 Thereof the raging fire of fever bred,
-And what's a fever but a fit of madness?
+And what&rsquo;s a fever but a fit of madness?
 Thou sayest his sports were hindered by thy brawls.
 Sweet recreation barred, what doth ensue
 But moody and dull melancholy,
@@ -2793,7 +2792,7 @@ And take perforce my husband from the Abbess.
 
 <speaker>SECOND MERCHANT</speaker>
 By this, I think, the dial points at five.
-Anon, I'm sure, the Duke himself in person
+Anon, I&rsquo;m sure, the Duke himself in person
 Comes this way to the melancholy vale,
 The place of death and sorry execution
 Behind the ditches of the abbey here.
@@ -2836,7 +2835,7 @@ May it please your Grace, Antipholus my husband,
 Who I made lord of me and all I had
 At your important letters, this ill day
 A most outrageous fit of madness took him,
-That desp'rately he hurried through the street,
+That desp&rsquo;rately he hurried through the street,
 With him his bondman, all as mad as he,
 Doing displeasure to the citizens
 By rushing in their houses, bearing thence
@@ -2860,7 +2859,7 @@ Let him be brought forth and borne hence for help.
 
 <speaker>DUKE</speaker>
 Long since, thy husband served me in my wars,
-And I to thee engaged a prince's word,
+And I to thee engaged a prince&rsquo;s word,
 When thou didst make him master of thy bed,
 To do him all the grace and good I could.
 Go, some of you, knock at the abbey gate,
@@ -2903,7 +2902,7 @@ halberds.
 Ay me, it is my husband. Witness you
 That he is borne about invisible.
 Even now we housed him in the abbey here,
-And now he's there, past thought of human reason.
+And now he&rsquo;s there, past thought of human reason.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Justice, most gracious duke. O, grant me justice,
@@ -2919,7 +2918,7 @@ I see my son Antipholus and Dromio.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Justice, sweet prince, against that woman there,
-She whom thou gav'st to me to be my wife,
+She whom thou gav&rsquo;st to me to be my wife,
 That hath abused and dishonored me
 Even in the strength and height of injury.
 Beyond imagination is the wrong
@@ -2941,7 +2940,7 @@ Today did dine together. So befall my soul
 As this is false he burdens me withal.
 
 <speaker>LUCIANA</speaker>
-Ne'er may I look on day nor sleep on night
+Ne&rsquo;er may I look on day nor sleep on night
 But she tells to your Highness simple truth.
 
 <speaker>ANGELO</speaker>
@@ -2971,7 +2970,7 @@ I did obey and sent my peasant home
 For certain ducats. He with none returned.
 Then fairly I bespoke the officer
 To go in person with me to my house.
-By th' way we met
+By th&rsquo; way we met
 My wife, her sister, and a rabble more
 Of vile confederates. Along with them
 They brought one Pinch, a hungry, lean-faced
@@ -2982,7 +2981,7 @@ A needy, hollow-eyed, sharp-looking wretch,
 A living dead man. This pernicious slave,
 Forsooth, took on him as a conjurer,
 And, gazing in mine eyes, feeling my pulse,
-And with no face (as 'twere) outfacing me,
+And with no face (as &rsquo;twere) outfacing me,
 Cries out I was possessed. Then all together
 They fell upon me, bound me, bore me thence,
 And in a dark and dankish vault at home
@@ -3021,7 +3020,7 @@ And this is false you burden me withal.
 
 <speaker>DUKE</speaker>
 Why, what an intricate impeach is this!
-I think you all have drunk of Circe's cup.
+I think you all have drunk of Circe&rsquo;s cup.
 If here you housed him, here he would have been.
 If he were mad, he would not plead so coldly.
 [<i>To Adriana.</i>]
@@ -3040,11 +3039,11 @@ He did, and from my finger snatched that ring.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
 [<i>showing a ring</i>]
-'Tis true, my liege, this ring I had of her.
+&rsquo;Tis true, my liege, this ring I had of her.
 
 <speaker>DUKE,</speaker>
 [<i>to Courtesan</i>]
-Saw'st thou him enter at the abbey here?
+Saw&rsquo;st thou him enter at the abbey here?
 
 <speaker>COURTESAN</speaker>
 As sure, my liege, as I do see your Grace.
@@ -3078,7 +3077,7 @@ I am sure you both of you remember me.
 <speaker>DROMIO OF EPHESUS</speaker>
 Ourselves we do remember, sir, by you,
 For lately we were bound as you are now.
-You are not Pinch's patient, are you, sir?
+You are not Pinch&rsquo;s patient, are you, sir?
 
 <speaker>EGEON,</speaker>
 [<i>to Antipholus of Ephesus</i>]
@@ -3089,7 +3088,7 @@ I never saw you in my life till now.
 
 <speaker>EGEON</speaker>
 O, grief hath changed me since you saw me last,
-And careful hours with time's deformed hand
+And careful hours with time&rsquo;s deformed hand
 Have written strange defeatures in my face.
 But tell me yet, dost thou not know my voice?
 
@@ -3111,12 +3110,12 @@ whatsoever a man denies, you are now bound to
 believe him.
 
 <speaker>EGEON</speaker>
-Not know my voice! O time's extremity,
+Not know my voice! O time&rsquo;s extremity,
 Hast thou so cracked and splitted my poor tongue
 In seven short years that here my only son
 Knows not my feeble key of untuned cares?
 Though now this grained face of mine be hid
-In sap-consuming winter's drizzled snow,
+In sap-consuming winter&rsquo;s drizzled snow,
 And all the conduits of my blood froze up,
 Yet hath my night of life some memory,
 My wasting lamps some fading glimmer left,
@@ -3129,18 +3128,18 @@ I never saw my father in my life.
 
 <speaker>EGEON</speaker>
 But seven years since, in Syracusa, boy,
-Thou know'st we parted. But perhaps, my son,
-Thou sham'st to acknowledge me in misery.
+Thou know&rsquo;st we parted. But perhaps, my son,
+Thou sham&rsquo;st to acknowledge me in misery.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 The Duke and all that know me in the city
 Can witness with me that it is not so.
-I ne'er saw Syracusa in my life.
+I ne&rsquo;er saw Syracusa in my life.
 
 <speaker>DUKE</speaker>
 I tell thee, Syracusian, twenty years
 Have I been patron to Antipholus,
-During which time he ne'er saw Syracusa.
+During which time he ne&rsquo;er saw Syracusa.
 I see thy age and dangers make thee dote.
 
 [<i>Enter Emilia the Abbess, with Antipholus of
@@ -3173,15 +3172,15 @@ O, my old master.--Who hath bound him here?
 <speaker>ABBESS</speaker>
 Whoever bound him, I will loose his bonds
 And gain a husband by his liberty.--
-Speak, old Egeon, if thou be'st the man
+Speak, old Egeon, if thou be&rsquo;st the man
 That hadst a wife once called Emilia,
 That bore thee at a burden two fair sons.
-O, if thou be'st the same Egeon, speak,
+O, if thou be&rsquo;st the same Egeon, speak,
 And speak unto the same Emilia.
 
 <speaker>DUKE</speaker>
 Why, here begins his morning story right:
-These two Antipholus', these two so like,
+These two Antipholus&rsquo;, these two so like,
 And these two Dromios, one in semblance--
 Besides her urging of her wrack at sea--
 These are the parents to these children,
@@ -3203,7 +3202,7 @@ I to this fortune that you see me in.
 
 <speaker>DUKE,</speaker>
 [<i>to Antipholus of Syracuse</i>]
-Antipholus, thou cam'st from Corinth first.
+Antipholus, thou cam&rsquo;st from Corinth first.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 No, sir, not I. I came from Syracuse.
@@ -3268,8 +3267,8 @@ No, none by me.
 [<i>to Adriana</i>]
 This purse of ducats I received from you,
 And Dromio my man did bring them me.
-I see we still did meet each other's man,
-And I was ta'en for him, and he for me,
+I see we still did meet each other&rsquo;s man,
+And I was ta&rsquo;en for him, and he for me,
 And thereupon these errors are arose.
 
 <speaker>ANTIPHOLUS OF EPHESUS,</speaker>
@@ -3291,19 +3290,19 @@ Renowned duke, vouchsafe to take the pains
 To go with us into the abbey here
 And hear at large discoursed all our fortunes,
 And all that are assembled in this place
-That by this sympathized one day's error
+That by this sympathized one day&rsquo;s error
 Have suffered wrong. Go, keep us company,
 And we shall make full satisfaction.--
 Thirty-three years have I but gone in travail
 Of you, my sons, and till this present hour
-My heavy burden ne'er delivered.--
+My heavy burden ne&rsquo;er delivered.--
 The Duke, my husband, and my children both,
 And you, the calendars of their nativity,
-Go to a gossips' feast, and go with me.
+Go to a gossips&rsquo; feast, and go with me.
 After so long grief, such nativity!
 
 <speaker>DUKE</speaker>
-With all my heart I'll gossip at this feast.
+With all my heart I&rsquo;ll gossip at this feast.
 [<i>All exit except the two Dromios
 and the two brothers Antipholus.</i>]
 
@@ -3320,12 +3319,12 @@ Your goods that lay at host, sir, in the Centaur.
 <speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
 [<i>to Antipholus of Ephesus</i>]
 He speaks to me.--I am your master, Dromio.
-Come, go with us. We'll look to that anon.
+Come, go with us. We&rsquo;ll look to that anon.
 Embrace thy brother there. Rejoice with him.
 [<i>The brothers Antipholus exit.</i>]
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-There is a fat friend at your master's house
+There is a fat friend at your master&rsquo;s house
 That kitchened me for you today at dinner.
 She now shall be my sister, not my wife.
 
@@ -3338,17 +3337,17 @@ Will you walk in to see their gossiping?
 Not I, sir. You are my elder.
 
 <speaker>DROMIO OF EPHESUS</speaker>
-That's a question. How shall we
+That&rsquo;s a question. How shall we
 try it?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-We'll draw cuts for the signior.
+We&rsquo;ll draw cuts for the signior.
 Till then, lead thou first.
 
 <speaker>DROMIO OF EPHESUS</speaker>
 Nay, then, thus:
 We came into the world like brother and brother,
-And now let's go hand in hand, not one before
+And now let&rsquo;s go hand in hand, not one before
 another.
 [<i>They exit.</i>]
 `;

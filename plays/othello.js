@@ -17,7 +17,7 @@ Tush, never tell me! I take it much unkindly
 That thou, Iago, who hast had my purse
 As if the strings were thine, shouldst know of this.
 
-IAGO  'Sblood, but you'll not hear me!
+IAGO  &rsquo;Sblood, but you&rsquo;ll not hear me!
 If ever I did dream of such a matter,
 Abhor me.
 
@@ -33,8 +33,8 @@ But he, as loving his own pride and purposes,
 Evades them with a bombast circumstance,
 Horribly stuffed with epithets of war,
 And in conclusion,
-Nonsuits my mediators. For "Certes," says he,
-"I have already chose my officer."
+Nonsuits my mediators. For "&ldquo;Certes,&rdquo;" says he,
+"&ldquo;I have already chose my officer.&rdquo;"
 And what was he?
 Forsooth, a great arithmetician,
 One Michael Cassio, a Florentine,
@@ -44,23 +44,23 @@ Nor the division of a battle knows
 More than a spinster--unless the bookish theoric,
 Wherein the toged consuls can propose
 As masterly as he. Mere prattle without practice
-Is all his soldiership. But he, sir, had th' election;
+Is all his soldiership. But he, sir, had th&rsquo; election;
 And I, of whom his eyes had seen the proof
 At Rhodes, at Cyprus, and on other grounds
 Christened and heathen, must be beleed and
 calmed
 By debitor and creditor. This countercaster,
 He, in good time, must his lieutenant be,
-And I, God bless the mark, his Moorship's ancient.
+And I, God bless the mark, his Moorship&rsquo;s ancient.
 
 RODERIGO
 By heaven, I rather would have been his hangman.
 
 IAGO
-Why, there's no remedy. 'Tis the curse of service.
+Why, there&rsquo;s no remedy. &rsquo;Tis the curse of service.
 Preferment goes by letter and affection,
 And not by old gradation, where each second
-Stood heir to th' first. Now, sir, be judge yourself
+Stood heir to th&rsquo; first. Now, sir, be judge yourself
 Whether I in any just term am affined
 To love the Moor.
 
@@ -73,8 +73,8 @@ We cannot all be masters, nor all masters
 Cannot be truly followed. You shall mark
 Many a duteous and knee-crooking knave
 That, doting on his own obsequious bondage,
-Wears out his time, much like his master's ass,
-For naught but provender, and when he's old,
+Wears out his time, much like his master&rsquo;s ass,
+For naught but provender, and when he&rsquo;s old,
 cashiered.
 Whip me such honest knaves! Others there are
 Who, trimmed in forms and visages of duty,
@@ -92,24 +92,24 @@ Heaven is my judge, not I for love and duty,
 But seeming so for my peculiar end.
 For when my outward action doth demonstrate
 The native act and figure of my heart
-In complement extern, 'tis not long after
+In complement extern, &rsquo;tis not long after
 But I will wear my heart upon my sleeve
 For daws to peck at. I am not what I am.
 
 RODERIGO
 What a full fortune does the thick-lips owe
-If he can carry 't thus!
+If he can carry &rsquo;t thus!
 
 IAGO  Call up her father.
 Rouse him. Make after him, poison his delight,
 Proclaim him in the streets; incense her kinsmen,
 And, though he in a fertile climate dwell,
 Plague him with flies. Though that his joy be joy,
-Yet throw such chances of vexation on 't
+Yet throw such chances of vexation on &rsquo;t
 As it may lose some color.
 
 RODERIGO
-Here is her father's house. I'll call aloud.
+Here is her father&rsquo;s house. I&rsquo;ll call aloud.
 
 IAGO
 Do, with like timorous accent and dire yell
@@ -139,7 +139,7 @@ Are your doors locked?
 BRABANTIO  Why, wherefore ask you this?
 
 IAGO
-Zounds, sir, you're robbed. For shame, put on your
+Zounds, sir, you&rsquo;re robbed. For shame, put on your
 gown!
 Your heart is burst. You have lost half your soul.
 Even now, now, very now, an old black ram
@@ -162,7 +162,7 @@ BRABANTIO  The worser welcome.
 I have charged thee not to haunt about my doors.
 In honest plainness thou hast heard me say
 My daughter is not for thee. And now in madness,
-Being full of supper and distemp'ring draughts,
+Being full of supper and distemp&rsquo;ring draughts,
 Upon malicious bravery dost thou come
 To start my quiet.
 
@@ -175,7 +175,7 @@ To make this bitter to thee.
 RODERIGO
 Patience, good sir.
 
-BRABANTIO  What tell'st thou me of robbing?
+BRABANTIO  What tell&rsquo;st thou me of robbing?
 This is Venice. My house is not a grange.
 
 RODERIGO  Most grave Brabantio,
@@ -183,9 +183,9 @@ In simple and pure soul I come to you--
 
 IAGO  Zounds, sir, you are one of those that will not
 serve God if the devil bid you. Because we come to
-do you service and you think we are ruffians, you'll
+do you service and you think we are ruffians, you&rsquo;ll
 have your daughter covered with a Barbary horse,
-you'll have your nephews neigh to you, you'll have
+you&rsquo;ll have your nephews neigh to you, you&rsquo;ll have
 coursers for cousins and jennets for germans.
 
 BRABANTIO  What profane wretch art thou?
@@ -203,9 +203,9 @@ This thou shalt answer. I know thee, Roderigo.
 
 RODERIGO
 Sir, I will answer anything. But I beseech you,
-If 't be your pleasure and most wise consent--
+If &rsquo;t be your pleasure and most wise consent--
 As partly I find it is--that your fair daughter,
-At this odd-even and dull watch o' th' night,
+At this odd-even and dull watch o&rsquo; th&rsquo; night,
 Transported with no worse nor better guard
 But with a knave of common hire, a gondolier,
 To the gross clasps of a lascivious Moor:
@@ -236,7 +236,7 @@ It seems not meet nor wholesome to my place
 To be producted, as if I stay I shall,
 Against the Moor. For I do know the state,
 However this may gall him with some check,
-Cannot with safety cast him, for he's embarked
+Cannot with safety cast him, for he&rsquo;s embarked
 With such loud reason to the Cyprus wars,
 Which even now stands in act, that, for their souls,
 Another of his fathom they have none
@@ -254,12 +254,12 @@ Torches.</i>]
 
 BRABANTIO
 It is too true an evil. Gone she is,
-And what's to come of my despised time
+And what&rsquo;s to come of my despised time
 Is naught but bitterness.--Now, Roderigo,
 Where didst thou see her?--O, unhappy girl!--
 With the Moor, sayst thou?--Who would be a
 father?--
-How didst thou know 'twas she?--O, she deceives
+How didst thou know &rsquo;twas she?--O, she deceives
 me
 Past thought!--What said she to you?--Get more
 tapers.
@@ -270,7 +270,7 @@ RODERIGO  Truly, I think they are.
 
 BRABANTIO
 O heaven! How got she out? O treason of the blood!
-Fathers, from hence trust not your daughters' minds
+Fathers, from hence trust not your daughters&rsquo; minds
 By what you see them act.--Is there not charms
 By which the property of youth and maidhood
 May be abused? Have you not read, Roderigo,
@@ -288,7 +288,7 @@ I think I can discover him, if you please
 To get good guard and go along with me.
 
 BRABANTIO
-Pray you lead on. At every house I'll call.
+Pray you lead on. At every house I&rsquo;ll call.
 I may command at most.--Get weapons, ho!
 And raise some special officers of night.--
 On, good Roderigo. I will deserve your pains.
@@ -300,14 +300,14 @@ On, good Roderigo. I will deserve your pains.
 
 <speaker>IAGO</speaker>
 Though in the trade of war I have slain men,
-Yet do I hold it very stuff o' th' conscience
+Yet do I hold it very stuff o&rsquo; th&rsquo; conscience
 To do no contrived murder. I lack iniquity
 Sometimes to do me service. Nine or ten times
-I had thought t' have yerked him here under the
+I had thought t&rsquo; have yerked him here under the
 ribs.
 
 <speaker>OTHELLO</speaker>
-'Tis better as it is.
+&rsquo;Tis better as it is.
 
 <speaker>IAGO</speaker>
 Nay, but he prated
@@ -318,7 +318,7 @@ I did full hard forbear him. But I pray you, sir,
 Are you fast married? Be assured of this,
 That the magnifico is much beloved,
 And hath in his effect a voice potential
-As double as the Duke's. He will divorce you
+As double as the Duke&rsquo;s. He will divorce you
 Or put upon you what restraint or grievance
 The law (with all his might to enforce it on)
 Will give him cable.
@@ -326,7 +326,7 @@ Will give him cable.
 <speaker>OTHELLO</speaker>
 Let him do his spite.
 My services which I have done the signiory
-Shall out-tongue his complaints. 'Tis yet to know
+Shall out-tongue his complaints. &rsquo;Tis yet to know
 (Which, when I know that boasting is an honor,
 I shall promulgate) I fetch my life and being
 From men of royal siege, and my demerits
@@ -335,7 +335,7 @@ As this that I have reached. For know, Iago,
 But that I love the gentle Desdemona,
 I would not my unhoused free condition
 Put into circumscription and confine
-For the sea's worth. But look, what lights come
+For the sea&rsquo;s worth. But look, what lights come
 yond?
 
 <speaker>IAGO</speaker>
@@ -369,16 +369,16 @@ What is the matter, think you?
 Something from Cyprus, as I may divine.
 It is a business of some heat. The galleys
 Have sent a dozen sequent messengers
-This very night at one another's heels,
+This very night at one another&rsquo;s heels,
 And many of the Consuls, raised and met,
-Are at the Duke's already. You have been hotly
+Are at the Duke&rsquo;s already. You have been hotly
 called for.
 When, being not at your lodging to be found,
 The Senate hath sent about three several quests
 To search you out.
 
 <speaker>OTHELLO</speaker>
-'Tis well I am found by you.
+&rsquo;Tis well I am found by you.
 I will but spend a word here in the house
 And go with you.	[<i>He exits.</i>]
 
@@ -387,13 +387,13 @@ Ancient, what makes he here?
 
 <speaker>IAGO</speaker>
 Faith, he tonight hath boarded a land carrack.
-If it prove lawful prize, he's made forever.
+If it prove lawful prize, he&rsquo;s made forever.
 
 <speaker>CASSIO</speaker>
 I do not understand.
 
 <speaker>IAGO</speaker>
-He's married.
+He&rsquo;s married.
 
 <speaker>CASSIO</speaker>
 To who?
@@ -441,19 +441,19 @@ Than with your weapons.
 O, thou foul thief, where hast thou stowed my
 daughter?
 Damned as thou art, thou hast enchanted her!
-For I'll refer me to all things of sense,
+For I&rsquo;ll refer me to all things of sense,
 If she in chains of magic were not bound,
 Whether a maid so tender, fair, and happy,
 So opposite to marriage that she shunned
 The wealthy curled darlings of our nation,
-Would ever have, t' incur a general mock,
+Would ever have, t&rsquo; incur a general mock,
 Run from her guardage to the sooty bosom
 Of such a thing as thou--to fear, not to delight!
-Judge me the world, if 'tis not gross in sense
+Judge me the world, if &rsquo;tis not gross in sense
 That thou hast practiced on her with foul charms,
 Abused her delicate youth with drugs or minerals
-That weakens motion. I'll have 't disputed on.
-'Tis probable, and palpable to thinking.
+That weakens motion. I&rsquo;ll have &rsquo;t disputed on.
+&rsquo;Tis probable, and palpable to thinking.
 I therefore apprehend and do attach thee
 For an abuser of the world, a practicer
 Of arts inhibited and out of warrant.--
@@ -480,16 +480,16 @@ Upon some present business of the state,
 To bring me to him?
 
 <speaker>OFFICER</speaker>
-'Tis true, most worthy signior.
-The Duke's in council, and your noble self
+&rsquo;Tis true, most worthy signior.
+The Duke&rsquo;s in council, and your noble self
 I am sure is sent for.
 
 <speaker>BRABANTIO</speaker>
 How? The Duke in council?
 In this time of the night? Bring him away;
-Mine's not an idle cause. The Duke himself,
+Mine&rsquo;s not an idle cause. The Duke himself,
 Or any of my brothers of the state,
-Cannot but feel this wrong as 'twere their own.
+Cannot but feel this wrong as &rsquo;twere their own.
 For if such actions may have passage free,
 Bondslaves and pagans shall our statesmen be.
 [<i>They exit.</i>]
@@ -500,7 +500,7 @@ Bondslaves and pagans shall our statesmen be.
 
 <speaker>DUKE,</speaker>
 [<i>reading a paper</i>]
-There's no composition in these news
+There&rsquo;s no composition in these news
 That gives them credit.
 
 <speaker>FIRST SENATOR,</speaker>
@@ -516,7 +516,7 @@ And mine, a hundred forty.
 And mine, two hundred.
 But though they jump not on a just account
 (As in these cases, where the aim reports
-'Tis oft with difference), yet do they all confirm
+&rsquo;Tis oft with difference), yet do they all confirm
 A Turkish fleet, and bearing up to Cyprus.
 
 <speaker>DUKE</speaker>
@@ -535,7 +535,7 @@ In fearful sense.
 A messenger from the galleys.
 
 <speaker>DUKE</speaker>
-Now, what's the business?
+Now, what&rsquo;s the business?
 
 <speaker>SAILOR</speaker>
 The Turkish preparation makes for Rhodes.
@@ -547,14 +547,14 @@ How say you by this change?
 
 <speaker>FIRST SENATOR</speaker>
 This cannot be,
-By no assay of reason. 'Tis a pageant
+By no assay of reason. &rsquo;Tis a pageant
 To keep us in false gaze. When we consider
-Th' importancy of Cyprus to the Turk,
+Th&rsquo; importancy of Cyprus to the Turk,
 And let ourselves again but understand
 That, as it more concerns the Turk than Rhodes,
 So may he with more facile question bear it,
 For that it stands not in such warlike brace,
-But altogether lacks th' abilities
+But altogether lacks th&rsquo; abilities
 That Rhodes is dressed in--if we make thought of
 this,
 We must not think the Turk is so unskillful
@@ -563,7 +563,7 @@ Neglecting an attempt of ease and gain
 To wake and wage a danger profitless.
 
 <speaker>DUKE</speaker>
-Nay, in all confidence, he's not for Rhodes.
+Nay, in all confidence, he&rsquo;s not for Rhodes.
 
 <speaker>OFFICER</speaker>
 Here is more news.
@@ -588,11 +588,11 @@ With his free duty recommends you thus,
 And prays you to believe him.	[<i>He exits.</i>]
 
 <speaker>DUKE</speaker>
-'Tis certain, then, for Cyprus.
+&rsquo;Tis certain, then, for Cyprus.
 Marcus Luccicos, is not he in town?
 
 <speaker>FIRST SENATOR</speaker>
-He's now in Florence.
+He&rsquo;s now in Florence.
 
 <speaker>DUKE</speaker>
 Write from us to him.
@@ -618,12 +618,12 @@ Neither my place nor aught I heard of business
 Hath raised me from my bed, nor doth the general
 care
 Take hold on me, for my particular grief
-Is of so floodgate and o'erbearing nature
+Is of so floodgate and o&rsquo;erbearing nature
 That it engluts and swallows other sorrows
 And it is still itself.
 
 <speaker>DUKE</speaker>
-Why, what's the matter?
+Why, what&rsquo;s the matter?
 
 <speaker>BRABANTIO</speaker>
 My daughter! O, my daughter!
@@ -633,14 +633,14 @@ Dead?
 
 <speaker>BRABANTIO</speaker>
 Ay, to me.
-She is abused, stol'n from me, and corrupted
+She is abused, stol&rsquo;n from me, and corrupted
 By spells and medicines bought of mountebanks;
-For nature so prepost'rously to err--
+For nature so prepost&rsquo;rously to err--
 Being not deficient, blind, or lame of sense--
 Sans witchcraft could not.
 
 <speaker>DUKE</speaker>
-Whoe'er he be that in this foul proceeding
+Whoe&rsquo;er he be that in this foul proceeding
 Hath thus beguiled your daughter of herself
 And you of her, the bloody book of law
 You shall yourself read in the bitter letter,
@@ -654,7 +654,7 @@ Your special mandate for the state affairs
 Hath hither brought.
 
 <speaker>ALL</speaker>
-We are very sorry for 't.
+We are very sorry for &rsquo;t.
 
 <speaker>DUKE,</speaker>
 [<i>to Othello</i>]
@@ -666,12 +666,12 @@ Nothing, but this is so.
 <speaker>OTHELLO</speaker>
 Most potent, grave, and reverend signiors,
 My very noble and approved good masters:
-That I have ta'en away this old man's daughter,
+That I have ta&rsquo;en away this old man&rsquo;s daughter,
 It is most true; true I have married her.
 The very head and front of my offending
 Hath this extent, no more. Rude am I in my speech,
 And little blessed with the soft phrase of peace;
-For since these arms of mine had seven years' pith,
+For since these arms of mine had seven years&rsquo; pith,
 Till now some nine moons wasted, they have used
 Their dearest action in the tented field,
 And little of this great world can I speak
@@ -697,7 +697,7 @@ That will confess perfection so could err
 Against all rules of nature, and must be driven
 To find out practices of cunning hell
 Why this should be. I therefore vouch again
-That with some mixtures powerful o'er the blood,
+That with some mixtures powerful o&rsquo;er the blood,
 Or with some dram conjured to this effect,
 He wrought upon her.
 
@@ -710,7 +710,7 @@ Of modern seeming do prefer against him.
 <speaker>FIRST SENATOR</speaker>
 But, Othello, speak:
 Did you by indirect and forced courses
-Subdue and poison this young maid's affections?
+Subdue and poison this young maid&rsquo;s affections?
 Or came it by request, and such fair question
 As soul to soul affordeth?
 
@@ -731,8 +731,8 @@ Ancient, conduct them. You best know the place.
 [<i>Iago and Attendants exit.</i>]
 And till she come, as truly as to heaven
 I do confess the vices of my blood,
-So justly to your grave ears I'll present
-How I did thrive in this fair lady's love,
+So justly to your grave ears I&rsquo;ll present
+How I did thrive in this fair lady&rsquo;s love,
 And she in mine.
 
 <speaker>DUKE</speaker>
@@ -744,14 +744,14 @@ Still questioned me the story of my life
 From year to year--the battles, sieges, fortunes
 That I have passed.
 I ran it through, even from my boyish days
-To th' very moment that he bade me tell it,
+To th&rsquo; very moment that he bade me tell it,
 Wherein I spoke of most disastrous chances:
 Of moving accidents by flood and field,
-Of hairbreadth 'scapes i' th' imminent deadly
+Of hairbreadth &rsquo;scapes i&rsquo; th&rsquo; imminent deadly
 breach,
 Of being taken by the insolent foe
 And sold to slavery, of my redemption thence,
-And portance in my traveler's history,
+And portance in my traveler&rsquo;s history,
 Wherein of antres vast and deserts idle,
 Rough quarries, rocks, and hills whose heads
 touch heaven,
@@ -763,7 +763,7 @@ hear
 Would Desdemona seriously incline.
 But still the house affairs would draw her thence,
 Which ever as she could with haste dispatch
-She'd come again, and with a greedy ear
+She&rsquo;d come again, and with a greedy ear
 Devour up my discourse. Which I, observing,
 Took once a pliant hour, and found good means
 To draw from her a prayer of earnest heart
@@ -774,9 +774,9 @@ And often did beguile her of her tears
 When I did speak of some distressful stroke
 That my youth suffered. My story being done,
 She gave me for my pains a world of sighs.
-She swore, in faith, 'twas strange, 'twas passing
+She swore, in faith, &rsquo;twas strange, &rsquo;twas passing
 strange,
-'Twas pitiful, 'twas wondrous pitiful.
+&rsquo;Twas pitiful, &rsquo;twas wondrous pitiful.
 She wished she had not heard it, yet she wished
 That heaven had made her such a man. She thanked
 me,
@@ -811,7 +811,7 @@ I do perceive here a divided duty.
 To you I am bound for life and education.
 My life and education both do learn me
 How to respect you. You are the lord of duty.
-I am hitherto your daughter. But here's my
+I am hitherto your daughter. But here&rsquo;s my
 husband.
 And so much duty as my mother showed
 To you, preferring you before her father,
@@ -839,7 +839,7 @@ By seeing the worst, which late on hopes depended.
 To mourn a mischief that is past and gone
 Is the next way to draw new mischief on.
 What cannot be preserved when fortune takes,
-Patience her injury a mock'ry makes.
+Patience her injury a mock&rsquo;ry makes.
 The robbed that smiles steals something from the
 thief;
 He robs himself that spends a bootless grief.
@@ -856,7 +856,7 @@ Being strong on both sides, are equivocal.
 But words are words. I never yet did hear
 That the bruised heart was pierced through the
 ear.
-I humbly beseech you, proceed to th' affairs of
+I humbly beseech you, proceed to th&rsquo; affairs of
 state.
 
 <speaker>DUKE</speaker>
@@ -867,7 +867,7 @@ substitute of most allowed sufficiency, yet opinion, a
 sovereign mistress of effects, throws a more safer
 voice on you. You must therefore be content to
 slubber the gloss of your new fortunes with this
-more stubborn and boist'rous expedition.
+more stubborn and boist&rsquo;rous expedition.
 
 <speaker>OTHELLO</speaker>
 The tyrant custom, most grave senators,
@@ -883,7 +883,7 @@ With such accommodation and besort
 As levels with her breeding.
 
 <speaker>DUKE</speaker>
-Why, at her father's.
+Why, at her father&rsquo;s.
 
 <speaker>BRABANTIO</speaker>
 I will not have it so.
@@ -897,8 +897,7 @@ To put my father in impatient thoughts
 By being in his eye. Most gracious duke,
 To my unfolding lend your prosperous ear
 And let me find a charter in your voice
-<speaker>T'</speaker>
-assist my simpleness.
+T&rsquo; assist my simpleness.
 
 <speaker>DUKE</speaker>
 What would you, Desdemona?
@@ -906,9 +905,9 @@ What would you, Desdemona?
 <speaker>DESDEMONA</speaker>
 That I love the Moor to live with him
 My downright violence and storm of fortunes
-May trumpet to the world. My heart's subdued
+May trumpet to the world. My heart&rsquo;s subdued
 Even to the very quality of my lord.
-I saw Othello's visage in his mind,
+I saw Othello&rsquo;s visage in his mind,
 And to his honors and his valiant parts
 Did I my soul and fortunes consecrate.
 So that, dear lords, if I be left behind,
@@ -936,7 +935,7 @@ Make head against my estimation.
 
 <speaker>DUKE</speaker>
 Be it as you shall privately determine,
-Either for her stay or going. Th' affair cries haste,
+Either for her stay or going. Th&rsquo; affair cries haste,
 And speed must answer it.
 
 <speaker>FIRST SENATOR</speaker>
@@ -947,7 +946,7 @@ With all my
 heart.
 
 <speaker>DUKE</speaker>
-At nine i' th' morning here we'll meet again.
+At nine i&rsquo; th&rsquo; morning here we&rsquo;ll meet again.
 Othello, leave some officer behind
 And he shall our commission bring to you,
 With such things else of quality and respect
@@ -995,7 +994,7 @@ Iago--
 What sayst thou, noble heart?
 
 <speaker>RODERIGO</speaker>
-What will I do, think'st thou?
+What will I do, think&rsquo;st thou?
 
 <speaker>IAGO</speaker>
 Why, go to bed and sleep.
@@ -1025,7 +1024,7 @@ What should I do? I confess it is my shame
 to be so fond, but it is not in my virtue to amend it.
 
 <speaker>IAGO</speaker>
-Virtue? A fig! 'Tis in ourselves that we are thus or
+Virtue? A fig! &rsquo;Tis in ourselves that we are thus or
 thus. Our bodies are our gardens, to the which our
 wills are gardeners. So that if we will plant nettles
 or sow lettuce, set hyssop and weed up thyme,
@@ -1035,7 +1034,7 @@ manured with industry, why the power and corrigible
 authority of this lies in our wills. If the balance
 of our lives had not one scale of reason to poise
 another of sensuality, the blood and baseness of our
-natures would conduct us to most prepost'rous
+natures would conduct us to most prepost&rsquo;rous
 conclusions. But we have reason to cool our raging
 motions, our carnal stings, our unbitted lusts--
 whereof I take this that you call love to be a sect, or
@@ -1090,13 +1089,13 @@ Traverse, go, provide thy money. We will have more
 of this tomorrow. Adieu.
 
 <speaker>RODERIGO</speaker>
-Where shall we meet i' th' morning?
+Where shall we meet i&rsquo; th&rsquo; morning?
 
 <speaker>IAGO</speaker>
 At my lodging.
 
 <speaker>RODERIGO</speaker>
-I'll be with thee betimes.
+I&rsquo;ll be with thee betimes.
 
 <speaker>IAGO</speaker>
 Go to, farewell. Do you hear, Roderigo?
@@ -1115,31 +1114,31 @@ Go to, farewell. Put money enough in your
 purse.
 
 <speaker>RODERIGO</speaker>
-I'll sell all my land. [<i>He exits.</i>]
+I&rsquo;ll sell all my land. [<i>He exits.</i>]
 
 <speaker>IAGO</speaker>
 Thus do I ever make my fool my purse.
 For I mine own gained knowledge should profane
 If I would time expend with such a snipe
 But for my sport and profit. I hate the Moor,
-And it is thought abroad that 'twixt my sheets
-'Has done my office. I know not if 't be true,
+And it is thought abroad that &rsquo;twixt my sheets
+&rsquo;Has done my office. I know not if &rsquo;t be true,
 But I, for mere suspicion in that kind,
 Will do as if for surety. He holds me well.
 The better shall my purpose work on him.
-Cassio's a proper man. Let me see now:
+Cassio&rsquo;s a proper man. Let me see now:
 To get his place and to plume up my will
-In double knavery--How? how?--Let's see.
-After some time, to abuse Othello's ear
+In double knavery--How? how?--Let&rsquo;s see.
+After some time, to abuse Othello&rsquo;s ear
 That he is too familiar with his wife.
 He hath a person and a smooth dispose
 To be suspected, framed to make women false.
 The Moor is of a free and open nature
 That thinks men honest that but seem to be so,
-And will as tenderly be led by th' nose
+And will as tenderly be led by th&rsquo; nose
 As asses are.
-I have 't. It is engendered. Hell and night
-Must bring this monstrous birth to the world's light.
+I have &rsquo;t. It is engendered. Hell and night
+Must bring this monstrous birth to the world&rsquo;s light.
 [<i>He exits.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -1152,12 +1151,12 @@ What from the cape can you discern at sea?
 
 <speaker>FIRST GENTLEMAN</speaker>
 Nothing at all. It is a high-wrought flood.
-I cannot 'twixt the heaven and the main
+I cannot &rsquo;twixt the heaven and the main
 Descry a sail.
 
 <speaker>MONTANO</speaker>
 Methinks the wind hath spoke aloud at land.
-A fuller blast ne'er shook our battlements.
+A fuller blast ne&rsquo;er shook our battlements.
 If it hath ruffianed so upon the sea,
 What ribs of oak, when mountains melt on them,
 Can hold the mortise? What shall we hear of this?
@@ -1169,7 +1168,7 @@ The chidden billow seems to pelt the clouds,
 The wind-shaked surge, with high and monstrous
 mane,
 Seems to cast water on the burning Bear
-And quench the guards of th' ever-fixed pole.
+And quench the guards of th&rsquo; ever-fixed pole.
 I never did like molestation view
 On the enchafed flood.
 
@@ -1198,7 +1197,7 @@ Is come on shore; the Moor himself at sea,
 And is in full commission here for Cyprus.
 
 <speaker>MONTANO</speaker>
-I am glad on 't. 'Tis a worthy governor.
+I am glad on &rsquo;t. &rsquo;Tis a worthy governor.
 
 <speaker>THIRD GENTLEMAN</speaker>
 But this same Cassio, though he speak of comfort
@@ -1209,14 +1208,14 @@ With foul and violent tempest.
 <speaker>MONTANO</speaker>
 Pray heaven he be;
 For I have served him, and the man commands
-Like a full soldier. Let's to the seaside, ho!
-As well to see the vessel that's come in
+Like a full soldier. Let&rsquo;s to the seaside, ho!
+As well to see the vessel that&rsquo;s come in
 As to throw out our eyes for brave Othello,
-Even till we make the main and th' aerial blue
+Even till we make the main and th&rsquo; aerial blue
 An indistinct regard.
 
 <speaker>THIRD GENTLEMAN</speaker>
-Come, let's do so;
+Come, let&rsquo;s do so;
 For every minute is expectancy
 Of more arrivance.
 
@@ -1236,7 +1235,7 @@ His bark is stoutly timbered, and his pilot
 Of very expert and approved allowance;
 Therefore my hopes, not surfeited to death,
 Stand in bold cure.
-[<i>Voices cry within. "A sail, a sail, a sail!"</i>]
+[<i>Voices cry within. "&ldquo;A sail, a sail, a sail!"</i>]
 
 [<i>Enter a Messenger.</i>]
 
@@ -1244,8 +1243,8 @@ Stand in bold cure.
 What noise?
 
 <speaker>MESSENGER</speaker>
-The town is empty; on the brow o' th' sea
-Stand ranks of people, and they cry "A sail!"
+The town is empty; on the brow o&rsquo; th&rsquo; sea
+Stand ranks of people, and they cry "&ldquo;A sail!&rdquo;"
 
 <speaker>CASSIO</speaker>
 My hopes do shape him for the Governor.
@@ -1257,7 +1256,7 @@ Our friends, at least.
 
 <speaker>CASSIO</speaker>
 I pray you, sir, go forth,
-And give us truth who 'tis that is arrived.
+And give us truth who &rsquo;tis that is arrived.
 
 <speaker>SECOND GENTLEMAN</speaker>
 I shall. [<i>He exits.</i>]
@@ -1269,7 +1268,7 @@ But, good lieutenant, is your general wived?
 Most fortunately. He hath achieved a maid
 That paragons description and wild fame,
 One that excels the quirks of blazoning pens,
-And in th' essential vesture of creation
+And in th&rsquo; essential vesture of creation
 Does tire the ingener.
 
 [<i>Enter Second Gentleman.</i>]
@@ -1277,10 +1276,10 @@ Does tire the ingener.
 How now? Who has put in?
 
 <speaker>SECOND GENTLEMAN</speaker>
-'Tis one Iago, ancient to the General.
+&rsquo;Tis one Iago, ancient to the General.
 
 <speaker>CASSIO</speaker>
-'Has had most favorable and happy speed!
+&rsquo;Has had most favorable and happy speed!
 Tempests themselves, high seas, and howling winds,
 The guttered rocks and congregated sands
 (Traitors ensteeped to clog the guiltless keel),
@@ -1292,13 +1291,13 @@ The divine Desdemona.
 What is she?
 
 <speaker>CASSIO</speaker>
-She that I spake of, our great captain's captain,
+She that I spake of, our great captain&rsquo;s captain,
 Left in the conduct of the bold Iago,
 Whose footing here anticipates our thoughts
-A sennight's speed. Great Jove, Othello guard,
+A sennight&rsquo;s speed. Great Jove, Othello guard,
 And swell his sail with thine own powerful breath,
 That he may bless this bay with his tall ship,
-Make love's quick pants in Desdemona's arms,
+Make love&rsquo;s quick pants in Desdemona&rsquo;s arms,
 Give renewed fire to our extincted spirits,
 And bring all Cyprus comfort!
 
@@ -1318,7 +1317,7 @@ What tidings can you tell of my lord?
 
 <speaker>CASSIO</speaker>
 He is not yet arrived, nor know I aught
-But that he's well and will be shortly here.
+But that he&rsquo;s well and will be shortly here.
 
 <speaker>DESDEMONA</speaker>
 O, but I fear--How lost you company?
@@ -1326,7 +1325,7 @@ O, but I fear--How lost you company?
 <speaker>CASSIO</speaker>
 The great contention of sea and skies
 Parted our fellowship.
-[<i>Within "A sail, a sail!" A shot.</i>]
+[<i>Within "&ldquo;A sail, a sail!&rdquo;" A shot.</i>]
 But hark, a sail!
 
 <speaker>SECOND GENTLEMAN</speaker>
@@ -1339,7 +1338,7 @@ See for the news.
 Good ancient, you are welcome. Welcome, mistress.
 [<i>He kisses Emilia.</i>]
 Let it not gall your patience, good Iago,
-That I extend my manners. 'Tis my breeding
+That I extend my manners. &rsquo;Tis my breeding
 That gives me this bold show of courtesy.
 
 <speaker>IAGO</speaker>
@@ -1384,11 +1383,11 @@ What wouldst write of me if thou shouldst praise
 me?
 
 <speaker>IAGO</speaker>
-O, gentle lady, do not put me to 't,
+O, gentle lady, do not put me to &rsquo;t,
 For I am nothing if not critical.
 
 <speaker>DESDEMONA</speaker>
-Come on, assay.--There's one gone to the harbor?
+Come on, assay.--There&rsquo;s one gone to the harbor?
 
 <speaker>IAGO</speaker>
 Ay, madam.
@@ -1405,14 +1404,14 @@ from my pate as birdlime does from frieze: it
 plucks out brains and all. But my muse labors, and
 thus she is delivered:
 	If she be fair and wise, fairness and wit,
-	The one's for use, the other useth it.
+	The one&rsquo;s for use, the other useth it.
 
 <speaker>DESDEMONA</speaker>
 Well praised! How if she be black and witty?
 
 <speaker>IAGO</speaker>
 	If she be black, and thereto have a wit,
-	She'll find a white that shall her blackness hit.
+	She&rsquo;ll find a white that shall her blackness hit.
 
 <speaker>DESDEMONA</speaker>
 Worse and worse.
@@ -1426,11 +1425,11 @@ How if fair and foolish?
 
 <speaker>DESDEMONA</speaker>
 These are old fond paradoxes to make
-fools laugh i' th' alehouse. What miserable praise
-hast thou for her that's foul and foolish?
+fools laugh i&rsquo; th&rsquo; alehouse. What miserable praise
+hast thou for her that&rsquo;s foul and foolish?
 
 <speaker>IAGO</speaker>
-	There's none so foul and foolish thereunto,
+	There&rsquo;s none so foul and foolish thereunto,
 	But does foul pranks which fair and wise ones do.
 
 <speaker>DESDEMONA</speaker>
@@ -1444,12 +1443,12 @@ malice itself?
 	She that was ever fair and never proud,
 	Had tongue at will and yet was never loud,
 	Never lacked gold and yet went never gay,
-	Fled from her wish, and yet said "Now I may,"
+	Fled from her wish, and yet said "&ldquo;Now I may,&rdquo;"
 	She that being angered, her revenge being nigh,
 	Bade her wrong stay and her displeasure fly,
 	She that in wisdom never was so frail
-	To change the cod's head for the salmon's tail,
-	She that could think and ne'er disclose her mind,
+	To change the cod&rsquo;s head for the salmon&rsquo;s tail,
+	She that could think and ne&rsquo;er disclose her mind,
 	See suitors following and not look behind,
 	She was a wight, if ever such wight were--
 
@@ -1468,28 +1467,28 @@ profane and liberal counselor?
 <speaker>CASSIO</speaker>
 He speaks home, madam. You may relish him
 more in the soldier than in the scholar.
-[<i>Cassio takes Desdemona's hand.</i>]
+[<i>Cassio takes Desdemona&rsquo;s hand.</i>]
 
 <speaker>IAGO,</speaker>
 [<i>aside</i>]
   He takes her by the palm. Ay, well said,
 whisper. With as little a web as this will I ensnare as
 great a fly as Cassio. Ay, smile upon her, do. I will
-gyve thee in thine own courtship. You say true, 'tis
+gyve thee in thine own courtship. You say true, &rsquo;tis
 so indeed. If such tricks as these strip you out of
 your lieutenantry, it had been better you had not
 kissed your three fingers so oft, which now again
 you are most apt to play the sir in. Very good; well
-kissed; an excellent courtesy! 'Tis so, indeed. Yet
+kissed; an excellent courtesy! &rsquo;Tis so, indeed. Yet
 again your fingers to your lips? Would they were
 clyster pipes for your sake!	[<i>Trumpets within.</i>]
 The Moor. I know his trumpet.
 
 <speaker>CASSIO</speaker>
-'Tis truly so.
+&rsquo;Tis truly so.
 
 <speaker>DESDEMONA</speaker>
-Let's meet him and receive him.
+Let&rsquo;s meet him and receive him.
 
 <speaker>CASSIO</speaker>
 Lo, where he comes!
@@ -1504,13 +1503,13 @@ My dear Othello!
 
 <speaker>OTHELLO</speaker>
 It gives me wonder great as my content
-To see you here before me. O my soul's joy!
+To see you here before me. O my soul&rsquo;s joy!
 If after every tempest come such calms,
 May the winds blow till they have wakened death,
 And let the laboring bark climb hills of seas
 Olympus high, and duck again as low
-As hell's from heaven! If it were now to die,
-'Twere now to be most happy, for I fear
+As hell&rsquo;s from heaven! If it were now to die,
+&rsquo;Twere now to be most happy, for I fear
 My soul hath her content so absolute
 That not another comfort like to this
 Succeeds in unknown fate.
@@ -1525,12 +1524,12 @@ Amen to that, sweet powers!
 I cannot speak enough of this content.
 It stops me here; it is too much of joy.	[<i>They kiss.</i>]
 And this, and this, the greatest discords be
-That e'er our hearts shall make!
+That e&rsquo;er our hearts shall make!
 
 <speaker>IAGO,</speaker>
 [<i>aside</i>]
   O, you are well tuned now,
-But I'll set down the pegs that make this music,
+But I&rsquo;ll set down the pegs that make this music,
 As honest as I am.
 
 <speaker>OTHELLO</speaker>
@@ -1554,14 +1553,14 @@ Once more, well met at Cyprus.
   Do thou meet me presently
 at the harbor. [<i>To Roderigo.</i>]
  Come hither. If
-thou be'st valiant--as they say base men being in
+thou be&rsquo;st valiant--as they say base men being in
 love have then a nobility in their natures more than
 is native to them--list me. The Lieutenant tonight
 watches on the court of guard. First, I must tell thee
 this: Desdemona is directly in love with him.
 
 <speaker>RODERIGO</speaker>
-With him? Why, 'tis not possible.
+With him? Why, &rsquo;tis not possible.
 
 <speaker>IAGO</speaker>
 Lay thy finger thus, and let thy soul be instructed.
@@ -1595,11 +1594,11 @@ look after. A pestilent complete knave, and the
 woman hath found him already.
 
 <speaker>RODERIGO</speaker>
-I cannot believe that in her. She's full of
+I cannot believe that in her. She&rsquo;s full of
 most blessed condition.
 
 <speaker>IAGO</speaker>
-Blessed fig's end! The wine she drinks is made of
+Blessed fig&rsquo;s end! The wine she drinks is made of
 grapes. If she had been blessed, she would never
 have loved the Moor. Blessed pudding! Didst thou
 not see her paddle with the palm of his hand? Didst
@@ -1614,11 +1613,11 @@ prologue to the history of lust and foul thoughts.
 They met so near with their lips that their breaths
 embraced together. Villainous thoughts, Roderigo!
 When these mutualities so marshal the way, hard
-at hand comes the master and main exercise, th'
+at hand comes the master and main exercise, th&rsquo;
 incorporate conclusion. Pish! But, sir, be you ruled
 by me. I have brought you from Venice. Watch you
-tonight. For the command, I'll lay 't upon you.
-Cassio knows you not. I'll not be far from you. Do
+tonight. For the command, I&rsquo;ll lay &rsquo;t upon you.
+Cassio knows you not. I&rsquo;ll not be far from you. Do
 you find some occasion to anger Cassio, either by
 speaking too loud, or tainting his discipline, or from
 what other course you please, which the time shall
@@ -1628,7 +1627,7 @@ more favorably minister.
 Well.
 
 <speaker>IAGO</speaker>
-Sir, he's rash and very sudden in choler, and
+Sir, he&rsquo;s rash and very sudden in choler, and
 haply may strike at you. Provoke him that he may,
 for even out of that will I cause these of Cyprus to
 mutiny, whose qualification shall come into no
@@ -1650,11 +1649,11 @@ must fetch his necessaries ashore. Farewell.
 Adieu. [<i>He exits.</i>]
 
 <speaker>IAGO</speaker>
-That Cassio loves her, I do well believe 't.
-That she loves him, 'tis apt and of great credit.
+That Cassio loves her, I do well believe &rsquo;t.
+That she loves him, &rsquo;tis apt and of great credit.
 The Moor, howbeit that I endure him not,
 Is of a constant, loving, noble nature,
-And I dare think he'll prove to Desdemona
+And I dare think he&rsquo;ll prove to Desdemona
 A most dear husband. Now, I do love her too,
 Not out of absolute lust (though peradventure
 I stand accountant for as great a sin)
@@ -1669,22 +1668,22 @@ At least into a jealousy so strong
 That judgment cannot cure. Which thing to do,
 If this poor trash of Venice, whom I trace
 For his quick hunting, stand the putting on,
-I'll have our Michael Cassio on the hip,
+I&rsquo;ll have our Michael Cassio on the hip,
 Abuse him to the Moor in the rank garb
 (For I fear Cassio with my nightcap too),
 Make the Moor thank me, love me, and reward me
 For making him egregiously an ass
 And practicing upon his peace and quiet
-Even to madness. 'Tis here, but yet confused.
-Knavery's plain face is never seen till used.
+Even to madness. &rsquo;Tis here, but yet confused.
+Knavery&rsquo;s plain face is never seen till used.
 [<i>He exits.</i>]
 
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Enter Othello's Herald with a proclamation.</i>]
+[<i>Enter Othello&rsquo;s Herald with a proclamation.</i>]
 
 <speaker>HERALD</speaker>
-It is Othello's pleasure, our noble and valiant
+It is Othello&rsquo;s pleasure, our noble and valiant
 general, that upon certain tidings now arrived,
 importing the mere perdition of the Turkish fleet,
 every man put himself into triumph: some to
@@ -1704,13 +1703,13 @@ Cyprus and our noble general, Othello!
 
 <speaker>OTHELLO</speaker>
 Good Michael, look you to the guard tonight.
-Let's teach ourselves that honorable stop
+Let&rsquo;s teach ourselves that honorable stop
 Not to outsport discretion.
 
 <speaker>CASSIO</speaker>
 Iago hath direction what to do,
 But notwithstanding, with my personal eye
-Will I look to 't.
+Will I look to &rsquo;t.
 
 <speaker>OTHELLO</speaker>
 Iago is most honest.
@@ -1719,7 +1718,7 @@ Let me have speech with you. [<i>To Desdemona.</i>]
  Come,
 my dear love,
 The purchase made, the fruits are to ensue;
-That profit's yet to come 'tween me and you.--
+That profit&rsquo;s yet to come &rsquo;tween me and you.--
 Goodnight.
 [<i>Othello and Desdemona exit, with Attendants.</i>]
 
@@ -1729,20 +1728,20 @@ Goodnight.
 Welcome, Iago. We must to the watch.
 
 <speaker>IAGO</speaker>
-Not this hour, lieutenant. 'Tis not yet ten o' th'
+Not this hour, lieutenant. &rsquo;Tis not yet ten o&rsquo; th&rsquo;
 clock. Our general cast us thus early for the love of
 his Desdemona--who let us not therefore blame;
 he hath not yet made wanton the night with her, and
 she is sport for Jove.
 
 <speaker>CASSIO</speaker>
-She's a most exquisite lady.
+She&rsquo;s a most exquisite lady.
 
 <speaker>IAGO</speaker>
-And, I'll warrant her, full of game.
+And, I&rsquo;ll warrant her, full of game.
 
 <speaker>CASSIO</speaker>
-Indeed, she's a most fresh and delicate
+Indeed, she&rsquo;s a most fresh and delicate
 creature.
 
 <speaker>IAGO</speaker>
@@ -1772,7 +1771,7 @@ courtesy would invent some other custom of
 entertainment.
 
 <speaker>IAGO</speaker>
-O, they are our friends! But one cup; I'll drink
+O, they are our friends! But one cup; I&rsquo;ll drink
 for you.
 
 <speaker>CASSIO</speaker>
@@ -1782,7 +1781,7 @@ makes here. I am unfortunate in the infirmity and
 dare not task my weakness with any more.
 
 <speaker>IAGO</speaker>
-What, man! 'Tis a night of revels. The gallants
+What, man! &rsquo;Tis a night of revels. The gallants
 desire it.
 
 <speaker>CASSIO</speaker>
@@ -1792,22 +1791,22 @@ Where are they?
 Here at the door. I pray you, call them in.
 
 <speaker>CASSIO</speaker>
-I'll do 't, but it dislikes me. [<i>He exits.</i>]
+I&rsquo;ll do &rsquo;t, but it dislikes me. [<i>He exits.</i>]
 
 <speaker>IAGO</speaker>
 If I can fasten but one cup upon him
 With that which he hath drunk tonight already,
-He'll be as full of quarrel and offense
-As my young mistress' dog. Now my sick fool
+He&rsquo;ll be as full of quarrel and offense
+As my young mistress&rsquo; dog. Now my sick fool
 Roderigo,
 Whom love hath turned almost the wrong side out,
 To Desdemona hath tonight caroused
-Potations pottle-deep; and he's to watch.
+Potations pottle-deep; and he&rsquo;s to watch.
 Three else of Cyprus, noble swelling spirits
 That hold their honors in a wary distance,
 The very elements of this warlike isle,
 Have I tonight flustered with flowing cups;
-And they watch too. Now, 'mongst this flock of
+And they watch too. Now, &rsquo;mongst this flock of
 drunkards
 Am I to put our Cassio in some action
 That may offend the isle. But here they come.
@@ -1818,7 +1817,7 @@ My boat sails freely both with wind and stream.
 Servants with wine.</i>]
 
 <speaker>CASSIO</speaker>
-'Fore God, they have given me a rouse
+&rsquo;Fore God, they have given me a rouse
 already.
 
 <speaker>MONTANO</speaker>
@@ -1830,13 +1829,13 @@ Some wine, ho!
 [<i>Sings.</i>]
 	And let me the cannikin clink, clink,
 	And let me the cannikin clink.
-	   A soldier's a man,
-	   O, man's life's but a span,
+	   A soldier&rsquo;s a man,
+	   O, man&rsquo;s life&rsquo;s but a span,
 	Why, then, let a soldier drink.
 Some wine, boys!
 
 <speaker>CASSIO</speaker>
-'Fore God, an excellent song.
+&rsquo;Fore God, an excellent song.
 
 <speaker>IAGO</speaker>
 I learned it in England, where indeed they are
@@ -1858,7 +1857,7 @@ pottle can be filled.
 To the health of our general!
 
 <speaker>MONTANO</speaker>
-I am for it, lieutenant, and I'll do you
+I am for it, lieutenant, and I&rsquo;ll do you
 justice.
 
 <speaker>IAGO</speaker>
@@ -1870,25 +1869,25 @@ O sweet England!
 	   With that he called the tailor lown.
 	He was a wight of high renown,
 	   And thou art but of low degree;
-	'Tis pride that pulls the country down,
+	&rsquo;Tis pride that pulls the country down,
 	   Then take thy auld cloak about thee.
 Some wine, ho!
 
 <speaker>CASSIO</speaker>
-'Fore God, this is a more exquisite song than
+&rsquo;Fore God, this is a more exquisite song than
 the other!
 
 <speaker>IAGO</speaker>
-Will you hear 't again?
+Will you hear &rsquo;t again?
 
 <speaker>CASSIO</speaker>
 No, for I hold him to be unworthy of his place
-that does those things. Well, God's above all; and
+that does those things. Well, God&rsquo;s above all; and
 there be souls must be saved, and there be souls
 must not be saved.
 
 <speaker>IAGO</speaker>
-It's true, good lieutenant.
+It&rsquo;s true, good lieutenant.
 
 <speaker>CASSIO</speaker>
 For mine own part--no offense to the General,
@@ -1899,9 +1898,9 @@ And so do I too, lieutenant.
 
 <speaker>CASSIO</speaker>
 Ay, but, by your leave, not before me. The
-Lieutenant is to be saved before the Ancient. Let's
-have no more of this. Let's to our affairs. God
-forgive us our sins! Gentlemen, let's look to our
+Lieutenant is to be saved before the Ancient. Let&rsquo;s
+have no more of this. Let&rsquo;s to our affairs. God
+forgive us our sins! Gentlemen, let&rsquo;s look to our
 business. Do not think, gentlemen, I am drunk. This
 is my ancient, this is my right hand, and this is my
 left. I am not drunk now. I can stand well enough,
@@ -1915,16 +1914,16 @@ Why, very well then. You must not think then
 that I am drunk.	[<i>He exits.</i>]
 
 <speaker>MONTANO</speaker>
-To th' platform, masters. Come, let's set the watch.
+To th&rsquo; platform, masters. Come, let&rsquo;s set the watch.
 [<i>Gentlemen exit.</i>]
 
 <speaker>IAGO,</speaker>
 [<i>to Montano</i>]
 You see this fellow that is gone before?
-He's a soldier fit to stand by Caesar
+He&rsquo;s a soldier fit to stand by Caesar
 And give direction; and do but see his vice.
-'Tis to his virtue a just equinox,
-The one as long as th' other. 'Tis pity of him.
+&rsquo;Tis to his virtue a just equinox,
+The one as long as th&rsquo; other. &rsquo;Tis pity of him.
 I fear the trust Othello puts him in,
 On some odd time of his infirmity,
 Will shake this island.
@@ -1933,8 +1932,8 @@ Will shake this island.
 But is he often thus?
 
 <speaker>IAGO</speaker>
-'Tis evermore the prologue to his sleep.
-He'll watch the horologe a double set
+&rsquo;Tis evermore the prologue to his sleep.
+He&rsquo;ll watch the horologe a double set
 If drink rock not his cradle.
 
 <speaker>MONTANO</speaker>
@@ -1953,7 +1952,7 @@ I pray you, after the Lieutenant, go.
 [<i>Roderigo exits.</i>]
 
 <speaker>MONTANO</speaker>
-And 'tis great pity that the noble Moor
+And &rsquo;tis great pity that the noble Moor
 Should hazard such a place as his own second
 With one of an engraffed infirmity.
 It were an honest action to say so
@@ -1962,7 +1961,7 @@ To the Moor.
 <speaker>IAGO</speaker>
 Not I, for this fair island.
 I do love Cassio well and would do much
-To cure him of this evil--	[<i>"Help, help!" within.</i>]
+To cure him of this evil--	[<i>"Help, help!&rdquo;" within.</i>]
 But hark! What noise?
 
 [<i>Enter Cassio, pursuing Roderigo.</i>]
@@ -1971,10 +1970,10 @@ But hark! What noise?
 Zounds, you rogue, you rascal!
 
 <speaker>MONTANO</speaker>
-What's the matter, lieutenant?
+What&rsquo;s the matter, lieutenant?
 
 <speaker>CASSIO</speaker>
-A knave teach me my duty? I'll beat the knave
+A knave teach me my duty? I&rsquo;ll beat the knave
 into a twiggen bottle.
 
 <speaker>RODERIGO</speaker>
@@ -1988,11 +1987,11 @@ Nay, good lieutenant. I pray you, sir, hold
 your hand.
 
 <speaker>CASSIO</speaker>
-Let me go, sir, or I'll knock you o'er the
+Let me go, sir, or I&rsquo;ll knock you o&rsquo;er the
 mazard.
 
 <speaker>MONTANO</speaker>
-Come, come, you're drunk.
+Come, come, you&rsquo;re drunk.
 
 <speaker>CASSIO</speaker>
 Drunk?
@@ -2002,12 +2001,12 @@ Drunk?
 [<i>aside to Roderigo</i>]
 Away, I say! Go out and cry a mutiny.
 [<i>Roderigo exits.</i>]
-Nay, good lieutenant.--God's will, gentlemen!--
+Nay, good lieutenant.--God&rsquo;s will, gentlemen!--
 Help, ho! Lieutenant--sir--Montano--sir--
-Help, masters!--Here's a goodly watch indeed!
+Help, masters!--Here&rsquo;s a goodly watch indeed!
 [<i>A bell is rung.</i>]
-Who's that which rings the bell? Diablo, ho!
-The town will rise. God's will, lieutenant, hold!
+Who&rsquo;s that which rings the bell? Diablo, ho!
+The town will rise. God&rsquo;s will, lieutenant, hold!
 You will be shamed forever.
 
 [<i>Enter Othello and Attendants.</i>]
@@ -2018,7 +2017,7 @@ What is the matter here?
 <speaker>MONTANO</speaker>
 Zounds, I bleed
 still.
-I am hurt to th' death. He dies!	[<i>He attacks Cassio.</i>]
+I am hurt to th&rsquo; death. He dies!	[<i>He attacks Cassio.</i>]
 
 <speaker>OTHELLO</speaker>
 Hold, for your lives!
@@ -2046,7 +2045,7 @@ I do not know. Friends all but now, even now,
 In quarter and in terms like bride and groom
 Divesting them for bed; and then but now,
 As if some planet had unwitted men,
-Swords out, and tilting one at other's breast,
+Swords out, and tilting one at other&rsquo;s breast,
 In opposition bloody. I cannot speak
 Any beginning to this peevish odds,
 And would in action glorious I had lost
@@ -2062,7 +2061,7 @@ I pray you pardon me; I cannot speak.
 Worthy Montano, you were wont be civil.
 The gravity and stillness of your youth
 The world hath noted. And your name is great
-In mouths of wisest censure. What's the matter
+In mouths of wisest censure. What&rsquo;s the matter
 That you unlace your reputation thus,
 And spend your rich opinion for the name
 Of a night-brawler? Give me answer to it.
@@ -2073,7 +2072,7 @@ Your officer Iago can inform you,
 While I spare speech, which something now offends
 me,
 Of all that I do know; nor know I aught
-By me that's said or done amiss this night,
+By me that&rsquo;s said or done amiss this night,
 Unless self-charity be sometimes a vice,
 And to defend ourselves it be a sin
 When violence assails us.
@@ -2089,10 +2088,10 @@ How this foul rout began, who set it on;
 And he that is approved in this offense,
 Though he had twinned with me, both at a birth,
 Shall lose me. What, in a town of war
-Yet wild, the people's hearts brimful of fear,
+Yet wild, the people&rsquo;s hearts brimful of fear,
 To manage private and domestic quarrel,
 In night, and on the court and guard of safety?
-'Tis monstrous. Iago, who began 't?
+&rsquo;Tis monstrous. Iago, who began &rsquo;t?
 
 <speaker>MONTANO</speaker>
 If partially affined, or leagued in office,
@@ -2117,7 +2116,7 @@ The town might fall in fright. He, swift of foot,
 Outran my purpose, and I returned the rather
 For that I heard the clink and fall of swords
 And Cassio high in oath, which till tonight
-I ne'er might say before. When I came back--
+I ne&rsquo;er might say before. When I came back--
 For this was brief--I found them close together
 At blow and thrust, even as again they were
 When you yourself did part them.
@@ -2138,13 +2137,13 @@ But nevermore be officer of mine.
 [<i>Enter Desdemona attended.</i>]
 
 Look if my gentle love be not raised up!
-I'll make thee an example.
+I&rsquo;ll make thee an example.
 
 <speaker>DESDEMONA</speaker>
 What is the matter, dear?
 
 <speaker>OTHELLO</speaker>
-All's well now,
+All&rsquo;s well now,
 sweeting.
 Come away to bed. [<i>To Montano.</i>]
  Sir, for your hurts,
@@ -2153,7 +2152,7 @@ Myself will be your surgeon.--Lead him off.
 Iago, look with care about the town
 And silence those whom this vile brawl
 distracted.--
-Come, Desdemona. 'Tis the soldier's life
+Come, Desdemona. &rsquo;Tis the soldier&rsquo;s life
 To have their balmy slumbers waked with strife.
 [<i>All but Iago and Cassio exit.</i>]
 
@@ -2183,14 +2182,14 @@ man, there are ways to recover the General again!
 You are but now cast in his mood--a punishment
 more in policy than in malice, even so as one would
 beat his offenseless dog to affright an imperious
-lion. Sue to him again and he's yours.
+lion. Sue to him again and he&rsquo;s yours.
 
 <speaker>CASSIO</speaker>
 I will rather sue to be despised than to deceive
 so good a commander with so slight, so drunken,
 and so indiscreet an officer. Drunk? And speak
 parrot? And squabble? Swagger? Swear? And discourse
-fustian with one's own shadow? O thou
+fustian with one&rsquo;s own shadow? O thou
 invisible spirit of wine, if thou hast no name to be
 known by, let us call thee devil!
 
@@ -2202,7 +2201,7 @@ What had he done to you?
 I know not.
 
 <speaker>IAGO</speaker>
-Is 't possible?
+Is &rsquo;t possible?
 
 <speaker>CASSIO</speaker>
 I remember a mass of things, but nothing
@@ -2245,7 +2244,7 @@ I have well approved it, sir.--I drunk!
 
 <speaker>IAGO</speaker>
 You or any man living may be drunk at a time,
-man. I'll tell you what you shall do. Our general's
+man. I&rsquo;ll tell you what you shall do. Our general&rsquo;s
 wife is now the general: I may say so in this
 respect, for that he hath devoted and given up
 himself to the contemplation, mark, and denotement
@@ -2280,14 +2279,14 @@ must to the watch.
 Good night, honest Iago. [<i>Cassio exits.</i>]
 
 <speaker>IAGO</speaker>
-And what's he, then, that says I play the villain,
+And what&rsquo;s he, then, that says I play the villain,
 When this advice is free I give and honest,
 Probal to thinking, and indeed the course
-To win the Moor again? For 'tis most easy
-Th' inclining Desdemona to subdue
-In any honest suit. She's framed as fruitful
+To win the Moor again? For &rsquo;tis most easy
+Th&rsquo; inclining Desdemona to subdue
+In any honest suit. She&rsquo;s framed as fruitful
 As the free elements. And then for her
-To win the Moor--were 't to renounce his baptism,
+To win the Moor--were &rsquo;t to renounce his baptism,
 All seals and symbols of redeemed sin--
 His soul is so enfettered to her love
 That she may make, unmake, do what she list,
@@ -2300,8 +2299,8 @@ They do suggest at first with heavenly shows,
 As I do now. For whiles this honest fool
 Plies Desdemona to repair his fortune,
 And she for him pleads strongly to the Moor,
-I'll pour this pestilence into his ear:
-That she repeals him for her body's lust;
+I&rsquo;ll pour this pestilence into his ear:
+That she repeals him for her body&rsquo;s lust;
 And by how much she strives to do him good,
 She shall undo her credit with the Moor.
 So will I turn her virtue into pitch,
@@ -2324,23 +2323,23 @@ again to Venice.
 <speaker>IAGO</speaker>
 How poor are they that have not patience!
 What wound did ever heal but by degrees?
-Thou know'st we work by wit and not by witchcraft,
+Thou know&rsquo;st we work by wit and not by witchcraft,
 And wit depends on dilatory time.
-Does 't not go well? Cassio hath beaten thee,
+Does &rsquo;t not go well? Cassio hath beaten thee,
 And thou, by that small hurt, hast cashiered Cassio.
 Though other things grow fair against the sun,
 Yet fruits that blossom first will first be ripe.
-Content thyself awhile. By th' Mass, 'tis morning!
+Content thyself awhile. By th&rsquo; Mass, &rsquo;tis morning!
 Pleasure and action make the hours seem short.
 Retire thee; go where thou art billeted.
 Away, I say! Thou shalt know more hereafter.
 Nay, get thee gone.	[<i>Roderigo exits.</i>]
 Two things are to be done.
 My wife must move for Cassio to her mistress.
-I'll set her on.
+I&rsquo;ll set her on.
 Myself the while to draw the Moor apart
 And bring him jump when he may Cassio find
-Soliciting his wife. Ay, that's the way.
+Soliciting his wife. Ay, that&rsquo;s the way.
 Dull not device by coldness and delay.
 [<i>He exits.</i>]
 
@@ -2351,14 +2350,14 @@ Dull not device by coldness and delay.
 
 <speaker>CASSIO</speaker>
 Masters, play here (I will content your pains)
-Something that's brief; and bid "Good morrow,
-general."	[<i>They play.</i>]
+Something that&rsquo;s brief; and bid "&ldquo;Good morrow,
+general.&rdquo;"	[<i>They play.</i>]
 
 [<i>Enter the Clown.</i>]
 
 <speaker>CLOWN</speaker>
 Why masters, have your instruments been in
-Naples, that they speak i' th' nose thus?
+Naples, that they speak i&rsquo; th&rsquo; nose thus?
 
 <speaker>MUSICIAN</speaker>
 How, sir, how?
@@ -2377,23 +2376,23 @@ Whereby hangs a tale, sir?
 
 <speaker>CLOWN</speaker>
 Marry, sir, by many a wind instrument that I
-know. But, masters, here's money for you; and the
+know. But, masters, here&rsquo;s money for you; and the
 General so likes your music that he desires you, for
-love's sake, to make no more noise with it.
+love&rsquo;s sake, to make no more noise with it.
 
 <speaker>MUSICIAN</speaker>
 Well, sir, we will not.
 
 <speaker>CLOWN</speaker>
 If you have any music that may not be heard, to
-'t again. But, as they say, to hear music the General
+&rsquo;t again. But, as they say, to hear music the General
 does not greatly care.
 
 <speaker>MUSICIAN</speaker>
 We have none such, sir.
 
 <speaker>CLOWN</speaker>
-Then put up your pipes in your bag, for I'll
+Then put up your pipes in your bag, for I&rsquo;ll
 away. Go, vanish into air, away!
 
 [<i>Musicians exit.</i>]
@@ -2406,9 +2405,9 @@ No, I hear not your honest friend. I hear you.
 
 <speaker>CASSIO</speaker>
 Prithee, keep up thy quillets. [<i>Giving money.</i>]
-There's a poor piece of gold for thee. If the gentlewoman
-that attends the General's wife be stirring,
-tell her there's one Cassio entreats her a little favor
+There&rsquo;s a poor piece of gold for thee. If the gentlewoman
+that attends the General&rsquo;s wife be stirring,
+tell her there&rsquo;s one Cassio entreats her a little favor
 of speech. Wilt thou do this?
 
 <speaker>CLOWN</speaker>
@@ -2433,13 +2432,13 @@ Is that she will to virtuous Desdemona
 Procure me some access.
 
 <speaker>IAGO</speaker>
-I'll send her to you presently,
-And I'll devise a mean to draw the Moor
+I&rsquo;ll send her to you presently,
+And I&rsquo;ll devise a mean to draw the Moor
 Out of the way, that your converse and business
 May be more free.
 
 <speaker>CASSIO</speaker>
-I humbly thank you for 't. [<i>Iago exits.</i>]
+I humbly thank you for &rsquo;t. [<i>Iago exits.</i>]
  I never
 knew
 A Florentine more kind and honest.
@@ -2486,10 +2485,10 @@ That done, I will be walking on the works.
 Repair there to me.
 
 <speaker>IAGO</speaker>
-Well, my good lord, I'll do 't.
+Well, my good lord, I&rsquo;ll do &rsquo;t.
 
 <speaker>OTHELLO</speaker>
-This fortification, gentlemen, shall we see 't?
+This fortification, gentlemen, shall we see &rsquo;t?
 
 <speaker>GENTLEMEN</speaker>
 We wait upon your Lordship.
@@ -2508,17 +2507,17 @@ Good madam, do. I warrant it grieves my husband
 As if the cause were his.
 
 <speaker>DESDEMONA</speaker>
-O, that's an honest fellow! Do not doubt, Cassio,
+O, that&rsquo;s an honest fellow! Do not doubt, Cassio,
 But I will have my lord and you again
 As friendly as you were.
 
 <speaker>CASSIO</speaker>
 Bounteous madam,
 Whatever shall become of Michael Cassio,
-He's never anything but your true servant.
+He&rsquo;s never anything but your true servant.
 
 <speaker>DESDEMONA</speaker>
-I know 't. I thank you. You do love my lord;
+I know &rsquo;t. I thank you. You do love my lord;
 You have known him long; and be you well assured
 He shall in strangeness stand no farther off
 Than in a politic distance.
@@ -2534,12 +2533,12 @@ My general will forget my love and service.
 <speaker>DESDEMONA</speaker>
 Do not doubt that. Before Emilia here,
 I give thee warrant of thy place. Assure thee,
-If I do vow a friendship, I'll perform it
+If I do vow a friendship, I&rsquo;ll perform it
 To the last article. My lord shall never rest:
-I'll watch him tame and talk him out of patience;
+I&rsquo;ll watch him tame and talk him out of patience;
 His bed shall seem a school, his board a shrift;
-I'll intermingle everything he does
-With Cassio's suit. Therefore be merry, Cassio,
+I&rsquo;ll intermingle everything he does
+With Cassio&rsquo;s suit. Therefore be merry, Cassio,
 For thy solicitor shall rather die
 Than give thy cause away.
 
@@ -2549,7 +2548,7 @@ Than give thy cause away.
 Madam, here comes my lord.
 
 <speaker>CASSIO</speaker>
-Madam, I'll take my leave.
+Madam, I&rsquo;ll take my leave.
 
 <speaker>DESDEMONA</speaker>
 Why, stay, and hear me speak.
@@ -2579,7 +2578,7 @@ That he would steal away so guiltylike,
 Seeing your coming.
 
 <speaker>OTHELLO</speaker>
-I do believe 'twas he.
+I do believe &rsquo;twas he.
 
 <speaker>DESDEMONA</speaker>
 How now, my lord?
@@ -2587,7 +2586,7 @@ I have been talking with a suitor here,
 A man that languishes in your displeasure.
 
 <speaker>OTHELLO</speaker>
-Who is 't you mean?
+Who is &rsquo;t you mean?
 
 <speaker>DESDEMONA</speaker>
 Why, your lieutenant, Cassio. Good my lord,
@@ -2610,13 +2609,13 @@ To suffer with him. Good love, call him back.
 Not now, sweet Desdemon. Some other time.
 
 <speaker>DESDEMONA</speaker>
-But shall 't be shortly?
+But shall &rsquo;t be shortly?
 
 <speaker>OTHELLO</speaker>
 The sooner, sweet, for you.
 
 <speaker>DESDEMONA</speaker>
-Shall 't be tonight at supper?
+Shall &rsquo;t be tonight at supper?
 
 <speaker>OTHELLO</speaker>
 No, not tonight.
@@ -2632,19 +2631,18 @@ I meet the captains at the citadel.
 Why then tomorrow night, or Tuesday morn,
 On Tuesday noon or night; on Wednesday morn.
 I prithee name the time, but let it not
-Exceed three days. In faith, he's penitent;
+Exceed three days. In faith, he&rsquo;s penitent;
 And yet his trespass, in our common reason--
 Save that, they say, the wars must make example
 Out of her best--is not almost a fault
-<speaker>T'</speaker>
-incur a private check. When shall he come?
+T&rsquo; incur a private check. When shall he come?
 Tell me, Othello. I wonder in my soul
 What you would ask me that I should deny,
-Or stand so mamm'ring on? What? Michael Cassio,
+Or stand so mamm&rsquo;ring on? What? Michael Cassio,
 That came a-wooing with you, and so many a time,
 When I have spoke of you dispraisingly,
-Hath ta'en your part--to have so much to do
-To bring him in! By 'r Lady, I could do much--
+Hath ta&rsquo;en your part--to have so much to do
+To bring him in! By &rsquo;r Lady, I could do much--
 
 <speaker>OTHELLO</speaker>
 Prithee, no more. Let him come when he will;
@@ -2652,7 +2650,7 @@ I will deny thee nothing.
 
 <speaker>DESDEMONA</speaker>
 Why, this is not a boon!
-'Tis as I should entreat you wear your gloves,
+&rsquo;Tis as I should entreat you wear your gloves,
 Or feed on nourishing dishes, or keep you warm,
 Or sue to you to do a peculiar profit
 To your own person. Nay, when I have a suit
@@ -2669,11 +2667,11 @@ To leave me but a little to myself.
 Shall I deny you? No. Farewell, my lord.
 
 <speaker>OTHELLO</speaker>
-Farewell, my Desdemona. I'll come to thee straight.
+Farewell, my Desdemona. I&rsquo;ll come to thee straight.
 
 <speaker>DESDEMONA</speaker>
 Emilia, come.--Be as your fancies teach you.
-Whate'er you be, I am obedient.
+Whate&rsquo;er you be, I am obedient.
 [<i>Desdemona and Emilia exit.</i>]
 
 <speaker>OTHELLO</speaker>
@@ -2711,7 +2709,7 @@ O yes, and went between us very oft.
 Indeed?
 
 <speaker>OTHELLO</speaker>
-Indeed? Ay, indeed! Discern'st thou aught in that?
+Indeed? Ay, indeed! Discern&rsquo;st thou aught in that?
 Is he not honest?
 
 <speaker>IAGO</speaker>
@@ -2730,15 +2728,15 @@ What dost thou think?
 Think, my lord?
 
 <speaker>OTHELLO</speaker>
-"Think, my lord?" By heaven, thou echo'st me
+"&ldquo;Think, my lord?&rdquo;" By heaven, thou echo&rsquo;st me
 As if there were some monster in thy thought
 Too hideous to be shown. Thou dost mean
 something.
-I heard thee say even now, thou lik'st not that,
+I heard thee say even now, thou lik&rsquo;st not that,
 When Cassio left my wife. What didst not like?
 And when I told thee he was of my counsel
-In my whole course of wooing, thou cried'st
-"Indeed?"
+In my whole course of wooing, thou cried&rsquo;st
+"&ldquo;Indeed?&rdquo;"
 And didst contract and purse thy brow together
 As if thou then hadst shut up in thy brain
 Some horrible conceit. If thou dost love me,
@@ -2749,13 +2747,13 @@ My lord, you know I love you.
 
 <speaker>OTHELLO</speaker>
 I think thou dost;
-And for I know thou 'rt full of love and honesty
-And weigh'st thy words before thou giv'st them
+And for I know thou &rsquo;rt full of love and honesty
+And weigh&rsquo;st thy words before thou giv&rsquo;st them
 breath,
 Therefore these stops of thine fright me the more.
 For such things in a false, disloyal knave
-Are tricks of custom; but in a man that's just,
-They're close dilations working from the heart
+Are tricks of custom; but in a man that&rsquo;s just,
+They&rsquo;re close dilations working from the heart
 That passion cannot rule.
 
 <speaker>IAGO</speaker>
@@ -2773,10 +2771,10 @@ Or those that be not, would they might seem none!
 Certain, men should be what they seem.
 
 <speaker>IAGO</speaker>
-Why then, I think Cassio's an honest man.
+Why then, I think Cassio&rsquo;s an honest man.
 
 <speaker>OTHELLO</speaker>
-Nay, yet there's more in this.
+Nay, yet there&rsquo;s more in this.
 I prithee speak to me as to thy thinkings,
 As thou dost ruminate, and give thy worst of
 thoughts
@@ -2788,7 +2786,7 @@ Though I am bound to every act of duty,
 I am not bound to that all slaves are free to.
 Utter my thoughts? Why, say they are vile and
 false--
-As where's that palace whereinto foul things
+As where&rsquo;s that palace whereinto foul things
 Sometimes intrude not? Who has that breast so
 pure
 But some uncleanly apprehensions
@@ -2797,13 +2795,13 @@ With meditations lawful?
 
 <speaker>OTHELLO</speaker>
 Thou dost conspire against thy friend, Iago,
-If thou but think'st him wronged and mak'st his ear
+If thou but think&rsquo;st him wronged and mak&rsquo;st his ear
 A stranger to thy thoughts.
 
 <speaker>IAGO</speaker>
 I do beseech you,
 Though I perchance am vicious in my guess--
-As, I confess, it is my nature's plague
+As, I confess, it is my nature&rsquo;s plague
 To spy into abuses, and oft my jealousy
 Shapes faults that are not--that your wisdom
 From one that so imperfectly conceits
@@ -2819,20 +2817,20 @@ What dost thou mean?
 <speaker>IAGO</speaker>
 Good name in man and woman, dear my lord,
 Is the immediate jewel of their souls.
-Who steals my purse steals trash. 'Tis something,
+Who steals my purse steals trash. &rsquo;Tis something,
 nothing;
-'Twas mine, 'tis his, and has been slave to
+&rsquo;Twas mine, &rsquo;tis his, and has been slave to
 thousands.
 But he that filches from me my good name
 Robs me of that which not enriches him
 And makes me poor indeed.
 
 <speaker>OTHELLO</speaker>
-By heaven, I'll know thy thoughts.
+By heaven, I&rsquo;ll know thy thoughts.
 
 <speaker>IAGO</speaker>
 You cannot, if my heart were in your hand,
-Nor shall not, whilst 'tis in my custody.
+Nor shall not, whilst &rsquo;tis in my custody.
 
 <speaker>OTHELLO</speaker>
 Ha?
@@ -2842,7 +2840,7 @@ O, beware, my lord, of jealousy!
 It is the green-eyed monster which doth mock
 The meat it feeds on. That cuckold lives in bliss
 Who, certain of his fate, loves not his wronger;
-But O, what damned minutes tells he o'er
+But O, what damned minutes tells he o&rsquo;er
 Who dotes, yet doubts; suspects, yet strongly loves!
 
 <speaker>OTHELLO</speaker>
@@ -2857,20 +2855,20 @@ From jealousy!
 
 <speaker>OTHELLO</speaker>
 Why, why is this?
-Think'st thou I'd make a life of jealousy,
+Think&rsquo;st thou I&rsquo;d make a life of jealousy,
 To follow still the changes of the moon
 With fresh suspicions? No. To be once in doubt
 Is once to be resolved. Exchange me for a goat
 When I shall turn the business of my soul
 To such exsufflicate and blown surmises,
-Matching thy inference. 'Tis not to make me jealous
+Matching thy inference. &rsquo;Tis not to make me jealous
 To say my wife is fair, feeds well, loves company,
 Is free of speech, sings, plays, and dances well.
 Where virtue is, these are more virtuous.
 Nor from mine own weak merits will I draw
 The smallest fear or doubt of her revolt,
 For she had eyes, and chose me. No, Iago,
-I'll see before I doubt; when I doubt, prove;
+I&rsquo;ll see before I doubt; when I doubt, prove;
 And on the proof, there is no more but this:
 Away at once with love or jealousy.
 
@@ -2882,12 +2880,12 @@ Receive it from me. I speak not yet of proof.
 Look to your wife; observe her well with Cassio;
 Wear your eyes thus, not jealous nor secure.
 I would not have your free and noble nature,
-Out of self-bounty, be abused. Look to 't.
+Out of self-bounty, be abused. Look to &rsquo;t.
 I know our country disposition well.
 In Venice they do let God see the pranks
 They dare not show their husbands. Their best
 conscience
-Is not to leave 't undone, but keep 't unknown.
+Is not to leave &rsquo;t undone, but keep &rsquo;t unknown.
 
 <speaker>OTHELLO</speaker>
 Dost thou say so?
@@ -2903,8 +2901,8 @@ And so she did.
 <speaker>IAGO</speaker>
 Why, go to, then!
 She that, so young, could give out such a seeming,
-To seel her father's eyes up close as oak,
-He thought 'twas witchcraft! But I am much to
+To seel her father&rsquo;s eyes up close as oak,
+He thought &rsquo;twas witchcraft! But I am much to
 blame.
 I humbly do beseech you of your pardon
 For too much loving you.
@@ -2918,10 +2916,10 @@ I see this hath a little dashed your spirits.
 <speaker>OTHELLO</speaker>
 Not a jot, not a jot.
 
-<speaker>IAGO I'</speaker>
-faith, I fear it has.
+<speaker>IAGO</speaker>
+I&rsquo; faith, I fear it has.
 I hope you will consider what is spoke
-Comes from my love. But I do see you're moved.
+Comes from my love. But I do see you&rsquo;re moved.
 I am to pray you not to strain my speech
 To grosser issues nor to larger reach
 Than to suspicion.
@@ -2932,13 +2930,13 @@ I will not.
 <speaker>IAGO</speaker>
 Should you do so, my lord,
 My speech should fall into such vile success
-As my thoughts aim not at. Cassio's my worthy
+As my thoughts aim not at. Cassio&rsquo;s my worthy
 friend.
-My lord, I see you're moved.
+My lord, I see you&rsquo;re moved.
 
 <speaker>OTHELLO</speaker>
 No, not much moved.
-I do not think but Desdemona's honest.
+I do not think but Desdemona&rsquo;s honest.
 
 <speaker>IAGO</speaker>
 Long live she so! And long live you to think so!
@@ -2947,7 +2945,7 @@ Long live she so! And long live you to think so!
 And yet, how nature erring from itself--
 
 <speaker>IAGO</speaker>
-Ay, there's the point. As, to be bold with you,
+Ay, there&rsquo;s the point. As, to be bold with you,
 Not to affect many proposed matches
 Of her own clime, complexion, and degree,
 Whereto we see in all things nature tends--
@@ -2976,7 +2974,7 @@ Sees and knows more, much more, than he unfolds.
 [<i>returning</i>]
 My lord, I would I might entreat your Honor
 To scan this thing no farther. Leave it to time.
-Although 'tis fit that Cassio have his place--
+Although &rsquo;tis fit that Cassio have his place--
 For sure he fills it up with great ability--
 Yet, if you please to hold him off awhile,
 You shall by that perceive him and his means.
@@ -2994,31 +2992,31 @@ Fear not my government.
 I once more take my leave. [<i>He exits.</i>]
 
 <speaker>OTHELLO</speaker>
-This fellow's of exceeding honesty,
+This fellow&rsquo;s of exceeding honesty,
 And knows all qualities with a learned spirit
 Of human dealings. If I do prove her haggard,
 Though that her jesses were my dear heartstrings,
-I'd whistle her off and let her down the wind
+I&rsquo;d whistle her off and let her down the wind
 To prey at fortune. Haply, for I am black
 And have not those soft parts of conversation
 That chamberers have, or for I am declined
-Into the vale of years--yet that's not much--
-She's gone, I am abused, and my relief
+Into the vale of years--yet that&rsquo;s not much--
+She&rsquo;s gone, I am abused, and my relief
 Must be to loathe her. O curse of marriage,
 That we can call these delicate creatures ours
 And not their appetites! I had rather be a toad
 And live upon the vapor of a dungeon
 Than keep a corner in the thing I love
-For others' uses. Yet 'tis the plague of great ones;
+For others&rsquo; uses. Yet &rsquo;tis the plague of great ones;
 Prerogatived are they less than the base.
-'Tis destiny unshunnable, like death.
+&rsquo;Tis destiny unshunnable, like death.
 Even then this forked plague is fated to us
 When we do quicken. Look where she comes.
 
 [<i>Enter Desdemona and Emilia.</i>]
 
 If she be false, heaven mocks itself!
-I'll not believe 't.
+I&rsquo;ll not believe &rsquo;t.
 
 <speaker>DESDEMONA</speaker>
 How now, my dear Othello?
@@ -3035,14 +3033,14 @@ Why do you speak so faintly? Are you not well?
 I have a pain upon my forehead, here.
 
 <speaker>DESDEMONA</speaker>
-Faith, that's with watching. 'Twill away again.
+Faith, that&rsquo;s with watching. &rsquo;Twill away again.
 Let me but bind it hard; within this hour
 It will be well.
 
 <speaker>OTHELLO</speaker>
 Your napkin is too little.
 Let it alone.	[<i>The handkerchief falls, unnoticed.</i>]
-Come, I'll go in with you.
+Come, I&rsquo;ll go in with you.
 
 <speaker>DESDEMONA</speaker>
 I am very sorry that you are not well.
@@ -3056,8 +3054,8 @@ My wayward husband hath a hundred times
 Wooed me to steal it. But she so loves the token
 (For he conjured her she should ever keep it)
 That she reserves it evermore about her
-To kiss and talk to. I'll have the work ta'en out
-And give 't Iago. What he will do with it
+To kiss and talk to. I&rsquo;ll have the work ta&rsquo;en out
+And give &rsquo;t Iago. What he will do with it
 Heaven knows, not I.
 I nothing but to please his fantasy.
 
@@ -3091,18 +3089,18 @@ Why, that the Moor first gave to Desdemona,
 That which so often you did bid me steal.
 
 <speaker>IAGO</speaker>
-Hast stol'n it from her?
+Hast stol&rsquo;n it from her?
 
 <speaker>EMILIA</speaker>
 No, faith, she let it drop by negligence,
-And to th' advantage I, being here, took 't up.
-Look, here 'tis.
+And to th&rsquo; advantage I, being here, took &rsquo;t up.
+Look, here &rsquo;tis.
 
 <speaker>IAGO</speaker>
 A good wench! Give it me.
 
 <speaker>EMILIA</speaker>
-What will you do with 't, that you have been so
+What will you do with &rsquo;t, that you have been so
 earnest
 To have me filch it?
 
@@ -3112,13 +3110,13 @@ To have me filch it?
 
 <speaker>EMILIA</speaker>
 If it be not for some purpose of import,
-Give 't me again. Poor lady, she'll run mad
+Give &rsquo;t me again. Poor lady, she&rsquo;ll run mad
 When she shall lack it.
 
 <speaker>IAGO</speaker>
-Be not acknown on 't.
+Be not acknown on &rsquo;t.
 I have use for it. Go, leave me.	[<i>Emilia exits.</i>]
-I will in Cassio's lodging lose this napkin
+I will in Cassio&rsquo;s lodging lose this napkin
 And let him find it. Trifles light as air
 Are to the jealous confirmations strong
 As proofs of holy writ. This may do something.
@@ -3144,20 +3142,20 @@ Why, how now, general? No more of that!
 
 <speaker>OTHELLO</speaker>
 Avaunt! Begone! Thou hast set me on the rack.
-I swear 'tis better to be much abused
-Than but to know 't a little.
+I swear &rsquo;tis better to be much abused
+Than but to know &rsquo;t a little.
 
 <speaker>IAGO</speaker>
 How now, my lord?
 
 <speaker>OTHELLO</speaker>
-What sense had I of her stol'n hours of lust?
-I saw 't not, thought it not; it harmed not me.
+What sense had I of her stol&rsquo;n hours of lust?
+I saw &rsquo;t not, thought it not; it harmed not me.
 I slept the next night well, fed well, was free and
 merry.
-I found not Cassio's kisses on her lips.
-He that is robbed, not wanting what is stol'n,
-Let him not know 't, and he's not robbed at all.
+I found not Cassio&rsquo;s kisses on her lips.
+He that is robbed, not wanting what is stol&rsquo;n,
+Let him not know &rsquo;t, and he&rsquo;s not robbed at all.
 
 <speaker>IAGO</speaker>
 I am sorry to hear this.
@@ -3170,15 +3168,15 @@ Farewell the tranquil mind! Farewell content!
 Farewell the plumed troops and the big wars
 That makes ambition virtue! O, farewell!
 Farewell the neighing steed and the shrill trump,
-The spirit-stirring drum, th' ear-piercing fife,
+The spirit-stirring drum, th&rsquo; ear-piercing fife,
 The royal banner, and all quality,
 Pride, pomp, and circumstance of glorious war!
 And O you mortal engines, whose rude throats
-Th' immortal Jove's dread clamors counterfeit,
-Farewell! Othello's occupation's gone!
+Th&rsquo; immortal Jove&rsquo;s dread clamors counterfeit,
+Farewell! Othello&rsquo;s occupation&rsquo;s gone!
 
 <speaker>IAGO</speaker>
-Is 't possible, my lord?
+Is &rsquo;t possible, my lord?
 
 <speaker>OTHELLO</speaker>
 Villain, be sure thou prove my love a whore!
@@ -3188,10 +3186,10 @@ Thou hadst been better have been born a dog
 Than answer my waked wrath.
 
 <speaker>IAGO</speaker>
-Is 't come to this?
+Is &rsquo;t come to this?
 
 <speaker>OTHELLO</speaker>
-Make me to see 't, or at the least so prove it
+Make me to see &rsquo;t, or at the least so prove it
 That the probation bear no hinge nor loop
 To hang a doubt on, or woe upon thy life!
 
@@ -3201,7 +3199,7 @@ My noble lord--
 <speaker>OTHELLO</speaker>
 If thou dost slander her and torture me,
 Never pray more. Abandon all remorse;
-On horror's head horrors accumulate;
+On horror&rsquo;s head horrors accumulate;
 Do deeds to make heaven weep, all Earth amazed;
 For nothing canst thou to damnation add
 Greater than that.
@@ -3209,29 +3207,29 @@ Greater than that.
 <speaker>IAGO</speaker>
 O grace! O heaven forgive me!
 Are you a man? Have you a soul or sense?
-God b' wi' you. Take mine office.--O wretched fool,
-That liv'st to make thine honesty a vice!--
+God b&rsquo; wi&rsquo; you. Take mine office.--O wretched fool,
+That liv&rsquo;st to make thine honesty a vice!--
 O monstrous world! Take note, take note, O world:
 To be direct and honest is not safe.--
 I thank you for this profit, and from hence
-I'll love no friend, sith love breeds such offense.
+I&rsquo;ll love no friend, sith love breeds such offense.
 
 <speaker>OTHELLO</speaker>
 Nay, stay. Thou shouldst be honest.
 
 <speaker>IAGO</speaker>
-I should be wise; for honesty's a fool
+I should be wise; for honesty&rsquo;s a fool
 And loses that it works for.
 
 <speaker>OTHELLO</speaker>
 By the world,
 I think my wife be honest and think she is not.
 I think that thou art just and think thou art not.
-I'll have some proof! Her name, that was as fresh
-As Dian's visage, is now begrimed and black
+I&rsquo;ll have some proof! Her name, that was as fresh
+As Dian&rsquo;s visage, is now begrimed and black
 As mine own face. If there be cords, or knives,
 Poison, or fire, or suffocating streams,
-I'll not endure it. Would I were satisfied!
+I&rsquo;ll not endure it. Would I were satisfied!
 
 <speaker>IAGO</speaker>
 I see you are eaten up with passion.
@@ -3254,35 +3252,35 @@ It were a tedious difficulty, I think,
 To bring them to that prospect. Damn them then
 If ever mortal eyes do see them bolster
 More than their own! What then? How then?
-What shall I say? Where's satisfaction?
+What shall I say? Where&rsquo;s satisfaction?
 It is impossible you should see this,
 Were they as prime as goats, as hot as monkeys,
 As salt as wolves in pride, and fools as gross
 As ignorance made drunk. But yet I say,
 If imputation and strong circumstances
 Which lead directly to the door of truth
-Will give you satisfaction, you might have 't.
+Will give you satisfaction, you might have &rsquo;t.
 
 <speaker>OTHELLO</speaker>
-Give me a living reason she's disloyal.
+Give me a living reason she&rsquo;s disloyal.
 
 <speaker>IAGO</speaker>
 I do not like the office,
 But sith I am entered in this cause so far,
-Pricked to 't by foolish honesty and love,
+Pricked to &rsquo;t by foolish honesty and love,
 I will go on. I lay with Cassio lately,
 And being troubled with a raging tooth
 I could not sleep. There are a kind of men
 So loose of soul that in their sleeps will mutter
 Their affairs. One of this kind is Cassio.
-In sleep I heard him say "Sweet Desdemona,
-Let us be wary, let us hide our loves."
+In sleep I heard him say "&ldquo;Sweet Desdemona,
+Let us be wary, let us hide our loves.&rdquo;"
 And then, sir, would he gripe and wring my hand,
-Cry "O sweet creature!" then kiss me hard,
+Cry "&ldquo;O sweet creature!&rdquo;" then kiss me hard,
 As if he plucked up kisses by the roots
 That grew upon my lips; then laid his leg
-O'er my thigh, and sighed, and kissed, and then
-Cried "Cursed fate that gave thee to the Moor!"
+O&rsquo;er my thigh, and sighed, and kissed, and then
+Cried "&ldquo;Cursed fate that gave thee to the Moor!&rdquo;"
 
 <speaker>OTHELLO</speaker>
 O monstrous! Monstrous!
@@ -3293,27 +3291,27 @@ dream.
 
 <speaker>OTHELLO</speaker>
 But this denoted a foregone conclusion.
-'Tis a shrewd doubt, though it be but a dream.
+&rsquo;Tis a shrewd doubt, though it be but a dream.
 
 <speaker>IAGO</speaker>
 And this may help to thicken other proofs
 That do demonstrate thinly.
 
 <speaker>OTHELLO</speaker>
-I'll tear her all to pieces.
+I&rsquo;ll tear her all to pieces.
 
 <speaker>IAGO</speaker>
 Nay, but be wise. Yet we see nothing done.
 She may be honest yet. Tell me but this:
 Have you not sometimes seen a handkerchief
-Spotted with strawberries in your wife's hand?
+Spotted with strawberries in your wife&rsquo;s hand?
 
 <speaker>OTHELLO</speaker>
-I gave her such a one. 'Twas my first gift.
+I gave her such a one. &rsquo;Twas my first gift.
 
 <speaker>IAGO</speaker>
 I know not that; but such a handkerchief--
-I am sure it was your wife's--did I today
+I am sure it was your wife&rsquo;s--did I today
 See Cassio wipe his beard with.
 
 <speaker>OTHELLO</speaker>
@@ -3326,13 +3324,13 @@ It speaks against her with the other proofs.
 <speaker>OTHELLO</speaker>
 O, that the slave had forty thousand lives!
 One is too poor, too weak for my revenge.
-Now do I see 'tis true. Look here, Iago,
+Now do I see &rsquo;tis true. Look here, Iago,
 All my fond love thus do I blow to heaven.
-'Tis gone.
+&rsquo;Tis gone.
 Arise, black vengeance, from the hollow hell!
 Yield up, O love, thy crown and hearted throne
 To tyrannous hate! Swell, bosom, with thy fraught,
-For 'tis of aspics' tongues!
+For &rsquo;tis of aspics&rsquo; tongues!
 
 <speaker>IAGO</speaker>
 Yet be content.
@@ -3346,10 +3344,10 @@ Patience, I say. Your mind perhaps may change.
 <speaker>OTHELLO</speaker>
 Never, Iago. Like to the Pontic Sea,
 Whose icy current and compulsive course
-Ne'er feels retiring ebb, but keeps due on
+Ne&rsquo;er feels retiring ebb, but keeps due on
 To the Propontic and the Hellespont,
 Even so my bloody thoughts, with violent pace
-Shall ne'er look back, ne'er ebb to humble love,
+Shall ne&rsquo;er look back, ne&rsquo;er ebb to humble love,
 Till that a capable and wide revenge
 Swallow them up. [<i>He kneels.</i>]
  Now by yond marble
@@ -3363,7 +3361,7 @@ Witness, you ever-burning lights above,
 You elements that clip us round about,
 Witness that here Iago doth give up
 The execution of his wit, hands, heart
-To wronged Othello's service! Let him command,
+To wronged Othello&rsquo;s service! Let him command,
 And to obey shall be in me remorse,
 What bloody business ever.	[<i>They rise.</i>]
 
@@ -3371,13 +3369,13 @@ What bloody business ever.	[<i>They rise.</i>]
 I greet thy love
 Not with vain thanks but with acceptance
 bounteous,
-And will upon the instant put thee to 't.
+And will upon the instant put thee to &rsquo;t.
 Within these three days let me hear thee say
-That Cassio's not alive.
+That Cassio&rsquo;s not alive.
 
 <speaker>IAGO</speaker>
 My friend is dead.
-'Tis done at your request. But let her live.
+&rsquo;Tis done at your request. But let her live.
 
 <speaker>OTHELLO</speaker>
 Damn her, lewd minx! O, damn her, damn
@@ -3405,8 +3403,8 @@ I dare not say he lies anywhere.
 Why, man?
 
 <speaker>CLOWN</speaker>
-He's a soldier, and for me to say a soldier lies,
-'tis stabbing.
+He&rsquo;s a soldier, and for me to say a soldier lies,
+&rsquo;tis stabbing.
 
 <speaker>DESDEMONA</speaker>
 Go to! Where lodges he?
@@ -3437,7 +3435,7 @@ have moved my lord on his behalf and hope all will
 be well.
 
 <speaker>CLOWN</speaker>
-To do this is within the compass of man's wit,
+To do this is within the compass of man&rsquo;s wit,
 and therefore I will attempt the doing it.
 [<i>Clown exits.</i>]
 
@@ -3469,7 +3467,7 @@ comes.
 
 <speaker>DESDEMONA</speaker>
 I will not leave him now till Cassio
-Be called to him.--How is 't with you, my lord?
+Be called to him.--How is &rsquo;t with you, my lord?
 
 <speaker>OTHELLO</speaker>
 Well, my good lady. [<i>Aside.</i>]
@@ -3493,13 +3491,13 @@ This argues fruitfulness and liberal heart.
 Hot, hot, and moist. This hand of yours requires
 A sequester from liberty, fasting and prayer,
 Much castigation, exercise devout;
-For here's a young and sweating devil here
-That commonly rebels. 'Tis a good hand,
+For here&rsquo;s a young and sweating devil here
+That commonly rebels. &rsquo;Tis a good hand,
 A frank one.
 
 <speaker>DESDEMONA</speaker>
 You may indeed say so,
-For 'twas that hand that gave away my heart.
+For &rsquo;twas that hand that gave away my heart.
 
 <speaker>OTHELLO</speaker>
 A liberal hand! The hearts of old gave hands,
@@ -3534,42 +3532,42 @@ Not?
 No, faith, my lord.
 
 <speaker>OTHELLO</speaker>
-That's a fault. That handkerchief
+That&rsquo;s a fault. That handkerchief
 Did an Egyptian to my mother give.
 She was a charmer, and could almost read
 The thoughts of people. She told her, while she kept
 it,
-'Twould make her amiable and subdue my father
+&rsquo;Twould make her amiable and subdue my father
 Entirely to her love. But if she lost it,
-Or made a gift of it, my father's eye
+Or made a gift of it, my father&rsquo;s eye
 Should hold her loathed, and his spirits should hunt
 After new fancies. She, dying, gave it me,
 And bid me, when my fate would have me wived,
-To give it her. I did so; and take heed on 't,
+To give it her. I did so; and take heed on &rsquo;t,
 Make it a darling like your precious eye.
-To lose 't or give 't away were such perdition
+To lose &rsquo;t or give &rsquo;t away were such perdition
 As nothing else could match.
 
 <speaker>DESDEMONA</speaker>
-Is 't possible?
+Is &rsquo;t possible?
 
 <speaker>OTHELLO</speaker>
-'Tis true. There's magic in the web of it.
+&rsquo;Tis true. There&rsquo;s magic in the web of it.
 A sybil that had numbered in the world
 The sun to course two hundred compasses,
 In her prophetic fury sewed the work.
 The worms were hallowed that did breed the silk,
 And it was dyed in mummy, which the skillful
-Conserved of maidens' hearts.
-
-<speaker>DESDEMONA I'</speaker>
-faith, is 't true?
-
-<speaker>OTHELLO</speaker>
-Most veritable. Therefore, look to 't well.
+Conserved of maidens&rsquo; hearts.
 
 <speaker>DESDEMONA</speaker>
-Then would to God that I had never seen 't!
+I&rsquo; faith, is &rsquo;t true?
+
+<speaker>OTHELLO</speaker>
+Most veritable. Therefore, look to &rsquo;t well.
+
+<speaker>DESDEMONA</speaker>
+Then would to God that I had never seen &rsquo;t!
 
 <speaker>OTHELLO</speaker>
 Ha? Wherefore?
@@ -3578,7 +3576,7 @@ Ha? Wherefore?
 Why do you speak so startingly and rash?
 
 <speaker>OTHELLO</speaker>
-Is 't lost? Is 't gone? Speak, is 't out o' th' way?
+Is &rsquo;t lost? Is &rsquo;t gone? Speak, is &rsquo;t out o&rsquo; th&rsquo; way?
 
 <speaker>DESDEMONA</speaker>
 Heaven bless us!
@@ -3596,7 +3594,7 @@ How?
 I say it is not lost.
 
 <speaker>OTHELLO</speaker>
-Fetch 't. Let me see 't!
+Fetch &rsquo;t. Let me see &rsquo;t!
 
 <speaker>DESDEMONA</speaker>
 Why, so I can. But I will not now.
@@ -3610,7 +3608,7 @@ misgives.
 
 <speaker>DESDEMONA</speaker>
 Come, come.
-You'll never meet a more sufficient man.
+You&rsquo;ll never meet a more sufficient man.
 
 <speaker>OTHELLO</speaker>
 The handkerchief!
@@ -3628,8 +3626,8 @@ Shared dangers with you--
 <speaker>OTHELLO</speaker>
 The handkerchief!
 
-<speaker>DESDEMONA I'</speaker>
-faith, you are to blame.
+<speaker>DESDEMONA</speaker>
+I&rsquo; faith, you are to blame.
 
 <speaker>OTHELLO</speaker>
 Zounds! [<i>Othello exits.</i>]
@@ -3638,12 +3636,12 @@ Zounds! [<i>Othello exits.</i>]
 Is not this man jealous?
 
 <speaker>DESDEMONA</speaker>
-I ne'er saw this before.
-Sure, there's some wonder in this handkerchief!
+I ne&rsquo;er saw this before.
+Sure, there&rsquo;s some wonder in this handkerchief!
 I am most unhappy in the loss of it.
 
 <speaker>EMILIA</speaker>
-'Tis not a year or two shows us a man.
+&rsquo;Tis not a year or two shows us a man.
 They are all but stomachs, and we all but food;
 They eat us hungerly, and when they are full
 They belch us.
@@ -3654,11 +3652,11 @@ Look you--Cassio and my husband.
 
 <speaker>IAGO,</speaker>
 [<i>to Cassio</i>]
-There is no other way; 'tis she must do 't,
+There is no other way; &rsquo;tis she must do &rsquo;t,
 And, lo, the happiness! Go and importune her.
 
 <speaker>DESDEMONA</speaker>
-How now, good Cassio, what's the news with you?
+How now, good Cassio, what&rsquo;s the news with you?
 
 <speaker>CASSIO</speaker>
 Madam, my former suit. I do beseech you
@@ -3673,7 +3671,7 @@ Can ransom me into his love again,
 But to know so must be my benefit.
 So shall I clothe me in a forced content,
 And shut myself up in some other course
-To fortune's alms.
+To fortune&rsquo;s alms.
 
 <speaker>DESDEMONA</speaker>
 Alas, thrice-gentle Cassio,
@@ -3700,7 +3698,7 @@ When it hath blown his ranks into the air
 And, like the devil, from his very arm
 Puffed his own brother--and is he angry?
 Something of moment then. I will go meet him.
-There's matter in 't indeed if he be angry.
+There&rsquo;s matter in &rsquo;t indeed if he be angry.
 
 <speaker>DESDEMONA</speaker>
 I prithee do so.	[<i>He exits.</i>]
@@ -3708,8 +3706,8 @@ Something, sure, of state,
 Either from Venice, or some unhatched practice
 Made demonstrable here in Cyprus to him,
 Hath puddled his clear spirit; and in such cases
-Men's natures wrangle with inferior things,
-Though great ones are their object. 'Tis even so.
+Men&rsquo;s natures wrangle with inferior things,
+Though great ones are their object. &rsquo;Tis even so.
 For let our finger ache, and it endues
 Our other healthful members even to a sense
 Of pain. Nay, we must think men are not gods,
@@ -3718,7 +3716,7 @@ As fits the bridal. Beshrew me much, Emilia,
 I was--unhandsome warrior as I am!--
 Arraigning his unkindness with my soul.
 But now I find I had suborned the witness,
-And he's indicted falsely.
+And he&rsquo;s indicted falsely.
 
 <speaker>EMILIA</speaker>
 Pray heaven it be
@@ -3731,18 +3729,18 @@ Alas the day, I never gave him cause!
 <speaker>EMILIA</speaker>
 But jealous souls will not be answered so.
 They are not ever jealous for the cause,
-But jealous for they're jealous. It is a monster
+But jealous for they&rsquo;re jealous. It is a monster
 Begot upon itself, born on itself.
 
 <speaker>DESDEMONA</speaker>
-Heaven keep that monster from Othello's mind!
+Heaven keep that monster from Othello&rsquo;s mind!
 
 <speaker>EMILIA</speaker>
 Lady, amen.
 
 <speaker>DESDEMONA</speaker>
 I will go seek him.--Cassio, walk hereabout.
-If I do find him fit, I'll move your suit
+If I do find him fit, I&rsquo;ll move your suit
 And seek to effect it to my uttermost.
 
 <speaker>CASSIO</speaker>
@@ -3752,39 +3750,38 @@ I humbly thank your Ladyship.
 [<i>Enter Bianca.</i>]
 
 <speaker>BIANCA</speaker>
-'Save you, friend Cassio!
+&rsquo;Save you, friend Cassio!
 
 <speaker>CASSIO</speaker>
 What make you from
 home?
-How is 't with you, my most fair Bianca?
-<speaker>I'</speaker>
-faith, sweet love, I was coming to your house.
+How is &rsquo;t with you, my most fair Bianca?
+I&rsquo; faith, sweet love, I was coming to your house.
 
 <speaker>BIANCA</speaker>
 And I was going to your lodging, Cassio.
 What, keep a week away? Seven days and nights,
-Eightscore eight hours, and lovers' absent hours
+Eightscore eight hours, and lovers&rsquo; absent hours
 More tedious than the dial eightscore times?
-O weary reck'ning!
+O weary reck&rsquo;ning!
 
 <speaker>CASSIO</speaker>
 Pardon me, Bianca.
 I have this while with leaden thoughts been pressed,
 But I shall in a more continuate time
 Strike off this score of absence. Sweet Bianca,
-[<i>Giving her Desdemona's handkerchief.</i>]
+[<i>Giving her Desdemona&rsquo;s handkerchief.</i>]
 Take me this work out.
 
 <speaker>BIANCA</speaker>
 O, Cassio, whence came this?
 This is some token from a newer friend.
 To the felt absence now I feel a cause.
-Is 't come to this? Well, well.
+Is &rsquo;t come to this? Well, well.
 
 <speaker>CASSIO</speaker>
 Go to, woman!
-Throw your vile guesses in the devil's teeth,
+Throw your vile guesses in the devil&rsquo;s teeth,
 From whence you have them. You are jealous now
 That this is from some mistress, some
 remembrance.
@@ -3797,7 +3794,7 @@ Why, whose is it?
 I know not neither. I found it in my chamber.
 I like the work well. Ere it be demanded,
 As like enough it will, I would have it copied.
-Take it, and do 't, and leave me for this time.
+Take it, and do &rsquo;t, and leave me for this time.
 
 <speaker>BIANCA</speaker>
 Leave you? Wherefore?
@@ -3819,11 +3816,11 @@ I pray you bring me on the way a little,
 And say if I shall see you soon at night.
 
 <speaker>CASSIO</speaker>
-'Tis but a little way that I can bring you,
-For I attend here. But I'll see you soon.
+&rsquo;Tis but a little way that I can bring you,
+For I attend here. But I&rsquo;ll see you soon.
 
 <speaker>BIANCA</speaker>
-'Tis very good. I must be circumstanced.
+&rsquo;Tis very good. I must be circumstanced.
 [<i>They exit.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
@@ -3856,36 +3853,36 @@ The devil their virtue tempts, and they tempt
 heaven.
 
 <speaker>IAGO</speaker>
-If they do nothing, 'tis a venial slip.
+If they do nothing, &rsquo;tis a venial slip.
 But if I give my wife a handkerchief--
 
 <speaker>OTHELLO</speaker>
 What then?
 
 <speaker>IAGO</speaker>
-Why then, 'tis hers, my lord, and being hers,
-She may, I think, bestow 't on any man.
+Why then, &rsquo;tis hers, my lord, and being hers,
+She may, I think, bestow &rsquo;t on any man.
 
 <speaker>OTHELLO</speaker>
 She is protectress of her honor, too.
 May she give that?
 
 <speaker>IAGO</speaker>
-Her honor is an essence that's not seen;
+Her honor is an essence that&rsquo;s not seen;
 They have it very oft that have it not.
 But for the handkerchief--
 
 <speaker>OTHELLO</speaker>
 By heaven, I would most gladly have forgot it.
-Thou saidst--O, it comes o'er my memory
-As doth the raven o'er the infectious house,
+Thou saidst--O, it comes o&rsquo;er my memory
+As doth the raven o&rsquo;er the infectious house,
 Boding to all--he had my handkerchief.
 
 <speaker>IAGO</speaker>
 Ay, what of that?
 
 <speaker>OTHELLO</speaker>
-That's not so good now.
+That&rsquo;s not so good now.
 
 <speaker>IAGO</speaker>
 What
@@ -3901,7 +3898,7 @@ Hath he said anything?
 
 <speaker>IAGO</speaker>
 He hath, my lord, but be you well assured,
-No more than he'll unswear.
+No more than he&rsquo;ll unswear.
 
 <speaker>OTHELLO</speaker>
 What hath he said?
@@ -3922,15 +3919,15 @@ With her?
 With her--on her--what you will.
 
 <speaker>OTHELLO</speaker>
-Lie with her? Lie on her? We say "lie on her"
-when they belie her. Lie with her--Zounds, that's
+Lie with her? Lie on her? We say "&ldquo;lie on her&rdquo;"
+when they belie her. Lie with her--Zounds, that&rsquo;s
 fulsome! Handkerchief--confessions--handkerchief.
 To confess and be hanged for his labor.
 First to be hanged and then to confess--I tremble
 at it. Nature would not invest herself in such shadowing
 passion without some instruction. It is not
 words that shakes me thus. Pish! Noses, ears, and
-lips--is 't possible? Confess--handkerchief--O,
+lips--is &rsquo;t possible? Confess--handkerchief--O,
 devil!	[<i>He falls in a trance.</i>]
 
 <speaker>IAGO</speaker>
@@ -3946,10 +3943,10 @@ My lord, I say. Othello!
 How now, Cassio?
 
 <speaker>CASSIO</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>IAGO</speaker>
-My lord is fall'n into an epilepsy.
+My lord is fall&rsquo;n into an epilepsy.
 This is his second fit. He had one yesterday.
 
 <speaker>CASSIO</speaker>
@@ -3974,10 +3971,10 @@ I mock you not, by heaven!
 Would you would bear your fortune like a man!
 
 <speaker>OTHELLO</speaker>
-A horned man's a monster and a beast.
+A horned man&rsquo;s a monster and a beast.
 
 <speaker>IAGO</speaker>
-There's many a beast, then, in a populous city,
+There&rsquo;s many a beast, then, in a populous city,
 And many a civil monster.
 
 <speaker>OTHELLO</speaker>
@@ -3985,25 +3982,25 @@ Did he confess it?
 
 <speaker>IAGO</speaker>
 Good sir, be a man!
-Think every bearded fellow that's but yoked
-May draw with you. There's millions now alive
+Think every bearded fellow that&rsquo;s but yoked
+May draw with you. There&rsquo;s millions now alive
 That nightly lie in those unproper beds
 Which they dare swear peculiar. Your case is better.
-O, 'tis the spite of hell, the fiend's arch-mock,
+O, &rsquo;tis the spite of hell, the fiend&rsquo;s arch-mock,
 To lip a wanton in a secure couch
 And to suppose her chaste! No, let me know,
 And knowing what I am, I know what she shall be.
 
 <speaker>OTHELLO</speaker>
-O, thou art wise, 'tis certain.
+O, thou art wise, &rsquo;tis certain.
 
 <speaker>IAGO</speaker>
 Stand you awhile apart.
 Confine yourself but in a patient list.
-Whilst you were here, o'erwhelmed with your grief--
+Whilst you were here, o&rsquo;erwhelmed with your grief--
 A passion most unsuiting such a man--
 Cassio came hither. I shifted him away
-And laid good 'scuses upon your ecstasy,
+And laid good &rsquo;scuses upon your ecstasy,
 Bade him anon return and here speak with me,
 The which he promised. Do but encave yourself,
 And mark the fleers, the gibes, and notable scorns
@@ -4012,7 +4009,7 @@ For I will make him tell the tale anew--
 Where, how, how oft, how long ago, and when
 He hath and is again to cope your wife.
 I say but mark his gesture. Marry, patience,
-Or I shall say you're all in all in spleen,
+Or I shall say you&rsquo;re all in all in spleen,
 And nothing of a man.
 
 <speaker>OTHELLO</speaker>
@@ -4021,13 +4018,13 @@ I will be found most cunning in my patience,
 But (dost thou hear?) most bloody.
 
 <speaker>IAGO</speaker>
-That's not amiss.
+That&rsquo;s not amiss.
 But yet keep time in all. Will you withdraw?
 [<i>Othello withdraws.</i>]
 Now will I question Cassio of Bianca,
 A huswife that by selling her desires
 Buys herself bread and clothes. It is a creature
-That dotes on Cassio--as 'tis the strumpet's plague
+That dotes on Cassio--as &rsquo;tis the strumpet&rsquo;s plague
 To beguile many and be beguiled by one.
 He, when he hears of her, cannot restrain
 From the excess of laughter. Here he comes.
@@ -4036,7 +4033,7 @@ From the excess of laughter. Here he comes.
 
 As he shall smile, Othello shall go mad,
 And his unbookish jealousy must construe
-Poor Cassio's smiles, gestures, and light behaviors
+Poor Cassio&rsquo;s smiles, gestures, and light behaviors
 Quite in the wrong.--How do you, lieutenant?
 
 <speaker>CASSIO</speaker>
@@ -4044,8 +4041,8 @@ The worser that you give me the addition
 Whose want even kills me.
 
 <speaker>IAGO</speaker>
-Ply Desdemona well, and you are sure on 't.
-Now, if this suit lay in Bianca's power,
+Ply Desdemona well, and you are sure on &rsquo;t.
+Now, if this suit lay in Bianca&rsquo;s power,
 How quickly should you speed!
 
 <speaker>CASSIO,</speaker>
@@ -4059,7 +4056,7 @@ Look how he laughs already!
 I never knew woman love man so.
 
 <speaker>CASSIO</speaker>
-Alas, poor rogue, I think i' faith she loves me.
+Alas, poor rogue, I think i&rsquo; faith she loves me.
 
 <speaker>OTHELLO</speaker>
 Now he denies it faintly and laughs it out.
@@ -4069,7 +4066,7 @@ Do you hear, Cassio?
 
 <speaker>OTHELLO</speaker>
 Now he importunes him
-To tell it o'er. Go to, well said, well said.
+To tell it o&rsquo;er. Go to, well said, well said.
 
 <speaker>IAGO</speaker>
 She gives it out that you shall marry her.
@@ -4102,7 +4099,7 @@ I am a very villain else.
 Have you scored me? Well.
 
 <speaker>CASSIO</speaker>
-This is the monkey's own giving out. She is
+This is the monkey&rsquo;s own giving out. She is
 persuaded I will marry her out of her own love and
 flattery, not out of my promise.
 
@@ -4117,7 +4114,7 @@ the bauble. By this hand, she falls thus about my
 neck!
 
 <speaker>OTHELLO</speaker>
-Crying, "O dear Cassio," as it were; his
+Crying, "&ldquo;O dear Cassio,&rdquo;" as it were; his
 gesture imports it.
 
 <speaker>CASSIO</speaker>
@@ -4138,7 +4135,7 @@ Before me, look where she comes.
 [<i>Enter Bianca.</i>]
 
 <speaker>CASSIO</speaker>
-'Tis such another fitchew--marry, a perfumed
+&rsquo;Tis such another fitchew--marry, a perfumed
 one!--What do you mean by this haunting
 of me?
 
@@ -4148,9 +4145,9 @@ you mean by that same handkerchief you gave me
 even now? I was a fine fool to take it! I must take
 out the work? A likely piece of work, that you
 should find it in your chamber and know not who
-left it there! This is some minx's token, and I must
+left it there! This is some minx&rsquo;s token, and I must
 take out the work! There, give it your hobbyhorse.
-Wheresoever you had it, I'll take out no work on 't.
+Wheresoever you had it, I&rsquo;ll take out no work on &rsquo;t.
 
 <speaker>CASSIO</speaker>
 How now, my sweet Bianca? How now? How now?
@@ -4159,7 +4156,7 @@ How now, my sweet Bianca? How now? How now?
 By heaven, that should be my handkerchief!
 
 <speaker>BIANCA</speaker>
-If you'll come to supper tonight you may. If
+If you&rsquo;ll come to supper tonight you may. If
 you will not, come when you are next prepared
 for.	[<i>She exits.</i>]
 
@@ -4167,7 +4164,7 @@ for.	[<i>She exits.</i>]
 After her, after her!
 
 <speaker>CASSIO</speaker>
-Faith, I must. She'll rail in the streets else.
+Faith, I must. She&rsquo;ll rail in the streets else.
 
 <speaker>IAGO</speaker>
 Will you sup there?
@@ -4205,7 +4202,7 @@ Was that mine?
 <speaker>IAGO</speaker>
 Yours, by this hand! And to see how he prizes
 the foolish woman your wife! She gave it him, and
-he hath giv'n it his whore.
+he hath giv&rsquo;n it his whore.
 
 <speaker>OTHELLO</speaker>
 I would have him nine years a-killing! A fine
@@ -4219,10 +4216,10 @@ Ay, let her rot and perish and be damned
 tonight, for she shall not live. No, my heart is turned
 to stone. I strike it, and it hurts my hand. O, the
 world hath not a sweeter creature! She might lie by
-an emperor's side and command him tasks.
+an emperor&rsquo;s side and command him tasks.
 
 <speaker>IAGO</speaker>
-Nay, that's not your way.
+Nay, that&rsquo;s not your way.
 
 <speaker>OTHELLO</speaker>
 Hang her, I do but say what she is! So
@@ -4231,7 +4228,7 @@ O, she will sing the savageness out of a bear!
 Of so high and plenteous wit and invention!
 
 <speaker>IAGO</speaker>
-She's the worse for all this.
+She&rsquo;s the worse for all this.
 
 <speaker>OTHELLO</speaker>
 O, a thousand, a thousand times!--And then
@@ -4241,7 +4238,7 @@ of so gentle a condition!
 Ay, too gentle.
 
 <speaker>OTHELLO</speaker>
-Nay, that's certain. But yet the pity of it,
+Nay, that&rsquo;s certain. But yet the pity of it,
 Iago! O, Iago, the pity of it, Iago!
 
 <speaker>IAGO</speaker>
@@ -4253,16 +4250,16 @@ near nobody.
 I will chop her into messes! Cuckold me?
 
 <speaker>IAGO</speaker>
-O, 'tis foul in her.
+O, &rsquo;tis foul in her.
 
 <speaker>OTHELLO</speaker>
 With mine officer!
 
 <speaker>IAGO</speaker>
-That's fouler.
+That&rsquo;s fouler.
 
 <speaker>OTHELLO</speaker>
-Get me some poison, Iago, this night. I'll not
+Get me some poison, Iago, this night. I&rsquo;ll not
 expostulate with her lest her body and beauty
 unprovide my mind again. This night, Iago.
 
@@ -4287,8 +4284,8 @@ I warrant something from Venice.
 
 [<i>Enter Lodovico, Desdemona, and Attendants.</i>]
 
-'Tis Lodovico. This comes from the Duke.
-See, your wife's with him.
+&rsquo;Tis Lodovico. This comes from the Duke.
+See, your wife&rsquo;s with him.
 
 <speaker>LODOVICO</speaker>
 God save you, worthy general.
@@ -4304,7 +4301,7 @@ The Duke and the Senators of Venice greet you.
 I kiss the instrument of their pleasures.
 
 <speaker>DESDEMONA</speaker>
-And what's the news, good cousin Lodovico?
+And what&rsquo;s the news, good cousin Lodovico?
 
 <speaker>IAGO</speaker>
 I am very glad to see you, signior.
@@ -4317,7 +4314,7 @@ I thank you. How does Lieutenant Cassio?
 Lives, sir.
 
 <speaker>DESDEMONA</speaker>
-Cousin, there's fall'n between him and my lord
+Cousin, there&rsquo;s fall&rsquo;n between him and my lord
 An unkind breach, but you shall make all well.
 
 <speaker>OTHELLO</speaker>
@@ -4328,17 +4325,16 @@ My lord?
 
 <speaker>OTHELLO,</speaker>
 [<i>reading</i>]
-  "This fail you not to do, as you
+  "&ldquo;This fail you not to do, as you
 will"--
 
 <speaker>LODOVICO</speaker>
-He did not call; he's busy in the paper.
-Is there division 'twixt my lord and Cassio?
+He did not call; he&rsquo;s busy in the paper.
+Is there division &rsquo;twixt my lord and Cassio?
 
 <speaker>DESDEMONA</speaker>
 A most unhappy one. I would do much
-<speaker>T'</speaker>
-atone them, for the love I bear to Cassio.
+T&rsquo; atone them, for the love I bear to Cassio.
 
 <speaker>OTHELLO</speaker>
 Fire and brimstone!
@@ -4358,7 +4354,7 @@ For, as I think, they do command him home,
 Deputing Cassio in his government.
 
 <speaker>DESDEMONA</speaker>
-By my troth, I am glad on 't.
+By my troth, I am glad on &rsquo;t.
 
 <speaker>OTHELLO</speaker>
 Indeed?
@@ -4381,12 +4377,12 @@ I have not deserved this.
 
 <speaker>LODOVICO</speaker>
 My lord, this would not be believed in Venice,
-Though I should swear I saw 't. 'Tis very much.
+Though I should swear I saw &rsquo;t. &rsquo;Tis very much.
 Make her amends. She weeps.
 
 <speaker>OTHELLO</speaker>
 O, devil, devil!
-If that the Earth could teem with woman's tears,
+If that the Earth could teem with woman&rsquo;s tears,
 Each drop she falls would prove a crocodile.
 Out of my sight!
 
@@ -4415,11 +4411,11 @@ Who, I, my lord?
 Ay, you did wish that I would make her turn.
 Sir, she can turn, and turn, and yet go on,
 And turn again. And she can weep, sir, weep.
-And she's obedient, as you say, obedient.
+And she&rsquo;s obedient, as you say, obedient.
 Very obedient.--Proceed you in your tears.--
 Concerning this, sir--O, well-painted passion!--
 I am commanded home.--Get you away.
-I'll send for you anon.--Sir, I obey the mandate
+I&rsquo;ll send for you anon.--Sir, I obey the mandate
 And will return to Venice.--Hence, avaunt!
 [<i>Desdemona exits.</i>]
 Cassio shall have my place. And, sir, tonight
@@ -4442,7 +4438,7 @@ changed.
 Are his wits safe? Is he not light of brain?
 
 <speaker>IAGO</speaker>
-He's that he is. I may not breathe my censure
+He&rsquo;s that he is. I may not breathe my censure
 What he might be. If what he might he is not,
 I would to heaven he were.
 
@@ -4450,7 +4446,7 @@ I would to heaven he were.
 What? Strike his wife?
 
 <speaker>IAGO</speaker>
-'Faith, that was not so well. Yet would I knew
+&rsquo;Faith, that was not so well. Yet would I knew
 That stroke would prove the worst.
 
 <speaker>LODOVICO</speaker>
@@ -4495,7 +4491,7 @@ What, did they never whisper?
 Never, my lord.
 
 <speaker>OTHELLO</speaker>
-Nor send you out o' th' way?
+Nor send you out o&rsquo; th&rsquo; way?
 
 <speaker>EMILIA</speaker>
 Never.
@@ -4507,25 +4503,25 @@ To fetch her fan, her gloves, her mask, nor nothing?
 Never, my lord.
 
 <speaker>OTHELLO</speaker>
-That's strange.
+That&rsquo;s strange.
 
 <speaker>EMILIA</speaker>
 I durst, my lord, to wager she is honest,
 Lay down my soul at stake. If you think other,
 Remove your thought. It doth abuse your bosom.
 If any wretch have put this in your head,
-Let heaven requite it with the serpent's curse,
+Let heaven requite it with the serpent&rsquo;s curse,
 For if she be not honest, chaste, and true,
-There's no man happy. The purest of their wives
+There&rsquo;s no man happy. The purest of their wives
 Is foul as slander.
 
 <speaker>OTHELLO</speaker>
 Bid her come hither. Go.
 [<i>Emilia exits.</i>]
-She says enough. Yet she's a simple bawd
+She says enough. Yet she&rsquo;s a simple bawd
 That cannot say as much. This is a subtle whore,
 A closet lock and key of villainous secrets.
-And yet she'll kneel and pray. I have seen her do 't.
+And yet she&rsquo;ll kneel and pray. I have seen her do &rsquo;t.
 
 [<i>Enter Desdemona and Emilia.</i>]
 
@@ -4543,14 +4539,14 @@ pleasure?
 Let me see your eyes. Look in my face.
 
 <speaker>DESDEMONA</speaker>
-What horrible fancy's this?
+What horrible fancy&rsquo;s this?
 
 <speaker>OTHELLO,</speaker>
 [<i>to Emilia</i>]
   Some of your function,
 mistress.
 Leave procreants alone, and shut the door.
-Cough, or cry "hem," if anybody come.
+Cough, or cry "&ldquo;hem,&rdquo;" if anybody come.
 Your mystery, your mystery! Nay, dispatch.
 [<i>Emilia exits.</i>]
 
@@ -4620,16 +4616,16 @@ I hope my noble lord esteems me honest.
 <speaker>OTHELLO</speaker>
 O, ay, as summer flies are in the shambles,
 That quicken even with blowing! O thou weed,
-Who art so lovely fair, and smell'st so sweet
+Who art so lovely fair, and smell&rsquo;st so sweet
 That the sense aches at thee, would thou hadst
-ne'er been born!
+ne&rsquo;er been born!
 
 <speaker>DESDEMONA</speaker>
 Alas, what ignorant sin have I committed?
 
 <speaker>OTHELLO</speaker>
 Was this fair paper, this most goodly book,
-Made to write "whore" upon? What committed?
+Made to write "&ldquo;whore&rdquo;" upon? What committed?
 Committed? O thou public commoner,
 I should make very forges of my cheeks
 That would to cinders burn up modesty,
@@ -4637,7 +4633,7 @@ Did I but speak thy deeds. What committed?
 Heaven stops the nose at it, and the moon winks;
 The bawdy wind that kisses all it meets
 Is hushed within the hollow mine of earth
-And will not hear 't. What committed?
+And will not hear &rsquo;t. What committed?
 Impudent strumpet!
 
 <speaker>DESDEMONA</speaker>
@@ -4659,7 +4655,7 @@ What, not a whore?
 No, as I shall be saved.
 
 <speaker>OTHELLO</speaker>
-Is 't possible?
+Is &rsquo;t possible?
 
 <speaker>DESDEMONA</speaker>
 O, heaven forgive us!
@@ -4673,7 +4669,7 @@ That married with Othello.--You, mistress,
 
 That have the office opposite to Saint Peter
 And keeps the gate of hell--you, you, ay, you!
-We have done our course. There's money for your
+We have done our course. There&rsquo;s money for your
 pains.	[<i>He gives her money.</i>]
 I pray you turn the key and keep our counsel.
 [<i>He exits.</i>]
@@ -4686,7 +4682,7 @@ How do you, madam? How do you, my good lady?
 Faith, half asleep.
 
 <speaker>EMILIA</speaker>
-Good madam, what's the matter with my lord?
+Good madam, what&rsquo;s the matter with my lord?
 
 <speaker>DESDEMONA</speaker>
 With who?
@@ -4708,17 +4704,17 @@ Lay on my bed my wedding sheets. Remember.
 And call thy husband hither.
 
 <speaker>EMILIA</speaker>
-Here's a change indeed. [<i>She exits.</i>]
+Here&rsquo;s a change indeed. [<i>She exits.</i>]
 
 <speaker>DESDEMONA</speaker>
-'Tis meet I should be used so, very meet.
+&rsquo;Tis meet I should be used so, very meet.
 How have I been behaved that he might stick
-The small'st opinion on my least misuse?
+The small&rsquo;st opinion on my least misuse?
 
 [<i>Enter Iago and Emilia.</i>]
 
 <speaker>IAGO</speaker>
-What is your pleasure, madam? How is 't with you?
+What is your pleasure, madam? How is &rsquo;t with you?
 
 <speaker>DESDEMONA</speaker>
 I cannot tell. Those that do teach young babes
@@ -4745,7 +4741,7 @@ lady?
 Such as she said my lord did say I was.
 
 <speaker>EMILIA</speaker>
-He called her "whore." A beggar in his drink
+He called her "&ldquo;whore.&rdquo;" A beggar in his drink
 Could not have laid such terms upon his callet.
 
 <speaker>IAGO</speaker>
@@ -4760,14 +4756,14 @@ Do not weep, do not weep! Alas the day!
 <speaker>EMILIA</speaker>
 Hath she forsook so many noble matches,
 Her father and her country and her friends,
-To be called "whore"? Would it not make one
+To be called "&ldquo;whore&rdquo;"? Would it not make one
 weep?
 
 <speaker>DESDEMONA</speaker>
 It is my wretched fortune.
 
 <speaker>IAGO</speaker>
-Beshrew him for 't! How comes this trick upon him?
+Beshrew him for &rsquo;t! How comes this trick upon him?
 
 <speaker>DESDEMONA</speaker>
 Nay, heaven doth know.
@@ -4786,16 +4782,16 @@ If any such there be, heaven pardon him.
 
 <speaker>EMILIA</speaker>
 A halter pardon him, and hell gnaw his bones!
-Why should he call her "whore"? Who keeps her
+Why should he call her "&ldquo;whore&rdquo;"? Who keeps her
 company?
 What place? What time? What form? What
 likelihood?
-The Moor's abused by some most villainous knave,
+The Moor&rsquo;s abused by some most villainous knave,
 Some base notorious knave, some scurvy fellow.
-O heaven, that such companions thou 'dst unfold,
+O heaven, that such companions thou &rsquo;dst unfold,
 And put in every honest hand a whip
 To lash the rascals naked through the world,
-Even from the east to th' west!
+Even from the east to th&rsquo; west!
 
 <speaker>IAGO</speaker>
 Speak within door.
@@ -4815,7 +4811,7 @@ Good friend, go to him. For by this light of heaven,
 I know not how I lost him. [<i>She kneels.</i>]
  Here I
 kneel.
-If e'er my will did trespass 'gainst his love,
+If e&rsquo;er my will did trespass &rsquo;gainst his love,
 Either in discourse of thought or actual deed,
 Or that mine eyes, mine ears, or any sense
 Delighted them in any other form,
@@ -4826,18 +4822,18 @@ Comfort forswear me! [<i>She stands.</i>]
  Unkindness may
 do much,
 And his unkindness may defeat my life,
-But never taint my love. I cannot say "whore"--
+But never taint my love. I cannot say "&ldquo;whore"--
 It does abhor me now I speak the word.
 To do the act that might the addition earn,
-Not the world's mass of vanity could make me.
+Not the world&rsquo;s mass of vanity could make me.
 
 <speaker>IAGO</speaker>
-I pray you be content. 'Tis but his humor.
+I pray you be content. &rsquo;Tis but his humor.
 The business of the state does him offense,
 And he does chide with you.
 
 <speaker>DESDEMONA</speaker>
-If 'twere no other--
+If &rsquo;twere no other--
 
 <speaker>IAGO</speaker>
 It is but so, I warrant.
@@ -4853,15 +4849,15 @@ How now, Roderigo?
 
 <speaker>RODERIGO</speaker>
 I do not find
-That thou deal'st justly with me.
+That thou deal&rsquo;st justly with me.
 
 <speaker>IAGO</speaker>
 What in the contrary?
 
 <speaker>RODERIGO</speaker>
-Every day thou daff'st me with some device,
+Every day thou daff&rsquo;st me with some device,
 Iago, and rather, as it seems to me now,
-keep'st from me all conveniency than suppliest me
+keep&rsquo;st from me all conveniency than suppliest me
 with the least advantage of hope. I will indeed no
 longer endure it. Nor am I yet persuaded to put up
 in peace what already I have foolishly suffered.
@@ -4889,15 +4885,15 @@ find none.
 Well, go to! Very well.
 
 <speaker>RODERIGO</speaker>
-"Very well." "Go to!" I cannot go to, man,
-nor 'tis not very well! By this hand, I say 'tis very
+"&ldquo;Very well.&rdquo;" "&ldquo;Go to!&rdquo;" I cannot go to, man,
+nor &rsquo;tis not very well! By this hand, I say &rsquo;tis very
 scurvy, and begin to find myself fopped in it.
 
 <speaker>IAGO</speaker>
 Very well.
 
 <speaker>RODERIGO</speaker>
-I tell you 'tis not very well! I will make
+I tell you &rsquo;tis not very well! I will make
 myself known to Desdemona. If she will return me
 my jewels, I will give over my suit and repent my
 unlawful solicitation. If not, assure yourself I will
@@ -4911,7 +4907,7 @@ Ay, and said nothing but what I protest
 intendment of doing.
 
 <speaker>IAGO</speaker>
-Why, now I see there's mettle in thee, and even
+Why, now I see there&rsquo;s mettle in thee, and even
 from this instant do build on thee a better opinion
 than ever before. Give me thy hand, Roderigo.
 Thou hast taken against me a most just exception,
@@ -4937,7 +4933,7 @@ compass?
 
 <speaker>IAGO</speaker>
 Sir, there is especial commission come from
-Venice to depute Cassio in Othello's place.
+Venice to depute Cassio in Othello&rsquo;s place.
 
 <speaker>RODERIGO</speaker>
 Is that true? Why, then, Othello and Desdemona
@@ -4953,7 +4949,7 @@ can be so determinate as the removing of Cassio.
 How do you mean, removing him?
 
 <speaker>IAGO</speaker>
-Why, by making him uncapable of Othello's
+Why, by making him uncapable of Othello&rsquo;s
 place: knocking out his brains.
 
 <speaker>RODERIGO</speaker>
@@ -4988,7 +4984,7 @@ Attendants.</i>]
 I do beseech you, sir, trouble yourself no further.
 
 <speaker>OTHELLO</speaker>
-O, pardon me, 'twill do me good to walk.
+O, pardon me, &rsquo;twill do me good to walk.
 
 <speaker>LODOVICO</speaker>
 Madam, good night. I humbly thank your Ladyship.
@@ -5003,9 +4999,9 @@ Will you walk, sir?--O, Desdemona--
 My lord?
 
 <speaker>OTHELLO</speaker>
-Get you to bed on th' instant. I will be
+Get you to bed on th&rsquo; instant. I will be
 returned forthwith. Dismiss your attendant there.
-Look 't be done.
+Look &rsquo;t be done.
 
 <speaker>DESDEMONA</speaker>
 I will, my lord.
@@ -5039,7 +5035,7 @@ Prithee, unpin me--have grace and favor in them.
 I have laid those sheets you bade me on the bed.
 
 <speaker>DESDEMONA</speaker>
-All's one. Good faith, how foolish are our minds!
+All&rsquo;s one. Good faith, how foolish are our minds!
 If I do die before thee, prithee, shroud me
 In one of those same sheets.
 
@@ -5050,7 +5046,7 @@ Come, come, you talk!
 My mother had a maid called Barbary.
 She was in love, and he she loved proved mad
 And did forsake her. She had a song of willow,
-An old thing 'twas, but it expressed her fortune,
+An old thing &rsquo;twas, but it expressed her fortune,
 And she died singing it. That song tonight
 Will not go from my mind. I have much to do
 But to go hang my head all at one side
@@ -5086,24 +5082,24 @@ moans,
 stones--
 Lay by these.
 	   Sing willow, willow, willow.
-Prithee hie thee! He'll come anon.
+Prithee hie thee! He&rsquo;ll come anon.
 	Sing all a green willow must be my garland.
 	Let nobody blame him, his scorn I approve.
-Nay, that's not next. Hark, who is 't that knocks?
+Nay, that&rsquo;s not next. Hark, who is &rsquo;t that knocks?
 
 <speaker>EMILIA</speaker>
-It's the wind.
+It&rsquo;s the wind.
 
 <speaker>DESDEMONA</speaker>
 	I called my love false love, but what said he then?
 	   Sing willow, willow, willow.
-	If I court more women, you'll couch with more
+	If I court more women, you&rsquo;ll couch with more
 men.--
 So, get thee gone. Good night. Mine eyes do itch;
 Doth that bode weeping?
 
 <speaker>EMILIA</speaker>
-'Tis neither here nor there.
+&rsquo;Tis neither here nor there.
 
 <speaker>DESDEMONA</speaker>
 I have heard it said so. O these men, these men!
@@ -5126,34 +5122,34 @@ No, by this heavenly light!
 
 <speaker>EMILIA</speaker>
 Nor I neither, by this heavenly light.
-I might do 't as well i' th' dark.
+I might do &rsquo;t as well i&rsquo; th&rsquo; dark.
 
 <speaker>DESDEMONA</speaker>
 Wouldst thou do such a deed for all the world?
 
 <speaker>EMILIA</speaker>
-The world's a huge thing. It is a great price
+The world&rsquo;s a huge thing. It is a great price
 for a small vice.
 
 <speaker>DESDEMONA</speaker>
 In troth, I think thou wouldst not.
 
 <speaker>EMILIA</speaker>
-In troth, I think I should, and undo 't when I
+In troth, I think I should, and undo &rsquo;t when I
 had done it. Marry, I would not do such a thing for
 a joint ring, nor for measures of lawn, nor for
 gowns, petticoats, nor caps, nor any petty exhibition.
-But for the whole world--'Uds pity! Who
+But for the whole world--&rsquo;Uds pity! Who
 would not make her husband a cuckold to make
-him a monarch? I should venture purgatory for 't.
+him a monarch? I should venture purgatory for &rsquo;t.
 
 <speaker>DESDEMONA</speaker>
 Beshrew me if I would do such a wrong
 for the whole world!
 
 <speaker>EMILIA</speaker>
-Why, the wrong is but a wrong i' th' world;
-and, having the world for your labor, 'tis a wrong in
+Why, the wrong is but a wrong i&rsquo; th&rsquo; world;
+and, having the world for your labor, &rsquo;tis a wrong in
 your own world, and you might quickly make it
 right.
 
@@ -5161,9 +5157,9 @@ right.
 I do not think there is any such woman.
 
 <speaker>EMILIA</speaker>
-Yes, a dozen; and as many to th' vantage as
+Yes, a dozen; and as many to th&rsquo; vantage as
 would store the world they played for.
-But I do think it is their husbands' faults
+But I do think it is their husbands&rsquo; faults
 If wives do fall. Say that they slack their duties,
 And pour our treasures into foreign laps;
 Or else break out in peevish jealousies,
@@ -5177,7 +5173,7 @@ And have their palates both for sweet and sour,
 As husbands have. What is it that they do
 When they change us for others? Is it sport?
 I think it is. And doth affection breed it?
-I think it doth. Is 't frailty that thus errs?
+I think it doth. Is &rsquo;t frailty that thus errs?
 It is so too. And have not we affections,
 Desires for sport, and frailty, as men have?
 Then let them use us well. Else let them know,
@@ -5197,12 +5193,12 @@ Not to pick bad from bad, but by bad mend.
 Here, stand behind this bulk. Straight will he
 come.
 Wear thy good rapier bare, and put it home.
-Quick, quick! Fear nothing. I'll be at thy elbow.
+Quick, quick! Fear nothing. I&rsquo;ll be at thy elbow.
 It makes us or it mars us--think on that,
 And fix most firm thy resolution.
 
 <speaker>RODERIGO</speaker>
-Be near at hand. I may miscarry in 't.
+Be near at hand. I may miscarry in &rsquo;t.
 
 <speaker>IAGO</speaker>
 Here, at thy hand. Be bold and take thy stand.
@@ -5211,7 +5207,7 @@ Here, at thy hand. Be bold and take thy stand.
 <speaker>RODERIGO</speaker>
 I have no great devotion to the deed,
 And yet he hath given me satisfying reasons.
-'Tis but a man gone. Forth, my sword! He dies.
+&rsquo;Tis but a man gone. Forth, my sword! He dies.
 [<i>He draws his sword.</i>]
 
 <speaker>IAGO,</speaker>
@@ -5227,17 +5223,17 @@ It must not be. If Cassio do remain,
 He hath a daily beauty in his life
 That makes me ugly. And besides, the Moor
 May unfold me to him. There stand I in much peril.
-No, he must die. Be 't so. I hear him coming.
+No, he must die. Be &rsquo;t so. I hear him coming.
 
 [<i>Enter Cassio.</i>]
 
 <speaker>RODERIGO</speaker>
-I know his gait. 'Tis he!--Villain, thou diest!
+I know his gait. &rsquo;Tis he!--Villain, thou diest!
 [<i>He thrusts at Cassio.</i>]
 
 <speaker>CASSIO</speaker>
 That thrust had been mine enemy indeed
-But that my coat is better than thou know'st.
+But that my coat is better than thou know&rsquo;st.
 I will make proof of thine.
 [<i>He draws, and stabs Roderigo.</i>]
 
@@ -5266,13 +5262,13 @@ O, help ho! Light! A surgeon!
 
 <speaker>OTHELLO,</speaker>
 [<i>aside</i>]
-'Tis he! O brave Iago, honest and just,
-That hast such noble sense of thy friend's wrong!
+&rsquo;Tis he! O brave Iago, honest and just,
+That hast such noble sense of thy friend&rsquo;s wrong!
 Thou teachest me.--Minion, your dear lies dead,
 And your unblest fate hies. Strumpet, I come.
 Forth of my heart those charms, thine eyes, are
 blotted.
-Thy bed, lust-stained, shall with lust's blood be
+Thy bed, lust-stained, shall with lust&rsquo;s blood be
 spotted.	[<i>Othello exits.</i>]
 
 [<i>Enter Lodovico and Gratiano.</i>]
@@ -5281,7 +5277,7 @@ spotted.	[<i>Othello exits.</i>]
 What ho! No watch? No passage? Murder, murder!
 
 <speaker>GRATIANO</speaker>
-'Tis some mischance. The voice is very direful.
+&rsquo;Tis some mischance. The voice is very direful.
 
 <speaker>CASSIO</speaker>
 O, help!
@@ -5293,8 +5289,8 @@ Hark!
 O wretched villain!
 
 <speaker>LODOVICO</speaker>
-Two or three groan. 'Tis heavy night.
-These may be counterfeits. Let's think 't unsafe
+Two or three groan. &rsquo;Tis heavy night.
+These may be counterfeits. Let&rsquo;s think &rsquo;t unsafe
 To come in to the cry without more help.
 
 <speaker>RODERIGO</speaker>
@@ -5306,11 +5302,11 @@ Nobody come? Then shall I bleed to death.
 Hark!
 
 <speaker>GRATIANO</speaker>
-Here's one comes in his shirt, with light and
+Here&rsquo;s one comes in his shirt, with light and
 weapons.
 
 <speaker>IAGO</speaker>
-Who's there? Whose noise is this that cries on
+Who&rsquo;s there? Whose noise is this that cries on
 murder?
 
 <speaker>LODOVICO</speaker>
@@ -5320,14 +5316,14 @@ We do not know.
 Did not you hear a cry?
 
 <speaker>CASSIO</speaker>
-Here, here! For heaven's sake, help me!
+Here, here! For heaven&rsquo;s sake, help me!
 
 <speaker>IAGO</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>GRATIANO,</speaker>
 [<i>to Lodovico</i>]
-This is Othello's ancient, as I take it.
+This is Othello&rsquo;s ancient, as I take it.
 
 <speaker>LODOVICO</speaker>
 The same indeed, a very valiant fellow.
@@ -5357,18 +5353,18 @@ Come in, and give some help.
 O, help me here!
 
 <speaker>CASSIO</speaker>
-That's one of them.
+That&rsquo;s one of them.
 
 <speaker>IAGO,</speaker>
 [<i>to Roderigo</i>]
-  O murd'rous slave! O villain!
+  O murd&rsquo;rous slave! O villain!
 [<i>He stabs Roderigo.</i>]
 
 <speaker>RODERIGO</speaker>
 O damned Iago! O inhuman dog!
 
 <speaker>IAGO</speaker>
-Kill men i' th' dark?--Where be these bloody
+Kill men i&rsquo; th&rsquo; dark?--Where be these bloody
 thieves?
 How silent is this town! Ho, murder, murder!--
 What may you be? Are you of good or evil?
@@ -5383,28 +5379,28 @@ Signior Lodovico?
 He, sir.
 
 <speaker>IAGO</speaker>
-I cry you mercy. Here's Cassio hurt by villains.
+I cry you mercy. Here&rsquo;s Cassio hurt by villains.
 
 <speaker>GRATIANO</speaker>
 Cassio?
 
 <speaker>IAGO</speaker>
-How is 't, brother?
+How is &rsquo;t, brother?
 
 <speaker>CASSIO</speaker>
 My leg is cut in two.
 
 <speaker>IAGO</speaker>
 Marry, heaven forbid!
-Light, gentlemen. I'll bind it with my shirt.
+Light, gentlemen. I&rsquo;ll bind it with my shirt.
 
 [<i>Enter Bianca.</i>]
 
 <speaker>BIANCA</speaker>
-What is the matter, ho? Who is 't that cried?
+What is the matter, ho? Who is &rsquo;t that cried?
 
 <speaker>IAGO</speaker>
-Who is 't that cried?
+Who is &rsquo;t that cried?
 
 <speaker>BIANCA</speaker>
 O, my dear Cassio,
@@ -5461,11 +5457,11 @@ How do you, Cassio?--O, a chair, a chair!
 Roderigo?
 
 <speaker>IAGO</speaker>
-He, he, 'tis he! [<i>A chair is brought in.</i>]
- O, that's well
+He, he, &rsquo;tis he! [<i>A chair is brought in.</i>]
+ O, that&rsquo;s well
 said; the chair.--
 Some good man bear him carefully from hence.
-I'll fetch the General's surgeon.-- For you, mistress,
+I&rsquo;ll fetch the General&rsquo;s surgeon.-- For you, mistress,
 Save you your labor.--He that lies slain here,
 Cassio,
 Was my dear friend. What malice was between you?
@@ -5475,7 +5471,7 @@ None in the world. Nor do I know the man.
 
 <speaker>IAGO,</speaker>
 [<i>to Bianca</i>]
-What, look you pale?--O, bear him out o' th' air.
+What, look you pale?--O, bear him out o&rsquo; th&rsquo; air.
 [<i>Cassio, in the chair, and Roderigo are carried off.</i>]
 [<i>To Gratiano and Lodovico.</i>]
  Stay you, good
@@ -5495,7 +5491,7 @@ husband?
 <speaker>IAGO</speaker>
 Cassio hath here been set on in the dark
 By Roderigo and fellows that are scaped.
-He's almost slain, and Roderigo dead.
+He&rsquo;s almost slain, and Roderigo dead.
 
 <speaker>EMILIA</speaker>
 Alas, good gentleman! Alas, good Cassio!
@@ -5523,8 +5519,8 @@ As you that thus abuse me.
 As I? Faugh! Fie upon thee!
 
 <speaker>IAGO</speaker>
-Kind gentlemen, let's go see poor Cassio dressed.--
-Come, mistress, you must tell 's another tale.--
+Kind gentlemen, let&rsquo;s go see poor Cassio dressed.--
+Come, mistress, you must tell &rsquo;s another tale.--
 Emilia, run you to the citadel
 And tell my lord and lady what hath happed.--
 Will you go on afore? [<i>Aside.</i>]
@@ -5539,20 +5535,20 @@ That either makes me or fordoes me quite.
 <speaker>OTHELLO</speaker>
 It is the cause, it is the cause, my soul.
 Let me not name it to you, you chaste stars.
-It is the cause. Yet I'll not shed her blood,
+It is the cause. Yet I&rsquo;ll not shed her blood,
 Nor scar that whiter skin of hers than snow,
 And smooth as monumental alabaster.
-Yet she must die, else she'll betray more men.
+Yet she must die, else she&rsquo;ll betray more men.
 Put out the light, and then put out the light.
 If I quench thee, thou flaming minister,
 I can again thy former light restore
 Should I repent me. But once put out thy light,
-Thou cunning'st pattern of excelling nature,
+Thou cunning&rsquo;st pattern of excelling nature,
 I know not where is that Promethean heat
 That can thy light relume. When I have plucked the
 rose,
 I cannot give it vital growth again.
-It needs must wither. I'll smell it on the tree.
+It needs must wither. I&rsquo;ll smell it on the tree.
 O balmy breath, that dost almost persuade
 Justice to break her sword! [<i>He kisses her.</i>]
  One
@@ -5560,12 +5556,12 @@ more, one more.
 Be thus when thou art dead, and I will kill thee
 And love thee after. One more, and this the last.
 [<i>He kisses her.</i>]
-So sweet was ne'er so fatal. I must weep,
-But they are cruel tears. This sorrow's heavenly:
+So sweet was ne&rsquo;er so fatal. I must weep,
+But they are cruel tears. This sorrow&rsquo;s heavenly:
 It strikes where it doth love. She wakes.
 
 <speaker>DESDEMONA</speaker>
-Who's there? Othello?
+Who&rsquo;s there? Othello?
 
 <speaker>OTHELLO</speaker>
 Ay, Desdemona.
@@ -5612,7 +5608,7 @@ If you say so, I hope you will not kill me.
 Humh.
 
 <speaker>DESDEMONA</speaker>
-And yet I fear you, for you're fatal then
+And yet I fear you, for you&rsquo;re fatal then
 When your eyes roll so. Why I should fear I know
 not,
 Since guiltiness I know not, but yet I feel I fear.
@@ -5627,7 +5623,7 @@ They are loves I bear to you.
 Ay, and for that thou diest.
 
 <speaker>DESDEMONA</speaker>
-That death's unnatural that kills for loving.
+That death&rsquo;s unnatural that kills for loving.
 Alas, why gnaw you so your nether lip?
 Some bloody passion shakes your very frame.
 These are portents, but yet I hope, I hope
@@ -5637,11 +5633,11 @@ They do not point on me.
 Peace, and be still.
 
 <speaker>DESDEMONA</speaker>
-I will so. What's the matter?
+I will so. What&rsquo;s the matter?
 
 <speaker>OTHELLO</speaker>
 That handkerchief
-Which I so loved, and gave thee, thou gav'st to
+Which I so loved, and gave thee, thou gav&rsquo;st to
 Cassio.
 
 <speaker>DESDEMONA</speaker>
@@ -5666,7 +5662,7 @@ That I do groan withal. Thou art to die.
 Then Lord have mercy on me!
 
 <speaker>OTHELLO</speaker>
-I say "Amen."
+I say "&ldquo;Amen.&rdquo;"
 
 <speaker>DESDEMONA</speaker>
 And have you mercy, too. I never did
@@ -5675,9 +5671,9 @@ But with such general warranty of heaven
 As I might love. I never gave him token.
 
 <speaker>OTHELLO</speaker>
-By heaven, I saw my handkerchief in 's hand!
+By heaven, I saw my handkerchief in &rsquo;s hand!
 O perjured woman, thou dost stone my heart
-And mak'st me call what I intend to do
+And mak&rsquo;st me call what I intend to do
 A murder, which I thought a sacrifice!
 I saw the handkerchief!
 
@@ -5706,7 +5702,7 @@ He will not say so.
 
 <speaker>OTHELLO</speaker>
 No. His mouth is stopped.
-Honest Iago hath ta'en order for 't.
+Honest Iago hath ta&rsquo;en order for &rsquo;t.
 
 <speaker>DESDEMONA</speaker>
 O, my fear interprets. What, is he dead?
@@ -5719,7 +5715,7 @@ Had stomach for them all.
 Alas, he is betrayed, and I undone.	[<i>She weeps.</i>]
 
 <speaker>OTHELLO</speaker>
-Out, strumpet! Weep'st thou for him to my face?
+Out, strumpet! Weep&rsquo;st thou for him to my face?
 
 <speaker>DESDEMONA</speaker>
 O banish me, my lord, but kill me not!
@@ -5761,7 +5757,7 @@ So, so.
   What, ho! My lord, my lord!
 
 <speaker>OTHELLO</speaker>
-Who's
+Who&rsquo;s
 there?
 
 <speaker>EMILIA,</speaker>
@@ -5769,16 +5765,16 @@ there?
 O, good my lord, I would speak a word with you.
 
 <speaker>OTHELLO</speaker>
-Yes. 'Tis Emilia.--By and by.--She's dead.
-'Tis like she comes to speak of Cassio's death.
+Yes. &rsquo;Tis Emilia.--By and by.--She&rsquo;s dead.
+&rsquo;Tis like she comes to speak of Cassio&rsquo;s death.
 The noise was here. Ha, no more moving?
-Still as the grave. Shall she come in? Were 't good?
-I think she stirs again. No. What's best to do?
-If she come in, she'll sure speak to my wife.
+Still as the grave. Shall she come in? Were &rsquo;t good?
+I think she stirs again. No. What&rsquo;s best to do?
+If she come in, she&rsquo;ll sure speak to my wife.
 My wife, my wife! What wife? I have no wife.
 O insupportable! O heavy hour!
 Methinks it should be now a huge eclipse
-Of sun and moon, and that th' affrighted globe
+Of sun and moon, and that th&rsquo; affrighted globe
 Should yawn at alteration.
 
 <speaker>EMILIA,</speaker>
@@ -5793,10 +5789,10 @@ Where art thou?
 
 [<i>Enter Emilia.</i>]
 
-What's the matter with thee now?
+What&rsquo;s the matter with thee now?
 
 <speaker>EMILIA</speaker>
-O, my good lord, yonder's foul murders done.
+O, my good lord, yonder&rsquo;s foul murders done.
 
 <speaker>OTHELLO</speaker>
 What? Now?
@@ -5820,7 +5816,7 @@ Roderigo killed? And Cassio killed?
 No, Cassio is not killed.
 
 <speaker>OTHELLO</speaker>
-Not Cassio killed? Then murder's out of tune,
+Not Cassio killed? Then murder&rsquo;s out of tune,
 And sweet revenge grows harsh.
 
 <speaker>DESDEMONA</speaker>
@@ -5833,7 +5829,7 @@ O Lord, what cry is that?
 That? What?
 
 <speaker>EMILIA</speaker>
-Out, and alas, that was my lady's voice!
+Out, and alas, that was my lady&rsquo;s voice!
 Help! Help ho! Help! O lady, speak again!
 Sweet Desdemona, O sweet mistress, speak!
 
@@ -5862,8 +5858,8 @@ You heard her say herself, it was not I.
 She said so. I must needs report the truth.
 
 <speaker>OTHELLO</speaker>
-She's like a liar gone to burning hell!
-'Twas I that killed her.
+She&rsquo;s like a liar gone to burning hell!
+&rsquo;Twas I that killed her.
 
 <speaker>EMILIA</speaker>
 O, the more angel she, and you the blacker devil!
@@ -5900,13 +5896,13 @@ That she was false to wedlock?
 Ay, with Cassio. Had she been true,
 If heaven would make me such another world
 Of one entire and perfect chrysolite,
-I'd not have sold her for it.
+I&rsquo;d not have sold her for it.
 
 <speaker>EMILIA</speaker>
 My husband?
 
 <speaker>OTHELLO</speaker>
-Ay, 'twas he that told me on her first.
+Ay, &rsquo;twas he that told me on her first.
 An honest man he is, and hates the slime
 That sticks on filthy deeds.
 
@@ -5928,7 +5924,7 @@ My friend, thy husband; honest, honest Iago.
 
 <speaker>EMILIA</speaker>
 If he say so, may his pernicious soul
-Rot half a grain a day! He lies to th' heart!
+Rot half a grain a day! He lies to th&rsquo; heart!
 She was too fond of her most filthy bargain.
 [<i>He draws his sword.</i>]
 
@@ -5947,7 +5943,7 @@ Peace, you were best!
 Thou hast not half that power to do me harm
 As I have to be hurt. O gull! O dolt,
 As ignorant as dirt! Thou hast done a deed--
-I care not for thy sword. I'll make thee known,
+I care not for thy sword. I&rsquo;ll make thee known,
 Though I lost twenty lives. Help! Help, ho! Help!
 The Moor hath killed my mistress! Murder, murder!
 
@@ -5965,9 +5961,9 @@ What is the matter?
 
 <speaker>EMILIA,</speaker>
 [<i>to Iago</i>]
-Disprove this villain, if thou be'st a man.
-He says thou told'st him that his wife was false.
-I know thou didst not. Thou 'rt not such a villain.
+Disprove this villain, if thou be&rsquo;st a man.
+He says thou told&rsquo;st him that his wife was false.
+I know thou didst not. Thou &rsquo;rt not such a villain.
 Speak, for my heart is full.
 
 <speaker>IAGO</speaker>
@@ -6003,15 +5999,15 @@ And your reports have set the murder on!
 Nay, stare not, masters; it is true indeed.
 
 <speaker>GRATIANO</speaker>
-'Tis a strange truth.
+&rsquo;Tis a strange truth.
 
 <speaker>MONTANO</speaker>
 O monstrous act!
 
 <speaker>EMILIA</speaker>
 Villainy, villainy, villainy!
-I think upon 't, I think! I smell 't! O villainy!
-I thought so then. I'll kill myself for grief!
+I think upon &rsquo;t, I think! I smell &rsquo;t! O villainy!
+I thought so then. I&rsquo;ll kill myself for grief!
 O villainy! Villainy!
 
 <speaker>IAGO</speaker>
@@ -6019,8 +6015,8 @@ What, are you mad? I charge you get you home.
 
 <speaker>EMILIA</speaker>
 Good gentlemen, let me have leave to speak.
-'Tis proper I obey him, but not now.
-Perchance, Iago, I will ne'er go home.
+&rsquo;Tis proper I obey him, but not now.
+Perchance, Iago, I will ne&rsquo;er go home.
 
 <speaker>OTHELLO</speaker>
 O, O, O!	[<i>Othello falls on the bed.</i>]
@@ -6028,7 +6024,7 @@ O, O, O!	[<i>Othello falls on the bed.</i>]
 <speaker>EMILIA</speaker>
 Nay, lay thee down, and roar!
 For thou hast killed the sweetest innocent
-That e'er did lift up eye.
+That e&rsquo;er did lift up eye.
 
 <speaker>OTHELLO,</speaker>
 [<i>standing</i>]
@@ -6039,7 +6035,7 @@ stopped.
 I know this act shows horrible and grim.
 
 <speaker>GRATIANO</speaker>
-Poor Desdemon, I am glad thy father's dead.
+Poor Desdemon, I am glad thy father&rsquo;s dead.
 Thy match was mortal to him, and pure grief
 Shore his old thread in twain. Did he live now,
 This sight would make him do a desperate turn,
@@ -6047,7 +6043,7 @@ Yea, curse his better angel from his side,
 And fall to reprobance.
 
 <speaker>OTHELLO</speaker>
-'Tis pitiful. But yet Iago knows
+&rsquo;Tis pitiful. But yet Iago knows
 That she with Cassio hath the act of shame
 A thousand times committed. Cassio confessed it,
 And she did gratify his amorous works
@@ -6063,10 +6059,10 @@ O God! O heavenly God!
 Zounds, hold your peace!
 
 <speaker>EMILIA</speaker>
-'Twill out, 'twill out. I peace?
+&rsquo;Twill out, &rsquo;twill out. I peace?
 No, I will speak as liberal as the north.
 Let heaven and men and devils, let them all,
-All, all, cry shame against me, yet I'll speak.
+All, all, cry shame against me, yet I&rsquo;ll speak.
 
 <speaker>IAGO</speaker>
 Be wise, and get you home.
@@ -6079,19 +6075,19 @@ I will not.
 Fie, your sword upon a woman!
 
 <speaker>EMILIA</speaker>
-O thou dull Moor, that handkerchief thou speak'st
+O thou dull Moor, that handkerchief thou speak&rsquo;st
 of
 I found by fortune, and did give my husband--
 For often, with a solemn earnestness
 (More than indeed belonged to such a trifle),
-He begged of me to steal 't.
+He begged of me to steal &rsquo;t.
 
 <speaker>IAGO</speaker>
 Villainous whore!
 
 <speaker>EMILIA</speaker>
 She give it Cassio? No, alas, I found it,
-And I did give 't my husband.
+And I did give &rsquo;t my husband.
 
 <speaker>IAGO</speaker>
 Filth, thou liest!
@@ -6099,7 +6095,7 @@ Filth, thou liest!
 <speaker>EMILIA</speaker>
 By heaven, I do not, I do not, gentlemen!
 [<i>To Othello.</i>]
- O murd'rous coxcomb, what should
+ O murd&rsquo;rous coxcomb, what should
 such a fool
 Do with so good a wife?
 
@@ -6113,17 +6109,17 @@ But what serves for the thunder?--Precious villain!
 The woman falls! Sure he hath killed his wife.
 
 <speaker>EMILIA</speaker>
-Ay, ay! O, lay me by my mistress' side.	[<i>Iago exits.</i>]
+Ay, ay! O, lay me by my mistress&rsquo; side.	[<i>Iago exits.</i>]
 
 <speaker>GRATIANO</speaker>
-He's gone, but his wife's killed.
+He&rsquo;s gone, but his wife&rsquo;s killed.
 
 <speaker>MONTANO</speaker>
-'Tis a notorious villain. Take you this weapon
+&rsquo;Tis a notorious villain. Take you this weapon
 Which I have here recovered from the Moor.
 Come, guard the door without. Let him not pass,
-But kill him rather. I'll after that same villain,
-For 'tis a damned slave.
+But kill him rather. I&rsquo;ll after that same villain,
+For &rsquo;tis a damned slave.
 [<i>Montano and Gratiano exit.</i>]
 
 <speaker>OTHELLO</speaker>
@@ -6144,7 +6140,7 @@ So speaking as I think, alas, I die. 	[<i>She dies.</i>]
 
 <speaker>OTHELLO</speaker>
 I have another weapon in this chamber.
-It is a sword of Spain, the ice brook's temper.
+It is a sword of Spain, the ice brook&rsquo;s temper.
 O, here it is.--Uncle, I must come forth.
 
 <speaker>GRATIANO,</speaker>
@@ -6164,16 +6160,16 @@ What is the matter?
 <speaker>OTHELLO</speaker>
 Behold, I have a weapon.
 A better never did itself sustain
-Upon a soldier's thigh. I have seen the day
+Upon a soldier&rsquo;s thigh. I have seen the day
 That with this little arm and this good sword
 I have made my way through more impediments
 Than twenty times your stop. But--O vain boast!--
-Who can control his fate? 'Tis not so now.
+Who can control his fate? &rsquo;Tis not so now.
 Be not afraid, though you do see me weaponed.
-Here is my journey's end, here is my butt
+Here is my journey&rsquo;s end, here is my butt
 And very sea-mark of my utmost sail.
-Do you go back dismayed? 'Tis a lost fear.
-Man but a rush against Othello's breast,
+Do you go back dismayed? &rsquo;Tis a lost fear.
+Man but a rush against Othello&rsquo;s breast,
 And he retires. Where should Othello go?
 [<i>He looks toward the bed.</i>]
 Now, how dost thou look now? O ill-starred wench,
@@ -6194,15 +6190,15 @@ with Officers.</i>]
 Where is this rash and most unfortunate man?
 
 <speaker>OTHELLO</speaker>
-That's he that was Othello. Here I am.
+That&rsquo;s he that was Othello. Here I am.
 
 <speaker>LODOVICO</speaker>
 Where is that viper? Bring the villain forth.
 [<i>Iago is brought forward.</i>]
 
 <speaker>OTHELLO</speaker>
-I look down towards his feet; but that's a fable.--
-If that thou be'st a devil, I cannot kill thee.
+I look down towards his feet; but that&rsquo;s a fable.--
+If that thou be&rsquo;st a devil, I cannot kill thee.
 [<i>He stabs Iago.</i>]
 
 <speaker>LODOVICO</speaker>
@@ -6213,12 +6209,12 @@ Wrench his sword from him.
 I bleed, sir, but not killed.
 
 <speaker>OTHELLO</speaker>
-I am not sorry neither. I'd have thee live,
-For in my sense 'tis happiness to die.
+I am not sorry neither. I&rsquo;d have thee live,
+For in my sense &rsquo;tis happiness to die.
 
 <speaker>LODOVICO</speaker>
 O thou Othello, that wert once so good,
-Fall'n in the practice of a damned slave,
+Fall&rsquo;n in the practice of a damned slave,
 What shall be said to thee?
 
 <speaker>OTHELLO</speaker>
@@ -6228,7 +6224,7 @@ For naught I did in hate, but all in honor.
 
 <speaker>LODOVICO</speaker>
 This wretch hath part confessed his villainy.
-Did you and he consent in Cassio's death?
+Did you and he consent in Cassio&rsquo;s death?
 
 <speaker>OTHELLO</speaker>
 Ay.
@@ -6256,7 +6252,7 @@ Well, thou dost best.
 
 <speaker>LODOVICO</speaker>
 Sir,
-You shall understand what hath befall'n,
+You shall understand what hath befall&rsquo;n,
 Which, as I think, you know not. Here is a letter
 Found in the pocket of the slain Roderigo,
 And here another. [<i>He shows papers.</i>]
@@ -6272,16 +6268,16 @@ O villain!
 Most heathenish and most gross.
 
 <speaker>LODOVICO</speaker>
-Now here's another discontented paper
+Now here&rsquo;s another discontented paper
 Found in his pocket, too; and this it seems
-Roderigo meant t' have sent this damned villain,
+Roderigo meant t&rsquo; have sent this damned villain,
 But that, belike, Iago in the interim
 Came in and satisfied him.
 
 <speaker>OTHELLO</speaker>
 O, thou pernicious caitiff!--
 How came you, Cassio, by that handkerchief
-That was my wife's?
+That was my wife&rsquo;s?
 
 <speaker>CASSIO</speaker>
 I found it in my chamber.
@@ -6293,7 +6289,7 @@ Which wrought to his desire.
 O fool, fool, fool!
 
 <speaker>CASSIO</speaker>
-There is besides, in Roderigo's letter,
+There is besides, in Roderigo&rsquo;s letter,
 How he upbraids Iago, that he made him
 Brave me upon the watch, whereon it came
 That I was cast. And even but now he spake,
@@ -6314,7 +6310,7 @@ To the Venetian state.--Come, bring away.
 <speaker>OTHELLO</speaker>
 Soft you. A word or two before you go.
 I have done the state some service, and they
-know 't.
+know &rsquo;t.
 No more of that. I pray you in your letters,
 When you shall these unlucky deeds relate,
 Speak of me as I am. Nothing extenuate,
@@ -6331,7 +6327,7 @@ Their medicinable gum. Set you down this.
 And say besides, that in Aleppo once,
 Where a malignant and a turbanned Turk
 Beat a Venetian and traduced the state,
-I took by th' throat the circumcised dog,
+I took by th&rsquo; throat the circumcised dog,
 And smote him, thus.	[<i>He stabs himself.</i>]
 
 <speaker>LODOVICO</speaker>

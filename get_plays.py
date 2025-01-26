@@ -10,24 +10,6 @@ def clone_repo():
 def ensure_plays_dir():
     os.makedirs("plays", exist_ok=True)
 
-def extract_character_names(content):
-    # Find the CHARACTERS or DRAMATIS PERSONAE section up to ACT 1
-    start_pattern = r'(CHARACTERS|DRAMATIS PERSONAE)'
-    end_pattern = r'ACT 1'
-    
-    match = re.search(f'{start_pattern}(.*?){end_pattern}', content, re.DOTALL)
-    if not match:
-        return set()
-    
-    # Get the characters section
-    characters_section = match.group(1)
-    
-    # Find all uppercase words/phrases (2 or more uppercase letters)
-    names = re.findall(r'^([A-Z][A-Z ]+)(?=\s|$)', characters_section, re.MULTILINE)
-    
-    # Clean up and return as set for efficient lookup
-    return {name.strip() for name in names if name.strip()}
-
 def process_content(content):
     # Split content into credits and main text
     credits_match = re.search(r'^(.*?)(Characters in the Play|CHARACTERS|DRAMATIS PERSONAE)', content, re.DOTALL)
@@ -36,6 +18,17 @@ def process_content(content):
         content = content[credits_match.start(2):]  # Start from characters section
     else:
         credits = ""
+    
+    # Find the start of Act 1 (case and spacing insensitive)
+    act1_match = re.search(r'\b[Aa][Cc][Tt]\s*[1I]\b', content)
+    if act1_match:
+        # Keep only content from Act 1 onwards
+        content = content[act1_match.start():]
+    
+    # Replace quotes based on context (before any HTML is added)
+    content = re.sub(r'(?:^|\s)"', r'\g<0>&ldquo;', content)  # Quote after space or start of line
+    content = re.sub(r'"(?=$|\s|[.,!?;])', r'&rdquo;\g<0>', content)  # Quote before space or punctuation
+    content = content.replace("'", "&rsquo;")  # Single quotes/apostrophes
     
     # Replace special characters in both parts
     credits = credits.replace('`', '\\`').replace('$', '\\$')
@@ -56,7 +49,7 @@ def process_content(content):
     seen_first_hr = False
     
     while i < len(lines):
-        line = lines[i].strip()  # Strip whitespace from both ends
+        line = lines[i]
         
         # Check if this is the first hr that marks the start of the play proper
         if '<hr>' in line:
@@ -174,6 +167,29 @@ def process_content(content):
                     r'\n\n\2\n\3', 
                     content)
     
+    # Now handle indented character names in the character list section
+    lines = content.split('\n')
+    processed_lines = []
+    hr_count = 0
+    
+    for line in lines:
+        if '<hr>' in line:
+            hr_count += 1
+            processed_lines.append(line)
+            continue
+            
+        # Only process lines between first and second <hr>
+        if hr_count == 1:
+            print(line)
+            # Check if line starts with whitespace
+            if line.startswith((' ', '\t')):
+                # Replace leading whitespace with " - "
+                line = " - " + line.lstrip()
+        
+        processed_lines.append(line)
+    
+    content = '\n'.join(processed_lines)
+    
     return credits, content
 
 def format_plays():
@@ -213,6 +229,20 @@ def format_plays():
                 f.write('export const text = `' + processed_content + '`;')
 
 def main():
+    """Process Shakespeare plays from the shakespeare-dataset repository into JS modules.
+    
+    Usage:
+        python get_plays.py [options]
+        
+    Options:
+        --no-clone    Skip cloning the repository (use existing shakespeare-dataset)
+        --keep        Keep the shakespeare-dataset directory after processing
+        
+    By default, the script will:
+        1. Clone the shakespeare-dataset repository
+        2. Process all plays into JS modules in the 'plays' directory
+        3. Remove the shakespeare-dataset directory when done
+    """
     parser = argparse.ArgumentParser(description='Process Shakespeare plays into JS modules')
     parser.add_argument('--no-clone', action='store_true', 
                       help='Skip cloning the repository (use existing shakespeare-dataset)')

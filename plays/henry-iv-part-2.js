@@ -55,11 +55,11 @@ And, in the fortune of my lord your son,
 Prince Harry slain outright; and both the Blunts
 Killed by the hand of Douglas; young Prince John
 And Westmoreland and Stafford fled the field;
-And Harry Monmouth's brawn, the hulk Sir John,
+And Harry Monmouth&rsquo;s brawn, the hulk Sir John,
 Is prisoner to your son. O, such a day,
 So fought, so followed, and so fairly won,
 Came not till now to dignify the times
-Since Caesar's fortunes.
+Since Caesar&rsquo;s fortunes.
 
 NORTHUMBERLAND  How is this derived?
 Saw you the field? Came you from Shrewsbury?
@@ -92,7 +92,7 @@ That stopped by me to breathe his bloodied horse.
 He asked the way to Chester, and of him
 I did demand what news from Shrewsbury.
 He told me that rebellion had bad luck
-And that young Harry Percy's spur was cold.
+And that young Harry Percy&rsquo;s spur was cold.
 With that he gave his able horse the head
 And, bending forward, struck his armed heels
 Against the panting sides of his poor jade
@@ -101,21 +101,21 @@ He seemed in running to devour the way,
 Staying no longer question.
 
 NORTHUMBERLAND  Ha? Again:
-Said he young Harry Percy's spur was cold?
+Said he young Harry Percy&rsquo;s spur was cold?
 Of Hotspur, Coldspur? That rebellion
 Had met ill luck?
 
-LORD BARDOLPH  My lord, I'll tell you what:
+LORD BARDOLPH  My lord, I&rsquo;ll tell you what:
 If my young lord your son have not the day,
 Upon mine honor, for a silken point
-I'll give my barony. Never talk of it.
+I&rsquo;ll give my barony. Never talk of it.
 
 NORTHUMBERLAND
 Why should that gentleman that rode by Travers
 Give then such instances of loss?
 
 LORD BARDOLPH  Who, he?
-He was some hilding fellow that had stol'n
+He was some hilding fellow that had stol&rsquo;n
 The horse he rode on and, upon my life,
 Spoke at a venture.
 
@@ -124,7 +124,7 @@ Spoke at a venture.
 Look, here comes more news.
 
 NORTHUMBERLAND
-Yea, this man's brow, like to a title leaf,
+Yea, this man&rsquo;s brow, like to a title leaf,
 Foretells the nature of a tragic volume.
 So looks the strand whereon the imperious flood
 Hath left a witnessed usurpation.--
@@ -140,16 +140,16 @@ Thou tremblest, and the whiteness in thy cheek
 Is apter than thy tongue to tell thy errand.
 Even such a man, so faint, so spiritless,
 So dull, so dead in look, so woebegone,
-Drew Priam's curtain in the dead of night
+Drew Priam&rsquo;s curtain in the dead of night
 And would have told him half his Troy was burnt;
 But Priam found the fire ere he his tongue,
-And I my Percy's death ere thou report'st it.
-This thou wouldst say: "Your son did thus and thus;
+And I my Percy&rsquo;s death ere thou report&rsquo;st it.
+This thou wouldst say: "&ldquo;Your son did thus and thus;
 Your brother thus; so fought the noble Douglas"--
 Stopping my greedy ear with their bold deeds.
 But in the end, to stop my ear indeed,
 Thou hast a sigh to blow away this praise,
-Ending with "Brother, son, and all are dead."
+Ending with "&ldquo;Brother, son, and all are dead.&rdquo;"
 
 MORTON
 Douglas is living, and your brother yet,
@@ -158,7 +158,7 @@ But for my lord your son--
 NORTHUMBERLAND  Why, he is dead.
 See what a ready tongue suspicion hath!
 He that but fears the thing he would not know
-Hath, by instinct, knowledge from others' eyes
+Hath, by instinct, knowledge from others&rsquo; eyes
 That what he feared is chanced. Yet speak,
 Morton.
 Tell thou an earl his divination lies,
@@ -170,9 +170,9 @@ You are too great to be by me gainsaid,
 Your spirit is too true, your fears too certain.
 
 NORTHUMBERLAND
-Yet, for all this, say not that Percy's dead.
+Yet, for all this, say not that Percy&rsquo;s dead.
 I see a strange confession in thine eye.
-Thou shak'st thy head and hold'st it fear or sin
+Thou shak&rsquo;st thy head and hold&rsquo;st it fear or sin
 To speak a truth. If he be slain, say so.
 The tongue offends not that reports his death;
 And he doth sin that doth belie the dead,
@@ -189,7 +189,7 @@ MORTON, [<i>to Northumberland</i>]
 I am sorry I should force you to believe
 That which I would to God I had not seen,
 But these mine eyes saw him in bloody state,
-Rend'ring faint quittance, wearied and outbreathed,
+Rend&rsquo;ring faint quittance, wearied and outbreathed,
 To Harry Monmouth, whose swift wrath beat down
 The never-daunted Percy to the earth,
 From whence with life he never more sprung up.
@@ -200,16 +200,16 @@ From the best-tempered courage in his troops;
 For from his mettle was his party steeled,
 Which, once in him abated, all the rest
 Turned on themselves, like dull and heavy lead.
-And as the thing that's heavy in itself
+And as the thing that&rsquo;s heavy in itself
 Upon enforcement flies with greatest speed,
-So did our men, heavy in Hotspur's loss,
+So did our men, heavy in Hotspur&rsquo;s loss,
 Lend to this weight such lightness with their fear
 That arrows fled not swifter toward their aim
 Than did our soldiers, aiming at their safety,
 Fly from the field. Then was that noble Worcester
-So soon ta'en prisoner; and that furious Scot,
+So soon ta&rsquo;en prisoner; and that furious Scot,
 The bloody Douglas, whose well-laboring sword
-Had three times slain th' appearance of the King,
+Had three times slain th&rsquo; appearance of the King,
 Gan vail his stomach and did grace the shame
 Of those that turned their backs and in his flight,
 Stumbling in fear, was took. The sum of all
@@ -226,7 +226,7 @@ Being sick, have in some measure made me well.
 And as the wretch whose fever-weakened joints,
 Like strengthless hinges, buckle under life,
 Impatient of his fit, breaks like a fire
-Out of his keeper's arms, even so my limbs,
+Out of his keeper&rsquo;s arms, even so my limbs,
 Weakened with grief, being now enraged with
 grief,
 Are thrice themselves. Hence therefore, thou
@@ -237,9 +237,9 @@ coif.	[<i>He removes his kerchief.</i>]
 Thou art a guard too wanton for the head
 Which princes, fleshed with conquest, aim to hit.
 Now bind my brows with iron, and approach
-The ragged'st hour that time and spite dare bring
-To frown upon th' enraged Northumberland.
-Let heaven kiss Earth! Now let not Nature's hand
+The ragged&rsquo;st hour that time and spite dare bring
+To frown upon th&rsquo; enraged Northumberland.
+Let heaven kiss Earth! Now let not Nature&rsquo;s hand
 Keep the wild flood confined. Let order die,
 And let this world no longer be a stage
 To feed contention in a lingering act;
@@ -254,53 +254,53 @@ This strained passion doth you wrong, my lord.
 MORTON
 Sweet earl, divorce not wisdom from your honor.
 The lives of all your loving complices
-Lean on your health, the which, if you give o'er
+Lean on your health, the which, if you give o&rsquo;er
 To stormy passion, must perforce decay.
-You cast th' event of war, my noble lord,
+You cast th&rsquo; event of war, my noble lord,
 And summed the accompt of chance before you
 said
-"Let us make head." It was your presurmise
+"&ldquo;Let us make head.&rdquo;" It was your presurmise
 That in the dole of blows your son might drop.
-You knew he walked o'er perils on an edge,
-More likely to fall in than to get o'er.
+You knew he walked o&rsquo;er perils on an edge,
+More likely to fall in than to get o&rsquo;er.
 You were advised his flesh was capable
 Of wounds and scars, and that his forward spirit
 Would lift him where most trade of danger
 ranged.
-Yet did you say "Go forth," and none of this,
+Yet did you say "&ldquo;Go forth,&rdquo;" and none of this,
 Though strongly apprehended, could restrain
-The stiff-borne action. What hath then befall'n,
+The stiff-borne action. What hath then befall&rsquo;n,
 Or what did this bold enterprise bring forth,
 More than that being which was like to be?
 
 LORD BARDOLPH
 We all that are engaged to this loss
 Knew that we ventured on such dangerous seas
-That if we wrought out life, 'twas ten to one;
+That if we wrought out life, &rsquo;twas ten to one;
 And yet we ventured, for the gain proposed
 Choked the respect of likely peril feared;
-And since we are o'erset, venture again.
+And since we are o&rsquo;erset, venture again.
 Come, we will all put forth, body and goods.
 
 MORTON
-'Tis more than time.--And, my most noble lord,
+&rsquo;Tis more than time.--And, my most noble lord,
 I hear for certain, and dare speak the truth:
 The gentle Archbishop of York is up
 With well-appointed powers. He is a man
 Who with a double surety binds his followers.
 My lord your son had only but the corpse,
 But shadows and the shows of men, to fight;
-For that same word "rebellion" did divide
+For that same word "&ldquo;rebellion&rdquo;" did divide
 The action of their bodies from their souls,
 And they did fight with queasiness, constrained,
 As men drink potions, that their weapons only
 Seemed on our side. But, for their spirits and
 souls,
-This word "rebellion," it had froze them up
+This word "&ldquo;rebellion,&rdquo;" it had froze them up
 As fish are in a pond. But now the Bishop
 Turns insurrection to religion.
 Supposed sincere and holy in his thoughts,
-He's followed both with body and with mind,
+He&rsquo;s followed both with body and with mind,
 And doth enlarge his rising with the blood
 Of fair King Richard, scraped from Pomfret
 stones;
@@ -351,12 +351,12 @@ juvenal, the Prince your master, whose chin is not
 yet fledge--I will sooner have a beard grow in the
 palm of my hand than he shall get one off his cheek,
 and yet he will not stick to say his face is a face
-royal. God may finish it when He will. 'Tis not a hair
+royal. God may finish it when He will. &rsquo;Tis not a hair
 amiss yet. He may keep it still at a face royal, for a
 barber shall never earn sixpence out of it, and yet
-he'll be crowing as if he had writ man ever since his
+he&rsquo;ll be crowing as if he had writ man ever since his
 father was a bachelor. He may keep his own grace,
-but he's almost out of mine, I can assure him. What
+but he&rsquo;s almost out of mine, I can assure him. What
 said Master Dommelton about the satin for my
 short cloak and my slops?
 
@@ -375,20 +375,20 @@ and bunches of keys at their girdles; and if a man is
 through with them in honest taking up, then they
 must stand upon security. I had as lief they would
 put ratsbane in my mouth as offer to stop it with
-"security." I looked he should have sent me two-and-twenty
+"&ldquo;security.&rdquo;" I looked he should have sent me two-and-twenty
 yards of satin, as I am a true knight, and
-he sends me "security." Well, he may sleep in
+he sends me "&ldquo;security.&rdquo;" Well, he may sleep in
 security, for he hath the horn of abundance, and the
 lightness of his wife shines through it, and yet
 cannot he see though he have his own lantern to
-light him. Where's Bardolph?
+light him. Where&rsquo;s Bardolph?
 
 <speaker>PAGE</speaker>
-He's gone in Smithfield to buy your Worship a
+He&rsquo;s gone in Smithfield to buy your Worship a
 horse.
 
 <speaker>FALSTAFF</speaker>
-I bought him in Paul's, and he'll buy me a
+I bought him in Paul&rsquo;s, and he&rsquo;ll buy me a
 horse in Smithfield. An I could get me but a wife in
 the stews, I were manned, horsed, and wived.
 
@@ -406,10 +406,10 @@ Wait close. I will not see him.
 
 <speaker>CHIEF JUSTICE,</speaker>
 [<i>to Servant</i>]
-  What's he that goes there?
+  What&rsquo;s he that goes there?
 
 <speaker>SERVANT</speaker>
-Falstaff, an 't please your Lordship.
+Falstaff, an &rsquo;t please your Lordship.
 
 <speaker>CHIEF JUSTICE</speaker>
 He that was in question for the robbery?
@@ -437,7 +437,7 @@ anything good.--Go pluck him by the elbow. I must
 speak with him.
 
 <speaker>SERVANT,</speaker>
-[<i>plucking Falstaff's sleeve</i>]
+[<i>plucking Falstaff&rsquo;s sleeve</i>]
   Sir John!
 
 <speaker>FALSTAFF</speaker>
@@ -465,8 +465,8 @@ an honest man.
 
 <speaker>FALSTAFF</speaker>
 I give thee leave to tell me so? I lay aside that
-which grows to me? If thou gett'st any leave of me,
-hang me; if thou tak'st leave, thou wert better be
+which grows to me? If thou gett&rsquo;st any leave of me,
+hang me; if thou tak&rsquo;st leave, thou wert better be
 hanged. You hunt counter. Hence! Avaunt!
 
 <speaker>SERVANT</speaker>
@@ -491,7 +491,7 @@ Sir John, I sent for you before your
 expedition to Shrewsbury.
 
 <speaker>FALSTAFF</speaker>
-An 't please your Lordship, I hear his Majesty
+An &rsquo;t please your Lordship, I hear his Majesty
 is returned with some discomfort from Wales.
 
 <speaker>CHIEF JUSTICE</speaker>
@@ -508,7 +508,7 @@ speak with you.
 
 <speaker>FALSTAFF</speaker>
 This apoplexy, as I take it, is a kind of
-lethargy, an 't please your Lordship, a kind of
+lethargy, an &rsquo;t please your Lordship, a kind of
 sleeping in the blood, a whoreson tingling.
 
 <speaker>CHIEF JUSTICE</speaker>
@@ -524,7 +524,7 @@ I think you are fallen into the disease,
 for you hear not what I say to you.
 
 <speaker>FALSTAFF</speaker>
-Very well, my lord, very well. Rather, an 't
+Very well, my lord, very well. Rather, an &rsquo;t
 please you, it is the disease of not listening, the
 malady of not marking, that I am troubled withal.
 
@@ -574,10 +574,10 @@ fellow with the great belly, and he my dog.
 
 <speaker>CHIEF JUSTICE</speaker>
 Well, I am loath to gall a new-healed
-wound. Your day's service at Shrewsbury hath a
-little gilded over your night's exploit on Gad's Hill.
-You may thank th' unquiet time for your quiet
-o'erposting that action.
+wound. Your day&rsquo;s service at Shrewsbury hath a
+little gilded over your night&rsquo;s exploit on Gad&rsquo;s Hill.
+You may thank th&rsquo; unquiet time for your quiet
+o&rsquo;erposting that action.
 
 <speaker>FALSTAFF</speaker>
 My lord.
@@ -613,7 +613,7 @@ Not so, my lord. Your ill angel is light, but I
 hope he that looks upon me will take me without
 weighing. And yet in some respects I grant I cannot
 go. I cannot tell. Virtue is of so little regard in these
-costermongers' times that true valor is turned bearherd;
+costermongers&rsquo; times that true valor is turned bearherd;
 pregnancy is made a tapster, and hath his
 quick wit wasted in giving reckonings. All the other
 gifts appurtenant to man, as the malice of this age
@@ -725,7 +725,7 @@ the first white hair of my chin. About it. You
 know where to find me. [<i>Page exits.</i>]
  A pox of this
 gout! Or a gout of this pox, for the one or the other
-plays the rogue with my great toe. 'Tis no matter if I
+plays the rogue with my great toe. &rsquo;Tis no matter if I
 do halt. I have the wars for my color, and my
 pension shall seem the more reasonable. A good wit
 will make use of anything. I will turn diseases to
@@ -734,7 +734,7 @@ commodity.
 
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Enter th' Archbishop of York, Thomas Mowbray (Earl
+[<i>Enter th&rsquo; Archbishop of York, Thomas Mowbray (Earl
 Marshal), the Lord Hastings, and Lord Bardolph.</i>]
 
 <speaker>ARCHBISHOP</speaker>
@@ -767,7 +767,7 @@ May hold up head without Northumberland.
 With him we may.
 
 <speaker>LORD BARDOLPH</speaker>
-Yea, marry, there's the point.
+Yea, marry, there&rsquo;s the point.
 But if without him we be thought too feeble,
 My judgment is we should not step too far
 Till we had his assistance by the hand.
@@ -776,13 +776,13 @@ Conjecture, expectation, and surmise
 Of aids incertain should not be admitted.
 
 <speaker>ARCHBISHOP</speaker>
-'Tis very true, Lord Bardolph, for indeed
-It was young Hotspur's cause at Shrewsbury.
+&rsquo;Tis very true, Lord Bardolph, for indeed
+It was young Hotspur&rsquo;s cause at Shrewsbury.
 
 <speaker>LORD BARDOLPH</speaker>
 It was, my lord; who lined himself with hope,
 Eating the air and promise of supply,
-Flatt'ring himself in project of a power
+Flatt&rsquo;ring himself in project of a power
 Much smaller than the smallest of his thoughts,
 And so, with great imagination
 Proper to madmen, led his powers to death
@@ -796,7 +796,7 @@ To lay down likelihoods and forms of hope.
 Yes, if this present quality of war --
 Indeed the instant action, a cause on foot--
 Lives so in hope, as in an early spring
-We see th' appearing buds, which to prove fruit
+We see th&rsquo; appearing buds, which to prove fruit
 Hope gives not so much warrant as despair
 That frosts will bite them. When we mean to build,
 We first survey the plot, then draw the model,
@@ -817,9 +817,9 @@ We fortify in paper and in figures,
 Using the names of men instead of men,
 Like one that draws the model of an house
 Beyond his power to build it, who, half through,
-Gives o'er and leaves his part-created cost
+Gives o&rsquo;er and leaves his part-created cost
 A naked subject to the weeping clouds
-And waste for churlish winter's tyranny.
+And waste for churlish winter&rsquo;s tyranny.
 
 <speaker>HASTINGS</speaker>
 Grant that our hopes, yet likely of fair birth,
@@ -871,19 +871,19 @@ Didst thou beat heaven with blessing Bolingbroke
 Before he was what thou wouldst have him be.
 And being now trimmed in thine own desires,
 Thou, beastly feeder, art so full of him
-That thou provok'st thyself to cast him up.
+That thou provok&rsquo;st thyself to cast him up.
 So, so, thou common dog, didst thou disgorge
 Thy glutton bosom of the royal Richard,
 And now thou wouldst eat thy dead vomit up
-And howl'st to find it. What trust is in these
+And howl&rsquo;st to find it. What trust is in these
 times?
 They that, when Richard lived, would have him die
 Are now become enamored on his grave.
-Thou, that threw'st dust upon his goodly head
+Thou, that threw&rsquo;st dust upon his goodly head
 When through proud London he came sighing on
-After th' admired heels of Bolingbroke,
-Criest now "O earth, yield us that king again,
-And take thou this!" O thoughts of men accursed!
+After th&rsquo; admired heels of Bolingbroke,
+Criest now "&ldquo;O earth, yield us that king again,
+And take thou this!&rdquo;" O thoughts of men accursed!
 Past and to come seems best; things present,
 worst.
 
@@ -891,7 +891,7 @@ worst.
 Shall we go draw our numbers and set on?
 
 <speaker>HASTINGS</speaker>
-We are time's subjects, and time bids begone.
+We are time&rsquo;s subjects, and time bids begone.
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -907,12 +907,12 @@ Master Fang, have you entered the action?
 It is entered.
 
 <speaker>HOSTESS</speaker>
-Where's your yeoman? Is 't a lusty yeoman?
-Will he stand to 't?
+Where&rsquo;s your yeoman? Is &rsquo;t a lusty yeoman?
+Will he stand to &rsquo;t?
 
 <speaker>FANG,</speaker>
 [<i>calling</i>]
-  Sirrah! Where's Snare?
+  Sirrah! Where&rsquo;s Snare?
 
 <speaker>HOSTESS</speaker>
 O Lord, ay, good Master Snare.
@@ -943,20 +943,20 @@ spare neither man, woman, nor child.
 If I can close with him, I care not for his thrust.
 
 <speaker>HOSTESS</speaker>
-No, nor I neither. I'll be at your elbow.
+No, nor I neither. I&rsquo;ll be at your elbow.
 
 <speaker>FANG</speaker>
 An I but fist him once, an he come but within my
 view--
 
 <speaker>HOSTESS</speaker>
-I am undone by his going. I warrant you, he's
+I am undone by his going. I warrant you, he&rsquo;s
 an infinitive thing upon my score. Good Master
 Fang, hold him sure. Good Master Snare, let him
-not 'scape. He comes continuantly to Pie Corner,
+not &rsquo;scape. He comes continuantly to Pie Corner,
 saving your manhoods, to buy a saddle, and he is
-indited to dinner to the Lubber's Head in Lumbert
-Street, to Master Smooth's the silkman. I pray you,
+indited to dinner to the Lubber&rsquo;s Head in Lumbert
+Street, to Master Smooth&rsquo;s the silkman. I pray you,
 since my exion is entered, and my case so openly
 known to the world, let him be brought in to his
 answer. A hundred mark is a long one for a poor
@@ -965,7 +965,7 @@ and borne, and have been fubbed off, and fubbed
 off, and fubbed off from this day to that day, that it is
 a shame to be thought on. There is no honesty in
 such dealing, unless a woman should be made an
-ass and a beast to bear every knave's wrong. Yonder
+ass and a beast to bear every knave&rsquo;s wrong. Yonder
 he comes, and that arrant malmsey-nose knave,
 Bardolph, with him. Do your offices, do your offices,
 Master Fang and Master Snare, do me, do me,
@@ -974,7 +974,7 @@ do me your offices.
 [<i>Enter Sir John Falstaff and Bardolph, and the Page.</i>]
 
 <speaker>FALSTAFF</speaker>
-How now, whose mare's dead? What's the
+How now, whose mare&rsquo;s dead? What&rsquo;s the
 matter?
 
 <speaker>FANG</speaker>
@@ -983,14 +983,14 @@ Quickly.
 
 <speaker>FALSTAFF</speaker>
 Away, varlets!--Draw, Bardolph. Cut me off
-the villain's head. Throw the quean in the
+the villain&rsquo;s head. Throw the quean in the
 channel.	[<i>They draw.</i>]
 
 <speaker>HOSTESS</speaker>
-Throw me in the channel? I'll throw thee in
+Throw me in the channel? I&rsquo;ll throw thee in
 the channel. Wilt thou, wilt thou, thou bastardly
 rogue?--Murder, murder!--Ah, thou honeysuckle
-villain, wilt thou kill God's officers and the King's?
+villain, wilt thou kill God&rsquo;s officers and the King&rsquo;s?
 Ah, thou honeyseed rogue, thou art a honeyseed, a
 man-queller, and a woman-queller.
 
@@ -1007,7 +1007,7 @@ rogue. Do, thou hempseed.
 
 <speaker>PAGE</speaker>
 Away, you scullion, you rampallian, you fustilarian!
-I'll tickle your catastrophe.
+I&rsquo;ll tickle your catastrophe.
 
 [<i>Enter Lord Chief Justice and his Men.</i>]
 
@@ -1023,11 +1023,11 @@ How now, Sir John? What, are you brawling here?
 Doth this become your place, your time, and
 business?
 You should have been well on your way to York.--
-Stand from him, fellow. Wherefore hang'st thou
+Stand from him, fellow. Wherefore hang&rsquo;st thou
 upon him?
 
 <speaker>HOSTESS</speaker>
-O my most worshipful lord, an 't please your
+O my most worshipful lord, an &rsquo;t please your
 Grace, I am a poor widow of Eastcheap, and he is
 arrested at my suit.
 
@@ -1040,7 +1040,7 @@ have. He hath eaten me out of house and home. He
 hath put all my substance into that fat belly of his.
 [<i>To Falstaff.</i>]
  But I will have some of it out again, or I
-will ride thee o' nights like the mare.
+will ride thee o&rsquo; nights like the mare.
 
 <speaker>FALSTAFF</speaker>
 I think I am as like to ride the mare if I have
@@ -1066,7 +1066,7 @@ for liking his father to a singing-man of Windsor,
 thou didst swear to me then, as I was washing thy
 wound, to marry me and make me my lady thy wife.
 Canst thou deny it? Did not Goodwife Keech, the
-butcher's wife, come in then and call me Gossip
+butcher&rsquo;s wife, come in then and call me Gossip
 Quickly, coming in to borrow a mess of vinegar,
 telling us she had a good dish of prawns, whereby
 thou didst desire to eat some, whereby I told thee
@@ -1108,16 +1108,16 @@ the other with current repentance.
 
 <speaker>FALSTAFF</speaker>
 My lord, I will not undergo this sneap without
-reply. You call honorable boldness "impudent
-sauciness." If a man will make curtsy and say
+reply. You call honorable boldness "&ldquo;impudent
+sauciness.&rdquo;" If a man will make curtsy and say
 nothing, he is virtuous. No, my lord, my humble
 duty remembered, I will not be your suitor. I say to
 you, I do desire deliverance from these officers,
-being upon hasty employment in the King's affairs.
+being upon hasty employment in the King&rsquo;s affairs.
 
 <speaker>CHIEF JUSTICE</speaker>
 You speak as having power to do wrong;
-but answer in th' effect of your reputation, and
+but answer in th&rsquo; effect of your reputation, and
 satisfy the poor woman.
 
 <speaker>FALSTAFF</speaker>
@@ -1156,7 +1156,7 @@ thy walls, a pretty slight drollery, or the story of the
 Prodigal or the German hunting in waterwork is
 worth a thousand of these bed-hangers and these
 fly-bitten tapestries. Let it be ten pound, if thou
-canst. Come, an 'twere not for thy humors, there's
+canst. Come, an &rsquo;twere not for thy humors, there&rsquo;s
 not a better wench in England. Go wash thy face,
 and draw the action. Come, thou must not be in this
 humor with me. Dost not know me? Come, come. I
@@ -1164,16 +1164,16 @@ know thou wast set on to this.
 
 <speaker>HOSTESS</speaker>
 Pray thee, Sir John, let it be but twenty
-nobles. I' faith, I am loath to pawn my plate, so God
+nobles. I&rsquo; faith, I am loath to pawn my plate, so God
 save me, la.
 
 <speaker>FALSTAFF</speaker>
-Let it alone. I'll make other shift. You'll be a
+Let it alone. I&rsquo;ll make other shift. You&rsquo;ll be a
 fool still.
 
 <speaker>HOSTESS</speaker>
 Well, you shall have it, though I pawn my
-gown. I hope you'll come to supper. You'll pay
+gown. I hope you&rsquo;ll come to supper. You&rsquo;ll pay
 me all together?
 
 <speaker>FALSTAFF</speaker>
@@ -1186,7 +1186,7 @@ Will you have Doll Tearsheet meet you at
 supper?
 
 <speaker>FALSTAFF</speaker>
-No more words. Let's have her.
+No more words. Let&rsquo;s have her.
 [<i>Hostess, Fang, Snare, Bardolph, Page,
 and others exit.</i>]
 
@@ -1196,7 +1196,7 @@ and others exit.</i>]
 
 <speaker>FALSTAFF,</speaker>
 [<i>to Chief Justice</i>]
-  What's the news, my good
+  What&rsquo;s the news, my good
 lord?
 
 <speaker>CHIEF JUSTICE,</speaker>
@@ -1209,7 +1209,7 @@ At Basingstoke, my lord.
 
 <speaker>FALSTAFF,</speaker>
 [<i>to Chief Justice</i>]
-  I hope, my lord, all's
+  I hope, my lord, all&rsquo;s
 well. What is the news, my lord?
 
 <speaker>CHIEF JUSTICE,</speaker>
@@ -1234,7 +1234,7 @@ Come. Go along with me, good Master Gower.
 My lord!
 
 <speaker>CHIEF JUSTICE</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>FALSTAFF</speaker>
 Master Gower, shall I entreat you with me to
@@ -1273,7 +1273,7 @@ great fool.
 Before God, I am exceeding weary.
 
 <speaker>POINS</speaker>
-Is 't come to that? I had thought weariness durst
+Is &rsquo;t come to that? I had thought weariness durst
 not have attached one of so high blood.
 
 <speaker>PRINCE</speaker>
@@ -1337,7 +1337,7 @@ Very hardly, upon such a subject.
 
 <speaker>PRINCE</speaker>
 By this hand, thou thinkest me as far in the
-devil's book as thou and Falstaff for obduracy and
+devil&rsquo;s book as thou and Falstaff for obduracy and
 persistency. Let the end try the man. But I tell thee,
 my heart bleeds inwardly that my father is so sick;
 and keeping such vile company as thou art hath in
@@ -1354,9 +1354,9 @@ weep?
 I would think thee a most princely hypocrite.
 
 <speaker>PRINCE</speaker>
-It would be every man's thought, and thou art
+It would be every man&rsquo;s thought, and thou art
 a blessed fellow to think as every man thinks. Never
-a man's thought in the world keeps the roadway
+a man&rsquo;s thought in the world keeps the roadway
 better than thine. Every man would think me an
 hypocrite indeed. And what accites your most worshipful
 thought to think so?
@@ -1394,14 +1394,14 @@ And yours, most noble Bardolph.
   Come, you virtuous ass, you bashful
 fool, must you be blushing? Wherefore blush
 you now? What a maidenly man-at-arms are you
-become! Is 't such a matter to get a pottle-pot's
+become! Is &rsquo;t such a matter to get a pottle-pot&rsquo;s
 maidenhead?
 
 <speaker>PAGE</speaker>
-He calls me e'en now, my lord, through a red
+He calls me e&rsquo;en now, my lord, through a red
 lattice, and I could discern no part of his face from
 the window. At last I spied his eyes, and methought
-he had made two holes in the ale-wife's new
+he had made two holes in the ale-wife&rsquo;s new
 petticoat and so peeped through.
 
 <speaker>PRINCE</speaker>
@@ -1413,7 +1413,7 @@ Has not the boy profited?
 away!
 
 <speaker>PAGE</speaker>
-Away, you rascally Althea's dream, away!
+Away, you rascally Althea&rsquo;s dream, away!
 
 <speaker>PRINCE</speaker>
 Instruct us, boy. What dream, boy?
@@ -1423,8 +1423,8 @@ Marry, my lord, Althea dreamt she was delivered
 of a firebrand, and therefore I call him her dream.
 
 <speaker>PRINCE</speaker>
-A crown's worth of good interpretation. There
-'tis, boy.	[<i>He gives the Page money.</i>]
+A crown&rsquo;s worth of good interpretation. There
+&rsquo;tis, boy.	[<i>He gives the Page money.</i>]
 
 <speaker>POINS</speaker>
 O, that this good blossom could be kept from
@@ -1440,7 +1440,7 @@ And how doth thy master, Bardolph?
 
 <speaker>BARDOLPH</speaker>
 Well, my good lord. He heard of your
-Grace's coming to town. There's a letter for you.
+Grace&rsquo;s coming to town. There&rsquo;s a letter for you.
 [<i>He gives the Prince a paper.</i>]
 
 <speaker>POINS</speaker>
@@ -1465,10 +1465,10 @@ writes.	[<i>He shows the letter to Poins.</i>]
 Every man must know that as oft as he has occasion
 to name himself, even like those that are kin to the
 King, for they never prick their finger but they say
-"There's some of the King's blood spilt." "How
-comes that?" says he that takes upon him not to
-conceive. The answer is as ready as a borrower's
-cap: "I am the King's poor cousin, sir."
+"&ldquo;There&rsquo;s some of the King&rsquo;s blood spilt.&rdquo;" "&ldquo;How
+comes that?&rdquo;" says he that takes upon him not to
+conceive. The answer is as ready as a borrower&rsquo;s
+cap: "&ldquo;I am the King&rsquo;s poor cousin, sir.&rdquo;"
 
 <speaker>PRINCE</speaker>
 Nay, they will be kin to us, or they will fetch it
@@ -1503,11 +1503,11 @@ John with my brothers and sisters, and
 Sir John with all Europe.
 
 <speaker>POINS</speaker>
-My lord, I'll steep this letter in sack and make
+My lord, I&rsquo;ll steep this letter in sack and make
 him eat it.
 
 <speaker>PRINCE</speaker>
-That's to make him eat twenty of his words.
+That&rsquo;s to make him eat twenty of his words.
 But do you use me thus, Ned? Must I marry your
 sister?
 
@@ -1549,7 +1549,7 @@ What pagan may that be?
 
 <speaker>PAGE</speaker>
 A proper gentlewoman, sir, and a kinswoman of
-my master's.
+my master&rsquo;s.
 
 <speaker>PRINCE</speaker>
 Even such kin as the parish heifers are to the
@@ -1557,11 +1557,11 @@ town bull.--Shall we steal upon them, Ned, at
 supper?
 
 <speaker>POINS</speaker>
-I am your shadow, my lord. I'll follow you.
+I am your shadow, my lord. I&rsquo;ll follow you.
 
 <speaker>PRINCE</speaker>
 Sirrah--you, boy--and Bardolph, no word to
-your master that I am yet come to town. There's for
+your master that I am yet come to town. There&rsquo;s for
 your silence.	[<i>He gives money.</i>]
 
 <speaker>BARDOLPH</speaker>
@@ -1589,7 +1589,7 @@ wait upon him at his table as drawers.
 
 <speaker>PRINCE</speaker>
 From a god to a bull: a heavy descension. It
-was Jove's case. From a prince to a 'prentice: a low
+was Jove&rsquo;s case. From a prince to a &rsquo;prentice: a low
 transformation that shall be mine, for in everything
 the purpose must weigh with the folly. Follow me,
 Ned.
@@ -1615,14 +1615,14 @@ Alas, sweet wife, my honor is at pawn,
 And, but my going, nothing can redeem it.
 
 <speaker>LADY PERCY</speaker>
-O yet, for God's sake, go not to these wars.
+O yet, for God&rsquo;s sake, go not to these wars.
 The time was, father, that you broke your word
 When you were more endeared to it than now,
-When your own Percy, when my heart's dear Harry,
+When your own Percy, when my heart&rsquo;s dear Harry,
 Threw many a northward look to see his father
 Bring up his powers; but he did long in vain.
 Who then persuaded you to stay at home?
-There were two honors lost, yours and your son's.
+There were two honors lost, yours and your son&rsquo;s.
 For yours, the God of heaven brighten it.
 For his, it stuck upon him as the sun
 In the gray vault of heaven, and by his light
@@ -1643,15 +1643,15 @@ O miracle of men!--him did you leave,
 Second to none, unseconded by you,
 To look upon the hideous god of war
 In disadvantage, to abide a field
-Where nothing but the sound of Hotspur's name
+Where nothing but the sound of Hotspur&rsquo;s name
 Did seem defensible. So you left him.
 Never, O never, do his ghost the wrong
 To hold your honor more precise and nice
 With others than with him. Let them alone.
 The Marshal and the Archbishop are strong.
 Had my sweet Harry had but half their numbers,
-Today might I, hanging on Hotspur's neck,
-Have talked of Monmouth's grave.
+Today might I, hanging on Hotspur&rsquo;s neck,
+Have talked of Monmouth&rsquo;s grave.
 
 <speaker>NORTHUMBERLAND</speaker>
 Beshrew your
@@ -1679,7 +1679,7 @@ That it may grow and sprout as high as heaven
 For recordation to my noble husband.
 
 <speaker>NORTHUMBERLAND</speaker>
-Come, come, go in with me. 'Tis with my mind
+Come, come, go in with me. &rsquo;Tis with my mind
 As with the tide swelled up unto his height,
 That makes a still-stand, running neither way.
 Fain would I go to meet the Archbishop,
@@ -1701,15 +1701,15 @@ an applejohn.
 Mass, thou sayst true. The Prince
 once set a dish of applejohns before him and told
 him there were five more Sir Johns and, putting off
-his hat, said "I will now take my leave of these six
-dry, round, old, withered knights." It angered him
+his hat, said "&ldquo;I will now take my leave of these six
+dry, round, old, withered knights.&rdquo;" It angered him
 to the heart. But he hath forgot that.
 
 <speaker>FRANCIS</speaker>
 Why then, cover and set them down, and see if
-thou canst find out Sneak's noise. Mistress Tearsheet
+thou canst find out Sneak&rsquo;s noise. Mistress Tearsheet
 would fain hear some music. Dispatch. The
-room where they supped is too hot. They'll come in
+room where they supped is too hot. They&rsquo;ll come in
 straight.
 
 [<i>Enter Will.</i>]
@@ -1725,26 +1725,26 @@ By the Mass, here will be old utis. It
 will be an excellent stratagem.
 
 <speaker>FRANCIS</speaker>
-I'll see if I can find out Sneak.
+I&rsquo;ll see if I can find out Sneak.
 [<i>He exits with the Second Drawer.</i>]
 
 [<i>Enter Hostess and Doll Tearsheet.</i>]
 
-<speaker>HOSTESS I'</speaker>
-faith, sweetheart, methinks now you are in
+<speaker>HOSTESS</speaker>
+I&rsquo; faith, sweetheart, methinks now you are in
 an excellent good temperality. Your pulsidge beats
 as extraordinarily as heart would desire, and your
 color, I warrant you, is as red as any rose, in good
-truth, la. But, i' faith, you have drunk too much
-canaries, and that's a marvellous searching wine,
-and it perfumes the blood ere one can say "What's
-this?" How do you now?
+truth, la. But, i&rsquo; faith, you have drunk too much
+canaries, and that&rsquo;s a marvellous searching wine,
+and it perfumes the blood ere one can say "&ldquo;What&rsquo;s
+this?&rdquo;" How do you now?
 
 <speaker>DOLL</speaker>
 Better than I was. Hem.
 
 <speaker>HOSTESS</speaker>
-Why, that's well said. A good heart's worth
+Why, that&rsquo;s well said. A good heart&rsquo;s worth
 gold. Lo, here comes Sir John.
 
 [<i>Enter Sir John Falstaff.</i>]
@@ -1797,17 +1797,17 @@ Hang yourself, you muddy conger, hang yourself!
 <speaker>HOSTESS</speaker>
 By my troth, this is the old fashion. You two
 never meet but you fall to some discord. You are
-both, i' good truth, as rheumatic as two dry toasts.
-You cannot one bear with another's confirmities.
+both, i&rsquo; good truth, as rheumatic as two dry toasts.
+You cannot one bear with another&rsquo;s confirmities.
 What the good-year! One must bear, and [<i>to Doll</i>]
 that must be you. You are the weaker vessel, as they
 say, the emptier vessel.
 
 <speaker>DOLL</speaker>
 Can a weak empty vessel bear such a huge full
-hogshead? There's a whole merchant's venture of
+hogshead? There&rsquo;s a whole merchant&rsquo;s venture of
 Bordeaux stuff in him. You have not seen a hulk
-better stuffed in the hold.--Come, I'll be friends
+better stuffed in the hold.--Come, I&rsquo;ll be friends
 with thee, Jack. Thou art going to the wars, and
 whether I shall ever see thee again or no, there is
 nobody cares.
@@ -1815,16 +1815,16 @@ nobody cares.
 [<i>Enter Drawer.</i>]
 
 <speaker>DRAWER</speaker>
-Sir, Ancient Pistol's below and would speak
+Sir, Ancient Pistol&rsquo;s below and would speak
 with you.
 
 <speaker>DOLL</speaker>
 Hang him, swaggering rascal! Let him not come
-hither. It is the foul-mouthed'st rogue in England.
+hither. It is the foul-mouthed&rsquo;st rogue in England.
 
 <speaker>HOSTESS</speaker>
 If he swagger, let him not come here. No, by
-my faith, I must live among my neighbors. I'll no
+my faith, I must live among my neighbors. I&rsquo;ll no
 swaggerers. I am in good name and fame with the
 very best. Shut the door. There comes no swaggerers
 here. I have not lived all this while to have
@@ -1841,40 +1841,40 @@ comes no swaggerers here.
 Dost thou hear? It is mine ancient.
 
 <speaker>HOSTESS</speaker>
-Tilly-vally, Sir John, ne'er tell me. And your
+Tilly-vally, Sir John, ne&rsquo;er tell me. And your
 ancient swaggerer comes not in my doors. I was
-before Master Tisick the debuty t' other day, and, as
-he said to me--'twas no longer ago than Wednesday
-last, i' good faith--"Neighbor Quickly," says
+before Master Tisick the debuty t&rsquo; other day, and, as
+he said to me--&rsquo;twas no longer ago than Wednesday
+last, i&rsquo; good faith--"Neighbor Quickly,&rdquo;" says
 he--Master Dumb, our minister, was by then--
-"Neighbor Quickly," says he, "receive those that
-are civil, for," said he, "you are in an ill name."
-Now he said so, I can tell whereupon. "For," says
-he, "you are an honest woman, and well thought
+"&ldquo;Neighbor Quickly,&rdquo;" says he, "&ldquo;receive those that
+are civil, for,&rdquo;" said he, "&ldquo;you are in an ill name.&rdquo;"
+Now he said so, I can tell whereupon. "&ldquo;For,&rdquo;" says
+he, "&ldquo;you are an honest woman, and well thought
 on. Therefore take heed what guests you receive.
-Receive," says he, "no swaggering companions."
+Receive,&rdquo;" says he, "&ldquo;no swaggering companions.&rdquo;"
 There comes none here. You would bless you to
-hear what he said. No, I'll no swaggerers.
+hear what he said. No, I&rsquo;ll no swaggerers.
 
 <speaker>FALSTAFF</speaker>
-He's no swaggerer, hostess, a tame cheater, i'
+He&rsquo;s no swaggerer, hostess, a tame cheater, i&rsquo;
 faith. You may stroke him as gently as a puppy
-greyhound. He'll not swagger with a Barbary hen if
+greyhound. He&rsquo;ll not swagger with a Barbary hen if
 her feathers turn back in any show of resistance.--
 Call him up, drawer.	[<i>Drawer exits.</i>]
 
 <speaker>HOSTESS</speaker>
-"Cheater" call you him? I will bar no honest
+"&ldquo;Cheater&rdquo;" call you him? I will bar no honest
 man my house, nor no cheater, but I do not love
 swaggering. By my troth, I am the worse when one
-says "swagger." Feel, masters, how I shake; look
+says "&ldquo;swagger.&rdquo;" Feel, masters, how I shake; look
 you, I warrant you.
 
 <speaker>DOLL</speaker>
 So you do, hostess.
 
 <speaker>HOSTESS</speaker>
-Do I? Yea, in very truth, do I, an 'twere an
+Do I? Yea, in very truth, do I, an &rsquo;twere an
 aspen leaf. I cannot abide swaggerers.
 
 [<i>Enter Ancient Pistol, Bardolph, and Page.</i>]
@@ -1896,8 +1896,8 @@ She is pistol-proof. Sir, you shall not hardly
 offend her.
 
 <speaker>HOSTESS</speaker>
-Come, I'll drink no proofs nor no bullets. I'll
-drink no more than will do me good, for no man's
+Come, I&rsquo;ll drink no proofs nor no bullets. I&rsquo;ll
+drink no more than will do me good, for no man&rsquo;s
 pleasure, I.
 
 <speaker>PISTOL</speaker>
@@ -1915,10 +1915,10 @@ I know you, Mistress Dorothy.
 
 <speaker>DOLL</speaker>
 Away, you cutpurse rascal, you filthy bung, away!
-By this wine, I'll thrust my knife in your mouldy
+By this wine, I&rsquo;ll thrust my knife in your mouldy
 chaps an you play the saucy cuttle with me. Away,
 you bottle-ale rascal, you basket-hilt stale juggler,
-you. Since when, I pray you, sir? God's light, with
+you. Since when, I pray you, sir? God&rsquo;s light, with
 two points on your shoulder? Much!
 
 <speaker>PISTOL</speaker>
@@ -1939,13 +1939,13 @@ thou not ashamed to be called captain? An captains
 were of my mind, they would truncheon you out for
 taking their names upon you before you have
 earned them. You a captain? You slave, for what?
-For tearing a poor whore's ruff in a bawdy house?
+For tearing a poor whore&rsquo;s ruff in a bawdy house?
 He a captain! Hang him, rogue. He lives upon
 mouldy stewed prunes and dried cakes. A captain?
-God's light, these villains will make the word as
-odious as the word "occupy," which was an excellent
+God&rsquo;s light, these villains will make the word as
+odious as the word "&ldquo;occupy,&rdquo;" which was an excellent
 good word before it was ill sorted. Therefore
-captains had need look to 't.
+captains had need look to &rsquo;t.
 
 <speaker>BARDOLPH,</speaker>
 [<i>to Pistol</i>]
@@ -1957,21 +1957,21 @@ Hark thee hither, Mistress Doll.
 <speaker>PISTOL,</speaker>
 [<i>to Bardolph</i>]
   Not I. I tell thee what, Corporal
-Bardolph, I could tear her. I'll be revenged of her.
+Bardolph, I could tear her. I&rsquo;ll be revenged of her.
 
 <speaker>PAGE</speaker>
 Pray thee go down.
 
 <speaker>PISTOL</speaker>
-I'll see her damned first to Pluto's damned
-lake, by this hand, to th' infernal deep with Erebus
+I&rsquo;ll see her damned first to Pluto&rsquo;s damned
+lake, by this hand, to th&rsquo; infernal deep with Erebus
 and tortures vile also. Hold hook and line, say I.
 Down, down, dogs! Down, Fates! Have we not
 Hiren here?	[<i>He draws his sword.</i>]
 
 <speaker>HOSTESS</speaker>
-Good Captain Peesell, be quiet. 'Tis very late,
-i' faith. I beseek you now, aggravate your choler.
+Good Captain Peesell, be quiet. &rsquo;Tis very late,
+i&rsquo; faith. I beseek you now, aggravate your choler.
 
 <speaker>PISTOL</speaker>
 These be good humors indeed. Shall pack-horses
@@ -1993,14 +1993,14 @@ brawl anon.
 Die men like dogs! Give crowns like pins! Have
 we not Hiren here?
 
-<speaker>HOSTESS O'</speaker>
-my word, captain, there's none such here.
+<speaker>HOSTESS</speaker>
+O&rsquo; my word, captain, there&rsquo;s none such here.
 What the good-year, do you think I would deny her?
-For God's sake, be quiet.
+For God&rsquo;s sake, be quiet.
 
 <speaker>PISTOL</speaker>
 Then feed and be fat, my fair Calipolis. Come,
-give 's some sack. Si fortune me tormente, sperato
+give &rsquo;s some sack. Si fortune me tormente, sperato
 me contento. Fear we broadsides? No, let the fiend
 give fire. Give me some sack, and, sweetheart, lie
 thou there. [<i>Laying down his sword.</i>]
@@ -2015,11 +2015,11 @@ Sweet knight, I kiss thy neaf. What, we have
 seen the seven stars.
 
 <speaker>DOLL</speaker>
-For God's sake, thrust him downstairs. I cannot
+For God&rsquo;s sake, thrust him downstairs. I cannot
 endure such a fustian rascal.
 
 <speaker>PISTOL</speaker>
-"Thrust him downstairs"? Know we not Galloway
+"&ldquo;Thrust him downstairs&rdquo;"? Know we not Galloway
 nags?
 
 <speaker>FALSTAFF</speaker>
@@ -2039,7 +2039,7 @@ grievous, ghastly, gaping wounds untwind the Sisters
 Three. Come, Atropos, I say.
 
 <speaker>HOSTESS</speaker>
-Here's goodly stuff toward!
+Here&rsquo;s goodly stuff toward!
 
 <speaker>FALSTAFF</speaker>
 Give me my rapier, boy.
@@ -2052,37 +2052,37 @@ I pray thee, Jack, I pray thee do not draw.
   Get you downstairs.	[<i>They fight.</i>]
 
 <speaker>HOSTESS</speaker>
-Here's a goodly tumult. I'll forswear keeping
-house afore I'll be in these tirrits and frights. So,
+Here&rsquo;s a goodly tumult. I&rsquo;ll forswear keeping
+house afore I&rsquo;ll be in these tirrits and frights. So,
 murder, I warrant now. Alas, alas, put up your
 naked weapons, put up your naked weapons.
 [<i>Bardolph and Pistol exit.</i>]
 
 <speaker>DOLL</speaker>
-I pray thee, Jack, be quiet. The rascal's gone. Ah,
+I pray thee, Jack, be quiet. The rascal&rsquo;s gone. Ah,
 you whoreson little valiant villain, you.
 
 <speaker>HOSTESS,</speaker>
 [<i>to Falstaff</i>]
-  Are you not hurt i' th' groin?
+  Are you not hurt i&rsquo; th&rsquo; groin?
 Methought he made a shrewd thrust at your belly.
 
 [<i>Enter Bardolph.</i>]
 
 <speaker>FALSTAFF</speaker>
-Have you turned him out o' doors?
+Have you turned him out o&rsquo; doors?
 
 <speaker>BARDOLPH</speaker>
-Yea, sir. The rascal's drunk. You have hurt
-him, sir, i' th' shoulder.
+Yea, sir. The rascal&rsquo;s drunk. You have hurt
+him, sir, i&rsquo; th&rsquo; shoulder.
 
 <speaker>FALSTAFF</speaker>
 A rascal to brave me!
 
 <speaker>DOLL</speaker>
 Ah, you sweet little rogue, you. Alas, poor ape,
-how thou sweat'st! Come, let me wipe thy face.
-Come on, you whoreson chops. Ah, rogue, i' faith, I
+how thou sweat&rsquo;st! Come, let me wipe thy face.
+Come on, you whoreson chops. Ah, rogue, i&rsquo; faith, I
 love thee. Thou art as valorous as Hector of Troy,
 worth five of Agamemnon, and ten times better
 than the Nine Worthies. Ah, villain!
@@ -2092,7 +2092,7 @@ Ah, rascally slave! I will toss the rogue in a
 blanket.
 
 <speaker>DOLL</speaker>
-Do, an thou darest for thy heart. An thou dost, I'll
+Do, an thou darest for thy heart. An thou dost, I&rsquo;ll
 canvass thee between a pair of sheets.
 
 [<i>Enter Musicians and Francis.</i>]
@@ -2105,8 +2105,8 @@ Let them play.--Play, sirs.--Sit on my knee,
 Doll. A rascal bragging slave! The rogue fled from
 me like quicksilver.
 
-<speaker>DOLL I'</speaker>
-faith, and thou followed'st him like a church.
+<speaker>DOLL</speaker>
+I&rsquo; faith, and thou followed&rsquo;st him like a church.
 Thou whoreson little tidy Bartholomew boar-pig,
 when wilt thou leave fighting a-days and foining a-nights
 and begin to patch up thine old body for
@@ -2115,23 +2115,23 @@ heaven?
 [<i>Enter behind them Prince and Poins disguised.</i>]
 
 <speaker>FALSTAFF</speaker>
-Peace, good Doll. Do not speak like a death's-head;
+Peace, good Doll. Do not speak like a death&rsquo;s-head;
 do not bid me remember mine end.
 
 <speaker>DOLL</speaker>
-Sirrah, what humor's the Prince of?
+Sirrah, what humor&rsquo;s the Prince of?
 
 <speaker>FALSTAFF</speaker>
 A good shallow young fellow, he would have
-made a good pantler; he would 'a chipped bread
+made a good pantler; he would &rsquo;a chipped bread
 well.
 
 <speaker>DOLL</speaker>
 They say Poins has a good wit.
 
 <speaker>FALSTAFF</speaker>
-He a good wit? Hang him, baboon. His wit's
-as thick as Tewkesbury mustard. There's no more
+He a good wit? Hang him, baboon. His wit&rsquo;s
+as thick as Tewkesbury mustard. There&rsquo;s no more
 conceit in him than is in a mallet.
 
 <speaker>DOLL</speaker>
@@ -2140,7 +2140,7 @@ Why does the Prince love him so then?
 <speaker>FALSTAFF</speaker>
 Because their legs are both of a bigness, and
 he plays at quoits well, and eats conger and fennel,
-and drinks off candles' ends for flap-dragons, and
+and drinks off candles&rsquo; ends for flap-dragons, and
 rides the wild mare with the boys, and jumps upon
 joint stools, and swears with a good grace, and
 wears his boots very smooth like unto the sign of
@@ -2157,10 +2157,10 @@ scales between their avoirdupois.
 have his ears cut off?
 
 <speaker>POINS</speaker>
-Let's beat him before his whore.
+Let&rsquo;s beat him before his whore.
 
 <speaker>PRINCE</speaker>
-Look whe'er the withered elder hath not his
+Look whe&rsquo;er the withered elder hath not his
 poll clawed like a parrot.
 
 <speaker>POINS</speaker>
@@ -2173,11 +2173,11 @@ Kiss me, Doll.
 <speaker>PRINCE,</speaker>
 [<i>aside to Poins</i>]
   Saturn and Venus this year in
-conjunction! What says th' almanac to that?
+conjunction! What says th&rsquo; almanac to that?
 
 <speaker>POINS</speaker>
 And look whether the fiery trigon, his man, be
-not lisping to his master's old tables, his notebook,
+not lisping to his master&rsquo;s old tables, his notebook,
 his counsel keeper.
 
 <speaker>FALSTAFF,</speaker>
@@ -2192,19 +2192,19 @@ heart.
 I am old, I am old.
 
 <speaker>DOLL</speaker>
-I love thee better than I love e'er a scurvy young
+I love thee better than I love e&rsquo;er a scurvy young
 boy of them all.
 
 <speaker>FALSTAFF</speaker>
 What stuff wilt thou have a kirtle of? I shall
-receive money o' Thursday; thou shalt have a cap
-tomorrow. A merry song! Come, it grows late. We'll
-to bed. Thou 'lt forget me when I am gone.
+receive money o&rsquo; Thursday; thou shalt have a cap
+tomorrow. A merry song! Come, it grows late. We&rsquo;ll
+to bed. Thou &rsquo;lt forget me when I am gone.
 
 <speaker>DOLL</speaker>
-By my troth, thou 'lt set me a-weeping an thou
+By my troth, thou &rsquo;lt set me a-weeping an thou
 sayst so. Prove that ever I dress myself handsome till
-thy return. Well, harken a' th' end.
+thy return. Well, harken a&rsquo; th&rsquo; end.
 
 <speaker>FALSTAFF</speaker>
 Some sack, Francis.
@@ -2214,7 +2214,7 @@ Some sack, Francis.
   Anon, anon, sir.
 
 <speaker>FALSTAFF</speaker>
-Ha? A bastard son of the King's?--And art
+Ha? A bastard son of the King&rsquo;s?--And art
 not thou Poins his brother?
 
 <speaker>PRINCE</speaker>
@@ -2255,7 +2255,7 @@ how vilely did you speak of me even now before
 this honest, virtuous, civil gentlewoman!
 
 <speaker>HOSTESS</speaker>
-God's blessing of your good heart, and so she
+God&rsquo;s blessing of your good heart, and so she
 is, by my troth.
 
 <speaker>FALSTAFF,</speaker>
@@ -2264,7 +2264,7 @@ is, by my troth.
 
 <speaker>PRINCE</speaker>
 Yea, and you knew me as you did when you ran
-away by Gad's Hill. You knew I was at your back,
+away by Gad&rsquo;s Hill. You knew I was at your back,
 and spoke it on purpose to try my patience.
 
 <speaker>FALSTAFF</speaker>
@@ -2276,7 +2276,7 @@ I shall drive you, then, to confess the wilfull
 abuse, and then I know how to handle you.
 
 <speaker>FALSTAFF</speaker>
-No abuse, Hal, o' mine honor, no abuse.
+No abuse, Hal, o&rsquo; mine honor, no abuse.
 
 <speaker>PRINCE</speaker>
 Not to dispraise me and call me pantler and
@@ -2289,7 +2289,7 @@ No abuse, Hal.
 No abuse?
 
 <speaker>FALSTAFF</speaker>
-No abuse, Ned, i' th' world, honest Ned,
+No abuse, Ned, i&rsquo; th&rsquo; world, honest Ned,
 none. I dispraised him before the wicked, [<i>(to
 Prince)</i>]
  that the wicked might not fall in love with
@@ -2311,7 +2311,7 @@ Answer, thou dead elm, answer.
 
 <speaker>FALSTAFF</speaker>
 The fiend hath pricked down Bardolph irrecoverable,
-and his face is Lucifer's privy kitchen,
+and his face is Lucifer&rsquo;s privy kitchen,
 where he doth nothing but roast malt-worms. For
 the boy, there is a good angel about him, but the
 devil blinds him too.
@@ -2320,8 +2320,8 @@ devil blinds him too.
 For the women?
 
 <speaker>FALSTAFF</speaker>
-For one of them, she's in hell already and
-burns poor souls. For th' other, I owe her money,
+For one of them, she&rsquo;s in hell already and
+burns poor souls. For th&rsquo; other, I owe her money,
 and whether she be damned for that I know not.
 
 <speaker>HOSTESS</speaker>
@@ -2335,7 +2335,7 @@ contrary to the law, for the which I think thou wilt
 howl.
 
 <speaker>HOSTESS</speaker>
-All vitlars do so. What's a joint of mutton or
+All vitlars do so. What&rsquo;s a joint of mutton or
 two in a whole Lent?
 
 <speaker>PRINCE,</speaker>
@@ -2351,7 +2351,7 @@ against.
 [<i>Peto knocks at door.</i>]
 
 <speaker>HOSTESS</speaker>
-Who knocks so loud at door? Look to th' door
+Who knocks so loud at door? Look to th&rsquo; door
 there, Francis.	[<i>Francis exits.</i>]
 
 [<i>Enter Peto.</i>]
@@ -2383,7 +2383,7 @@ night, and we must hence and leave it unpicked.
 [<i>(Knocking. Bardolph exits.)</i>]
  More knocking at the
 door? [<i>(Bardolph returns.)</i>]
- How now, what's the
+ How now, what&rsquo;s the
 matter?
 
 <speaker>BARDOLPH</speaker>
@@ -2418,7 +2418,7 @@ well.
   Mistress Tearsheet!
 
 <speaker>HOSTESS</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>BARDOLPH,</speaker>
 [<i>within</i>]
@@ -2437,12 +2437,12 @@ She comes blubbered.--Yea! Will you come, Doll?
 
 <speaker>KING</speaker>
 Go call the Earls of Surrey and of Warwick;
-But, ere they come, bid them o'erread these letters
+But, ere they come, bid them o&rsquo;erread these letters
 And well consider of them. Make good speed.
 [<i>Page exits.</i>]
 How many thousand of my poorest subjects
 Are at this hour asleep! O sleep, O gentle sleep,
-Nature's soft nurse, how have I frighted thee,
+Nature&rsquo;s soft nurse, how have I frighted thee,
 That thou no more wilt weigh my eyelids down
 And steep my senses in forgetfulness?
 Why rather, sleep, liest thou in smoky cribs,
@@ -2453,9 +2453,9 @@ Under the canopies of costly state,
 And lulled with sound of sweetest melody?
 O thou dull god, why liest thou with the vile
 In loathsome beds and leavest the kingly couch
-A watch-case or a common 'larum bell?
+A watch-case or a common &rsquo;larum bell?
 Wilt thou upon the high and giddy mast
-Seal up the shipboy's eyes and rock his brains
+Seal up the shipboy&rsquo;s eyes and rock his brains
 In cradle of the rude imperious surge
 And in the visitation of the winds,
 Who take the ruffian billows by the top,
@@ -2478,11 +2478,11 @@ Many good morrows to your Majesty.
 Is it good morrow, lords?
 
 <speaker>WARWICK</speaker>
-'Tis one o'clock, and past.
+&rsquo;Tis one o&rsquo;clock, and past.
 
 <speaker>KING</speaker>
 Why then, good morrow to you all, my lords.
-Have you read o'er the letter that I sent you?
+Have you read o&rsquo;er the letter that I sent you?
 
 <speaker>WARWICK</speaker>
 We have, my liege.
@@ -2505,13 +2505,13 @@ Make mountains level, and the continent,
 Weary of solid firmness, melt itself
 Into the sea, and other times to see
 The beachy girdle of the ocean
-Too wide for Neptune's hips; how chance's mocks
+Too wide for Neptune&rsquo;s hips; how chance&rsquo;s mocks
 And changes fill the cup of alteration
 With divers liquors! O, if this were seen,
 The happiest youth, viewing his progress through,
 What perils past, what crosses to ensue,
 Would shut the book and sit him down and die.
-'Tis not ten years gone
+&rsquo;Tis not ten years gone
 Since Richard and Northumberland, great friends,
 Did feast together, and in two years after
 Were they at wars. It is but eight years since
@@ -2526,19 +2526,19 @@ remember--
 When Richard, with his eye brimful of tears,
 Then checked and rated by Northumberland,
 Did speak these words, now proved a prophecy?
-"Northumberland, thou ladder by the which
+"&ldquo;Northumberland, thou ladder by the which
 My cousin Bolingbroke ascends my throne"--
 Though then, God knows, I had no such intent,
 But that necessity so bowed the state
 That I and greatness were compelled to kiss--
-"The time shall come," thus did he follow it,
-"The time will come that foul sin, gathering head,
+"&ldquo;The time shall come,&rdquo;" thus did he follow it,
+"&ldquo;The time will come that foul sin, gathering head,
 Shall break into corruption"--so went on,
-Foretelling this same time's condition
+Foretelling this same time&rsquo;s condition
 And the division of our amity.
 
 <speaker>WARWICK</speaker>
-There is a history in all men's lives
+There is a history in all men&rsquo;s lives
 Figuring the natures of the times deceased,
 The which observed, a man may prophesy,
 With a near aim, of the main chance of things
@@ -2607,12 +2607,12 @@ still, is he not?
 Indeed, sir, to my cost.
 
 <speaker>SHALLOW</speaker>
-He must then to the Inns o' Court shortly. I
-was once of Clement's Inn, where I think they will
+He must then to the Inns o&rsquo; Court shortly. I
+was once of Clement&rsquo;s Inn, where I think they will
 talk of mad Shallow yet.
 
 <speaker>SILENCE</speaker>
-You were called "Lusty Shallow" then,
+You were called "&ldquo;Lusty Shallow&rdquo;" then,
 cousin.
 
 <speaker>SHALLOW</speaker>
@@ -2621,7 +2621,7 @@ would have done anything indeed too, and roundly
 too. There was I, and little John Doit of Staffordshire,
 and black George Barnes, and Francis Pickbone,
 and Will Squele, a Cotswold man. You had
-not four such swinge-bucklers in all the Inns o'
+not four such swinge-bucklers in all the Inns o&rsquo;
 Court again. And I may say to you, we knew where
 the bona robas were and had the best of them all at
 commandment. Then was Jack Falstaff, now Sir
@@ -2634,10 +2634,10 @@ about soldiers?
 
 <speaker>SHALLOW</speaker>
 The same Sir John, the very same. I see him
-break Scoggin's head at the court gate, when he
+break Scoggin&rsquo;s head at the court gate, when he
 was a crack not thus high; and the very same day did
 I fight with one Sampson Stockfish, a fruiterer,
-behind Grey's Inn. Jesu, Jesu, the mad days that I
+behind Grey&rsquo;s Inn. Jesu, Jesu, the mad days that I
 have spent! And to see how many of my old acquaintance
 are dead.
 
@@ -2645,7 +2645,7 @@ are dead.
 We shall all follow, cousin.
 
 <speaker>SHALLOW</speaker>
-Certain, 'tis certain, very sure, very sure.
+Certain, &rsquo;tis certain, very sure, very sure.
 Death, as the Psalmist saith, is certain to all. All
 shall die. How a good yoke of bullocks at Stamford
 Fair?
@@ -2662,11 +2662,11 @@ Dead, sir.
 
 <speaker>SHALLOW</speaker>
 Jesu, Jesu, dead! He drew a good bow, and
-dead? He shot a fine shoot. John o' Gaunt loved him
+dead? He shot a fine shoot. John o&rsquo; Gaunt loved him
 well, and betted much money on his head. Dead! He
-would have clapped i' th' clout at twelve score, and
+would have clapped i&rsquo; th&rsquo; clout at twelve score, and
 carried you a forehand shaft a fourteen and fourteen
-and a half, that it would have done a man's
+and a half, that it would have done a man&rsquo;s
 heart good to see. How a score of ewes now?
 
 <speaker>SILENCE</speaker>
@@ -2677,7 +2677,7 @@ may be worth ten pounds.
 And is old Dooble dead?
 
 <speaker>SILENCE</speaker>
-Here come two of Sir John Falstaff's men, as I
+Here come two of Sir John Falstaff&rsquo;s men, as I
 think.
 
 [<i>Enter Bardolph and one with him.</i>]
@@ -2690,7 +2690,7 @@ I beseech you, which is Justice Shallow?
 
 <speaker>SHALLOW</speaker>
 I am Robert Shallow, sir, a poor esquire of
-this county and one of the King's justices of the
+this county and one of the King&rsquo;s justices of the
 peace. What is your good pleasure with me?
 
 <speaker>BARDOLPH</speaker>
@@ -2709,17 +2709,17 @@ than with a wife.
 
 <speaker>SHALLOW</speaker>
 It is well said, in faith, sir, and it is well said
-indeed too. "Better accommodated." It is good,
+indeed too. "&ldquo;Better accommodated.&rdquo;" It is good,
 yea, indeed is it. Good phrases are surely, and ever
-were, very commendable. "Accommodated." It
+were, very commendable. "&ldquo;Accommodated.&rdquo;" It
 comes of accommodo. Very good, a good phrase.
 
 <speaker>BARDOLPH</speaker>
 Pardon, sir, I have heard the word--
-"phrase" call you it? By this day, I know not the
+"&ldquo;phrase&rdquo;" call you it? By this day, I know not the
 phrase, but I will maintain the word with my sword
 to be a soldierlike word, and a word of exceeding
-good command, by heaven. "Accommodated," that
+good command, by heaven. "&ldquo;Accommodated,&rdquo;" that
 is when a man is, as they say, accommodated, or
 when a man is being whereby he may be thought to
 be accommodated, which is an excellent thing.
@@ -2729,7 +2729,7 @@ be accommodated, which is an excellent thing.
 <speaker>SHALLOW</speaker>
 It is very just. Look, here comes good Sir
 John.--Give me your good hand, give me your
-Worship's good hand. By my troth, you like well and
+Worship&rsquo;s good hand. By my troth, you like well and
 bear your years very well. Welcome, good Sir John.
 
 <speaker>FALSTAFF</speaker>
@@ -2759,7 +2759,7 @@ Marry, have we, sir. Will you sit?
 Let me see them, I beseech you.
 
 <speaker>SHALLOW</speaker>
-Where's the roll? Where's the roll? Where's
+Where&rsquo;s the roll? Where&rsquo;s the roll? Where&rsquo;s
 the roll? Let me see, let me see, let me see. So, so,
 so, so, so. So, so. Yea, marry, sir.--Rafe Mouldy!--
 Let them appear as I call, let them do so, let them
@@ -2782,13 +2782,13 @@ fellow, young, strong, and of good friends.
 Is thy name Mouldy?
 
 <speaker>MOULDY</speaker>
-Yea, an 't please you.
+Yea, an &rsquo;t please you.
 
 <speaker>FALSTAFF</speaker>
-'Tis the more time thou wert used.
+&rsquo;Tis the more time thou wert used.
 
 <speaker>SHALLOW</speaker>
-Ha, ha, ha, most excellent, i' faith! Things
+Ha, ha, ha, most excellent, i&rsquo; faith! Things
 that are mouldy lack use. Very singular good, in
 faith. Well said, Sir John, very well said.
 
@@ -2812,15 +2812,15 @@ Spent?
 
 <speaker>SHALLOW</speaker>
 Peace, fellow, peace. Stand aside. Know you
-where you are?--For th' other, Sir John. Let me
+where you are?--For th&rsquo; other, Sir John. Let me
 see.--Simon Shadow!
 
 <speaker>FALSTAFF</speaker>
 Yea, marry, let me have him to sit under.
-He's like to be a cold soldier.
+He&rsquo;s like to be a cold soldier.
 
 <speaker>SHALLOW</speaker>
-Where's Shadow?
+Where&rsquo;s Shadow?
 
 <speaker>SHADOW,</speaker>
 [<i>coming forward</i>]
@@ -2830,13 +2830,13 @@ Where's Shadow?
 Shadow, whose son art thou?
 
 <speaker>SHADOW</speaker>
-My mother's son, sir.
+My mother&rsquo;s son, sir.
 
 <speaker>FALSTAFF</speaker>
-Thy mother's son! Like enough, and thy
-father's shadow. So the son of the female is the
+Thy mother&rsquo;s son! Like enough, and thy
+father&rsquo;s shadow. So the son of the female is the
 shadow of the male. It is often so, indeed, but much
-of the father's substance.
+of the father&rsquo;s substance.
 
 <speaker>SHALLOW</speaker>
 Do you like him, Sir John?
@@ -2850,7 +2850,7 @@ muster book.
 Thomas Wart!
 
 <speaker>FALSTAFF</speaker>
-Where's he?
+Where&rsquo;s he?
 
 <speaker>WART,</speaker>
 [<i>coming forward</i>]
@@ -2885,33 +2885,33 @@ commend you well.--Francis Feeble!
 What trade art thou, Feeble?
 
 <speaker>FEEBLE</speaker>
-A woman's tailor, sir.
+A woman&rsquo;s tailor, sir.
 
 <speaker>SHALLOW</speaker>
 Shall I prick him, sir?
 
 <speaker>FALSTAFF</speaker>
-You may, but if he had been a man's tailor,
-he'd ha' pricked you.--Wilt thou make as many
-holes in an enemy's battle as thou hast done in a
-woman's petticoat?
+You may, but if he had been a man&rsquo;s tailor,
+he&rsquo;d ha&rsquo; pricked you.--Wilt thou make as many
+holes in an enemy&rsquo;s battle as thou hast done in a
+woman&rsquo;s petticoat?
 
 <speaker>FEEBLE</speaker>
 I will do my good will, sir. You can have no
 more.
 
 <speaker>FALSTAFF</speaker>
-Well said, good woman's tailor, well said,
+Well said, good woman&rsquo;s tailor, well said,
 courageous Feeble. Thou wilt be as valiant as the
 wrathful dove or most magnanimous mouse.--
-Prick the woman's tailor well, Master Shallow,
+Prick the woman&rsquo;s tailor well, Master Shallow,
 deep, Master Shallow.
 
 <speaker>FEEBLE</speaker>
 I would Wart might have gone, sir.
 
 <speaker>FALSTAFF</speaker>
-I would thou wert a man's tailor, that thou
+I would thou wert a man&rsquo;s tailor, that thou
 mightst mend him and make him fit to go. I cannot
 put him to a private soldier that is the leader of so
 many thousands. Let that suffice, most forcible
@@ -2925,10 +2925,10 @@ I am bound to thee, reverend Feeble.--Who
 is the next?
 
 <speaker>SHALLOW</speaker>
-Peter Bullcalf o' th' green.
+Peter Bullcalf o&rsquo; th&rsquo; green.
 
 <speaker>FALSTAFF</speaker>
-Yea, marry, let's see Bullcalf.
+Yea, marry, let&rsquo;s see Bullcalf.
 
 <speaker>BULLCALF,</speaker>
 [<i>coming forward</i>]
@@ -2953,7 +2953,7 @@ What disease hast thou?
 
 <speaker>BULLCALF</speaker>
 A whoreson cold, sir, a cough, sir, which I
-caught with ringing in the King's affairs upon his
+caught with ringing in the King&rsquo;s affairs upon his
 coronation day, sir.
 
 <speaker>FALSTAFF</speaker>
@@ -2974,14 +2974,14 @@ Master Shallow.
 
 <speaker>SHALLOW</speaker>
 O, Sir John, do you remember since we lay
-all night in the windmill in Saint George's Field?
+all night in the windmill in Saint George&rsquo;s Field?
 
 <speaker>FALSTAFF</speaker>
 No more of that, good Master Shallow, no
 more of that.
 
 <speaker>SHALLOW</speaker>
-Ha, 'twas a merry night. And is Jane Nightwork
+Ha, &rsquo;twas a merry night. And is Jane Nightwork
 alive?
 
 <speaker>FALSTAFF</speaker>
@@ -2995,7 +2995,7 @@ Never, never. She would always say she could
 not abide Master Shallow.
 
 <speaker>SHALLOW</speaker>
-By the Mass, I could anger her to th' heart.
+By the Mass, I could anger her to th&rsquo; heart.
 She was then a bona roba. Doth she hold her own
 well?
 
@@ -3004,11 +3004,11 @@ Old, old, Master Shallow.
 
 <speaker>SHALLOW</speaker>
 Nay, she must be old. She cannot choose but
-be old. Certain, she's old, and had Robin Nightwork
-by old Nightwork before I came to Clement's Inn.
+be old. Certain, she&rsquo;s old, and had Robin Nightwork
+by old Nightwork before I came to Clement&rsquo;s Inn.
 
 <speaker>SILENCE</speaker>
-That's fifty-five year ago.
+That&rsquo;s fifty-five year ago.
 
 <speaker>SHALLOW</speaker>
 Ha, cousin Silence, that thou hadst seen that
@@ -3021,14 +3021,14 @@ Shallow.
 
 <speaker>SHALLOW</speaker>
 That we have, that we have, that we have. In
-faith, Sir John, we have. Our watchword was "Hem,
-boys." Come, let's to dinner, come, let's to dinner.
+faith, Sir John, we have. Our watchword was "&ldquo;Hem,
+boys.&rdquo;" Come, let&rsquo;s to dinner, come, let&rsquo;s to dinner.
 Jesus, the days that we have seen! Come, come.
 [<i>Shallow, Silence, and Falstaff rise and exit.</i>]
 
 <speaker>BULLCALF</speaker>
 Good Master Corporate Bardolph, stand my
-friend, and here's four Harry ten-shillings in
+friend, and here&rsquo;s four Harry ten-shillings in
 French crowns for you. [<i>He gives Bardolph money.</i>]
 In very truth, sir, I had as lief be hanged, sir, as go.
 And yet, for mine own part, sir, I do not care, but
@@ -3041,7 +3041,7 @@ Go to. Stand aside.
 
 <speaker>MOULDY</speaker>
 And, good Master Corporal Captain, for my
-old dame's sake, stand my friend. She has nobody to
+old dame&rsquo;s sake, stand my friend. She has nobody to
 do anything about her when I am gone, and she is
 old and cannot help herself. You shall have forty,
 sir.	[<i>He gives money.</i>]
@@ -3051,17 +3051,17 @@ Go to. Stand aside.
 
 <speaker>FEEBLE</speaker>
 By my troth, I care not. A man can die but
-once. We owe God a death. I'll ne'er bear a base
-mind. An 't be my destiny, so; an 't be not, so. No
-man's too good to serve 's prince, and let it go
+once. We owe God a death. I&rsquo;ll ne&rsquo;er bear a base
+mind. An &rsquo;t be my destiny, so; an &rsquo;t be not, so. No
+man&rsquo;s too good to serve &rsquo;s prince, and let it go
 which way it will, he that dies this year is quit for
 the next.
 
 <speaker>BARDOLPH</speaker>
-Well said. Th' art a good fellow.
+Well said. Th&rsquo; art a good fellow.
 
 <speaker>FEEBLE</speaker>
-Faith, I'll bear no base mind.
+Faith, I&rsquo;ll bear no base mind.
 
 [<i>Enter Falstaff and the Justices.</i>]
 
@@ -3104,17 +3104,17 @@ served with the best.
 Will you tell me, Master Shallow, how to
 choose a man? Care I for the limb, the thews, the
 stature, bulk and big assemblance of a man? Give
-me the spirit, Master Shallow. Here's Wart. You see
+me the spirit, Master Shallow. Here&rsquo;s Wart. You see
 what a ragged appearance it is. He shall charge you
-and discharge you with the motion of a pewterer's
+and discharge you with the motion of a pewterer&rsquo;s
 hammer, come off and on swifter than he that
-gibbets on the brewer's bucket. And this same half-faced
+gibbets on the brewer&rsquo;s bucket. And this same half-faced
 fellow, Shadow, give me this man. He presents
 no mark to the enemy. The foeman may with
 as great aim level at the edge of a penknife. And for
-a retreat, how swiftly will this Feeble, the woman's
+a retreat, how swiftly will this Feeble, the woman&rsquo;s
 tailor, run off! O, give me the spare men, and spare
-me the great ones.--Put me a caliver into Wart's
+me the great ones.--Put me a caliver into Wart&rsquo;s
 hand, Bardolph.
 
 <speaker>BARDOLPH,</speaker>
@@ -3127,21 +3127,21 @@ Thas, thas, thas.
   Come, manage me your caliver: so,
 very well, go to, very good, exceeding good. O, give
 me always a little, lean, old, chopped, bald shot.
-Well said, i' faith, Wart. Th' art a good scab. Hold,
-there's a tester for thee.	[<i>He gives Wart money.</i>]
+Well said, i&rsquo; faith, Wart. Th&rsquo; art a good scab. Hold,
+there&rsquo;s a tester for thee.	[<i>He gives Wart money.</i>]
 
 <speaker>SHALLOW</speaker>
-He is not his craft's master. He doth not do it
+He is not his craft&rsquo;s master. He doth not do it
 right. I remember at Mile End Green, when I lay at
-Clement's Inn--I was then Sir Dagonet in Arthur's
+Clement&rsquo;s Inn--I was then Sir Dagonet in Arthur&rsquo;s
 show--there was a little quiver fellow, and he
 would manage you his piece thus. [<i>Shallow performs
 with the musket.</i>]
  And he would about and
-about, and come you in, and come you in. "Rah,
-tah, tah," would he say. "Bounce," would he say,
+about, and come you in, and come you in. "&ldquo;Rah,
+tah, tah,&rdquo;" would he say. "&ldquo;Bounce,&rdquo;" would he say,
 and away again would he go, and again would he
-come. I shall ne'er see such a fellow.
+come. I shall ne&rsquo;er see such a fellow.
 
 <speaker>FALSTAFF</speaker>
 These fellows will do well, Master Shallow.
@@ -3174,30 +3174,30 @@ subject we old men are to this vice of lying. This
 same starved justice hath done nothing but prate to
 me of the wildness of his youth and the feats he hath
 done about Turnbull Street, and every third word a
-lie, duer paid to the hearer than the Turk's tribute. I
-do remember him at Clement's Inn, like a man
+lie, duer paid to the hearer than the Turk&rsquo;s tribute. I
+do remember him at Clement&rsquo;s Inn, like a man
 made after supper of a cheese paring. When he was
 naked, he was, for all the world, like a forked radish
 with a head fantastically carved upon it with a
 knife. He was so forlorn that his dimensions to
 any thick sight were invincible. He was the very
 genius of famine, yet lecherous as a monkey,
-and the whores called him "mandrake." He came
+and the whores called him "&ldquo;mandrake.&rdquo;" He came
 ever in the rearward of the fashion, and sung
 those tunes to the overscutched huswives that he
 heard the carmen whistle, and swore they were his
-fancies or his good-nights. And now is this Vice's
+fancies or his good-nights. And now is this Vice&rsquo;s
 dagger become a squire, and talks as familiarly
-of John o' Gaunt as if he had been sworn brother
-to him, and I'll be sworn he ne'er saw him but
+of John o&rsquo; Gaunt as if he had been sworn brother
+to him, and I&rsquo;ll be sworn he ne&rsquo;er saw him but
 once in the tilt-yard, and then he burst his head
-for crowding among the Marshal's men. I saw it
-and told John o' Gaunt he beat his own name, for
+for crowding among the Marshal&rsquo;s men. I saw it
+and told John o&rsquo; Gaunt he beat his own name, for
 you might have thrust him and all his apparel into
 an eel-skin; the case of a treble hautboy was a
 mansion for him, a court. And now has he land and
-beefs. Well, I'll be acquainted with him if I return,
-and 't shall go hard but I'll make him a philosopher's
+beefs. Well, I&rsquo;ll be acquainted with him if I return,
+and &rsquo;t shall go hard but I&rsquo;ll make him a philosopher&rsquo;s
 two stones to me. If the young dace be a
 bait for the old pike, I see no reason in the law of
 nature but I may snap at him. Let time shape, and
@@ -3215,7 +3215,7 @@ of Gaultree.</i>]
 What is this forest called?
 
 <speaker>HASTINGS</speaker>
-'Tis Gaultree Forest, an 't shall please your Grace.
+&rsquo;Tis Gaultree Forest, an &rsquo;t shall please your Grace.
 
 <speaker>ARCHBISHOP</speaker>
 Here stand, my lords, and send discoverers forth
@@ -3225,7 +3225,7 @@ To know the numbers of our enemies.
 We have sent forth already.
 
 <speaker>ARCHBISHOP</speaker>
-'Tis well done.
+&rsquo;Tis well done.
 My friends and brethren in these great affairs,
 I must acquaint you that I have received
 New-dated letters from Northumberland,
@@ -3293,7 +3293,7 @@ Whose white investments figure innocence,
 The dove and very blessed spirit of peace,
 Wherefore do you so ill translate yourself
 Out of the speech of peace, that bears such grace,
-Into the harsh and boist'rous tongue of war,
+Into the harsh and boist&rsquo;rous tongue of war,
 Turning your books to graves, your ink to blood,
 Your pens to lances, and your tongue divine
 To a loud trumpet and a point of war?
@@ -3311,7 +3311,7 @@ Nor do I as an enemy to peace
 Troop in the throngs of military men,
 But rather show awhile like fearful war
 To diet rank minds sick of happiness
-And purge th' obstructions which begin to stop
+And purge th&rsquo; obstructions which begin to stop
 Our very veins of life. Hear me more plainly.
 I have in equal balance justly weighed
 What wrongs our arms may do, what wrongs we
@@ -3330,7 +3330,7 @@ Even by those men that most have done us wrong.
 The dangers of the days but newly gone,
 Whose memory is written on the earth
 With yet-appearing blood, and the examples
-Of every minute's instance, present now,
+Of every minute&rsquo;s instance, present now,
 Hath put us in these ill-beseeming arms,
 Not to break peace or any branch of it,
 But to establish here a peace indeed,
@@ -3342,7 +3342,7 @@ Wherein have you been galled by the King?
 What peer hath been suborned to grate on you,
 That you should seal this lawless bloody book
 Of forged rebellion with a seal divine
-And consecrate commotion's bitter edge?
+And consecrate commotion&rsquo;s bitter edge?
 
 <speaker>ARCHBISHOP</speaker>
 My brother general, the commonwealth,
@@ -3369,8 +3369,8 @@ Yet for your part, it not appears to me
 Either from the King or in the present time
 That you should have an inch of any ground
 To build a grief on. Were you not restored
-To all the Duke of Norfolk's seigniories,
-Your noble and right well remembered father's?
+To all the Duke of Norfolk&rsquo;s seigniories,
+Your noble and right well remembered father&rsquo;s?
 
 <speaker>MOWBRAY</speaker>
 What thing, in honor, had my father lost
@@ -3399,7 +3399,7 @@ In England the most valiant gentleman.
 Who knows on whom fortune would then have
 smiled?
 But if your father had been victor there,
-He ne'er had borne it out of Coventry;
+He ne&rsquo;er had borne it out of Coventry;
 For all the country in a general voice
 Cried hate upon him; and all their prayers and
 love
@@ -3444,7 +3444,7 @@ To hear and absolutely to determine
 Of what conditions we shall stand upon?
 
 <speaker>WESTMORELAND</speaker>
-That is intended in the General's name.
+That is intended in the General&rsquo;s name.
 I muse you make so slight a question.
 
 <speaker>ARCHBISHOP,</speaker>
@@ -3519,7 +3519,7 @@ So that his power, like to a fangless lion,
 May offer but not hold.
 
 <speaker>ARCHBISHOP</speaker>
-'Tis very true,
+&rsquo;Tis very true,
 And therefore be assured, my good Lord Marshal,
 If we do now make our atonement well,
 Our peace will, like a broken limb united,
@@ -3534,13 +3534,13 @@ Here is returned my Lord of Westmoreland.
 <speaker>WESTMORELAND,</speaker>
 [<i>to the Archbishop</i>]
 The Prince is here at hand. Pleaseth your Lordship
-To meet his Grace just distance 'tween our armies.
+To meet his Grace just distance &rsquo;tween our armies.
 
 [<i>Enter Prince John and his army.</i>]
 
 <speaker>MOWBRAY,</speaker>
 [<i>to the Archbishop</i>]
-Your Grace of York, in God's name then set
+Your Grace of York, in God&rsquo;s name then set
 forward.
 
 <speaker>ARCHBISHOP</speaker>
@@ -3559,7 +3559,7 @@ Your exposition on the holy text
 Than now to see you here, an iron man talking,
 Cheering a rout of rebels with your drum,
 Turning the word to sword, and life to death.
-That man that sits within a monarch's heart
+That man that sits within a monarch&rsquo;s heart
 And ripens in the sunshine of his favor,
 Would he abuse the countenance of the King,
 Alack, what mischiefs might he set abroach
@@ -3568,14 +3568,14 @@ Bishop,
 It is even so. Who hath not heard it spoken
 How deep you were within the books of God,
 To us the speaker in His parliament,
-To us th' imagined voice of God Himself,
+To us th&rsquo; imagined voice of God Himself,
 The very opener and intelligencer
 Between the grace, the sanctities, of heaven,
 And our dull workings? O, who shall believe
 But you misuse the reverence of your place,
 Employ the countenance and grace of heaven
-As a false favorite doth his prince's name,
-In deeds dishonorable? You have ta'en up,
+As a false favorite doth his prince&rsquo;s name,
+In deeds dishonorable? You have ta&rsquo;en up,
 Under the counterfeited zeal of God,
 The subjects of His substitute, my father,
 And both against the peace of heaven and him
@@ -3584,7 +3584,7 @@ Have here up-swarmed them.
 <speaker>ARCHBISHOP</speaker>
 Good my Lord of
 Lancaster,
-I am not here against your father's peace,
+I am not here against your father&rsquo;s peace,
 But, as I told my Lord of Westmoreland,
 The time misordered doth, in common sense,
 Crowd us and crush us to this monstrous form
@@ -3621,7 +3621,7 @@ How far forth you do like their articles.
 <speaker>JOHN OF LANCASTER</speaker>
 I like them all, and do allow them well,
 And swear here by the honor of my blood
-My father's purposes have been mistook,
+My father&rsquo;s purposes have been mistook,
 And some about him have too lavishly
 Wrested his meaning and authority.
 [<i>To the Archbishop.</i>]
@@ -3630,7 +3630,7 @@ with speed redressed;
 Upon my soul, they shall. If this may please you,
 Discharge your powers unto their several counties,
 As we will ours, and here, between the armies,
-Let's drink together friendly and embrace,
+Let&rsquo;s drink together friendly and embrace,
 That all their eyes may bear those tokens home
 Of our restored love and amity.
 
@@ -3677,8 +3677,8 @@ But heaviness foreruns the good event.
 
 <speaker>WESTMORELAND</speaker>
 Therefore be merry, coz, since sudden sorrow
-Serves to say thus: "Some good thing comes
-tomorrow."
+Serves to say thus: "&ldquo;Some good thing comes
+tomorrow.&rdquo;"
 
 <speaker>ARCHBISHOP</speaker>
 Believe me, I am passing light in spirit.
@@ -3767,7 +3767,7 @@ Fondly brought here, and foolishly sent hence.--
 Strike up our drums; pursue the scattered stray.
 God, and not we, hath safely fought today.--
 Some guard these traitors to the block of death,
-Treason's true bed and yielder-up of breath.
+Treason&rsquo;s true bed and yielder-up of breath.
 [<i>They exit.</i>]
 
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
@@ -3775,7 +3775,7 @@ Treason's true bed and yielder-up of breath.
 [<i>Alarum. Excursions. Enter Falstaff and Colevile.</i>]
 
 <speaker>FALSTAFF</speaker>
-What's your name, sir? Of what condition are
+What&rsquo;s your name, sir? Of what condition are
 you, and of what place, I pray?
 
 <speaker>COLEVILE</speaker>
@@ -3793,7 +3793,7 @@ you be still Colevile of the Dale.
 Are not you Sir John Falstaff?
 
 <speaker>FALSTAFF</speaker>
-As good a man as he, sir, whoe'er I am. Do
+As good a man as he, sir, whoe&rsquo;er I am. Do
 you yield, sir, or shall I sweat for you? If I do sweat,
 they are the drops of thy lovers and they weep for
 thy death. Therefore rouse up fear and trembling,
@@ -3820,7 +3820,7 @@ Call in the powers, good cousin Westmoreland.
 Now, Falstaff, where have you been all this while?
 When everything is ended, then you come.
 These tardy tricks of yours will, on my life,
-One time or other break some gallows' back.
+One time or other break some gallows&rsquo; back.
 
 <speaker>FALSTAFF</speaker>
 I would be sorry, my lord, but it should be
@@ -3834,8 +3834,8 @@ travel-tainted as I am, have in my pure and immaculate
 valor taken Sir John Colevile of the Dale, a most
 furious knight and valorous enemy. But what of
 that? He saw me and yielded, that I may justly say,
-with the hook-nosed fellow of Rome, "There, cousin,
-I came, saw, and overcame."
+with the hook-nosed fellow of Rome, "&ldquo;There, cousin,
+I came, saw, and overcame.&rdquo;"
 
 <speaker>JOHN OF LANCASTER</speaker>
 It was more of his courtesy than
@@ -3844,24 +3844,24 @@ your deserving.
 <speaker>FALSTAFF</speaker>
 I know not. Here he is, and here I yield him.
 And I beseech your Grace let it be booked with the
-rest of this day's deeds, or, by the Lord, I will have it
+rest of this day&rsquo;s deeds, or, by the Lord, I will have it
 in a particular ballad else, with mine own picture
-on the top on 't, Colevile kissing my foot; to the
+on the top on &rsquo;t, Colevile kissing my foot; to the
 which course if I be enforced, if you do not all show
 like gilt twopences to me, and I in the clear sky of
-fame o'ershine you as much as the full moon doth
-the cinders of the element (which show like pins'
+fame o&rsquo;ershine you as much as the full moon doth
+the cinders of the element (which show like pins&rsquo;
 heads to her), believe not the word of the noble.
 Therefore let me have right, and let desert mount.
 
 <speaker>JOHN OF LANCASTER</speaker>
-Thine's too heavy to mount.
+Thine&rsquo;s too heavy to mount.
 
 <speaker>FALSTAFF</speaker>
 Let it shine, then.
 
 <speaker>JOHN OF LANCASTER</speaker>
-Thine's too thick to shine.
+Thine&rsquo;s too thick to shine.
 
 <speaker>FALSTAFF</speaker>
 Let it do something, my good lord, that may
@@ -3923,11 +3923,11 @@ Shall better speak of you than you deserve.
 [<i>All but Falstaff exit.</i>]
 
 <speaker>FALSTAFF</speaker>
-I would you had but the wit; 'twere better
+I would you had but the wit; &rsquo;twere better
 than your dukedom. Good faith, this same young
 sober-blooded boy doth not love me, nor a man
-cannot make him laugh. But that's no marvel; he
-drinks no wine. There's never none of these demure
+cannot make him laugh. But that&rsquo;s no marvel; he
+drinks no wine. There&rsquo;s never none of these demure
 boys come to any proof, for thin drink doth so
 overcool their blood, and making many fish meals,
 that they fall into a kind of male green-sickness, and
@@ -3938,14 +3938,14 @@ sack hath a two-fold operation in it. It ascends me
 into the brain, dries me there all the foolish and
 dull and crudy vapors which environ it, makes it
 apprehensive, quick, forgetive, full of nimble, fiery,
-and delectable shapes, which, delivered o'er to the
+and delectable shapes, which, delivered o&rsquo;er to the
 voice, the tongue, which is the birth, becomes
 excellent wit. The second property of your excellent
 sherris is the warming of the blood, which,
 before cold and settled, left the liver white and pale,
 which is the badge of pusillanimity and cowardice.
 But the sherris warms it and makes it course from
-the inwards to the parts' extremes. It illumineth the
+the inwards to the parts&rsquo; extremes. It illumineth the
 face, which as a beacon gives warning to all the rest
 of this little kingdom, man, to arm; and then the
 vital commoners and inland petty spirits muster me
@@ -3973,9 +3973,9 @@ How now, Bardolph?
 The army is discharged all and gone.
 
 <speaker>FALSTAFF</speaker>
-Let them go. I'll through Gloucestershire,
+Let them go. I&rsquo;ll through Gloucestershire,
 and there will I visit Master Robert Shallow,
-Esquire. I have him already temp'ring between my
+Esquire. I have him already temp&rsquo;ring between my
 finger and my thumb, and shortly will I seal with
 him. Come away.
 [<i>They exit.</i>]
@@ -4007,7 +4007,7 @@ Humphrey, my son of Gloucester, where is the
 Prince your brother?
 
 <speaker>HUMPHREY OF GLOUCESTER</speaker>
-I think he's gone to hunt, my lord, at Windsor.
+I think he&rsquo;s gone to hunt, my lord, at Windsor.
 
 <speaker>KING</speaker>
 And how accompanied?
@@ -4081,7 +4081,7 @@ And he, the noble image of my youth,
 Is overspread with them; therefore my grief
 Stretches itself beyond the hour of death.
 The blood weeps from my heart when I do shape,
-In forms imaginary, th' unguided days
+In forms imaginary, th&rsquo; unguided days
 And rotten times that you shall look upon
 When I am sleeping with my ancestors.
 For when his headstrong riot hath no curb,
@@ -4095,7 +4095,7 @@ My gracious lord, you look beyond him quite.
 The Prince but studies his companions
 Like a strange tongue, wherein, to gain the
 language,
-'Tis needful that the most immodest word
+&rsquo;Tis needful that the most immodest word
 Be looked upon and learned; which, once attained,
 Your Highness knows, comes to no further use
 But to be known and hated. So, like gross terms,
@@ -4106,20 +4106,20 @@ By which his Grace must mete the lives of others,
 Turning past evils to advantages.
 
 <speaker>KING</speaker>
-'Tis seldom when the bee doth leave her comb
+&rsquo;Tis seldom when the bee doth leave her comb
 In the dead carrion.
 
 [<i>Enter Westmoreland.</i>]
 
-Who's here? Westmoreland?
+Who&rsquo;s here? Westmoreland?
 
 <speaker>WESTMORELAND</speaker>
 Health to my sovereign, and new happiness
 Added to that that I am to deliver.
-Prince John your son doth kiss your Grace's hand.
+Prince John your son doth kiss your Grace&rsquo;s hand.
 Mowbray, the Bishop Scroop, Hastings, and all
 Are brought to the correction of your law.
-There is not now a rebel's sword unsheathed,
+There is not now a rebel&rsquo;s sword unsheathed,
 But peace puts forth her olive everywhere.
 The manner how this action hath been borne
 Here at more leisure may your Highness read
@@ -4133,7 +4133,7 @@ The lifting up of day.
 
 [<i>Enter Harcourt.</i>]
 
-Look, here's more news.
+Look, here&rsquo;s more news.
 
 <speaker>HARCOURT</speaker>
 From enemies heavens keep your Majesty,
@@ -4171,12 +4171,12 @@ My sovereign lord, cheer up yourself, look up.
 <speaker>WARWICK</speaker>
 Be patient, princes. You do know these fits
 Are with his Highness very ordinary.
-Stand from him, give him air. He'll straight be
+Stand from him, give him air. He&rsquo;ll straight be
 well.
 
 <speaker>THOMAS OF CLARENCE</speaker>
 No, no, he cannot long hold out these pangs.
-Th' incessant care and labor of his mind
+Th&rsquo; incessant care and labor of his mind
 Hath wrought the mure that should confine it in
 So thin that life looks through and will break out.
 
@@ -4189,7 +4189,7 @@ over.
 
 <speaker>THOMAS OF CLARENCE</speaker>
 The river hath thrice flowed, no ebb between,
-And the old folk, time's doting chronicles,
+And the old folk, time&rsquo;s doting chronicles,
 Say it did so a little time before
 That our great-grandsire, Edward, sicked and died.
 
@@ -4246,7 +4246,7 @@ Heard he the good news yet? Tell it him.
 He altered much upon the hearing it.
 
 <speaker>PRINCE</speaker>
-If he be sick with joy, he'll recover without
+If he be sick with joy, he&rsquo;ll recover without
 physic.
 
 <speaker>WARWICK</speaker>
@@ -4258,7 +4258,7 @@ The King your father is disposed to sleep.
 Let us withdraw into the other room.
 
 <speaker>WARWICK</speaker>
-Will 't please your Grace to go along with us?
+Will &rsquo;t please your Grace to go along with us?
 
 <speaker>PRINCE</speaker>
 No, I will sit and watch here by the King.
@@ -4266,14 +4266,14 @@ No, I will sit and watch here by the King.
 Why doth the crown lie there upon his pillow,
 Being so troublesome a bedfellow?
 O polished perturbation, golden care,
-That keep'st the ports of slumber open wide
+That keep&rsquo;st the ports of slumber open wide
 To many a watchful night! Sleep with it now;
 Yet not so sound and half so deeply sweet
 As he whose brow with homely biggen bound
 Snores out the watch of night. O majesty,
 When thou dost pinch thy bearer, thou dost sit
 Like a rich armor worn in heat of day,
-That scald'st with safety. By his gates of breath
+That scald&rsquo;st with safety. By his gates of breath
 There lies a downy feather which stirs not;
 Did he suspire, that light and weightless down
 Perforce must move. My gracious lord, my father,
@@ -4288,11 +4288,11 @@ Which, as immediate from thy place and blood,
 Derives itself to me. [<i>He puts on the crown.</i>]
  Lo,
 where it sits,
-Which God shall guard. And, put the world's whole
+Which God shall guard. And, put the world&rsquo;s whole
 strength
 Into one giant arm, it shall not force
 This lineal honor from me. This from thee
-Will I to mine leave, as 'tis left to me.
+Will I to mine leave, as &rsquo;tis left to me.
 [<i>He exits with the crown.</i>]
 
 <speaker>KING,</speaker>
@@ -4333,7 +4333,7 @@ Where is the crown? Who took it from my pillow?
 When we withdrew, my liege, we left it here.
 
 <speaker>KING</speaker>
-The Prince hath ta'en it hence. Go seek him out.
+The Prince hath ta&rsquo;en it hence. Go seek him out.
 Is he so hasty that he doth suppose my sleep my
 death?
 Find him, my Lord of Warwick. Chide him hither.
@@ -4389,17 +4389,17 @@ I stay too long by thee; I weary thee.
 Dost thou so hunger for mine empty chair
 That thou wilt needs invest thee with my honors
 Before thy hour be ripe? O foolish youth,
-Thou seek'st the greatness that will overwhelm
+Thou seek&rsquo;st the greatness that will overwhelm
 thee.
 Stay but a little, for my cloud of dignity
 Is held from falling with so weak a wind
 That it will quickly drop. My day is dim.
-Thou hast stol'n that which after some few hours
+Thou hast stol&rsquo;n that which after some few hours
 Were thine without offense, and at my death
 Thou hast sealed up my expectation.
-Thy life did manifest thou loved'st me not,
+Thy life did manifest thou loved&rsquo;st me not,
 And thou wilt have me die assured of it.
-Thou hid'st a thousand daggers in thy thoughts,
+Thou hid&rsquo;st a thousand daggers in thy thoughts,
 Whom thou hast whetted on thy stony heart
 To stab at half an hour of my life.
 What, canst thou not forbear me half an hour?
@@ -4452,19 +4452,19 @@ God witness with me, when I here came in
 And found no course of breath within your Majesty,
 How cold it struck my heart! If I do feign,
 O, let me in my present wildness die
-And never live to show th' incredulous world
+And never live to show th&rsquo; incredulous world
 The noble change that I have purposed.
 Coming to look on you, thinking you dead,
 And dead almost, my liege, to think you were,
 I spake unto this crown as having sense,
-And thus upbraided it: "The care on thee
+And thus upbraided it: "&ldquo;The care on thee
 depending
 Hath fed upon the body of my father;
 Therefore thou best of gold art worst of gold.
 Other, less fine in carat, is more precious,
-Preserving life in med'cine potable;
+Preserving life in med&rsquo;cine potable;
 But thou, most fine, most honored, most renowned,
-Hast eat thy bearer up." Thus, my most royal liege,
+Hast eat thy bearer up.&rdquo;" Thus, my most royal liege,
 Accusing it, I put it on my head
 To try with it, as with an enemy
 That had before my face murdered my father,
@@ -4481,7 +4481,7 @@ That doth with awe and terror kneel to it.
 <speaker>KING</speaker>
 O my son,
 God put it in thy mind to take it hence
-That thou mightst win the more thy father's love,
+That thou mightst win the more thy father&rsquo;s love,
 Pleading so wisely in excuse of it.
 Come hither, Harry, sit thou by my bed
 And hear, I think, the very latest counsel
@@ -4489,14 +4489,14 @@ That ever I shall breathe.
 [<i>The Prince rises from his knees and sits
 near the bed.</i>]
 God knows, my son,
-By what bypaths and indirect crook'd ways
+By what bypaths and indirect crook&rsquo;d ways
 I met this crown, and I myself know well
 How troublesome it sat upon my head.
 To thee it shall descend with better quiet,
 Better opinion, better confirmation,
 For all the soil of the achievement goes
 With me into the earth. It seemed in me
-But as an honor snatched with boist'rous hand,
+But as an honor snatched with boist&rsquo;rous hand,
 And I had many living to upbraid
 My gain of it by their assistances,
 Which daily grew to quarrel and to bloodshed,
@@ -4506,12 +4506,12 @@ For all my reign hath been but as a scene
 Acting that argument. And now my death
 Changes the mood, for what in me was purchased
 Falls upon thee in a more fairer sort.
-So thou the garland wear'st successively.
-Yet though thou stand'st more sure than I could do,
+So thou the garland wear&rsquo;st successively.
+Yet though thou stand&rsquo;st more sure than I could do,
 Thou art not firm enough, since griefs are green,
 And all my friends, which thou must make thy
 friends,
-Have but their stings and teeth newly ta'en out,
+Have but their stings and teeth newly ta&rsquo;en out,
 By whose fell working I was first advanced
 And by whose power I well might lodge a fear
 To be again displaced; which to avoid,
@@ -4533,7 +4533,7 @@ My gracious liege,
 You won it, wore it, kept it, gave it me.
 Then plain and right must my possession be,
 Which I with more than with a common pain
-'Gainst all the world will rightfully maintain.
+&rsquo;Gainst all the world will rightfully maintain.
 
 [<i>Enter John of Lancaster and others.</i>]
 
@@ -4544,7 +4544,7 @@ Look, look, here comes my John of Lancaster.
 Health, peace, and happiness to my royal father.
 
 <speaker>KING</speaker>
-Thou bring'st me happiness and peace, son John,
+Thou bring&rsquo;st me happiness and peace, son John,
 But health, alack, with youthful wings is flown
 From this bare withered trunk. Upon thy sight
 My worldly business makes a period.
@@ -4560,14 +4560,14 @@ Doth any name particular belong
 Unto the lodging where I first did swoon?
 
 <speaker>WARWICK</speaker>
-'Tis called Jerusalem, my noble lord.
+&rsquo;Tis called Jerusalem, my noble lord.
 
 <speaker>KING</speaker>
 Laud be to God! Even there my life must end.
 It hath been prophesied to me many years,
 I should not die but in Jerusalem,
 Which vainly I supposed the Holy Land.
-But bear me to that chamber; there I'll lie.
+But bear me to that chamber; there I&rsquo;ll lie.
 In that Jerusalem shall Harry die.
 [<i>They exit.</i>]
 
@@ -4610,7 +4610,7 @@ With red wheat, Davy. But for William cook,
 are there no young pigeons?
 
 <speaker>DAVY</speaker>
-Yes, sir. Here is now the smith's note for shoeing
+Yes, sir. Here is now the smith&rsquo;s note for shoeing
 and plow irons.	[<i>He gives Shallow a paper.</i>]
 
 <speaker>SHALLOW</speaker>
@@ -4619,7 +4619,7 @@ not be excused.
 
 <speaker>DAVY</speaker>
 Now, sir, a new link to the bucket must needs be
-had. And, sir, do you mean to stop any of William's
+had. And, sir, do you mean to stop any of William&rsquo;s
 wages about the sack he lost the other day at
 Hinckley Fair?
 
@@ -4633,7 +4633,7 @@ any pretty little tiny kickshaws, tell William cook.
 Doth the man of war stay all night, sir?
 
 <speaker>SHALLOW</speaker>
-Yea, Davy, I will use him well. A friend i' th'
+Yea, Davy, I will use him well. A friend i&rsquo; th&rsquo;
 court is better than a penny in purse. Use his men
 well, Davy, for they are arrant knaves and will
 backbite.
@@ -4648,7 +4648,7 @@ Davy.
 
 <speaker>DAVY</speaker>
 I beseech you, sir, to countenance William Visor
-of Woncot against Clement Perkes o' th' hill.
+of Woncot against Clement Perkes o&rsquo; th&rsquo; hill.
 
 <speaker>SHALLOW</speaker>
 There is many complaints, Davy, against that
@@ -4658,7 +4658,7 @@ knowledge.
 <speaker>DAVY</speaker>
 I grant your Worship that he is a knave, sir, but
 yet, God forbid, sir, but a knave should have some
-countenance at his friend's request. An honest
+countenance at his friend&rsquo;s request. An honest
 man, sir, is able to speak for himself when a knave is
 not. I have served your Worship truly, sir, this eight
 years; an I cannot once or twice in a quarter bear
@@ -4684,14 +4684,14 @@ Bardolph, [<i>(to Page)</i>]
 fellow.--Come, Sir John.
 
 <speaker>FALSTAFF</speaker>
-I'll follow you, good Master Robert Shallow.
+I&rsquo;ll follow you, good Master Robert Shallow.
 [<i>Shallow exits.</i>]
  Bardolph, look to our horses. [<i>Bardolph
 and Page exit.</i>]
  If I were sawed into quantities,
-I should make four dozen of such bearded hermits'
+I should make four dozen of such bearded hermits&rsquo;
 staves as Master Shallow. It is a wonderful thing to
-see the semblable coherence of his men's spirits
+see the semblable coherence of his men&rsquo;s spirits
 and his. They, by observing of him, do bear
 themselves like foolish justices; he, by conversing
 with them, is turned into a justice-like servingman.
@@ -4740,7 +4740,7 @@ Exceeding well. His cares are now all ended.
 I hope, not dead.
 
 <speaker>WARWICK</speaker>
-He's walked the way of nature,
+He&rsquo;s walked the way of nature,
 And to our purposes he lives no more.
 
 <speaker>CHIEF JUSTICE</speaker>
@@ -4797,7 +4797,7 @@ Of seeming sorrow; it is sure your own.
 [<i>to the Chief Justice</i>]
 Though no man be assured what grace to find,
 You stand in coldest expectation.
-I am the sorrier; would 'twere otherwise.
+I am the sorrier; would &rsquo;twere otherwise.
 
 <speaker>THOMAS OF CLARENCE</speaker>
 Well, you must now speak Sir John Falstaff fair,
@@ -4805,11 +4805,11 @@ Which swims against your stream of quality.
 
 <speaker>CHIEF JUSTICE</speaker>
 Sweet princes, what I did I did in honor,
-Led by th' impartial conduct of my soul;
+Led by th&rsquo; impartial conduct of my soul;
 And never shall you see that I will beg
 A ragged and forestalled remission.
 If truth and upright innocency fail me,
-I'll to the king my master that is dead
+I&rsquo;ll to the king my master that is dead
 And tell him who hath sent me after him.
 
 [<i>Enter the Prince, as Henry V, and Blunt.</i>]
@@ -4834,9 +4834,9 @@ And wear it in my heart. Why then, be sad.
 But entertain no more of it, good brothers,
 Than a joint burden laid upon us all.
 For me, by heaven, I bid you be assured,
-I'll be your father and your brother too.
-Let me but bear your love, I'll bear your cares.
-Yet weep that Harry's dead, and so will I,
+I&rsquo;ll be your father and your brother too.
+Let me but bear your love, I&rsquo;ll bear your cares.
+Yet weep that Harry&rsquo;s dead, and so will I,
 But Harry lives that shall convert those tears
 By number into hours of happiness.
 
@@ -4856,13 +4856,13 @@ Your Majesty hath no just cause to hate me.
 No? How might a prince of my great hopes forget
 So great indignities you laid upon me?
 What, rate, rebuke, and roughly send to prison
-Th' immediate heir of England? Was this easy?
+Th&rsquo; immediate heir of England? Was this easy?
 May this be washed in Lethe and forgotten?
 
 <speaker>CHIEF JUSTICE</speaker>
 I then did use the person of your father;
 The image of his power lay then in me.
-And in th' administration of his law,
+And in th&rsquo; administration of his law,
 Whiles I was busy for the commonwealth,
 Your Highness pleased to forget my place,
 The majesty and power of law and justice,
@@ -4888,7 +4888,7 @@ And in your power soft silencing your son.
 After this cold considerance, sentence me,
 And, as you are a king, speak in your state
 What I have done that misbecame my place,
-My person, or my liege's sovereignty.
+My person, or my liege&rsquo;s sovereignty.
 
 <speaker>PRINCE</speaker>
 You are right, justice, and you weigh this well.
@@ -4896,17 +4896,17 @@ Therefore still bear the balance and the sword.
 And I do wish your honors may increase
 Till you do live to see a son of mine
 Offend you and obey you as I did.
-So shall I live to speak my father's words:
-"Happy am I that have a man so bold
+So shall I live to speak my father&rsquo;s words:
+"&ldquo;Happy am I that have a man so bold
 That dares do justice on my proper son;
 And not less happy, having such a son
 That would deliver up his greatness so
-Into the hands of justice." You did commit me,
+Into the hands of justice.&rdquo;" You did commit me,
 For which I do commit into your hand
-Th' unstained sword that you have used to bear,
+Th&rsquo; unstained sword that you have used to bear,
 With this remembrance: that you use the same
 With the like bold, just, and impartial spirit
-As you have done 'gainst me. There is my hand.
+As you have done &rsquo;gainst me. There is my hand.
 [<i>They clasp hands.</i>]
 You shall be as a father to my youth,
 My voice shall sound as you do prompt mine ear,
@@ -4937,7 +4937,7 @@ Our coronation done, we will accite,
 As I before remembered, all our state.
 And, God consigning to my good intents,
 No prince nor peer shall have just cause to say
-God shorten Harry's happy life one day.
+God shorten Harry&rsquo;s happy life one day.
 [<i>They exit.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
@@ -4947,7 +4947,7 @@ Bardolph, and Page.</i>]
 
 <speaker>SHALLOW</speaker>
 Nay, you shall see my orchard, where, in an
-arbor, we will eat a last year's pippin of mine own
+arbor, we will eat a last year&rsquo;s pippin of mine own
 graffing, with a dish of caraways, and so forth.--
 Come, cousin Silence.--And then to bed.
 
@@ -4981,18 +4981,18 @@ Ah, sirrah, quoth he, we shall
 	And ever among so merrily.
 
 <speaker>FALSTAFF</speaker>
-There's a merry heart!--Good Master Silence,
-I'll give you a health for that anon.
+There&rsquo;s a merry heart!--Good Master Silence,
+I&rsquo;ll give you a health for that anon.
 
 <speaker>SHALLOW</speaker>
 Give Master Bardolph some wine, Davy.
 
 <speaker>DAVY,</speaker>
 [<i>to the guests</i>]
-  Sweet sir, sit. I'll be with you
+  Sweet sir, sit. I&rsquo;ll be with you
 anon. Most sweet sir, sit. Master page, good master
-page, sit. Proface. What you want in meat, we'll
-have in drink, but you must bear. The heart's all.
+page, sit. Proface. What you want in meat, we&rsquo;ll
+have in drink, but you must bear. The heart&rsquo;s all.
 [<i>He exits.</i>]
 
 <speaker>SHALLOW</speaker>
@@ -5003,7 +5003,7 @@ soldier there, be merry.
 [<i>sings</i>]
 	Be merry, be merry, my wife has all,
 	For women are shrews, both short and tall.
-	'Tis merry in hall when beards wags all,
+	&rsquo;Tis merry in hall when beards wags all,
 	And welcome merry Shrovetide.
 	Be merry, be merry.
 
@@ -5019,19 +5019,19 @@ now.
 
 <speaker>DAVY,</speaker>
 [<i>to the guests</i>]
-  There's a dish of leather-coats for
+  There&rsquo;s a dish of leather-coats for
 you.
 
 <speaker>SHALLOW</speaker>
 Davy!
 
 <speaker>DAVY</speaker>
-Your Worship, I'll be with you straight.--A cup
+Your Worship, I&rsquo;ll be with you straight.--A cup
 of wine, sir.
 
 <speaker>SILENCE</speaker>
 [<i>sings</i>]
-	A cup of wine that's brisk and fine,
+	A cup of wine that&rsquo;s brisk and fine,
 	And drink unto thee, leman mine,
 	And a merry heart lives long-a.
 
@@ -5040,7 +5040,7 @@ Well said, Master Silence.
 
 <speaker>SILENCE</speaker>
 And we shall be merry; now comes in the
-sweet o' th' night.
+sweet o&rsquo; th&rsquo; night.
 
 <speaker>FALSTAFF</speaker>
 Health and long life to you, Master Silence.
@@ -5048,13 +5048,13 @@ Health and long life to you, Master Silence.
 <speaker>SILENCE</speaker>
 [<i>sings</i>]
 	Fill the cup, and let it come,
-	I'll pledge you a mile to th' bottom.
+	I&rsquo;ll pledge you a mile to th&rsquo; bottom.
 
 <speaker>SHALLOW</speaker>
-Honest Bardolph, welcome. If thou want'st
+Honest Bardolph, welcome. If thou want&rsquo;st
 anything and wilt not call, beshrew thy heart.--
 Welcome, my little tiny thief, and welcome indeed
-too. I'll drink to Master Bardolph, and to all the
+too. I&rsquo;ll drink to Master Bardolph, and to all the
 cabileros about London.
 
 <speaker>DAVY</speaker>
@@ -5064,24 +5064,24 @@ I hope to see London once ere I die.
 An I might see you there, Davy!
 
 <speaker>SHALLOW</speaker>
-By the Mass, you'll crack a quart together,
+By the Mass, you&rsquo;ll crack a quart together,
 ha, will you not, Master Bardolph?
 
 <speaker>BARDOLPH</speaker>
 Yea, sir, in a pottle-pot.
 
 <speaker>SHALLOW</speaker>
-By God's liggens, I thank thee. The knave
+By God&rsquo;s liggens, I thank thee. The knave
 will stick by thee, I can assure thee that. He will not
-out, he. 'Tis true bred!
+out, he. &rsquo;Tis true bred!
 
 <speaker>BARDOLPH</speaker>
-And I'll stick by him, sir.
+And I&rsquo;ll stick by him, sir.
 
 <speaker>SHALLOW</speaker>
 Why, there spoke a king. Lack nothing, be
 merry. [<i>(One knocks at door.)</i>]
- Look who's at door
+ Look who&rsquo;s at door
 there, ho. Who knocks?	[<i>Davy exits.</i>]
 
 <speaker>FALSTAFF</speaker>
@@ -5092,19 +5092,19 @@ Why, now you have done me right.
 	Do me right,
 	And dub me knight,
 	Samingo.
-Is 't not so?
+Is &rsquo;t not so?
 
 <speaker>FALSTAFF</speaker>
-'Tis so.
+&rsquo;Tis so.
 
 <speaker>SILENCE</speaker>
-Is 't so? Why then, say an old man can do
+Is &rsquo;t so? Why then, say an old man can do
 somewhat.
 
 [<i>Enter Davy.</i>]
 
 <speaker>DAVY</speaker>
-An 't please your Worship, there's one Pistol
+An &rsquo;t please your Worship, there&rsquo;s one Pistol
 come from the court with news.
 
 <speaker>FALSTAFF</speaker>
@@ -5126,7 +5126,7 @@ Sweet knight, thou art now one of the greatest men
 in this realm.
 
 <speaker>SILENCE</speaker>
-By 'r Lady, I think he be, but Goodman Puff of
+By &rsquo;r Lady, I think he be, but Goodman Puff of
 Barson.
 
 <speaker>PISTOL</speaker>
@@ -5156,7 +5156,7 @@ Let King Cophetua know the truth thereof.
 <speaker>PISTOL</speaker>
 Shall dunghill curs confront the Helicons,
 And shall good news be baffled?
-Then, Pistol, lay thy head in Furies' lap.
+Then, Pistol, lay thy head in Furies&rsquo; lap.
 
 <speaker>SHALLOW</speaker>
 Honest gentleman, I know not your
@@ -5167,7 +5167,7 @@ Why then, lament therefor.
 
 <speaker>SHALLOW</speaker>
 Give me pardon, sir. If, sir, you come with
-news from the court, I take it there's but two ways,
+news from the court, I take it there&rsquo;s but two ways,
 either to utter them, or to conceal them. I am, sir,
 under the King in some authority.
 
@@ -5186,7 +5186,7 @@ Harry the Fourth.
 <speaker>PISTOL</speaker>
 A foutre for thine office!--
 Sir John, thy tender lambkin now is king.
-Harry the Fifth's the man. I speak the truth.
+Harry the Fifth&rsquo;s the man. I speak the truth.
 When Pistol lies, do this and fig me, like
 The bragging Spaniard.	[<i>Pistol makes a fig.</i>]
 
@@ -5199,7 +5199,7 @@ As nail in door. The things I speak are just.
 <speaker>FALSTAFF</speaker>
 Away, Bardolph.--Saddle my horse.--
 Master Robert Shallow, choose what office thou
-wilt in the land, 'tis thine.--Pistol, I will double-charge
+wilt in the land, &rsquo;tis thine.--Pistol, I will double-charge
 thee with dignities.
 
 <speaker>BARDOLPH</speaker>
@@ -5212,18 +5212,18 @@ What, I do bring good news!
 <speaker>FALSTAFF</speaker>
 Carry Master Silence to bed.--Master Shallow,
 my Lord Shallow, be what thou wilt. I am
-Fortune's steward. Get on thy boots. We'll ride all
+Fortune&rsquo;s steward. Get on thy boots. We&rsquo;ll ride all
 night.--O sweet Pistol!--Away, Bardolph!--Come,
 Pistol, utter more to me, and withal devise something
 to do thyself good.--Boot, boot, Master Shallow.
 I know the young king is sick for me. Let us
-take any man's horses. The laws of England are at
+take any man&rsquo;s horses. The laws of England are at
 my commandment. Blessed are they that have been
 my friends, and woe to my Lord Chief Justice!
 
 <speaker>PISTOL</speaker>
 Let vultures vile seize on his lungs also!
-"Where is the life that late I led?" say they.
+"&ldquo;Where is the life that late I led?&rdquo;" say they.
 Why, here it is. Welcome these pleasant days.
 [<i>They exit.</i>]
 
@@ -5243,7 +5243,7 @@ warrant her. There hath been a man or two lately
 killed about her.
 
 <speaker>DOLL</speaker>
-Nut-hook, nut-hook, you lie! Come on, I'll tell
+Nut-hook, nut-hook, you lie! Come on, I&rsquo;ll tell
 thee what, thou damned tripe-visaged rascal: an the
 child I now go with do miscarry, thou wert better
 thou hadst struck thy mother, thou paper-faced
@@ -5261,10 +5261,10 @@ both go with me, for the man is dead that you and
 Pistol beat amongst you.
 
 <speaker>DOLL</speaker>
-I'll tell you what, you thin man in a censer, I will
+I&rsquo;ll tell you what, you thin man in a censer, I will
 have you as soundly swinged for this, you bluebottle
 rogue, you filthy famished correctioner. If you be
-not swinged, I'll forswear half-kirtles.
+not swinged, I&rsquo;ll forswear half-kirtles.
 
 <speaker>BEADLE</speaker>
 Come, come, you she-knight-errant, come.
@@ -5303,7 +5303,7 @@ More rushes, more rushes.
 The trumpets have sounded twice.
 
 <speaker>FIRST GROOM</speaker>
-'Twill be two o'clock ere they come
+&rsquo;Twill be two o&rsquo;clock ere they come
 from the coronation. Dispatch, dispatch.
 [<i>Grooms exit.</i>]
 
@@ -5324,7 +5324,7 @@ God bless thy lungs, good knight!
 Come here, Pistol, stand behind me.--O, if I
 had had time to have made new liveries, I would
 have bestowed the thousand pound I borrowed of
-you. But 'tis no matter. This poor show doth better.
+you. But &rsquo;tis no matter. This poor show doth better.
 This doth infer the zeal I had to see him.
 
 <speaker>SHALLOW</speaker>
@@ -5357,18 +5357,18 @@ putting all affairs else in oblivion, as if there were
 nothing else to be done but to see him.
 
 <speaker>PISTOL</speaker>
-'Tis semper idem, for obsque hoc nihil est; 'tis
+&rsquo;Tis semper idem, for obsque hoc nihil est; &rsquo;tis
 all in every part.
 
 <speaker>SHALLOW</speaker>
-'Tis so indeed.
+&rsquo;Tis so indeed.
 
 <speaker>PISTOL</speaker>
 My knight, I will inflame thy noble liver, and
 make thee rage. Thy Doll and Helen of thy noble
 thoughts is in base durance and contagious prison,
 haled thither by most mechanical and dirty hand.
-Rouse up revenge from ebon den with fell Alecto's
+Rouse up revenge from ebon den with fell Alecto&rsquo;s
 snake, for Doll is in. Pistol speaks nought but truth.
 
 <speaker>FALSTAFF</speaker>
@@ -5395,7 +5395,7 @@ My Lord Chief Justice, speak to that vain man.
 
 <speaker>CHIEF JUSTICE,</speaker>
 [<i>to Falstaff</i>]
-Have you your wits? Know you what 'tis you
+Have you your wits? Know you what &rsquo;tis you
 speak?
 
 <speaker>FALSTAFF,</speaker>
@@ -5484,7 +5484,7 @@ Si fortuna me tormenta, spero me contenta.
 Chief Justice exit.</i>]
 
 <speaker>JOHN OF LANCASTER</speaker>
-I like this fair proceeding of the King's.
+I like this fair proceeding of the King&rsquo;s.
 He hath intent his wonted followers
 Shall all be very well provided for,
 But all are banished till their conversations

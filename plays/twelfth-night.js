@@ -18,14 +18,14 @@ If music be the food of love, play on.
 Give me excess of it, that, surfeiting,
 The appetite may sicken and so die.
 That strain again! It had a dying fall.
-O, it came o'er my ear like the sweet sound
+O, it came o&rsquo;er my ear like the sweet sound
 That breathes upon a bank of violets,
 Stealing and giving odor. Enough; no more.
-'Tis not so sweet now as it was before.
+&rsquo;Tis not so sweet now as it was before.
 O spirit of love, how quick and fresh art thou,
 That, notwithstanding thy capacity
 Receiveth as the sea, naught enters there,
-Of what validity and pitch soe'er,
+Of what validity and pitch soe&rsquo;er,
 But falls into abatement and low price
 Even in a minute. So full of shapes is fancy
 That it alone is high fantastical.
@@ -43,7 +43,7 @@ O, when mine eyes did see Olivia first,
 Methought she purged the air of pestilence.
 That instant was I turned into a hart,
 And my desires, like fell and cruel hounds,
-E'er since pursue me.
+E&rsquo;er since pursue me.
 
 [<i>Enter Valentine.</i>]
 
@@ -52,12 +52,12 @@ How now, what news from her?
 VALENTINE
 So please my lord, I might not be admitted,
 But from her handmaid do return this answer:
-The element itself, till seven years' heat,
+The element itself, till seven years&rsquo; heat,
 Shall not behold her face at ample view,
 But like a cloistress she will veiled walk,
 And water once a day her chamber round
 With eye-offending brine--all this to season
-A brother's dead love, which she would keep fresh
+A brother&rsquo;s dead love, which she would keep fresh
 And lasting in her sad remembrance.
 
 ORSINO
@@ -102,20 +102,20 @@ Hung on our driving boat, I saw your brother,
 Most provident in peril, bind himself
 (Courage and hope both teaching him the practice)
 To a strong mast that lived upon the sea,
-Where, like Arion on the dolphin's back,
+Where, like Arion on the dolphin&rsquo;s back,
 I saw him hold acquaintance with the waves
 So long as I could see.
 
 <speaker>VIOLA,</speaker>
 [<i>giving him money</i>]
-  For saying so, there's gold.
+  For saying so, there&rsquo;s gold.
 Mine own escape unfoldeth to my hope,
 Whereto thy speech serves for authority,
-The like of him. Know'st thou this country?
+The like of him. Know&rsquo;st thou this country?
 
 <speaker>CAPTAIN</speaker>
 Ay, madam, well, for I was bred and born
-Not three hours' travel from this very place.
+Not three hours&rsquo; travel from this very place.
 
 <speaker>VIOLA</speaker>
 Who governs here?
@@ -136,12 +136,12 @@ He was a bachelor then.
 <speaker>CAPTAIN</speaker>
 And so is now, or was so very late;
 For but a month ago I went from hence,
-And then 'twas fresh in murmur (as, you know,
+And then &rsquo;twas fresh in murmur (as, you know,
 What great ones do the less will prattle of)
 That he did seek the love of fair Olivia.
 
 <speaker>VIOLA</speaker>
-What's she?
+What&rsquo;s she?
 
 <speaker>CAPTAIN</speaker>
 A virtuous maid, the daughter of a count
@@ -160,7 +160,7 @@ What my estate is.
 <speaker>CAPTAIN</speaker>
 That were hard to compass
 Because she will admit no kind of suit,
-No, not the Duke's.
+No, not the Duke&rsquo;s.
 
 <speaker>VIOLA</speaker>
 There is a fair behavior in thee, captain,
@@ -168,10 +168,10 @@ And though that nature with a beauteous wall
 Doth oft close in pollution, yet of thee
 I will believe thou hast a mind that suits
 With this thy fair and outward character.
-I prithee--and I'll pay thee bounteously--
+I prithee--and I&rsquo;ll pay thee bounteously--
 Conceal me what I am, and be my aid
 For such disguise as haply shall become
-The form of my intent. I'll serve this duke.
+The form of my intent. I&rsquo;ll serve this duke.
 Thou shalt present me as an eunuch to him.
 It may be worth thy pains, for I can sing
 And speak to him in many sorts of music
@@ -180,7 +180,7 @@ What else may hap, to time I will commit.
 Only shape thou thy silence to my wit.
 
 <speaker>CAPTAIN</speaker>
-Be you his eunuch, and your mute I'll be.
+Be you his eunuch, and your mute I&rsquo;ll be.
 When my tongue blabs, then let mine eyes not see.
 
 <speaker>VIOLA</speaker>
@@ -193,12 +193,12 @@ I thank thee. Lead me on.
 
 <speaker>TOBY</speaker>
 What a plague means my niece to take the death
-of her brother thus? I am sure care's an enemy to
+of her brother thus? I am sure care&rsquo;s an enemy to
 life.
 
 <speaker>MARIA</speaker>
 By my troth, Sir Toby, you must come in earlier
-o' nights. Your cousin, my lady, takes great exceptions
+o&rsquo; nights. Your cousin, my lady, takes great exceptions
 to your ill hours.
 
 <speaker>TOBY</speaker>
@@ -209,7 +209,7 @@ Ay, but you must confine yourself within the
 modest limits of order.
 
 <speaker>TOBY</speaker>
-Confine? I'll confine myself no finer than I am.
+Confine? I&rsquo;ll confine myself no finer than I am.
 These clothes are good enough to drink in, and so
 be these boots too. An they be not, let them hang
 themselves in their own straps!
@@ -227,29 +227,29 @@ Who, Sir Andrew Aguecheek?
 Ay, he.
 
 <speaker>TOBY</speaker>
-He's as tall a man as any 's in Illyria.
+He&rsquo;s as tall a man as any &rsquo;s in Illyria.
 
 <speaker>MARIA</speaker>
-What's that to th' purpose?
+What&rsquo;s that to th&rsquo; purpose?
 
 <speaker>TOBY</speaker>
 Why, he has three thousand ducats a year!
 
 <speaker>MARIA</speaker>
-Ay, but he'll have but a year in all these ducats.
-He's a very fool and a prodigal.
+Ay, but he&rsquo;ll have but a year in all these ducats.
+He&rsquo;s a very fool and a prodigal.
 
 <speaker>TOBY</speaker>
-Fie that you'll say so! He plays o' th' viol-de-gamboys
+Fie that you&rsquo;ll say so! He plays o&rsquo; th&rsquo; viol-de-gamboys
 and speaks three or four languages word
 for word without book, and hath all the good gifts of
 nature.
 
 <speaker>MARIA</speaker>
 He hath indeed, almost natural, for, besides
-that he's a fool, he's a great quarreler, and, but that
+that he&rsquo;s a fool, he&rsquo;s a great quarreler, and, but that
 he hath the gift of a coward to allay the gust he hath
-in quarreling, 'tis thought among the prudent he
+in quarreling, &rsquo;tis thought among the prudent he
 would quickly have the gift of a grave.
 
 <speaker>TOBY</speaker>
@@ -257,14 +257,14 @@ By this hand, they are scoundrels and substractors
 that say so of him. Who are they?
 
 <speaker>MARIA</speaker>
-They that add, moreover, he's drunk nightly in
+They that add, moreover, he&rsquo;s drunk nightly in
 your company.
 
 <speaker>TOBY</speaker>
-With drinking healths to my niece. I'll drink to
+With drinking healths to my niece. I&rsquo;ll drink to
 her as long as there is a passage in my throat and
-drink in Illyria. He's a coward and a coistrel that
-will not drink to my niece till his brains turn o' th'
+drink in Illyria. He&rsquo;s a coward and a coistrel that
+will not drink to my niece till his brains turn o&rsquo; th&rsquo;
 toe like a parish top. What, wench! Castiliano vulgo,
 for here comes Sir Andrew Agueface.
 
@@ -287,10 +287,10 @@ And you too, sir.
 Accost, Sir Andrew, accost!
 
 <speaker>ANDREW</speaker>
-What's that?
+What&rsquo;s that?
 
 <speaker>TOBY</speaker>
-My niece's chambermaid.
+My niece&rsquo;s chambermaid.
 
 <speaker>ANDREW</speaker>
 Good Mistress Accost, I desire better
@@ -303,12 +303,12 @@ My name is Mary, sir.
 Good Mistress Mary Accost--
 
 <speaker>TOBY</speaker>
-You mistake, knight. "Accost" is front her, board
+You mistake, knight. "&ldquo;Accost&rdquo;" is front her, board
 her, woo her, assail her.
 
 <speaker>ANDREW</speaker>
 By my troth, I would not undertake her in
-this company. Is that the meaning of "accost"?
+this company. Is that the meaning of "&ldquo;accost&rdquo;"?
 
 <speaker>MARIA</speaker>
 Fare you well, gentlemen. [<i>She begins to exit.</i>]
@@ -323,28 +323,28 @@ never draw sword again. Fair lady, do you think you
 have fools in hand?
 
 <speaker>MARIA</speaker>
-Sir, I have not you by th' hand.
+Sir, I have not you by th&rsquo; hand.
 
 <speaker>ANDREW</speaker>
-Marry, but you shall have, and here's my
+Marry, but you shall have, and here&rsquo;s my
 hand.	[<i>He offers his hand.</i>]
 
 <speaker>MARIA,</speaker>
 [<i>taking his hand</i>]
   Now sir, thought is free. I
-pray you, bring your hand to th' butt'ry bar and let
+pray you, bring your hand to th&rsquo; butt&rsquo;ry bar and let
 it drink.
 
 <speaker>ANDREW</speaker>
-Wherefore, sweetheart? What's your
+Wherefore, sweetheart? What&rsquo;s your
 metaphor?
 
 <speaker>MARIA</speaker>
-It's dry, sir.
+It&rsquo;s dry, sir.
 
 <speaker>ANDREW</speaker>
 Why, I think so. I am not such an ass but I
-can keep my hand dry. But what's your jest?
+can keep my hand dry. But what&rsquo;s your jest?
 
 <speaker>MARIA</speaker>
 A dry jest, sir.
@@ -353,11 +353,11 @@ A dry jest, sir.
 Are you full of them?
 
 <speaker>MARIA</speaker>
-Ay, sir, I have them at my fingers' ends. Marry,
+Ay, sir, I have them at my fingers&rsquo; ends. Marry,
 now I let go your hand, I am barren.	[<i>Maria exits.</i>]
 
 <speaker>TOBY</speaker>
-O knight, thou lack'st a cup of canary! When did
+O knight, thou lack&rsquo;st a cup of canary! When did
 I see thee so put down?
 
 <speaker>ANDREW</speaker>
@@ -371,14 +371,14 @@ does harm to my wit.
 No question.
 
 <speaker>ANDREW</speaker>
-An I thought that, I'd forswear it. I'll ride
+An I thought that, I&rsquo;d forswear it. I&rsquo;ll ride
 home tomorrow, Sir Toby.
 
 <speaker>TOBY</speaker>
 Pourquoi, my dear knight?
 
 <speaker>ANDREW</speaker>
-What is "pourquoi"? Do, or not do? I would I
+What is "&ldquo;pourquoi&rdquo;"? Do, or not do? I would I
 had bestowed that time in the tongues that I have in
 fencing, dancing, and bearbaiting. O, had I but
 followed the arts!
@@ -394,7 +394,7 @@ Past question, for thou seest it will not curl by
 nature.
 
 <speaker>ANDREW</speaker>
-But it becomes me well enough, does 't not?
+But it becomes me well enough, does &rsquo;t not?
 
 <speaker>TOBY</speaker>
 Excellent! It hangs like flax on a distaff, and I
@@ -402,19 +402,19 @@ hope to see a huswife take thee between her legs
 and spin it off.
 
 <speaker>ANDREW</speaker>
-Faith, I'll home tomorrow, Sir Toby. Your
-niece will not be seen, or if she be, it's four to one
-she'll none of me. The Count himself here hard by
+Faith, I&rsquo;ll home tomorrow, Sir Toby. Your
+niece will not be seen, or if she be, it&rsquo;s four to one
+she&rsquo;ll none of me. The Count himself here hard by
 woos her.
 
 <speaker>TOBY</speaker>
-She'll none o' th' Count. She'll not match above
+She&rsquo;ll none o&rsquo; th&rsquo; Count. She&rsquo;ll not match above
 her degree, neither in estate, years, nor wit. I have
-heard her swear 't. Tut, there's life in 't, man.
+heard her swear &rsquo;t. Tut, there&rsquo;s life in &rsquo;t, man.
 
 <speaker>ANDREW</speaker>
-I'll stay a month longer. I am a fellow o' th'
-strangest mind i' th' world. I delight in masques
+I&rsquo;ll stay a month longer. I am a fellow o&rsquo; th&rsquo;
+strangest mind i&rsquo; th&rsquo; world. I delight in masques
 and revels sometimes altogether.
 
 <speaker>TOBY</speaker>
@@ -432,7 +432,7 @@ What is thy excellence in a galliard, knight?
 Faith, I can cut a caper.
 
 <speaker>TOBY</speaker>
-And I can cut the mutton to 't.
+And I can cut the mutton to &rsquo;t.
 
 <speaker>ANDREW</speaker>
 And I think I have the back-trick simply as
@@ -440,8 +440,8 @@ strong as any man in Illyria.
 
 <speaker>TOBY</speaker>
 Wherefore are these things hid? Wherefore have
-these gifts a curtain before 'em? Are they like to
-take dust, like Mistress Mall's picture? Why dost
+these gifts a curtain before &rsquo;em? Are they like to
+take dust, like Mistress Mall&rsquo;s picture? Why dost
 thou not go to church in a galliard and come home
 in a coranto? My very walk should be a jig. I would
 not so much as make water but in a sink-a-pace.
@@ -450,7 +450,7 @@ in? I did think, by the excellent constitution of thy
 leg, it was formed under the star of a galliard.
 
 <speaker>ANDREW</speaker>
-Ay, 'tis strong, and it does indifferent well in a
+Ay, &rsquo;tis strong, and it does indifferent well in a
 dun-colored stock. Shall we set about some
 revels?
 
@@ -459,7 +459,7 @@ What shall we do else? Were we not born under
 Taurus?
 
 <speaker>ANDREW</speaker>
-Taurus? That's sides and heart.
+Taurus? That&rsquo;s sides and heart.
 
 <speaker>TOBY</speaker>
 No, sir, it is legs and thighs. Let me see thee
@@ -470,7 +470,7 @@ excellent!
 
 <b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Enter Valentine, and Viola in man's attire as Cesario.</i>]
+[<i>Enter Valentine, and Viola in man&rsquo;s attire as Cesario.</i>]
 
 <speaker>VALENTINE</speaker>
 If the Duke continue these favors towards
@@ -502,7 +502,7 @@ On your attendance, my lord, here.
 <speaker>ORSINO,</speaker>
 [<i>to Curio and Attendants</i>]
 Stand you awhile aloof.--Cesario,
-Thou know'st no less but all. I have unclasped
+Thou know&rsquo;st no less but all. I have unclasped
 To thee the book even of my secret soul.
 Therefore, good youth, address thy gait unto her.
 Be not denied access. Stand at her doors
@@ -526,7 +526,7 @@ O, then unfold the passion of my love.
 Surprise her with discourse of my dear faith.
 It shall become thee well to act my woes.
 She will attend it better in thy youth
-Than in a nuncio's of more grave aspect.
+Than in a nuncio&rsquo;s of more grave aspect.
 
 <speaker>VIOLA</speaker>
 I think not so, my lord.
@@ -534,9 +534,9 @@ I think not so, my lord.
 <speaker>ORSINO</speaker>
 Dear lad, believe it;
 For they shall yet belie thy happy years
-That say thou art a man. Diana's lip
+That say thou art a man. Diana&rsquo;s lip
 Is not more smooth and rubious, thy small pipe
-Is as the maiden's organ, shrill and sound,
+Is as the maiden&rsquo;s organ, shrill and sound,
 And all is semblative a womans part.
 I know thy constellation is right apt
 For this affair.--Some four or five attend him,
@@ -546,10 +546,10 @@ And thou shalt live as freely as thy lord,
 To call his fortunes thine.
 
 <speaker>VIOLA</speaker>
-I'll do my best
+I&rsquo;ll do my best
 To woo your lady. [<i>Aside.</i>]
  Yet a barful strife!
-Whoe'er I woo, myself would be his wife.
+Whoe&rsquo;er I woo, myself would be his wife.
 [<i>They exit.</i>]
 
 <b id="act-1-scene-5" class="scene-header">Scene 5</b>
@@ -574,7 +574,7 @@ He shall see none to fear.
 
 <speaker>MARIA</speaker>
 A good Lenten answer. I can tell thee where
-that saying was born, of "I fear no colors."
+that saying was born, of "&ldquo;I fear no colors.&rdquo;"
 
 <speaker>FOOL</speaker>
 Where, good Mistress Mary?
@@ -609,10 +609,10 @@ break, your gaskins fall.
 <speaker>FOOL</speaker>
 Apt, in good faith, very apt. Well, go thy way. If Sir
 Toby would leave drinking, thou wert as witty a
-piece of Eve's flesh as any in Illyria.
+piece of Eve&rsquo;s flesh as any in Illyria.
 
 <speaker>MARIA</speaker>
-Peace, you rogue. No more o' that. Here comes
+Peace, you rogue. No more o&rsquo; that. Here comes
 my lady. Make your excuse wisely, you were best.
 [<i>She exits.</i>]
 
@@ -620,11 +620,11 @@ my lady. Make your excuse wisely, you were best.
 
 <speaker>FOOL,</speaker>
 [<i>aside</i>]
-  Wit, an 't be thy will, put me into good
+  Wit, an &rsquo;t be thy will, put me into good
 fooling! Those wits that think they have thee do very
 oft prove fools, and I that am sure I lack thee may
 pass for a wise man. For what says Quinapalus?
-"Better a witty Fool than a foolish wit."--God bless
+"&ldquo;Better a witty Fool than a foolish wit."--God bless
 thee, lady!
 
 <speaker>OLIVIA</speaker>
@@ -634,7 +634,7 @@ Take the Fool away.
 Do you not hear, fellows? Take away the Lady.
 
 <speaker>OLIVIA</speaker>
-Go to, you're a dry Fool. I'll no more of you.
+Go to, you&rsquo;re a dry Fool. I&rsquo;ll no more of you.
 Besides, you grow dishonest.
 
 <speaker>FOOL</speaker>
@@ -642,12 +642,12 @@ Two faults, madonna, that drink and good counsel
 will amend. For give the dry Fool drink, then is
 the Fool not dry. Bid the dishonest man mend
 himself; if he mend, he is no longer dishonest; if he
-cannot, let the botcher mend him. Anything that's
+cannot, let the botcher mend him. Anything that&rsquo;s
 mended is but patched; virtue that transgresses is
 but patched with sin, and sin that amends is but
 patched with virtue. If that this simple syllogism
 will serve, so; if it will not, what remedy? As there is
-no true cuckold but calamity, so beauty's a flower.
+no true cuckold but calamity, so beauty&rsquo;s a flower.
 The Lady bade take away the Fool. Therefore, I say
 again, take her away.
 
@@ -656,7 +656,7 @@ Sir, I bade them take away you.
 
 <speaker>FOOL</speaker>
 Misprision in the highest degree! Lady, cucullus
-non facit monachum. That's as much to say as, I
+non facit monachum. That&rsquo;s as much to say as, I
 wear not motley in my brain. Good madonna, give
 me leave to prove you a fool.
 
@@ -674,14 +674,14 @@ I must catechize you for it, madonna. Good my
 mouse of virtue, answer me.
 
 <speaker>OLIVIA</speaker>
-Well, sir, for want of other idleness, I'll bide
+Well, sir, for want of other idleness, I&rsquo;ll bide
 your proof.
 
 <speaker>FOOL</speaker>
-Good madonna, why mourn'st thou?
+Good madonna, why mourn&rsquo;st thou?
 
 <speaker>OLIVIA</speaker>
-Good Fool, for my brother's death.
+Good Fool, for my brother&rsquo;s death.
 
 <speaker>FOOL</speaker>
 I think his soul is in hell, madonna.
@@ -691,7 +691,7 @@ I know his soul is in heaven, Fool.
 
 <speaker>FOOL</speaker>
 The more fool, madonna, to mourn for your
-brother's soul, being in heaven. Take away the fool,
+brother&rsquo;s soul, being in heaven. Take away the fool,
 gentlemen.
 
 <speaker>OLIVIA</speaker>
@@ -716,11 +716,11 @@ How say you to that, Malvolio?
 I marvel your Ladyship takes delight in
 such a barren rascal. I saw him put down the other
 day with an ordinary fool that has no more brain
-than a stone. Look you now, he's out of his guard
+than a stone. Look you now, he&rsquo;s out of his guard
 already. Unless you laugh and minister occasion to
 him, he is gagged. I protest I take these wise men
 that crow so at these set kind of Fools no better than
-the Fools' zanies.
+the Fools&rsquo; zanies.
 
 <speaker>OLIVIA</speaker>
 O, you are sick of self-love, Malvolio, and taste
@@ -733,7 +733,7 @@ man, though he do nothing but reprove.
 
 <speaker>FOOL</speaker>
 Now Mercury endue thee with leasing, for thou
-speak'st well of Fools!
+speak&rsquo;st well of Fools!
 
 [<i>Enter Maria.</i>]
 
@@ -745,7 +745,7 @@ much desires to speak with you.
 From the Count Orsino, is it?
 
 <speaker>MARIA</speaker>
-I know not, madam. 'Tis a fair young man, and
+I know not, madam. &rsquo;Tis a fair young man, and
 well attended.
 
 <speaker>OLIVIA</speaker>
@@ -783,7 +783,7 @@ A gentleman.
 A gentleman? What gentleman?
 
 <speaker>TOBY</speaker>
-'Tis a gentleman here--a plague o' these pickle
+&rsquo;Tis a gentleman here--a plague o&rsquo; these pickle
 herring!--How now, sot?
 
 <speaker>FOOL</speaker>
@@ -794,17 +794,17 @@ Cousin, cousin, how have you come so early by
 this lethargy?
 
 <speaker>TOBY</speaker>
-Lechery? I defy lechery. There's one at the gate.
+Lechery? I defy lechery. There&rsquo;s one at the gate.
 
 <speaker>OLIVIA</speaker>
 Ay, marry, what is he?
 
 <speaker>TOBY</speaker>
 Let him be the devil an he will, I care not. Give
-me faith, say I. Well, it's all one.	[<i>He exits.</i>]
+me faith, say I. Well, it&rsquo;s all one.	[<i>He exits.</i>]
 
 <speaker>OLIVIA</speaker>
-What's a drunken man like, Fool?
+What&rsquo;s a drunken man like, Fool?
 
 <speaker>FOOL</speaker>
 Like a drowned man, a fool, and a madman. One
@@ -812,8 +812,8 @@ draught above heat makes him a fool, the second
 mads him, and a third drowns him.
 
 <speaker>OLIVIA</speaker>
-Go thou and seek the crowner and let him sit o'
-my coz, for he's in the third degree of drink: he's
+Go thou and seek the crowner and let him sit o&rsquo;
+my coz, for he&rsquo;s in the third degree of drink: he&rsquo;s
 drowned. Go look after him.
 
 <speaker>FOOL</speaker>
@@ -829,19 +829,19 @@ on him to understand so much, and therefore
 comes to speak with you. I told him you were
 asleep; he seems to have a foreknowledge of that
 too, and therefore comes to speak with you. What is
-to be said to him, lady? He's fortified against any
+to be said to him, lady? He&rsquo;s fortified against any
 denial.
 
 <speaker>OLIVIA</speaker>
 Tell him he shall not speak with me.
 
 <speaker>MALVOLIO</speaker>
-Has been told so, and he says he'll stand at
-your door like a sheriff's post and be the supporter
-to a bench, but he'll speak with you.
+Has been told so, and he says he&rsquo;ll stand at
+your door like a sheriff&rsquo;s post and be the supporter
+to a bench, but he&rsquo;ll speak with you.
 
 <speaker>OLIVIA</speaker>
-What kind o' man is he?
+What kind o&rsquo; man is he?
 
 <speaker>MALVOLIO</speaker>
 Why, of mankind.
@@ -850,7 +850,7 @@ Why, of mankind.
 What manner of man?
 
 <speaker>MALVOLIO</speaker>
-Of very ill manner. He'll speak with you,
+Of very ill manner. He&rsquo;ll speak with you,
 will you or no.
 
 <speaker>OLIVIA</speaker>
@@ -858,11 +858,11 @@ Of what personage and years is he?
 
 <speaker>MALVOLIO</speaker>
 Not yet old enough for a man, nor young
-enough for a boy--as a squash is before 'tis a
-peascod, or a codling when 'tis almost an apple. 'Tis
+enough for a boy--as a squash is before &rsquo;tis a
+peascod, or a codling when &rsquo;tis almost an apple. &rsquo;Tis
 with him in standing water, between boy and man.
 He is very well-favored, and he speaks very shrewishly.
-One would think his mother's milk were
+One would think his mother&rsquo;s milk were
 scarce out of him.
 
 <speaker>OLIVIA</speaker>
@@ -874,9 +874,9 @@ Gentlewoman, my lady calls. [<i>He exits.</i>]
 [<i>Enter Maria.</i>]
 
 <speaker>OLIVIA</speaker>
-Give me my veil. Come, throw it o'er my face.
+Give me my veil. Come, throw it o&rsquo;er my face.
 [<i>Olivia veils.</i>]
-We'll once more hear Orsino's embassy.
+We&rsquo;ll once more hear Orsino&rsquo;s embassy.
 
 [<i>Enter Viola.</i>]
 
@@ -900,7 +900,7 @@ Whence came you, sir?
 
 <speaker>VIOLA</speaker>
 I can say little more than I have studied, and
-that question's out of my part. Good gentle one,
+that question&rsquo;s out of my part. Good gentle one,
 give me modest assurance if you be the lady of the
 house, that I may proceed in my speech.
 
@@ -923,11 +923,11 @@ with my speech in your praise and then show you
 the heart of my message.
 
 <speaker>OLIVIA</speaker>
-Come to what is important in 't. I forgive you
+Come to what is important in &rsquo;t. I forgive you
 the praise.
 
 <speaker>VIOLA</speaker>
-Alas, I took great pains to study it, and 'tis
+Alas, I took great pains to study it, and &rsquo;tis
 poetical.
 
 <speaker>OLIVIA</speaker>
@@ -935,7 +935,7 @@ It is the more like to be feigned. I pray you,
 keep it in. I heard you were saucy at my gates, and
 allowed your approach rather to wonder at you than
 to hear you. If you be not mad, begone; if you have
-reason, be brief. 'Tis not that time of moon with me
+reason, be brief. &rsquo;Tis not that time of moon with me
 to make one in so skipping a dialogue.
 
 <speaker>MARIA</speaker>
@@ -970,7 +970,7 @@ would you?
 The rudeness that hath appeared in me have I
 learned from my entertainment. What I am and
 what I would are as secret as maidenhead: to your
-ears, divinity; to any other's, profanation.
+ears, divinity; to any other&rsquo;s, profanation.
 
 <speaker>OLIVIA</speaker>
 Give us the place alone. We will hear this
@@ -986,7 +986,7 @@ A comfortable doctrine, and much may be said
 of it. Where lies your text?
 
 <speaker>VIOLA</speaker>
-In Orsino's bosom.
+In Orsino&rsquo;s bosom.
 
 <speaker>OLIVIA</speaker>
 In his bosom? In what chapter of his bosom?
@@ -1007,19 +1007,19 @@ negotiate with my face? You are now out of your
 text. But we will draw the curtain and show you the
 picture. [<i>She removes her veil.</i>]
  Look you, sir, such a
-one I was this present. Is 't not well done?
+one I was this present. Is &rsquo;t not well done?
 
 <speaker>VIOLA</speaker>
 Excellently done, if God did all.
 
 <speaker>OLIVIA</speaker>
-'Tis in grain, sir; 'twill endure wind and
+&rsquo;Tis in grain, sir; &rsquo;twill endure wind and
 weather.
 
 <speaker>VIOLA</speaker>
-'Tis beauty truly blent, whose red and white
-Nature's own sweet and cunning hand laid on.
-Lady, you are the cruel'st she alive
+&rsquo;Tis beauty truly blent, whose red and white
+Nature&rsquo;s own sweet and cunning hand laid on.
+Lady, you are the cruel&rsquo;st she alive
 If you will lead these graces to the grave
 And leave the world no copy.
 
@@ -1057,8 +1057,8 @@ A gracious person. But yet I cannot love him.
 He might have took his answer long ago.
 
 <speaker>VIOLA</speaker>
-If I did love you in my master's flame,
-With such a suff'ring, such a deadly life,
+If I did love you in my master&rsquo;s flame,
+With such a suff&rsquo;ring, such a deadly life,
 In your denial I would find no sense.
 I would not understand it.
 
@@ -1072,7 +1072,7 @@ Write loyal cantons of contemned love
 And sing them loud even in the dead of night,
 Hallow your name to the reverberate hills
 And make the babbling gossip of the air
-Cry out "Olivia!" O, you should not rest
+Cry out "&ldquo;Olivia!&rdquo;" O, you should not rest
 Between the elements of air and earth
 But you should pity me.
 
@@ -1093,22 +1093,22 @@ I thank you for your pains. Spend this for me.
 [<i>She offers money.</i>]
 
 <speaker>VIOLA</speaker>
-I am no fee'd post, lady. Keep your purse.
+I am no fee&rsquo;d post, lady. Keep your purse.
 My master, not myself, lacks recompense.
 Love make his heart of flint that you shall love,
-And let your fervor, like my master's, be
+And let your fervor, like my master&rsquo;s, be
 Placed in contempt. Farewell, fair cruelty.	[<i>She exits.</i>]
 
 <speaker>OLIVIA</speaker>
-"What is your parentage?"
-"Above my fortunes, yet my state is well.
-I am a gentleman." I'll be sworn thou art.
+"&ldquo;What is your parentage?&rdquo;"
+"&ldquo;Above my fortunes, yet my state is well.
+I am a gentleman.&rdquo;" I&rsquo;ll be sworn thou art.
 Thy tongue, thy face, thy limbs, actions, and spirit
 Do give thee fivefold blazon. Not too fast! Soft,
 soft!
 Unless the master were the man. How now?
 Even so quickly may one catch the plague?
-Methinks I feel this youth's perfections
+Methinks I feel this youth&rsquo;s perfections
 With an invisible and subtle stealth
 To creep in at mine eyes. Well, let it be.--
 What ho, Malvolio!
@@ -1120,13 +1120,13 @@ Here, madam, at your service.
 
 <speaker>OLIVIA</speaker>
 Run after that same peevish messenger,
-The County's man. He left this ring behind him,
-Would I or not. Tell him I'll none of it.
+The County&rsquo;s man. He left this ring behind him,
+Would I or not. Tell him I&rsquo;ll none of it.
 [<i>She hands him a ring.</i>]
 Desire him not to flatter with his lord,
 Nor hold him up with hopes. I am not for him.
 If that the youth will come this way tomorrow,
-I'll give him reasons for 't. Hie thee, Malvolio.
+I&rsquo;ll give him reasons for &rsquo;t. Hie thee, Malvolio.
 
 <speaker>MALVOLIO</speaker>
 Madam, I will. [<i>He exits.</i>]
@@ -1203,11 +1203,11 @@ it not. Fare you well at once. My bosom is full of
 kindness, and I am yet so near the manners of my
 mother that, upon the least occasion more, mine
 eyes will tell tales of me. I am bound to the Count
-Orsino's court. Farewell.	[<i>He exits.</i>]
+Orsino&rsquo;s court. Farewell.	[<i>He exits.</i>]
 
 <speaker>ANTONIO</speaker>
 The gentleness of all the gods go with thee!
-I have many enemies in Orsino's court,
+I have many enemies in Orsino&rsquo;s court,
 Else would I very shortly see thee there.
 But come what may, I do adore thee so
 That danger shall seem sport, and I will go.
@@ -1232,10 +1232,10 @@ yourself. She adds, moreover, that you should put
 your lord into a desperate assurance she will none
 of him. And one thing more, that you be never so
 hardy to come again in his affairs unless it be to
-report your lord's taking of this. Receive it so.
+report your lord&rsquo;s taking of this. Receive it so.
 
 <speaker>VIOLA</speaker>
-She took the ring of me. I'll none of it.
+She took the ring of me. I&rsquo;ll none of it.
 
 <speaker>MALVOLIO</speaker>
 Come, sir, you peevishly threw it to her, and
@@ -1254,24 +1254,24 @@ That methought her eyes had lost her tongue,
 For she did speak in starts distractedly.
 She loves me, sure! The cunning of her passion
 Invites me in this churlish messenger.
-None of my lord's ring? Why, he sent her none!
-I am the man. If it be so, as 'tis,
+None of my lord&rsquo;s ring? Why, he sent her none!
+I am the man. If it be so, as &rsquo;tis,
 Poor lady, she were better love a dream.
 Disguise, I see thou art a wickedness
 Wherein the pregnant enemy does much.
 How easy is it for the proper false
-In women's waxen hearts to set their forms!
+In women&rsquo;s waxen hearts to set their forms!
 Alas, our frailty is the cause, not we,
 For such as we are made of, such we be.
 How will this fadge? My master loves her dearly,
 And I, poor monster, fond as much on him,
 And she, mistaken, seems to dote on me.
 What will become of this? As I am man,
-My state is desperate for my master's love.
+My state is desperate for my master&rsquo;s love.
 As I am woman (now, alas the day!),
 What thriftless sighs shall poor Olivia breathe!
 O Time, thou must untangle this, not I.
-It is too hard a knot for me t' untie.
+It is too hard a knot for me t&rsquo; untie.
 [<i>She exits.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
@@ -1280,8 +1280,8 @@ It is too hard a knot for me t' untie.
 
 <speaker>TOBY</speaker>
 Approach, Sir Andrew. Not to be abed after
-midnight is to be up betimes, and "diluculo surgere,"
-thou know'st--
+midnight is to be up betimes, and "&ldquo;diluculo surgere,&rdquo;"
+thou know&rsquo;st--
 
 <speaker>ANDREW</speaker>
 Nay, by my troth, I know not. But I know to
@@ -1299,33 +1299,33 @@ Faith, so they say, but I think it rather consists
 of eating and drinking.
 
 <speaker>TOBY</speaker>
-Thou 'rt a scholar. Let us therefore eat and
+Thou &rsquo;rt a scholar. Let us therefore eat and
 drink. Marian, I say, a stoup of wine!
 
 [<i>Enter Feste, the Fool.</i>]
 
 <speaker>ANDREW</speaker>
-Here comes the Fool, i' faith.
+Here comes the Fool, i&rsquo; faith.
 
 <speaker>FOOL</speaker>
 How now, my hearts? Did you never see the
-picture of "We Three"?
+picture of "&ldquo;We Three&rdquo;"?
 
 <speaker>TOBY</speaker>
-Welcome, ass! Now let's have a catch.
+Welcome, ass! Now let&rsquo;s have a catch.
 
 <speaker>ANDREW</speaker>
 By my troth, the Fool has an excellent breast.
 I had rather than forty shillings I had such a leg,
 and so sweet a breath to sing, as the Fool has.--In
 sooth, thou wast in very gracious fooling last night
-when thou spok'st of Pigrogromitus of the Vapians
-passing the equinoctial of Queubus. 'Twas very
-good, i' faith. I sent thee sixpence for thy leman.
+when thou spok&rsquo;st of Pigrogromitus of the Vapians
+passing the equinoctial of Queubus. &rsquo;Twas very
+good, i&rsquo; faith. I sent thee sixpence for thy leman.
 Hadst it?
 
 <speaker>FOOL</speaker>
-I did impeticos thy gratillity, for Malvolio's nose
+I did impeticos thy gratillity, for Malvolio&rsquo;s nose
 is no whipstock, my lady has a white hand, and the
 Myrmidons are no bottle-ale houses.
 
@@ -1336,11 +1336,11 @@ all is done. Now, a song!
 <speaker>TOBY,</speaker>
 [<i>giving money to the Fool</i>]
   Come on, there is
-sixpence for you. Let's have a song.
+sixpence for you. Let&rsquo;s have a song.
 
 <speaker>ANDREW,</speaker>
 [<i>giving money to the Fool</i>]
-  There's a testril of
+  There&rsquo;s a testril of
 me, too. If one knight give a--
 
 <speaker>FOOL</speaker>
@@ -1356,26 +1356,26 @@ Ay, ay, I care not for good life.
 <speaker>FOOL</speaker>
 [<i>sings</i>]
 	O mistress mine, where are you roaming?
-	O, stay and hear! Your truelove's coming,
+	O, stay and hear! Your truelove&rsquo;s coming,
 	   That can sing both high and low.
 	Trip no further, pretty sweeting.
 	Journeys end in lovers meeting,
-	   Every wise man's son doth know.
+	   Every wise man&rsquo;s son doth know.
 
 <speaker>ANDREW</speaker>
-Excellent good, i' faith!
+Excellent good, i&rsquo; faith!
 
 <speaker>TOBY</speaker>
 Good, good.
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
-	What is love? 'Tis not hereafter.
+	What is love? &rsquo;Tis not hereafter.
 	Present mirth hath present laughter.
-	   What's to come is still unsure.
+	   What&rsquo;s to come is still unsure.
 	In delay there lies no plenty,
 	Then come kiss me, sweet and twenty.
-	   Youth's a stuff will not endure.
+	   Youth&rsquo;s a stuff will not endure.
 
 <speaker>ANDREW</speaker>
 A mellifluous voice, as I am true knight.
@@ -1384,7 +1384,7 @@ A mellifluous voice, as I am true knight.
 A contagious breath.
 
 <speaker>ANDREW</speaker>
-Very sweet and contagious, i' faith.
+Very sweet and contagious, i&rsquo; faith.
 
 <speaker>TOBY</speaker>
 To hear by the nose, it is dulcet in contagion.
@@ -1393,30 +1393,30 @@ we rouse the night owl in a catch that will draw
 three souls out of one weaver? Shall we do that?
 
 <speaker>ANDREW</speaker>
-An you love me, let's do 't. I am dog at a
+An you love me, let&rsquo;s do &rsquo;t. I am dog at a
 catch.
 
 <speaker>FOOL</speaker>
-By 'r Lady, sir, and some dogs will catch well.
+By &rsquo;r Lady, sir, and some dogs will catch well.
 
 <speaker>ANDREW</speaker>
-Most certain. Let our catch be "Thou
-Knave."
+Most certain. Let our catch be "&ldquo;Thou
+Knave.&rdquo;"
 
 <speaker>FOOL</speaker>
-"Hold thy peace, thou knave," knight? I shall be
-constrained in 't to call thee "knave," knight.
+"&ldquo;Hold thy peace, thou knave,&rdquo;" knight? I shall be
+constrained in &rsquo;t to call thee "&ldquo;knave,&rdquo;" knight.
 
 <speaker>ANDREW</speaker>
-'Tis not the first time I have constrained one
-to call me "knave." Begin, Fool. It begins "Hold
-thy peace."
+&rsquo;Tis not the first time I have constrained one
+to call me "&ldquo;knave.&rdquo;" Begin, Fool. It begins "&ldquo;Hold
+thy peace.&rdquo;"
 
 <speaker>FOOL</speaker>
 I shall never begin if I hold my peace.
 
 <speaker>ANDREW</speaker>
-Good, i' faith. Come, begin. [<i>Catch sung.</i>]
+Good, i&rsquo; faith. Come, begin. [<i>Catch sung.</i>]
 
 [<i>Enter Maria.</i>]
 
@@ -1426,16 +1426,16 @@ lady have not called up her steward Malvolio and
 bid him turn you out of doors, never trust me.
 
 <speaker>TOBY</speaker>
-My lady's a Cataian, we are politicians, Malvolio's
+My lady&rsquo;s a Cataian, we are politicians, Malvolio&rsquo;s
 a Peg-a-Ramsey, and [<i>Sings.</i>]
  Three merry men be
 we. Am not I consanguineous? Am I not of her
-blood? Tillyvally! "Lady"! [<i>Sings.</i>]
+blood? Tillyvally! "&ldquo;Lady&rdquo;"! [<i>Sings.</i>]
  There dwelt a man
 in Babylon, lady, lady.
 
 <speaker>FOOL</speaker>
-Beshrew me, the knight's in admirable fooling.
+Beshrew me, the knight&rsquo;s in admirable fooling.
 
 <speaker>ANDREW</speaker>
 Ay, he does well enough if he be disposed,
@@ -1444,11 +1444,10 @@ I do it more natural.
 
 <speaker>TOBY</speaker>
 [<i>sings</i>]
-<speaker>O'</speaker>
-the twelfth day of December--
+  O&rsquo; the twelfth day of December--
 
 <speaker>MARIA</speaker>
-For the love o' God, peace!
+For the love o&rsquo; God, peace!
 
 [<i>Enter Malvolio.</i>]
 
@@ -1456,8 +1455,8 @@ For the love o' God, peace!
 My masters, are you mad? Or what are you?
 Have you no wit, manners, nor honesty but to
 gabble like tinkers at this time of night? Do you
-make an ale-house of my lady's house, that you
-squeak out your coziers' catches without any mitigation
+make an ale-house of my lady&rsquo;s house, that you
+squeak out your coziers&rsquo; catches without any mitigation
 or remorse of voice? Is there no respect of
 place, persons, nor time in you?
 
@@ -1467,7 +1466,7 @@ We did keep time, sir, in our catches. Sneck up!
 <speaker>MALVOLIO</speaker>
 Sir Toby, I must be round with you. My lady
 bade me tell you that, though she harbors you as her
-kinsman, she's nothing allied to your disorders. If
+kinsman, she&rsquo;s nothing allied to your disorders. If
 you can separate yourself and your misdemeanors,
 you are welcome to the house; if not, an it would
 please you to take leave of her, she is very willing to
@@ -1485,7 +1484,7 @@ Nay, good Sir Toby.
 His eyes do show his days are almost done.
 
 <speaker>MALVOLIO</speaker>
-Is 't even so?
+Is &rsquo;t even so?
 
 <speaker>TOBY</speaker>
 [<i>sings</i>]
@@ -1515,20 +1514,20 @@ Shall I bid him go, and spare not?
 O no, no, no, no, you dare not.
 
 <speaker>TOBY</speaker>
-Out o' tune, sir? You lie. Art any more than a
+Out o&rsquo; tune, sir? You lie. Art any more than a
 steward? Dost thou think, because thou art virtuous,
 there shall be no more cakes and ale?
 
 <speaker>FOOL</speaker>
-Yes, by Saint Anne, and ginger shall be hot i' th'
+Yes, by Saint Anne, and ginger shall be hot i&rsquo; th&rsquo;
 mouth, too.
 
 <speaker>TOBY</speaker>
-Thou 'rt i' th' right.--Go, sir, rub your chain
+Thou &rsquo;rt i&rsquo; th&rsquo; right.--Go, sir, rub your chain
 with crumbs.--A stoup of wine, Maria!
 
 <speaker>MALVOLIO</speaker>
-Mistress Mary, if you prized my lady's favor
+Mistress Mary, if you prized my lady&rsquo;s favor
 at anything more than contempt, you would not give
 means for this uncivil rule. She shall know of it, by
 this hand.	[<i>He exits.</i>]
@@ -1537,18 +1536,18 @@ this hand.	[<i>He exits.</i>]
 Go shake your ears!
 
 <speaker>ANDREW</speaker>
-'Twere as good a deed as to drink when a
-man's a-hungry, to challenge him the field and
+&rsquo;Twere as good a deed as to drink when a
+man&rsquo;s a-hungry, to challenge him the field and
 then to break promise with him and make a fool of
 him.
 
 <speaker>TOBY</speaker>
-Do 't, knight. I'll write thee a challenge. Or I'll
+Do &rsquo;t, knight. I&rsquo;ll write thee a challenge. Or I&rsquo;ll
 deliver thy indignation to him by word of mouth.
 
 <speaker>MARIA</speaker>
 Sweet Sir Toby, be patient for tonight. Since the
-youth of the Count's was today with my lady, she is
+youth of the Count&rsquo;s was today with my lady, she is
 much out of quiet. For Monsieur Malvolio, let me
 alone with him. If I do not gull him into a nayword
 and make him a common recreation, do not think I
@@ -1562,14 +1561,14 @@ Possess us, possess us, tell us something of him.
 Marry, sir, sometimes he is a kind of puritan.
 
 <speaker>ANDREW</speaker>
-O, if I thought that, I'd beat him like a dog!
+O, if I thought that, I&rsquo;d beat him like a dog!
 
 <speaker>TOBY</speaker>
 What, for being a puritan? Thy exquisite reason,
 dear knight?
 
 <speaker>ANDREW</speaker>
-I have no exquisite reason for 't, but I have
+I have no exquisite reason for &rsquo;t, but I have
 reason good enough.
 
 <speaker>MARIA</speaker>
@@ -1598,11 +1597,11 @@ hardly make distinction of our hands.
 Excellent! I smell a device.
 
 <speaker>ANDREW</speaker>
-I have 't in my nose, too.
+I have &rsquo;t in my nose, too.
 
 <speaker>TOBY</speaker>
 He shall think, by the letters that thou wilt drop,
-that they come from my niece, and that she's in
+that they come from my niece, and that she&rsquo;s in
 love with him.
 
 <speaker>MARIA</speaker>
@@ -1615,7 +1614,7 @@ And your horse now would make him an ass.
 Ass, I doubt not.
 
 <speaker>ANDREW</speaker>
-O, 'twill be admirable!
+O, &rsquo;twill be admirable!
 
 <speaker>MARIA</speaker>
 Sport royal, I warrant you. I know my physic
@@ -1628,17 +1627,17 @@ and dream on the event. Farewell.
 Good night, Penthesilea. [<i>She exits.</i>]
 
 <speaker>ANDREW</speaker>
-Before me, she's a good wench.
+Before me, she&rsquo;s a good wench.
 
 <speaker>TOBY</speaker>
-She's a beagle true bred, and one that adores
-me. What o' that?
+She&rsquo;s a beagle true bred, and one that adores
+me. What o&rsquo; that?
 
 <speaker>ANDREW</speaker>
 I was adored once, too.
 
 <speaker>TOBY</speaker>
-Let's to bed, knight. Thou hadst need send for
+Let&rsquo;s to bed, knight. Thou hadst need send for
 more money.
 
 <speaker>ANDREW</speaker>
@@ -1646,15 +1645,15 @@ If I cannot recover your niece, I am a foul way
 out.
 
 <speaker>TOBY</speaker>
-Send for money, knight. If thou hast her not i'
-th' end, call me "Cut."
+Send for money, knight. If thou hast her not i&rsquo;
+th&rsquo; end, call me "&ldquo;Cut.&rdquo;"
 
 <speaker>ANDREW</speaker>
 If I do not, never trust me, take it how you
 will.
 
 <speaker>TOBY</speaker>
-Come, come, I'll go burn some sack. 'Tis too
+Come, come, I&rsquo;ll go burn some sack. &rsquo;Tis too
 late to go to bed now. Come, knight; come, knight.
 [<i>They exit.</i>]
 
@@ -1682,7 +1681,7 @@ Who was it?
 
 <speaker>CURIO</speaker>
 Feste the jester, my lord, a Fool that the Lady
-Olivia's father took much delight in. He is about
+Olivia&rsquo;s father took much delight in. He is about
 the house.
 
 <speaker>ORSINO</speaker>
@@ -1703,7 +1702,7 @@ Where love is throned.
 
 <speaker>ORSINO</speaker>
 Thou dost speak masterly.
-My life upon 't, young though thou art, thine eye
+My life upon &rsquo;t, young though thou art, thine eye
 Hath stayed upon some favor that it loves.
 Hath it not, boy?
 
@@ -1711,13 +1710,13 @@ Hath it not, boy?
 A little, by your favor.
 
 <speaker>ORSINO</speaker>
-What kind of woman is 't?
+What kind of woman is &rsquo;t?
 
 <speaker>VIOLA</speaker>
 Of your complexion.
 
 <speaker>ORSINO</speaker>
-She is not worth thee, then. What years, i' faith?
+She is not worth thee, then. What years, i&rsquo; faith?
 
 <speaker>VIOLA</speaker>
 About your years, my lord.
@@ -1725,11 +1724,11 @@ About your years, my lord.
 <speaker>ORSINO</speaker>
 Too old, by heaven. Let still the woman take
 An elder than herself. So wears she to him;
-So sways she level in her husband's heart.
+So sways she level in her husband&rsquo;s heart.
 For, boy, however we do praise ourselves,
 Our fancies are more giddy and unfirm,
 More longing, wavering, sooner lost and worn,
-Than women's are.
+Than women&rsquo;s are.
 
 <speaker>VIOLA</speaker>
 I think it well, my lord.
@@ -1784,13 +1783,13 @@ The Song.
 
 <speaker>ORSINO,</speaker>
 [<i>giving money</i>]
-  There's for thy pains.
+  There&rsquo;s for thy pains.
 
 <speaker>FOOL</speaker>
 No pains, sir. I take pleasure in singing, sir.
 
 <speaker>ORSINO</speaker>
-I'll pay thy pleasure, then.
+I&rsquo;ll pay thy pleasure, then.
 
 <speaker>FOOL</speaker>
 Truly sir, and pleasure will be paid, one time or
@@ -1804,7 +1803,7 @@ Now the melancholy god protect thee and the
 tailor make thy doublet of changeable taffeta, for thy
 mind is a very opal. I would have men of such
 constancy put to sea, that their business might be
-everything and their intent everywhere, for that's it
+everything and their intent everywhere, for that&rsquo;s it
 that always makes a good voyage of nothing.
 Farewell.	[<i>He exits.</i>]
 
@@ -1817,7 +1816,7 @@ Tell her my love, more noble than the world,
 Prizes not quantity of dirty lands.
 The parts that Fortune hath bestowed upon her,
 Tell her, I hold as giddily as Fortune.
-But 'tis that miracle and queen of gems
+But &rsquo;tis that miracle and queen of gems
 That nature pranks her in attracts my soul.
 
 <speaker>VIOLA</speaker>
@@ -1834,9 +1833,9 @@ As you have for Olivia. You cannot love her;
 You tell her so. Must she not then be answered?
 
 <speaker>ORSINO</speaker>
-There is no woman's sides
+There is no woman&rsquo;s sides
 Can bide the beating of so strong a passion
-As love doth give my heart; no woman's heart
+As love doth give my heart; no woman&rsquo;s heart
 So big, to hold so much; they lack retention.
 Alas, their love may be called appetite,
 No motion of the liver but the palate,
@@ -1860,11 +1859,11 @@ As it might be, perhaps, were I a woman,
 I should your Lordship.
 
 <speaker>ORSINO</speaker>
-And what's her history?
+And what&rsquo;s her history?
 
 <speaker>VIOLA</speaker>
 A blank, my lord. She never told her love,
-But let concealment, like a worm i' th' bud,
+But let concealment, like a worm i&rsquo; th&rsquo; bud,
 Feed on her damask cheek. She pined in thought,
 And with a green and yellow melancholy
 She sat like Patience on a monument,
@@ -1877,12 +1876,12 @@ Much in our vows but little in our love.
 But died thy sister of her love, my boy?
 
 <speaker>VIOLA</speaker>
-I am all the daughters of my father's house,
+I am all the daughters of my father&rsquo;s house,
 And all the brothers, too--and yet I know not.
 Sir, shall I to this lady?
 
 <speaker>ORSINO</speaker>
-Ay, that's the theme.
+Ay, that&rsquo;s the theme.
 To her in haste. Give her this jewel. Say
 My love can give no place, bide no denay.
 [<i>He hands her a jewel and they exit.</i>]
@@ -1895,7 +1894,7 @@ My love can give no place, bide no denay.
 Come thy ways, Signior Fabian.
 
 <speaker>FABIAN</speaker>
-Nay, I'll come. If I lose a scruple of this sport,
+Nay, I&rsquo;ll come. If I lose a scruple of this sport,
 let me be boiled to death with melancholy.
 
 <speaker>TOBY</speaker>
@@ -1904,10 +1903,10 @@ rascally sheep-biter come by some notable shame?
 
 <speaker>FABIAN</speaker>
 I would exult, man. You know he brought me
-out o' favor with my lady about a bearbaiting here.
+out o&rsquo; favor with my lady about a bearbaiting here.
 
 <speaker>TOBY</speaker>
-To anger him, we'll have the bear again, and we
+To anger him, we&rsquo;ll have the bear again, and we
 will fool him black and blue, shall we not, Sir
 Andrew?
 
@@ -1921,8 +1920,8 @@ Here comes the little villain.--How now, my
 metal of India?
 
 <speaker>MARIA</speaker>
-Get you all three into the boxtree. Malvolio's
-coming down this walk. He has been yonder i' the
+Get you all three into the boxtree. Malvolio&rsquo;s
+coming down this walk. He has been yonder i&rsquo; the
 sun practicing behavior to his own shadow this half
 hour. Observe him, for the love of mockery, for I
 know this letter will make a contemplative idiot of
@@ -1936,16 +1935,16 @@ the trout that must be caught with tickling.
 [<i>Enter Malvolio.</i>]
 
 <speaker>MALVOLIO</speaker>
-'Tis but fortune, all is fortune. Maria once
+&rsquo;Tis but fortune, all is fortune. Maria once
 told me she did affect me, and I have heard herself
 come thus near, that should she fancy, it should be
 one of my complexion. Besides, she uses me with a
 more exalted respect than anyone else that follows
-her. What should I think on 't?
+her. What should I think on &rsquo;t?
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
-  Here's an overweening rogue.
+  Here&rsquo;s an overweening rogue.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
@@ -1955,7 +1954,7 @@ plumes!
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  'Slight, I could so beat the rogue!
+  &rsquo;Slight, I could so beat the rogue!
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
@@ -1977,7 +1976,7 @@ To be Count Malvolio.
   Peace, peace!
 
 <speaker>MALVOLIO</speaker>
-There is example for 't. The lady of the
+There is example for &rsquo;t. The lady of the
 Strachy married the yeoman of the wardrobe.
 
 <speaker>ANDREW,</speaker>
@@ -1986,7 +1985,7 @@ Strachy married the yeoman of the wardrobe.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
-  O, peace, now he's deeply in. Look how
+  O, peace, now he&rsquo;s deeply in. Look how
 imagination blows him.
 
 <speaker>MALVOLIO</speaker>
@@ -2046,20 +2045,20 @@ control--
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
-  And does not Toby take you a blow o' the
+  And does not Toby take you a blow o&rsquo; the
 lips then?
 
 <speaker>MALVOLIO</speaker>
-Saying, "Cousin Toby, my fortunes, having
+Saying, "&ldquo;Cousin Toby, my fortunes, having
 cast me on your niece, give me this prerogative of
-speech--"
+speech--&rdquo;"
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
   What, what?
 
 <speaker>MALVOLIO</speaker>
-"You must amend your drunkenness."
+"&ldquo;You must amend your drunkenness.&rdquo;"
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
@@ -2071,19 +2070,19 @@ speech--"
 of our plot!
 
 <speaker>MALVOLIO</speaker>
-"Besides, you waste the treasure of your
-time with a foolish knight--"
+"&ldquo;Besides, you waste the treasure of your
+time with a foolish knight--&rdquo;"
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  That's me, I warrant you.
+  That&rsquo;s me, I warrant you.
 
 <speaker>MALVOLIO</speaker>
-"One Sir Andrew."
+"&ldquo;One Sir Andrew.&rdquo;"
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  I knew 'twas I, for many do call me
+  I knew &rsquo;twas I, for many do call me
 fool.
 
 <speaker>MALVOLIO,</speaker>
@@ -2103,20 +2102,20 @@ reading aloud to him.
 <speaker>MALVOLIO,</speaker>
 [<i>taking up the letter</i>]
   By my life, this is my
-lady's hand! These be her very c's, her u's, and her
-t's, and thus she makes her great P's. It is in
+lady&rsquo;s hand! These be her very c&rsquo;s, her u&rsquo;s, and her
+t&rsquo;s, and thus she makes her great P&rsquo;s. It is in
 contempt of question her hand.
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  Her c's, her u's, and her t's. Why that?
+  Her c&rsquo;s, her u&rsquo;s, and her t&rsquo;s. Why that?
 
 <speaker>MALVOLIO</speaker>
 [<i>reads</i>]
   To the unknown beloved, this, and my
 good wishes--Her very phrases! By your leave, wax.
 Soft. And the impressure her Lucrece, with which
-she uses to seal--'tis my lady! [<i>He opens the letter.</i>]
+she uses to seal--&rsquo;tis my lady! [<i>He opens the letter.</i>]
 To whom should this be?
 
 <speaker>FABIAN,</speaker>
@@ -2129,8 +2128,8 @@ To whom should this be?
 	   But who?
 	Lips, do not move;
 	   No man must know.
-"No man must know." What follows? The numbers
-altered. "No man must know." If this should be
+"&ldquo;No man must know.&rdquo;" What follows? The numbers
+altered. "&ldquo;No man must know.&rdquo;" If this should be
 thee, Malvolio!
 
 <speaker>TOBY,</speaker>
@@ -2153,13 +2152,13 @@ doth sway my life.
 [<i>aside</i>]
   Excellent wench, say I.
 
-<speaker>MALVOLIO "M.O.A.I.</speaker>
-doth sway my life." Nay, but first
+<speaker>MALVOLIO</speaker>
+"&ldquo;M.O.A.I. doth sway my life.&rdquo;" Nay, but first
 let me see, let me see, let me see.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
-  What dish o' poison has she dressed
+  What dish o&rsquo; poison has she dressed
 him!
 
 <speaker>TOBY,</speaker>
@@ -2167,13 +2166,13 @@ him!
   And with what wing the staniel checks
 at it!
 
-<speaker>MALVOLIO "I</speaker>
-may command where I adore." Why, she
+<speaker>MALVOLIO</speaker>
+"&ldquo;I may command where I adore.&rdquo;" Why, she
 may command me; I serve her; she is my lady. Why,
 this is evident to any formal capacity. There is no
 obstruction in this. And the end--what should that
 alphabetical position portend? If I could make that
-resemble something in me! Softly! "M.O.A.I."--
+resemble something in me! Softly! "&ldquo;M.O.A.I."--
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
@@ -2182,11 +2181,11 @@ scent.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
-  Sowter will cry upon 't for all this,
+  Sowter will cry upon &rsquo;t for all this,
 though it be as rank as a fox.
 
 <speaker>MALVOLIO</speaker>
-"M"--Malvolio. "M"--why, that begins
+"&ldquo;M"--Malvolio. "&ldquo;M"--why, that begins
 my name!
 
 <speaker>FABIAN,</speaker>
@@ -2194,22 +2193,22 @@ my name!
   Did not I say he would work it out? The
 cur is excellent at faults.
 
-<speaker>MALVOLIO "M."</speaker>
-But then there is no consonancy in
-the sequel that suffers under probation. "A" should
-follow, but "O" does.
+<speaker>MALVOLIO</speaker>
+"&ldquo;M.&rdquo;" But then there is no consonancy in
+the sequel that suffers under probation. "&ldquo;A&rdquo;" should
+follow, but "&ldquo;O&rdquo;" does.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
-  And "O" shall end, I hope.
+  And "&ldquo;O&rdquo;" shall end, I hope.
 
 <speaker>TOBY,</speaker>
 [<i>aside</i>]
-  Ay, or I'll cudgel him and make him cry
-<speaker>"O."</speaker>
+  Ay, or I&rsquo;ll cudgel him and make him cry
+"&ldquo;O.&rdquo;"
 
 <speaker>MALVOLIO</speaker>
-And then "I" comes behind.
+And then "&ldquo;I&rdquo;" comes behind.
 
 <speaker>FABIAN,</speaker>
 [<i>aside</i>]
@@ -2217,8 +2216,8 @@ And then "I" comes behind.
 might see more detraction at your heels than fortunes
 before you.
 
-<speaker>MALVOLIO "M.O.A.I."</speaker>
-This simulation is not as the
+<speaker>MALVOLIO</speaker>
+"&ldquo;M.O.A.I.&rdquo;" This simulation is not as the
 former, and yet to crush this a little, it would bow
 to me, for every one of these letters are in my name.
 Soft, here follows prose.
@@ -2226,7 +2225,7 @@ Soft, here follows prose.
  If this fall into thy hand, revolve. In my
 stars I am above thee, but be not afraid of greatness.
 Some are born great, some achieve greatness, and
-some have greatness thrust upon 'em. Thy fates open
+some have greatness thrust upon &rsquo;em. Thy fates open
 their hands. Let thy blood and spirit embrace them.
 And, to inure thyself to what thou art like to be, cast
 thy humble slough and appear fresh. Be opposite with
@@ -2235,9 +2234,9 @@ arguments of state. Put thyself into the trick of singularity.
 She thus advises thee that sighs for thee.
 Remember who commended thy yellow stockings and
 wished to see thee ever cross-gartered. I say, remember.
-Go to, thou art made, if thou desir'st to be so. If
+Go to, thou art made, if thou desir&rsquo;st to be so. If
 not, let me see thee a steward still, the fellow of
-servants, and not worthy to touch Fortune's fingers.
+servants, and not worthy to touch Fortune&rsquo;s fingers.
 Farewell. She that would alter services with thee,
 The Fortunate-Unhappy.
 Daylight and champian discovers not more! This is
@@ -2256,7 +2255,7 @@ the swiftness of putting on. Jove and my stars be
 praised! Here is yet a postscript.
 [<i>He reads.</i>]
  Thou canst not choose but know who I
-am. If thou entertain'st my love, let it appear in thy
+am. If thou entertain&rsquo;st my love, let it appear in thy
 smiling; thy smiles become thee well. Therefore in my
 presence still smile, dear my sweet, I prithee.
 Jove, I thank thee! I will smile. I will do everything
@@ -2285,17 +2284,17 @@ Nor I neither.
 Here comes my noble gull-catcher.
 
 <speaker>TOBY</speaker>
-Wilt thou set thy foot o' my neck?
+Wilt thou set thy foot o&rsquo; my neck?
 
 <speaker>ANDREW</speaker>
-Or o' mine either?
+Or o&rsquo; mine either?
 
 <speaker>TOBY</speaker>
 Shall I play my freedom at tray-trip and become
 thy bondslave?
 
-<speaker>ANDREW I'</speaker>
-faith, or I either?
+<speaker>ANDREW</speaker>
+I&rsquo; faith, or I either?
 
 <speaker>TOBY</speaker>
 Why, thou hast put him in such a dream that
@@ -2310,7 +2309,7 @@ Like aqua vitae with a midwife.
 <speaker>MARIA</speaker>
 If you will then see the fruits of the sport,
 mark his first approach before my lady. He will
-come to her in yellow stockings, and 'tis a color
+come to her in yellow stockings, and &rsquo;tis a color
 she abhors, and cross-gartered, a fashion she detests;
 and he will smile upon her, which will now
 be so unsuitable to her disposition, being addicted
@@ -2323,7 +2322,7 @@ To the gates of Tartar, thou most excellent devil
 of wit!
 
 <speaker>ANDREW</speaker>
-I'll make one, too.
+I&rsquo;ll make one, too.
 [<i>They exit.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
@@ -2353,11 +2352,11 @@ tabor if thy tabor stand by the church.
 
 <speaker>FOOL</speaker>
 You have said, sir. To see this age! A sentence is
-but a chev'ril glove to a good wit. How quickly the
+but a chev&rsquo;ril glove to a good wit. How quickly the
 wrong side may be turned outward!
 
 <speaker>VIOLA</speaker>
-Nay, that's certain. They that dally nicely with
+Nay, that&rsquo;s certain. They that dally nicely with
 words may quickly make them wanton.
 
 <speaker>FOOL</speaker>
@@ -2368,7 +2367,7 @@ sir.
 Why, man?
 
 <speaker>FOOL</speaker>
-Why, sir, her name's a word, and to dally with
+Why, sir, her name&rsquo;s a word, and to dally with
 that word might make my sister wanton. But,
 indeed, words are very rascals since bonds disgraced
 them.
@@ -2382,7 +2381,7 @@ and words are grown so false I am loath to prove
 reason with them.
 
 <speaker>VIOLA</speaker>
-I warrant thou art a merry fellow and car'st for
+I warrant thou art a merry fellow and car&rsquo;st for
 nothing.
 
 <speaker>FOOL</speaker>
@@ -2392,17 +2391,17 @@ care for nothing, sir, I would it would make you
 invisible.
 
 <speaker>VIOLA</speaker>
-Art not thou the Lady Olivia's Fool?
+Art not thou the Lady Olivia&rsquo;s Fool?
 
 <speaker>FOOL</speaker>
 No, indeed, sir. The Lady Olivia has no folly. She
 will keep no Fool, sir, till she be married, and Fools
 are as like husbands as pilchers are to herrings: the
-husband's the bigger. I am indeed not her Fool but
+husband&rsquo;s the bigger. I am indeed not her Fool but
 her corrupter of words.
 
 <speaker>VIOLA</speaker>
-I saw thee late at the Count Orsino's.
+I saw thee late at the Count Orsino&rsquo;s.
 
 <speaker>FOOL</speaker>
 Foolery, sir, does walk about the orb like the
@@ -2411,8 +2410,8 @@ the Fool should be as oft with your master as with
 my mistress. I think I saw your Wisdom there.
 
 <speaker>VIOLA</speaker>
-Nay, an thou pass upon me, I'll no more with
-thee. Hold, there's expenses for thee. [<i>Giving a
+Nay, an thou pass upon me, I&rsquo;ll no more with
+thee. Hold, there&rsquo;s expenses for thee. [<i>Giving a
 coin.</i>]
 
 <speaker>FOOL</speaker>
@@ -2420,7 +2419,7 @@ Now Jove, in his next commodity of hair, send
 thee a beard!
 
 <speaker>VIOLA</speaker>
-By my troth I'll tell thee, I am almost sick for
+By my troth I&rsquo;ll tell thee, I am almost sick for
 one, [<i>aside</i>]
  though I would not have it grow on my
 chin.--Is thy lady within?
@@ -2436,7 +2435,7 @@ I would play Lord Pandarus of Phrygia, sir, to
 bring a Cressida to this Troilus.
 
 <speaker>VIOLA</speaker>
-I understand you, sir. 'Tis well begged. [<i>Giving
+I understand you, sir. &rsquo;Tis well begged. [<i>Giving
 another coin.</i>]
 
 <speaker>FOOL</speaker>
@@ -2444,7 +2443,7 @@ The matter I hope is not great, sir, begging but a
 beggar: Cressida was a beggar. My lady is within, sir.
 I will conster to them whence you come. Who you
 are and what you would are out of my welkin--I
-might say "element," but the word is overworn.
+might say "&ldquo;element,&rdquo;" but the word is overworn.
 [<i>He exits.</i>]
 
 <speaker>VIOLA</speaker>
@@ -2454,9 +2453,9 @@ He must observe their mood on whom he jests,
 The quality of persons, and the time,
 And, like the haggard, check at every feather
 That comes before his eye. This is a practice
-As full of labor as a wise man's art:
+As full of labor as a wise man&rsquo;s art:
 For folly that he wisely shows is fit;
-But wise men, folly-fall'n, quite taint their wit.
+But wise men, folly-fall&rsquo;n, quite taint their wit.
 
 [<i>Enter Sir Toby and Andrew.</i>]
 
@@ -2505,8 +2504,8 @@ odors on you!
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  That youth's a rare courtier. "Rain
-odors," well.
+  That youth&rsquo;s a rare courtier. "&ldquo;Rain
+odors,&rdquo;" well.
 
 <speaker>VIOLA</speaker>
 My matter hath no voice, lady, but to your own
@@ -2514,8 +2513,8 @@ most pregnant and vouchsafed ear.
 
 <speaker>ANDREW,</speaker>
 [<i>aside</i>]
-  "Odors," "pregnant," and "vouchsafed."
-I'll get 'em all three all ready.
+  "&ldquo;Odors,&rdquo;" "&ldquo;pregnant,&rdquo;" and "&ldquo;vouchsafed.&rdquo;"
+I&rsquo;ll get &rsquo;em all three all ready.
 
 <speaker>OLIVIA</speaker>
 Let the garden door be shut, and leave me to
@@ -2529,16 +2528,16 @@ My duty, madam, and most humble service.
 What is your name?
 
 <speaker>VIOLA</speaker>
-Cesario is your servant's name, fair princess.
+Cesario is your servant&rsquo;s name, fair princess.
 
 <speaker>OLIVIA</speaker>
-My servant, sir? 'Twas never merry world
+My servant, sir? &rsquo;Twas never merry world
 Since lowly feigning was called compliment.
-You're servant to the Count Orsino, youth.
+You&rsquo;re servant to the Count Orsino, youth.
 
 <speaker>VIOLA</speaker>
 And he is yours, and his must needs be yours.
-Your servant's servant is your servant, madam.
+Your servant&rsquo;s servant is your servant, madam.
 
 <speaker>OLIVIA</speaker>
 For him, I think not on him. For his thoughts,
@@ -2568,7 +2567,7 @@ To force that on you in a shameful cunning
 Which you knew none of yours. What might you
 think?
 Have you not set mine honor at the stake
-And baited it with all th' unmuzzled thoughts
+And baited it with all th&rsquo; unmuzzled thoughts
 That tyrannous heart can think? To one of your
 receiving
 Enough is shown. A cypress, not a bosom,
@@ -2578,14 +2577,14 @@ Hides my heart. So, let me hear you speak.
 I pity you.
 
 <speaker>OLIVIA</speaker>
-That's a degree to love.
+That&rsquo;s a degree to love.
 
 <speaker>VIOLA</speaker>
-No, not a grize, for 'tis a vulgar proof
+No, not a grize, for &rsquo;tis a vulgar proof
 That very oft we pity enemies.
 
 <speaker>OLIVIA</speaker>
-Why then methinks 'tis time to smile again.
+Why then methinks &rsquo;tis time to smile again.
 O world, how apt the poor are to be proud!
 If one should be a prey, how much the better
 To fall before the lion than the wolf.	[<i>Clock strikes.</i>]
@@ -2598,10 +2597,10 @@ There lies your way, due west.
 <speaker>VIOLA</speaker>
 Then westward ho!
 Grace and good disposition attend your Ladyship.
-You'll nothing, madam, to my lord by me?
+You&rsquo;ll nothing, madam, to my lord by me?
 
 <speaker>OLIVIA</speaker>
-Stay. I prithee, tell me what thou think'st of me.
+Stay. I prithee, tell me what thou think&rsquo;st of me.
 
 <speaker>VIOLA</speaker>
 That you do think you are not what you are.
@@ -2623,8 +2622,8 @@ I wish it might, for now I am your fool.
 [<i>aside</i>]
 O, what a deal of scorn looks beautiful
 In the contempt and anger of his lip!
-A murd'rous guilt shows not itself more soon
-Than love that would seem hid. Love's night is
+A murd&rsquo;rous guilt shows not itself more soon
+Than love that would seem hid. Love&rsquo;s night is
 noon.--
 Cesario, by the roses of the spring,
 By maidhood, honor, truth, and everything,
@@ -2641,7 +2640,7 @@ I have one heart, one bosom, and one truth,
 And that no woman has, nor never none
 Shall mistress be of it, save I alone.
 And so adieu, good madam. Nevermore
-Will I my master's tears to you deplore.
+Will I my master&rsquo;s tears to you deplore.
 
 <speaker>OLIVIA</speaker>
 Yet come again, for thou perhaps mayst move
@@ -2653,7 +2652,7 @@ That heart, which now abhors, to like his love.
 [<i>Enter Sir Toby, Sir Andrew, and Fabian.</i>]
 
 <speaker>ANDREW</speaker>
-No, faith, I'll not stay a jot longer.
+No, faith, I&rsquo;ll not stay a jot longer.
 
 <speaker>TOBY</speaker>
 Thy reason, dear venom, give thy reason.
@@ -2663,8 +2662,8 @@ You must needs yield your reason, Sir Andrew.
 
 <speaker>ANDREW</speaker>
 Marry, I saw your niece do more favors to the
-Count's servingman than ever she bestowed upon
-me. I saw 't i' th' orchard.
+Count&rsquo;s servingman than ever she bestowed upon
+me. I saw &rsquo;t i&rsquo; th&rsquo; orchard.
 
 <speaker>TOBY</speaker>
 Did she see thee the while, old boy? Tell me
@@ -2678,7 +2677,7 @@ This was a great argument of love in her toward
 you.
 
 <speaker>ANDREW</speaker>
-'Slight, will you make an ass o' me?
+&rsquo;Slight, will you make an ass o&rsquo; me?
 
 <speaker>FABIAN</speaker>
 I will prove it legitimate, sir, upon the oaths of
@@ -2698,22 +2697,22 @@ you should have banged the youth into dumbness.
 This was looked for at your hand, and this was
 balked. The double gilt of this opportunity you let
 time wash off, and you are now sailed into the north
-of my lady's opinion, where you will hang like an
-icicle on a Dutchman's beard, unless you do redeem
+of my lady&rsquo;s opinion, where you will hang like an
+icicle on a Dutchman&rsquo;s beard, unless you do redeem
 it by some laudable attempt either of valor or
 policy.
 
 <speaker>ANDREW</speaker>
-An 't be any way, it must be with valor, for
+An &rsquo;t be any way, it must be with valor, for
 policy I hate. I had as lief be a Brownist as a
 politician.
 
 <speaker>TOBY</speaker>
 Why, then, build me thy fortunes upon the basis
-of valor. Challenge me the Count's youth to fight
+of valor. Challenge me the Count&rsquo;s youth to fight
 with him. Hurt him in eleven places. My niece shall
 take note of it, and assure thyself there is no
-love-broker in the world can more prevail in man's
+love-broker in the world can more prevail in man&rsquo;s
 commendation with woman than report of valor.
 
 <speaker>FABIAN</speaker>
@@ -2726,10 +2725,10 @@ Will either of you bear me a challenge to him?
 Go, write it in a martial hand. Be curst and
 brief. It is no matter how witty, so it be eloquent
 and full of invention. Taunt him with the license of
-ink. If thou "thou"-est him some thrice, it shall not
+ink. If thou "&ldquo;thou"-est him some thrice, it shall not
 be amiss, and as many lies as will lie in thy sheet of
 paper, although the sheet were big enough for the
-bed of Ware in England, set 'em down. Go, about it.
+bed of Ware in England, set &rsquo;em down. Go, about it.
 Let there be gall enough in thy ink, though thou
 write with a goose-pen, no matter. About it.
 
@@ -2737,7 +2736,7 @@ write with a goose-pen, no matter. About it.
 Where shall I find you?
 
 <speaker>TOBY</speaker>
-We'll call thee at the cubiculo. Go.
+We&rsquo;ll call thee at the cubiculo. Go.
 [<i>Sir Andrew exits.</i>]
 
 <speaker>FABIAN</speaker>
@@ -2748,15 +2747,15 @@ I have been dear to him, lad, some two thousand
 strong or so.
 
 <speaker>FABIAN</speaker>
-We shall have a rare letter from him. But you'll
-not deliver 't?
+We shall have a rare letter from him. But you&rsquo;ll
+not deliver &rsquo;t?
 
 <speaker>TOBY</speaker>
 Never trust me, then. And by all means stir on
 the youth to an answer. I think oxen and wainropes
 cannot hale them together. For Andrew, if he were
 opened and you find so much blood in his liver as
-will clog the foot of a flea, I'll eat the rest of th'
+will clog the foot of a flea, I&rsquo;ll eat the rest of th&rsquo;
 anatomy.
 
 <speaker>FABIAN</speaker>
@@ -2774,21 +2773,21 @@ into stitches, follow me. Yond gull Malvolio is
 turned heathen, a very renegado; for there is no
 Christian that means to be saved by believing rightly
 can ever believe such impossible passages of grossness.
-He's in yellow stockings.
+He&rsquo;s in yellow stockings.
 
 <speaker>TOBY</speaker>
 And cross-gartered?
 
 <speaker>MARIA</speaker>
 Most villainously, like a pedant that keeps a
-school i' th' church. I have dogged him like his
+school i&rsquo; th&rsquo; church. I have dogged him like his
 murderer. He does obey every point of the letter
 that I dropped to betray him. He does smile his face
 into more lines than is in the new map with the
 augmentation of the Indies. You have not seen such
-a thing as 'tis. I can hardly forbear hurling things at
-him. I know my lady will strike him. If she do, he'll
-smile and take 't for a great favor.
+a thing as &rsquo;tis. I can hardly forbear hurling things at
+him. I know my lady will strike him. If she do, he&rsquo;ll
+smile and take &rsquo;t for a great favor.
 
 <speaker>TOBY</speaker>
 Come, bring us, bring us where he is.
@@ -2821,34 +2820,34 @@ I can no other answer make but thanks,
 And thanks, and ever thanks; and oft good turns
 Are shuffled off with such uncurrent pay.
 But were my worth, as is my conscience, firm,
-You should find better dealing. What's to do?
+You should find better dealing. What&rsquo;s to do?
 Shall we go see the relics of this town?
 
 <speaker>ANTONIO</speaker>
 Tomorrow, sir. Best first go see your lodging.
 
 <speaker>SEBASTIAN</speaker>
-I am not weary, and 'tis long to night.
+I am not weary, and &rsquo;tis long to night.
 I pray you, let us satisfy our eyes
 With the memorials and the things of fame
 That do renown this city.
 
 <speaker>ANTONIO</speaker>
-Would you'd pardon me.
+Would you&rsquo;d pardon me.
 I do not without danger walk these streets.
-Once in a sea fight 'gainst the Count his galleys
+Once in a sea fight &rsquo;gainst the Count his galleys
 I did some service, of such note indeed
-That were I ta'en here it would scarce be answered.
+That were I ta&rsquo;en here it would scarce be answered.
 
 <speaker>SEBASTIAN</speaker>
 Belike you slew great number of his people?
 
 <speaker>ANTONIO</speaker>
-Th' offense is not of such a bloody nature,
+Th&rsquo; offense is not of such a bloody nature,
 Albeit the quality of the time and quarrel
 Might well have given us bloody argument.
 It might have since been answered in repaying
-What we took from them, which, for traffic's sake,
+What we took from them, which, for traffic&rsquo;s sake,
 Most of our city did. Only myself stood out,
 For which, if I be lapsed in this place,
 I shall pay dear.
@@ -2857,7 +2856,7 @@ I shall pay dear.
 Do not then walk too open.
 
 <speaker>ANTONIO</speaker>
-It doth not fit me. Hold, sir, here's my purse.
+It doth not fit me. Hold, sir, here&rsquo;s my purse.
 [<i>Giving him money.</i>]
 In the south suburbs, at the Elephant,
 Is best to lodge. I will bespeak our diet
@@ -2874,11 +2873,11 @@ You have desire to purchase, and your store,
 I think, is not for idle markets, sir.
 
 <speaker>SEBASTIAN</speaker>
-I'll be your purse-bearer and leave you
+I&rsquo;ll be your purse-bearer and leave you
 For an hour.
 
 <speaker>ANTONIO</speaker>
-To th' Elephant.
+To th&rsquo; Elephant.
 
 <speaker>SEBASTIAN</speaker>
 I do remember.
@@ -2890,26 +2889,26 @@ I do remember.
 
 <speaker>OLIVIA,</speaker>
 [<i>aside</i>]
-I have sent after him. He says he'll come.
+I have sent after him. He says he&rsquo;ll come.
 How shall I feast him? What bestow of him?
 For youth is bought more oft than begged or
 borrowed.
 I speak too loud.--
-Where's Malvolio? He is sad and civil
+Where&rsquo;s Malvolio? He is sad and civil
 And suits well for a servant with my fortunes.
 Where is Malvolio?
 
 <speaker>MARIA</speaker>
-He's coming, madam, but in very strange manner.
+He&rsquo;s coming, madam, but in very strange manner.
 He is sure possessed, madam.
 
 <speaker>OLIVIA</speaker>
-Why, what's the matter? Does he rave?
+Why, what&rsquo;s the matter? Does he rave?
 
 <speaker>MARIA</speaker>
 No, madam, he does nothing but smile. Your
 Ladyship were best to have some guard about you if
-he come, for sure the man is tainted in 's wits.
+he come, for sure the man is tainted in &rsquo;s wits.
 
 <speaker>OLIVIA</speaker>
 Go call him hither. [<i>Maria exits.</i>]
@@ -2924,15 +2923,15 @@ How now, Malvolio?
 Sweet lady, ho, ho!
 
 <speaker>OLIVIA</speaker>
-Smil'st thou? I sent for thee upon a sad
+Smil&rsquo;st thou? I sent for thee upon a sad
 occasion.
 
 <speaker>MALVOLIO</speaker>
 Sad, lady? I could be sad. This does make
 some obstruction in the blood, this cross-gartering,
 but what of that? If it please the eye of one, it is
-with me as the very true sonnet is: "Please one, and
-please all."
+with me as the very true sonnet is: "&ldquo;Please one, and
+please all.&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Why, how dost thou, man? What is the matter
@@ -2948,8 +2947,8 @@ hand.
 Wilt thou go to bed, Malvolio?
 
 <speaker>MALVOLIO</speaker>
-To bed? "Ay, sweetheart, and I'll come to
-thee."
+To bed? "&ldquo;Ay, sweetheart, and I&rsquo;ll come to
+thee.&rdquo;"
 
 <speaker>OLIVIA</speaker>
 God comfort thee! Why dost thou smile so, and
@@ -2967,53 +2966,53 @@ Why appear you with this ridiculous boldness
 before my lady?
 
 <speaker>MALVOLIO</speaker>
-"Be not afraid of greatness." 'Twas well
+"&ldquo;Be not afraid of greatness.&rdquo;" &rsquo;Twas well
 writ.
 
 <speaker>OLIVIA</speaker>
-What mean'st thou by that, Malvolio?
+What mean&rsquo;st thou by that, Malvolio?
 
 <speaker>MALVOLIO</speaker>
-"Some are born great--"
+"&ldquo;Some are born great--&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Ha?
 
 <speaker>MALVOLIO</speaker>
-"Some achieve greatness--"
+"&ldquo;Some achieve greatness--&rdquo;"
 
 <speaker>OLIVIA</speaker>
 What sayst thou?
 
 <speaker>MALVOLIO</speaker>
-"And some have greatness thrust upon
-them."
+"&ldquo;And some have greatness thrust upon
+them.&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Heaven restore thee!
 
 <speaker>MALVOLIO</speaker>
-"Remember who commended thy yellow
-stockings--"
+"&ldquo;Remember who commended thy yellow
+stockings--&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Thy yellow stockings?
 
 <speaker>MALVOLIO</speaker>
-"And wished to see thee cross-gartered."
+"&ldquo;And wished to see thee cross-gartered.&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Cross-gartered?
 
 <speaker>MALVOLIO</speaker>
-"Go to, thou art made, if thou desir'st to be
-so--"
+"&ldquo;Go to, thou art made, if thou desir&rsquo;st to be
+so--&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Am I made?
 
 <speaker>MALVOLIO</speaker>
-"If not, let me see thee a servant still."
+"&ldquo;If not, let me see thee a servant still.&rdquo;"
 
 <speaker>OLIVIA</speaker>
 Why, this is very midsummer madness!
@@ -3022,13 +3021,13 @@ Why, this is very midsummer madness!
 
 <speaker>SERVANT</speaker>
 Madam, the young gentleman of the Count
-Orsino's is returned. I could hardly entreat him
-back. He attends your Ladyship's pleasure.
+Orsino&rsquo;s is returned. I could hardly entreat him
+back. He attends your Ladyship&rsquo;s pleasure.
 
 <speaker>OLIVIA</speaker>
-I'll come to him. [<i>Servant exits.</i>]
+I&rsquo;ll come to him. [<i>Servant exits.</i>]
  Good Maria, let
-this fellow be looked to. Where's my Cousin Toby?
+this fellow be looked to. Where&rsquo;s my Cousin Toby?
 Let some of my people have a special care of him. I
 would not have him miscarry for the half of my
 dowry.
@@ -3039,17 +3038,17 @@ O ho, do you come near me now? No worse
 man than Sir Toby to look to me. This concurs
 directly with the letter. She sends him on purpose
 that I may appear stubborn to him, for she incites
-me to that in the letter: "Cast thy humble slough,"
-says she. "Be opposite with a kinsman, surly with
+me to that in the letter: "&ldquo;Cast thy humble slough,&rdquo;"
+says she. "&ldquo;Be opposite with a kinsman, surly with
 servants; let thy tongue tang with arguments of
-state; put thyself into the trick of singularity," and
+state; put thyself into the trick of singularity,&rdquo;" and
 consequently sets down the manner how: as, a sad
 face, a reverend carriage, a slow tongue, in the habit
 of some Sir of note, and so forth. I have limed her,
-but it is Jove's doing, and Jove make me thankful!
-And when she went away now, "Let this fellow be
-looked to." "Fellow!" Not "Malvolio," nor after my
-degree, but "fellow." Why, everything adheres together,
+but it is Jove&rsquo;s doing, and Jove make me thankful!
+And when she went away now, "&ldquo;Let this fellow be
+looked to.&rdquo;" "&ldquo;Fellow!&rdquo;" Not "&ldquo;Malvolio,&rdquo;" nor after my
+degree, but "&ldquo;fellow.&rdquo;" Why, everything adheres together,
 that no dram of a scruple, no scruple of a
 scruple, no obstacle, no incredulous or unsafe
 circumstance--what can be said? Nothing that can
@@ -3062,11 +3061,11 @@ he is to be thanked.
 <speaker>TOBY</speaker>
 Which way is he, in the name of sanctity? If all
 the devils of hell be drawn in little, and Legion
-himself possessed him, yet I'll speak to him.
+himself possessed him, yet I&rsquo;ll speak to him.
 
 <speaker>FABIAN</speaker>
-Here he is, here he is.--How is 't with you, sir?
-How is 't with you, man?
+Here he is, here he is.--How is &rsquo;t with you, sir?
+How is &rsquo;t with you, man?
 
 <speaker>MALVOLIO</speaker>
 Go off, I discard you. Let me enjoy my
@@ -3085,8 +3084,8 @@ Aha, does she so?
 [<i>to Fabian and Maria</i>]
   Go to, go to! Peace, peace.
 We must deal gently with him. Let me alone.--How
-do you, Malvolio? How is 't with you? What, man,
-defy the devil! Consider, he's an enemy to mankind.
+do you, Malvolio? How is &rsquo;t with you? What, man,
+defy the devil! Consider, he&rsquo;s an enemy to mankind.
 
 <speaker>MALVOLIO</speaker>
 Do you know what you say?
@@ -3098,12 +3097,12 @@ how he takes it at heart! Pray God he be not
 bewitched!
 
 <speaker>FABIAN</speaker>
-Carry his water to th' wisewoman.
+Carry his water to th&rsquo; wisewoman.
 
 <speaker>MARIA</speaker>
 Marry, and it shall be done tomorrow morning
 if I live. My lady would not lose him for more than
-I'll say.
+I&rsquo;ll say.
 
 <speaker>MALVOLIO</speaker>
 How now, mistress?
@@ -3129,7 +3128,7 @@ dost thou, chuck?
 Sir!
 
 <speaker>TOBY</speaker>
-Ay, biddy, come with me.--What, man, 'tis not
+Ay, biddy, come with me.--What, man, &rsquo;tis not
 for gravity to play at cherry-pit with Satan. Hang
 him, foul collier!
 
@@ -3151,7 +3150,7 @@ things. I am not of your element. You shall
 know more hereafter.	[<i>He exits.</i>]
 
 <speaker>TOBY</speaker>
-Is 't possible?
+Is &rsquo;t possible?
 
 <speaker>FABIAN</speaker>
 If this were played upon a stage now, I could
@@ -3172,8 +3171,8 @@ Why, we shall make him mad indeed.
 The house will be the quieter.
 
 <speaker>TOBY</speaker>
-Come, we'll have him in a dark room and
-bound. My niece is already in the belief that he's
+Come, we&rsquo;ll have him in a dark room and
+bound. My niece is already in the belief that he&rsquo;s
 mad. We may carry it thus, for our pleasure and his
 penance, till our very pastime, tired out of breath,
 prompt us to have mercy on him, at which time we
@@ -3187,14 +3186,14 @@ More matter for a May morning.
 
 <speaker>ANDREW,</speaker>
 [<i>presenting a paper</i>]
-  Here's the challenge.
-Read it. I warrant there's vinegar and pepper in 't.
+  Here&rsquo;s the challenge.
+Read it. I warrant there&rsquo;s vinegar and pepper in &rsquo;t.
 
 <speaker>FABIAN</speaker>
-Is 't so saucy?
+Is &rsquo;t so saucy?
 
 <speaker>ANDREW</speaker>
-Ay, is 't. I warrant him. Do but read.
+Ay, is &rsquo;t. I warrant him. Do but read.
 
 <speaker>TOBY</speaker>
 Give me. [<i>He reads.</i>]
@@ -3208,7 +3207,7 @@ Good, and valiant.
 [<i>reads</i>]
   Wonder not nor admire not in thy mind
 why I do call thee so, for I will show thee no reason
-for 't.
+for &rsquo;t.
 
 <speaker>FABIAN</speaker>
 A good note, that keeps you from the blow of
@@ -3216,7 +3215,7 @@ the law.
 
 <speaker>TOBY</speaker>
 [<i>reads</i>]
-  Thou com'st to the Lady Olivia, and in my
+  Thou com&rsquo;st to the Lady Olivia, and in my
 sight she uses thee kindly. But thou liest in thy throat;
 that is not the matter I challenge thee for.
 
@@ -3233,10 +3232,10 @@ Good.
 
 <speaker>TOBY</speaker>
 [<i>reads</i>]
-  Thou kill'st me like a rogue and a villain.
+  Thou kill&rsquo;st me like a rogue and a villain.
 
 <speaker>FABIAN</speaker>
-Still you keep o' th' windy side of the law.
+Still you keep o&rsquo; th&rsquo; windy side of the law.
 Good.
 
 <speaker>TOBY</speaker>
@@ -3246,18 +3245,18 @@ one of our souls. He may have mercy upon mine, but
 my hope is better, and so look to thyself. Thy friend, as
 thou usest him, and thy sworn enemy,
 Andrew Aguecheek.
-If this letter move him not, his legs cannot. I'll
-give 't him.
+If this letter move him not, his legs cannot. I&rsquo;ll
+give &rsquo;t him.
 
 <speaker>MARIA</speaker>
-You may have very fit occasion for 't. He is now
+You may have very fit occasion for &rsquo;t. He is now
 in some commerce with my lady and will by and
 by depart.
 
 <speaker>TOBY</speaker>
 Go, Sir Andrew. Scout me for him at the corner
 of the orchard like a bum-baily. So soon as ever
-thou seest him, draw, and as thou draw'st, swear
+thou seest him, draw, and as thou draw&rsquo;st, swear
 horrible, for it comes to pass oft that a terrible oath,
 with a swaggering accent sharply twanged off, gives
 manhood more approbation than ever proof itself
@@ -3294,20 +3293,20 @@ message for a challenge.
 
 <speaker>OLIVIA</speaker>
 I have said too much unto a heart of stone
-And laid mine honor too unchary on 't.
-There's something in me that reproves my fault,
+And laid mine honor too unchary on &rsquo;t.
+There&rsquo;s something in me that reproves my fault,
 But such a headstrong potent fault it is
 That it but mocks reproof.
 
 <speaker>VIOLA</speaker>
-With the same 'havior that your passion bears
-Goes on my master's griefs.
+With the same &rsquo;havior that your passion bears
+Goes on my master&rsquo;s griefs.
 
 <speaker>OLIVIA</speaker>
-Here, wear this jewel for me. 'Tis my picture.
+Here, wear this jewel for me. &rsquo;Tis my picture.
 Refuse it not. It hath no tongue to vex you.
 And I beseech you come again tomorrow.
-What shall you ask of me that I'll deny,
+What shall you ask of me that I&rsquo;ll deny,
 That honor, saved, may upon asking give?
 
 <speaker>VIOLA</speaker>
@@ -3334,7 +3333,7 @@ Gentleman, God save thee.
 And you, sir.
 
 <speaker>TOBY</speaker>
-That defense thou hast, betake thee to 't. Of what
+That defense thou hast, betake thee to &rsquo;t. Of what
 nature the wrongs are thou hast done him, I know
 not, but thy intercepter, full of despite, bloody as
 the hunter, attends thee at the orchard end. Dismount
@@ -3347,7 +3346,7 @@ quarrel to me. My remembrance is very free and
 clear from any image of offense done to any man.
 
 <speaker>TOBY</speaker>
-You'll find it otherwise, I assure you. Therefore,
+You&rsquo;ll find it otherwise, I assure you. Therefore,
 if you hold your life at any price, betake you to your
 guard, for your opposite hath in him what youth,
 strength, skill, and wrath can furnish man withal.
@@ -3361,8 +3360,8 @@ on carpet consideration, but he is a devil in private
 brawl. Souls and bodies hath he divorced three, and
 his incensement at this moment is so implacable
 that satisfaction can be none but by pangs of death
-and sepulcher. "Hob, nob" is his word; "give 't or
-take 't."
+and sepulcher. "&ldquo;Hob, nob&rdquo;" is his word; "&ldquo;give &rsquo;t or
+take &rsquo;t.&rdquo;"
 
 <speaker>VIOLA</speaker>
 I will return again into the house and desire
@@ -3378,7 +3377,7 @@ him his desire. Back you shall not to the house,
 unless you undertake that with me which with as
 much safety you might answer him. Therefore on,
 or strip your sword stark naked, for meddle you
-must, that's certain, or forswear to wear iron about
+must, that&rsquo;s certain, or forswear to wear iron about
 you.
 
 <speaker>VIOLA</speaker>
@@ -3412,7 +3411,7 @@ towards him? I will make your peace with him if I
 can.
 
 <speaker>VIOLA</speaker>
-I shall be much bound to you for 't. I am one
+I shall be much bound to you for &rsquo;t. I am one
 that had rather go with Sir Priest than Sir Knight, I
 care not who knows so much of my mettle.
 [<i>They exit.</i>]
@@ -3420,7 +3419,7 @@ care not who knows so much of my mettle.
 [<i>Enter Toby and Andrew.</i>]
 
 <speaker>TOBY</speaker>
-Why, man, he's a very devil. I have not seen such
+Why, man, he&rsquo;s a very devil. I have not seen such
 a firago. I had a pass with him, rapier, scabbard,
 and all, and he gives me the stuck-in with such
 a mortal motion that it is inevitable; and on the
@@ -3429,24 +3428,24 @@ ground they step on. They say he has been fencer
 to the Sophy.
 
 <speaker>ANDREW</speaker>
-Pox on 't! I'll not meddle with him.
+Pox on &rsquo;t! I&rsquo;ll not meddle with him.
 
 <speaker>TOBY</speaker>
 Ay, but he will not now be pacified. Fabian can
 scarce hold him yonder.
 
 <speaker>ANDREW</speaker>
-Plague on 't! An I thought he had been
-valiant, and so cunning in fence, I'd have seen him
-damned ere I'd have challenged him. Let him let
-the matter slip, and I'll give him my horse, gray
+Plague on &rsquo;t! An I thought he had been
+valiant, and so cunning in fence, I&rsquo;d have seen him
+damned ere I&rsquo;d have challenged him. Let him let
+the matter slip, and I&rsquo;ll give him my horse, gray
 Capilet.
 
 <speaker>TOBY</speaker>
-I'll make the motion. Stand here, make a good
-show on 't. This shall end without the perdition of
+I&rsquo;ll make the motion. Stand here, make a good
+show on &rsquo;t. This shall end without the perdition of
 souls. [<i>Aside.</i>]
- Marry, I'll ride your horse as well as I
+ Marry, I&rsquo;ll ride your horse as well as I
 ride you.
 
 [<i>Enter Fabian and Viola.</i>]
@@ -3454,7 +3453,7 @@ ride you.
 [<i>Toby crosses to meet them.</i>]
 [<i>Aside to Fabian.</i>]
  I have his horse to take up the
-quarrel. I have persuaded him the youth's a devil.
+quarrel. I have persuaded him the youth&rsquo;s a devil.
 
 <speaker>FABIAN,</speaker>
 [<i>aside to Toby</i>]
@@ -3464,8 +3463,8 @@ heels.
 
 <speaker>TOBY,</speaker>
 [<i>to Viola</i>]
-  There's no remedy, sir; he will fight
-with you for 's oath sake. Marry, he hath better
+  There&rsquo;s no remedy, sir; he will fight
+with you for &rsquo;s oath sake. Marry, he hath better
 bethought him of his quarrel, and he finds that now
 scarce to be worth talking of. Therefore, draw for
 the supportance of his vow. He protests he will not
@@ -3482,11 +3481,11 @@ Give ground if you see him furious.
 [<i>Toby crosses to Andrew.</i>]
 
 <speaker>TOBY</speaker>
-Come, Sir Andrew, there's no remedy. The
-gentleman will, for his honor's sake, have one bout
+Come, Sir Andrew, there&rsquo;s no remedy. The
+gentleman will, for his honor&rsquo;s sake, have one bout
 with you. He cannot by the duello avoid it. But he
 has promised me, as he is a gentleman and a soldier,
-he will not hurt you. Come on, to 't.
+he will not hurt you. Come on, to &rsquo;t.
 
 <speaker>ANDREW,</speaker>
 [<i>drawing his sword</i>]
@@ -3495,7 +3494,7 @@ oath!
 
 <speaker>VIOLA,</speaker>
 [<i>drawing her sword</i>]
-I do assure you 'tis against my will.
+I do assure you &rsquo;tis against my will.
 
 [<i>Enter Antonio.</i>]
 
@@ -3524,7 +3523,7 @@ O, good Sir Toby, hold! Here come the officers.
 
 <speaker>TOBY,</speaker>
 [<i>to Antonio</i>]
-  I'll be with you anon.
+  I&rsquo;ll be with you anon.
 
 <speaker>VIOLA,</speaker>
 [<i>to Andrew</i>]
@@ -3533,7 +3532,7 @@ you please.
 
 <speaker>ANDREW</speaker>
 Marry, will I, sir. And for that I promised
-you, I'll be as good as my word. He will bear you
+you, I&rsquo;ll be as good as my word. He will bear you
 easily, and reins well.
 
 <speaker>FIRST OFFICER</speaker>
@@ -3555,7 +3554,7 @@ Take him away. He knows I know him well.
 I must obey. [<i>To Viola.</i>]
  This comes with seeking
 you.
-But there's no remedy. I shall answer it.
+But there&rsquo;s no remedy. I shall answer it.
 What will you do, now my necessity
 Makes me to ask you for my purse? It grieves me
 Much more for what I cannot do for you
@@ -3574,13 +3573,13 @@ What money, sir?
 For the fair kindness you have showed me here,
 And part being prompted by your present trouble,
 Out of my lean and low ability
-I'll lend you something. My having is not much.
-I'll make division of my present with you.
-Hold, there's half my coffer.	[<i>Offering him money.</i>]
+I&rsquo;ll lend you something. My having is not much.
+I&rsquo;ll make division of my present with you.
+Hold, there&rsquo;s half my coffer.	[<i>Offering him money.</i>]
 
 <speaker>ANTONIO</speaker>
 Will you deny me now?
-Is 't possible that my deserts to you
+Is &rsquo;t possible that my deserts to you
 Can lack persuasion? Do not tempt my misery,
 Lest that it make me so unsound a man
 As to upbraid you with those kindnesses
@@ -3608,15 +3607,15 @@ And to his image, which methought did promise
 Most venerable worth, did I devotion.
 
 <speaker>FIRST OFFICER</speaker>
-What's that to us? The time goes by. Away!
+What&rsquo;s that to us? The time goes by. Away!
 
 <speaker>ANTONIO</speaker>
 But O, how vile an idol proves this god!
 Thou hast, Sebastian, done good feature shame.
-In nature there's no blemish but the mind;
+In nature there&rsquo;s no blemish but the mind;
 None can be called deformed but the unkind.
 Virtue is beauty, but the beauteous evil
-Are empty trunks o'erflourished by the devil.
+Are empty trunks o&rsquo;erflourished by the devil.
 
 <speaker>FIRST OFFICER</speaker>
 The man grows mad. Away with him.--Come,
@@ -3631,11 +3630,11 @@ Lead me on.
 Methinks his words do from such passion fly
 That he believes himself; so do not I.
 Prove true, imagination, O, prove true,
-That I, dear brother, be now ta'en for you!
+That I, dear brother, be now ta&rsquo;en for you!
 
 <speaker>TOBY</speaker>
-Come hither, knight; come hither, Fabian. We'll
-whisper o'er a couplet or two of most sage saws.
+Come hither, knight; come hither, Fabian. We&rsquo;ll
+whisper o&rsquo;er a couplet or two of most sage saws.
 [<i>Toby, Fabian, and Andrew move aside.</i>]
 
 <speaker>VIOLA,</speaker>
@@ -3659,7 +3658,7 @@ A coward, a most devout coward, religious
 in it.
 
 <speaker>ANDREW</speaker>
-'Slid, I'll after him again and beat him.
+&rsquo;Slid, I&rsquo;ll after him again and beat him.
 
 <speaker>TOBY</speaker>
 Do, cuff him soundly, but never draw thy
@@ -3669,10 +3668,10 @@ sword.
 An I do not--
 
 <speaker>FABIAN</speaker>
-Come, let's see the event.
+Come, let&rsquo;s see the event.
 
 <speaker>TOBY</speaker>
-I dare lay any money 'twill be nothing yet.
+I dare lay any money &rsquo;twill be nothing yet.
 [<i>They exit.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
@@ -3689,7 +3688,7 @@ Go to, go to, thou art a foolish fellow. Let
 me be clear of thee.
 
 <speaker>FOOL</speaker>
-Well held out, i' faith. No, I do not know you, nor
+Well held out, i&rsquo; faith. No, I do not know you, nor
 I am not sent to you by my lady to bid you come
 speak with her, nor your name is not Master
 Cesario, nor this is not my nose neither. Nothing
@@ -3697,7 +3696,7 @@ that is so is so.
 
 <speaker>SEBASTIAN</speaker>
 I prithee, vent thy folly somewhere else.
-Thou know'st not me.
+Thou know&rsquo;st not me.
 
 <speaker>FOOL</speaker>
 Vent my folly? He has heard that word of some
@@ -3709,14 +3708,14 @@ vent to her that thou art coming?
 
 <speaker>SEBASTIAN</speaker>
 I prithee, foolish Greek, depart from me.
-There's money for thee. [<i>Giving money.</i>]
+There&rsquo;s money for thee. [<i>Giving money.</i>]
  If you
 tarry longer, I shall give worse payment.
 
 <speaker>FOOL</speaker>
 By my troth, thou hast an open hand. These wise
 men that give Fools money get themselves a good
-report--after fourteen years' purchase.
+report--after fourteen years&rsquo; purchase.
 
 [<i>Enter Andrew, Toby, and Fabian.</i>]
  
@@ -3725,15 +3724,15 @@ report--after fourteen years' purchase.
 <speaker>ANDREW,</speaker>
 [<i>to Sebastian</i>]
   Now, sir, have I met you again?
-There's for you.	[<i>He strikes Sebastian.</i>]
+There&rsquo;s for you.	[<i>He strikes Sebastian.</i>]
 
 <speaker>SEBASTIAN,</speaker>
 [<i>returning the blow</i>]
-  Why, there's for thee,
+  Why, there&rsquo;s for thee,
 and there, and there.--Are all the people mad?
 
 <speaker>TOBY</speaker>
-Hold, sir, or I'll throw your dagger o'er the
+Hold, sir, or I&rsquo;ll throw your dagger o&rsquo;er the
 house.
 
 <speaker>FOOL,</speaker>
@@ -3747,10 +3746,10 @@ not be in some of your coats for twopence.
   Come on, sir, hold!
 
 <speaker>ANDREW</speaker>
-Nay, let him alone. I'll go another way to
-work with him. I'll have an action of battery against
+Nay, let him alone. I&rsquo;ll go another way to
+work with him. I&rsquo;ll have an action of battery against
 him, if there be any law in Illyria. Though I struck
-him first, yet it's no matter for that.
+him first, yet it&rsquo;s no matter for that.
 
 <speaker>SEBASTIAN,</speaker>
 [<i>to Toby</i>]
@@ -3765,7 +3764,7 @@ Come on.
 I will be free from thee.
 [<i>He pulls free and draws his sword.</i>]
 What wouldst thou now?
-If thou dar'st tempt me further, draw thy sword.
+If thou dar&rsquo;st tempt me further, draw thy sword.
 
 <speaker>TOBY</speaker>
 What, what? Nay, then, I must have an ounce or
@@ -3783,7 +3782,7 @@ Madam.
 <speaker>OLIVIA</speaker>
 Will it be ever thus? Ungracious wretch,
 Fit for the mountains and the barbarous caves,
-Where manners ne'er were preached! Out of my
+Where manners ne&rsquo;er were preached! Out of my
 sight!--
 Be not offended, dear Cesario.--
 Rudesby, begone!	[<i>Toby, Andrew, and Fabian exit.</i>]
@@ -3805,7 +3804,7 @@ Let fancy still my sense in Lethe steep;
 If it be thus to dream, still let me sleep!
 
 <speaker>OLIVIA</speaker>
-Nay, come, I prithee. Would thou 'dst be ruled by
+Nay, come, I prithee. Would thou &rsquo;dst be ruled by
 me!
 
 <speaker>SEBASTIAN</speaker>
@@ -3822,11 +3821,11 @@ O, say so, and so be!
 <speaker>MARIA</speaker>
 Nay, I prithee, put on this gown and this beard;
 make him believe thou art Sir Topas the curate. Do
-it quickly. I'll call Sir Toby the whilst.	[<i>She exits.</i>]
+it quickly. I&rsquo;ll call Sir Toby the whilst.	[<i>She exits.</i>]
 
 <speaker>FOOL</speaker>
-Well, I'll put it on and I will dissemble myself in
-'t, and I would I were the first that ever dissembled
+Well, I&rsquo;ll put it on and I will dissemble myself in
+&rsquo;t, and I would I were the first that ever dissembled
 in such a gown. [<i>He puts on gown and beard.</i>]
  I am
 not tall enough to become the function well, nor
@@ -3843,9 +3842,9 @@ Jove bless thee, Master Parson.
 <speaker>FOOL</speaker>
 Bonos dies, Sir Toby; for, as the old hermit of
 Prague, that never saw pen and ink, very wittily said
-to a niece of King Gorboduc "That that is, is," so I,
+to a niece of King Gorboduc "&ldquo;That that is, is,&rdquo;" so I,
 being Master Parson, am Master Parson; for what is
-"that" but "that" and "is" but "is"?
+"&ldquo;that&rdquo;" but "&ldquo;that&rdquo;" and "&ldquo;is&rdquo;" but "&ldquo;is&rdquo;"?
 
 <speaker>TOBY</speaker>
 To him, Sir Topas.
@@ -3934,7 +3933,7 @@ approve his opinion.
 
 <speaker>FOOL</speaker>
 Fare thee well. Remain thou still in darkness.
-Thou shalt hold th' opinion of Pythagoras ere I will
+Thou shalt hold th&rsquo; opinion of Pythagoras ere I will
 allow of thy wits, and fear to kill a woodcock lest
 thou dispossess the soul of thy grandam. Fare thee
 well.
@@ -3954,7 +3953,7 @@ and gown. He sees thee not.
 
 <speaker>TOBY</speaker>
 To him in thine own voice, and bring me word
-how thou find'st him. I would we were well rid
+how thou find&rsquo;st him. I would we were well rid
 of this knavery. If he may be conveniently delivered,
 I would he were, for I am now so far in
 offense with my niece that I cannot pursue with
@@ -3993,7 +3992,7 @@ Who calls, ha?
 Good fool, as ever thou wilt deserve well at
 my hand, help me to a candle, and pen, ink, and
 paper. As I am a gentleman, I will live to be thankful
-to thee for 't.
+to thee for &rsquo;t.
 
 <speaker>FOOL</speaker>
 Master Malvolio?
@@ -4059,30 +4058,30 @@ my lady. It shall advantage thee more than ever the
 bearing of letter did.
 
 <speaker>FOOL</speaker>
-I will help you to 't. But tell me true, are you not
+I will help you to &rsquo;t. But tell me true, are you not
 mad indeed, or do you but counterfeit?
 
 <speaker>MALVOLIO</speaker>
 Believe me, I am not. I tell thee true.
 
 <speaker>FOOL</speaker>
-Nay, I'll ne'er believe a madman till I see his
+Nay, I&rsquo;ll ne&rsquo;er believe a madman till I see his
 brains. I will fetch you light and paper and ink.
 
 <speaker>MALVOLIO</speaker>
-Fool, I'll requite it in the highest degree. I
+Fool, I&rsquo;ll requite it in the highest degree. I
 prithee, begone.
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
 	I am gone, sir, and anon, sir,
-	   I'll be with you again,
+	   I&rsquo;ll be with you again,
 	In a trice, like to the old Vice,
 	   Your need to sustain.
 	Who with dagger of lath, in his rage and his wrath,
-	   Cries "aha!" to the devil;
-	Like a mad lad, "Pare thy nails, dad!
-	   Adieu, goodman devil."
+	   Cries "&ldquo;aha!&rdquo;" to the devil;
+	Like a mad lad, "&ldquo;Pare thy nails, dad!
+	   Adieu, goodman devil.&rdquo;"
 [<i>He exits.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
@@ -4091,9 +4090,9 @@ prithee, begone.
 
 <speaker>SEBASTIAN</speaker>
 This is the air; that is the glorious sun.
-This pearl she gave me, I do feel 't and see 't.
-And though 'tis wonder that enwraps me thus,
-Yet 'tis not madness. Where's Antonio, then?
+This pearl she gave me, I do feel &rsquo;t and see &rsquo;t.
+And though &rsquo;tis wonder that enwraps me thus,
+Yet &rsquo;tis not madness. Where&rsquo;s Antonio, then?
 I could not find him at the Elephant.
 Yet there he was; and there I found this credit,
 That he did range the town to seek me out.
@@ -4105,12 +4104,12 @@ So far exceed all instance, all discourse,
 That I am ready to distrust mine eyes
 And wrangle with my reason that persuades me
 To any other trust but that I am mad--
-Or else the lady's mad. Yet if 'twere so,
+Or else the lady&rsquo;s mad. Yet if &rsquo;twere so,
 She could not sway her house, command her
 followers,
 Take and give back affairs and their dispatch
 With such a smooth, discreet, and stable bearing
-As I perceive she does. There's something in 't
+As I perceive she does. There&rsquo;s something in &rsquo;t
 That is deceivable. But here the lady comes.
 
 [<i>Enter Olivia, and a Priest.</i>]
@@ -4129,7 +4128,7 @@ What time we will our celebration keep
 According to my birth. What do you say?
 
 <speaker>SEBASTIAN</speaker>
-I'll follow this good man and go with you,
+I&rsquo;ll follow this good man and go with you,
 And, having sworn truth, ever will be true.
 
 <speaker>OLIVIA</speaker>
@@ -4144,7 +4143,7 @@ That they may fairly note this act of mine.
 [<i>Enter Feste, the Fool and Fabian.</i>]
 
 <speaker>FABIAN</speaker>
-Now, as thou lov'st me, let me see his letter.
+Now, as thou lov&rsquo;st me, let me see his letter.
 
 <speaker>FOOL</speaker>
 Good Master Fabian, grant me another request.
@@ -4201,7 +4200,7 @@ one of my friends.
 
 <speaker>ORSINO,</speaker>
 [<i>giving a coin</i>]
-Thou shalt not be the worse for me; there's gold.
+Thou shalt not be the worse for me; there&rsquo;s gold.
 
 <speaker>FOOL</speaker>
 But that it would be double-dealing, sir, I would
@@ -4216,7 +4215,7 @@ and let your flesh and blood obey it.
 
 <speaker>ORSINO</speaker>
 Well, I will be so much a sinner to be a
-double-dealer: there's another.	[<i>He gives a coin.</i>]
+double-dealer: there&rsquo;s another.	[<i>He gives a coin.</i>]
 
 <speaker>FOOL</speaker>
 Primo, secundo, tertio is a good play, and the old
@@ -4251,7 +4250,7 @@ For shallow draught and bulk unprizable,
 With which such scatheful grapple did he make
 With the most noble bottom of our fleet
 That very envy and the tongue of loss
-Cried fame and honor on him.--What's the matter?
+Cried fame and honor on him.--What&rsquo;s the matter?
 
 <speaker>FIRST OFFICER</speaker>
 Orsino, this is that Antonio
@@ -4264,7 +4263,7 @@ In private brabble did we apprehend him.
 <speaker>VIOLA</speaker>
 He did me kindness, sir, drew on my side,
 But in conclusion put strange speech upon me.
-I know not what 'twas but distraction.
+I know not what &rsquo;twas but distraction.
 
 <speaker>ORSINO</speaker>
 Notable pirate, thou saltwater thief,
@@ -4278,9 +4277,9 @@ Be pleased that I shake off these names you give
 me.
 Antonio never yet was thief or pirate,
 Though, I confess, on base and ground enough,
-Orsino's enemy. A witchcraft drew me hither.
+Orsino&rsquo;s enemy. A witchcraft drew me hither.
 That most ingrateful boy there by your side
-From the rude sea's enraged and foamy mouth
+From the rude sea&rsquo;s enraged and foamy mouth
 Did I redeem; a wrack past hope he was.
 His life I gave him and did thereto add
 My love, without retention or restraint,
@@ -4291,7 +4290,7 @@ Drew to defend him when he was beset;
 Where, being apprehended, his false cunning
 (Not meaning to partake with me in danger)
 Taught him to face me out of his acquaintance
-And grew a twenty years' removed thing
+And grew a twenty years&rsquo; removed thing
 While one would wink; denied me mine own purse,
 Which I had recommended to his use
 Not half an hour before.
@@ -4305,7 +4304,7 @@ How can this be?
 
 <speaker>ANTONIO</speaker>
 Today, my lord; and for three months before,
-No int'rim, not a minute's vacancy,
+No int&rsquo;rim, not a minute&rsquo;s vacancy,
 Both day and night did we keep company.
 
 [<i>Enter Olivia and Attendants.</i>]
@@ -4350,15 +4349,15 @@ Still so constant, lord.
 <speaker>ORSINO</speaker>
 What, to perverseness? You, uncivil lady,
 To whose ingrate and unauspicious altars
-My soul the faithful'st off'rings have breathed out
-That e'er devotion tendered--what shall I do?
+My soul the faithful&rsquo;st off&rsquo;rings have breathed out
+That e&rsquo;er devotion tendered--what shall I do?
 
 <speaker>OLIVIA</speaker>
 Even what it please my lord that shall become him.
 
 <speaker>ORSINO</speaker>
 Why should I not, had I the heart to do it,
-Like to th' Egyptian thief at point of death,
+Like to th&rsquo; Egyptian thief at point of death,
 Kill what I love?--a savage jealousy
 That sometime savors nobly. But hear me this:
 Since you to nonregardance cast my faith,
@@ -4368,11 +4367,11 @@ Live you the marble-breasted tyrant still.
 But this your minion, whom I know you love,
 And whom, by heaven I swear, I tender dearly,
 Him will I tear out of that cruel eye
-Where he sits crowned in his master's spite.--
+Where he sits crowned in his master&rsquo;s spite.--
 Come, boy, with me. My thoughts are ripe in
 mischief.
-I'll sacrifice the lamb that I do love
-To spite a raven's heart within a dove.
+I&rsquo;ll sacrifice the lamb that I do love
+To spite a raven&rsquo;s heart within a dove.
 
 <speaker>VIOLA</speaker>
 And I, most jocund, apt, and willingly,
@@ -4384,7 +4383,7 @@ Where goes Cesario?
 <speaker>VIOLA</speaker>
 After him I love
 More than I love these eyes, more than my life,
-More by all mores than e'er I shall love wife.
+More by all mores than e&rsquo;er I shall love wife.
 If I do feign, you witnesses above,
 Punish my life for tainting of my love.
 
@@ -4421,8 +4420,8 @@ No, my lord, not I.
 Alas, it is the baseness of thy fear
 That makes thee strangle thy propriety.
 Fear not, Cesario. Take thy fortunes up.
-Be that thou know'st thou art, and then thou art
-As great as that thou fear'st.
+Be that thou know&rsquo;st thou art, and then thou art
+As great as that thou fear&rsquo;st.
 
 [<i>Enter Priest.</i>]
 
@@ -4430,7 +4429,7 @@ O, welcome, father.
 Father, I charge thee by thy reverence
 Here to unfold (though lately we intended
 To keep in darkness what occasion now
-Reveals before 'tis ripe) what thou dost know
+Reveals before &rsquo;tis ripe) what thou dost know
 Hath newly passed between this youth and me.
 
 <speaker>PRIEST</speaker>
@@ -4467,7 +4466,7 @@ For the love of God, a surgeon! Send one
 presently to Sir Toby.
 
 <speaker>OLIVIA</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>ANDREW</speaker>
 Has broke my head across, and has given Sir
@@ -4479,17 +4478,17 @@ home.
 Who has done this, Sir Andrew?
 
 <speaker>ANDREW</speaker>
-The Count's gentleman, one Cesario. We took
-him for a coward, but he's the very devil
+The Count&rsquo;s gentleman, one Cesario. We took
+him for a coward, but he&rsquo;s the very devil
 incardinate.
 
 <speaker>ORSINO</speaker>
 My gentleman Cesario?
 
 <speaker>ANDREW</speaker>
-'Od's lifelings, here he is!--You broke my
+&rsquo;Od&rsquo;s lifelings, here he is!--You broke my
 head for nothing, and that that I did, I was set on to
-do 't by Sir Toby.
+do &rsquo;t by Sir Toby.
 
 <speaker>VIOLA</speaker>
 Why do you speak to me? I never hurt you.
@@ -4507,19 +4506,19 @@ more. But if he had not been in drink, he would
 have tickled you othergates than he did.
 
 <speaker>ORSINO</speaker>
-How now, gentleman? How is 't with you?
+How now, gentleman? How is &rsquo;t with you?
 
 <speaker>TOBY</speaker>
-That's all one. Has hurt me, and there's th' end
-on 't. [<i>To Fool.</i>]
+That&rsquo;s all one. Has hurt me, and there&rsquo;s th&rsquo; end
+on &rsquo;t. [<i>To Fool.</i>]
  Sot, didst see Dick Surgeon, sot?
 
 <speaker>FOOL</speaker>
-O, he's drunk, Sir Toby, an hour agone; his eyes
-were set at eight i' th' morning.
+O, he&rsquo;s drunk, Sir Toby, an hour agone; his eyes
+were set at eight i&rsquo; th&rsquo; morning.
 
 <speaker>TOBY</speaker>
-Then he's a rogue and a passy-measures pavin. I
+Then he&rsquo;s a rogue and a passy-measures pavin. I
 hate a drunken rogue.
 
 <speaker>OLIVIA</speaker>
@@ -4527,7 +4526,7 @@ Away with him! Who hath made this havoc
 with them?
 
 <speaker>ANDREW</speaker>
-I'll help you, Sir Toby, because we'll be
+I&rsquo;ll help you, Sir Toby, because we&rsquo;ll be
 dressed together.
 
 <speaker>TOBY</speaker>
@@ -4562,7 +4561,7 @@ Since I have lost thee!
 Sebastian are you?
 
 <speaker>SEBASTIAN</speaker>
-Fear'st thou that, Antonio?
+Fear&rsquo;st thou that, Antonio?
 
 <speaker>ANTONIO</speaker>
 How have you made division of yourself?
@@ -4594,7 +4593,7 @@ But am in that dimension grossly clad
 Which from the womb I did participate.
 Were you a woman, as the rest goes even,
 I should my tears let fall upon your cheek
-And say "Thrice welcome, drowned Viola."
+And say "&ldquo;Thrice welcome, drowned Viola.&rdquo;"
 
 <speaker>VIOLA</speaker>
 My father had a mole upon his brow.
@@ -4617,7 +4616,7 @@ But this my masculine usurped attire,
 Do not embrace me till each circumstance
 Of place, time, fortune, do cohere and jump
 That I am Viola; which to confirm,
-I'll bring you to a captain in this town,
+I&rsquo;ll bring you to a captain in this town,
 Where lie my maiden weeds; by whose gentle help
 I was preserved to serve this noble count.
 All the occurrence of my fortune since
@@ -4647,13 +4646,13 @@ That severs day from night.
 
 <speaker>ORSINO</speaker>
 Give me thy hand,
-And let me see thee in thy woman's weeds.
+And let me see thee in thy woman&rsquo;s weeds.
 
 <speaker>VIOLA</speaker>
 The Captain that did bring me first on shore
-Hath my maid's garments. He, upon some action,
-Is now in durance at Malvolio's suit,
-A gentleman and follower of my lady's.
+Hath my maid&rsquo;s garments. He, upon some action,
+Is now in durance at Malvolio&rsquo;s suit,
+A gentleman and follower of my lady&rsquo;s.
 
 <speaker>OLIVIA</speaker>
 He shall enlarge him.
@@ -4662,21 +4661,21 @@ He shall enlarge him.
 
 Fetch Malvolio hither.
 And yet, alas, now I remember me,
-They say, poor gentleman, he's much distract.
+They say, poor gentleman, he&rsquo;s much distract.
 A most extracting frenzy of mine own
 From my remembrance clearly banished his.
 [<i>To the Fool.</i>]
  How does he, sirrah?
 
 <speaker>FOOL</speaker>
-Truly, madam, he holds Beelzebub at the stave's
+Truly, madam, he holds Beelzebub at the stave&rsquo;s
 end as well as a man in his case may do. Has here
-writ a letter to you. I should have given 't you today
-morning. But as a madman's epistles are no gospels,
+writ a letter to you. I should have given &rsquo;t you today
+morning. But as a madman&rsquo;s epistles are no gospels,
 so it skills not much when they are delivered.
 
 <speaker>OLIVIA</speaker>
-Open 't and read it.
+Open &rsquo;t and read it.
 
 <speaker>FOOL</speaker>
 Look then to be well edified, when the Fool
@@ -4693,7 +4692,7 @@ Ladyship will have it as it ought to be, you must
 allow vox.
 
 <speaker>OLIVIA</speaker>
-Prithee, read i' thy right wits.
+Prithee, read i&rsquo; thy right wits.
 
 <speaker>FOOL</speaker>
 So I do, madonna. But to read his right wits is to
@@ -4733,20 +4732,20 @@ See him delivered, Fabian. Bring him hither.
  My lord, so please you, these things
 further thought on,
 To think me as well a sister as a wife,
-One day shall crown th' alliance on 't, so please
+One day shall crown th&rsquo; alliance on &rsquo;t, so please
 you,
 Here at my house, and at my proper cost.
 
 <speaker>ORSINO</speaker>
-Madam, I am most apt t' embrace your offer.
+Madam, I am most apt t&rsquo; embrace your offer.
 [<i>To Viola.</i>]
  Your master quits you; and for your
 service done him,
 So much against the mettle of your sex,
 So far beneath your soft and tender breeding,
-And since you called me "master" for so long,
+And since you called me "&ldquo;master&rdquo;" for so long,
 Here is my hand. You shall from this time be
-Your master's mistress.
+Your master&rsquo;s mistress.
 
 <speaker>OLIVIA,</speaker>
 [<i>to Viola</i>]
@@ -4774,7 +4773,7 @@ Have I, Malvolio? No.
 Lady, you have. Pray you peruse that letter.
 You must not now deny it is your hand.
 Write from it if you can, in hand or phrase,
-Or say 'tis not your seal, not your invention.
+Or say &rsquo;tis not your seal, not your invention.
 You can say none of this. Well, grant it then,
 And tell me, in the modesty of honor,
 Why you have given me such clear lights of favor?
@@ -4785,14 +4784,14 @@ And, acting this in an obedient hope,
 Why have you suffered me to be imprisoned,
 Kept in a dark house, visited by the priest,
 And made the most notorious geck and gull
-That e'er invention played on? Tell me why.
+That e&rsquo;er invention played on? Tell me why.
 
 <speaker>OLIVIA</speaker>
 Alas, Malvolio, this is not my writing,
 Though I confess much like the character.
-But out of question, 'tis Maria's hand.
+But out of question, &rsquo;tis Maria&rsquo;s hand.
 And now I do bethink me, it was she
-First told me thou wast mad; then cam'st in smiling,
+First told me thou wast mad; then cam&rsquo;st in smiling,
 And in such forms which here were presupposed
 Upon thee in the letter. Prithee, be content.
 This practice hath most shrewdly passed upon thee.
@@ -4809,7 +4808,7 @@ Most freely I confess, myself and Toby
 Set this device against Malvolio here,
 Upon some stubborn and uncourteous parts
 We had conceived against him. Maria writ
-The letter at Sir Toby's great importance,
+The letter at Sir Toby&rsquo;s great importance,
 In recompense whereof he hath married her.
 How with a sportful malice it was followed
 May rather pluck on laughter than revenge,
@@ -4821,17 +4820,17 @@ That have on both sides passed.
 Alas, poor fool, how have they baffled thee!
 
 <speaker>FOOL</speaker>
-Why, "some are born great, some achieve greatness,
-and some have greatness thrown upon them."
+Why, "&ldquo;some are born great, some achieve greatness,
+and some have greatness thrown upon them.&rdquo;"
 I was one, sir, in this interlude, one Sir Topas, sir,
-but that's all one. "By the Lord, Fool, I am not
-mad"--but, do you remember "Madam, why laugh
-you at such a barren rascal; an you smile not, he's
-gagged"? And thus the whirligig of time brings in
+but that&rsquo;s all one. "&ldquo;By the Lord, Fool, I am not
+mad"--but, do you remember "&ldquo;Madam, why laugh
+you at such a barren rascal; an you smile not, he&rsquo;s
+gagged&rdquo;"? And thus the whirligig of time brings in
 his revenges.
 
 <speaker>MALVOLIO</speaker>
-I'll be revenged on the whole pack of you!	[<i>He exits.</i>]
+I&rsquo;ll be revenged on the whole pack of you!	[<i>He exits.</i>]
 
 <speaker>OLIVIA</speaker>
 He hath been most notoriously abused.
@@ -4845,7 +4844,7 @@ Of our dear souls.--Meantime, sweet sister,
 We will not part from hence.--Cesario, come,
 For so you shall be while you are a man.
 But when in other habits you are seen,
-Orsino's mistress, and his fancy's queen.
+Orsino&rsquo;s mistress, and his fancy&rsquo;s queen.
 [<i>All but the Fool exit.</i>]
 
 <speaker>FOOL</speaker>
@@ -4855,9 +4854,9 @@ Orsino's mistress, and his fancy's queen.
 	A foolish thing was but a toy,
 	   For the rain it raineth every day.
 
-	But when I came to man's estate,
+	But when I came to man&rsquo;s estate,
 	   With hey, ho, the wind and the rain,
-	'Gainst knaves and thieves men shut their gate,
+	&rsquo;Gainst knaves and thieves men shut their gate,
 	   For the rain it raineth every day.
 
 	But when I came, alas, to wive,
@@ -4872,7 +4871,7 @@ Orsino's mistress, and his fancy's queen.
 
 	A great while ago the world begun,
 	   With hey, ho, the wind and the rain,
-	But that's all one, our play is done,
-	   And we'll strive to please you every day.
+	But that&rsquo;s all one, our play is done,
+	   And we&rsquo;ll strive to please you every day.
 [<i>He exits.</i>]
 `;

@@ -22,20 +22,20 @@ In my behavior to the majesty,
 The borrowed majesty, of England here.
 
 QUEEN ELEANOR
-A strange beginning: "borrowed majesty"!
+A strange beginning: "&ldquo;borrowed majesty&rdquo;"!
 
 KING JOHN
 Silence, good mother. Hear the embassy.
 
 CHATILLION
 Philip of France, in right and true behalf
-Of thy deceased brother Geoffrey's son,
+Of thy deceased brother Geoffrey&rsquo;s son,
 Arthur Plantagenet, lays most lawful claim
 To this fair island and the territories,
 To Ireland, Poitiers, Anjou, Touraine, Maine,
 Desiring thee to lay aside the sword
 Which sways usurpingly these several titles,
-And put the same into young Arthur's hand,
+And put the same into young Arthur&rsquo;s hand,
 Thy nephew and right royal sovereign.
 
 KING JOHN
@@ -50,7 +50,7 @@ Here have we war for war and blood for blood,
 Controlment for controlment: so answer France.
 
 CHATILLION
-Then take my king's defiance from my mouth,
+Then take my king&rsquo;s defiance from my mouth,
 The farthest limit of my embassy.
 
 KING JOHN
@@ -61,7 +61,7 @@ The thunder of my cannon shall be heard.
 So, hence. Be thou the trumpet of our wrath
 And sullen presage of your own decay.--
 An honorable conduct let him have.
-Pembroke, look to 't.--Farewell, Chatillion.
+Pembroke, look to &rsquo;t.--Farewell, Chatillion.
 [<i>Chatillion and Pembroke exit.</i>]
 
 QUEEN ELEANOR, [<i>aside to King John</i>]
@@ -88,11 +88,11 @@ Which none but God and you and I shall hear.
 ESSEX
 My liege, here is the strangest controversy
 Come from the country to be judged by you
-That e'er I heard. Shall I produce the men?
+That e&rsquo;er I heard. Shall I produce the men?
 
 KING JOHN  Let them approach.	[<i>Sheriff exits.</i>]
 Our abbeys and our priories shall pay
-This expedition's charge.
+This expedition&rsquo;s charge.
 
 [<i>Enter Robert Faulconbridge and Philip Faulconbridge.</i>]
 
@@ -119,8 +119,8 @@ PHILIP FAULCONBRIDGE
 Most certain of one mother, mighty king--
 That is well known--and, as I think, one father.
 But for the certain knowledge of that truth
-I put you o'er to heaven and to my mother.
-Of that I doubt, as all men's children may.
+I put you o&rsquo;er to heaven and to my mother.
+Of that I doubt, as all men&rsquo;s children may.
 
 QUEEN ELEANOR
 Out on thee, rude man! Thou dost shame thy
@@ -129,10 +129,10 @@ And wound her honor with this diffidence.
 
 PHILIP FAULCONBRIDGE
 I, madam? No, I have no reason for it.
-That is my brother's plea, and none of mine,
+That is my brother&rsquo;s plea, and none of mine,
 The which if he can prove, he pops me out
 At least from fair five hundred pound a year.
-Heaven guard my mother's honor and my land!
+Heaven guard my mother&rsquo;s honor and my land!
 
 KING JOHN
 A good blunt fellow.--Why, being younger born,
@@ -141,8 +141,8 @@ Doth he lay claim to thine inheritance?
 PHILIP FAULCONBRIDGE
 I know not why, except to get the land.
 But once he slandered me with bastardy.
-But whe'er I be as true begot or no,
-That still I lay upon my mother's head.
+But whe&rsquo;er I be as true begot or no,
+That still I lay upon my mother&rsquo;s head.
 But that I am as well begot, my liege--
 Fair fall the bones that took the pains for me!--
 Compare our faces and be judge yourself.
@@ -155,7 +155,7 @@ KING JOHN
 Why, what a madcap hath heaven lent us here!
 
 QUEEN ELEANOR, [<i>aside to King John</i>]
-He hath a trick of Coeur de Lion's face;
+He hath a trick of Coeur de Lion&rsquo;s face;
 The accent of his tongue affecteth him.
 Do you not read some tokens of my son
 In the large composition of this man?
@@ -165,7 +165,7 @@ Mine eye hath well examined his parts
 And finds them perfect Richard. [<i>To Robert
 Faulconbridge</i>]
  - Sirrah, speak.
-What doth move you to claim your brother's land?
+What doth move you to claim your brother&rsquo;s land?
 
 PHILIP FAULCONBRIDGE
 Because he hath a half-face, like my father.
@@ -184,8 +184,8 @@ ROBERT FAULCONBRIDGE
 And once dispatched him in an embassy
 To Germany, there with the Emperor
 To treat of high affairs touching that time.
-Th' advantage of his absence took the King
-And in the meantime sojourned at my father's;
+Th&rsquo; advantage of his absence took the King
+And in the meantime sojourned at my father&rsquo;s;
 Where how he did prevail I shame to speak.
 But truth is truth: large lengths of seas and shores
 Between my father and my mother lay,
@@ -193,15 +193,15 @@ As I have heard my father speak himself,
 When this same lusty gentleman was got.
 Upon his deathbed he by will bequeathed
 His lands to me, and took it on his death
-That this my mother's son was none of his;
+That this my mother&rsquo;s son was none of his;
 An if he were, he came into the world
 Full fourteen weeks before the course of time.
 Then, good my liege, let me have what is mine,
-My father's land, as was my father's will.
+My father&rsquo;s land, as was my father&rsquo;s will.
 
 KING JOHN
 Sirrah, your brother is legitimate.
-Your father's wife did after wedlock bear him,
+Your father&rsquo;s wife did after wedlock bear him,
 An if she did play false, the fault was hers,
 Which fault lies on the hazards of all husbands
 That marry wives. Tell me, how if my brother,
@@ -209,14 +209,14 @@ Who as you say took pains to get this son,
 Had of your father claimed this son for his?
 In sooth, good friend, your father might have kept
 This calf, bred from his cow, from all the world;
-In sooth he might. Then if he were my brother's,
+In sooth he might. Then if he were my brother&rsquo;s,
 My brother might not claim him, nor your father,
 Being none of his, refuse him. This concludes:
-My mother's son did get your father's heir;
-Your father's heir must have your father's land.
+My mother&rsquo;s son did get your father&rsquo;s heir;
+Your father&rsquo;s heir must have your father&rsquo;s land.
 
 ROBERT FAULCONBRIDGE
-Shall then my father's will be of no force
+Shall then my father&rsquo;s will be of no force
 To dispossess that child which is not his?
 
 PHILIP FAULCONBRIDGE
@@ -231,12 +231,12 @@ Lord of thy presence, and no land besides?
 
 BASTARD
 Madam, an if my brother had my shape
-And I had his, Sir Robert's his like him,
+And I had his, Sir Robert&rsquo;s his like him,
 And if my legs were two such riding-rods,
 My arms such eel-skins stuffed, my face so thin
 That in mine ear I durst not stick a rose,
-Lest men should say "Look where three-farthings
-goes,"
+Lest men should say "&ldquo;Look where three-farthings
+goes,&rdquo;"
 And, to his shape, were heir to all this land,
 Would I might never stir from off this place,
 I would give it every foot to have this face.
@@ -248,10 +248,10 @@ Bequeath thy land to him, and follow me?
 I am a soldier and now bound to France.
 
 BASTARD
-Brother, take you my land. I'll take my chance.
+Brother, take you my land. I&rsquo;ll take my chance.
 Your face hath got five hundred pound a year,
-Yet sell your face for five pence and 'tis dear.--
-Madam, I'll follow you unto the death.
+Yet sell your face for five pence and &rsquo;tis dear.--
+Madam, I&rsquo;ll follow you unto the death.
 
 QUEEN ELEANOR
 Nay, I would have you go before me thither.
@@ -263,7 +263,7 @@ KING JOHN  What is thy name?
 
 BASTARD
 Philip, my liege, so is my name begun,
-Philip, good old Sir Robert's wife's eldest son.
+Philip, good old Sir Robert&rsquo;s wife&rsquo;s eldest son.
 
 KING JOHN
 From henceforth bear his name whose form thou
@@ -274,7 +274,7 @@ tapping him on the shoulder with his sword.</i>]
 Arise Sir Richard and Plantagenet.
 
 BASTARD, [<i>rising, to Robert Faulconbridge</i>]
-Brother by th' mother's side, give me your hand.
+Brother by th&rsquo; mother&rsquo;s side, give me your hand.
 My father gave me honor, yours gave land.
 Now blessed be the hour, by night or day,
 When I was got, Sir Robert was away!
@@ -286,11 +286,11 @@ I am thy grandam, Richard. Call me so.
 BASTARD
 Madam, by chance but not by truth. What though?
 Something about, a little from the right,
- - In at the window, or else o'er the hatch.
+ - In at the window, or else o&rsquo;er the hatch.
 Who dares not stir by day must walk by night,
  - And have is have, however men do catch.
 Near or far off, well won is still well shot,
-And I am I, howe'er I was begot.
+And I am I, howe&rsquo;er I was begot.
 
 KING JOHN, [<i>to Robert Faulconbridge</i>]
 Go, Faulconbridge, now hast thou thy desire.
@@ -301,26 +301,26 @@ For France, for France, for it is more than need.
 
 BASTARD
 Brother, adieu, good fortune come to thee,
-For thou wast got i' th' way of honesty.
+For thou wast got i&rsquo; th&rsquo; way of honesty.
 [<i>All but Bastard exit.</i>]
 A foot of honor better than I was,
 But many a many foot of land the worse.
 Well, now can I make any Joan a lady.
-"Good den, Sir Richard!" "God-a-mercy, fellow!"
-An if his name be George, I'll call him "Peter,"
-For new-made honor doth forget men's names;
-'Tis too respective and too sociable
+"&ldquo;Good den, Sir Richard!&rdquo;" "&ldquo;God-a-mercy, fellow!&rdquo;"
+An if his name be George, I&rsquo;ll call him "&ldquo;Peter,&rdquo;"
+For new-made honor doth forget men&rsquo;s names;
+&rsquo;Tis too respective and too sociable
 For your conversion. Now your traveler,
-He and his toothpick at my Worship's mess,
+He and his toothpick at my Worship&rsquo;s mess,
 And when my knightly stomach is sufficed,
 Why then I suck my teeth and catechize
-My picked man of countries: "My dear sir,"
+My picked man of countries: "&ldquo;My dear sir,&rdquo;"
 Thus leaning on mine elbow I begin,
-"I shall beseech you"--that is Question now,
+"&ldquo;I shall beseech you"--that is Question now,
 And then comes Answer like an absey-book:
-"O, sir," says Answer, "at your best command,
-At your employment, at your service, sir."
-"No, sir," says Question, "I, sweet sir, at yours."
+"&ldquo;O, sir,&rdquo;" says Answer, "&ldquo;at your best command,
+At your employment, at your service, sir.&rdquo;"
+"&ldquo;No, sir,&rdquo;" says Question, "&ldquo;I, sweet sir, at yours.&rdquo;"
 And so, ere Answer knows what Question would,
 Saving in dialogue of compliment
 And talking of the Alps and Apennines,
@@ -334,7 +334,7 @@ And so am I whether I smack or no;
 And not alone in habit and device,
 Exterior form, outward accouterment,
 But from the inward motion to deliver
-Sweet, sweet, sweet poison for the age's tooth,
+Sweet, sweet, sweet poison for the age&rsquo;s tooth,
 Which though I will not practice to deceive,
 Yet to avoid deceit I mean to learn,
 For it shall strew the footsteps of my rising.
@@ -344,7 +344,7 @@ For it shall strew the footsteps of my rising.
 But who comes in such haste in riding robes?
 What woman post is this? Hath she no husband
 That will take pains to blow a horn before her?
-O me, 'tis my mother.--How now, good lady?
+O me, &rsquo;tis my mother.--How now, good lady?
 What brings you here to court so hastily?
 
 LADY FAULCONBRIDGE
@@ -352,14 +352,14 @@ Where is that slave thy brother? Where is he
 That holds in chase mine honor up and down?
 
 BASTARD
-My brother Robert, old Sir Robert's son?
+My brother Robert, old Sir Robert&rsquo;s son?
 Colbrand the Giant, that same mighty man?
-Is it Sir Robert's son that you seek so?
+Is it Sir Robert&rsquo;s son that you seek so?
 
 LADY FAULCONBRIDGE
-"Sir Robert's son"? Ay, thou unreverent boy,
-Sir Robert's son. Why scorn'st thou at Sir Robert?
-He is Sir Robert's son, and so art thou.
+"&ldquo;Sir Robert&rsquo;s son&rdquo;"? Ay, thou unreverent boy,
+Sir Robert&rsquo;s son. Why scorn&rsquo;st thou at Sir Robert?
+He is Sir Robert&rsquo;s son, and so art thou.
 
 BASTARD
 James Gurney, wilt thou give us leave awhile?
@@ -367,12 +367,12 @@ James Gurney, wilt thou give us leave awhile?
 GURNEY
 Good leave, good Philip.
 
-BASTARD  "Philip Sparrow," James.
-There's toys abroad. Anon I'll tell thee more.
+BASTARD  "&ldquo;Philip Sparrow,&rdquo;" James.
+There&rsquo;s toys abroad. Anon I&rsquo;ll tell thee more.
 [<i>James Gurney exits.</i>]
-Madam, I was not old Sir Robert's son.
+Madam, I was not old Sir Robert&rsquo;s son.
 Sir Robert might have eat his part in me
-Upon Good Friday and ne'er broke his fast.
+Upon Good Friday and ne&rsquo;er broke his fast.
 Sir Robert could do well--marry, to confess--
 Could he get me. Sir Robert could not do it;
 We know his handiwork. Therefore, good mother,
@@ -388,7 +388,7 @@ What means this scorn, thou most untoward knave?
 BASTARD
 Knight, knight, good mother, Basilisco-like.
 What, I am dubbed! I have it on my shoulder.
-But, mother, I am not Sir Robert's son.
+But, mother, I am not Sir Robert&rsquo;s son.
 I have disclaimed Sir Robert and my land.
 Legitimation, name, and all is gone.
 Then, good my mother, let me know my father--
@@ -403,7 +403,7 @@ As faithfully as I deny the devil.
 LADY FAULCONBRIDGE
 King Richard Coeur de Lion was thy father.
 By long and vehement suit I was seduced
-To make room for him in my husband's bed.
+To make room for him in my husband&rsquo;s bed.
 Heaven lay not my transgression to my charge!
 Thou art the issue of my dear offense,
 Which was so strongly urged past my defense.
@@ -417,16 +417,16 @@ Needs must you lay your heart at his dispose,
 Subjected tribute to commanding love,
 Against whose fury and unmatched force
 The aweless lion could not wage the fight,
-Nor keep his princely heart from Richard's hand.
+Nor keep his princely heart from Richard&rsquo;s hand.
 He that perforce robs lions of their hearts
-May easily win a woman's. Ay, my mother,
+May easily win a woman&rsquo;s. Ay, my mother,
 With all my heart I thank thee for my father.
 Who lives and dares but say thou didst not well
-When I was got, I'll send his soul to hell.
+When I was got, I&rsquo;ll send his soul to hell.
 Come, lady, I will show thee to my kin,
  - And they shall say when Richard me begot,
 If thou hadst said him nay, it had been sin.
- - Who says it was, he lies. I say 'twas not.
+ - Who says it was, he lies. I say &rsquo;twas not.
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -435,7 +435,7 @@ If thou hadst said him nay, it had been sin.
 [<i>Enter, before Angiers, at one side, with Forces, Philip
 King of France, Louis the Dauphin, Constance, Arthur,
 and Attendants; at the other side, with Forces, Austria,
-wearing a lion's skin.</i>]
+wearing a lion&rsquo;s skin.</i>]
 
 <speaker>DAUPHIN</speaker>
 Before Angiers well met, brave Austria.--
@@ -451,7 +451,7 @@ Of thy unnatural uncle, English John.
 Embrace him, love him, give him welcome hither.
 
 <speaker>ARTHUR</speaker>
-God shall forgive you Coeur de Lion's death
+God shall forgive you Coeur de Lion&rsquo;s death
 The rather that you give his offspring life,
 Shadowing their right under your wings of war.
 I give you welcome with a powerless hand
@@ -468,7 +468,7 @@ As seal to this indenture of my love:
 That to my home I will no more return
 Till Angiers and the right thou hast in France,
 Together with that pale, that white-faced shore,
-Whose foot spurns back the ocean's roaring tides
+Whose foot spurns back the ocean&rsquo;s roaring tides
 And coops from other lands her islanders,
 Even till that England, hedged in with the main,
 That water-walled bulwark, still secure
@@ -478,7 +478,7 @@ Salute thee for her king. Till then, fair boy,
 Will I not think of home, but follow arms.
 
 <speaker>CONSTANCE</speaker>
-O, take his mother's thanks, a widow's thanks,
+O, take his mother&rsquo;s thanks, a widow&rsquo;s thanks,
 Till your strong hand shall help to give him strength
 To make a more requital to your love.
 
@@ -491,8 +491,8 @@ Well, then, to work. Our cannon shall be bent
 Against the brows of this resisting town.
 Call for our chiefest men of discipline
 To cull the plots of best advantages.
-We'll lay before this town our royal bones,
-Wade to the marketplace in Frenchmen's blood,
+We&rsquo;ll lay before this town our royal bones,
+Wade to the marketplace in Frenchmen&rsquo;s blood,
 But we will make it subject to this boy.
 
 <speaker>CONSTANCE</speaker>
@@ -523,15 +523,15 @@ His forces strong, his soldiers confident.
 With him along is come the Mother Queen,
 An Ate stirring him to blood and strife;
 With her her niece, the Lady Blanche of Spain;
-With them a bastard of the King's deceased.
-And all th' unsettled humors of the land--
+With them a bastard of the King&rsquo;s deceased.
+And all th&rsquo; unsettled humors of the land--
 Rash, inconsiderate, fiery voluntaries,
-With ladies' faces and fierce dragons' spleens--
+With ladies&rsquo; faces and fierce dragons&rsquo; spleens--
 Have sold their fortunes at their native homes,
 Bearing their birthrights proudly on their backs,
 To make a hazard of new fortunes here.
 In brief, a braver choice of dauntless spirits
-Than now the English bottoms have waft o'er
+Than now the English bottoms have waft o&rsquo;er
 Did never float upon the swelling tide
 To do offense and scathe in Christendom.
 [<i>Drum beats.</i>]
@@ -555,13 +555,13 @@ Eleanor, Blanche, Salisbury, Pembroke, and others.</i>]
 Peace be to France, if France in peace permit
 Our just and lineal entrance to our own.
 If not, bleed France, and peace ascend to heaven,
-Whiles we, God's wrathful agent, do correct
+Whiles we, God&rsquo;s wrathful agent, do correct
 Their proud contempt that beats his peace to heaven.
 
 <speaker>KING PHILIP</speaker>
 Peace be to England, if that war return
 From France to England, there to live in peace.
-England we love, and for that England's sake
+England we love, and for that England&rsquo;s sake
 With burden of our armor here we sweat.
 This toil of ours should be a work of thine;
 But thou from loving England art so far
@@ -569,18 +569,18 @@ That thou hast underwrought his lawful king,
 Cut off the sequence of posterity,
 Outfaced infant state, and done a rape
 Upon the maiden virtue of the crown.
-Look here upon thy brother Geoffrey's face.
+Look here upon thy brother Geoffrey&rsquo;s face.
 [<i>He points to Arthur.</i>]
 These eyes, these brows, were molded out of his;
 This little abstract doth contain that large
 Which died in Geoffrey, and the hand of time
 Shall draw this brief into as huge a volume.
 That Geoffrey was thy elder brother born,
-And this his son. England was Geoffrey's right,
-And this is Geoffrey's. In the name of God,
+And this his son. England was Geoffrey&rsquo;s right,
+And this is Geoffrey&rsquo;s. In the name of God,
 How comes it then that thou art called a king,
 When living blood doth in these temples beat
-Which owe the crown that thou o'ermasterest?
+Which owe the crown that thou o&rsquo;ermasterest?
 
 <speaker>KING JOHN</speaker>
 From whom hast thou this great commission,
@@ -623,10 +623,10 @@ It cannot be, an if thou wert his mother.
 
 <speaker>QUEEN ELEANOR,</speaker>
 [<i>to Arthur</i>]
-There's a good mother, boy, that blots thy father.
+There&rsquo;s a good mother, boy, that blots thy father.
 
 <speaker>CONSTANCE</speaker>
-There's a good grandam, boy, that would blot thee.
+There&rsquo;s a good grandam, boy, that would blot thee.
 
 <speaker>AUSTRIA</speaker>
 Peace!
@@ -642,17 +642,17 @@ One that will play the devil, sir, with you,
 An he may catch your hide and you alone.
 You are the hare of whom the proverb goes,
 Whose valor plucks dead lions by the beard.
-I'll smoke your skin-coat an I catch you right.
-Sirrah, look to 't. I' faith, I will, i' faith!
+I&rsquo;ll smoke your skin-coat an I catch you right.
+Sirrah, look to &rsquo;t. I&rsquo; faith, I will, i&rsquo; faith!
 
 <speaker>BLANCHE</speaker>
-O, well did he become that lion's robe
+O, well did he become that lion&rsquo;s robe
 That did disrobe the lion of that robe.
 
 <speaker>BASTARD</speaker>
 It lies as sightly on the back of him
-As great Alcides' shoes upon an ass.--
-But, ass, I'll take that burden from your back
+As great Alcides&rsquo; shoes upon an ass.--
+But, ass, I&rsquo;ll take that burden from your back
 Or lay on that shall make your shoulders crack.
 
 <speaker>AUSTRIA</speaker>
@@ -672,8 +672,8 @@ Wilt thou resign them and lay down thy arms?
 <speaker>KING JOHN</speaker>
 My life as soon! I do defy thee, France.--
 Arthur of Brittany, yield thee to my hand,
-And out of my dear love I'll give thee more
-Than e'er the coward hand of France can win.
+And out of my dear love I&rsquo;ll give thee more
+Than e&rsquo;er the coward hand of France can win.
 Submit thee, boy.
 
 <speaker>QUEEN ELEANOR</speaker>
@@ -683,20 +683,20 @@ Come to thy grandam, child.
 Do, child, go to it grandam, child.
 Give grandam kingdom, and it grandam will
 Give it a plum, a cherry, and a fig.
-There's a good grandam.
+There&rsquo;s a good grandam.
 
 <speaker>ARTHUR,</speaker>
 [<i>weeping</i>]
   Good my mother, peace.
 I would that I were low laid in my grave.
-I am not worth this coil that's made for me.
+I am not worth this coil that&rsquo;s made for me.
 
 <speaker>QUEEN ELEANOR</speaker>
 His mother shames him so, poor boy, he weeps.
 
 <speaker>CONSTANCE</speaker>
-Now shame upon you whe'er she does or no!
-His grandam's wrongs, and not his mother's
+Now shame upon you whe&rsquo;er she does or no!
+His grandam&rsquo;s wrongs, and not his mother&rsquo;s
 shames,
 Draws those heaven-moving pearls from his poor
 eyes,
@@ -711,7 +711,7 @@ Thou monstrous slanderer of heaven and Earth!
 Thou monstrous injurer of heaven and Earth,
 Call not me slanderer. Thou and thine usurp
 The dominations, royalties, and rights
-Of this oppressed boy. This is thy eldest son's son,
+Of this oppressed boy. This is thy eldest son&rsquo;s son,
 Infortunate in nothing but in thee.
 Thy sins are visited in this poor child.
 The canon of the law is laid on him,
@@ -737,7 +737,7 @@ A will that bars the title of thy son.
 
 <speaker>CONSTANCE</speaker>
 Ay, who doubts that? A will--a wicked will,
-A woman's will, a cankered grandam's will.
+A woman&rsquo;s will, a cankered grandam&rsquo;s will.
 
 <speaker>KING PHILIP</speaker>
 Peace, lady. Pause, or be more temperate.
@@ -745,7 +745,7 @@ It ill beseems this presence to cry aim
 To these ill-tuned repetitions.--
 Some trumpet summon hither to the walls
 These men of Angiers. Let us hear them speak
-Whose title they admit, Arthur's or John's.
+Whose title they admit, Arthur&rsquo;s or John&rsquo;s.
 [<i>Trumpet sounds.</i>]
 
 [<i>Enter Citizens upon the walls.</i>]
@@ -754,14 +754,14 @@ Whose title they admit, Arthur's or John's.
 Who is it that hath warned us to the walls?
 
 <speaker>KING PHILIP</speaker>
-'Tis France, for England.
+&rsquo;Tis France, for England.
 
 <speaker>KING JOHN</speaker>
 England, for itself.
 You men of Angiers, and my loving subjects--
 
 <speaker>KING PHILIP</speaker>
-You loving men of Angiers, Arthur's subjects,
+You loving men of Angiers, Arthur&rsquo;s subjects,
 Our trumpet called you to this gentle parle--
 
 <speaker>KING JOHN</speaker>
@@ -771,10 +771,10 @@ Before the eye and prospect of your town,
 Have hither marched to your endamagement.
 The cannons have their bowels full of wrath,
 And ready mounted are they to spit forth
-Their iron indignation 'gainst your walls.
+Their iron indignation &rsquo;gainst your walls.
 All preparation for a bloody siege
 And merciless proceeding by these French
-Confronts your city's eyes, your winking gates,
+Confronts your city&rsquo;s eyes, your winking gates,
 And, but for our approach, those sleeping stones,
 That as a waist doth girdle you about,
 By the compulsion of their ordinance
@@ -784,7 +784,7 @@ For bloody power to rush upon your peace.
 But on the sight of us your lawful king,
 Who painfully with much expedient march
 Have brought a countercheck before your gates
-To save unscratched your city's threatened cheeks,
+To save unscratched your city&rsquo;s threatened cheeks,
 Behold, the French, amazed, vouchsafe a parle.
 And now, instead of bullets wrapped in fire
 To make a shaking fever in your walls,
@@ -802,7 +802,7 @@ Lo, in this right hand, whose protection
 Is most divinely vowed upon the right
 Of him it holds, stands young Plantagenet,
 Son to the elder brother of this man,
-And king o'er him and all that he enjoys.
+And king o&rsquo;er him and all that he enjoys.
 For this downtrodden equity we tread
 In warlike march these greens before your town,
 Being no further enemy to you
@@ -813,15 +813,15 @@ To pay that duty which you truly owe
 To him that owes it, namely, this young prince,
 And then our arms, like to a muzzled bear
 Save in aspect, hath all offense sealed up.
-Our cannons' malice vainly shall be spent
-Against th' invulnerable clouds of heaven,
+Our cannons&rsquo; malice vainly shall be spent
+Against th&rsquo; invulnerable clouds of heaven,
 And with a blessed and unvexed retire,
 With unbacked swords and helmets all unbruised,
 We will bear home that lusty blood again
 Which here we came to spout against your town,
 And leave your children, wives, and you in peace.
 But if you fondly pass our proffered offer,
-'Tis not the roundure of your old-faced walls
+&rsquo;Tis not the roundure of your old-faced walls
 Can hide you from our messengers of war,
 Though all these English and their discipline
 Were harbored in their rude circumference.
@@ -831,7 +831,7 @@ Or shall we give the signal to our rage
 And stalk in blood to our possession?
 
 <speaker>CITIZEN</speaker>
-In brief, we are the King of England's subjects.
+In brief, we are the King of England&rsquo;s subjects.
 For him, and in his right, we hold this town.
 
 <speaker>KING JOHN</speaker>
@@ -845,7 +845,7 @@ Have we rammed up our gates against the world.
 <speaker>KING JOHN</speaker>
 Doth not the crown of England prove the King?
 And if not that, I bring you witnesses,
-Twice fifteen thousand hearts of England's breed--
+Twice fifteen thousand hearts of England&rsquo;s breed--
 
 <speaker>BASTARD</speaker>
 Bastards and else.
@@ -870,20 +870,20 @@ We for the worthiest hold the right from both.
 Then God forgive the sin of all those souls
 That to their everlasting residence,
 Before the dew of evening fall, shall fleet
-In dreadful trial of our kingdom's king.
+In dreadful trial of our kingdom&rsquo;s king.
 
 <speaker>KING PHILIP</speaker>
 Amen, amen.--Mount, chevaliers! To arms!
 
 <speaker>BASTARD</speaker>
-Saint George, that swinged the dragon and e'er
+Saint George, that swinged the dragon and e&rsquo;er
 since
-Sits on 's horseback at mine hostess' door,
+Sits on &rsquo;s horseback at mine hostess&rsquo; door,
 Teach us some fence! [<i>To Austria.</i>]
  Sirrah, were I at
 home
 At your den, sirrah, with your lioness,
-I would set an ox head to your lion's hide
+I would set an ox head to your lion&rsquo;s hide
 And make a monster of you.
 
 <speaker>AUSTRIA</speaker>
@@ -894,7 +894,7 @@ O, tremble, for you hear the lion roar.
 
 <speaker>KING JOHN,</speaker>
 [<i>to his officers</i>]
-Up higher to the plain, where we'll set forth
+Up higher to the plain, where we&rsquo;ll set forth
 In best appointment all our regiments.
 
 <speaker>BASTARD</speaker>
@@ -915,22 +915,22 @@ And let young Arthur, Duke of Brittany, in,
 Who by the hand of France this day hath made
 Much work for tears in many an English mother,
 Whose sons lie scattered on the bleeding ground.
-Many a widow's husband groveling lies
+Many a widow&rsquo;s husband groveling lies
 Coldly embracing the discolored earth,
 And victory with little loss doth play
 Upon the dancing banners of the French,
 Who are at hand, triumphantly displayed,
 To enter conquerors and to proclaim
-Arthur of Brittany England's king and yours.
+Arthur of Brittany England&rsquo;s king and yours.
 
 [<i>Enter English Herald, with Trumpet.</i>]
 
 <speaker>ENGLISH HERALD</speaker>
 Rejoice, you men of Angiers, ring your bells!
-King John, your king and England's, doth approach,
+King John, your king and England&rsquo;s, doth approach,
 Commander of this hot malicious day.
 Their armors, that marched hence so silver bright,
-Hither return all gilt with Frenchmen's blood.
+Hither return all gilt with Frenchmen&rsquo;s blood.
 There stuck no plume in any English crest
 That is removed by a staff of France.
 Our colors do return in those same hands
@@ -961,7 +961,7 @@ Austria, and Louis the Dauphin), at several doors.</i>]
 France, hast thou yet more blood to cast away?
 Say, shall the current of our right roam on,
 Whose passage, vexed with thy impediment,
-Shall leave his native channel and o'erswell
+Shall leave his native channel and o&rsquo;erswell
 With course disturbed even thy confining shores,
 Unless thou let his silver water keep
 A peaceful progress to the ocean?
@@ -972,10 +972,10 @@ In this hot trial more than we of France,
 Rather lost more. And by this hand I swear
 That sways the earth this climate overlooks,
 Before we will lay down our just-borne arms,
-We'll put thee down, 'gainst whom these arms we
+We&rsquo;ll put thee down, &rsquo;gainst whom these arms we
 bear,
 Or add a royal number to the dead,
-Gracing the scroll that tells of this war's loss
+Gracing the scroll that tells of this war&rsquo;s loss
 With slaughter coupled to the name of kings.
 
 <speaker>BASTARD,</speaker>
@@ -990,14 +990,14 @@ Why stand these royal fronts amazed thus?
 Cry havoc, kings! Back to the stained field,
 You equal potents, fiery-kindled spirits.
 Then let confusion of one part confirm
-The other's peace. Till then, blows, blood, and
+The other&rsquo;s peace. Till then, blows, blood, and
 death!
 
 <speaker>KING JOHN</speaker>
 Whose party do the townsmen yet admit?
 
 <speaker>KING PHILIP</speaker>
-Speak, citizens, for England. Who's your king?
+Speak, citizens, for England. Who&rsquo;s your king?
 
 <speaker>CITIZEN</speaker>
 The King of England, when we know the King.
@@ -1030,7 +1030,7 @@ By east and west let France and England mount
 Their battering cannon charged to the mouths,
 Till their soul-fearing clamors have brawled down
 The flinty ribs of this contemptuous city.
-I'd play incessantly upon these jades,
+I&rsquo;d play incessantly upon these jades,
 Even till unfenced desolation
 Leave them as naked as the vulgar air.
 That done, dissever your united strengths
@@ -1064,7 +1064,7 @@ Let it be so. Say, where will you assault?
 
 <speaker>KING JOHN</speaker>
 We from the west will send destruction
-Into this city's bosom.
+Into this city&rsquo;s bosom.
 
 <speaker>AUSTRIA</speaker>
 I from the north.
@@ -1076,8 +1076,8 @@ Shall rain their drift of bullets on this town.
 <speaker>BASTARD,</speaker>
 [<i>aside</i>]
 O, prudent discipline! From north to south,
-Austria and France shoot in each other's mouth.
-I'll stir them to it. -- Come, away, away!
+Austria and France shoot in each other&rsquo;s mouth.
+I&rsquo;ll stir them to it. -- Come, away, away!
 
 <speaker>CITIZEN</speaker>
 Hear us, great kings. Vouchsafe awhile to stay,
@@ -1130,9 +1130,9 @@ walk aside and talk.</i>]
 
 <speaker>BASTARD,</speaker>
 [<i>aside</i>]
-  Here's a stay
+  Here&rsquo;s a stay
 That shakes the rotten carcass of old Death
-Out of his rags! Here's a large mouth indeed
+Out of his rags! Here&rsquo;s a large mouth indeed
 That spits forth death and mountains, rocks and
 seas;
 Talks as familiarly of roaring lions
@@ -1144,7 +1144,7 @@ He gives the bastinado with his tongue.
 Our ears are cudgeled. Not a word of his
 But buffets better than a fist of France.
 Zounds, I was never so bethumped with words
-Since I first called my brother's father Dad.
+Since I first called my brother&rsquo;s father Dad.
 
 <speaker>QUEEN ELEANOR,</speaker>
 [<i>aside to King John</i>]
@@ -1172,7 +1172,7 @@ To speak unto this city. What say you?
 
 <speaker>KING JOHN</speaker>
 If that the Dauphin there, thy princely son,
-Can in this book of beauty read "I love,"
+Can in this book of beauty read "&ldquo;I love,&rdquo;"
 Her dowry shall weigh equal with a queen.
 For Anjou and fair Touraine, Maine, Poitiers,
 And all that we upon this side the sea--
@@ -1184,7 +1184,7 @@ As she in beauty, education, blood,
 Holds hand with any princess of the world.
 
 <speaker>KING PHILIP</speaker>
-What sayst thou, boy? Look in the lady's face.
+What sayst thou, boy? Look in the lady&rsquo;s face.
 
 <speaker>DAUPHIN</speaker>
 I do, my lord, and in her eye I find
@@ -1199,22 +1199,22 @@ Drawn in the flattering table of her eye.
 
 <speaker>BASTARD,</speaker>
 [<i>aside</i>]
-"Drawn in the flattering table of her eye"?
+"&ldquo;Drawn in the flattering table of her eye&rdquo;"?
    Hanged in the frowning wrinkle of her brow
 And quartered in her heart! He doth espy
-   Himself love's traitor. This is pity now,
+   Himself love&rsquo;s traitor. This is pity now,
 That hanged and drawn and quartered there should
 be
 In such a love so vile a lout as he.
 
 <speaker>BLANCHE,</speaker>
 [<i>aside to Dauphin</i>]
-My uncle's will in this respect is mine.
+My uncle&rsquo;s will in this respect is mine.
 If he see aught in you that makes him like,
 That anything he sees which moves his liking
 I can with ease translate it to my will.
 Or if you will, to speak more properly,
-I will enforce it eas'ly to my love.
+I will enforce it eas&rsquo;ly to my love.
 Further I will not flatter you, my lord,
 That all I see in you is worthy love,
 Than this: that nothing do I see in you,
@@ -1256,7 +1256,7 @@ That I did so when I was first assured.
 <speaker>KING PHILIP</speaker>
 Now, citizens of Angiers, ope your gates.
 Let in that amity which you have made,
-For at Saint Mary's Chapel presently
+For at Saint Mary&rsquo;s Chapel presently
 The rites of marriage shall be solemnized.--
 Is not the Lady Constance in this troop?
 I know she is not, for this match made up
@@ -1264,7 +1264,7 @@ Her presence would have interrupted much.
 Where is she and her son? Tell me, who knows.
 
 <speaker>DAUPHIN</speaker>
-She is sad and passionate at your Highness' tent.
+She is sad and passionate at your Highness&rsquo; tent.
 
 <speaker>KING PHILIP</speaker>
 And by my faith, this league that we have made
@@ -1276,7 +1276,7 @@ To our own vantage.
 
 <speaker>KING JOHN</speaker>
 We will heal up all,
-For we'll create young Arthur Duke of Brittany
+For we&rsquo;ll create young Arthur Duke of Brittany
 And Earl of Richmond, and this rich, fair town
 We make him lord of.--Call the Lady Constance.
 Some speedy messenger bid her repair
@@ -1292,17 +1292,17 @@ To this unlooked-for, unprepared pomp.
 
 <speaker>BASTARD</speaker>
 Mad world, mad kings, mad composition!
-John, to stop Arthur's title in the whole,
+John, to stop Arthur&rsquo;s title in the whole,
 Hath willingly departed with a part;
 And France, whose armor conscience buckled on,
 Whom zeal and charity brought to the field
-As God's own soldier, rounded in the ear
+As God&rsquo;s own soldier, rounded in the ear
 With that same purpose-changer, that sly devil,
 That broker that still breaks the pate of faith,
 That daily break-vow, he that wins of all,
 Of kings, of beggars, old men, young men, maids--
 Who having no external thing to lose
-But the word "maid," cheats the poor maid of
+But the word "&ldquo;maid,&rdquo;" cheats the poor maid of
 that--
 That smooth-faced gentleman, tickling Commodity,
 Commodity, the bias of the world--
@@ -1344,12 +1344,12 @@ False blood to false blood joined? Gone to be friends?
 Shall Louis have Blanche and Blanche those
 provinces?
 It is not so. Thou hast misspoke, misheard.
-Be well advised; tell o'er thy tale again.
-It cannot be; thou dost but say 'tis so.
+Be well advised; tell o&rsquo;er thy tale again.
+It cannot be; thou dost but say &rsquo;tis so.
 I trust I may not trust thee, for thy word
 Is but the vain breath of a common man.
 Believe me, I do not believe thee, man.
-I have a king's oath to the contrary.
+I have a king&rsquo;s oath to the contrary.
 Thou shalt be punished for thus flighting me,
 For I am sick and capable of fears,
 Oppressed with wrongs and therefore full of fears,
@@ -1362,7 +1362,7 @@ What dost thou mean by shaking of thy head?
 Why dost thou look so sadly on my son?
 What means that hand upon that breast of thine?
 Why holds thine eye that lamentable rheum,
-Like a proud river peering o'er his bounds?
+Like a proud river peering o&rsquo;er his bounds?
 Be these sad signs confirmers of thy words?
 Then speak again--not all thy former tale,
 But this one word, whether thy tale be true.
@@ -1395,8 +1395,8 @@ As it makes harmful all that speak of it.
 I do beseech you, madam, be content.
 
 <speaker>CONSTANCE</speaker>
-If thou that bidd'st me be content wert grim,
-Ugly, and sland'rous to thy mother's womb,
+If thou that bidd&rsquo;st me be content wert grim,
+Ugly, and sland&rsquo;rous to thy mother&rsquo;s womb,
 Full of unpleasing blots and sightless stains,
 Lame, foolish, crooked, swart, prodigious,
 Patched with foul moles and eye-offending marks,
@@ -1405,10 +1405,10 @@ For then I should not love thee; no, nor thou
 Become thy great birth, nor deserve a crown.
 But thou art fair, and at thy birth, dear boy,
 Nature and Fortune joined to make thee great.
-Of Nature's gifts thou mayst with lilies boast,
+Of Nature&rsquo;s gifts thou mayst with lilies boast,
 And with the half-blown rose. But Fortune, O,
 She is corrupted, changed, and won from thee;
-Sh' adulterates hourly with thine Uncle John,
+Sh&rsquo; adulterates hourly with thine Uncle John,
 And with her golden hand hath plucked on France
 To tread down fair respect of sovereignty,
 And made his majesty the bawd to theirs.
@@ -1429,7 +1429,7 @@ I will instruct my sorrows to be proud,
 For grief is proud and makes his owner stoop.
 [<i>She sits down.</i>]
 To me and to the state of my great grief
-Let kings assemble, for my grief 's so great
+Let kings assemble, for my grief &rsquo;s so great
 That no supporter but the huge firm Earth
 Can hold it up. Here I and sorrows sit.
 Here is my throne; bid kings come bow to it.
@@ -1440,7 +1440,7 @@ Bastard, Austria, and Attendants.</i>]
 
 <speaker>KING PHILIP,</speaker>
 [<i>to Blanche</i>]
-'Tis true, fair daughter, and this blessed day
+&rsquo;Tis true, fair daughter, and this blessed day
 Ever in France shall be kept festival.
 To solemnize this day the glorious sun
 Stays in his course and plays the alchemist,
@@ -1474,7 +1474,7 @@ Have I not pawned to you my majesty?
 You have beguiled me with a counterfeit
 Resembling majesty, which, being touched and tried,
 Proves valueless. You are forsworn, forsworn.
-You came in arms to spill mine enemies' blood,
+You came in arms to spill mine enemies&rsquo; blood,
 But now in arms you strengthen it with yours.
 The grappling vigor and rough frown of war
 Is cold in amity and painted peace,
@@ -1484,7 +1484,7 @@ kings!
 A widow cries; be husband to me, God!
 Let not the hours of this ungodly day
 Wear out the days in peace, but ere sunset
-Set armed discord 'twixt these perjured kings.
+Set armed discord &rsquo;twixt these perjured kings.
 Hear me, O, hear me!
 
 <speaker>AUSTRIA</speaker>
@@ -1497,30 +1497,30 @@ That bloody spoil. Thou slave, thou wretch, thou
 coward,
 Thou little valiant, great in villainy,
 Thou ever strong upon the stronger side,
-Thou Fortune's champion, that dost never fight
+Thou Fortune&rsquo;s champion, that dost never fight
 But when her humorous Ladyship is by
 To teach thee safety. Thou art perjured too,
-And sooth'st up greatness. What a fool art thou,
+And sooth&rsquo;st up greatness. What a fool art thou,
 A ramping fool, to brag and stamp and swear
 Upon my party. Thou cold-blooded slave,
 Hast thou not spoke like thunder on my side?
 Been sworn my soldier, bidding me depend
 Upon thy stars, thy fortune, and thy strength?
 And dost thou now fall over to my foes?
-Thou wear a lion's hide! Doff it for shame,
+Thou wear a lion&rsquo;s hide! Doff it for shame,
 And hang a calfskin on those recreant limbs.
 
 <speaker>AUSTRIA</speaker>
 O, that a man should speak those words to me!
 
 <speaker>BASTARD</speaker>
-"And hang a calfskin on those recreant limbs."
+"&ldquo;And hang a calfskin on those recreant limbs.&rdquo;"
 
 <speaker>AUSTRIA</speaker>
-Thou dar'st not say so, villain, for thy life!
+Thou dar&rsquo;st not say so, villain, for thy life!
 
 <speaker>BASTARD</speaker>
-"And hang a calfskin on those recreant limbs."
+"&ldquo;And hang a calfskin on those recreant limbs.&rdquo;"
 
 <speaker>KING JOHN</speaker>
 We like not this. Thou dost forget thyself.
@@ -1540,7 +1540,7 @@ Why thou against the Church, our holy mother,
 So willfully dost spurn, and force perforce
 Keep Stephen Langton, chosen Archbishop
 Of Canterbury, from that Holy See.
-This, in our foresaid Holy Father's name,
+This, in our foresaid Holy Father&rsquo;s name,
 Pope Innocent, I do demand of thee.
 
 <speaker>KING JOHN</speaker>
@@ -1555,7 +1555,7 @@ Shall tithe or toll in our dominions;
 But as we under God are supreme head,
 So, under Him, that great supremacy
 Where we do reign we will alone uphold
-Without th' assistance of a mortal hand.
+Without th&rsquo; assistance of a mortal hand.
 So tell the Pope, all reverence set apart
 To him and his usurped authority.
 
@@ -1587,12 +1587,12 @@ Thy hateful life.
 <speaker>CONSTANCE</speaker>
 O, lawful let it be
 That I have room with Rome to curse awhile!
-Good father cardinal, cry thou "Amen"
+Good father cardinal, cry thou "&ldquo;Amen&rdquo;"
 To my keen curses, for without my wrong
 There is no tongue hath power to curse him right.
 
 <speaker>PANDULPH</speaker>
-There's law and warrant, lady, for my curse.
+There&rsquo;s law and warrant, lady, for my curse.
 
 <speaker>CONSTANCE</speaker>
 And for mine, too. When law can do no right,
@@ -1609,7 +1609,7 @@ And raise the power of France upon his head
 Unless he do submit himself to Rome.
 
 <speaker>QUEEN ELEANOR</speaker>
-Look'st thou pale, France? Do not let go thy hand.
+Look&rsquo;st thou pale, France? Do not let go thy hand.
 
 <speaker>CONSTANCE</speaker>
 Look to that, devil, lest that France repent
@@ -1641,7 +1641,7 @@ Or the light loss of England for a friend.
 Forgo the easier.
 
 <speaker>BLANCHE</speaker>
-That's the curse of Rome.
+That&rsquo;s the curse of Rome.
 
 <speaker>CONSTANCE</speaker>
 O Louis, stand fast! The devil tempts thee here
@@ -1694,7 +1694,7 @@ And even before this truce, but new before,
 No longer than we well could wash our hands
 To clap this royal bargain up of peace,
 God knows they were besmeared and overstained
-With slaughter's pencil, where revenge did paint
+With slaughter&rsquo;s pencil, where revenge did paint
 The fearful difference of incensed kings.
 And shall these hands, so lately purged of blood,
 So newly joined in love, so strong in both,
@@ -1713,10 +1713,10 @@ To do your pleasure and continue friends.
 
 <speaker>PANDULPH</speaker>
 All form is formless, order orderless,
-Save what is opposite to England's love.
+Save what is opposite to England&rsquo;s love.
 Therefore to arms! Be champion of our Church,
 Or let the Church, our mother, breathe her curse,
-A mother's curse, on her revolting son.
+A mother&rsquo;s curse, on her revolting son.
 France, thou mayst hold a serpent by the tongue,
 A chafed lion by the mortal paw,
 A fasting tiger safer by the tooth,
@@ -1726,12 +1726,12 @@ Than keep in peace that hand which thou dost hold.
 I may disjoin my hand, but not my faith.
 
 <speaker>PANDULPH</speaker>
-So mak'st thou faith an enemy to faith,
-And like a civil war sett'st oath to oath,
+So mak&rsquo;st thou faith an enemy to faith,
+And like a civil war sett&rsquo;st oath to oath,
 Thy tongue against thy tongue. O, let thy vow
 First made to God, first be to God performed,
 That is, to be the champion of our Church!
-What since thou swor'st is sworn against thyself
+What since thou swor&rsquo;st is sworn against thyself
 And may not be performed by thyself,
 For that which thou hast sworn to do amiss
 Is not amiss when it is truly done;
@@ -1744,9 +1744,9 @@ And falsehood falsehood cures, as fire cools fire
 Within the scorched veins of one new-burned.
 It is religion that doth make vows kept,
 But thou hast sworn against religion
-By what thou swear'st against the thing thou
-swear'st,
-And mak'st an oath the surety for thy truth
+By what thou swear&rsquo;st against the thing thou
+swear&rsquo;st,
+And mak&rsquo;st an oath the surety for thy truth
 Against an oath. The truth thou art unsure
 To swear swears only not to be forsworn,
 Else what a mockery should it be to swear?
@@ -1767,7 +1767,7 @@ But in despair die under their black weight.
 Rebellion, flat rebellion!
 
 <speaker>BASTARD</speaker>
-Will 't not be?
+Will &rsquo;t not be?
 Will not a calfskin stop that mouth of thine?
 
 <speaker>DAUPHIN</speaker>
@@ -1781,8 +1781,8 @@ Shall braying trumpets and loud churlish drums,
 Clamors of hell, be measures to our pomp?
 [<i>She kneels.</i>]
 O husband, hear me! Ay, alack, how new
-Is "husband" in my mouth! Even for that name,
-Which till this time my tongue did ne'er pronounce,
+Is "&ldquo;husband&rdquo;" in my mouth! Even for that name,
+Which till this time my tongue did ne&rsquo;er pronounce,
 Upon my knee I beg, go not to arms
 Against mine uncle.
 
@@ -1811,7 +1811,7 @@ When such profound respects do pull you on.
 I will denounce a curse upon his head.
 
 <speaker>KING PHILIP,</speaker>
-[<i>dropping King John's hand</i>]
+[<i>dropping King John&rsquo;s hand</i>]
 Thou shalt not need.--England, I will fall from
 thee.
 
@@ -1831,7 +1831,7 @@ Is it as he will? Well, then, France shall rue.
 
 <speaker>BLANCHE,</speaker>
 [<i>rising</i>]
-The sun's o'ercast with blood. Fair day, adieu.
+The sun&rsquo;s o&rsquo;ercast with blood. Fair day, adieu.
 Which is the side that I must go withal?
 I am with both, each army hath a hand,
 And in their rage, I having hold of both,
@@ -1864,18 +1864,18 @@ To ashes ere our blood shall quench that fire.
 Look to thyself. Thou art in jeopardy.
 
 <speaker>KING JOHN</speaker>
-No more than he that threats.--To arms let's hie!
+No more than he that threats.--To arms let&rsquo;s hie!
 [<i>They exit.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
 [<i>Alarums, excursions.
-Enter Bastard with Austria's head.</i>]
+Enter Bastard with Austria&rsquo;s head.</i>]
 
 <speaker>BASTARD</speaker>
 Now, by my life, this day grows wondrous hot.
 Some airy devil hovers in the sky
-And pours down mischief. Austria's head lie there,
+And pours down mischief. Austria&rsquo;s head lie there,
 While Philip breathes.
 
 [<i>Enter King John, Arthur, Hubert.</i>]
@@ -1883,7 +1883,7 @@ While Philip breathes.
 <speaker>KING JOHN</speaker>
 Hubert, keep this boy.--Philip, make up.
 My mother is assailed in our tent
-And ta'en, I fear.
+And ta&rsquo;en, I fear.
 
 <speaker>BASTARD</speaker>
 My lord, I rescued her.
@@ -1954,7 +1954,7 @@ I am much bounden to your Majesty.
 
 <speaker>KING JOHN</speaker>
 Good friend, thou hast no cause to say so yet,
-But thou shalt have. And, creep time ne'er so slow,
+But thou shalt have. And, creep time ne&rsquo;er so slow,
 Yet it shall come for me to do thee good.
 I had a thing to say--but let it go.
 The sun is in the heaven, and the proud day,
@@ -1968,7 +1968,7 @@ And thou possessed with a thousand wrongs;
 Or if that surly spirit, melancholy,
 Had baked thy blood and made it heavy, thick,
 Which else runs tickling up and down the veins,
-Making that idiot, laughter, keep men's eyes
+Making that idiot, laughter, keep men&rsquo;s eyes
 And strain their cheeks to idle merriment,
 A passion hateful to my purposes;
 Or if that thou couldst see me without eyes,
@@ -1978,7 +1978,7 @@ Without eyes, ears, and harmful sound of words;
 Then, in despite of brooded watchful day,
 I would into thy bosom pour my thoughts.
 But, ah, I will not. Yet I love thee well,
-And by my troth I think thou lov'st me well.
+And by my troth I think thou lov&rsquo;st me well.
 
 <speaker>HUBERT</speaker>
 So well that what you bid me undertake,
@@ -1988,14 +1988,14 @@ By heaven, I would do it.
 <speaker>KING JOHN</speaker>
 Do not I know thou wouldst?
 Good Hubert, Hubert, Hubert, throw thine eye
-On yon young boy. I'll tell thee what, my friend,
+On yon young boy. I&rsquo;ll tell thee what, my friend,
 He is a very serpent in my way,
-And wheresoe'er this foot of mine doth tread,
+And wheresoe&rsquo;er this foot of mine doth tread,
 He lies before me. Dost thou understand me?
 Thou art his keeper.
 
 <speaker>HUBERT</speaker>
-And I'll keep him so
+And I&rsquo;ll keep him so
 That he shall not offend your Majesty.
 
 <speaker>KING JOHN</speaker>
@@ -2013,11 +2013,11 @@ He shall not live.
 <speaker>KING JOHN</speaker>
 Enough.
 I could be merry now. Hubert, I love thee.
-Well, I'll not say what I intend for thee.
+Well, I&rsquo;ll not say what I intend for thee.
 Remember. [<i>He turns to Queen Eleanor.</i>]
  Madam, fare
 you well.
-I'll send those powers o'er to your Majesty.
+I&rsquo;ll send those powers o&rsquo;er to your Majesty.
 
 <speaker>QUEEN ELEANOR</speaker>
 My blessing go with thee.
@@ -2045,9 +2045,9 @@ Courage and comfort. All shall yet go well.
 <speaker>KING PHILIP</speaker>
 What can go well when we have run so ill?
 Are we not beaten? Is not Angiers lost?
-Arthur ta'en prisoner? Divers dear friends slain?
+Arthur ta&rsquo;en prisoner? Divers dear friends slain?
 And bloody England into England gone,
-O'erbearing interruption, spite of France?
+O&rsquo;erbearing interruption, spite of France?
 
 <speaker>DAUPHIN</speaker>
 What he hath won, that hath he fortified.
@@ -2063,7 +2063,7 @@ So we could find some pattern of our shame.
 [<i>Enter Constance, with her hair unbound.</i>]
 
 Look who comes here! A grave unto a soul,
-Holding th' eternal spirit against her will
+Holding th&rsquo; eternal spirit against her will
 In the vile prison of afflicted breath.--
 I prithee, lady, go away with me.
 
@@ -2085,8 +2085,8 @@ And put my eyeballs in thy vaulty brows,
 And ring these fingers with thy household worms,
 And stop this gap of breath with fulsome dust,
 And be a carrion monster like thyself.
-Come, grin on me, and I will think thou smil'st,
-And buss thee as thy wife. Misery's love,
+Come, grin on me, and I will think thou smil&rsquo;st,
+And buss thee as thy wife. Misery&rsquo;s love,
 O, come to me!
 
 <speaker>KING PHILIP</speaker>
@@ -2094,10 +2094,10 @@ O fair affliction, peace!
 
 <speaker>CONSTANCE</speaker>
 No, no, I will not, having breath to cry.
-O, that my tongue were in the thunder's mouth!
+O, that my tongue were in the thunder&rsquo;s mouth!
 Then with a passion would I shake the world
 And rouse from sleep that fell anatomy
-Which cannot hear a lady's feeble voice,
+Which cannot hear a lady&rsquo;s feeble voice,
 Which scorns a modern invocation.
 
 <speaker>PANDULPH</speaker>
@@ -2106,10 +2106,10 @@ Lady, you utter madness and not sorrow.
 <speaker>CONSTANCE</speaker>
 Thou art not holy to belie me so.
 I am not mad. This hair I tear is mine;
-My name is Constance; I was Geoffrey's wife;
+My name is Constance; I was Geoffrey&rsquo;s wife;
 Young Arthur is my son, and he is lost.
 I am not mad; I would to heaven I were,
-For then 'tis like I should forget myself.
+For then &rsquo;tis like I should forget myself.
 O, if I could, what grief should I forget!
 Preach some philosophy to make me mad,
 And thou shalt be canonized, cardinal.
@@ -2125,7 +2125,7 @@ The different plague of each calamity.
 <speaker>KING PHILIP</speaker>
 Bind up those tresses.--O, what love I note
 In the fair multitude of those her hairs;
-Where but by chance a silver drop hath fall'n,
+Where but by chance a silver drop hath fall&rsquo;n,
 Even to that drop ten thousand wiry friends
 Do glue themselves in sociable grief,
 Like true, inseparable, faithful loves,
@@ -2140,9 +2140,8 @@ Bind up your hairs.
 <speaker>CONSTANCE</speaker>
 Yes, that I will. And wherefore will I do it?
 I tore them from their bonds and cried aloud
-<speaker>"O,</speaker>
-that these hands could so redeem my son,
-As they have given these hairs their liberty!"
+"&ldquo;O, that these hands could so redeem my son,
+As they have given these hairs their liberty!&rdquo;"
 But now I envy at their liberty,
 And will again commit them to their bonds,
 Because my poor child is a prisoner.
@@ -2156,8 +2155,8 @@ There was not such a gracious creature born.
 But now will canker sorrow eat my bud
 And chase the native beauty from his cheek,
 And he will look as hollow as a ghost,
-As dim and meager as an ague's fit,
-And so he'll die; and, rising so again,
+As dim and meager as an ague&rsquo;s fit,
+And so he&rsquo;ll die; and, rising so again,
 When I shall meet him in the court of heaven
 I shall not know him. Therefore never, never
 Must I behold my pretty Arthur more.
@@ -2185,17 +2184,17 @@ I will not keep this form upon my head
 When there is such disorder in my wit.
 O Lord! My boy, my Arthur, my fair son,
 My life, my joy, my food, my all the world,
-My widow-comfort and my sorrows' cure!	[<i>She exits.</i>]
+My widow-comfort and my sorrows&rsquo; cure!	[<i>She exits.</i>]
 
 <speaker>KING PHILIP</speaker>
-I fear some outrage, and I'll follow her.
+I fear some outrage, and I&rsquo;ll follow her.
 [<i>He exits, with Attendants.</i>]
 
 <speaker>DAUPHIN</speaker>
-There's nothing in this world can make me joy.
+There&rsquo;s nothing in this world can make me joy.
 Life is as tedious as a twice-told tale,
 Vexing the dull ear of a drowsy man;
-And bitter shame hath spoiled the sweet world's
+And bitter shame hath spoiled the sweet world&rsquo;s
 taste,
 That it yields naught but shame and bitterness.
 
@@ -2212,8 +2211,8 @@ All days of glory, joy, and happiness.
 <speaker>PANDULPH</speaker>
 If you had won it, certainly you had.
 No, no. When Fortune means to men most good,
-She looks upon them with a threat'ning eye.
-'Tis strange to think how much King John hath lost
+She looks upon them with a threat&rsquo;ning eye.
+&rsquo;Tis strange to think how much King John hath lost
 In this which he accounts so clearly won.
 Are not you grieved that Arthur is his prisoner?
 
@@ -2226,20 +2225,20 @@ Now hear me speak with a prophetic spirit.
 For even the breath of what I mean to speak
 Shall blow each dust, each straw, each little rub,
 Out of the path which shall directly lead
-Thy foot to England's throne. And therefore mark:
+Thy foot to England&rsquo;s throne. And therefore mark:
 John hath seized Arthur, and it cannot be
-That, whiles warm life plays in that infant's veins,
+That, whiles warm life plays in that infant&rsquo;s veins,
 The misplaced John should entertain an hour,
 One minute, nay, one quiet breath of rest.
 A scepter snatched with an unruly hand
 Must be as boisterously maintained as gained.
-And he that stands upon a slipp'ry place
+And he that stands upon a slipp&rsquo;ry place
 Makes nice of no vile hold to stay him up.
 That John may stand, then Arthur needs must fall.
 So be it, for it cannot be but so.
 
 <speaker>DAUPHIN</speaker>
-But what shall I gain by young Arthur's fall?
+But what shall I gain by young Arthur&rsquo;s fall?
 
 <speaker>PANDULPH</speaker>
 You, in the right of Lady Blanche your wife,
@@ -2266,7 +2265,7 @@ Abortives, presages, and tongues of heaven,
 Plainly denouncing vengeance upon John.
 
 <speaker>DAUPHIN</speaker>
-Maybe he will not touch young Arthur's life,
+Maybe he will not touch young Arthur&rsquo;s life,
 But hold himself safe in his prisonment.
 
 <speaker>PANDULPH</speaker>
@@ -2276,7 +2275,7 @@ Even at that news he dies; and then the hearts
 Of all his people shall revolt from him
 And kiss the lips of unacquainted change,
 And pick strong matter of revolt and wrath
-Out of the bloody fingers' ends of John.
+Out of the bloody fingers&rsquo; ends of John.
 Methinks I see this hurly all on foot;
 And, O, what better matter breeds for you
 Than I have named! The bastard Faulconbridge
@@ -2286,7 +2285,7 @@ Were there in arms, they would be as a call
 To train ten thousand English to their side,
 Or as a little snow, tumbled about,
 Anon becomes a mountain. O noble dauphin,
-Go with me to the King. 'Tis wonderful
+Go with me to the King. &rsquo;Tis wonderful
 What may be wrought out of their discontent,
 Now that their souls are topful of offense.
 For England, go. I will whet on the King.
@@ -2312,7 +2311,7 @@ Fast to the chair. Be heedful. Hence, and watch.
 I hope your warrant will bear out the deed.
 
 <speaker>HUBERT</speaker>
-Uncleanly scruples fear not you. Look to 't.
+Uncleanly scruples fear not you. Look to &rsquo;t.
 [<i>Executioners exit.</i>]
 Young lad, come forth. I have to say with you.
 
@@ -2342,8 +2341,8 @@ I should be as merry as the day is long.
 And so I would be here but that I doubt
 My uncle practices more harm to me.
 He is afraid of me, and I of him.
-Is it my fault that I was Geoffrey's son?
-No, indeed, is 't not. And I would to heaven
+Is it my fault that I was Geoffrey&rsquo;s son?
+No, indeed, is &rsquo;t not. And I would to heaven
 I were your son, so you would love me, Hubert.
 
 <speaker>HUBERT,</speaker>
@@ -2391,11 +2390,11 @@ And I did never ask it you again;
 And with my hand at midnight held your head,
 And like the watchful minutes to the hour
 Still and anon cheered up the heavy time,
-Saying "What lack you?" and "Where lies your
-grief?"
-Or "What good love may I perform for you?"
-Many a poor man's son would have lien still
-And ne'er have spoke a loving word to you;
+Saying "&ldquo;What lack you?&rdquo;" and "&ldquo;Where lies your
+grief?&rdquo;"
+Or "&ldquo;What good love may I perform for you?&rdquo;"
+Many a poor man&rsquo;s son would have lien still
+And ne&rsquo;er have spoke a loving word to you;
 But you at your sick service had a prince.
 Nay, you may think my love was crafty love,
 And call it cunning. Do, an if you will.
@@ -2420,7 +2419,7 @@ Are you more stubborn-hard than hammered iron?
 An if an angel should have come to me
 And told me Hubert should put out mine eyes,
 I would not have believed him. No tongue but
-Hubert's.
+Hubert&rsquo;s.
 
 <speaker>HUBERT</speaker>
 [<i>stamps his foot and calls</i>]
@@ -2440,14 +2439,14 @@ Give me the iron, I say, and bind him here.
 [<i>He takes the iron.</i>]
 
 <speaker>ARTHUR</speaker>
-Alas, what need you be so boist'rous-rough?
+Alas, what need you be so boist&rsquo;rous-rough?
 I will not struggle; I will stand stone-still.
-For God's sake, Hubert, let me not be bound!
+For God&rsquo;s sake, Hubert, let me not be bound!
 Nay, hear me, Hubert! Drive these men away,
 And I will sit as quiet as a lamb.
 I will not stir nor wince nor speak a word
 Nor look upon the iron angerly.
-Thrust but these men away, and I'll forgive you,
+Thrust but these men away, and I&rsquo;ll forgive you,
 Whatever torment you do put me to.
 
 <speaker>HUBERT,</speaker>
@@ -2534,7 +2533,7 @@ You were disguised.
 <speaker>HUBERT</speaker>
 Peace. No more. Adieu.
 Your uncle must not know but you are dead.
-I'll fill these dogged spies with false reports.
+I&rsquo;ll fill these dogged spies with false reports.
 And, pretty child, sleep doubtless and secure
 That Hubert, for the wealth of all the world,
 Will not offend thee.
@@ -2557,10 +2556,10 @@ Here once again we sit, once again crowned
 And looked upon, I hope, with cheerful eyes.
 
 <speaker>PEMBROKE</speaker>
-This "once again," but that your Highness pleased,
+This "&ldquo;once again,&rdquo;" but that your Highness pleased,
 Was once superfluous. You were crowned before,
-And that high royalty was ne'er plucked off,
-The faiths of men ne'er stained with revolt;
+And that high royalty was ne&rsquo;er plucked off,
+The faiths of men ne&rsquo;er stained with revolt;
 Fresh expectation troubled not the land
 With any longed-for change or better state.
 
@@ -2593,7 +2592,7 @@ For putting on so new a fashioned robe.
 When workmen strive to do better than well,
 They do confound their skill in covetousness,
 And oftentimes excusing of a fault
-Doth make the fault the worse by th' excuse,
+Doth make the fault the worse by th&rsquo; excuse,
 As patches set upon a little breach
 Discredit more in hiding of the fault
 Than did the fault before it was so patched.
@@ -2621,7 +2620,7 @@ To sound the purposes of all their hearts,
 Both for myself and them, but chief of all
 Your safety, for the which myself and them
 Bend their best studies, heartily request
-Th' enfranchisement of Arthur, whose restraint
+Th&rsquo; enfranchisement of Arthur, whose restraint
 Doth move the murmuring lips of discontent
 To break into this dangerous argument:
 If what in rest you have in right you hold,
@@ -2630,7 +2629,7 @@ The steps of wrong, should move you to mew up
 Your tender kinsman and to choke his days
 With barbarous ignorance and deny his youth
 The rich advantage of good exercise.
-That the time's enemies may not have this
+That the time&rsquo;s enemies may not have this
 To grace occasions, let it be our suit
 That you have bid us ask, his liberty,
 Which for our goods we do no further ask
@@ -2652,22 +2651,22 @@ He showed his warrant to a friend of mine.
 The image of a wicked heinous fault
 Lives in his eye. That close aspect of his
 Doth show the mood of a much troubled breast,
-And I do fearfully believe 'tis done
+And I do fearfully believe &rsquo;tis done
 What we so feared he had a charge to do.
 
 <speaker>SALISBURY</speaker>
 The color of the King doth come and go
 Between his purpose and his conscience,
-Like heralds 'twixt two dreadful battles set.
+Like heralds &rsquo;twixt two dreadful battles set.
 His passion is so ripe it needs must break.
 
 <speaker>PEMBROKE</speaker>
 And when it breaks, I fear will issue thence
-The foul corruption of a sweet child's death.
+The foul corruption of a sweet child&rsquo;s death.
 
 <speaker>KING JOHN,</speaker>
 [<i>coming forward with Hubert</i>]
-We cannot hold mortality's strong hand.--
+We cannot hold mortality&rsquo;s strong hand.--
 Good lords, although my will to give is living,
 The suit which you demand is gone and dead.
 He tells us Arthur is deceased tonight.
@@ -2686,13 +2685,13 @@ Think you I bear the shears of destiny?
 Have I commandment on the pulse of life?
 
 <speaker>SALISBURY</speaker>
-It is apparent foul play, and 'tis shame
+It is apparent foul play, and &rsquo;tis shame
 That greatness should so grossly offer it.
 So thrive it in your game, and so farewell.
 
 <speaker>PEMBROKE</speaker>
-Stay yet, Lord Salisbury. I'll go with thee
-And find th' inheritance of this poor child,
+Stay yet, Lord Salisbury. I&rsquo;ll go with thee
+And find th&rsquo; inheritance of this poor child,
 His little kingdom of a forced grave.
 That blood which owed the breadth of all this isle,
 Three foot of it doth hold. Bad world the while!
@@ -2703,7 +2702,7 @@ To all our sorrows, and ere long, I doubt.
 <speaker>KING JOHN</speaker>
 They burn in indignation. I repent.
 There is no sure foundation set on blood,
-No certain life achieved by others' death.
+No certain life achieved by others&rsquo; death.
 
 [<i>Enter Messenger.</i>]
 
@@ -2722,7 +2721,7 @@ The tidings comes that they are all arrived.
 
 <speaker>KING JOHN</speaker>
 O, where hath our intelligence been drunk?
-Where hath it slept? Where is my mother's care,
+Where hath it slept? Where is my mother&rsquo;s care,
 That such an army could be drawn in France
 And she not hear of it?
 
@@ -2731,7 +2730,7 @@ My liege, her ear
 Is stopped with dust. The first of April died
 Your noble mother. And as I hear, my lord,
 The Lady Constance in a frenzy died
-Three days before. But this from rumor's tongue
+Three days before. But this from rumor&rsquo;s tongue
 I idly heard. If true or false, I know not.
 
 <speaker>KING JOHN,</speaker>
@@ -2741,7 +2740,7 @@ O, make a league with me till I have pleased
 My discontented peers. What? Mother dead?
 How wildly then walks my estate in France!--
 Under whose conduct came those powers of France
-That thou for truth giv'st out are landed here?
+That thou for truth giv&rsquo;st out are landed here?
 
 <speaker>MESSENGER</speaker>
 Under the Dauphin.
@@ -2774,7 +2773,7 @@ But as I traveled hither through the land,
 I find the people strangely fantasied,
 Possessed with rumors, full of idle dreams,
 Not knowing what they fear, but full of fear.
-And here's a prophet that I brought with me
+And here&rsquo;s a prophet that I brought with me
 From forth the streets of Pomfret, whom I found
 With many hundreds treading on his heels,
 To whom he sung in rude harsh-sounding rhymes
@@ -2795,10 +2794,10 @@ I shall yield up my crown, let him be hanged.
 Deliver him to safety and return,
 For I must use thee.	[<i>Hubert and Peter exit.</i>]
 O my gentle cousin,
-Hear'st thou the news abroad, who are arrived?
+Hear&rsquo;st thou the news abroad, who are arrived?
 
 <speaker>BASTARD</speaker>
-The French, my lord. Men's mouths are full of it.
+The French, my lord. Men&rsquo;s mouths are full of it.
 Besides, I met Lord Bigot and Lord Salisbury
 With eyes as red as new-enkindled fire,
 And others more, going to seek the grave
@@ -2854,26 +2853,26 @@ Five moons!
 <speaker>HUBERT</speaker>
 Old men and beldams in the streets
 Do prophesy upon it dangerously.
-Young Arthur's death is common in their mouths,
+Young Arthur&rsquo;s death is common in their mouths,
 And when they talk of him, they shake their heads
 And whisper one another in the ear,
-And he that speaks doth grip the hearer's wrist,
+And he that speaks doth grip the hearer&rsquo;s wrist,
 Whilst he that hears makes fearful action
 With wrinkled brows, with nods, with rolling eyes.
 I saw a smith stand with his hammer, thus,
 The whilst his iron did on the anvil cool,
-With open mouth swallowing a tailor's news,
+With open mouth swallowing a tailor&rsquo;s news,
 Who with his shears and measure in his hand,
 Standing on slippers which his nimble haste
 Had falsely thrust upon contrary feet,
 Told of a many thousand warlike French
 That were embattled and ranked in Kent.
 Another lean, unwashed artificer
-Cuts off his tale and talks of Arthur's death.
+Cuts off his tale and talks of Arthur&rsquo;s death.
 
 <speaker>KING JOHN</speaker>
-Why seek'st thou to possess me with these fears?
-Why urgest thou so oft young Arthur's death?
+Why seek&rsquo;st thou to possess me with these fears?
+Why urgest thou so oft young Arthur&rsquo;s death?
 Thy hand hath murdered him. I had a mighty cause
 To wish him dead, but thou hadst none to kill him.
 
@@ -2905,7 +2904,7 @@ This murder had not come into my mind.
 But taking note of thy abhorred aspect,
 Finding thee fit for bloody villainy,
 Apt, liable to be employed in danger,
-I faintly broke with thee of Arthur's death;
+I faintly broke with thee of Arthur&rsquo;s death;
 And thou, to be endeared to a king,
 Made it no conscience to destroy a prince.
 
@@ -2931,11 +2930,11 @@ Even at my gates, with ranks of foreign powers.
 Nay, in the body of this fleshly land,
 This kingdom, this confine of blood and breath,
 Hostility and civil tumult reigns
-Between my conscience and my cousin's death.
+Between my conscience and my cousin&rsquo;s death.
 
 <speaker>HUBERT</speaker>
 Arm you against your other enemies.
-I'll make a peace between your soul and you.
+I&rsquo;ll make a peace between your soul and you.
 Young Arthur is alive. This hand of mine
 Is yet a maiden and an innocent hand,
 Not painted with the crimson spots of blood.
@@ -2966,14 +2965,14 @@ I conjure thee but slowly; run more fast.
 <speaker>ARTHUR</speaker>
 The wall is high, and yet will I leap down.
 Good ground, be pitiful and hurt me not.
-There's few or none do know me. If they did,
-This shipboy's semblance hath disguised me quite.
-I am afraid, and yet I'll venture it.
+There&rsquo;s few or none do know me. If they did,
+This shipboy&rsquo;s semblance hath disguised me quite.
+I am afraid, and yet I&rsquo;ll venture it.
 If I get down and do not break my limbs,
-I'll find a thousand shifts to get away.
+I&rsquo;ll find a thousand shifts to get away.
 As good to die and go as die and stay.
 [<i>He jumps.</i>]
-O me, my uncle's spirit is in these stones.
+O me, my uncle&rsquo;s spirit is in these stones.
 Heaven take my soul, and England keep my bones.
 [<i>He dies.</i>]
 
@@ -2989,15 +2988,15 @@ Who brought that letter from the Cardinal?
 
 <speaker>SALISBURY</speaker>
 The Count Melun, a noble lord of France,
-Whose private with me of the Dauphin's love
+Whose private with me of the Dauphin&rsquo;s love
 Is much more general than these lines import.
 
 <speaker>BIGOT</speaker>
 Tomorrow morning let us meet him, then.
 
 <speaker>SALISBURY</speaker>
-Or rather then set forward, for 'twill be
-Two long days' journey, lords, or ere we meet.
+Or rather then set forward, for &rsquo;twill be
+Two long days&rsquo; journey, lords, or ere we meet.
 
 [<i>Enter Bastard.</i>]
 
@@ -3009,28 +3008,28 @@ The King by me requests your presence straight.
 The King hath dispossessed himself of us.
 We will not line his thin bestained cloak
 With our pure honors, nor attend the foot
-That leaves the print of blood where'er it walks.
+That leaves the print of blood where&rsquo;er it walks.
 Return, and tell him so. We know the worst.
 
 <speaker>BASTARD</speaker>
-Whate'er you think, good words I think were best.
+Whate&rsquo;er you think, good words I think were best.
 
 <speaker>SALISBURY</speaker>
 Our griefs and not our manners reason now.
 
 <speaker>BASTARD</speaker>
 But there is little reason in your grief.
-Therefore 'twere reason you had manners now.
+Therefore &rsquo;twere reason you had manners now.
 
 <speaker>PEMBROKE</speaker>
 Sir, sir, impatience hath his privilege.
 
 <speaker>BASTARD</speaker>
-'Tis true, to hurt his master, no man's else.
+&rsquo;Tis true, to hurt his master, no man&rsquo;s else.
 
 <speaker>SALISBURY</speaker>
 This is the prison.
-[<i>He sees Arthur's body.</i>]
+[<i>He sees Arthur&rsquo;s body.</i>]
 What is he lies here?
 
 <speaker>PEMBROKE</speaker>
@@ -3053,7 +3052,7 @@ Or do you almost think, although you see,
 That you do see? Could thought, without this object,
 Form such another? This is the very top,
 The height, the crest, or crest unto the crest,
-Of murder's arms. This is the bloodiest shame,
+Of murder&rsquo;s arms. This is the bloodiest shame,
 The wildest savagery, the vilest stroke
 That ever wall-eyed wrath or staring rage
 Presented to the tears of soft remorse.
@@ -3074,7 +3073,7 @@ If that it be the work of any hand.
 <speaker>SALISBURY</speaker>
 If that it be the work of any hand?
 We had a kind of light what would ensue.
-It is the shameful work of Hubert's hand,
+It is the shameful work of Hubert&rsquo;s hand,
 The practice and the purpose of the King,
 From whose obedience I forbid my soul,
 Kneeling before this ruin of sweet life	[<i>He kneels.</i>]
@@ -3112,11 +3111,11 @@ I am no villain.
 Your sword is bright, sir. Put it up again.
 
 <speaker>SALISBURY</speaker>
-Not till I sheathe it in a murderer's skin.
+Not till I sheathe it in a murderer&rsquo;s skin.
 
 <speaker>HUBERT</speaker>
 Stand back, Lord Salisbury, stand back, I say.
-By heaven, I think my sword's as sharp as yours.
+By heaven, I think my sword&rsquo;s as sharp as yours.
 [<i>He puts his hand on his sword.</i>]
 I would not have you, lord, forget yourself,
 Nor tempt the danger of my true defense,
@@ -3124,7 +3123,7 @@ Lest I, by marking of your rage, forget
 Your worth, your greatness, and nobility.
 
 <speaker>BIGOT</speaker>
-Out, dunghill! Dar'st thou brave a nobleman?
+Out, dunghill! Dar&rsquo;st thou brave a nobleman?
 
 <speaker>HUBERT</speaker>
 Not for my life. But yet I dare defend
@@ -3135,7 +3134,7 @@ Thou art a murderer.
 
 <speaker>HUBERT</speaker>
 Do not prove me so.
-Yet I am none. Whose tongue soe'er speaks false,
+Yet I am none. Whose tongue soe&rsquo;er speaks false,
 Not truly speaks. Who speaks not truly, lies.
 
 <speaker>PEMBROKE,</speaker>
@@ -3153,8 +3152,8 @@ Stand by, or I shall gall you, Faulconbridge.
 Thou wert better gall the devil, Salisbury.
 If thou but frown on me, or stir thy foot,
 Or teach thy hasty spleen to do me shame,
-I'll strike thee dead. Put up thy sword betime,
-Or I'll so maul you and your toasting-iron
+I&rsquo;ll strike thee dead. Put up thy sword betime,
+Or I&rsquo;ll so maul you and your toasting-iron
 That you shall think the devil is come from hell.
 
 <speaker>BIGOT</speaker>
@@ -3168,9 +3167,9 @@ Lord Bigot, I am none.
 Who killed this prince?
 
 <speaker>HUBERT</speaker>
-'Tis not an hour since I left him well.
+&rsquo;Tis not an hour since I left him well.
 I honored him, I loved him, and will weep
-My date of life out for his sweet life's loss.
+My date of life out for his sweet life&rsquo;s loss.
 [<i>He weeps.</i>]
 
 <speaker>SALISBURY</speaker>
@@ -3179,7 +3178,7 @@ For villainy is not without such rheum,
 And he, long traded in it, makes it seem
 like rivers of remorse and innocency.
 Away with me, all you whose souls abhor
-Th' uncleanly savors of a slaughterhouse,
+Th&rsquo; uncleanly savors of a slaughterhouse,
 For I am stifled with this smell of sin.
 
 <speaker>BIGOT</speaker>
@@ -3190,7 +3189,7 @@ There, tell the King, he may inquire us out.
 [<i>Lords exit.</i>]
 
 <speaker>BASTARD</speaker>
-Here's a good world! Knew you of this fair work?
+Here&rsquo;s a good world! Knew you of this fair work?
 Beyond the infinite and boundless reach
 Of mercy, if thou didst this deed of death,
 Art thou damned, Hubert.
@@ -3199,8 +3198,8 @@ Art thou damned, Hubert.
 Do but hear me, sir.
 
 <speaker>BASTARD</speaker>
-Ha! I'll tell thee what.
-Thou 'rt damned as black--nay, nothing is so black--
+Ha! I&rsquo;ll tell thee what.
+Thou &rsquo;rt damned as black--nay, nothing is so black--
 Thou art more deep damned than Prince Lucifer.
 There is not yet so ugly a fiend of hell
 As thou shalt be, if thou didst kill this child.
@@ -3211,7 +3210,7 @@ Upon my soul--
 <speaker>BASTARD</speaker>
 If thou didst but consent
 To this most cruel act, do but despair,
-And if thou want'st a cord, the smallest thread
+And if thou want&rsquo;st a cord, the smallest thread
 That ever spider twisted from her womb
 Will serve to strangle thee; a rush will be a beam
 To hang thee on. Or wouldst thou drown thyself,
@@ -3231,26 +3230,26 @@ I left him well.
 Go, bear him in thine arms.
 I am amazed, methinks, and lose my way
 Among the thorns and dangers of this world.
-[<i>Hubert takes up Arthur's body.</i>]
+[<i>Hubert takes up Arthur&rsquo;s body.</i>]
 How easy dost thou take all England up!
 From forth this morsel of dead royalty,
 The life, the right, and truth of all this realm
 Is fled to heaven, and England now is left
-To tug and scamble and to part by th' teeth
+To tug and scamble and to part by th&rsquo; teeth
 The unowed interest of proud-swelling state.
 Now for the bare-picked bone of majesty
 Doth dogged war bristle his angry crest
 And snarleth in the gentle eyes of peace.
 Now powers from home and discontents at home
 Meet in one line, and vast confusion waits,
-As doth a raven on a sick-fall'n beast,
+As doth a raven on a sick-fall&rsquo;n beast,
 The imminent decay of wrested pomp.
 Now happy he whose cloak and cincture can
 Hold out this tempest. Bear away that child,
-And follow me with speed. I'll to the King.
+And follow me with speed. I&rsquo;ll to the King.
 A thousand businesses are brief in hand,
 And heaven itself doth frown upon the land.
-[<i>They exit, with Hubert carrying Arthur's body.</i>]
+[<i>They exit, with Hubert carrying Arthur&rsquo;s body.</i>]
 
 <b id="act-5" class="act-header">Act 5</b>
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
@@ -3271,15 +3270,15 @@ Your sovereign greatness and authority.
 <speaker>KING JOHN</speaker>
 Now keep your holy word. Go meet the French,
 And from his Holiness use all your power
-To stop their marches 'fore we are inflamed.
+To stop their marches &rsquo;fore we are inflamed.
 Our discontented counties do revolt,
 Our people quarrel with obedience,
 Swearing allegiance and the love of soul
 To stranger blood, to foreign royalty.
 This inundation of mistempered humor
 Rests by you only to be qualified.
-Then pause not, for the present time's so sick
-That present med'cine must be ministered,
+Then pause not, for the present time&rsquo;s so sick
+That present med&rsquo;cine must be ministered,
 Or overthrow incurable ensues.
 
 <speaker>PANDULPH</speaker>
@@ -3287,7 +3286,7 @@ It was my breath that blew this tempest up,
 Upon your stubborn usage of the Pope;
 But since you are a gentle convertite,
 My tongue shall hush again this storm of war
-And make fair weather in your blust'ring land.
+And make fair weather in your blust&rsquo;ring land.
 On this Ascension Day, remember well:
 Upon your oath of service to the Pope,
 Go I to make the French lay down their arms.
@@ -3318,7 +3317,7 @@ After they heard young Arthur was alive?
 <speaker>BASTARD</speaker>
 They found him dead and cast into the streets,
 An empty casket where the jewel of life
-By some damned hand was robbed and ta'en away.
+By some damned hand was robbed and ta&rsquo;en away.
 
 <speaker>KING JOHN</speaker>
 That villain Hubert told me he did live!
@@ -3330,7 +3329,7 @@ Be great in act, as you have been in thought.
 Let not the world see fear and sad distrust
 Govern the motion of a kingly eye.
 Be stirring as the time; be fire with fire;
-Threaten the threat'ner, and outface the brow
+Threaten the threat&rsquo;ner, and outface the brow
 Of bragging horror. So shall inferior eyes,
 That borrow their behaviors from the great,
 Grow great by your example and put on
@@ -3385,7 +3384,7 @@ My Lord Melun, let this be copied out,
 And keep it safe for our remembrance.
 Return the precedent to these lords again,
 That having our fair order written down,
-Both they and we, perusing o'er these notes,
+Both they and we, perusing o&rsquo;er these notes,
 May know wherefore we took the Sacrament,
 And keep our faiths firm and inviolable.
 
@@ -3406,17 +3405,17 @@ But such is the infection of the time
 That for the health and physic of our right,
 We cannot deal but with the very hand
 Of stern injustice and confused wrong.
-And is 't not pity, O my grieved friends,
+And is &rsquo;t not pity, O my grieved friends,
 That we, the sons and children of this isle,
 Was born to see so sad an hour as this,
 Wherein we step after a stranger, march
 Upon her gentle bosom, and fill up
-Her enemies' ranks? I must withdraw and weep
+Her enemies&rsquo; ranks? I must withdraw and weep
 Upon the spot of this enforced cause,
 To grace the gentry of a land remote,
 And follow unacquainted colors here.
 What, here? O nation, that thou couldst remove,
-That Neptune's arms, who clippeth thee about,
+That Neptune&rsquo;s arms, who clippeth thee about,
 Would bear thee from the knowledge of thyself
 And grapple thee unto a pagan shore,
 Where these two Christian armies might combine
@@ -3431,13 +3430,13 @@ O, what a noble combat hast thou fought
 Between compulsion and a brave respect!
 Let me wipe off this honorable dew
 That silverly doth progress on thy cheeks.
-My heart hath melted at a lady's tears,
+My heart hath melted at a lady&rsquo;s tears,
 Being an ordinary inundation,
 But this effusion of such manly drops,
 This shower, blown up by tempest of the soul,
 Startles mine eyes and makes me more amazed
 Than had I seen the vaulty top of heaven
-Figured quite o'er with burning meteors.
+Figured quite o&rsquo;er with burning meteors.
 Lift up thy brow, renowned Salisbury,
 And with a great heart heave away this storm.
 Commend these waters to those baby eyes
@@ -3463,7 +3462,7 @@ The next is this: King John hath reconciled
 Himself to Rome; his spirit is come in
 That so stood out against the holy Church,
 The great metropolis and See of Rome.
-Therefore thy threat'ning colors now wind up,
+Therefore thy threat&rsquo;ning colors now wind up,
 And tame the savage spirit of wild war
 That, like a lion fostered up at hand,
 It may lie gently at the foot of peace
@@ -3478,7 +3477,7 @@ To any sovereign state throughout the world.
 Your breath first kindled the dead coal of wars
 Between this chastised kingdom and myself
 And brought in matter that should feed this fire;
-And now 'tis far too huge to be blown out
+And now &rsquo;tis far too huge to be blown out
 With that same weak wind which enkindled it.
 You taught me how to know the face of right,
 Acquainted me with interest to this land,
@@ -3489,17 +3488,17 @@ I, by the honor of my marriage bed,
 After young Arthur claim this land for mine.
 And now it is half conquered, must I back
 Because that John hath made his peace with Rome?
-Am I Rome's slave? What penny hath Rome borne?
+Am I Rome&rsquo;s slave? What penny hath Rome borne?
 What men provided? What munition sent
-To underprop this action? Is 't not I
+To underprop this action? Is &rsquo;t not I
 That undergo this charge? Who else but I,
 And such as to my claim are liable,
 Sweat in this business and maintain this war?
 Have I not heard these islanders shout out
-"Vive le Roi" as I have banked their towns?
+"&ldquo;Vive le Roi&rdquo;" as I have banked their towns?
 Have I not here the best cards for the game
 To win this easy match played for a crown?
-And shall I now give o'er the yielded set?
+And shall I now give o&rsquo;er the yielded set?
 No, no, on my soul, it never shall be said.
 
 <speaker>PANDULPH</speaker>
@@ -3529,7 +3528,7 @@ And warrant limited unto my tongue.
 <speaker>PANDULPH</speaker>
 The Dauphin is too willful-opposite
 And will not temporize with my entreaties.
-He flatly says he'll not lay down his arms.
+He flatly says he&rsquo;ll not lay down his arms.
 
 <speaker>BASTARD</speaker>
 By all the blood that ever fury breathed,
@@ -3549,12 +3548,12 @@ To crouch in litter of your stable planks,
 To lie like pawns locked up in chests and trunks,
 To hug with swine, to seek sweet safety out
 In vaults and prisons, and to thrill and shake
-Even at the crying of your nation's crow,
+Even at the crying of your nation&rsquo;s crow,
 Thinking this voice an armed Englishman--
 Shall that victorious hand be feebled here
 That in your chambers gave you chastisement?
 No! Know the gallant monarch is in arms,
-And like an eagle o'er his aerie towers
+And like an eagle o&rsquo;er his aerie towers
 To souse annoyance that comes near his nest.--
 And you degenerate, you ingrate revolts,
 You bloody Neroes, ripping up the womb
@@ -3589,7 +3588,7 @@ An echo with the clamor of thy drum,
 And even at hand a drum is ready braced
 That shall reverberate all as loud as thine.
 Sound but another, and another shall,
-As loud as thine, rattle the welkin's ear
+As loud as thine, rattle the welkin&rsquo;s ear
 And mock the deep-mouthed thunder. For at hand,
 Not trusting to this halting legate here,
 Whom he hath used rather for sport than need,
@@ -3694,13 +3693,13 @@ May this be possible? May this be true?
 Have I not hideous death within my view,
 Retaining but a quantity of life,
 Which bleeds away even as a form of wax
-Resolveth from his figure 'gainst the fire?
+Resolveth from his figure &rsquo;gainst the fire?
 What in the world should make me now deceive,
 Since I must lose the use of all deceit?
 Why should I then be false, since it is true
 That I must die here and live hence by truth?
 I say again, if Louis do win the day,
-He is forsworn if e'er those eyes of yours
+He is forsworn if e&rsquo;er those eyes of yours
 Behold another daybreak in the East.
 But even this night, whose black contagious breath
 Already smokes about the burning crest
@@ -3726,7 +3725,7 @@ Of this most fair occasion, by the which
 We will untread the steps of damned flight,
 And like a bated and retired flood,
 Leaving our rankness and irregular course,
-Stoop low within those bounds we have o'erlooked
+Stoop low within those bounds we have o&rsquo;erlooked
 And calmly run on in obedience
 Even to our ocean, to our great King John.
 My arm shall give thee help to bear thee hence,
@@ -3747,7 +3746,7 @@ ground
 In faint retire. O, bravely came we off,
 When with a volley of our needless shot,
 After such bloody toil, we bid good night
-And wound our tott'ring colors clearly up,
+And wound our tott&rsquo;ring colors clearly up,
 Last in the field and almost lords of it.
 
 [<i>Enter a Messenger.</i>]
@@ -3760,7 +3759,7 @@ Here. What news?
 
 <speaker>MESSENGER</speaker>
 The Count Melun is slain. The English lords,
-By his persuasion, are again fall'n off,
+By his persuasion, are again fall&rsquo;n off,
 And your supply, which you have wished so long,
 Are cast away and sunk on Goodwin Sands.
 
@@ -3785,7 +3784,7 @@ To try the fair adventure of tomorrow.
 [<i>Enter Bastard and Hubert, severally.</i>]
 
 <speaker>HUBERT</speaker>
-Who's there? Speak ho! Speak quickly, or I shoot.
+Who&rsquo;s there? Speak ho! Speak quickly, or I shoot.
 
 <speaker>BASTARD</speaker>
 A friend. What art thou?
@@ -3797,7 +3796,7 @@ Of the part of England.
 Whither dost thou go?
 
 <speaker>HUBERT</speaker>
-What's that to thee?
+What&rsquo;s that to thee?
 
 <speaker>BASTARD</speaker>
 Why may not I demand of thine affairs
@@ -3806,7 +3805,7 @@ As well as thou of mine? Hubert, I think?
 <speaker>HUBERT</speaker>
 Thou hast a perfect thought.
 I will upon all hazards well believe
-Thou art my friend, that know'st my tongue so well.
+Thou art my friend, that know&rsquo;st my tongue so well.
 Who art thou?
 
 <speaker>BASTARD</speaker>
@@ -3818,7 +3817,7 @@ I come one way of the Plantagenets.
 Unkind remembrance! Thou and endless night
 Have done me shame. Brave soldier, pardon me
 That any accent breaking from thy tongue
-Should 'scape the true acquaintance of mine ear.
+Should &rsquo;scape the true acquaintance of mine ear.
 
 <speaker>BASTARD</speaker>
 Come, come. Sans compliment, what news abroad?
@@ -3828,7 +3827,7 @@ Why, here walk I in the black brow of night
 To find you out.
 
 <speaker>BASTARD</speaker>
-Brief, then; and what's the news?
+Brief, then; and what&rsquo;s the news?
 
 <speaker>HUBERT</speaker>
 O my sweet sir, news fitting to the night,
@@ -3836,7 +3835,7 @@ Black, fearful, comfortless, and horrible.
 
 <speaker>BASTARD</speaker>
 Show me the very wound of this ill news.
-I am no woman; I'll not swoon at it.
+I am no woman; I&rsquo;ll not swoon at it.
 
 <speaker>HUBERT</speaker>
 The King, I fear, is poisoned by a monk.
@@ -3865,7 +3864,7 @@ And they are all about his Majesty.
 <speaker>BASTARD</speaker>
 Withhold thine indignation, mighty God,
 And tempt us not to bear above our power.
-I'll tell thee, Hubert, half my power this night,
+I&rsquo;ll tell thee, Hubert, half my power this night,
 Passing these flats, are taken by the tide.
 These Lincoln Washes have devoured them.
 Myself, well mounted, hardly have escaped.
@@ -3880,7 +3879,7 @@ I doubt he will be dead or ere I come.
 <speaker>PRINCE HENRY</speaker>
 It is too late. The life of all his blood
 Is touched corruptibly, and his pure brain,
-Which some suppose the soul's frail dwelling-house,
+Which some suppose the soul&rsquo;s frail dwelling-house,
 Doth, by the idle comments that it makes,
 Foretell the ending of mortality.
 
@@ -3909,7 +3908,7 @@ Leaves them invisible, and his siege is now
 Against the mind, the which he pricks and wounds
 With many legions of strange fantasies,
 Which in their throng and press to that last hold
-Confound themselves. 'Tis strange that Death should
+Confound themselves. &rsquo;Tis strange that Death should
 sing.
 I am the cygnet to this pale faint swan,
 Who chants a doleful hymn to his own death,
@@ -3939,7 +3938,7 @@ How fares your Majesty?
 Poisoned--ill fare--dead, forsook, cast off,
 And none of you will bid the winter come
 To thrust his icy fingers in my maw,
-Nor let my kingdom's rivers take their course
+Nor let my kingdom&rsquo;s rivers take their course
 Through my burned bosom, nor entreat the North
 To make his bleak winds kiss my parched lips
 And comfort me with cold. I do not ask you much.
@@ -4017,7 +4016,7 @@ He will the rather do it when he sees
 Ourselves well-sinewed to our defense.
 
 <speaker>SALISBURY</speaker>
-Nay, 'tis in a manner done already,
+Nay, &rsquo;tis in a manner done already,
 For many carriages he hath dispatched
 To the sea-side, and put his cause and quarrel
 To the disposing of the Cardinal,
@@ -4028,7 +4027,7 @@ To consummate this business happily.
 <speaker>BASTARD</speaker>
 Let it be so.--And you, my noble prince,
 With other princes that may best be spared,
-Shall wait upon your father's funeral.
+Shall wait upon your father&rsquo;s funeral.
 
 <speaker>PRINCE HENRY</speaker>
 At Worcester must his body be interred,

@@ -64,11 +64,11 @@ LEONATO  What is he that you ask for, niece?
 
 HERO  My cousin means Signior Benedick of Padua.
 
-MESSENGER  O, he's returned, and as pleasant as ever
+MESSENGER  O, he&rsquo;s returned, and as pleasant as ever
 he was.
 
 BEATRICE  He set up his bills here in Messina and
-challenged Cupid at the flight, and my uncle's Fool,
+challenged Cupid at the flight, and my uncle&rsquo;s Fool,
 reading the challenge, subscribed for Cupid and
 challenged him at the bird-bolt. I pray you, how
 many hath he killed and eaten in these wars? But
@@ -76,7 +76,7 @@ how many hath he killed? For indeed I promised to
 eat all of his killing.
 
 LEONATO  Faith, niece, you tax Signior Benedick too
-much, but he'll be meet with you, I doubt it not.
+much, but he&rsquo;ll be meet with you, I doubt it not.
 
 MESSENGER  He hath done good service, lady, in these
 wars.
@@ -98,7 +98,7 @@ man, but for the stuffing--well, we are all mortal.
 
 LEONATO  You must not, sir, mistake my niece. There is
 a kind of merry war betwixt Signior Benedick and
-her. They never meet but there's a skirmish of wit
+her. They never meet but there&rsquo;s a skirmish of wit
 between them.
 
 BEATRICE  Alas, he gets nothing by that. In our last
@@ -111,7 +111,7 @@ be known a reasonable creature. Who is his companion
 now? He hath every month a new sworn
 brother.
 
-MESSENGER  Is 't possible?
+MESSENGER  Is &rsquo;t possible?
 
 BEATRICE  Very easily possible. He wears his faith but
 as the fashion of his hat; it ever changes with the
@@ -200,11 +200,11 @@ for that. I had rather hear my dog bark at a crow
 than a man swear he loves me.
 
 BENEDICK  God keep your Ladyship still in that mind,
-so some gentleman or other shall 'scape a predestinate
+so some gentleman or other shall &rsquo;scape a predestinate
 scratched face.
 
 BEATRICE  Scratching could not make it worse an
-'twere such a face as yours were.
+&rsquo;twere such a face as yours were.
 
 BENEDICK  Well, you are a rare parrot-teacher.
 
@@ -213,9 +213,9 @@ yours.
 
 BENEDICK  I would my horse had the speed of your
 tongue and so good a continuer, but keep your
-way, i' God's name, I have done.
+way, i&rsquo; God&rsquo;s name, I have done.
 
-BEATRICE  You always end with a jade's trick. I know
+BEATRICE  You always end with a jade&rsquo;s trick. I know
 you of old.
 [<i>Leonato and the Prince come forward.</i>]
 
@@ -254,7 +254,7 @@ professed tyrant to their sex?
 
 CLAUDIO  No, I pray thee, speak in sober judgment.
 
-BENEDICK  Why, i' faith, methinks she's too low for a
+BENEDICK  Why, i&rsquo; faith, methinks she&rsquo;s too low for a
 high praise, too brown for a fair praise, and too
 little for a great praise. Only this commendation I
 can afford her, that were she other than she is, she
@@ -262,7 +262,7 @@ were unhandsome, and being no other but as she is,
 I do not like her.
 
 CLAUDIO  Thou thinkest I am in sport. I pray thee tell
-me truly how thou lik'st her.
+me truly how thou lik&rsquo;st her.
 
 BENEDICK  Would you buy her that you enquire after
 her?
@@ -279,7 +279,7 @@ CLAUDIO  In mine eye she is the sweetest lady that ever
 I looked on.
 
 BENEDICK  I can see yet without spectacles, and I see
-no such matter. There's her cousin, an she were not
+no such matter. There&rsquo;s her cousin, an she were not
 possessed with a fury, exceeds her as much in
 beauty as the first of May doth the last of December.
 But I hope you have no intent to turn husband, have
@@ -288,10 +288,10 @@ you?
 CLAUDIO  I would scarce trust myself, though I had
 sworn the contrary, if Hero would be my wife.
 
-BENEDICK  Is 't come to this? In faith, hath not the
+BENEDICK  Is &rsquo;t come to this? In faith, hath not the
 world one man but he will wear his cap with
 suspicion? Shall I never see a bachelor of threescore
-again? Go to, i' faith, an thou wilt needs thrust
+again? Go to, i&rsquo; faith, an thou wilt needs thrust
 thy neck into a yoke, wear the print of it, and sigh
 away Sundays. Look, Don Pedro is returned to seek
 you.
@@ -299,7 +299,7 @@ you.
 [<i>Enter Don Pedro, Prince of Aragon.</i>]
 
 PRINCE  What secret hath held you here that you followed
-not to Leonato's?
+not to Leonato&rsquo;s?
 
 BENEDICK  I would your Grace would constrain me to
 tell.
@@ -309,15 +309,15 @@ PRINCE  I charge thee on thy allegiance.
 BENEDICK  You hear, Count Claudio, I can be secret as
 a dumb man, I would have you think so, but on my
 allegiance--mark you this, on my allegiance--he
-is in love. With who? Now, that is your Grace's part.
-Mark how short his answer is: with Hero, Leonato's
+is in love. With who? Now, that is your Grace&rsquo;s part.
+Mark how short his answer is: with Hero, Leonato&rsquo;s
 short daughter.
 
 CLAUDIO  If this were so, so were it uttered.
 
-BENEDICK  Like the old tale, my lord: "It is not so, nor
-'twas not so, but, indeed, God forbid it should be
-so."
+BENEDICK  Like the old tale, my lord: "&ldquo;It is not so, nor
+&rsquo;twas not so, but, indeed, God forbid it should be
+so.&rdquo;"
 
 CLAUDIO  If my passion change not shortly, God forbid
 it should be otherwise.
@@ -364,7 +364,7 @@ PRINCE  I shall see thee, ere I die, look pale with love.
 BENEDICK  With anger, with sickness, or with hunger,
 my lord, not with love. Prove that ever I lose more
 blood with love than I will get again with drinking,
-pick out mine eyes with a ballad-maker's pen and
+pick out mine eyes with a ballad-maker&rsquo;s pen and
 hang me up at the door of a brothel house for the
 sign of blind Cupid.
 
@@ -379,11 +379,11 @@ PRINCE  Well, as time shall try.
 In time the savage bull doth bear the yoke.
 
 BENEDICK  The savage bull may, but if ever the sensible
-Benedick bear it, pluck off the bull's horns and set
+Benedick bear it, pluck off the bull&rsquo;s horns and set
 them in my forehead, and let me be vilely painted,
-and in such great letters as they write "Here is good
-horse to hire" let them signify under my sign "Here
-you may see Benedick the married man."
+and in such great letters as they write "&ldquo;Here is good
+horse to hire&rdquo;" let them signify under my sign "&ldquo;Here
+you may see Benedick the married man.&rdquo;"
 
 CLAUDIO  If this should ever happen, thou wouldst be
 horn-mad.
@@ -394,7 +394,7 @@ Venice, thou wilt quake for this shortly.
 BENEDICK  I look for an earthquake too, then.
 
 PRINCE  Well, you will temporize with the hours. In the
-meantime, good Signior Benedick, repair to Leonato's.
+meantime, good Signior Benedick, repair to Leonato&rsquo;s.
 Commend me to him, and tell him I will not
 fail him at supper, for indeed he hath made great
 preparation.
@@ -426,12 +426,12 @@ CLAUDIO
 Hath Leonato any son, my lord?
 
 PRINCE
-No child but Hero; she's his only heir.
+No child but Hero; she&rsquo;s his only heir.
 Dost thou affect her, Claudio?
 
 CLAUDIO  O, my lord,
 When you went onward on this ended action,
-I looked upon her with a soldier's eye,
+I looked upon her with a soldier&rsquo;s eye,
 That liked, but had a rougher task in hand
 Than to drive liking to the name of love.
 But now I am returned and that war thoughts
@@ -445,24 +445,24 @@ Thou wilt be like a lover presently
 And tire the hearer with a book of words.
 If thou dost love fair Hero, cherish it,
 And I will break with her and with her father,
-And thou shalt have her. Was 't not to this end
-That thou began'st to twist so fine a story?
+And thou shalt have her. Was &rsquo;t not to this end
+That thou began&rsquo;st to twist so fine a story?
 
 CLAUDIO
 How sweetly you do minister to love,
-That know love's grief by his complexion!
+That know love&rsquo;s grief by his complexion!
 But lest my liking might too sudden seem,
 I would have salved it with a longer treatise.
 
 PRINCE
 What need the bridge much broader than the flood?
 The fairest grant is the necessity.
-Look what will serve is fit. 'Tis once, thou lovest,
+Look what will serve is fit. &rsquo;Tis once, thou lovest,
 And I will fit thee with the remedy.
 I know we shall have reveling tonight.
 I will assume thy part in some disguise
 And tell fair Hero I am Claudio,
-And in her bosom I'll unclasp my heart
+And in her bosom I&rsquo;ll unclasp my heart
 And take her hearing prisoner with the force
 And strong encounter of my amorous tale.
 Then after to her father will I break,
@@ -479,16 +479,14 @@ Leonato.</i>]
 How now, brother, where is my cousin, your
 son? Hath he provided this music?
 
-<speaker>LEONATO'S BROTHER</speaker>
-He is very busy about it. But,
+LEONATO&rsquo;S BROTHER  He is very busy about it. But,
 brother, I can tell you strange news that you yet
 dreamt not of.
 
 <speaker>LEONATO</speaker>
 Are they good?
 
-<speaker>LEONATO'S BROTHER</speaker>
-As the events stamps them, but
+LEONATO&rsquo;S BROTHER  As the events stamps them, but
 they have a good cover; they show well outward.
 The Prince and Count Claudio, walking in a thick-pleached
 alley in mine orchard, were thus much
@@ -502,8 +500,7 @@ of it.
 <speaker>LEONATO</speaker>
 Hath the fellow any wit that told you this?
 
-<speaker>LEONATO'S BROTHER</speaker>
-A good sharp fellow. I will send
+LEONATO&rsquo;S BROTHER  A good sharp fellow. I will send
 for him, and question him yourself.
 
 <speaker>LEONATO</speaker>
@@ -513,7 +510,7 @@ withal, that she may be the better prepared for an
 answer, if peradventure this be true. Go you and tell
 her of it.
 
-[<i>Enter Antonio's son, with a Musician and Attendants.</i>]
+[<i>Enter Antonio&rsquo;s son, with a Musician and Attendants.</i>]
 
 Cousins, you know what you have to do.--O, I cry
 you mercy, friend. Go you with me and I will use
@@ -550,16 +547,16 @@ I wonder that thou, being, as thou sayst thou
 art, born under Saturn, goest about to apply a moral
 medicine to a mortifying mischief. I cannot hide
 what I am. I must be sad when I have cause, and
-smile at no man's jests; eat when I have stomach,
-and wait for no man's leisure; sleep when I am
-drowsy, and tend on no man's business; laugh when
+smile at no man&rsquo;s jests; eat when I have stomach,
+and wait for no man&rsquo;s leisure; sleep when I am
+drowsy, and tend on no man&rsquo;s business; laugh when
 I am merry, and claw no man in his humor.
 
 <speaker>CONRADE</speaker>
 Yea, but you must not make the full show of
 this till you may do it without controlment. You
 have of late stood out against your brother, and he
-hath ta'en you newly into his grace, where it is
+hath ta&rsquo;en you newly into his grace, where it is
 impossible you should take true root but by the fair
 weather that you make yourself. It is needful that
 you frame the season for your own harvest.
@@ -600,7 +597,7 @@ on? What is he for a fool that betroths himself to
 unquietness?
 
 <speaker>BORACHIO</speaker>
-Marry, it is your brother's right hand.
+Marry, it is your brother&rsquo;s right hand.
 
 <speaker>DON JOHN</speaker>
 Who, the most exquisite Claudio?
@@ -641,11 +638,11 @@ To the death, my lord.
 
 <speaker>DON JOHN</speaker>
 Let us to the great supper. Their cheer is the
-greater that I am subdued. Would the cook were o'
-my mind! Shall we go prove what's to be done?
+greater that I am subdued. Would the cook were o&rsquo;
+my mind! Shall we go prove what&rsquo;s to be done?
 
 <speaker>BORACHIO</speaker>
-We'll wait upon your Lordship.
+We&rsquo;ll wait upon your Lordship.
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -657,8 +654,7 @@ Beatrice his niece, with Ursula and Margaret.</i>]
 <speaker>LEONATO</speaker>
 Was not Count John here at supper?
 
-<speaker>LEONATO'S BROTHER</speaker>
-I saw him not.
+LEONATO&rsquo;S BROTHER  I saw him not.
 
 <speaker>BEATRICE</speaker>
 How tartly that gentleman looks! I never
@@ -671,13 +667,13 @@ He is of a very melancholy disposition.
 He were an excellent man that were made
 just in the midway between him and Benedick. The
 one is too like an image and says nothing, and the
-other too like my lady's eldest son, evermore
+other too like my lady&rsquo;s eldest son, evermore
 tattling.
 
 <speaker>LEONATO</speaker>
-Then half Signior Benedick's tongue in
-Count John's mouth, and half Count John's melancholy
-in Signior Benedick's face--
+Then half Signior Benedick&rsquo;s tongue in
+Count John&rsquo;s mouth, and half Count John&rsquo;s melancholy
+in Signior Benedick&rsquo;s face--
 
 <speaker>BEATRICE</speaker>
 With a good leg and a good foot, uncle, and
@@ -689,13 +685,12 @@ goodwill.
 By my troth, niece, thou wilt never get thee a
 husband if thou be so shrewd of thy tongue.
 
-<speaker>LEONATO'S BROTHER</speaker>
-In faith, she's too curst.
+LEONATO&rsquo;S BROTHER  In faith, she&rsquo;s too curst.
 
 <speaker>BEATRICE</speaker>
 Too curst is more than curst. I shall lessen
-God's sending that way, for it is said "God sends a
-curst cow short horns," but to a cow too curst, he
+God&rsquo;s sending that way, for it is said "&ldquo;God sends a
+curst cow short horns,&rdquo;" but to a cow too curst, he
 sends none.
 
 <speaker>LEONATO</speaker>
@@ -729,23 +724,22 @@ Well then, go you into hell?
 <speaker>BEATRICE</speaker>
 No, but to the gate, and there will the devil
 meet me like an old cuckold with horns on his
-head, and say "Get you to heaven, Beatrice, get you
-to heaven; here's no place for you maids." So deliver
+head, and say "&ldquo;Get you to heaven, Beatrice, get you
+to heaven; here&rsquo;s no place for you maids.&rdquo;" So deliver
 I up my apes and away to Saint Peter; for the
 heavens, he shows me where the bachelors sit, and
 there live we as merry as the day is long.
 
-<speaker>LEONATO'S BROTHER,</speaker>
-[<i>to Hero</i>]
+LEONATO&rsquo;S BROTHER, [<i>to Hero</i>]
   Well, niece, I trust you
 will be ruled by your father.
 
 <speaker>BEATRICE</speaker>
-Yes, faith, it is my cousin's duty to make
-curtsy and say "Father, as it please you." But yet for
+Yes, faith, it is my cousin&rsquo;s duty to make
+curtsy and say "&ldquo;Father, as it please you.&rdquo;" But yet for
 all that, cousin, let him be a handsome fellow, or
-else make another curtsy and say "Father, as it
-please me."
+else make another curtsy and say "&ldquo;Father, as it
+please me.&rdquo;"
 
 <speaker>LEONATO</speaker>
 Well, niece, I hope to see you one day fitted
@@ -756,7 +750,7 @@ Not till God make men of some other metal
 than earth. Would it not grieve a woman to be
 overmastered with a piece of valiant dust? To make
 an account of her life to a clod of wayward marl?
-No, uncle, I'll none. Adam's sons are my brethren,
+No, uncle, I&rsquo;ll none. Adam&rsquo;s sons are my brethren,
 and truly I hold it a sin to match in my kindred.
 
 <speaker>LEONATO,</speaker>
@@ -817,7 +811,7 @@ When I like your favor, for God defend the lute
 should be like the case.
 
 <speaker>PRINCE</speaker>
-My visor is Philemon's roof; within the house
+My visor is Philemon&rsquo;s roof; within the house
 is Jove.
 
 <speaker>HERO</speaker>
@@ -844,7 +838,7 @@ I say my prayers aloud.
 
 <speaker>BENEDICK</speaker>
 I love you the better; the hearers may cry
-"Amen."
+"&ldquo;Amen.&rdquo;"
 
 <speaker>MARGARET</speaker>
 God match me with a good dancer.
@@ -878,7 +872,7 @@ To tell you true, I counterfeit him.
 
 <speaker>URSULA</speaker>
 You could never do him so ill-well unless you
-were the very man. Here's his dry hand up and
+were the very man. Here&rsquo;s his dry hand up and
 down. You are he, you are he.
 
 <speaker>ANTONIO</speaker>
@@ -887,7 +881,7 @@ At a word, I am not.
 <speaker>URSULA</speaker>
 Come, come, do you think I do not know you
 by your excellent wit? Can virtue hide itself? Go to,
-mum, you are he. Graces will appear, and there's an
+mum, you are he. Graces will appear, and there&rsquo;s an
 end.
 [<i>They move aside;
 Benedick and Beatrice move forward.</i>]
@@ -910,7 +904,7 @@ good wit out of The Hundred Merry Tales! Well, this
 was Signior Benedick that said so.
 
 <speaker>BENEDICK</speaker>
-What's he?
+What&rsquo;s he?
 
 <speaker>BEATRICE</speaker>
 I am sure you know him well enough.
@@ -925,7 +919,7 @@ Did he never make you laugh?
 I pray you, what is he?
 
 <speaker>BEATRICE</speaker>
-Why, he is the Prince's jester, a very dull
+Why, he is the Prince&rsquo;s jester, a very dull
 fool; only his gift is in devising impossible slanders.
 None but libertines delight in him, and the commendation
 is not in his wit but in his villainy, for he
@@ -934,14 +928,14 @@ laugh at him and beat him. I am sure he is in the
 fleet.I would he had boarded me.
 
 <speaker>BENEDICK</speaker>
-When I know the gentleman, I'll tell him
+When I know the gentleman, I&rsquo;ll tell him
 what you say.
 
 <speaker>BEATRICE</speaker>
-Do, do. He'll but break a comparison or two
+Do, do. He&rsquo;ll but break a comparison or two
 on me, which peradventure not marked or not
 laughed at strikes him into melancholy, and then
-there's a partridge wing saved, for the fool will eat
+there&rsquo;s a partridge wing saved, for the fool will eat
 no supper that night. [<i>Music for the dance.</i>]
  We must
 follow the leaders.
@@ -997,7 +991,7 @@ Come, let us to the banquet.
 [<i>unmasking</i>]
 Thus answer I in name of Benedick,
 But hear these ill news with the ears of Claudio.
-'Tis certain so. The Prince woos for himself.
+&rsquo;Tis certain so. The Prince woos for himself.
 Friendship is constant in all other things
 Save in the office and affairs of love.
 Therefore all hearts in love use their own tongues.
@@ -1024,8 +1018,8 @@ Whither?
 <speaker>BENEDICK</speaker>
 Even to the next willow, about your own
 business, county. What fashion will you wear the
-garland of? About your neck like an usurer's chain?
-Or under your arm like a lieutenant's scarf? You
+garland of? About your neck like an usurer&rsquo;s chain?
+Or under your arm like a lieutenant&rsquo;s scarf? You
 must wear it one way, for the Prince hath got your
 Hero.
 
@@ -1033,7 +1027,7 @@ Hero.
 I wish him joy of her.
 
 <speaker>BENEDICK</speaker>
-Why, that's spoken like an honest drover; so
+Why, that&rsquo;s spoken like an honest drover; so
 they sell bullocks. But did you think the Prince
 would have served you thus?
 
@@ -1042,26 +1036,26 @@ I pray you, leave me.
 
 <speaker>BENEDICK</speaker>
 Ho, now you strike like the blind man.
-'Twas the boy that stole your meat, and you'll beat
+&rsquo;Twas the boy that stole your meat, and you&rsquo;ll beat
 the post.
 
 <speaker>CLAUDIO</speaker>
-If it will not be, I'll leave you. [<i>He exits.</i>]
+If it will not be, I&rsquo;ll leave you. [<i>He exits.</i>]
 
 <speaker>BENEDICK</speaker>
 Alas, poor hurt fowl, now will he creep into
 sedges. But that my Lady Beatrice should know
-me, and not know me! The Prince's fool! Ha, it may
+me, and not know me! The Prince&rsquo;s fool! Ha, it may
 be I go under that title because I am merry. Yea, but
 so I am apt to do myself wrong. I am not so reputed!
 It is the base, though bitter, disposition of Beatrice
 that puts the world into her person and so gives me
-out. Well, I'll be revenged as I may.
+out. Well, I&rsquo;ll be revenged as I may.
 
 [<i>Enter the Prince, Hero, and Leonato.</i>]
 
 <speaker>PRINCE</speaker>
-Now, signior, where's the Count? Did you see
+Now, signior, where&rsquo;s the Count? Did you see
 him?
 
 <speaker>BENEDICK</speaker>
@@ -1075,11 +1069,11 @@ forsaken, or to bind him up a rod, as being worthy to
 be whipped.
 
 <speaker>PRINCE</speaker>
-To be whipped? What's his fault?
+To be whipped? What&rsquo;s his fault?
 
 <speaker>BENEDICK</speaker>
 The flat transgression of a schoolboy who,
-being overjoyed with finding a bird's nest, shows it
+being overjoyed with finding a bird&rsquo;s nest, shows it
 his companion, and he steals it.
 
 <speaker>PRINCE</speaker>
@@ -1091,7 +1085,7 @@ Yet it had not been amiss the rod had been
 made, and the garland too, for the garland he
 might have worn himself, and the rod he might
 have bestowed on you, who, as I take it, have stolen
-his bird's nest.
+his bird&rsquo;s nest.
 
 <speaker>PRINCE</speaker>
 I will but teach them to sing and restore them
@@ -1111,7 +1105,7 @@ O, she misused me past the endurance of a
 block! An oak but with one green leaf on it would
 have answered her. My very visor began to assume
 life and scold with her. She told me, not thinking I
-had been myself, that I was the Prince's jester, that I
+had been myself, that I was the Prince&rsquo;s jester, that I
 was duller than a great thaw, huddling jest upon jest
 with such impossible conveyance upon me that I
 stood like a man at a mark with a whole army
@@ -1137,20 +1131,20 @@ Look, here she comes.
 
 <speaker>BENEDICK</speaker>
 Will your Grace command me any service
-to the world's end? I will go on the slightest errand
+to the world&rsquo;s end? I will go on the slightest errand
 now to the Antipodes that you can devise to send
 me on. I will fetch you a toothpicker now from the
 furthest inch of Asia, bring you the length of Prester
-John's foot, fetch you a hair off the great Cham's
+John&rsquo;s foot, fetch you a hair off the great Cham&rsquo;s
 beard, do you any embassage to the Pygmies, rather
-than hold three words' conference with this harpy.
+than hold three words&rsquo; conference with this harpy.
 You have no employment for me?
 
 <speaker>PRINCE</speaker>
 None but to desire your good company.
 
 <speaker>BENEDICK</speaker>
-O God, sir, here's a dish I love not! I cannot
+O God, sir, here&rsquo;s a dish I love not! I cannot
 endure my Lady Tongue.	[<i>He exits.</i>]
 
 <speaker>PRINCE,</speaker>
@@ -1191,9 +1185,9 @@ The Count is neither sad, nor sick, nor merry,
 nor well, but civil count, civil as an orange, and
 something of that jealous complexion.
 
-<speaker>PRINCE I'</speaker>
-faith, lady, I think your blazon to be true,
-though I'll be sworn, if he be so, his conceit is
+<speaker>PRINCE</speaker>
+I&rsquo; faith, lady, I think your blazon to be true,
+though I&rsquo;ll be sworn, if he be so, his conceit is
 false.--Here, Claudio, I have wooed in thy name,
 and fair Hero is won. I have broke with her father
 and his goodwill obtained. Name the day of marriage,
@@ -1202,10 +1196,10 @@ and God give thee joy.
 <speaker>LEONATO</speaker>
 Count, take of me my daughter, and with her
 my fortunes. His Grace hath made the match, and
-all grace say "Amen" to it.
+all grace say "&ldquo;Amen&rdquo;" to it.
 
 <speaker>BEATRICE</speaker>
-Speak, count, 'tis your cue.
+Speak, count, &rsquo;tis your cue.
 
 <speaker>CLAUDIO</speaker>
 Silence is the perfectest herald of joy. I were
@@ -1231,14 +1225,14 @@ And so she doth, cousin.
 <speaker>BEATRICE</speaker>
 Good Lord for alliance! Thus goes everyone
 to the world but I, and I am sunburnt. I may sit in a
-corner and cry "Heigh-ho for a husband!"
+corner and cry "&ldquo;Heigh-ho for a husband!&rdquo;"
 
 <speaker>PRINCE</speaker>
 Lady Beatrice, I will get you one.
 
 <speaker>BEATRICE</speaker>
-I would rather have one of your father's
-getting. Hath your Grace ne'er a brother like you?
+I would rather have one of your father&rsquo;s
+getting. Hath your Grace ne&rsquo;er a brother like you?
 Your father got excellent husbands, if a maid could
 come by them.
 
@@ -1253,7 +1247,7 @@ was born to speak all mirth and no matter.
 
 <speaker>PRINCE</speaker>
 Your silence most offends me, and to be merry
-best becomes you, for out o' question you were
+best becomes you, for out o&rsquo; question you were
 born in a merry hour.
 
 <speaker>BEATRICE</speaker>
@@ -1266,14 +1260,14 @@ Niece, will you look to those things I told
 you of?
 
 <speaker>BEATRICE</speaker>
-I cry you mercy, uncle.--By your Grace's
+I cry you mercy, uncle.--By your Grace&rsquo;s
 pardon.	[<i>Beatrice exits.</i>]
 
 <speaker>PRINCE</speaker>
 By my troth, a pleasant-spirited lady.
 
 <speaker>LEONATO</speaker>
-There's little of the melancholy element in
+There&rsquo;s little of the melancholy element in
 her, my lord. She is never sad but when she sleeps,
 and not ever sad then, for I have heard my daughter
 say she hath often dreamt of unhappiness and
@@ -1311,16 +1305,16 @@ all things answer my mind.
   Come, you shake the head at so
 long a breathing, but I warrant thee, Claudio, the
 time shall not go dully by us. I will in the interim
-undertake one of Hercules' labors, which is to bring
+undertake one of Hercules&rsquo; labors, which is to bring
 Signior Benedick and the Lady Beatrice into a
-mountain of affection, th' one with th' other. I
+mountain of affection, th&rsquo; one with th&rsquo; other. I
 would fain have it a match, and I doubt not but to
 fashion it, if you three will but minister such
 assistance as I shall give you direction.
 
 <speaker>LEONATO</speaker>
 My lord, I am for you, though it cost me ten
-nights' watchings.
+nights&rsquo; watchings.
 
 <speaker>CLAUDIO</speaker>
 And I, my lord.
@@ -1359,7 +1353,7 @@ Yea, my lord, but I can cross it.
 
 <speaker>DON JOHN</speaker>
 Any bar, any cross, any impediment will be
-med'cinable to me. I am sick in displeasure to him,
+med&rsquo;cinable to me. I am sick in displeasure to him,
 and whatsoever comes athwart his affection ranges
 evenly with mine. How canst thou cross this
 marriage?
@@ -1381,7 +1375,7 @@ I remember.
 
 <speaker>BORACHIO</speaker>
 I can, at any unseasonable instant of the
-night, appoint her to look out at her lady's chamber
+night, appoint her to look out at her lady&rsquo;s chamber
 window.
 
 <speaker>DON JOHN</speaker>
@@ -1413,18 +1407,18 @@ Go then, find me a meet hour to draw Don
 Pedro and the Count Claudio alone. Tell them that
 you know that Hero loves me; intend a kind of zeal
 both to the Prince and Claudio, as in love of your
-brother's honor, who hath made this match, and his
-friend's reputation, who is thus like to be cozened
+brother&rsquo;s honor, who hath made this match, and his
+friend&rsquo;s reputation, who is thus like to be cozened
 with the semblance of a maid, that you have discovered
 thus. They will scarcely believe this without
 trial. Offer them instances, which shall bear no less
 likelihood than to see me at her chamber window,
-hear me call Margaret "Hero," hear Margaret term
-me "Claudio," and bring them to see this the very
+hear me call Margaret "&ldquo;Hero,&rdquo;" hear Margaret term
+me "&ldquo;Claudio,&rdquo;" and bring them to see this the very
 night before the intended wedding, for in the meantime
 I will so fashion the matter that Hero shall be
 absent, and there shall appear such seeming truth
-of Hero's disloyalty that jealousy shall be called
+of Hero&rsquo;s disloyalty that jealousy shall be called
 assurance and all the preparation overthrown.
 
 <speaker>DON JOHN</speaker>
@@ -1480,14 +1474,14 @@ his words are a very fantastical banquet, just so
 many strange dishes. May I be so converted and see
 with these eyes? I cannot tell; I think not. I will not
 be sworn but love may transform me to an oyster,
-but I'll take my oath on it, till he have made an
+but I&rsquo;ll take my oath on it, till he have made an
 oyster of me, he shall never make me such a fool.
 One woman is fair, yet I am well; another is wise, yet
 I am well; another virtuous, yet I am well; but till all
 graces be in one woman, one woman shall not
-come in my grace. Rich she shall be, that's certain;
-wise, or I'll none; virtuous, or I'll never cheapen
-her; fair, or I'll never look on her; mild, or come not
+come in my grace. Rich she shall be, that&rsquo;s certain;
+wise, or I&rsquo;ll none; virtuous, or I&rsquo;ll never cheapen
+her; fair, or I&rsquo;ll never look on her; mild, or come not
 near me; noble, or not I for an angel; of good
 discourse, an excellent musician, and her hair shall
 be of what color it please God. Ha! The Prince and
@@ -1511,10 +1505,10 @@ See you where Benedick hath hid himself?
 <speaker>CLAUDIO,</speaker>
 [<i>aside to Prince</i>]
 O, very well my lord. The music ended,
-We'll fit the kid-fox with a pennyworth.
+We&rsquo;ll fit the kid-fox with a pennyworth.
 
 <speaker>PRINCE</speaker>
-Come, Balthasar, we'll hear that song again.
+Come, Balthasar, we&rsquo;ll hear that song again.
 
 <speaker>BALTHASAR</speaker>
 O, good my lord, tax not so bad a voice
@@ -1538,7 +1532,7 @@ Do it in notes.
 
 <speaker>BALTHASAR</speaker>
 Note this before my notes:
-There's not a note of mine that's worth the noting.
+There&rsquo;s not a note of mine that&rsquo;s worth the noting.
 
 <speaker>PRINCE</speaker>
 Why, these are very crotchets that he speaks!
@@ -1547,9 +1541,9 @@ Note notes, forsooth, and nothing.	[<i>Music plays.</i>]
 <speaker>BENEDICK,</speaker>
 [<i>aside</i>]
   Now, divine air! Now is his soul
-ravished. Is it not strange that sheeps' guts should
-hale souls out of men's bodies? Well, a horn for my
-money, when all's done.
+ravished. Is it not strange that sheeps&rsquo; guts should
+hale souls out of men&rsquo;s bodies? Well, a horn for my
+money, when all&rsquo;s done.
 
 <speaker>BALTHASAR</speaker>
 [<i>sings</i>]
@@ -1578,7 +1572,7 @@ By my troth, a good song.
 And an ill singer, my lord.
 
 <speaker>PRINCE</speaker>
-Ha, no, no, faith, thou sing'st well enough for a
+Ha, no, no, faith, thou sing&rsquo;st well enough for a
 shift.
 
 <speaker>BENEDICK,</speaker>
@@ -1592,7 +1586,7 @@ could have come after it.
 <speaker>PRINCE</speaker>
 Yea, marry, dost thou hear, Balthasar? I pray
 thee get us some excellent music, for tomorrow
-night we would have it at the Lady Hero's chamber
+night we would have it at the Lady Hero&rsquo;s chamber
 window.
 
 <speaker>BALTHASAR</speaker>
@@ -1618,7 +1612,7 @@ abhor.
 
 <speaker>BENEDICK,</speaker>
 [<i>aside</i>]
-  Is 't possible? Sits the wind in that
+  Is &rsquo;t possible? Sits the wind in that
 corner?
 
 <speaker>LEONATO</speaker>
@@ -1669,7 +1663,7 @@ sure, hide himself in such reverence.
 
 <speaker>CLAUDIO,</speaker>
 [<i>aside to Prince</i>]
-  He hath ta'en th' infection.
+  He hath ta&rsquo;en th&rsquo; infection.
 Hold it up.
 
 <speaker>PRINCE</speaker>
@@ -1677,18 +1671,17 @@ Hath she made her affection known to
 Benedick?
 
 <speaker>LEONATO</speaker>
-No, and swears she never will. That's her
+No, and swears she never will. That&rsquo;s her
 torment.
 
 <speaker>CLAUDIO</speaker>
-'Tis true indeed, so your daughter says. "Shall
-<speaker>I,"</speaker>
-says she, "that have so oft encountered him with
-scorn, write to him that I love him?"
+&rsquo;Tis true indeed, so your daughter says. "&ldquo;Shall
+I,&rdquo;" says she, "&ldquo;that have so oft encountered him with
+scorn, write to him that I love him?&rdquo;"
 
 <speaker>LEONATO</speaker>
 This says she now when she is beginning to
-write to him, for she'll be up twenty times a night,
+write to him, for she&rsquo;ll be up twenty times a night,
 and there will she sit in her smock till she have writ
 a sheet of paper. My daughter tells us all.
 
@@ -1698,7 +1691,7 @@ a pretty jest your daughter told us of.
 
 <speaker>LEONATO</speaker>
 O, when she had writ it and was reading it
-over, she found "Benedick" and "Beatrice" between
+over, she found "&ldquo;Benedick&rdquo;" and "&ldquo;Beatrice&rdquo;" between
 the sheet?
 
 <speaker>CLAUDIO</speaker>
@@ -1708,15 +1701,14 @@ That.
 O, she tore the letter into a thousand halfpence,
 railed at herself that she should be so
 immodest to write to one that she knew would flout
-her. "I measure him," says she, "by my own spirit,
+her. "&ldquo;I measure him,&rdquo;" says she, "&ldquo;by my own spirit,
 for I should flout him if he writ to me, yea, though I
-love him, I should."
+love him, I should.&rdquo;"
 
 <speaker>CLAUDIO</speaker>
 Then down upon her knees she falls, weeps,
 sobs, beats her heart, tears her hair, prays, curses:
-<speaker>"O</speaker>
-sweet Benedick, God give me patience!"
+"&ldquo;O sweet Benedick, God give me patience!&rdquo;"
 
 <speaker>LEONATO</speaker>
 She doth indeed, my daughter says so, and
@@ -1734,7 +1726,7 @@ and torment the poor lady worse.
 
 <speaker>PRINCE</speaker>
 An he should, it were an alms to hang him.
-She's an excellent sweet lady, and, out of all suspicion,
+She&rsquo;s an excellent sweet lady, and, out of all suspicion,
 she is virtuous.
 
 <speaker>CLAUDIO</speaker>
@@ -1767,7 +1759,7 @@ accustomed crossness.
 
 <speaker>PRINCE</speaker>
 She doth well. If she should make tender of
-her love, 'tis very possible he'll scorn it, for the man,
+her love, &rsquo;tis very possible he&rsquo;ll scorn it, for the man,
 as you know all, hath a contemptible spirit.
 
 <speaker>CLAUDIO</speaker>
@@ -1808,7 +1800,7 @@ Never tell him, my lord, let her wear it out
 with good counsel.
 
 <speaker>LEONATO</speaker>
-Nay, that's impossible; she may wear her
+Nay, that&rsquo;s impossible; she may wear her
 heart out first.
 
 <speaker>PRINCE</speaker>
@@ -1832,8 +1824,8 @@ expectation.
   Let there be the same net
 spread for her, and that must your daughter and her
 gentlewomen carry. The sport will be when they
-hold one an opinion of another's dotage, and no
-such matter. That's the scene that I would see,
+hold one an opinion of another&rsquo;s dotage, and no
+such matter. That&rsquo;s the scene that I would see,
 which will be merely a dumb show. Let us send her
 to call him in to dinner.
 [<i>Prince, Leonato, and Claudio exit.</i>]
@@ -1850,8 +1842,8 @@ come from her. They say, too, that she will rather
 die than give any sign of affection. I did never think
 to marry. I must not seem proud. Happy are they
 that hear their detractions and can put them to
-mending. They say the lady is fair; 'tis a truth, I can
-bear them witness. And virtuous; 'tis so, I cannot
+mending. They say the lady is fair; &rsquo;tis a truth, I can
+bear them witness. And virtuous; &rsquo;tis so, I cannot
 reprove it. And wise, but for loving me; by my troth,
 it is no addition to her wit, nor no great argument of
 her folly, for I will be horribly in love with her! I
@@ -1864,7 +1856,7 @@ these paper bullets of the brain awe a man from the
 career of his humor? No! The world must be peopled.
 When I said I would die a bachelor, I did not
 think I should live till I were married. Here comes
-Beatrice. By this day, she's a fair lady. I do spy some
+Beatrice. By this day, she&rsquo;s a fair lady. I do spy some
 marks of love in her.
 
 [<i>Enter Beatrice.</i>]
@@ -1886,16 +1878,16 @@ You take pleasure then in the message?
 
 <speaker>BEATRICE</speaker>
 Yea, just so much as you may take upon a
-knife's point and choke a daw withal. You have no
+knife&rsquo;s point and choke a daw withal. You have no
 stomach, signior. Fare you well.	[<i>She exits.</i>]
 
 <speaker>BENEDICK</speaker>
-Ha! "Against my will I am sent to bid you
-come in to dinner." There's a double meaning in
-that. "I took no more pains for those thanks than
-you took pains to thank me." That's as much as to
-say "Any pains that I take for you is as easy as
-thanks." If I do not take pity of her, I am a villain; if I
+Ha! "&ldquo;Against my will I am sent to bid you
+come in to dinner.&rdquo;" There&rsquo;s a double meaning in
+that. "&ldquo;I took no more pains for those thanks than
+you took pains to thank me.&rdquo;" That&rsquo;s as much as to
+say "&ldquo;Any pains that I take for you is as easy as
+thanks.&rdquo;" If I do not take pity of her, I am a villain; if I
 do not love her, I am a Jew. I will go get her picture.
 [<i>He exits.</i>]
 
@@ -1921,7 +1913,7 @@ To listen our propose. This is thy office.
 Bear thee well in it, and leave us alone.
 
 <speaker>MARGARET</speaker>
-I'll make her come, I warrant you, presently.
+I&rsquo;ll make her come, I warrant you, presently.
 [<i>She exits.</i>]
 
 <speaker>HERO</speaker>
@@ -1932,7 +1924,7 @@ When I do name him, let it be thy part
 To praise him more than ever man did merit.
 My talk to thee must be how Benedick
 Is sick in love with Beatrice. Of this matter
-Is little Cupid's crafty arrow made,
+Is little Cupid&rsquo;s crafty arrow made,
 That only wounds by hearsay. Now begin,
 For look where Beatrice like a lapwing runs
 Close by the ground, to hear our conference.
@@ -1941,7 +1933,7 @@ Close by the ground, to hear our conference.
 
 <speaker>URSULA,</speaker>
 [<i>aside to Hero</i>]
-The pleasant'st angling is to see the fish
+The pleasant&rsquo;st angling is to see the fish
 Cut with her golden oars the silver stream
 And greedily devour the treacherous bait.
 So angle we for Beatrice, who even now
@@ -1981,7 +1973,7 @@ As ever Beatrice shall couch upon?
 <speaker>HERO</speaker>
 O god of love! I know he doth deserve
 As much as may be yielded to a man,
-But Nature never framed a woman's heart
+But Nature never framed a woman&rsquo;s heart
 Of prouder stuff than that of Beatrice.
 Disdain and scorn ride sparkling in her eyes,
 Misprizing what they look on, and her wit
@@ -1993,7 +1985,7 @@ She is so self-endeared.
 <speaker>URSULA</speaker>
 Sure, I think so,
 And therefore certainly it were not good
-She knew his love, lest she'll make sport at it.
+She knew his love, lest she&rsquo;ll make sport at it.
 
 <speaker>HERO</speaker>
 Why, you speak truth. I never yet saw man,
@@ -2031,7 +2023,7 @@ Yet tell her of it. Hear what she will say.
 <speaker>HERO</speaker>
 No, rather I will go to Benedick
 And counsel him to fight against his passion;
-And truly I'll devise some honest slanders
+And truly I&rsquo;ll devise some honest slanders
 To stain my cousin with. One doth not know
 How much an ill word may empoison liking.
 
@@ -2061,13 +2053,13 @@ When are you married, madam?
 
 <speaker>HERO</speaker>
 Why, every day, tomorrow. Come, go in.
-I'll show thee some attires and have thy counsel
+I&rsquo;ll show thee some attires and have thy counsel
 Which is the best to furnish me tomorrow.
 [<i>They move away from the bower.</i>]
 
 <speaker>URSULA,</speaker>
 [<i>aside to Hero</i>]
-She's limed, I warrant you. We have caught her,
+She&rsquo;s limed, I warrant you. We have caught her,
 madam.
 
 <speaker>HERO,</speaker>
@@ -2099,7 +2091,7 @@ I do but stay till your marriage be consummate,
 and then go I toward Aragon.
 
 <speaker>CLAUDIO</speaker>
-I'll bring you thither, my lord, if you'll vouchsafe
+I&rsquo;ll bring you thither, my lord, if you&rsquo;ll vouchsafe
 me.
 
 <speaker>PRINCE</speaker>
@@ -2108,7 +2100,7 @@ gloss of your marriage as to show a child his new
 coat and forbid him to wear it. I will only be bold
 with Benedick for his company, for from the crown
 of his head to the sole of his foot he is all mirth. He
-hath twice or thrice cut Cupid's bowstring, and the
+hath twice or thrice cut Cupid&rsquo;s bowstring, and the
 little hangman dare not shoot at him. He hath a
 heart as sound as a bell, and his tongue is the
 clapper, for what his heart thinks, his tongue
@@ -2124,7 +2116,7 @@ So say I. Methinks you are sadder.
 I hope he be in love.
 
 <speaker>PRINCE</speaker>
-Hang him, truant! There's no true drop of
+Hang him, truant! There&rsquo;s no true drop of
 blood in him to be truly touched with love. If he be
 sad, he wants money.
 
@@ -2165,14 +2157,14 @@ fool for fancy, as you would have it appear he is.
 
 <speaker>CLAUDIO</speaker>
 If he be not in love with some woman, there
-is no believing old signs. He brushes his hat o'
+is no believing old signs. He brushes his hat o&rsquo;
 mornings. What should that bode?
 
 <speaker>PRINCE</speaker>
-Hath any man seen him at the barber's?
+Hath any man seen him at the barber&rsquo;s?
 
 <speaker>CLAUDIO</speaker>
-No, but the barber's man hath been seen
+No, but the barber&rsquo;s man hath been seen
 with him, and the old ornament of his cheek hath
 already stuffed tennis balls.
 
@@ -2185,7 +2177,7 @@ Nay, he rubs himself with civet. Can you smell
 him out by that?
 
 <speaker>CLAUDIO</speaker>
-That's as much as to say, the sweet youth's in
+That&rsquo;s as much as to say, the sweet youth&rsquo;s in
 love.
 
 <speaker>PRINCE</speaker>
@@ -2231,7 +2223,7 @@ hobby-horses must not hear.
 For my life, to break with him about Beatrice!
 
 <speaker>CLAUDIO</speaker>
-'Tis even so. Hero and Margaret have by this
+&rsquo;Tis even so. Hero and Margaret have by this
 played their parts with Beatrice, and then the two
 bears will not bite one another when they meet.
 
@@ -2241,7 +2233,7 @@ bears will not bite one another when they meet.
 My lord and brother, God save you.
 
 <speaker>PRINCE</speaker>
-Good e'en, brother.
+Good e&rsquo;en, brother.
 
 <speaker>DON JOHN</speaker>
 If your leisure served, I would speak with
@@ -2255,7 +2247,7 @@ If it please you. Yet Count Claudio may
 hear, for what I would speak of concerns him.
 
 <speaker>PRINCE</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>DON JOHN,</speaker>
 [<i>to Claudio</i>]
@@ -2282,7 +2274,7 @@ your ensuing marriage--surely suit ill spent and
 labor ill bestowed.
 
 <speaker>PRINCE</speaker>
-Why, what's the matter?
+Why, what&rsquo;s the matter?
 
 <speaker>DON JOHN</speaker>
 I came hither to tell you; and, circumstances
@@ -2293,8 +2285,8 @@ a-talking of, the lady is disloyal.
 Who, Hero?
 
 <speaker>DON JOHN</speaker>
-Even she: Leonato's Hero, your Hero, every
-man's Hero.
+Even she: Leonato&rsquo;s Hero, your Hero, every
+man&rsquo;s Hero.
 
 <speaker>CLAUDIO</speaker>
 Disloyal?
@@ -2362,7 +2354,7 @@ salvation, body and soul.
 <speaker>DOGBERRY</speaker>
 Nay, that were a punishment too good for
 them if they should have any allegiance in them,
-being chosen for the Prince's watch.
+being chosen for the Prince&rsquo;s watch.
 
 <speaker>VERGES</speaker>
 Well, give them their charge, neighbor
@@ -2395,7 +2387,7 @@ such vanity. You are thought here to be the most
 senseless and fit man for the constable of the watch;
 therefore bear you the lantern. This is your charge:
 you shall comprehend all vagrom men; you are to
-bid any man stand, in the Prince's name.
+bid any man stand, in the Prince&rsquo;s name.
 
 <speaker>SEACOAL</speaker>
 How if he will not stand?
@@ -2407,11 +2399,11 @@ and thank God you are rid of a knave.
 
 <speaker>VERGES</speaker>
 If he will not stand when he is bidden, he is
-none of the Prince's subjects.
+none of the Prince&rsquo;s subjects.
 
 <speaker>DOGBERRY</speaker>
 True, and they are to meddle with none but
-the Prince's subjects.--You shall also make no
+the Prince&rsquo;s subjects.--You shall also make no
 noise in the streets; for, for the watch to babble and
 to talk is most tolerable and not to be endured.
 
@@ -2478,30 +2470,30 @@ not hear her lamb when it baas will never answer a
 calf when he bleats.
 
 <speaker>VERGES</speaker>
-'Tis very true.
+&rsquo;Tis very true.
 
 <speaker>DOGBERRY</speaker>
 This is the end of the charge. You, constable,
-are to present the Prince's own person. If you
+are to present the Prince&rsquo;s own person. If you
 meet the Prince in the night, you may stay him.
 
 <speaker>VERGES</speaker>
-Nay, by 'r Lady, that I think he cannot.
+Nay, by &rsquo;r Lady, that I think he cannot.
 
 <speaker>DOGBERRY</speaker>
-Five shillings to one on 't, with any man that
+Five shillings to one on &rsquo;t, with any man that
 knows the statutes, he may stay him--marry, not
 without the Prince be willing, for indeed the watch
 ought to offend no man, and it is an offense to stay a
 man against his will.
 
 <speaker>VERGES</speaker>
-By 'r Lady, I think it be so.
+By &rsquo;r Lady, I think it be so.
 
 <speaker>DOGBERRY</speaker>
 Ha, ah ha!--Well, masters, goodnight. An
 there be any matter of weight chances, call up me.
-Keep your fellows' counsels and your own, and
+Keep your fellows&rsquo; counsels and your own, and
 goodnight.--Come, neighbor.
 [<i>Dogberry and Verges begin to exit.</i>]
 
@@ -2512,7 +2504,7 @@ to bed.
 
 <speaker>DOGBERRY</speaker>
 One word more, honest neighbors. I pray
-you watch about Signior Leonato's door, for the
+you watch about Signior Leonato&rsquo;s door, for the
 wedding being there tomorrow, there is a great coil
 tonight. Adieu, be vigitant, I beseech you.
 [<i>Dogberry and Verges exit.</i>]
@@ -2582,7 +2574,7 @@ I mean the fashion.
 Yes, the fashion is the fashion.
 
 <speaker>BORACHIO</speaker>
-Tush, I may as well say the fool's the fool.
+Tush, I may as well say the fool&rsquo;s the fool.
 But seest thou not what a deformed thief this
 fashion is?
 
@@ -2596,14 +2588,14 @@ down like a gentleman. I remember his name.
 Didst thou not hear somebody?
 
 <speaker>CONRADE</speaker>
-No, 'twas the vane on the house.
+No, &rsquo;twas the vane on the house.
 
 <speaker>BORACHIO</speaker>
 Seest thou not, I say, what a deformed thief
 this fashion is, how giddily he turns about all the
 hot bloods between fourteen and five-and-thirty,
-sometimes fashioning them like Pharaoh's soldiers
-in the reechy painting, sometimes like god Bel's
+sometimes fashioning them like Pharaoh&rsquo;s soldiers
+in the reechy painting, sometimes like god Bel&rsquo;s
 priests in the old church window, sometimes like
 the shaven Hercules in the smirched worm-eaten
 tapestry, where his codpiece seems as massy as his
@@ -2618,9 +2610,9 @@ fashion?
 
 <speaker>BORACHIO</speaker>
 Not so, neither. But know that I have tonight
-wooed Margaret, the Lady Hero's gentlewoman,
+wooed Margaret, the Lady Hero&rsquo;s gentlewoman,
 by the name of Hero. She leans me out at
-her mistress' chamber window, bids me a thousand
+her mistress&rsquo; chamber window, bids me a thousand
 times goodnight. I tell this tale vilely. I should first
 tell thee how the Prince, Claudio, and my master,
 planted and placed and possessed by my master
@@ -2640,11 +2632,11 @@ slander that Don John had made, away went Claudio
 enraged, swore he would meet her as he was
 appointed next morning at the temple, and there,
 before the whole congregation, shame her with
-what he saw o'ernight and send her home again
+what he saw o&rsquo;ernight and send her home again
 without a husband.
 
 <speaker>FIRST WATCHMAN</speaker>
-We charge you in the Prince's name
+We charge you in the Prince&rsquo;s name
 stand!
 
 <speaker>SEACOAL</speaker>
@@ -2665,7 +2657,7 @@ Masters, masters--
 
 <speaker>FIRST WATCHMAN,</speaker>
 [<i>to Borachio</i>]
-  You'll be made bring
+  You&rsquo;ll be made bring
 Deformed forth, I warrant you.
 
 <speaker>DOGBERRY,</speaker>
@@ -2676,11 +2668,11 @@ speak, we charge you, let us obey you to go with us.
 <speaker>BORACHIO,</speaker>
 [<i>to Conrade</i>]
   We are like to prove a goodly
-commodity, being taken up of these men's bills.
+commodity, being taken up of these men&rsquo;s bills.
 
 <speaker>CONRADE</speaker>
 A commodity in question, I warrant you.--
-Come, we'll obey you.
+Come, we&rsquo;ll obey you.
 [<i>They exit.</i>]
 
 <b id="act-3-scene-4" class="scene-header">Scene 4</b>
@@ -2705,39 +2697,39 @@ Troth, I think your other rebato were
 better.
 
 <speaker>HERO</speaker>
-No, pray thee, good Meg, I'll wear this.
+No, pray thee, good Meg, I&rsquo;ll wear this.
 
 <speaker>MARGARET</speaker>
-By my troth, 's not so good, and I warrant
+By my troth, &rsquo;s not so good, and I warrant
 your cousin will say so.
 
 <speaker>HERO</speaker>
-My cousin's a fool, and thou art another. I'll
+My cousin&rsquo;s a fool, and thou art another. I&rsquo;ll
 wear none but this.
 
 <speaker>MARGARET</speaker>
 I like the new tire within excellently, if the
-hair were a thought browner; and your gown's a
-most rare fashion, i' faith. I saw the Duchess of
-Milan's gown that they praise so.
+hair were a thought browner; and your gown&rsquo;s a
+most rare fashion, i&rsquo; faith. I saw the Duchess of
+Milan&rsquo;s gown that they praise so.
 
 <speaker>HERO</speaker>
 O, that exceeds, they say.
 
 <speaker>MARGARET</speaker>
-By my troth, 's but a nightgown in respect
-of yours--cloth o' gold, and cuts, and laced with
+By my troth, &rsquo;s but a nightgown in respect
+of yours--cloth o&rsquo; gold, and cuts, and laced with
 silver, set with pearls, down sleeves, side sleeves,
 and skirts round underborne with a bluish tinsel.
 But for a fine, quaint, graceful, and excellent fashion,
-yours is worth ten on 't.
+yours is worth ten on &rsquo;t.
 
 <speaker>HERO</speaker>
 God give me joy to wear it, for my heart is
 exceeding heavy.
 
 <speaker>MARGARET</speaker>
-'Twill be heavier soon by the weight of a
+&rsquo;Twill be heavier soon by the weight of a
 man.
 
 <speaker>HERO</speaker>
@@ -2747,11 +2739,11 @@ Fie upon thee! Art not ashamed?
 Of what, lady? Of speaking honorably? Is
 not marriage honorable in a beggar? Is not your
 lord honorable without marriage? I think you
-would have me say "Saving your reverence, a husband."
+would have me say "&ldquo;Saving your reverence, a husband.&rdquo;"
 An bad thinking do not wrest true speaking,
-I'll offend nobody. Is there any harm in "the heavier
-for a husband"? None, I think, an it be the right
-husband and the right wife. Otherwise, 'tis light and
+I&rsquo;ll offend nobody. Is there any harm in "&ldquo;the heavier
+for a husband&rdquo;"? None, I think, an it be the right
+husband and the right wife. Otherwise, &rsquo;tis light and
 not heavy. Ask my lady Beatrice else. Here she
 comes.
 
@@ -2770,12 +2762,12 @@ Why, how now? Do you speak in the sick tune?
 I am out of all other tune, methinks.
 
 <speaker>MARGARET</speaker>
-Clap 's into "Light o' love." That goes
-without a burden. Do you sing it, and I'll dance it.
+Clap &rsquo;s into "&ldquo;Light o&rsquo; love.&rdquo;" That goes
+without a burden. Do you sing it, and I&rsquo;ll dance it.
 
 <speaker>BEATRICE</speaker>
-You light o' love with your heels! Then, if
-your husband have stables enough, you'll see he
+You light o&rsquo; love with your heels! Then, if
+your husband have stables enough, you&rsquo;ll see he
 shall lack no barns.
 
 <speaker>MARGARET</speaker>
@@ -2783,7 +2775,7 @@ O, illegitimate construction! I scorn that
 with my heels.
 
 <speaker>BEATRICE</speaker>
-'Tis almost five o'clock, cousin. 'Tis time
+&rsquo;Tis almost five o&rsquo;clock, cousin. &rsquo;Tis time
 you were ready. By my troth, I am exceeding ill.
 Heigh-ho!
 
@@ -2794,7 +2786,7 @@ For a hawk, a horse, or a husband?
 For the letter that begins them all, H.
 
 <speaker>MARGARET</speaker>
-Well, an you be not turned Turk, there's no
+Well, an you be not turned Turk, there&rsquo;s no
 more sailing by the star.
 
 <speaker>BEATRICE</speaker>
@@ -2802,7 +2794,7 @@ What means the fool, trow?
 
 <speaker>MARGARET</speaker>
 Nothing, I; but God send everyone their
-heart's desire.
+heart&rsquo;s desire.
 
 <speaker>HERO</speaker>
 These gloves the Count sent me, they are an
@@ -2812,7 +2804,7 @@ excellent perfume.
 I am stuffed, cousin. I cannot smell.
 
 <speaker>MARGARET</speaker>
-A maid, and stuffed! There's goodly catching
+A maid, and stuffed! There&rsquo;s goodly catching
 of cold.
 
 <speaker>BEATRICE</speaker>
@@ -2833,7 +2825,7 @@ and lay it to your heart. It is the only thing for
 a qualm.
 
 <speaker>HERO</speaker>
-There thou prick'st her with a thistle.
+There thou prick&rsquo;st her with a thistle.
 
 <speaker>BEATRICE</speaker>
 Benedictus! Why benedictus? You have some
@@ -2842,7 +2834,7 @@ moral in this benedictus?
 <speaker>MARGARET</speaker>
 Moral? No, by my troth, I have no moral
 meaning; I meant plain holy thistle. You may think
-perchance that I think you are in love. Nay, by 'r
+perchance that I think you are in love. Nay, by &rsquo;r
 Lady, I am not such a fool to think what I list, nor I
 list not to think what I can, nor indeed I cannot
 think, if I would think my heart out of thinking, that
@@ -2916,7 +2908,7 @@ Neighbors, you are tedious.
 
 <speaker>DOGBERRY</speaker>
 It pleases your Worship to say so, but we
-are the poor duke's officers. But truly, for mine
+are the poor duke&rsquo;s officers. But truly, for mine
 own part, if I were as tedious as a king, I could find
 in my heart to bestow it all of your Worship.
 
@@ -2924,8 +2916,8 @@ in my heart to bestow it all of your Worship.
 All thy tediousness on me, ah?
 
 <speaker>DOGBERRY</speaker>
-Yea, an 'twere a thousand pound more
-than 'tis, for I hear as good exclamation on your
+Yea, an &rsquo;twere a thousand pound more
+than &rsquo;tis, for I hear as good exclamation on your
 Worship as of any man in the city, and though I be
 but a poor man, I am glad to hear it.
 
@@ -2937,16 +2929,16 @@ I would fain know what you have to say.
 
 <speaker>VERGES</speaker>
 Marry, sir, our watch tonight, excepting your
-Worship's presence, ha' ta'en a couple of as arrant
+Worship&rsquo;s presence, ha&rsquo; ta&rsquo;en a couple of as arrant
 knaves as any in Messina.
 
 <speaker>DOGBERRY</speaker>
 A good old man, sir. He will be talking. As
-they say, "When the age is in, the wit is out." God
-help us, it is a world to see!--Well said, i' faith,
-neighbor Verges.--Well, God's a good man. An two
+they say, "&ldquo;When the age is in, the wit is out.&rdquo;" God
+help us, it is a world to see!--Well said, i&rsquo; faith,
+neighbor Verges.--Well, God&rsquo;s a good man. An two
 men ride of a horse, one must ride behind. An
-honest soul, i' faith, sir, by my troth he is, as ever
+honest soul, i&rsquo; faith, sir, by my troth he is, as ever
 broke bread, but God is to be worshiped, all men
 are not alike, alas, good neighbor.
 
@@ -2983,7 +2975,7 @@ My lord, they stay for you to give your
 daughter to her husband.
 
 <speaker>LEONATO</speaker>
-I'll wait upon them. I am ready.
+I&rsquo;ll wait upon them. I am ready.
 [<i>He exits, with the Messenger.</i>]
 
 <speaker>DOGBERRY</speaker>
@@ -2996,7 +2988,7 @@ And we must do it wisely.
 
 <speaker>DOGBERRY</speaker>
 We will spare for no wit, I warrant you.
-Here's that shall drive some of them to a noncome.
+Here&rsquo;s that shall drive some of them to a noncome.
 Only get the learned writer to set down our excommunication
 and meet me at the jail.
 [<i>They exit.</i>]
@@ -3076,7 +3068,7 @@ Nothing, unless you render her again.
 Sweet prince, you learn me noble thankfulness.--
 There, Leonato, take her back again.
 Give not this rotten orange to your friend.
-She's but the sign and semblance of her honor.
+She&rsquo;s but the sign and semblance of her honor.
 Behold how like a maid she blushes here!
 O, what authority and show of truth
 Can cunning sin cover itself withal!
@@ -3145,8 +3137,8 @@ True! O God!
 
 <speaker>CLAUDIO</speaker>
 Leonato, stand I here?
-Is this the Prince? Is this the Prince's brother?
-Is this face Hero's? Are our eyes our own?
+Is this the Prince? Is this the Prince&rsquo;s brother?
+Is this face Hero&rsquo;s? Are our eyes our own?
 
 <speaker>LEONATO</speaker>
 All this is so, but what of this, my lord?
@@ -3172,7 +3164,7 @@ With any just reproach?
 
 <speaker>CLAUDIO</speaker>
 Marry, that can Hero!
-Hero itself can blot out Hero's virtue.
+Hero itself can blot out Hero&rsquo;s virtue.
 What man was he talked with you yesternight
 Out at your window betwixt twelve and one?
 Now, if you are a maid, answer to this.
@@ -3203,13 +3195,13 @@ If half thy outward graces had been placed
 About thy thoughts and counsels of thy heart!
 But fare thee well, most foul, most fair. Farewell,
 Thou pure impiety and impious purity.
-For thee I'll lock up all the gates of love
+For thee I&rsquo;ll lock up all the gates of love
 And on my eyelids shall conjecture hang,
 To turn all beauty into thoughts of harm,
 And never shall it more be gracious.
 
 <speaker>LEONATO</speaker>
-Hath no man's dagger here a point for me?
+Hath no man&rsquo;s dagger here a point for me?
 [<i>Hero falls.</i>]
 
 <speaker>BEATRICE</speaker>
@@ -3255,18 +3247,18 @@ For, did I think thou wouldst not quickly die,
 Thought I thy spirits were stronger than thy shames,
 Myself would, on the rearward of reproaches,
 Strike at thy life. Grieved I I had but one?
-Chid I for that at frugal Nature's frame?
+Chid I for that at frugal Nature&rsquo;s frame?
 O, one too much by thee! Why had I one?
 Why ever wast thou lovely in my eyes?
 Why had I not with charitable hand
-Took up a beggar's issue at my gates,
+Took up a beggar&rsquo;s issue at my gates,
 Who, smirched thus, and mired with infamy,
-I might have said "No part of it is mine;
-This shame derives itself from unknown loins"?
+I might have said "&ldquo;No part of it is mine;
+This shame derives itself from unknown loins&rdquo;"?
 But mine, and mine I loved, and mine I praised,
 And mine that I was proud on, mine so much
 That I myself was to myself not mine,
-Valuing of her--why she, O she, is fall'n
+Valuing of her--why she, O she, is fall&rsquo;n
 Into a pit of ink, that the wide sea
 Hath drops too few to wash her clean again,
 And salt too little which may season give
@@ -3317,7 +3309,7 @@ Friar, it cannot be.
 Thou seest that all the grace that she hath left
 Is that she will not add to her damnation
 A sin of perjury. She not denies it.
-Why seek'st thou then to cover with excuse
+Why seek&rsquo;st thou then to cover with excuse
 That which appears in proper nakedness?
 
 <speaker>FRIAR</speaker>
@@ -3362,7 +3354,7 @@ Your daughter here the princes left for dead.
 Let her awhile be secretly kept in,
 And publish it that she is dead indeed.
 Maintain a mourning ostentation,
-And on your family's old monument
+And on your family&rsquo;s old monument
 Hang mournful epitaphs and do all rites
 That appertain unto a burial.
 
@@ -3384,7 +3376,7 @@ Why then we rack the value, then we find
 The virtue that possession would not show us
 Whiles it was ours. So will it fare with Claudio.
 When he shall hear she died upon his words,
-Th' idea of her life shall sweetly creep
+Th&rsquo; idea of her life shall sweetly creep
 Into his study of imagination,
 And every lovely organ of her life
 Shall come appareled in more precious habit,
@@ -3398,7 +3390,7 @@ Let this be so, and doubt not but success
 Will fashion the event in better shape
 Than I can lay it down in likelihood.
 But if all aim but this be leveled false,
-The supposition of the lady's death
+The supposition of the lady&rsquo;s death
 Will quench the wonder of her infamy.
 And if it sort not well, you may conceal her,
 As best befits her wounded reputation,
@@ -3418,7 +3410,7 @@ Being that I flow in grief,
 The smallest twine may lead me.
 
 <speaker>FRIAR</speaker>
-'Tis well consented. Presently away,
+&rsquo;Tis well consented. Presently away,
    For to strange sores strangely they strain the
    cure.--
 Come, lady, die to live. This wedding day
@@ -3456,7 +3448,7 @@ A very even way, but no such friend.
 May a man do it?
 
 <speaker>BEATRICE</speaker>
-It is a man's office, but not yours.
+It is a man&rsquo;s office, but not yours.
 
 <speaker>BENEDICK</speaker>
 I do love nothing in the world so well as
@@ -3530,7 +3522,7 @@ Beatrice--
 In faith, I will go.
 
 <speaker>BENEDICK</speaker>
-We'll be friends first.
+We&rsquo;ll be friends first.
 
 <speaker>BEATRICE</speaker>
 You dare easier be friends with me than
@@ -3620,7 +3612,7 @@ Which be the malefactors?
 Marry, that am I, and my partner.
 
 <speaker>VERGES</speaker>
-Nay, that's certain, we have the exhibition to
+Nay, that&rsquo;s certain, we have the exhibition to
 examine.
 
 <speaker>SEXTON</speaker>
@@ -3637,7 +3629,7 @@ What is your name, friend?
 Borachio.
 
 <speaker>DOGBERRY</speaker>
-Pray, write down "Borachio."--Yours,
+Pray, write down "&ldquo;Borachio."--Yours,
 sirrah?
 
 <speaker>CONRADE</speaker>
@@ -3645,7 +3637,7 @@ I am a gentleman, sir, and my name is
 Conrade.
 
 <speaker>DOGBERRY</speaker>
-Write down "Master Gentleman Conrade."--
+Write down "&ldquo;Master Gentleman Conrade."--
 Masters, do you serve God?
 
 <speaker>BORACHIO/CONRADE</speaker>
@@ -3672,7 +3664,7 @@ thought you are false knaves.
 Sir, I say to you we are none.
 
 <speaker>DOGBERRY</speaker>
-Well, stand aside.--'Fore God, they are
+Well, stand aside.--&rsquo;Fore God, they are
 both in a tale. Have you writ down that they are
 none?
 
@@ -3682,17 +3674,17 @@ examine. You must call forth the watch that are
 their accusers.
 
 <speaker>DOGBERRY</speaker>
-Yea, marry, that's the eftest way.--Let
+Yea, marry, that&rsquo;s the eftest way.--Let
 the watch come forth. Masters, I charge you in the
-Prince's name, accuse these men.
+Prince&rsquo;s name, accuse these men.
 
 <speaker>FIRST WATCHMAN</speaker>
 This man said, sir, that Don John, the
-Prince's brother, was a villain.
+Prince&rsquo;s brother, was a villain.
 
 <speaker>DOGBERRY</speaker>
 Write down Prince John a villain. Why,
-this is flat perjury, to call a prince's brother villain!
+this is flat perjury, to call a prince&rsquo;s brother villain!
 
 <speaker>BORACHIO</speaker>
 Master constable--
@@ -3741,7 +3733,7 @@ Prince John is this morning secretly stolen away.
 Hero was in this manner accused, in this very
 manner refused, and upon the grief of this suddenly
 died.--Master constable, let these men be bound
-and brought to Leonato's. I will go before and show
+and brought to Leonato&rsquo;s. I will go before and show
 him their examination.	[<i>He exits.</i>]
 
 <speaker>DOGBERRY</speaker>
@@ -3754,8 +3746,8 @@ Let them be in the hands--
 Off, coxcomb!
 
 <speaker>DOGBERRY</speaker>
-God's my life, where's the Sexton? Let
-him write down the Prince's officer "coxcomb."
+God&rsquo;s my life, where&rsquo;s the Sexton? Let
+him write down the Prince&rsquo;s officer "&ldquo;coxcomb.&rdquo;"
 Come, bind them.--Thou naughty varlet!
 
 <speaker>CONRADE</speaker>
@@ -3783,9 +3775,9 @@ had been writ down an ass!
 <hr>
 [<i>Enter Leonato and his brother.</i>]
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 If you go on thus, you will kill yourself,
-And 'tis not wisdom thus to second grief
+And &rsquo;tis not wisdom thus to second grief
 Against yourself.
 
 <speaker>LEONATO</speaker>
@@ -3802,7 +3794,7 @@ And let it answer every strain for strain,
 As thus for thus, and such a grief for such,
 In every lineament, branch, shape, and form.
 If such a one will smile and stroke his beard,
-Bid sorrow wag, cry "hem" when he should
+Bid sorrow wag, cry "&ldquo;hem&rdquo;" when he should
 groan,
 Patch grief with proverbs, make misfortune drunk
 With candle-wasters, bring him yet to me,
@@ -3811,17 +3803,17 @@ But there is no such man. For, brother, men
 Can counsel and speak comfort to that grief
 Which they themselves not feel, but tasting it,
 Their counsel turns to passion, which before
-Would give preceptial med'cine to rage,
+Would give preceptial med&rsquo;cine to rage,
 Fetter strong madness in a silken thread,
 Charm ache with air and agony with words.
-No, no, 'tis all men's office to speak patience
+No, no, &rsquo;tis all men&rsquo;s office to speak patience
 To those that wring under the load of sorrow,
-But no man's virtue nor sufficiency
+But no man&rsquo;s virtue nor sufficiency
 To be so moral when he shall endure
 The like himself. Therefore give me no counsel.
 My griefs cry louder than advertisement.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Therein do men from children nothing differ.
 
 <speaker>LEONATO</speaker>
@@ -3831,23 +3823,23 @@ That could endure the toothache patiently,
 However they have writ the style of gods
 And made a push at chance and sufferance.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Yet bend not all the harm upon yourself.
 Make those that do offend you suffer too.
 
 <speaker>LEONATO</speaker>
-There thou speak'st reason. Nay, I will do so.
+There thou speak&rsquo;st reason. Nay, I will do so.
 My soul doth tell me Hero is belied,
 And that shall Claudio know; so shall the Prince
 And all of them that thus dishonor her.
 
 [<i>Enter Prince and Claudio.</i>]
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Here comes the Prince and Claudio hastily.
 
 <speaker>PRINCE</speaker>
-Good e'en, good e'en.
+Good e&rsquo;en, good e&rsquo;en.
 
 <speaker>CLAUDIO</speaker>
 Good day to both of you.
@@ -3866,7 +3858,7 @@ Are you so hasty now? Well, all is one.
 <speaker>PRINCE</speaker>
 Nay, do not quarrel with us, good old man.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 If he could right himself with quarrelling,
 Some of us would lie low.
 
@@ -3911,7 +3903,7 @@ You say not right, old man.
 
 <speaker>LEONATO</speaker>
 My lord, my lord,
-I'll prove it on his body if he dare,
+I&rsquo;ll prove it on his body if he dare,
 Despite his nice fence and his active practice,
 His May of youth and bloom of lustihood.
 
@@ -3920,21 +3912,21 @@ Away! I will not have to do with you.
 
 <speaker>LEONATO</speaker>
 Canst thou so daff me? Thou hast killed my child.
-If thou kill'st me, boy, thou shalt kill a man.
+If thou kill&rsquo;st me, boy, thou shalt kill a man.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 He shall kill two of us, and men indeed,
-But that's no matter. Let him kill one first.
+But that&rsquo;s no matter. Let him kill one first.
 Win me and wear me! Let him answer me.--
 Come, follow me, boy. Come, sir boy, come, follow
 me.
-Sir boy, I'll whip you from your foining fence,
+Sir boy, I&rsquo;ll whip you from your foining fence,
 Nay, as I am a gentleman, I will.
 
 <speaker>LEONATO</speaker>
 Brother--
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Content yourself. God knows I loved my niece,
 And she is dead, slandered to death by villains
 That dare as well answer a man indeed
@@ -3944,26 +3936,25 @@ Boys, apes, braggarts, jacks, milksops!
 <speaker>LEONATO</speaker>
 Brother Anthony--
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Hold you content. What, man! I know them, yea,
 And what they weigh, even to the utmost scruple--
 Scambling, outfacing, fashionmonging boys,
 That lie and cog and flout, deprave and slander,
 Go anticly and show outward hideousness,
-And speak off half a dozen dang'rous words
+And speak off half a dozen dang&rsquo;rous words
 How they might hurt their enemies, if they durst,
 And this is all.
 
 <speaker>LEONATO</speaker>
 But brother Anthony--
 
-<speaker>LEONATO'S BROTHER</speaker>
-Come, 'tis no matter.
+LEONATO&rsquo;S BROTHER  Come, &rsquo;tis no matter.
 Do not you meddle. Let me deal in this.
 
 <speaker>PRINCE</speaker>
 Gentlemen both, we will not wake your patience.
-My heart is sorry for your daughter's death,
+My heart is sorry for your daughter&rsquo;s death,
 But, on my honor, she was charged with nothing
 But what was true and very full of proof.
 
@@ -3976,7 +3967,7 @@ I will not hear you.
 <speaker>LEONATO</speaker>
 No? Come, brother, away. I will be heard.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 And shall, or some of us will smart for it.
 [<i>Leonato and his brother exit.</i>]
 
@@ -4001,7 +3992,7 @@ We had like to have had our two noses
 snapped off with two old men without teeth.
 
 <speaker>PRINCE</speaker>
-Leonato and his brother. What think'st thou?
+Leonato and his brother. What think&rsquo;st thou?
 Had we fought, I doubt we should have been too
 young for them.
 
@@ -4043,7 +4034,7 @@ subject.
 <speaker>CLAUDIO,</speaker>
 [<i>to Prince</i>]
   Nay, then, give him another staff.
-This last was broke 'cross.
+This last was broke &rsquo;cross.
 
 <speaker>PRINCE</speaker>
 By this light, he changes more and more. I
@@ -4074,30 +4065,30 @@ cheer.
 <speaker>PRINCE</speaker>
 What, a feast, a feast?
 
-<speaker>CLAUDIO I'</speaker>
-faith, I thank him. He hath bid me to a
-calf's head and a capon, the which if I do not carve
-most curiously, say my knife's naught. Shall I not
+<speaker>CLAUDIO</speaker>
+I&rsquo; faith, I thank him. He hath bid me to a
+calf&rsquo;s head and a capon, the which if I do not carve
+most curiously, say my knife&rsquo;s naught. Shall I not
 find a woodcock too?
 
 <speaker>BENEDICK</speaker>
 Sir, your wit ambles well; it goes easily.
 
 <speaker>PRINCE</speaker>
-I'll tell thee how Beatrice praised thy wit the
-other day. I said thou hadst a fine wit. "True," said
-she, "a fine little one." "No," said I, "a great wit."
-"Right," says she, "a great gross one." "Nay," said I,
-"a good wit." "Just," said she, "it hurts nobody."
-"Nay," said I, "the gentleman is wise." "Certain,"
-said she, "a wise gentleman." "Nay," said I, "he
-hath the tongues." "That I believe," said she, "for he
+I&rsquo;ll tell thee how Beatrice praised thy wit the
+other day. I said thou hadst a fine wit. "&ldquo;True,&rdquo;" said
+she, "&ldquo;a fine little one.&rdquo;" "&ldquo;No,&rdquo;" said I, "&ldquo;a great wit.&rdquo;"
+"&ldquo;Right,&rdquo;" says she, "&ldquo;a great gross one.&rdquo;" "&ldquo;Nay,&rdquo;" said I,
+"&ldquo;a good wit.&rdquo;" "&ldquo;Just,&rdquo;" said she, "&ldquo;it hurts nobody.&rdquo;"
+"&ldquo;Nay,&rdquo;" said I, "&ldquo;the gentleman is wise.&rdquo;" "&ldquo;Certain,&rdquo;"
+said she, "&ldquo;a wise gentleman.&rdquo;" "&ldquo;Nay,&rdquo;" said I, "&ldquo;he
+hath the tongues.&rdquo;" "&ldquo;That I believe,&rdquo;" said she, "&ldquo;for he
 swore a thing to me on Monday night which he
-forswore on Tuesday morning; there's a double
-tongue, there's two tongues." Thus did she an hour
+forswore on Tuesday morning; there&rsquo;s a double
+tongue, there&rsquo;s two tongues.&rdquo;" Thus did she an hour
 together transshape thy particular virtues. Yet at
 last she concluded with a sigh, thou wast the
-proper'st man in Italy.
+proper&rsquo;st man in Italy.
 
 <speaker>CLAUDIO</speaker>
 For the which she wept heartily and said she
@@ -4106,19 +4097,19 @@ cared not.
 <speaker>PRINCE</speaker>
 Yea, that she did. But yet for all that, an if she
 did not hate him deadly, she would love him
-dearly. The old man's daughter told us all.
+dearly. The old man&rsquo;s daughter told us all.
 
 <speaker>CLAUDIO</speaker>
 All, all. And, moreover, God saw him when
 he was hid in the garden.
 
 <speaker>PRINCE</speaker>
-But when shall we set the savage bull's horns
-on the sensible Benedick's head?
+But when shall we set the savage bull&rsquo;s horns
+on the sensible Benedick&rsquo;s head?
 
 <speaker>CLAUDIO</speaker>
-Yea, and text underneath: "Here dwells Benedick,
-the married man"?
+Yea, and text underneath: "&ldquo;Here dwells Benedick,
+the married man&rdquo;"?
 
 <speaker>BENEDICK</speaker>
 Fare you well, boy. You know my mind. I
@@ -4136,7 +4127,7 @@ I shall meet, and till then peace be with him.
 He is in earnest.
 
 <speaker>CLAUDIO</speaker>
-In most profound earnest, and, I'll warrant
+In most profound earnest, and, I&rsquo;ll warrant
 you, for the love of Beatrice.
 
 <speaker>PRINCE</speaker>
@@ -4162,12 +4153,12 @@ with Conrade and Borachio.</i>]
 
 <speaker>DOGBERRY</speaker>
 Come you, sir. If justice cannot tame you,
-she shall ne'er weigh more reasons in her balance.
+she shall ne&rsquo;er weigh more reasons in her balance.
 Nay, an you be a cursing hypocrite once, you must
 be looked to.
 
 <speaker>PRINCE</speaker>
-How now, two of my brother's men bound?
+How now, two of my brother&rsquo;s men bound?
 Borachio one!
 
 <speaker>CLAUDIO</speaker>
@@ -4185,20 +4176,20 @@ things; and, to conclude, they are lying knaves.
 
 <speaker>PRINCE</speaker>
 First, I ask thee what they have done; thirdly, I
-ask thee what's their offense; sixth and lastly, why
+ask thee what&rsquo;s their offense; sixth and lastly, why
 they are committed; and, to conclude, what you lay
 to their charge.
 
 <speaker>CLAUDIO</speaker>
 Rightly reasoned, and in his own division;
-and, by my troth, there's one meaning well suited.
+and, by my troth, there&rsquo;s one meaning well suited.
 
 <speaker>PRINCE,</speaker>
 [<i>to Borachio and Conrade</i>]
   Who have you offended,
 masters, that you are thus bound to your
 answer? This learned constable is too cunning to be
-understood. What's your offense?
+understood. What&rsquo;s your offense?
 
 <speaker>BORACHIO</speaker>
 Sweet prince, let me go no farther to mine
@@ -4209,11 +4200,11 @@ have brought to light, who in the night overheard
 me confessing to this man how Don John your
 brother incensed me to slander the Lady Hero, how
 you were brought into the orchard and saw me
-court Margaret in Hero's garments, how you disgraced
+court Margaret in Hero&rsquo;s garments, how you disgraced
 her when you should marry her. My villainy
 they have upon record, which I had rather seal with
 my death than repeat over to my shame. The lady is
-dead upon mine and my master's false accusation.
+dead upon mine and my master&rsquo;s false accusation.
 And, briefly, I desire nothing but the reward of a
 villain.
 
@@ -4271,9 +4262,9 @@ Yea, even I alone.
 No, not so, villain, thou beliest thyself.
 Here stand a pair of honorable men--
 A third is fled--that had a hand in it.--
-I thank you, princes, for my daughter's death.
+I thank you, princes, for my daughter&rsquo;s death.
 Record it with your high and worthy deeds.
-'Twas bravely done, if you bethink you of it.
+&rsquo;Twas bravely done, if you bethink you of it.
 
 <speaker>CLAUDIO</speaker>
 I know not how to pray your patience,
@@ -4286,7 +4277,7 @@ But in mistaking.
 By my soul, nor I,
 And yet to satisfy this good old man
 I would bend under any heavy weight
-That he'll enjoin me to.
+That he&rsquo;ll enjoin me to.
 
 <speaker>LEONATO</speaker>
 I cannot bid you bid my daughter live--
@@ -4299,9 +4290,9 @@ And sing it to her bones. Sing it tonight.
 Tomorrow morning come you to my house,
 And since you could not be my son-in-law,
 Be yet my nephew. My brother hath a daughter,
-Almost the copy of my child that's dead,
+Almost the copy of my child that&rsquo;s dead,
 And she alone is heir to both of us.
-Give her the right you should have giv'n her cousin,
+Give her the right you should have giv&rsquo;n her cousin,
 And so dies my revenge.
 
 <speaker>CLAUDIO</speaker>
@@ -4331,9 +4322,9 @@ offender, did call me ass. I beseech you, let it be
 remembered in his punishment. And also the watch
 heard them talk of one Deformed. They say he
 wears a key in his ear and a lock hanging by it and
-borrows money in God's name, the which he hath
+borrows money in God&rsquo;s name, the which he hath
 used so long and never paid that now men grow
-hardhearted and will lend nothing for God's sake.
+hardhearted and will lend nothing for God&rsquo;s sake.
 Pray you, examine him upon that point.
 
 <speaker>LEONATO</speaker>
@@ -4345,7 +4336,7 @@ and reverent youth, and I praise God for you.
 
 <speaker>LEONATO,</speaker>
 [<i>giving him money</i>]
-  There's for thy pains.
+  There&rsquo;s for thy pains.
 
 <speaker>DOGBERRY</speaker>
 God save the foundation.
@@ -4366,18 +4357,18 @@ Come, neighbor.	[<i>Dogberry and Verges exit.</i>]
 <speaker>LEONATO</speaker>
 Until tomorrow morning, lords, farewell.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Farewell, my lords. We look for you tomorrow.
 
 <speaker>PRINCE</speaker>
 We will not fail.
 
 <speaker>CLAUDIO</speaker>
-Tonight I'll mourn with Hero.
+Tonight I&rsquo;ll mourn with Hero.
 
 <speaker>LEONATO,</speaker>
 [<i>to Watch</i>]
-Bring you these fellows on.--We'll talk with
+Bring you these fellows on.--We&rsquo;ll talk with
 Margaret,
 How her acquaintance grew with this lewd fellow.
 [<i>They exit.</i>]
@@ -4405,11 +4396,11 @@ To have no man come over me? Why, shall I
 always keep below stairs?
 
 <speaker>BENEDICK</speaker>
-Thy wit is as quick as the greyhound's
+Thy wit is as quick as the greyhound&rsquo;s
 mouth; it catches.
 
 <speaker>MARGARET</speaker>
-And yours as blunt as the fencer's foils,
+And yours as blunt as the fencer&rsquo;s foils,
 which hit but hurt not.
 
 <speaker>BENEDICK</speaker>
@@ -4445,9 +4436,9 @@ whose names yet run smoothly in the even
 road of a blank verse, why, they were never so truly
 turned over and over as my poor self in love. Marry,
 I cannot show it in rhyme. I have tried. I can find out
-no rhyme to "lady" but "baby"--an innocent
-rhyme; for "scorn," "horn"--a hard rhyme; for
-"school," "fool"--a babbling rhyme; very ominous
+no rhyme to "&ldquo;lady&rdquo;" but "&ldquo;baby"--an innocent
+rhyme; for "&ldquo;scorn,&rdquo;" "&ldquo;horn"--a hard rhyme; for
+"&ldquo;school,&rdquo;" "&ldquo;fool"--a babbling rhyme; very ominous
 endings. No, I was not born under a rhyming
 planet, nor I cannot woo in festival terms.
 
@@ -4463,7 +4454,7 @@ Yea, signior, and depart when you bid me.
 O, stay but till then!
 
 <speaker>BEATRICE</speaker>
-"Then" is spoken. Fare you well now. And
+"&ldquo;Then&rdquo;" is spoken. Fare you well now. And
 yet, ere I go, let me go with that I came, which is,
 with knowing what hath passed between you and
 Claudio.
@@ -4506,7 +4497,7 @@ hates.
 Thou and I are too wise to woo peaceably.
 
 <speaker>BEATRICE</speaker>
-It appears not in this confession. There's not
+It appears not in this confession. There&rsquo;s not
 one wise man among twenty that will praise
 himself.
 
@@ -4546,7 +4537,7 @@ leave you too, for here comes one in haste.
 [<i>Enter Ursula.</i>]
 
 <speaker>URSULA</speaker>
-Madam, you must come to your uncle. Yonder's
+Madam, you must come to your uncle. Yonder&rsquo;s
 old coil at home. It is proved my Lady Hero
 hath been falsely accused, the Prince and Claudio
 mightily abused, and Don John is the author of all,
@@ -4559,7 +4550,7 @@ Will you go hear this news, signior?
 <speaker>BENEDICK</speaker>
 I will live in thy heart, die in thy lap, and be
 buried in thy eyes--and, moreover, I will go with
-thee to thy uncle's.
+thee to thy uncle&rsquo;s.
 [<i>They exit.</i>]
 
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
@@ -4617,17 +4608,17 @@ Good morrow, masters. Each his several way.
 
 <speaker>PRINCE</speaker>
 Come, let us hence, and put on other weeds,
-   And then to Leonato's we will go.
+   And then to Leonato&rsquo;s we will go.
 
 <speaker>CLAUDIO</speaker>
-And Hymen now with luckier issue speed 's,
+And Hymen now with luckier issue speed &rsquo;s,
    Than this for whom we rendered up this woe.
 [<i>They exit.</i>]
 
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
 [<i>Enter Leonato, Benedick, Beatrice, Margaret, Ursula,
-Leonato's brother, Friar, Hero.</i>]
+Leonato&rsquo;s brother, Friar, Hero.</i>]
 
 <speaker>FRIAR</speaker>
 Did I not tell you she was innocent?
@@ -4639,7 +4630,7 @@ But Margaret was in some fault for this,
 Although against her will, as it appears
 In the true course of all the question.
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Well, I am glad that all things sorts so well.
 
 <speaker>BENEDICK</speaker>
@@ -4652,10 +4643,10 @@ Withdraw into a chamber by yourselves,
 And when I send for you, come hither masked.
 The Prince and Claudio promised by this hour
 To visit me.--You know your office, brother.
-You must be father to your brother's daughter,
+You must be father to your brother&rsquo;s daughter,
 And give her to young Claudio.	[<i>The ladies exit.</i>]
 
-<speaker>LEONATO'S BROTHER</speaker>
+LEONATO&rsquo;S BROTHER
 Which I will do with confirmed countenance.
 
 <speaker>BENEDICK</speaker>
@@ -4670,14 +4661,14 @@ Signior Leonato, truth it is, good signior,
 Your niece regards me with an eye of favor.
 
 <speaker>LEONATO</speaker>
-That eye my daughter lent her; 'tis most true.
+That eye my daughter lent her; &rsquo;tis most true.
 
 <speaker>BENEDICK</speaker>
 And I do with an eye of love requite her.
 
 <speaker>LEONATO</speaker>
 The sight whereof I think you had from me,
-From Claudio, and the Prince. But what's your will?
+From Claudio, and the Prince. But what&rsquo;s your will?
 
 <speaker>BENEDICK</speaker>
 Your answer, sir, is enigmatical.
@@ -4701,37 +4692,37 @@ Good morrow to this fair assembly.
 <speaker>LEONATO</speaker>
 Good morrow, prince; good morrow, Claudio.
 We here attend you. Are you yet determined
-Today to marry with my brother's daughter?
+Today to marry with my brother&rsquo;s daughter?
 
 <speaker>CLAUDIO</speaker>
-I'll hold my mind were she an Ethiope.
+I&rsquo;ll hold my mind were she an Ethiope.
 
 <speaker>LEONATO</speaker>
-Call her forth, brother. Here's the Friar ready.
-[<i>Leonato's brother exits.</i>]
+Call her forth, brother. Here&rsquo;s the Friar ready.
+[<i>Leonato&rsquo;s brother exits.</i>]
 
 <speaker>PRINCE</speaker>
-Good morrow, Benedick. Why, what's the matter
+Good morrow, Benedick. Why, what&rsquo;s the matter
 That you have such a February face,
 So full of frost, of storm, and cloudiness?
 
 <speaker>CLAUDIO</speaker>
 I think he thinks upon the savage bull.
-Tush, fear not, man. We'll tip thy horns with gold,
+Tush, fear not, man. We&rsquo;ll tip thy horns with gold,
 And all Europa shall rejoice at thee,
 As once Europa did at lusty Jove
 When he would play the noble beast in love.
 
 <speaker>BENEDICK</speaker>
 Bull Jove, sir, had an amiable low,
-And some such strange bull leapt your father's cow
+And some such strange bull leapt your father&rsquo;s cow
 And got a calf in that same noble feat
 Much like to you, for you have just his bleat.
 
 <speaker>CLAUDIO</speaker>
-For this I owe you. Here comes other reck'nings.
+For this I owe you. Here comes other reck&rsquo;nings.
 
-[<i>Enter Leonato's brother, Hero, Beatrice, Margaret,
+[<i>Enter Leonato&rsquo;s brother, Hero, Beatrice, Margaret,
 Ursula, the ladies masked.</i>]
 
 Which is the lady I must seize upon?
@@ -4740,7 +4731,7 @@ Which is the lady I must seize upon?
 This same is she, and I do give you her.
 
 <speaker>CLAUDIO</speaker>
-Why, then, she's mine.--Sweet, let me see your face.
+Why, then, she&rsquo;s mine.--Sweet, let me see your face.
 
 <speaker>LEONATO</speaker>
 No, that you shall not till you take her hand
@@ -4774,7 +4765,7 @@ She died, my lord, but whiles her slander lived.
 <speaker>FRIAR</speaker>
 All this amazement can I qualify,
 When after that the holy rites are ended,
-I'll tell you largely of fair Hero's death.
+I&rsquo;ll tell you largely of fair Hero&rsquo;s death.
 Meantime let wonder seem familiar,
 And to the chapel let us presently.
 
@@ -4812,7 +4803,7 @@ They swore that you were almost sick for me.
 They swore that you were well-nigh dead for me.
 
 <speaker>BENEDICK</speaker>
-'Tis no such matter. Then you do not love me?
+&rsquo;Tis no such matter. Then you do not love me?
 
 <speaker>BEATRICE</speaker>
 No, truly, but in friendly recompense.
@@ -4821,19 +4812,19 @@ No, truly, but in friendly recompense.
 Come, cousin, I am sure you love the gentleman.
 
 <speaker>CLAUDIO</speaker>
-And I'll be sworn upon 't that he loves her,
-For here's a paper written in his hand,
+And I&rsquo;ll be sworn upon &rsquo;t that he loves her,
+For here&rsquo;s a paper written in his hand,
 A halting sonnet of his own pure brain,
 Fashioned to Beatrice.	[<i>He shows a paper.</i>]
 
 <speaker>HERO</speaker>
-And here's another,
-Writ in my cousin's hand, stol'n from her pocket,
+And here&rsquo;s another,
+Writ in my cousin&rsquo;s hand, stol&rsquo;n from her pocket,
 Containing her affection unto Benedick.
 [<i>She shows a paper.</i>]
 
 <speaker>BENEDICK</speaker>
-A miracle! Here's our own hands against
+A miracle! Here&rsquo;s our own hands against
 our hearts. Come, I will have thee, but by this light
 I take thee for pity.
 
@@ -4850,7 +4841,7 @@ Peace! I will stop your mouth.
 How dost thou, Benedick, the married man?
 
 <speaker>BENEDICK</speaker>
-I'll tell thee what, prince: a college of
+I&rsquo;ll tell thee what, prince: a college of
 wit-crackers cannot flout me out of my humor.
 Dost thou think I care for a satire or an epigram?
 No. If a man will be beaten with brains, he shall
@@ -4871,12 +4862,12 @@ of question thou wilt be, if my cousin do not look
 exceeding narrowly to thee.
 
 <speaker>BENEDICK</speaker>
-Come, come, we are friends. Let's have a
+Come, come, we are friends. Let&rsquo;s have a
 dance ere we are married, that we may lighten our
-own hearts and our wives' heels.
+own hearts and our wives&rsquo; heels.
 
 <speaker>LEONATO</speaker>
-We'll have dancing afterward.
+We&rsquo;ll have dancing afterward.
 
 <speaker>BENEDICK</speaker>
 First, of my word! Therefore play, music.--
@@ -4888,13 +4879,13 @@ with horn.
 
 <speaker>MESSENGER,</speaker>
 [<i>to Prince</i>]
-My lord, your brother John is ta'en in flight,
+My lord, your brother John is ta&rsquo;en in flight,
 And brought with armed men back to Messina.
 
 <speaker>BENEDICK,</speaker>
 [<i>to Prince</i>]
   Think not on him till tomorrow.
-I'll devise thee brave punishments for him.--Strike
+I&rsquo;ll devise thee brave punishments for him.--Strike
 up, pipers!	[<i>Music plays. They dance.</i>]
 [<i>They exit.</i>]
 `;

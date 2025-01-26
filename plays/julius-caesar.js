@@ -45,7 +45,7 @@ COBBLER  Nay, I beseech you, sir, be not out with me.
 Yet if you be out, sir, I can mend you.
 
 MARULLUS
-What mean'st thou by that? Mend me, thou saucy
+What mean&rsquo;st thou by that? Mend me, thou saucy
 fellow?
 
 COBBLER  Why, sir, cobble you.
@@ -53,11 +53,11 @@ COBBLER  Why, sir, cobble you.
 FLAVIUS  Thou art a cobbler, art thou?
 
 COBBLER  Truly, sir, all that I live by is with the
-awl. I meddle with no tradesman's matters nor
-women's matters, but withal I am indeed, sir, a
+awl. I meddle with no tradesman&rsquo;s matters nor
+women&rsquo;s matters, but withal I am indeed, sir, a
 surgeon to old shoes: when they are in great danger,
 I recover them. As proper men as ever trod upon
-neat's leather have gone upon my handiwork.
+neat&rsquo;s leather have gone upon my handiwork.
 
 FLAVIUS
 But wherefore art not in thy shop today?
@@ -89,7 +89,7 @@ Made in her concave shores?
 And do you now put on your best attire?
 And do you now cull out a holiday?
 And do you now strew flowers in his way
-That comes in triumph over Pompey's blood?
+That comes in triumph over Pompey&rsquo;s blood?
 Be gone!
 Run to your houses, fall upon your knees,
 Pray to the gods to intermit the plague
@@ -102,7 +102,7 @@ Draw them to Tiber banks, and weep your tears
 Into the channel, till the lowest stream
 Do kiss the most exalted shores of all.
 [<i>All the Commoners exit.</i>]
-See whe'er their basest mettle be not moved.
+See whe&rsquo;er their basest mettle be not moved.
 They vanish tongue-tied in their guiltiness.
 Go you down that way towards the Capitol.
 This way will I. Disrobe the images
@@ -113,10 +113,10 @@ You know it is the feast of Lupercal.
 
 FLAVIUS
 It is no matter. Let no images
-Be hung with Caesar's trophies. I'll about
+Be hung with Caesar&rsquo;s trophies. I&rsquo;ll about
 And drive away the vulgar from the streets;
 So do you too, where you perceive them thick.
-These growing feathers plucked from Caesar's wing
+These growing feathers plucked from Caesar&rsquo;s wing
 Will make him fly an ordinary pitch,
 Who else would soar above the view of men
 And keep us all in servile fearfulness.
@@ -141,7 +141,7 @@ Calphurnia.
 Here, my lord.
 
 <speaker>CAESAR</speaker>
-Stand you directly in Antonius' way
+Stand you directly in Antonius&rsquo; way
 When he doth run his course.--Antonius.
 
 <speaker>ANTONY</speaker>
@@ -155,7 +155,7 @@ Shake off their sterile curse.
 
 <speaker>ANTONY</speaker>
 I shall remember.
-When Caesar says "Do this," it is performed.
+When Caesar says "&ldquo;Do this,&rdquo;" it is performed.
 
 <speaker>CAESAR</speaker>
 Set on and leave no ceremony out.	[<i>Sennet.</i>]
@@ -172,7 +172,7 @@ Bid every noise be still. Peace, yet again!
 <speaker>CAESAR</speaker>
 Who is it in the press that calls on me?
 I hear a tongue shriller than all the music
-Cry "Caesar." Speak. Caesar is turned to hear.
+Cry "&ldquo;Caesar.&rdquo;" Speak. Caesar is turned to hear.
 
 <speaker>SOOTHSAYER</speaker>
 Beware the ides of March.
@@ -214,7 +214,7 @@ I pray you, do.
 I am not gamesome. I do lack some part
 Of that quick spirit that is in Antony.
 Let me not hinder, Cassius, your desires.
-I'll leave you.
+I&rsquo;ll leave you.
 
 <speaker>CASSIUS</speaker>
 Brutus, I do observe you now of late.
@@ -248,14 +248,14 @@ No, Cassius, for the eye sees not itself
 But by reflection, by some other things.
 
 <speaker>CASSIUS</speaker>
-'Tis just.
+&rsquo;Tis just.
 And it is very much lamented, Brutus,
 That you have no such mirrors as will turn
 Your hidden worthiness into your eye,
 That you might see your shadow. I have heard
 Where many of the best respect in Rome,
 Except immortal Caesar, speaking of Brutus
-And groaning underneath this age's yoke,
+And groaning underneath this age&rsquo;s yoke,
 Have wished that noble Brutus had his eyes.
 
 <speaker>BRUTUS</speaker>
@@ -292,7 +292,7 @@ I would not, Cassius, yet I love him well.
 But wherefore do you hold me here so long?
 What is it that you would impart to me?
 If it be aught toward the general good,
-Set honor in one eye and death i' th' other
+Set honor in one eye and death i&rsquo; th&rsquo; other
 And I will look on both indifferently;
 For let the gods so speed me as I love
 The name of honor more than I fear death.
@@ -307,19 +307,19 @@ I had as lief not be as live to be
 In awe of such a thing as I myself.
 I was born free as Caesar; so were you;
 We both have fed as well, and we can both
-Endure the winter's cold as well as he.
+Endure the winter&rsquo;s cold as well as he.
 For once, upon a raw and gusty day,
 The troubled Tiber chafing with her shores,
-Caesar said to me "Dar'st thou, Cassius, now
+Caesar said to me "&ldquo;Dar&rsquo;st thou, Cassius, now
 Leap in with me into this angry flood
-And swim to yonder point?" Upon the word,
+And swim to yonder point?&rdquo;" Upon the word,
 Accoutered as I was, I plunged in
 And bade him follow; so indeed he did.
 The torrent roared, and we did buffet it
 With lusty sinews, throwing it aside
 And stemming it with hearts of controversy.
 But ere we could arrive the point proposed,
-Caesar cried "Help me, Cassius, or I sink!"
+Caesar cried "&ldquo;Help me, Cassius, or I sink!&rdquo;"
 I, as Aeneas, our great ancestor,
 Did from the flames of Troy upon his shoulder
 The old Anchises bear, so from the waves of Tiber
@@ -329,13 +329,13 @@ A wretched creature and must bend his body
 If Caesar carelessly but nod on him.
 He had a fever when he was in Spain,
 And when the fit was on him, I did mark
-How he did shake. 'Tis true, this god did shake.
+How he did shake. &rsquo;Tis true, this god did shake.
 His coward lips did from their color fly,
 And that same eye whose bend doth awe the world
 Did lose his luster. I did hear him groan.
 Ay, and that tongue of his that bade the Romans
 Mark him and write his speeches in their books,
-"Alas," it cried "Give me some drink, Titinius"
+"&ldquo;Alas,&rdquo;" it cried "&ldquo;Give me some drink, Titinius&rdquo;"
 As a sick girl. You gods, it doth amaze me
 A man of such a feeble temper should
 So get the start of the majestic world
@@ -355,14 +355,14 @@ To find ourselves dishonorable graves.
 Men at some time are masters of their fates.
 The fault, dear Brutus, is not in our stars,
 But in ourselves, that we are underlings.
-"Brutus" and "Caesar"--what should be in that
-"Caesar"?
+"&ldquo;Brutus&rdquo;" and "&ldquo;Caesar"--what should be in that
+"&ldquo;Caesar&rdquo;"?
 Why should that name be sounded more than
 yours?
 Write them together, yours is as fair a name;
 Sound them, it doth become the mouth as well;
-Weigh them, it is as heavy; conjure with 'em,
-"Brutus" will start a spirit as soon as "Caesar."
+Weigh them, it is as heavy; conjure with &rsquo;em,
+"&ldquo;Brutus&rdquo;" will start a spirit as soon as "&ldquo;Caesar.&rdquo;"
 Now, in the names of all the gods at once,
 Upon what meat doth this our Caesar feed
 That he is grown so great? Age, thou art shamed!
@@ -375,7 +375,7 @@ Now is it Rome indeed, and room enough
 When there is in it but one only man.
 O, you and I have heard our fathers say
 There was a Brutus once that would have brooked
-Th' eternal devil to keep his state in Rome
+Th&rsquo; eternal devil to keep his state in Rome
 As easily as a king.
 
 <speaker>BRUTUS</speaker>
@@ -411,9 +411,9 @@ What hath proceeded worthy note today.
 
 <speaker>BRUTUS</speaker>
 I will do so. But look you, Cassius,
-The angry spot doth glow on Caesar's brow,
+The angry spot doth glow on Caesar&rsquo;s brow,
 And all the rest look like a chidden train.
-Calphurnia's cheek is pale, and Cicero
+Calphurnia&rsquo;s cheek is pale, and Cicero
 Looks with such ferret and such fiery eyes
 As we have seen him in the Capitol,
 Being crossed in conference by some senators.
@@ -434,7 +434,7 @@ Yond Cassius has a lean and hungry look.
 He thinks too much. Such men are dangerous.
 
 <speaker>ANTONY</speaker>
-Fear him not, Caesar; he's not dangerous.
+Fear him not, Caesar; he&rsquo;s not dangerous.
 He is a noble Roman, and well given.
 
 <speaker>CAESAR</speaker>
@@ -448,13 +448,13 @@ As thou dost, Antony; he hears no music;
 Seldom he smiles, and smiles in such a sort
 As if he mocked himself and scorned his spirit
 That could be moved to smile at anything.
-Such men as he be never at heart's ease
+Such men as he be never at heart&rsquo;s ease
 Whiles they behold a greater than themselves,
 And therefore are they very dangerous.
 I rather tell thee what is to be feared
 Than what I fear; for always I am Caesar.
 Come on my right hand, for this ear is deaf,
-And tell me truly what thou think'st of him.
+And tell me truly what thou think&rsquo;st of him.
 [<i>Sennet. Caesar and his train exit
 but Casca remains behind.</i>]
 
@@ -493,7 +493,7 @@ Why, for that too.
 Was the crown offered him thrice?
 
 <speaker>CASCA</speaker>
-Ay, marry, was 't, and he put it by thrice, every
+Ay, marry, was &rsquo;t, and he put it by thrice, every
 time gentler than other; and at every putting-by,
 mine honest neighbors shouted.
 
@@ -509,8 +509,8 @@ Tell us the manner of it, gentle Casca.
 <speaker>CASCA</speaker>
 I can as well be hanged as tell the manner of it.
 It was mere foolery; I did not mark it. I saw Mark
-Antony offer him a crown (yet 'twas not a crown
-neither; 'twas one of these coronets), and, as I told
+Antony offer him a crown (yet &rsquo;twas not a crown
+neither; &rsquo;twas one of these coronets), and, as I told
 you, he put it by once; but for all that, to my
 thinking, he would fain have had it. Then he offered
 it to him again; then he put it by again; but to my
@@ -533,7 +533,7 @@ He fell down in the marketplace and foamed at
 mouth and was speechless.
 
 <speaker>BRUTUS</speaker>
-'Tis very like; he hath the falling sickness.
+&rsquo;Tis very like; he hath the falling sickness.
 
 <speaker>CASSIUS</speaker>
 No, Caesar hath it not; but you and I
@@ -559,8 +559,8 @@ would I might go to hell among the rogues. And so
 he fell. When he came to himself again, he said if he
 had done or said anything amiss, he desired their
 Worships to think it was his infirmity. Three or four
-wenches where I stood cried "Alas, good soul!" and
-forgave him with all their hearts. But there's no
+wenches where I stood cried "&ldquo;Alas, good soul!&rdquo;" and
+forgave him with all their hearts. But there&rsquo;s no
 heed to be taken of them; if Caesar had stabbed
 their mothers, they would have done no less.
 
@@ -580,12 +580,12 @@ Ay, he spoke Greek.
 To what effect?
 
 <speaker>CASCA</speaker>
-Nay, an I tell you that, I'll ne'er look you i' th'
+Nay, an I tell you that, I&rsquo;ll ne&rsquo;er look you i&rsquo; th&rsquo;
 face again. But those that understood him smiled at
 one another and shook their heads. But for mine
 own part, it was Greek to me. I could tell you more
 news too: Marullus and Flavius, for pulling scarves
-off Caesar's images, are put to silence. Fare you
+off Caesar&rsquo;s images, are put to silence. Fare you
 well. There was more foolery yet, if I could remember
 it.
 
@@ -641,7 +641,7 @@ In several hands in at his windows throw,
 As if they came from several citizens,
 Writings, all tending to the great opinion
 That Rome holds of his name, wherein obscurely
-Caesar's ambition shall be glanced at
+Caesar&rsquo;s ambition shall be glanced at
 And after this, let Caesar seat him sure,
 For we will shake him, or worse days endure.
 [<i>He exits.</i>]
@@ -659,8 +659,8 @@ Are not you moved, when all the sway of earth
 Shakes like a thing unfirm? O Cicero,
 I have seen tempests when the scolding winds
 Have rived the knotty oaks, and I have seen
-Th' ambitious ocean swell and rage and foam
-To be exalted with the threat'ning clouds;
+Th&rsquo; ambitious ocean swell and rage and foam
+To be exalted with the threat&rsquo;ning clouds;
 But never till tonight, never till now,
 Did I go through a tempest dropping fire.
 Either there is a civil strife in heaven,
@@ -675,7 +675,7 @@ A common slave (you know him well by sight)
 Held up his left hand, which did flame and burn
 Like twenty torches joined; and yet his hand,
 Not sensible of fire, remained unscorched.
-Besides (I ha' not since put up my sword),
+Besides (I ha&rsquo; not since put up my sword),
 Against the Capitol I met a lion,
 Who glazed upon me and went surly by
 Without annoying me. And there were drawn
@@ -686,7 +686,7 @@ And yesterday the bird of night did sit
 Even at noonday upon the marketplace,
 Hooting and shrieking. When these prodigies
 Do so conjointly meet, let not men say
-"These are their reasons, they are natural,"
+"&ldquo;These are their reasons, they are natural,&rdquo;"
 For I believe they are portentous things
 Unto the climate that they point upon.
 
@@ -710,7 +710,7 @@ Farewell, Cicero [<i>Cicero exits.</i>]
 [<i>Enter Cassius.</i>]
 
 <speaker>CASSIUS</speaker>
-Who's there?
+Who&rsquo;s there?
 
 <speaker>CASCA</speaker>
 A Roman.
@@ -768,13 +768,13 @@ In personal action, yet prodigious grown,
 And fearful, as these strange eruptions are.
 
 <speaker>CASCA</speaker>
-'Tis Caesar that you mean, is it not, Cassius?
+&rsquo;Tis Caesar that you mean, is it not, Cassius?
 
 <speaker>CASSIUS</speaker>
 Let it be who it is. For Romans now
 Have thews and limbs like to their ancestors.
-But, woe the while, our fathers' minds are dead,
-And we are governed with our mothers' spirits.
+But, woe the while, our fathers&rsquo; minds are dead,
+And we are governed with our mothers&rsquo; spirits.
 Our yoke and sufferance show us womanish.
 
 <speaker>CASCA</speaker>
@@ -826,16 +826,16 @@ And I will set this foot of mine as far
 As who goes farthest.
 
 <speaker>CASSIUS</speaker>
-There's a bargain made.
+There&rsquo;s a bargain made.
 Now know you, Casca, I have moved already
 Some certain of the noblest-minded Romans
 To undergo with me an enterprise
 Of honorable-dangerous consequence.
 And I do know by this they stay for me
-In Pompey's Porch. For now, this fearful night,
+In Pompey&rsquo;s Porch. For now, this fearful night,
 There is no stir or walking in the streets;
 And the complexion of the element
-In favor 's like the work we have in hand,
+In favor &rsquo;s like the work we have in hand,
 Most bloody, fiery, and most terrible.
 
 [<i>Enter Cinna.</i>]
@@ -844,19 +844,19 @@ Most bloody, fiery, and most terrible.
 Stand close awhile, for here comes one in haste.
 
 <speaker>CASSIUS</speaker>
-'Tis Cinna; I do know him by his gait.
+&rsquo;Tis Cinna; I do know him by his gait.
 He is a friend.--Cinna, where haste you so?
 
 <speaker>CINNA</speaker>
-To find out you. Who's that? Metellus Cimber?
+To find out you. Who&rsquo;s that? Metellus Cimber?
 
 <speaker>CASSIUS</speaker>
 No, it is Casca, one incorporate
 To our attempts. Am I not stayed for, Cinna?
 
 <speaker>CINNA</speaker>
-I am glad on 't. What a fearful night is this!
-There's two or three of us have seen strange sights.
+I am glad on &rsquo;t. What a fearful night is this!
+There&rsquo;s two or three of us have seen strange sights.
 
 <speaker>CASSIUS</speaker>
 Am I not stayed for? Tell me.
@@ -868,20 +868,20 @@ But win the noble Brutus to our party--
 <speaker>CASSIUS,</speaker>
 [<i>handing him papers</i>]
 Be you content. Good Cinna, take this paper,
-And look you lay it in the Praetor's chair,
+And look you lay it in the Praetor&rsquo;s chair,
 Where Brutus may but find it; and throw this
 In at his window; set this up with wax
-Upon old Brutus' statue. All this done,
-Repair to Pompey's Porch, where you shall find us.
+Upon old Brutus&rsquo; statue. All this done,
+Repair to Pompey&rsquo;s Porch, where you shall find us.
 Is Decius Brutus and Trebonius there?
 
 <speaker>CINNA</speaker>
-All but Metellus Cimber, and he's gone
+All but Metellus Cimber, and he&rsquo;s gone
 To seek you at your house. Well, I will hie
 And so bestow these papers as you bade me.
 
 <speaker>CASSIUS</speaker>
-That done, repair to Pompey's Theater.
+That done, repair to Pompey&rsquo;s Theater.
 [<i>Cinna exits.</i>]
 Come, Casca, you and I will yet ere day
 See Brutus at his house. Three parts of him
@@ -889,7 +889,7 @@ Is ours already, and the man entire
 Upon the next encounter yields him ours.
 
 <speaker>CASCA</speaker>
-O, he sits high in all the people's hearts,
+O, he sits high in all the people&rsquo;s hearts,
 And that which would appear offense in us
 His countenance, like richest alchemy,
 Will change to virtue and to worthiness.
@@ -929,17 +929,17 @@ I will, my lord. [<i>He exits.</i>]
 It must be by his death. And for my part
 I know no personal cause to spurn at him,
 But for the general. He would be crowned:
-How that might change his nature, there's the
+How that might change his nature, there&rsquo;s the
 question.
 It is the bright day that brings forth the adder,
 And that craves wary walking. Crown him that,
 And then I grant we put a sting in him
 That at his will he may do danger with.
-Th' abuse of greatness is when it disjoins
+Th&rsquo; abuse of greatness is when it disjoins
 Remorse from power. And, to speak truth of Caesar,
 I have not known when his affections swayed
-More than his reason. But 'tis a common proof
-That lowliness is young ambition's ladder,
+More than his reason. But &rsquo;tis a common proof
+That lowliness is young ambition&rsquo;s ladder,
 Whereto the climber-upward turns his face;
 But, when he once attains the upmost round,
 He then unto the ladder turns his back,
@@ -949,7 +949,7 @@ Then, lest he may, prevent. And since the quarrel
 Will bear no color for the thing he is,
 Fashion it thus: that what he is, augmented,
 Would run to these and these extremities.
-And therefore think him as a serpent's egg,
+And therefore think him as a serpent&rsquo;s egg,
 Which, hatched, would, as his kind, grow
 mischievous,
 And kill him in the shell.
@@ -981,17 +981,17 @@ The exhalations, whizzing in the air,
 Give so much light that I may read by them.
 [<i>Opens the letter and reads.</i>]
 
-Brutus, thou sleep'st. Awake, and see thyself!
+Brutus, thou sleep&rsquo;st. Awake, and see thyself!
 Shall Rome, etc. Speak, strike, redress!
-"Brutus, thou sleep'st. Awake."
+"&ldquo;Brutus, thou sleep&rsquo;st. Awake.&rdquo;"
 Such instigations have been often dropped
 Where I have took them up.
-"Shall Rome, etc." Thus must I piece it out:
-Shall Rome stand under one man's awe? What,
+"&ldquo;Shall Rome, etc.&rdquo;" Thus must I piece it out:
+Shall Rome stand under one man&rsquo;s awe? What,
 Rome?
 My ancestors did from the streets of Rome
 The Tarquin drive when he was called a king.
-"Speak, strike, redress!" Am I entreated
+"&ldquo;Speak, strike, redress!&rdquo;" Am I entreated
 To speak and strike? O Rome, I make thee promise,
 If the redress will follow, thou receivest
 Thy full petition at the hand of Brutus.
@@ -1003,7 +1003,7 @@ Sir, March is wasted fifteen days.
 [<i>Knock within.</i>]
 
 <speaker>BRUTUS</speaker>
-'Tis good. Go to the gate; somebody knocks.
+&rsquo;Tis good. Go to the gate; somebody knocks.
 [<i>Lucius exits.</i>]
 Since Cassius first did whet me against Caesar,
 I have not slept.
@@ -1018,7 +1018,7 @@ The nature of an insurrection.
 [<i>Enter Lucius.</i>]
 
 <speaker>LUCIUS</speaker>
-Sir, 'tis your brother Cassius at the door,
+Sir, &rsquo;tis your brother Cassius at the door,
 Who doth desire to see you.
 
 <speaker>BRUTUS</speaker>
@@ -1038,9 +1038,9 @@ That by no means I may discover them
 By any mark of favor.
 
 <speaker>BRUTUS</speaker>
-Let 'em enter. [<i>Lucius exits.</i>]
+Let &rsquo;em enter. [<i>Lucius exits.</i>]
 They are the faction. O conspiracy,
-Sham'st thou to show thy dang'rous brow by night,
+Sham&rsquo;st thou to show thy dang&rsquo;rous brow by night,
 When evils are most free? O, then, by day
 Where wilt thou find a cavern dark enough
 To mask thy monstrous visage? Seek none,
@@ -1118,7 +1118,7 @@ And let us swear our resolution.
 
 <speaker>BRUTUS</speaker>
 No, not an oath. If not the face of men,
-The sufferance of our souls, the time's abuse--
+The sufferance of our souls, the time&rsquo;s abuse--
 If these be motives weak, break off betimes,
 And every man hence to his idle bed.
 So let high-sighted tyranny range on
@@ -1137,7 +1137,7 @@ Old feeble carrions, and such suffering souls
 That welcome wrongs; unto bad causes swear
 Such creatures as men doubt; but do not stain
 The even virtue of our enterprise,
-Nor th' insuppressive mettle of our spirits,
+Nor th&rsquo; insuppressive mettle of our spirits,
 To think that or our cause or our performance
 Did need an oath, when every drop of blood
 That every Roman bears, and nobly bears,
@@ -1158,7 +1158,7 @@ No, by no means.
 <speaker>METELLUS</speaker>
 O, let us have him, for his silver hairs
 Will purchase us a good opinion
-And buy men's voices to commend our deeds.
+And buy men&rsquo;s voices to commend our deeds.
 It shall be said his judgment ruled our hands.
 Our youths and wildness shall no whit appear,
 But all be buried in his gravity.
@@ -1191,24 +1191,24 @@ Our course will seem too bloody, Caius Cassius,
 To cut the head off and then hack the limbs,
 Like wrath in death and envy afterwards;
 For Antony is but a limb of Caesar.
-Let's be sacrificers, but not butchers, Caius.
+Let&rsquo;s be sacrificers, but not butchers, Caius.
 We all stand up against the spirit of Caesar,
 And in the spirit of men there is no blood.
-O, that we then could come by Caesar's spirit
+O, that we then could come by Caesar&rsquo;s spirit
 And not dismember Caesar! But, alas,
 Caesar must bleed for it. And, gentle friends,
-Let's kill him boldly, but not wrathfully.
-Let's carve him as a dish fit for the gods,
+Let&rsquo;s kill him boldly, but not wrathfully.
+Let&rsquo;s carve him as a dish fit for the gods,
 Not hew him as a carcass fit for hounds.
 And let our hearts, as subtle masters do,
 Stir up their servants to an act of rage
-And after seem to chide 'em. This shall make
+And after seem to chide &rsquo;em. This shall make
 Our purpose necessary and not envious;
 Which so appearing to the common eyes,
 We shall be called purgers, not murderers.
 And for Mark Antony, think not of him,
-For he can do no more than Caesar's arm
-When Caesar's head is off.
+For he can do no more than Caesar&rsquo;s arm
+When Caesar&rsquo;s head is off.
 
 <speaker>CASSIUS</speaker>
 Yet I fear him,
@@ -1234,7 +1234,7 @@ The clock hath stricken
 three.
 
 <speaker>TREBONIUS</speaker>
-'Tis time to part.
+&rsquo;Tis time to part.
 
 <speaker>CASSIUS</speaker>
 But it is doubtful yet
@@ -1249,7 +1249,7 @@ May hold him from the Capitol today.
 
 <speaker>DECIUS</speaker>
 Never fear that. If he be so resolved,
-I can o'ersway him, for he loves to hear
+I can o&rsquo;ersway him, for he loves to hear
 That unicorns may be betrayed with trees,
 And bears with glasses, elephants with holes,
 Lions with toils, and men with flatterers.
@@ -1276,10 +1276,10 @@ I wonder none of you have thought of him.
 <speaker>BRUTUS</speaker>
 Now, good Metellus, go along by him.
 He loves me well, and I have given him reasons.
-Send him but hither, and I'll fashion him.
+Send him but hither, and I&rsquo;ll fashion him.
 
 <speaker>CASSIUS</speaker>
-The morning comes upon 's. We'll leave you,
+The morning comes upon &rsquo;s. We&rsquo;ll leave you,
 Brutus.
 And, friends, disperse yourselves, but all remember
 What you have said, and show yourselves true
@@ -1296,7 +1296,7 @@ Boy! Lucius!--Fast asleep? It is no matter.
 Enjoy the honey-heavy dew of slumber.
 Thou hast no figures nor no fantasies
 Which busy care draws in the brains of men.
-Therefore thou sleep'st so sound.
+Therefore thou sleep&rsquo;st so sound.
 
 [<i>Enter Portia.</i>]
 
@@ -1309,7 +1309,7 @@ It is not for your health thus to commit
 Your weak condition to the raw cold morning.
 
 <speaker>PORTIA</speaker>
-Nor for yours neither. You've ungently, Brutus,
+Nor for yours neither. You&rsquo;ve ungently, Brutus,
 Stole from my bed. And yesternight at supper
 You suddenly arose and walked about,
 Musing and sighing, with your arms across,
@@ -1376,7 +1376,7 @@ To keep with you at meals, comfort your bed,
 And talk to you sometimes? Dwell I but in the
 suburbs
 Of your good pleasure? If it be no more,
-Portia is Brutus' harlot, not his wife.
+Portia is Brutus&rsquo; harlot, not his wife.
 
 <speaker>BRUTUS</speaker>
 You are my true and honorable wife,
@@ -1388,14 +1388,14 @@ If this were true, then should I know this secret.
 I grant I am a woman, but withal
 A woman that Lord Brutus took to wife.
 I grant I am a woman, but withal
-A woman well-reputed, Cato's daughter.
+A woman well-reputed, Cato&rsquo;s daughter.
 Think you I am no stronger than my sex,
 Being so fathered and so husbanded?
-Tell me your counsels; I will not disclose 'em.
+Tell me your counsels; I will not disclose &rsquo;em.
 I have made strong proof of my constancy,
 Giving myself a voluntary wound
 Here, in the thigh. Can I bear that with patience,
-And not my husband's secrets?
+And not my husband&rsquo;s secrets?
 
 <speaker>BRUTUS</speaker>
 O you gods,
@@ -1406,7 +1406,7 @@ The secrets of my heart.
 All my engagements I will construe to thee,
 All the charactery of my sad brows.
 Leave me with haste.	[<i>Portia exits.</i>]
-Lucius, who 's that knocks?
+Lucius, who &rsquo;s that knocks?
 
 [<i>Enter Lucius and Ligarius.</i>]
 
@@ -1442,7 +1442,7 @@ Brave son derived from honorable loins,
 Thou like an exorcist hast conjured up
 My mortified spirit. Now bid me run,
 And I will strive with things impossible,
-Yea, get the better of them. What's to do?
+Yea, get the better of them. What&rsquo;s to do?
 
 <speaker>BRUTUS</speaker>
 A piece of work that will make sick men whole.
@@ -1473,7 +1473,7 @@ nightgown.</i>]
 <speaker>CAESAR</speaker>
 Nor heaven nor Earth have been at peace tonight.
 Thrice hath Calphurnia in her sleep cried out
-"Help ho, they murder Caesar!"--Who's within?
+"&ldquo;Help ho, they murder Caesar!"--Who&rsquo;s within?
 
 [<i>Enter a Servant.</i>]
 
@@ -1495,7 +1495,7 @@ You shall not stir out of your house today.
 
 <speaker>CAESAR</speaker>
 Caesar shall forth. The things that threatened me
-Ne'er looked but on my back. When they shall see
+Ne&rsquo;er looked but on my back. When they shall see
 The face of Caesar, they are vanished.
 
 <speaker>CALPHURNIA</speaker>
@@ -1557,7 +1557,7 @@ Alas, my lord,
 Your wisdom is consumed in confidence.
 Do not go forth today. Call it my fear
 That keeps you in the house, and not your own.
-We'll send Mark Antony to the Senate House,
+We&rsquo;ll send Mark Antony to the Senate House,
 And he shall say you are not well today.
 Let me, upon my knee, prevail in this.	[<i>She kneels.</i>]
 
@@ -1568,7 +1568,7 @@ And for thy humor I will stay at home.
 
 [<i>Enter Decius.</i>]
 
-Here's Decius Brutus; he shall tell them so.
+Here&rsquo;s Decius Brutus; he shall tell them so.
 
 <speaker>DECIUS</speaker>
 Caesar, all hail! Good morrow, worthy Caesar.
@@ -1616,7 +1616,7 @@ In which so many smiling Romans bathed,
 Signifies that from you great Rome shall suck
 Reviving blood, and that great men shall press
 For tinctures, stains, relics, and cognizance.
-This by Calphurnia's dream is signified.
+This by Calphurnia&rsquo;s dream is signified.
 
 <speaker>CAESAR</speaker>
 And this way have you well expounded it.
@@ -1628,10 +1628,10 @@ To give this day a crown to mighty Caesar.
 If you shall send them word you will not come,
 Their minds may change. Besides, it were a mock
 Apt to be rendered, for someone to say
-"Break up the Senate till another time,
-When Caesar's wife shall meet with better dreams."
+"&ldquo;Break up the Senate till another time,
+When Caesar&rsquo;s wife shall meet with better dreams.&rdquo;"
 If Caesar hide himself, shall they not whisper
-"Lo, Caesar is afraid"?
+"&ldquo;Lo, Caesar is afraid&rdquo;"?
 Pardon me, Caesar, for my dear dear love
 To your proceeding bids me tell you this,
 And reason to my love is liable.
@@ -1653,12 +1653,12 @@ Good morrow, Caesar.
 Welcome, Publius.--
 What, Brutus, are you stirred so early too?--
 Good morrow, Casca.--Caius Ligarius,
-Caesar was ne'er so much your enemy
+Caesar was ne&rsquo;er so much your enemy
 As that same ague which hath made you lean.--
-What is 't o'clock?
+What is &rsquo;t o&rsquo;clock?
 
 <speaker>BRUTUS</speaker>
-Caesar, 'tis strucken eight.
+Caesar, &rsquo;tis strucken eight.
 
 <speaker>CAESAR</speaker>
 I thank you for your pains and courtesy.
@@ -1676,7 +1676,7 @@ So to most noble Caesar.
   Bid them prepare within.--
 I am to blame to be thus waited for.	[<i>Servant exits.</i>]
 Now, Cinna.--Now, Metellus.--What, Trebonius,
-I have an hour's talk in store for you.
+I have an hour&rsquo;s talk in store for you.
 Remember that you call on me today;
 Be near me that I may remember you.
 
@@ -1735,8 +1735,8 @@ I would have had thee there and here again
 Ere I can tell thee what thou shouldst do there.
 [<i>Aside.</i>]
  O constancy, be strong upon my side;
-Set a huge mountain 'tween my heart and tongue.
-I have a man's mind but a woman's might.
+Set a huge mountain &rsquo;tween my heart and tongue.
+I have a man&rsquo;s mind but a woman&rsquo;s might.
 How hard it is for women to keep counsel!--
 Art thou here yet?
 
@@ -1771,7 +1771,7 @@ Come hither, fellow. Which way hast thou been?
 At mine own house, good lady.
 
 <speaker>PORTIA</speaker>
-What is 't o'clock?
+What is &rsquo;t o&rsquo;clock?
 
 <speaker>SOOTHSAYER</speaker>
 About the ninth hour, lady.
@@ -1792,7 +1792,7 @@ To be so good to Caesar as to hear me,
 I shall beseech him to befriend himself.
 
 <speaker>PORTIA</speaker>
-Why, know'st thou any harm's intended towards
+Why, know&rsquo;st thou any harm&rsquo;s intended towards
 him?
 
 <speaker>SOOTHSAYER</speaker>
@@ -1802,7 +1802,7 @@ Good morrow to you.--Here the street is narrow.
 The throng that follows Caesar at the heels,
 Of senators, of praetors, common suitors,
 Will crowd a feeble man almost to death.
-I'll get me to a place more void, and there
+I&rsquo;ll get me to a place more void, and there
 Speak to great Caesar as he comes along.	[<i>He exits.</i>]
 
 <speaker>PORTIA</speaker>
@@ -1839,11 +1839,11 @@ Ay, Caesar, but not gone.
 Hail, Caesar. Read this schedule.
 
 <speaker>DECIUS</speaker>
-Trebonius doth desire you to o'erread,
+Trebonius doth desire you to o&rsquo;erread,
 At your best leisure, this his humble suit.
 
 <speaker>ARTEMIDORUS</speaker>
-O Caesar, read mine first, for mine's a suit
+O Caesar, read mine first, for mine&rsquo;s a suit
 That touches Caesar nearer. Read it, great Caesar.
 
 <speaker>CAESAR</speaker>
@@ -1938,7 +1938,7 @@ Will he be satisfied.
 
 <speaker>METELLUS</speaker>
 Is there no voice more worthy than my own
-To sound more sweetly in great Caesar's ear
+To sound more sweetly in great Caesar&rsquo;s ear
 For the repealing of my banished brother?
 
 <speaker>BRUTUS,</speaker>
@@ -1964,8 +1964,8 @@ Of whose true fixed and resting quality
 There is no fellow in the firmament.
 The skies are painted with unnumbered sparks;
 They are all fire, and every one doth shine.
-But there's but one in all doth hold his place.
-So in the world: 'tis furnished well with men,
+But there&rsquo;s but one in all doth hold his place.
+So in the world: &rsquo;tis furnished well with men,
 And men are flesh and blood, and apprehensive.
 Yet in the number I do know but one
 That unassailable holds on his rank,
@@ -2002,11 +2002,11 @@ Run hence, proclaim, cry it about the streets.
 
 <speaker>CASSIUS</speaker>
 Some to the common pulpits and cry out
-"Liberty, freedom, and enfranchisement."
+"&ldquo;Liberty, freedom, and enfranchisement.&rdquo;"
 
 <speaker>BRUTUS</speaker>
 People and Senators, be not affrighted.
-Fly not; stand still. Ambition's debt is paid.
+Fly not; stand still. Ambition&rsquo;s debt is paid.
 
 <speaker>CASCA</speaker>
 Go to the pulpit, Brutus.
@@ -2015,13 +2015,13 @@ Go to the pulpit, Brutus.
 And Cassius too.
 
 <speaker>BRUTUS</speaker>
-Where's Publius?
+Where&rsquo;s Publius?
 
 <speaker>CINNA</speaker>
 Here, quite confounded with this mutiny.
 
 <speaker>METELLUS</speaker>
-Stand fast together, lest some friend of Caesar's
+Stand fast together, lest some friend of Caesar&rsquo;s
 Should chance--
 
 <speaker>BRUTUS</speaker>
@@ -2051,7 +2051,7 @@ As it were doomsday.
 <speaker>BRUTUS</speaker>
 Fates, we will know your
 pleasures.
-That we shall die we know; 'tis but the time,
+That we shall die we know; &rsquo;tis but the time,
 And drawing days out, that men stand upon.
 
 <speaker>CASCA</speaker>
@@ -2060,24 +2060,24 @@ Cuts off so many years of fearing death.
 
 <speaker>BRUTUS</speaker>
 Grant that, and then is death a benefit.
-So are we Caesar's friends, that have abridged
+So are we Caesar&rsquo;s friends, that have abridged
 His time of fearing death. Stoop, Romans, stoop,
-And let us bathe our hands in Caesar's blood
+And let us bathe our hands in Caesar&rsquo;s blood
 Up to the elbows and besmear our swords.
 Then walk we forth, even to the marketplace,
-And, waving our red weapons o'er our heads,
-Let's all cry "Peace, freedom, and liberty!"
+And, waving our red weapons o&rsquo;er our heads,
+Let&rsquo;s all cry "&ldquo;Peace, freedom, and liberty!&rdquo;"
 
 <speaker>CASSIUS</speaker>
 Stoop then, and wash.
-[<i>They smear their hands and swords with Caesar's blood.</i>]
+[<i>They smear their hands and swords with Caesar&rsquo;s blood.</i>]
 How many ages hence
 Shall this our lofty scene be acted over
 In states unborn and accents yet unknown!
 
 <speaker>BRUTUS</speaker>
 How many times shall Caesar bleed in sport,
-That now on Pompey's basis lies along
+That now on Pompey&rsquo;s basis lies along
 No worthier than the dust!
 
 <speaker>CASSIUS</speaker>
@@ -2096,7 +2096,7 @@ With the most boldest and best hearts of Rome.
 [<i>Enter a Servant.</i>]
 
 <speaker>BRUTUS</speaker>
-Soft, who comes here? A friend of Antony's.
+Soft, who comes here? A friend of Antony&rsquo;s.
 
 <speaker>SERVANT,</speaker>
 [<i>kneeling</i>]
@@ -2124,7 +2124,7 @@ He shall be satisfied and, by my honor,
 Depart untouched.
 
 <speaker>SERVANT</speaker>
-I'll fetch him presently.
+I&rsquo;ll fetch him presently.
 [<i>Servant exits.</i>]
 
 <speaker>BRUTUS</speaker>
@@ -2147,7 +2147,7 @@ Shrunk to this little measure? Fare thee well.--
 I know not, gentlemen, what you intend,
 Who else must be let blood, who else is rank.
 If I myself, there is no hour so fit
-As Caesar's death's hour, nor no instrument
+As Caesar&rsquo;s death&rsquo;s hour, nor no instrument
 Of half that worth as those your swords made rich
 With the most noble blood of all this world.
 I do beseech you, if you bear me hard,
@@ -2170,11 +2170,11 @@ And pity to the general wrong of Rome
 Hath done this deed on Caesar. For your part,
 To you our swords have leaden points, Mark Antony.
 Our arms in strength of malice, and our hearts
-Of brothers' temper, do receive you in
+Of brothers&rsquo; temper, do receive you in
 With all kind love, good thoughts, and reverence.
 
 <speaker>CASSIUS</speaker>
-Your voice shall be as strong as any man's
+Your voice shall be as strong as any man&rsquo;s
 In the disposing of new dignities.
 
 <speaker>BRUTUS</speaker>
@@ -2198,7 +2198,7 @@ Gentlemen all--alas, what shall I say?
 My credit now stands on such slippery ground
 That one of two bad ways you must conceit me,
 Either a coward or a flatterer.--
-That I did love thee, Caesar, O, 'tis true!
+That I did love thee, Caesar, O, &rsquo;tis true!
 If then thy spirit look upon us now,
 Shall it not grieve thee dearer than thy death
 To see thy Antony making his peace,
@@ -2245,7 +2245,7 @@ That were you, Antony, the son of Caesar,
 You should be satisfied.
 
 <speaker>ANTONY</speaker>
-That's all I seek;
+That&rsquo;s all I seek;
 And am, moreover, suitor that I may
 Produce his body to the marketplace,
 And in the pulpit, as becomes a friend,
@@ -2267,7 +2267,7 @@ By that which he will utter?
 [<i>aside to Cassius</i>]
   By your pardon,
 I will myself into the pulpit first
-And show the reason of our Caesar's death.
+And show the reason of our Caesar&rsquo;s death.
 What Antony shall speak I will protest
 He speaks by leave and by permission,
 And that we are contented Caesar shall
@@ -2279,10 +2279,10 @@ It shall advantage more than do us wrong.
 I know not what may fall. I like it not.
 
 <speaker>BRUTUS</speaker>
-Mark Antony, here, take you Caesar's body.
+Mark Antony, here, take you Caesar&rsquo;s body.
 You shall not in your funeral speech blame us
 But speak all good you can devise of Caesar
-And say you do 't by our permission,
+And say you do &rsquo;t by our permission,
 Else shall you not have any hand at all
 About his funeral. And you shall speak
 In the same pulpit whereto I am going,
@@ -2313,14 +2313,14 @@ And dreadful objects so familiar
 That mothers shall but smile when they behold
 Their infants quartered with the hands of war,
 All pity choked with custom of fell deeds;
-And Caesar's spirit, ranging for revenge,
+And Caesar&rsquo;s spirit, ranging for revenge,
 With Ate by his side come hot from hell,
-Shall in these confines with a monarch's voice
-Cry "Havoc!" and let slip the dogs of war,
+Shall in these confines with a monarch&rsquo;s voice
+Cry "&ldquo;Havoc!&rdquo;" and let slip the dogs of war,
 That this foul deed shall smell above the earth
 With carrion men groaning for burial.
 
-[<i>Enter Octavius' Servant.</i>]
+[<i>Enter Octavius&rsquo; Servant.</i>]
 
 You serve Octavius Caesar, do you not?
 
@@ -2357,7 +2357,7 @@ The cruel issue of these bloody men,
 According to the which thou shalt discourse
 To young Octavius of the state of things.
 Lend me your hand.
-[<i>They exit with Caesar's body.</i>]
+[<i>They exit with Caesar&rsquo;s body.</i>]
 
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
@@ -2370,10 +2370,10 @@ We will be satisfied! Let us be satisfied!
 Then follow me and give me audience, friends.--
 Cassius, go you into the other street
 And part the numbers.--
-Those that will hear me speak, let 'em stay here;
+Those that will hear me speak, let &rsquo;em stay here;
 Those that will follow Cassius, go with him;
 And public reasons shall be rendered
-Of Caesar's death.
+Of Caesar&rsquo;s death.
 
 <speaker>FIRST PLEBEIAN</speaker>
 I will hear Brutus speak.
@@ -2395,7 +2395,7 @@ for mine honor, and have respect to mine honor
 that you may believe. Censure me in your wisdom,
 and awake your senses that you may the better
 judge. If there be any in this assembly, any dear
-friend of Caesar's, to him I say that Brutus' love
+friend of Caesar&rsquo;s, to him I say that Brutus&rsquo; love
 to Caesar was no less than his. If then that friend
 demand why Brutus rose against Caesar, this is my
 answer: not that I loved Caesar less, but that I loved
@@ -2423,7 +2423,7 @@ question of his death is enrolled in the Capitol, his
 glory not extenuated wherein he was worthy, nor
 his offenses enforced for which he suffered death.
 
-[<i>Enter Mark Antony and others with Caesar's body.</i>]
+[<i>Enter Mark Antony and others with Caesar&rsquo;s body.</i>]
 
 Here comes his body, mourned by Mark Antony,
 who, though he had no hand in his death, shall
@@ -2446,11 +2446,11 @@ Give him a statue with his ancestors.
 Let him be Caesar.
 
 <speaker>FOURTH PLEBEIAN</speaker>
-Caesar's better parts
+Caesar&rsquo;s better parts
 Shall be crowned in Brutus.
 
 <speaker>FIRST PLEBEIAN</speaker>
-We'll bring him to his house with shouts and
+We&rsquo;ll bring him to his house with shouts and
 clamors.
 
 <speaker>BRUTUS</speaker>
@@ -2465,8 +2465,8 @@ Peace, ho!
 <speaker>BRUTUS</speaker>
 Good countrymen, let me depart alone,
 And, for my sake, stay here with Antony.
-Do grace to Caesar's corpse, and grace his speech
-Tending to Caesar's glories, which Mark Antony
+Do grace to Caesar&rsquo;s corpse, and grace his speech
+Tending to Caesar&rsquo;s glories, which Mark Antony
 (By our permission) is allowed to make.
 I do entreat you, not a man depart,
 Save I alone, till Antony have spoke.
@@ -2479,27 +2479,27 @@ Stay, ho, and let us hear Mark Antony!
 Let him go up into the public chair.
 
 <speaker>PLEBEIANS</speaker>
-We'll hear him.--Noble Antony, go up.
+We&rsquo;ll hear him.--Noble Antony, go up.
 
 <speaker>ANTONY</speaker>
-For Brutus' sake, I am beholding to you.
+For Brutus&rsquo; sake, I am beholding to you.
 [<i>He goes into the pulpit.</i>]
 
 <speaker>FOURTH PLEBEIAN</speaker>
 What does he say of Brutus?
 
 <speaker>THIRD PLEBEIAN</speaker>
-He says for Brutus' sake
+He says for Brutus&rsquo; sake
 He finds himself beholding to us all.
 
 <speaker>FOURTH PLEBEIAN</speaker>
-'Twere best he speak no harm of Brutus here.
+&rsquo;Twere best he speak no harm of Brutus here.
 
 <speaker>FIRST PLEBEIAN</speaker>
 This Caesar was a tyrant.
 
 <speaker>THIRD PLEBEIAN</speaker>
-Nay, that's certain.
+Nay, that&rsquo;s certain.
 We are blest that Rome is rid of him.
 
 <speaker>SECOND PLEBEIAN</speaker>
@@ -2523,7 +2523,7 @@ And grievously hath Caesar answered it.
 Here, under leave of Brutus and the rest
 (For Brutus is an honorable man;
 So are they all, all honorable men),
-Come I to speak in Caesar's funeral.
+Come I to speak in Caesar&rsquo;s funeral.
 He was my friend, faithful and just to me,
 But Brutus says he was ambitious,
 And Brutus is an honorable man.
@@ -2563,7 +2563,7 @@ I fear there will a worse come in his place.
 <speaker>FOURTH PLEBEIAN</speaker>
 Marked you his words? He would not take the
 crown;
-Therefore 'tis certain he was not ambitious.
+Therefore &rsquo;tis certain he was not ambitious.
 
 <speaker>FIRST PLEBEIAN</speaker>
 If it be found so, some will dear abide it.
@@ -2572,7 +2572,7 @@ If it be found so, some will dear abide it.
 Poor soul, his eyes are red as fire with weeping.
 
 <speaker>THIRD PLEBEIAN</speaker>
-There's not a nobler man in Rome than Antony.
+There&rsquo;s not a nobler man in Rome than Antony.
 
 <speaker>FOURTH PLEBEIAN</speaker>
 Now mark him. He begins again to speak.
@@ -2588,11 +2588,11 @@ Who, you all know, are honorable men.
 I will not do them wrong. I rather choose
 To wrong the dead, to wrong myself and you,
 Than I will wrong such honorable men.
-But here's a parchment with the seal of Caesar.
-I found it in his closet. 'Tis his will.
+But here&rsquo;s a parchment with the seal of Caesar.
+I found it in his closet. &rsquo;Tis his will.
 Let but the commons hear this testament,
 Which, pardon me, I do not mean to read,
-And they would go and kiss dead Caesar's wounds
+And they would go and kiss dead Caesar&rsquo;s wounds
 And dip their napkins in his sacred blood--
 Yea, beg a hair of him for memory
 And, dying, mention it within their wills,
@@ -2600,10 +2600,10 @@ Bequeathing it as a rich legacy
 Unto their issue.
 
 <speaker>FOURTH PLEBEIAN</speaker>
-We'll hear the will. Read it, Mark Antony.
+We&rsquo;ll hear the will. Read it, Mark Antony.
 
 <speaker>PLEBEIANS</speaker>
-The will, the will! We will hear Caesar's will.
+The will, the will! We will hear Caesar&rsquo;s will.
 
 <speaker>ANTONY</speaker>
 Have patience, gentle friends. I must not read it.
@@ -2611,18 +2611,18 @@ It is not meet you know how Caesar loved you.
 You are not wood, you are not stones, but men.
 And, being men, hearing the will of Caesar,
 It will inflame you; it will make you mad.
-'Tis good you know not that you are his heirs,
+&rsquo;Tis good you know not that you are his heirs,
 For if you should, O, what would come of it?
 
 <speaker>FOURTH PLEBEIAN</speaker>
-Read the will! We'll hear it, Antony.
+Read the will! We&rsquo;ll hear it, Antony.
 
 <speaker>PLEBEIANS</speaker>
-You shall read us the will, Caesar's will.
+You shall read us the will, Caesar&rsquo;s will.
 
 <speaker>ANTONY</speaker>
 Will you be patient? Will you stay awhile?
-I have o'ershot myself to tell you of it.
+I have o&rsquo;ershot myself to tell you of it.
 I fear I wrong the honorable men
 Whose daggers have stabbed Caesar. I do fear it.
 
@@ -2671,23 +2671,23 @@ Stand back! Room! Bear back!
 If you have tears, prepare to shed them now.
 You all do know this mantle. I remember
 The first time ever Caesar put it on.
-'Twas on a summer's evening in his tent,
+&rsquo;Twas on a summer&rsquo;s evening in his tent,
 That day he overcame the Nervii.
-Look, in this place ran Cassius' dagger through.
+Look, in this place ran Cassius&rsquo; dagger through.
 See what a rent the envious Casca made.
 Through this the well-beloved Brutus stabbed,
 And, as he plucked his cursed steel away,
 Mark how the blood of Caesar followed it,
 As rushing out of doors to be resolved
 If Brutus so unkindly knocked or no;
-For Brutus, as you know, was Caesar's angel.
+For Brutus, as you know, was Caesar&rsquo;s angel.
 Judge, O you gods, how dearly Caesar loved him!
 This was the most unkindest cut of all.
 For when the noble Caesar saw him stab,
-Ingratitude, more strong than traitors' arms,
+Ingratitude, more strong than traitors&rsquo; arms,
 Quite vanquished him. Then burst his mighty heart,
 And, in his mantle muffling up his face,
-Even at the base of Pompey's statue
+Even at the base of Pompey&rsquo;s statue
 (Which all the while ran blood) great Caesar fell.
 O, what a fall was there, my countrymen!
 Then I and you and all of us fell down,
@@ -2695,8 +2695,8 @@ Whilst bloody treason flourished over us.
 O, now you weep, and I perceive you feel
 The dint of pity. These are gracious drops.
 Kind souls, what, weep you when you but behold
-Our Caesar's vesture wounded? Look you here,
-[<i>Antony lifts Caesar's cloak.</i>]
+Our Caesar&rsquo;s vesture wounded? Look you here,
+[<i>Antony lifts Caesar&rsquo;s cloak.</i>]
 Here is himself, marred as you see with traitors.
 
 <speaker>FIRST PLEBEIAN</speaker>
@@ -2728,8 +2728,8 @@ Stay, countrymen.
 Peace there! Hear the noble Antony.
 
 <speaker>SECOND PLEBEIAN</speaker>
-We'll hear him, we'll follow him,
-we'll die with him.
+We&rsquo;ll hear him, we&rsquo;ll follow him,
+we&rsquo;ll die with him.
 
 <speaker>ANTONY</speaker>
 Good friends, sweet friends, let me not stir you up
@@ -2745,9 +2745,9 @@ That love my friend, and that they know full well
 That gave me public leave to speak of him.
 For I have neither wit, nor words, nor worth,
 Action, nor utterance, nor the power of speech
-To stir men's blood. I only speak right on.
+To stir men&rsquo;s blood. I only speak right on.
 I tell you that which you yourselves do know,
-Show you sweet Caesar's wounds, poor poor dumb
+Show you sweet Caesar&rsquo;s wounds, poor poor dumb
 mouths,
 And bid them speak for me. But were I Brutus,
 And Brutus Antony, there were an Antony
@@ -2756,10 +2756,10 @@ In every wound of Caesar that should move
 The stones of Rome to rise and mutiny.
 
 <speaker>PLEBEIANS</speaker>
-We'll mutiny.
+We&rsquo;ll mutiny.
 
 <speaker>FIRST PLEBEIAN</speaker>
-We'll burn the house of Brutus.
+We&rsquo;ll burn the house of Brutus.
 
 <speaker>THIRD PLEBEIAN</speaker>
 Away then. Come, seek the conspirators.
@@ -2777,15 +2777,15 @@ Alas, you know not. I must tell you then.
 You have forgot the will I told you of.
 
 <speaker>PLEBEIANS</speaker>
-Most true. The will! Let's stay and hear the will.
+Most true. The will! Let&rsquo;s stay and hear the will.
 
 <speaker>ANTONY</speaker>
-Here is the will, and under Caesar's seal:
+Here is the will, and under Caesar&rsquo;s seal:
 To every Roman citizen he gives,
 To every several man, seventy-five drachmas.
 
 <speaker>SECOND PLEBEIAN</speaker>
-Most noble Caesar! We'll revenge his death.
+Most noble Caesar! We&rsquo;ll revenge his death.
 
 <speaker>THIRD PLEBEIAN</speaker>
 O royal Caesar!
@@ -2806,8 +2806,8 @@ Here was a Caesar! When comes such another?
 
 <speaker>FIRST PLEBEIAN</speaker>
 Never, never!--Come, away, away!
-We'll burn his body in the holy place
-And with the brands fire the traitors' houses.
+We&rsquo;ll burn his body in the holy place
+And with the brands fire the traitors&rsquo; houses.
 Take up the body.
 
 <speaker>SECOND PLEBEIAN</speaker>
@@ -2819,7 +2819,7 @@ Pluck down benches.
 <speaker>FOURTH PLEBEIAN</speaker>
 Pluck down forms, windows,
 anything.
-[<i>Plebeians exit with Caesar's body.</i>]
+[<i>Plebeians exit with Caesar&rsquo;s body.</i>]
 
 <speaker>ANTONY</speaker>
 Now let it work. Mischief, thou art afoot;
@@ -2836,7 +2836,7 @@ Sir, Octavius is already come to Rome.
 Where is he?
 
 <speaker>SERVANT</speaker>
-He and Lepidus are at Caesar's house.
+He and Lepidus are at Caesar&rsquo;s house.
 
 <speaker>ANTONY</speaker>
 And thither will I straight to visit him.
@@ -2894,12 +2894,12 @@ Then to answer every man directly and briefly,
 wisely and truly: wisely I say, I am a bachelor.
 
 <speaker>SECOND PLEBEIAN</speaker>
-That's as much as to say they are
-fools that marry. You'll bear me a bang for that, I
+That&rsquo;s as much as to say they are
+fools that marry. You&rsquo;ll bear me a bang for that, I
 fear. Proceed directly.
 
 <speaker>CINNA</speaker>
-Directly, I am going to Caesar's funeral.
+Directly, I am going to Caesar&rsquo;s funeral.
 
 <speaker>FIRST PLEBEIAN</speaker>
 As a friend or an enemy?
@@ -2923,7 +2923,7 @@ Your name, sir, truly.
 Truly, my name is Cinna.
 
 <speaker>FIRST PLEBEIAN</speaker>
-Tear him to pieces! He's a conspirator.
+Tear him to pieces! He&rsquo;s a conspirator.
 
 <speaker>CINNA</speaker>
 I am Cinna the poet, I am Cinna the poet!
@@ -2936,15 +2936,15 @@ for his bad verses!
 I am not Cinna the conspirator.
 
 <speaker>FOURTH PLEBEIAN</speaker>
-It is no matter. His name's Cinna.
+It is no matter. His name&rsquo;s Cinna.
 Pluck but his name out of his heart, and turn him
 going.
 
 <speaker>THIRD PLEBEIAN</speaker>
 Tear him, tear him! Come, brands, ho,
-firebrands! To Brutus', to Cassius', burn all! Some
-to Decius' house, and some to Casca's, some to
-Ligarius'. Away, go!
+firebrands! To Brutus&rsquo;, to Cassius&rsquo;, burn all! Some
+to Decius&rsquo; house, and some to Casca&rsquo;s, some to
+Ligarius&rsquo;. Away, go!
 [<i>All the Plebeians exit, carrying off Cinna.</i>]
 
 <b id="act-4" class="act-header">Act 4</b>
@@ -2967,11 +2967,11 @@ Prick him down, Antony.
 
 <speaker>LEPIDUS</speaker>
 Upon condition Publius shall not live,
-Who is your sister's son, Mark Antony.
+Who is your sister&rsquo;s son, Mark Antony.
 
 <speaker>ANTONY</speaker>
 He shall not live; look, with a spot I damn him.
-But, Lepidus, go you to Caesar's house;
+But, Lepidus, go you to Caesar&rsquo;s house;
 Fetch the will hither, and we shall determine
 How to cut off some charge in legacies.
 
@@ -2995,7 +2995,7 @@ In our black sentence and proscription.
 <speaker>ANTONY</speaker>
 Octavius, I have seen more days than you,
 And, though we lay these honors on this man
-To ease ourselves of diverse sland'rous loads,
+To ease ourselves of diverse sland&rsquo;rous loads,
 He shall but bear them as the ass bears gold,
 To groan and sweat under the business,
 Either led or driven, as we point the way;
@@ -3006,7 +3006,7 @@ And graze in commons.
 
 <speaker>OCTAVIUS</speaker>
 You may do your will,
-But he's a tried and valiant soldier.
+But he&rsquo;s a tried and valiant soldier.
 
 <speaker>ANTONY</speaker>
 So is my horse, Octavius, and for that
@@ -3184,7 +3184,7 @@ Chastisement?
 
 <speaker>BRUTUS</speaker>
 Remember March; the ides of March remember.
-Did not great Julius bleed for justice' sake?
+Did not great Julius bleed for justice&rsquo; sake?
 What villain touched his body that did stab
 And not for justice? What, shall one of us
 That struck the foremost man of all this world
@@ -3197,7 +3197,7 @@ Than such a Roman.
 
 <speaker>CASSIUS</speaker>
 Brutus, bait not me.
-I'll not endure it. You forget yourself
+I&rsquo;ll not endure it. You forget yourself
 To hedge me in. I am a soldier, I,
 Older in practice, abler than yourself
 To make conditions.
@@ -3219,7 +3219,7 @@ Have mind upon your health. Tempt me no farther.
 Away, slight man!
 
 <speaker>CASSIUS</speaker>
-Is 't possible?
+Is &rsquo;t possible?
 
 <speaker>BRUTUS</speaker>
 Hear me, for I will speak.
@@ -3237,7 +3237,7 @@ Must I observe you? Must I stand and crouch
 Under your testy humor? By the gods,
 You shall digest the venom of your spleen
 Though it do split you. For, from this day forth,
-I'll use you for my mirth, yea, for my laughter,
+I&rsquo;ll use you for my mirth, yea, for my laughter,
 When you are waspish.
 
 <speaker>CASSIUS</speaker>
@@ -3252,7 +3252,7 @@ I shall be glad to learn of noble men.
 <speaker>CASSIUS</speaker>
 You wrong me every way, you wrong me, Brutus.
 I said an elder soldier, not a better.
-Did I say "better"?
+Did I say "&ldquo;better&rdquo;"?
 
 <speaker>BRUTUS</speaker>
 If you did, I care not.
@@ -3310,7 +3310,7 @@ You did.
 <speaker>CASSIUS</speaker>
 I did not. He was but a fool that brought
 My answer back. Brutus hath rived my heart.
-A friend should bear his friend's infirmities,
+A friend should bear his friend&rsquo;s infirmities,
 But Brutus makes mine greater than they are.
 
 <speaker>BRUTUS</speaker>
@@ -3326,7 +3326,7 @@ I do not like your faults.
 A friendly eye could never see such faults.
 
 <speaker>BRUTUS</speaker>
-A flatterer's would not, though they do appear
+A flatterer&rsquo;s would not, though they do appear
 As huge as high Olympus.
 
 <speaker>CASSIUS</speaker>
@@ -3340,8 +3340,8 @@ To cast into my teeth. O, I could weep
 My spirit from mine eyes! There is my dagger,
 [<i>Offering his dagger to Brutus.</i>]
 And here my naked breast; within, a heart
-Dearer than Pluto's mine, richer than gold.
-If that thou be'st a Roman, take it forth.
+Dearer than Pluto&rsquo;s mine, richer than gold.
+If that thou be&rsquo;st a Roman, take it forth.
 I that denied thee gold will give my heart.
 Strike as thou didst at Caesar, for I know
 When thou didst hate him worst, thou lovedst him
@@ -3376,7 +3376,7 @@ And my heart too.	[<i>They clasp hands.</i>]
 O Brutus!
 
 <speaker>BRUTUS</speaker>
-What's the matter?
+What&rsquo;s the matter?
 
 <speaker>CASSIUS</speaker>
 Have not you love enough to bear with me
@@ -3387,13 +3387,13 @@ Makes me forgetful?
 Yes, Cassius, and from
 henceforth
 When you are over-earnest with your Brutus,
-He'll think your mother chides, and leave you so.
+He&rsquo;ll think your mother chides, and leave you so.
 
 [<i>Enter a Poet followed by Lucilius, Titinius, and Lucius.</i>]
 
 <speaker>POET</speaker>
 Let me go in to see the Generals.
-There is some grudge between 'em; 'tis not meet
+There is some grudge between &rsquo;em; &rsquo;tis not meet
 They be alone.
 
 <speaker>LUCILIUS</speaker>
@@ -3403,12 +3403,12 @@ You shall not come to them.
 Nothing but death shall stay me.
 
 <speaker>CASSIUS</speaker>
-How now, what's the matter?
+How now, what&rsquo;s the matter?
 
 <speaker>POET</speaker>
 For shame, you generals, what do you mean?
 Love and be friends as two such men should be,
-For I have seen more years, I'm sure, than ye.
+For I have seen more years, I&rsquo;m sure, than ye.
 
 <speaker>CASSIUS</speaker>
 Ha, ha, how vilely doth this cynic rhyme!
@@ -3417,10 +3417,10 @@ Ha, ha, how vilely doth this cynic rhyme!
 Get you hence, sirrah! Saucy fellow, hence!
 
 <speaker>CASSIUS</speaker>
-Bear with him, Brutus. 'Tis his fashion.
+Bear with him, Brutus. &rsquo;Tis his fashion.
 
 <speaker>BRUTUS</speaker>
-I'll know his humor when he knows his time.
+I&rsquo;ll know his humor when he knows his time.
 What should the wars do with these jigging fools?--
 Companion, hence!
 
@@ -3458,7 +3458,7 @@ Ha? Portia?
 She is dead.
 
 <speaker>CASSIUS</speaker>
-How 'scaped I killing when I crossed you so?
+How &rsquo;scaped I killing when I crossed you so?
 O insupportable and touching loss!
 Upon what sickness?
 
@@ -3487,8 +3487,8 @@ In this I bury all unkindness, Cassius.	[<i>He drinks.</i>]
 
 <speaker>CASSIUS</speaker>
 My heart is thirsty for that noble pledge.--
-Fill, Lucius, till the wine o'erswell the cup;
-I cannot drink too much of Brutus' love.	[<i>He drinks.</i>]
+Fill, Lucius, till the wine o&rsquo;erswell the cup;
+I cannot drink too much of Brutus&rsquo; love.	[<i>He drinks.</i>]
 [<i>Lucius exits.</i>]
 
 [<i>Enter Titinius and Messala.</i>]
@@ -3580,14 +3580,14 @@ Your reason?
 
 <speaker>CASSIUS</speaker>
 This it is:
-'Tis better that the enemy seek us;
+&rsquo;Tis better that the enemy seek us;
 So shall he waste his means, weary his soldiers,
 Doing himself offense, whilst we, lying still,
 Are full of rest, defense, and nimbleness.
 
 <speaker>BRUTUS</speaker>
 Good reasons must of force give place to better.
-The people 'twixt Philippi and this ground
+The people &rsquo;twixt Philippi and this ground
 Do stand but in a forced affection,
 For they have grudged us contribution.
 The enemy, marching along by them,
@@ -3616,7 +3616,7 @@ Or lose our ventures.
 
 <speaker>CASSIUS</speaker>
 Then, with your will, go on;
-We'll along ourselves and meet them at Philippi.
+We&rsquo;ll along ourselves and meet them at Philippi.
 
 <speaker>BRUTUS</speaker>
 The deep of night is crept upon our talk,
@@ -3642,7 +3642,7 @@ Good night and good repose.
 <speaker>CASSIUS</speaker>
 O my dear brother,
 This was an ill beginning of the night.
-Never come such division 'tween our souls!
+Never come such division &rsquo;tween our souls!
 Let it not, Brutus.
 
 [<i>Enter Lucius with the gown.</i>]
@@ -3668,10 +3668,10 @@ Give me the gown. Where is thy instrument?
 Here in the tent.
 
 <speaker>BRUTUS</speaker>
-What, thou speak'st drowsily?
-Poor knave, I blame thee not; thou art o'erwatched.
+What, thou speak&rsquo;st drowsily?
+Poor knave, I blame thee not; thou art o&rsquo;erwatched.
 Call Claudius and some other of my men;
-I'll have them sleep on cushions in my tent.
+I&rsquo;ll have them sleep on cushions in my tent.
 
 <speaker>LUCIUS</speaker>
 Varro and Claudius.
@@ -3694,7 +3694,7 @@ pleasure.
 I will not have it so. Lie down, good sirs.
 It may be I shall otherwise bethink me.
 [<i>They lie down.</i>]
-Look, Lucius, here's the book I sought for so.
+Look, Lucius, here&rsquo;s the book I sought for so.
 I put it in the pocket of my gown.
 
 <speaker>LUCIUS</speaker>
@@ -3706,7 +3706,7 @@ Canst thou hold up thy heavy eyes awhile
 And touch thy instrument a strain or two?
 
 <speaker>LUCIUS</speaker>
-Ay, my lord, an 't please you.
+Ay, my lord, an &rsquo;t please you.
 
 <speaker>BRUTUS</speaker>
 It does, my boy.
@@ -3727,12 +3727,12 @@ It was well done, and thou shalt sleep again.
 I will not hold thee long. If I do live,
 I will be good to thee.
 [<i>Music and a song. Lucius then falls asleep.</i>]
-This is a sleepy tune. O murd'rous slumber,
+This is a sleepy tune. O murd&rsquo;rous slumber,
 Layest thou thy leaden mace upon my boy,
 That plays thee music?--Gentle knave, good night.
 I will not do thee so much wrong to wake thee.
-If thou dost nod, thou break'st thy instrument.
-I'll take it from thee and, good boy, good night.
+If thou dost nod, thou break&rsquo;st thy instrument.
+I&rsquo;ll take it from thee and, good boy, good night.
 [<i>He moves the instrument.</i>]
 Let me see, let me see; is not the leaf turned down
 Where I left reading? Here it is, I think.
@@ -3745,14 +3745,14 @@ I think it is the weakness of mine eyes
 That shapes this monstrous apparition.
 It comes upon me.--Art thou any thing?
 Art thou some god, some angel, or some devil,
-That mak'st my blood cold and my hair to stare?
+That mak&rsquo;st my blood cold and my hair to stare?
 Speak to me what thou art.
 
 <speaker>GHOST</speaker>
 Thy evil spirit, Brutus.
 
 <speaker>BRUTUS</speaker>
-Why com'st thou?
+Why com&rsquo;st thou?
 
 <speaker>GHOST</speaker>
 To tell thee thou shalt see me at Philippi.
@@ -3846,7 +3846,7 @@ Wherefore they do it. They could be content
 To visit other places, and come down
 With fearful bravery, thinking by this face
 To fasten in our thoughts that they have courage.
-But 'tis not so.
+But &rsquo;tis not so.
 
 [<i>Enter a Messenger.</i>]
 
@@ -3901,8 +3901,8 @@ Good words are better than bad strokes, Octavius.
 
 <speaker>ANTONY</speaker>
 In your bad strokes, Brutus, you give good words.
-Witness the hole you made in Caesar's heart,
-Crying "Long live, hail, Caesar!"
+Witness the hole you made in Caesar&rsquo;s heart,
+Crying "&ldquo;Long live, hail, Caesar!&rdquo;"
 
 <speaker>CASSIUS</speaker>
 Antony,
@@ -3923,7 +3923,7 @@ Villains, you did not so when your vile daggers
 Hacked one another in the sides of Caesar.
 You showed your teeth like apes and fawned like
 hounds
-And bowed like bondmen, kissing Caesar's feet,
+And bowed like bondmen, kissing Caesar&rsquo;s feet,
 Whilst damned Casca, like a cur, behind
 Struck Caesar on the neck. O you flatterers!
 
@@ -3938,17 +3938,17 @@ The proof of it will turn to redder drops.
 Look, I draw a sword against conspirators;
 [<i>He draws.</i>]
 When think you that the sword goes up again?
-Never, till Caesar's three and thirty wounds
+Never, till Caesar&rsquo;s three and thirty wounds
 Be well avenged, or till another Caesar
 Have added slaughter to the sword of traitors.
 
 <speaker>BRUTUS</speaker>
-Caesar, thou canst not die by traitors' hands
-Unless thou bring'st them with thee.
+Caesar, thou canst not die by traitors&rsquo; hands
+Unless thou bring&rsquo;st them with thee.
 
 <speaker>OCTAVIUS</speaker>
 So I hope.
-I was not born to die on Brutus' sword.
+I was not born to die on Brutus&rsquo; sword.
 
 <speaker>BRUTUS</speaker>
 O, if thou wert the noblest of thy strain,
@@ -3998,11 +3998,11 @@ And his opinion. Now I change my mind
 And partly credit things that do presage.
 Coming from Sardis, on our former ensign
 Two mighty eagles fell, and there they perched,
-Gorging and feeding from our soldiers' hands,
+Gorging and feeding from our soldiers&rsquo; hands,
 Who to Philippi here consorted us.
 This morning are they fled away and gone,
 And in their steads do ravens, crows, and kites
-Fly o'er our heads and downward look on us
+Fly o&rsquo;er our heads and downward look on us
 As we were sickly prey. Their shadows seem
 A canopy most fatal, under which
 Our army lies, ready to give up the ghost.
@@ -4023,7 +4023,7 @@ Now, most noble Brutus,
 The gods today stand friendly that we may,
 Lovers in peace, lead on our days to age.
 But since the affairs of men rests still incertain,
-Let's reason with the worst that may befall.
+Let&rsquo;s reason with the worst that may befall.
 If we do lose this battle, then is this
 The very last time we shall speak together.
 What are you then determined to do?
@@ -4056,12 +4056,12 @@ If not, why then this parting was well made.
 
 <speaker>CASSIUS</speaker>
 Forever and forever farewell, Brutus.
-If we do meet again, we'll smile indeed;
-If not, 'tis true this parting was well made.
+If we do meet again, we&rsquo;ll smile indeed;
+If not, &rsquo;tis true this parting was well made.
 
 <speaker>BRUTUS</speaker>
 Why then, lead on.--O, that a man might know
-The end of this day's business ere it come!
+The end of this day&rsquo;s business ere it come!
 But it sufficeth that the day will end,
 And then the end is known.--Come ho, away!
 [<i>They exit.</i>]
@@ -4076,7 +4076,7 @@ Unto the legions on the other side!
 [<i>He hands Messala papers.</i>]
 [<i>Loud alarum.</i>]
 Let them set on at once, for I perceive
-But cold demeanor in Octavius' wing,
+But cold demeanor in Octavius&rsquo; wing,
 And sudden push gives them the overthrow.
 Ride, ride, Messala! Let them all come down.
 [<i>They exit.</i>]
@@ -4125,7 +4125,7 @@ I will be here again even with a thought.	[<i>He exits.</i>]
 <speaker>CASSIUS</speaker>
 Go, Pindarus, get higher on that hill.
 My sight was ever thick. Regard Titinius
-And tell me what thou not'st about the field.
+And tell me what thou not&rsquo;st about the field.
 [<i>Pindarus goes up.</i>]
 This day I breathed first. Time is come round,
 And where I did begin, there shall I end;
@@ -4143,13 +4143,13 @@ Titinius is enclosed round about
 With horsemen that make to him on the spur,
 Yet he spurs on. Now they are almost on him.
 Now Titinius! Now some light. O, he lights too.
-He's ta'en.	[<i>Shout.</i>]
+He&rsquo;s ta&rsquo;en.	[<i>Shout.</i>]
 And hark, they shout for joy.
 
 <speaker>CASSIUS</speaker>
 Come down, behold no more.--
 O, coward that I am to live so long
-To see my best friend ta'en before my face!
+To see my best friend ta&rsquo;en before my face!
 [<i>Pindarus comes down.</i>]
 Come hither, sirrah.
 In Parthia did I take thee prisoner,
@@ -4158,10 +4158,10 @@ That whatsoever I did bid thee do
 Thou shouldst attempt it. Come now, keep thine
 oath.
 Now be a freeman, and with this good sword,
-That ran through Caesar's bowels, search this
+That ran through Caesar&rsquo;s bowels, search this
 bosom.
 Stand not to answer. Here, take thou the hilts,
-And, when my face is covered, as 'tis now,
+And, when my face is covered, as &rsquo;tis now,
 Guide thou the sword.	[<i>Pindarus stabs him.</i>]
 Caesar, thou art revenged
 Even with the sword that killed thee.	[<i>He dies.</i>]
@@ -4177,8 +4177,8 @@ Where never Roman shall take note of him.
 
 <speaker>MESSALA</speaker>
 It is but change, Titinius, for Octavius
-Is overthrown by noble Brutus' power,
-As Cassius' legions are by Antony.
+Is overthrown by noble Brutus&rsquo; power,
+As Cassius&rsquo; legions are by Antony.
 
 <speaker>TITINIUS</speaker>
 These tidings will well comfort Cassius.
@@ -4203,7 +4203,7 @@ Is not that he?
 No, this was he, Messala,
 But Cassius is no more. O setting sun,
 As in thy red rays thou dost sink to night,
-So in his red blood Cassius' day is set.
+So in his red blood Cassius&rsquo; day is set.
 The sun of Rome is set. Our day is gone;
 Clouds, dews, and dangers come. Our deeds are
 done.
@@ -4211,11 +4211,11 @@ Mistrust of my success hath done this deed.
 
 <speaker>MESSALA</speaker>
 Mistrust of good success hath done this deed.
-O hateful error, melancholy's child,
+O hateful error, melancholy&rsquo;s child,
 Why dost thou show to the apt thoughts of men
 The things that are not? O error, soon conceived,
-Thou never com'st unto a happy birth
-But kill'st the mother that engendered thee!
+Thou never com&rsquo;st unto a happy birth
+But kill&rsquo;st the mother that engendered thee!
 
 <speaker>TITINIUS</speaker>
 What, Pindarus! Where art thou, Pindarus?
@@ -4223,7 +4223,7 @@ What, Pindarus! Where art thou, Pindarus?
 <speaker>MESSALA</speaker>
 Seek him, Titinius, whilst I go to meet
 The noble Brutus, thrusting this report
-Into his ears. I may say "thrusting it,"
+Into his ears. I may say "&ldquo;thrusting it,&rdquo;"
 For piercing steel and darts envenomed
 Shall be as welcome to the ears of Brutus
 As tidings of this sight.
@@ -4239,13 +4239,13 @@ And bid me give it thee? Didst thou not hear their
 shouts?
 Alas, thou hast misconstrued everything.
 But hold thee, take this garland on thy brow.
-[<i>Laying the garland on Cassius' brow.</i>]
+[<i>Laying the garland on Cassius&rsquo; brow.</i>]
 Thy Brutus bid me give it thee, and I
 Will do his bidding.--Brutus, come apace,
 And see how I regarded Caius Cassius.--
-By your leave, gods, this is a Roman's part.
-Come, Cassius' sword, and find Titinius' heart!
-[<i>He dies on Cassius' sword.</i>]
+By your leave, gods, this is a Roman&rsquo;s part.
+Come, Cassius&rsquo; sword, and find Titinius&rsquo; heart!
+[<i>He dies on Cassius&rsquo; sword.</i>]
 
 [<i>Alarum. Enter Brutus, Messala, young Cato, Strato,
 Volumnius, and Lucilius, Labeo, and Flavius.</i>]
@@ -4257,7 +4257,7 @@ Where, where, Messala, doth his body lie?
 Lo, yonder, and Titinius mourning it.
 
 <speaker>BRUTUS</speaker>
-Titinius' face is upward.
+Titinius&rsquo; face is upward.
 
 <speaker>CATO</speaker>
 He is slain.
@@ -4269,7 +4269,7 @@ In our own proper entrails.	[<i>Low alarums.</i>]
 
 <speaker>CATO</speaker>
 Brave Titinius!--
-Look whe'er he have not crowned dead Cassius.
+Look whe&rsquo;er he have not crowned dead Cassius.
 
 <speaker>BRUTUS</speaker>
 Are yet two Romans living such as these?--
@@ -4284,7 +4284,7 @@ His funerals shall not be in our camp,
 Lest it discomfort us.--Lucilius, come.--
 And come, young Cato. Let us to the field.--
 Labeo and Flavius, set our battles on.
-'Tis three o'clock, and, Romans, yet ere night
+&rsquo;Tis three o&rsquo;clock, and, Romans, yet ere night
 We shall try fortune in a second fight.
 [<i>They exit.</i>]
 
@@ -4301,18 +4301,18 @@ Yet, countrymen, O, yet hold up your heads!
 What bastard doth not? Who will go with me?
 I will proclaim my name about the field.
 I am the son of Marcus Cato, ho!
-A foe to tyrants and my country's friend.
+A foe to tyrants and my country&rsquo;s friend.
 I am the son of Marcus Cato, ho!
 
 [<i>Enter Soldiers and fight.</i>]
 
 <speaker>LUCILIUS</speaker>
 And I am Brutus, Marcus Brutus, I!
-Brutus, my country's friend! Know me for Brutus.
+Brutus, my country&rsquo;s friend! Know me for Brutus.
 [<i>Cato is killed.</i>]
 O young and noble Cato, art thou down?
 Why, now thou diest as bravely as Titinius
-And mayst be honored, being Cato's son.
+And mayst be honored, being Cato&rsquo;s son.
 
 <speaker>FIRST SOLDIER,</speaker>
 [<i>seizing Lucilius</i>]
@@ -4330,11 +4330,11 @@ We must not. A noble prisoner!
 [<i>Enter Antony.</i>]
 
 <speaker>SECOND SOLDIER</speaker>
-Room, ho! Tell Antony Brutus is ta'en.
+Room, ho! Tell Antony Brutus is ta&rsquo;en.
 
 <speaker>FIRST SOLDIER</speaker>
-I'll tell the news. Here comes the General.--
-Brutus is ta'en, Brutus is ta'en, my lord.
+I&rsquo;ll tell the news. Here comes the General.--
+Brutus is ta&rsquo;en, Brutus is ta&rsquo;en, my lord.
 
 <speaker>ANTONY</speaker>
 Where is he?
@@ -4352,8 +4352,8 @@ This is not Brutus, friend, but I assure you,
 A prize no less in worth. Keep this man safe.
 Give him all kindness. I had rather have
 Such men my friends than enemies. Go on,
-And see whe'er Brutus be alive or dead,
-And bring us word unto Octavius' tent
+And see whe&rsquo;er Brutus be alive or dead,
+And bring us word unto Octavius&rsquo; tent
 How everything is chanced.
 [<i>They exit in different directions.</i>]
 
@@ -4367,7 +4367,7 @@ Come, poor remains of friends, rest on this rock.
 
 <speaker>CLITUS</speaker>
 Statilius showed the torchlight, but, my lord,
-He came not back. He is or ta'en or slain.
+He came not back. He is or ta&rsquo;en or slain.
 
 <speaker>BRUTUS</speaker>
 Sit thee down, Clitus. Slaying is the word;
@@ -4381,7 +4381,7 @@ What, I, my lord? No, not for all the world.
 Peace, then, no words.
 
 <speaker>CLITUS</speaker>
-I'll rather kill myself.
+I&rsquo;ll rather kill myself.
 
 <speaker>BRUTUS</speaker>
 Hark thee, Dardanus.	[<i>He whispers to Dardanus.</i>]
@@ -4428,12 +4428,12 @@ Thou seest the world, Volumnius, how it goes.
 Our enemies have beat us to the pit.	[<i>Low alarums.</i>]
 It is more worthy to leap in ourselves
 Than tarry till they push us. Good Volumnius,
-Thou know'st that we two went to school together;
+Thou know&rsquo;st that we two went to school together;
 Even for that our love of old, I prithee,
 Hold thou my sword hilts whilst I run on it.
 
 <speaker>VOLUMNIUS</speaker>
-That's not an office for a friend, my lord.
+That&rsquo;s not an office for a friend, my lord.
 [<i>Alarum continues.</i>]
 
 <speaker>CLITUS</speaker>
@@ -4448,11 +4448,11 @@ I found no man but he was true to me.
 I shall have glory by this losing day
 More than Octavius and Mark Antony
 By this vile conquest shall attain unto.
-So fare you well at once, for Brutus' tongue
-Hath almost ended his life's history.
+So fare you well at once, for Brutus&rsquo; tongue
+Hath almost ended his life&rsquo;s history.
 Night hangs upon mine eyes; my bones would rest,
 That have but labored to attain this hour.
-[<i>Alarum. Cry within "Fly, fly, fly!"</i>]
+[<i>Alarum. Cry within "&ldquo;Fly, fly, fly!"</i>]
 
 <speaker>CLITUS</speaker>
 Fly, my lord, fly!
@@ -4482,7 +4482,7 @@ Lucilius, and the army.</i>]
 What man is that?
 
 <speaker>MESSALA</speaker>
-My master's man.--Strato, where is thy master?
+My master&rsquo;s man.--Strato, where is thy master?
 
 <speaker>STRATO</speaker>
 Free from the bondage you are in, Messala.
@@ -4492,7 +4492,7 @@ And no man else hath honor by his death.
 
 <speaker>LUCILIUS</speaker>
 So Brutus should be found.--I thank thee, Brutus,
-That thou hast proved Lucilius' saying true.
+That thou hast proved Lucilius&rsquo; saying true.
 
 <speaker>OCTAVIUS</speaker>
 All that served Brutus, I will entertain them.--
@@ -4522,14 +4522,14 @@ He only in a general honest thought
 And common good to all made one of them.
 His life was gentle and the elements
 So mixed in him that nature might stand up
-And say to all the world "This was a man."
+And say to all the world "&ldquo;This was a man.&rdquo;"
 
 <speaker>OCTAVIUS</speaker>
 According to his virtue, let us use him
 With all respect and rites of burial.
 Within my tent his bones tonight shall lie,
 Most like a soldier, ordered honorably.
-So call the field to rest, and let's away
+So call the field to rest, and let&rsquo;s away
 To part the glories of this happy day.
 [<i>They all exit.</i>]
 `;

@@ -24,11 +24,11 @@ Our dreadful marches to delightful measures.
 Grim-visaged war hath smoothed his wrinkled front;
 And now, instead of mounting barbed steeds
 To fright the souls of fearful adversaries,
-He capers nimbly in a lady's chamber
+He capers nimbly in a lady&rsquo;s chamber
 To the lascivious pleasing of a lute.
 But I, that am not shaped for sportive tricks,
 Nor made to court an amorous looking glass;
-I, that am rudely stamped and want love's majesty
+I, that am rudely stamped and want love&rsquo;s majesty
 To strut before a wanton ambling nymph;
 I, that am curtailed of this fair proportion,
 Cheated of feature by dissembling nature,
@@ -51,8 +51,8 @@ In deadly hate, the one against the other;
 And if King Edward be as true and just
 As I am subtle, false, and treacherous,
 This day should Clarence closely be mewed up
-About a prophecy which says that "G"
-Of Edward's heirs the murderer shall be.
+About a prophecy which says that "&ldquo;G&rdquo;"
+Of Edward&rsquo;s heirs the murderer shall be.
 Dive, thoughts, down to my soul. Here Clarence
 comes.
 
@@ -62,7 +62,7 @@ Brother, good day. What means this armed guard
 That waits upon your Grace?
 
 CLARENCE  His Majesty,
-Tend'ring my person's safety, hath appointed
+Tend&rsquo;ring my person&rsquo;s safety, hath appointed
 This conduct to convey me to the Tower.
 
 RICHARD
@@ -76,14 +76,14 @@ Alack, my lord, that fault is none of yours.
 He should, for that, commit your godfathers.
 O, belike his Majesty hath some intent
 That you should be new christened in the Tower.
-But what's the matter, Clarence? May I know?
+But what&rsquo;s the matter, Clarence? May I know?
 
 CLARENCE
 Yea, Richard, when I know, for I protest
 As yet I do not. But, as I can learn,
 He hearkens after prophecies and dreams,
 And from the crossrow plucks the letter G,
-And says a wizard told him that by "G"
+And says a wizard told him that by "&ldquo;G&rdquo;"
 His issue disinherited should be.
 And for my name of George begins with G,
 It follows in his thought that I am he.
@@ -92,8 +92,8 @@ Hath moved his Highness to commit me now.
 
 RICHARD
 Why, this it is when men are ruled by women.
-'Tis not the King that sends you to the Tower.
-My Lady Grey his wife, Clarence, 'tis she
+&rsquo;Tis not the King that sends you to the Tower.
+My Lady Grey his wife, Clarence, &rsquo;tis she
 That tempers him to this extremity.
 Was it not she and that good man of worship,
 Anthony Woodeville, her brother there,
@@ -103,7 +103,7 @@ We are not safe, Clarence; we are not safe.
 
 CLARENCE
 By heaven, I think there is no man secure
-But the Queen's kindred and night-walking heralds
+But the Queen&rsquo;s kindred and night-walking heralds
 That trudge betwixt the King and Mistress Shore.
 Heard you not what an humble suppliant
 Lord Hastings was to her for his delivery?
@@ -111,10 +111,10 @@ Lord Hastings was to her for his delivery?
 RICHARD
 Humbly complaining to her Deity
 Got my Lord Chamberlain his liberty.
-I'll tell you what: I think it is our way,
+I&rsquo;ll tell you what: I think it is our way,
 If we will keep in favor with the King,
 To be her men and wear her livery.
-The jealous o'erworn widow and herself,
+The jealous o&rsquo;erworn widow and herself,
 Since that our brother dubbed them gentlewomen,
 Are mighty gossips in our monarchy.
 
@@ -130,9 +130,9 @@ You may partake of anything we say.
 We speak no treason, man. We say the King
 Is wise and virtuous, and his noble queen
 Well struck in years, fair, and not jealous.
-We say that Shore's wife hath a pretty foot,
+We say that Shore&rsquo;s wife hath a pretty foot,
 A cherry lip, a bonny eye, a passing pleasing tongue,
-And that the Queen's kindred are made gentlefolks.
+And that the Queen&rsquo;s kindred are made gentlefolks.
 How say you, sir? Can you deny all this?
 
 BRAKENBURY
@@ -152,10 +152,10 @@ CLARENCE
 We know thy charge, Brakenbury, and will obey.
 
 RICHARD
-We are the Queen's abjects and must obey.--
+We are the Queen&rsquo;s abjects and must obey.--
 Brother, farewell. I will unto the King,
-And whatsoe'er you will employ me in,
-Were it to call King Edward's widow "sister,"
+And whatsoe&rsquo;er you will employ me in,
+Were it to call King Edward&rsquo;s widow "&ldquo;sister,&rdquo;"
 I will perform it to enfranchise you.
 Meantime, this deep disgrace in brotherhood
 Touches me deeper than you can imagine.
@@ -172,7 +172,7 @@ CLARENCE  I must, perforce. Farewell.
 [<i>Exit Clarence, Brakenbury, and guard.</i>]
 
 RICHARD
-Go tread the path that thou shalt ne'er return.
+Go tread the path that thou shalt ne&rsquo;er return.
 Simple, plain Clarence, I do love thee so
 That I will shortly send thy soul to heaven,
 If heaven will take the present at our hands.
@@ -213,7 +213,7 @@ RICHARD
 Now, by Saint John, that news is bad indeed.
 O, he hath kept an evil diet long,
 And overmuch consumed his royal person.
-'Tis very grievous to be thought upon.
+&rsquo;Tis very grievous to be thought upon.
 Where is he, in his bed?
 
 HASTINGS  He is.
@@ -223,13 +223,13 @@ Go you before, and I will follow you.
 [<i>Exit Hastings.</i>]
 He cannot live, I hope, and must not die
 Till George be packed with post-horse up to heaven.
-I'll in to urge his hatred more to Clarence
+I&rsquo;ll in to urge his hatred more to Clarence
 With lies well steeled with weighty arguments,
 And, if I fail not in my deep intent,
 Clarence hath not another day to live;
 Which done, God take King Edward to His mercy,
 And leave the world for me to bustle in.
-For then I'll marry Warwick's youngest daughter.
+For then I&rsquo;ll marry Warwick&rsquo;s youngest daughter.
 What though I killed her husband and her father?
 The readiest way to make the wench amends
 Is to become her husband and her father;
@@ -251,7 +251,7 @@ accompanied by Gentlemen.</i>]
 Set down, set down your honorable load,
 If honor may be shrouded in a hearse,
 Whilst I awhile obsequiously lament
-Th' untimely fall of virtuous Lancaster.
+Th&rsquo; untimely fall of virtuous Lancaster.
 [<i>They set down the bier.</i>]
 Poor key-cold figure of a holy king,
 Pale ashes of the house of Lancaster,
@@ -279,10 +279,10 @@ If ever he have wife, let her be made
 More miserable by the death of him
 Than I am made by my young lord and thee.--
 Come now towards Chertsey with your holy load,
-Taken from Paul's to be interred there.
+Taken from Paul&rsquo;s to be interred there.
 [<i>They take up the bier.</i>]
 And still, as you are weary of this weight,
-Rest you, whiles I lament King Henry's corse.
+Rest you, whiles I lament King Henry&rsquo;s corse.
 
 [<i>Enter Richard, Duke of Gloucester.</i>]
 
@@ -295,7 +295,7 @@ To stop devoted charitable deeds?
 
 <speaker>RICHARD</speaker>
 Villains, set down the corse or, by Saint Paul,
-I'll make a corse of him that disobeys.
+I&rsquo;ll make a corse of him that disobeys.
 
 <speaker>GENTLEMAN</speaker>
 My lord, stand back and let the coffin pass.
@@ -303,7 +303,7 @@ My lord, stand back and let the coffin pass.
 <speaker>RICHARD</speaker>
 Unmannered dog, stand thou when I command!--
 Advance thy halberd higher than my breast,
-Or by Saint Paul I'll strike thee to my foot
+Or by Saint Paul I&rsquo;ll strike thee to my foot
 And spurn upon thee, beggar, for thy boldness.
 [<i>They set down the bier.</i>]
 
@@ -320,27 +320,27 @@ His soul thou canst not have. Therefore begone.
 Sweet saint, for charity, be not so curst.
 
 <speaker>ANNE</speaker>
-Foul devil, for God's sake, hence, and trouble us
+Foul devil, for God&rsquo;s sake, hence, and trouble us
 not,
 For thou hast made the happy Earth thy hell,
 Filled it with cursing cries and deep exclaims.
 If thou delight to view thy heinous deeds,
 Behold this pattern of thy butcheries.
 [<i>She points to the corpse.</i>]
-O, gentlemen, see, see dead Henry's wounds
+O, gentlemen, see, see dead Henry&rsquo;s wounds
 Open their congealed mouths and bleed afresh!--
 Blush, blush, thou lump of foul deformity,
-For 'tis thy presence that exhales this blood
+For &rsquo;tis thy presence that exhales this blood
 From cold and empty veins where no blood dwells.
 Thy deeds, inhuman and unnatural,
 Provokes this deluge most unnatural.--
-O God, which this blood mad'st, revenge his death!
-O Earth, which this blood drink'st, revenge his
+O God, which this blood mad&rsquo;st, revenge his death!
+O Earth, which this blood drink&rsquo;st, revenge his
 death!
 Either heaven with lightning strike the murderer
 dead,
 Or Earth gape open wide and eat him quick,
-As thou dost swallow up this good king's blood,
+As thou dost swallow up this good king&rsquo;s blood,
 Which his hell-governed arm hath butchered.
 
 <speaker>RICHARD</speaker>
@@ -348,7 +348,7 @@ Lady, you know no rules of charity,
 Which renders good for bad, blessings for curses.
 
 <speaker>ANNE</speaker>
-Villain, thou know'st nor law of God nor man.
+Villain, thou know&rsquo;st nor law of God nor man.
 No beast so fierce but knows some touch of pity.
 
 <speaker>RICHARD</speaker>
@@ -398,21 +398,21 @@ I did not kill your husband.
 Why then, he is alive.
 
 <speaker>RICHARD</speaker>
-Nay, he is dead, and slain by Edward's hands.
+Nay, he is dead, and slain by Edward&rsquo;s hands.
 
 <speaker>ANNE</speaker>
 In thy foul throat thou liest. Queen Margaret saw
-Thy murd'rous falchion smoking in his blood,
+Thy murd&rsquo;rous falchion smoking in his blood,
 The which thou once didst bend against her breast,
 But that thy brothers beat aside the point.
 
 <speaker>RICHARD</speaker>
-I was provoked by her sland'rous tongue,
+I was provoked by her sland&rsquo;rous tongue,
 That laid their guilt upon my guiltless shoulders.
 
 <speaker>ANNE</speaker>
 Thou wast provoked by thy bloody mind,
-That never dream'st on aught but butcheries.
+That never dream&rsquo;st on aught but butcheries.
 Didst thou not kill this king?
 
 <speaker>RICHARD</speaker>
@@ -477,13 +477,13 @@ These nails should rend that beauty from my
 cheeks.
 
 <speaker>RICHARD</speaker>
-These eyes could not endure that beauty's wrack.
+These eyes could not endure that beauty&rsquo;s wrack.
 You should not blemish it, if I stood by.
 As all the world is cheered by the sun,
 So I by that. It is my day, my life.
 
 <speaker>ANNE</speaker>
-Black night o'ershade thy day, and death thy life.
+Black night o&rsquo;ershade thy day, and death thy life.
 
 <speaker>RICHARD</speaker>
 Curse not thyself, fair creature; thou art both.
@@ -543,7 +543,7 @@ Out of my sight! Thou dost infect mine eyes.
 Thine eyes, sweet lady, have infected mine.
 
 <speaker>ANNE</speaker>
-Would they were basilisks' to strike thee dead.
+Would they were basilisks&rsquo; to strike thee dead.
 
 <speaker>RICHARD</speaker>
 I would they were, that I might die at once,
@@ -556,7 +556,7 @@ No, when my father York and Edward wept
 To hear the piteous moan that Rutland made
 When black-faced Clifford shook his sword at him;
 Nor when thy warlike father, like a child,
-Told the sad story of my father's death
+Told the sad story of my father&rsquo;s death
 And twenty times made pause to sob and weep,
 That all the standers-by had wet their cheeks
 Like trees bedashed with rain--in that sad time,
@@ -580,10 +580,10 @@ And humbly beg the death upon my knee.
 [<i>He kneels and lays his breast open;
 she offers at it with his sword.</i>]
 Nay, do not pause, for I did kill King Henry--
-But 'twas thy beauty that provoked me.
-Nay, now dispatch; 'twas I that stabbed young
+But &rsquo;twas thy beauty that provoked me.
+Nay, now dispatch; &rsquo;twas I that stabbed young
 Edward--
-But 'twas thy heavenly face that set me on.
+But &rsquo;twas thy heavenly face that set me on.
 [<i>She falls the sword.</i>]
 Take up the sword again, or take up me.
 
@@ -609,7 +609,7 @@ To both their deaths shalt thou be accessory.
 I would I knew thy heart.
 
 <speaker>RICHARD</speaker>
-'Tis figured in my tongue.
+&rsquo;Tis figured in my tongue.
 
 <speaker>ANNE</speaker>
 I fear me both are false.
@@ -655,7 +655,7 @@ That it may please you leave these sad designs
 To him that hath most cause to be a mourner,
 And presently repair to Crosby House,
 Where, after I have solemnly interred
-At Chertsey monast'ry this noble king
+At Chertsey monast&rsquo;ry this noble king
 And wet his grave with my repentant tears,
 I will with all expedient duty see you.
 For divers unknown reasons, I beseech you,
@@ -670,9 +670,9 @@ Tressel and Berkeley, go along with me.
 Bid me farewell.
 
 <speaker>ANNE</speaker>
-'Tis more than you deserve;
+&rsquo;Tis more than you deserve;
 But since you teach me how to flatter you,
-Imagine I have said "farewell" already.
+Imagine I have said "&ldquo;farewell&rdquo;" already.
 [<i>Two exit with Anne. The bier is taken up.</i>]
 
 <speaker>GENTLEMAN</speaker>
@@ -683,9 +683,9 @@ No, to Whitefriars. There attend my coming.
 [<i>Halberds and gentlemen exit with corse.</i>]
 Was ever woman in this humor wooed?
 Was ever woman in this humor won?
-I'll have her, but I will not keep her long.
+I&rsquo;ll have her, but I will not keep her long.
 What, I that killed her husband and his father,
-To take her in her heart's extremest hate,
+To take her in her heart&rsquo;s extremest hate,
 With curses in her mouth, tears in her eyes,
 The bleeding witness of my hatred by,
 Having God, her conscience, and these bars against
@@ -704,18 +704,18 @@ The spacious world cannot again afford.
 And will she yet abase her eyes on me,
 That cropped the golden prime of this sweet prince
 And made her widow to a woeful bed?
-On me, whose all not equals Edward's moiety?
+On me, whose all not equals Edward&rsquo;s moiety?
 On me, that halts and am misshapen thus?
 My dukedom to a beggarly denier,
 I do mistake my person all this while!
 Upon my life, she finds, although I cannot,
-Myself to be a marv'lous proper man.
-I'll be at charges for a looking glass
+Myself to be a marv&rsquo;lous proper man.
+I&rsquo;ll be at charges for a looking glass
 And entertain a score or two of tailors
 To study fashions to adorn my body.
 Since I am crept in favor with myself,
 I will maintain it with some little cost.
-But first I'll turn yon fellow in his grave
+But first I&rsquo;ll turn yon fellow in his grave
 And then return lamenting to my love.
 Shine out, fair sun, till I have bought a glass,
 That I may see my shadow as I pass.
@@ -727,13 +727,13 @@ That I may see my shadow as I pass.
 Lord Rivers, and Lord Grey.</i>]
 
 <speaker>RIVERS</speaker>
-Have patience, madam. There's no doubt his
+Have patience, madam. There&rsquo;s no doubt his
 Majesty
 Will soon recover his accustomed health.
 
 <speaker>GREY</speaker>
 In that you brook it ill, it makes him worse.
-Therefore, for God's sake, entertain good comfort
+Therefore, for God&rsquo;s sake, entertain good comfort
 And cheer his Grace with quick and merry eyes.
 
 <speaker>QUEEN ELIZABETH</speaker>
@@ -776,7 +776,7 @@ God make your Majesty joyful, as you have been.
 <speaker>QUEEN ELIZABETH</speaker>
 The Countess Richmond, good my lord of Derby,
 To your good prayer will scarcely say amen.
-Yet, Derby, notwithstanding she's your wife
+Yet, Derby, notwithstanding she&rsquo;s your wife
 And loves not me, be you, good lord, assured
 I hate not you for her proud arrogance.
 
@@ -822,7 +822,7 @@ That I, forsooth, am stern and love them not?
 By holy Paul, they love his Grace but lightly
 That fill his ears with such dissentious rumors.
 Because I cannot flatter and look fair,
-Smile in men's faces, smooth, deceive, and cog,
+Smile in men&rsquo;s faces, smooth, deceive, and cog,
 Duck with French nods and apish courtesy,
 I must be held a rancorous enemy.
 Cannot a plain man live and think no harm,
@@ -855,12 +855,12 @@ Makes him to send, that he may learn the ground.
 I cannot tell. The world is grown so bad
 That wrens make prey where eagles dare not perch.
 Since every Jack became a gentleman,
-There's many a gentle person made a Jack.
+There&rsquo;s many a gentle person made a Jack.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Come, come, we know your meaning, brother
 Gloucester.
-You envy my advancement, and my friends'.
+You envy my advancement, and my friends&rsquo;.
 God grant we never may have need of you.
 
 <speaker>RICHARD</speaker>
@@ -884,7 +884,7 @@ Falsely to draw me in these vile suspects.
 
 <speaker>RICHARD</speaker>
 You may deny that you were not the mean
-Of my Lord Hastings' late imprisonment.
+Of my Lord Hastings&rsquo; late imprisonment.
 
 <speaker>RIVERS</speaker>
 She may, my lord, for--
@@ -916,7 +916,7 @@ To be so baited, scorned, and stormed at.
 
 [<i>Enter old Queen Margaret, apart from the others.</i>]
 
-Small joy have I in being England's queen.
+Small joy have I in being England&rsquo;s queen.
 
 <speaker>QUEEN MARGARET,</speaker>
 [<i>aside</i>]
@@ -927,14 +927,14 @@ Thy honor, state, and seat is due to me.
 [<i>to Queen Elizabeth</i>]
 What, threat you me with telling of the King?
 Tell him and spare not. Look, what I have said,
-I will avouch 't in presence of the King;
-I dare adventure to be sent to th' Tower.
-'Tis time to speak. My pains are quite forgot.
+I will avouch &rsquo;t in presence of the King;
+I dare adventure to be sent to th&rsquo; Tower.
+&rsquo;Tis time to speak. My pains are quite forgot.
 
 <speaker>QUEEN MARGARET,</speaker>
 [<i>aside</i>]
 Out, devil! I do remember them too well:
-Thou killed'st my husband Henry in the Tower,
+Thou killed&rsquo;st my husband Henry in the Tower,
 And Edward, my poor son, at Tewkesbury.
 
 <speaker>RICHARD,</speaker>
@@ -954,14 +954,14 @@ Ay, and much better blood than his or thine.
 In all which time, you and your husband Grey
 Were factious for the House of Lancaster.--
 And, Rivers, so were you.--Was not your husband
-In Margaret's battle at Saint Albans slain?
+In Margaret&rsquo;s battle at Saint Albans slain?
 Let me put in your minds, if you forget,
 What you have been ere this, and what you are;
 Withal, what I have been, and what I am.
 
 <speaker>QUEEN MARGARET,</speaker>
 [<i>aside</i>]
-A murd'rous villain, and so still thou art.
+A murd&rsquo;rous villain, and so still thou art.
 
 <speaker>RICHARD,</speaker>
 [<i>to Queen Elizabeth</i>]
@@ -973,10 +973,10 @@ Ay, and forswore himself--which Jesu pardon!--
   Which God revenge!
 
 <speaker>RICHARD</speaker>
-To fight on Edward's party for the crown;
+To fight on Edward&rsquo;s party for the crown;
 And for his meed, poor lord, he is mewed up.
-I would to God my heart were flint, like Edward's,
-Or Edward's soft and pitiful, like mine.
+I would to God my heart were flint, like Edward&rsquo;s,
+Or Edward&rsquo;s soft and pitiful, like mine.
 I am too childish-foolish for this world.
 
 <speaker>QUEEN MARGARET,</speaker>
@@ -996,7 +996,7 @@ Far be it from my heart, the thought thereof.
 
 <speaker>QUEEN ELIZABETH</speaker>
 As little joy, my lord, as you suppose
-You should enjoy were you this country's king,
+You should enjoy were you this country&rsquo;s king,
 As little joy you may suppose in me
 That I enjoy, being the queen thereof.
 
@@ -1014,7 +1014,7 @@ Yet that, by you deposed, you quake like rebels.--
 Ah, gentle villain, do not turn away.
 
 <speaker>RICHARD</speaker>
-Foul, wrinkled witch, what mak'st thou in my
+Foul, wrinkled witch, what mak&rsquo;st thou in my
 sight?
 
 <speaker>QUEEN MARGARET</speaker>
@@ -1027,7 +1027,7 @@ Wert thou not banished on pain of death?
 <speaker>QUEEN MARGARET</speaker>
 I was, but I do find more pain in banishment
 Than death can yield me here by my abode.
-A husband and a son thou ow'st to me;
+A husband and a son thou ow&rsquo;st to me;
 [<i>To Queen Elizabeth.</i>]
  And thou a kingdom;--all
 of you, allegiance.
@@ -1038,19 +1038,19 @@ And all the pleasures you usurp are mine.
 The curse my noble father laid on thee
 When thou didst crown his warlike brows with
 paper,
-And with thy scorns drew'st rivers from his eyes,
-And then, to dry them, gav'st the Duke a clout
+And with thy scorns drew&rsquo;st rivers from his eyes,
+And then, to dry them, gav&rsquo;st the Duke a clout
 Steeped in the faultless blood of pretty Rutland--
 His curses then, from bitterness of soul
-Denounced against thee, are all fall'n upon thee,
+Denounced against thee, are all fall&rsquo;n upon thee,
 And God, not we, hath plagued thy bloody deed.
 
 <speaker>QUEEN ELIZABETH</speaker>
 So just is God to right the innocent.
 
 <speaker>HASTINGS</speaker>
-O, 'twas the foulest deed to slay that babe,
-And the most merciless that e'er was heard of!
+O, &rsquo;twas the foulest deed to slay that babe,
+And the most merciless that e&rsquo;er was heard of!
 
 <speaker>RIVERS</speaker>
 Tyrants themselves wept when it was reported.
@@ -1065,10 +1065,10 @@ Northumberland, then present, wept to see it.
 What, were you snarling all before I came,
 Ready to catch each other by the throat,
 And turn you all your hatred now on me?
-Did York's dread curse prevail so much with
+Did York&rsquo;s dread curse prevail so much with
 heaven
-That Henry's death, my lovely Edward's death,
-Their kingdom's loss, my woeful banishment,
+That Henry&rsquo;s death, my lovely Edward&rsquo;s death,
+Their kingdom&rsquo;s loss, my woeful banishment,
 Should all but answer for that peevish brat?
 Can curses pierce the clouds and enter heaven?
 Why then, give way, dull clouds, to my quick
@@ -1082,12 +1082,12 @@ For Edward our son, that was Prince of Wales,
 Die in his youth by like untimely violence.
 Thyself a queen, for me that was a queen,
 Outlive thy glory, like my wretched self.
-Long mayst thou live to wail thy children's death
+Long mayst thou live to wail thy children&rsquo;s death
 And see another, as I see thee now,
 Decked in thy rights, as thou art stalled in mine.
 Long die thy happy days before thy death,
 And, after many lengthened hours of grief,
-Die neither mother, wife, nor England's queen.--
+Die neither mother, wife, nor England&rsquo;s queen.--
 Rivers and Dorset, you were standers-by,
 And so wast thou, Lord Hastings, when my son
 Was stabbed with bloody daggers. God I pray Him
@@ -1104,9 +1104,9 @@ If heaven have any grievous plague in store
 Exceeding those that I can wish upon thee,
 O, let them keep it till thy sins be ripe
 And then hurl down their indignation
-On thee, the troubler of the poor world's peace.
+On thee, the troubler of the poor world&rsquo;s peace.
 The worm of conscience still begnaw thy soul.
-Thy friends suspect for traitors while thou liv'st,
+Thy friends suspect for traitors while thou liv&rsquo;st,
 And take deep traitors for thy dearest friends.
 No sleep close up that deadly eye of thine,
 Unless it be while some tormenting dream
@@ -1114,8 +1114,8 @@ Affrights thee with a hell of ugly devils.
 Thou elvish-marked, abortive, rooting hog,
 Thou that wast sealed in thy nativity
 The slave of nature and the son of hell,
-Thou slander of thy heavy mother's womb,
-Thou loathed issue of thy father's loins,
+Thou slander of thy heavy mother&rsquo;s womb,
+Thou loathed issue of thy father&rsquo;s loins,
 Thou rag of honor, thou detested--
 
 <speaker>RICHARD</speaker>
@@ -1139,7 +1139,7 @@ Why, so I did, but looked for no reply.
 O, let me make the period to my curse!
 
 <speaker>RICHARD</speaker>
-'Tis done by me and ends in "Margaret."
+&rsquo;Tis done by me and ends in "&ldquo;Margaret.&rdquo;"
 
 <speaker>QUEEN ELIZABETH,</speaker>
 [<i>to Queen Margaret</i>]
@@ -1147,9 +1147,9 @@ Thus have you breathed your curse against yourself.
 
 <speaker>QUEEN MARGARET</speaker>
 Poor painted queen, vain flourish of my fortune,
-Why strew'st thou sugar on that bottled spider,
+Why strew&rsquo;st thou sugar on that bottled spider,
 Whose deadly web ensnareth thee about?
-Fool, fool, thou whet'st a knife to kill thyself.
+Fool, fool, thou whet&rsquo;st a knife to kill thyself.
 The day will come that thou shalt wish for me
 To help thee curse this poisonous bunch-backed
 toad.
@@ -1178,7 +1178,7 @@ Dispute not with her; she is lunatic.
 Peace, Master Marquess, you are malapert.
 Your fire-new stamp of honor is scarce current.
 O, that your young nobility could judge
-What 'twere to lose it and be miserable!
+What &rsquo;twere to lose it and be miserable!
 They that stand high have many blasts to shake
 them,
 And if they fall, they dash themselves to pieces.
@@ -1191,7 +1191,7 @@ It touches you, my lord, as much as me.
 
 <speaker>RICHARD</speaker>
 Ay, and much more; but I was born so high.
-Our aerie buildeth in the cedar's top,
+Our aerie buildeth in the cedar&rsquo;s top,
 And dallies with the wind and scorns the sun.
 
 <speaker>QUEEN MARGARET</speaker>
@@ -1199,7 +1199,7 @@ And turns the sun to shade. Alas, alas,
 Witness my son, now in the shade of death,
 Whose bright out-shining beams thy cloudy wrath
 Hath in eternal darkness folded up.
-Your aerie buildeth in our aerie's nest.
+Your aerie buildeth in our aerie&rsquo;s nest.
 O God, that seest it, do not suffer it!
 As it is won with blood, lost be it so.
 
@@ -1213,13 +1213,13 @@ Urge neither charity nor shame to me.
 you dealt,
 And shamefully my hopes by you are butchered.
 My charity is outrage, life my shame,
-And in that shame still live my sorrows' rage.
+And in that shame still live my sorrows&rsquo; rage.
 
 <speaker>BUCKINGHAM</speaker>
 Have done, have done.
 
 <speaker>QUEEN MARGARET</speaker>
-O princely Buckingham, I'll kiss thy hand
+O princely Buckingham, I&rsquo;ll kiss thy hand
 In sign of league and amity with thee.
 Now fair befall thee and thy noble house!
 Thy garments are not spotted with our blood,
@@ -1231,7 +1231,7 @@ The lips of those that breathe them in the air.
 
 <speaker>QUEEN MARGARET</speaker>
 I will not think but they ascend the sky,
-And there awake God's gentle sleeping peace.
+And there awake God&rsquo;s gentle sleeping peace.
 [<i>Aside to Buckingham.</i>]
  O Buckingham, take heed of
 yonder dog!
@@ -1254,16 +1254,16 @@ O, but remember this another day,
 When he shall split thy very heart with sorrow,
 And say poor Margaret was a prophetess.--
 Live each of you the subjects to his hate,
-And he to yours, and all of you to God's.	[<i>She exits.</i>]
+And he to yours, and all of you to God&rsquo;s.	[<i>She exits.</i>]
 
 <speaker>BUCKINGHAM</speaker>
 My hair doth stand an end to hear her curses.
 
 <speaker>RIVERS</speaker>
-And so doth mine. I muse why she's at liberty.
+And so doth mine. I muse why she&rsquo;s at liberty.
 
 <speaker>RICHARD</speaker>
-I cannot blame her. By God's holy mother,
+I cannot blame her. By God&rsquo;s holy mother,
 She hath had too much wrong, and I repent
 My part thereof that I have done to her.
 
@@ -1308,14 +1308,14 @@ I lay unto the grievous charge of others.
 Clarence, who I indeed have cast in darkness,
 I do beweep to many simple gulls,
 Namely, to Derby, Hastings, Buckingham,
-And tell them 'tis the Queen and her allies
+And tell them &rsquo;tis the Queen and her allies
 That stir the King against the Duke my brother.
 Now they believe it and withal whet me
 To be revenged on Rivers, Dorset, Grey;
 But then I sigh and, with a piece of scripture,
 Tell them that God bids us do good for evil;
 And thus I clothe my naked villainy
-With odd old ends stol'n forth of Holy Writ,
+With odd old ends stol&rsquo;n forth of Holy Writ,
 And seem a saint when most I play the devil.
 
 [<i>Enter two Murderers.</i>]
@@ -1343,7 +1343,7 @@ Talkers are no good doers. Be assured
 We go to use our hands and not our tongues.
 
 <speaker>RICHARD</speaker>
-Your eyes drop millstones when fools' eyes fall
+Your eyes drop millstones when fools&rsquo; eyes fall
 tears.
 I like you lads. About your business straight.
 Go, go, dispatch.
@@ -1364,7 +1364,7 @@ O, I have passed a miserable night,
 So full of fearful dreams, of ugly sights,
 That, as I am a Christian faithful man,
 I would not spend another such a night
-Though 'twere to buy a world of happy days,
+Though &rsquo;twere to buy a world of happy days,
 So full of dismal terror was the time.
 
 <speaker>KEEPER</speaker>
@@ -1379,7 +1379,7 @@ Upon the hatches. Thence we looked toward
 England
 And cited up a thousand heavy times,
 During the wars of York and Lancaster,
-That had befall'n us. As we paced along
+That had befall&rsquo;n us. As we paced along
 Upon the giddy footing of the hatches,
 Methought that Gloucester stumbled, and in falling
 Struck me, that thought to stay him, overboard
@@ -1392,9 +1392,9 @@ A thousand men that fishes gnawed upon,
 Wedges of gold, great anchors, heaps of pearl,
 Inestimable stones, unvalued jewels,
 All scattered in the bottom of the sea.
-Some lay in dead men's skulls, and in the holes
+Some lay in dead men&rsquo;s skulls, and in the holes
 Where eyes did once inhabit, there were crept--
-As 'twere in scorn of eyes--reflecting gems,
+As &rsquo;twere in scorn of eyes--reflecting gems,
 That wooed the slimy bottom of the deep
 And mocked the dead bones that lay scattered by.
 
@@ -1406,7 +1406,7 @@ To gaze upon these secrets of the deep?
 Methought I had, and often did I strive
 To yield the ghost, but still the envious flood
 Stopped in my soul and would not let it forth
-To find the empty, vast, and wand'ring air,
+To find the empty, vast, and wand&rsquo;ring air,
 But smothered it within my panting bulk,
 Who almost burst to belch it in the sea.
 
@@ -1421,15 +1421,15 @@ With that sour ferryman which poets write of,
 Unto the kingdom of perpetual night.
 The first that there did greet my stranger-soul
 Was my great father-in-law, renowned Warwick,
-Who spake aloud "What scourge for perjury
-Can this dark monarchy afford false Clarence?"
-And so he vanished. Then came wand'ring by
+Who spake aloud "&ldquo;What scourge for perjury
+Can this dark monarchy afford false Clarence?&rdquo;"
+And so he vanished. Then came wand&rsquo;ring by
 A shadow like an angel, with bright hair
 Dabbled in blood, and he shrieked out aloud
-"Clarence is come--false, fleeting, perjured
+"&ldquo;Clarence is come--false, fleeting, perjured
 Clarence,
 That stabbed me in the field by Tewkesbury.
-Seize on him, furies. Take him unto torment."
+Seize on him, furies. Take him unto torment.&rdquo;"
 With that, methoughts, a legion of foul fiends
 Environed me and howled in mine ears
 Such hideous cries that with the very noise
@@ -1444,7 +1444,7 @@ I am afraid, methinks, to hear you tell it.
 <speaker>CLARENCE</speaker>
 Ah keeper, keeper, I have done these things,
 That now give evidence against my soul,
-For Edward's sake, and see how he requites me.--
+For Edward&rsquo;s sake, and see how he requites me.--
 O God, if my deep prayers cannot appease thee,
 But thou wilt be avenged on my misdeeds,
 Yet execute thy wrath in me alone!
@@ -1466,15 +1466,15 @@ An outward honor for an inward toil,
 And, for unfelt imaginations,
 They often feel a world of restless cares,
 So that between their titles and low name
-There's nothing differs but the outward fame.
+There&rsquo;s nothing differs but the outward fame.
 
 [<i>Enter two Murderers.</i>]
 
 <speaker>FIRST MURDERER</speaker>
-Ho, who's here?
+Ho, who&rsquo;s here?
 
 <speaker>BRAKENBURY</speaker>
-What wouldst thou, fellow? And how cam'st thou
+What wouldst thou, fellow? And how cam&rsquo;st thou
 hither?
 
 <speaker>SECOND MURDERER</speaker>
@@ -1485,7 +1485,7 @@ came hither on my legs.
 What, so brief?
 
 <speaker>FIRST MURDERER</speaker>
-'Tis better, sir, than to be tedious.--
+&rsquo;Tis better, sir, than to be tedious.--
 Let him see our commission, and talk no more.
 [<i>Brakenbury reads the commission.</i>]
 
@@ -1496,11 +1496,11 @@ I will not reason what is meant hereby
 Because I will be guiltless from the meaning.
 There lies the Duke asleep, and there the keys.
 [<i>He hands them keys.</i>]
-I'll to the King and signify to him
+I&rsquo;ll to the King and signify to him
 That thus I have resigned to you my charge.
 
 <speaker>FIRST MURDERER</speaker>
-You may, sir. 'Tis a point of wisdom.
+You may, sir. &rsquo;Tis a point of wisdom.
 Fare you well.
 [<i>Brakenbury and the Keeper exit.</i>]
 
@@ -1509,7 +1509,7 @@ What, shall I stab him as he
 sleeps?
 
 <speaker>FIRST MURDERER</speaker>
-No. He'll say 'twas done cowardly,
+No. He&rsquo;ll say &rsquo;twas done cowardly,
 when he wakes.
 
 <speaker>SECOND MURDERER</speaker>
@@ -1517,11 +1517,11 @@ Why, he shall never wake until the
 great Judgment Day.
 
 <speaker>FIRST MURDERER</speaker>
-Why, then he'll say we stabbed him
+Why, then he&rsquo;ll say we stabbed him
 sleeping.
 
 <speaker>SECOND MURDERER</speaker>
-The urging of that word "judgment"
+The urging of that word "&ldquo;judgment&rdquo;"
 hath bred a kind of remorse in me.
 
 <speaker>FIRST MURDERER</speaker>
@@ -1539,7 +1539,7 @@ I thought thou hadst been resolute.
 So I am--to let him live.
 
 <speaker>FIRST MURDERER</speaker>
-I'll back to the Duke of Gloucester
+I&rsquo;ll back to the Duke of Gloucester
 and tell him so.
 
 <speaker>SECOND MURDERER</speaker>
@@ -1556,17 +1556,17 @@ are yet within me.
 
 <speaker>FIRST MURDERER</speaker>
 Remember our reward when the
-deed's done.
+deed&rsquo;s done.
 
 <speaker>SECOND MURDERER</speaker>
 Zounds, he dies! I had forgot the
 reward.
 
 <speaker>FIRST MURDERER</speaker>
-Where's thy conscience now?
+Where&rsquo;s thy conscience now?
 
 <speaker>SECOND MURDERER</speaker>
-O, in the Duke of Gloucester's
+O, in the Duke of Gloucester&rsquo;s
 purse.
 
 <speaker>FIRST MURDERER</speaker>
@@ -1574,19 +1574,19 @@ When he opens his purse to give us
 our reward, thy conscience flies out.
 
 <speaker>SECOND MURDERER</speaker>
-'Tis no matter. Let it go. There's
+&rsquo;Tis no matter. Let it go. There&rsquo;s
 few or none will entertain it.
 
 <speaker>FIRST MURDERER</speaker>
 What if it come to thee again?
 
 <speaker>SECOND MURDERER</speaker>
-I'll not meddle with it. It makes a
+I&rsquo;ll not meddle with it. It makes a
 man a coward: a man cannot steal but it accuseth
 him; a man cannot swear but it checks him; a man
-cannot lie with his neighbor's wife but it detects
-him. 'Tis a blushing, shamefaced spirit that mutinies
-in a man's bosom. It fills a man full of
+cannot lie with his neighbor&rsquo;s wife but it detects
+him. &rsquo;Tis a blushing, shamefaced spirit that mutinies
+in a man&rsquo;s bosom. It fills a man full of
 obstacles. It made me once restore a purse of gold
 that by chance I found. It beggars any man that
 keeps it. It is turned out of towns and cities for a
@@ -1594,7 +1594,7 @@ dangerous thing, and every man that means to live
 well endeavors to trust to himself and live without it.
 
 <speaker>FIRST MURDERER</speaker>
-Zounds, 'tis even now at my elbow,
+Zounds, &rsquo;tis even now at my elbow,
 persuading me not to kill the Duke.
 
 <speaker>SECOND MURDERER</speaker>
@@ -1626,7 +1626,7 @@ Soft, he wakes.
 Strike!
 
 <speaker>FIRST MURDERER</speaker>
-No, we'll reason with him.
+No, we&rsquo;ll reason with him.
 [<i>Clarence wakes.</i>]
 
 <speaker>CLARENCE</speaker>
@@ -1636,7 +1636,7 @@ Where art thou, keeper? Give me a cup of wine.
 You shall have wine enough, my lord, anon.
 
 <speaker>CLARENCE</speaker>
-In God's name, what art thou?
+In God&rsquo;s name, what art thou?
 
 <speaker>FIRST MURDERER</speaker>
 A man, as you are.
@@ -1651,7 +1651,7 @@ Nor you, as we are, loyal.
 Thy voice is thunder, but thy looks are humble.
 
 <speaker>FIRST MURDERER</speaker>
-My voice is now the King's, my looks mine own.
+My voice is now the King&rsquo;s, my looks mine own.
 
 <speaker>CLARENCE</speaker>
 How darkly and how deadly dost thou speak!
@@ -1687,11 +1687,11 @@ To slay the innocent? What is my offense?
 Where is the evidence that doth accuse me?
 What lawful quest have given their verdict up
 Unto the frowning judge? Or who pronounced
-The bitter sentence of poor Clarence' death
+The bitter sentence of poor Clarence&rsquo; death
 Before I be convict by course of law?
 To threaten me with death is most unlawful.
 I charge you, as you hope to have redemption,
-By Christ's dear blood shed for our grievous sins,
+By Christ&rsquo;s dear blood shed for our grievous sins,
 That you depart, and lay no hands on me.
 The deed you undertake is damnable.
 
@@ -1705,7 +1705,7 @@ And he that hath commanded is our king.
 Erroneous vassals, the great King of kings
 Hath in the table of His law commanded
 That thou shalt do no murder. Will you then
-Spurn at His edict and fulfill a man's?
+Spurn at His edict and fulfill a man&rsquo;s?
 Take heed, for He holds vengeance in His hand
 To hurl upon their heads that break His law.
 
@@ -1719,13 +1719,13 @@ In quarrel of the House of Lancaster.
 And, like a traitor to the name of God,
 Didst break that vow, and with thy treacherous
 blade
-Unrippedst the bowels of thy sovereign's son.
+Unrippedst the bowels of thy sovereign&rsquo;s son.
 
 <speaker>SECOND MURDERER</speaker>
 Whom thou wast sworn to cherish and defend.
 
 <speaker>FIRST MURDERER</speaker>
-How canst thou urge God's dreadful law to us
+How canst thou urge God&rsquo;s dreadful law to us
 When thou hast broke it in such dear degree?
 
 <speaker>CLARENCE</speaker>
@@ -1745,10 +1745,10 @@ When gallant-springing, brave Plantagenet,
 That princely novice, was struck dead by thee?
 
 <speaker>CLARENCE</speaker>
-My brother's love, the devil, and my rage.
+My brother&rsquo;s love, the devil, and my rage.
 
 <speaker>FIRST MURDERER</speaker>
-Thy brother's love, our duty, and thy faults
+Thy brother&rsquo;s love, our duty, and thy faults
 Provoke us hither now to slaughter thee.
 
 <speaker>CLARENCE</speaker>
@@ -1785,7 +1785,7 @@ O, do not slander him, for he is kind.
 <speaker>FIRST MURDERER</speaker>
 Right, as snow in harvest. Come, you deceive
 yourself.
-'Tis he that sends us to destroy you here.
+&rsquo;Tis he that sends us to destroy you here.
 
 <speaker>CLARENCE</speaker>
 It cannot be, for he bewept my fortune,
@@ -1794,7 +1794,7 @@ That he would labor my delivery.
 
 <speaker>FIRST MURDERER</speaker>
 Why, so he doth, when he delivers you
-From this Earth's thralldom to the joys of heaven.
+From this Earth&rsquo;s thralldom to the joys of heaven.
 
 <speaker>SECOND MURDERER</speaker>
 Make peace with God, for you must die, my lord.
@@ -1803,7 +1803,7 @@ Make peace with God, for you must die, my lord.
 Have you that holy feeling in your souls
 To counsel me to make my peace with God,
 And are you yet to your own souls so blind
-That you will war with God by murd'ring me?
+That you will war with God by murd&rsquo;ring me?
 O sirs, consider: they that set you on
 To do this deed will hate you for the deed.
 
@@ -1813,14 +1813,14 @@ What shall we do?
 
 <speaker>CLARENCE</speaker>
 Relent, and save your souls.
-Which of you--if you were a prince's son
+Which of you--if you were a prince&rsquo;s son
 Being pent from liberty, as I am now--
 If two such murderers as yourselves came to you,
 Would not entreat for life? Ay, you would beg,
 Were you in my distress.
 
 <speaker>FIRST MURDERER</speaker>
-Relent? No. 'Tis cowardly and womanish.
+Relent? No. &rsquo;Tis cowardly and womanish.
 
 <speaker>CLARENCE</speaker>
 Not to relent is beastly, savage, devilish.
@@ -1838,7 +1838,7 @@ Look behind you, my lord.
 Take that, and that. [<i>(Stabs him.)</i>]
  If all this will not
 do,
-I'll drown you in the malmsey butt within.
+I&rsquo;ll drown you in the malmsey butt within.
 [<i>He exits with the body.</i>]
 
 <speaker>SECOND MURDERER</speaker>
@@ -1849,7 +1849,7 @@ Of this most grievous murder.
 [<i>Enter First Murderer.</i>]
 
 <speaker>FIRST MURDERER</speaker>
-How now? What mean'st thou that thou help'st me
+How now? What mean&rsquo;st thou that thou help&rsquo;st me
 not?
 By heavens, the Duke shall know how slack you
 have been.
@@ -1861,7 +1861,7 @@ For I repent me that the Duke is slain.	[<i>He exits.</i>]
 
 <speaker>FIRST MURDERER</speaker>
 So do not I. Go, coward as thou art.
-Well, I'll go hide the body in some hole
+Well, I&rsquo;ll go hide the body in some hole
 Till that the Duke give order for his burial.
 And when I have my meed, I will away,
 For this will out, and then I must not stay.
@@ -1875,19 +1875,19 @@ Lord Marquess Dorset, Rivers, Hastings, Buckingham,
 Woodeville, Grey, and Scales.</i>]
 
 <speaker>KING EDWARD</speaker>
-Why, so. Now have I done a good day's work.
+Why, so. Now have I done a good day&rsquo;s work.
 You peers, continue this united league.
 I every day expect an embassage
 From my Redeemer to redeem me hence,
 And more in peace my soul shall part to heaven
 Since I have made my friends at peace on Earth.
-Rivers and Hastings, take each other's hand.
+Rivers and Hastings, take each other&rsquo;s hand.
 Dissemble not your hatred. Swear your love.
 
 <speaker>RIVERS,</speaker>
-[<i>taking Hastings' hand</i>]
+[<i>taking Hastings&rsquo; hand</i>]
 By heaven, my soul is purged from grudging hate,
-And with my hand I seal my true heart's love.
+And with my hand I seal my true heart&rsquo;s love.
 
 <speaker>HASTINGS</speaker>
 So thrive I as I truly swear the like.
@@ -1896,7 +1896,7 @@ So thrive I as I truly swear the like.
 Take heed you dally not before your king,
 Lest He that is the supreme King of kings
 Confound your hidden falsehood and award
-Either of you to be the other's end.
+Either of you to be the other&rsquo;s end.
 
 <speaker>HASTINGS</speaker>
 So prosper I as I swear perfect love.
@@ -1930,7 +1930,7 @@ And so swear I. [<i>They embrace.</i>]
 
 <speaker>KING EDWARD</speaker>
 Now, princely Buckingham, seal thou this league
-With thy embracements to my wife's allies
+With thy embracements to my wife&rsquo;s allies
 And make me happy in your unity.
 
 <speaker>BUCKINGHAM,</speaker>
@@ -1977,8 +1977,8 @@ If I unwittingly, or in my rage,
 Have aught committed that is hardly borne
 By any in this presence, I desire
 To reconcile me to his friendly peace.
-'Tis death to me to be at enmity;
-I hate it, and desire all good men's love.
+&rsquo;Tis death to me to be at enmity;
+I hate it, and desire all good men&rsquo;s love.
 First, madam, I entreat true peace of you,
 Which I will purchase with my duteous service;--
 Of you, my noble cousin Buckingham,
@@ -2047,12 +2047,12 @@ I will not rise unless your Highness hear me.
 Then say at once what is it thou requests.
 
 <speaker>STANLEY</speaker>
-The forfeit, sovereign, of my servant's life,
+The forfeit, sovereign, of my servant&rsquo;s life,
 Who slew today a riotous gentleman
 Lately attendant on the Duke of Norfolk.
 
 <speaker>KING EDWARD</speaker>
-Have I a tongue to doom my brother's death,
+Have I a tongue to doom my brother&rsquo;s death,
 And shall that tongue give pardon to a slave?
 My brother killed no man; his fault was thought,
 And yet his punishment was bitter death.
@@ -2063,7 +2063,7 @@ Who told me how the poor soul did forsake
 The mighty Warwick and did fight for me?
 Who told me, in the field at Tewkesbury,
 When Oxford had me down, he rescued me,
-And said "Dear brother, live, and be a king"?
+And said "&ldquo;Dear brother, live, and be a king&rdquo;"?
 Who told me, when we both lay in the field
 Frozen almost to death, how he did lap me
 Even in his garments and did give himself,
@@ -2091,7 +2091,7 @@ Ah, poor Clarence.
 <speaker>RICHARD</speaker>
 This is the fruits of rashness. Marked you not
 How that the guilty kindred of the Queen
-Looked pale when they did hear of Clarence' death?
+Looked pale when they did hear of Clarence&rsquo; death?
 O, they did urge it still unto the King.
 God will revenge it. Come, lords, will you go
 To comfort Edward with our company?
@@ -2113,7 +2113,7 @@ No, boy.
 
 <speaker>DAUGHTER</speaker>
 Why do you weep so oft, and beat your breast,
-And cry "O Clarence, my unhappy son"?
+And cry "&ldquo;O Clarence, my unhappy son&rdquo;"?
 
 <speaker>BOY</speaker>
 Why do you look on us and shake your head,
@@ -2123,8 +2123,8 @@ If that our noble father were alive?
 <speaker>DUCHESS</speaker>
 My pretty cousins, you mistake me both.
 I do lament the sickness of the King,
-As loath to lose him, not your father's death.
-It were lost sorrow to wail one that's lost.
+As loath to lose him, not your father&rsquo;s death.
+It were lost sorrow to wail one that&rsquo;s lost.
 
 <speaker>BOY</speaker>
 Then, you conclude, my grandam, he is dead.
@@ -2139,7 +2139,7 @@ And so will I.
 Peace, children, peace. The King doth love you
 well.
 Incapable and shallow innocents,
-You cannot guess who caused your father's death.
+You cannot guess who caused your father&rsquo;s death.
 
 <speaker>BOY</speaker>
 Grandam, we can, for my good uncle Gloucester
@@ -2171,7 +2171,7 @@ Rivers and Dorset after her.</i>]
 <speaker>QUEEN ELIZABETH</speaker>
 Ah, who shall hinder me to wail and weep,
 To chide my fortune and torment myself?
-I'll join with black despair against my soul
+I&rsquo;ll join with black despair against my soul
 And to myself become an enemy.
 
 <speaker>DUCHESS</speaker>
@@ -2183,14 +2183,14 @@ Edward, my lord, thy son, our king, is dead.
 Why grow the branches when the root is gone?
 Why wither not the leaves that want their sap?
 If you will live, lament. If die, be brief,
-That our swift-winged souls may catch the King's,
+That our swift-winged souls may catch the King&rsquo;s,
 Or, like obedient subjects, follow him
-To his new kingdom of ne'er-changing night.
+To his new kingdom of ne&rsquo;er-changing night.
 
 <speaker>DUCHESS</speaker>
 Ah, so much interest have I in thy sorrow
 As I had title in thy noble husband.
-I have bewept a worthy husband's death
+I have bewept a worthy husband&rsquo;s death
 And lived with looking on his images;
 But now two mirrors of his princely semblance
 Are cracked in pieces by malignant death,
@@ -2207,7 +2207,7 @@ To overgo thy woes and drown thy cries!
 
 <speaker>BOY,</speaker>
 [<i>to Queen Elizabeth</i>]
-Ah, aunt, you wept not for our father's death.
+Ah, aunt, you wept not for our father&rsquo;s death.
 How can we aid you with our kindred tears?
 
 <speaker>DAUGHTER,</speaker>
@@ -2230,10 +2230,10 @@ Ah, for our father, for our dear lord Clarence!
 Alas for both, both mine, Edward and Clarence!
 
 <speaker>QUEEN ELIZABETH</speaker>
-What stay had I but Edward? And he's gone.
+What stay had I but Edward? And he&rsquo;s gone.
 
 <speaker>CHILDREN</speaker>
-What stay had we but Clarence? And he's gone.
+What stay had we but Clarence? And he&rsquo;s gone.
 
 <speaker>DUCHESS</speaker>
 What stays had I but they? And they are gone.
@@ -2253,14 +2253,14 @@ I for a Clarence weep; so doth not she.
 These babes for Clarence weep, and so do I;
 I for an Edward weep; so do not they.
 Alas, you three, on me, threefold distressed,
-Pour all your tears. I am your sorrow's nurse,
+Pour all your tears. I am your sorrow&rsquo;s nurse,
 And I will pamper it with lamentation.
 
 <speaker>DORSET,</speaker>
 [<i>to Queen Elizabeth</i>]
 Comfort, dear mother. God is much displeased
 That you take with unthankfulness His doing.
-In common worldly things, 'tis called ungrateful
+In common worldly things, &rsquo;tis called ungrateful
 With dull unwillingness to repay a debt
 Which with a bounteous hand was kindly lent;
 Much more to be thus opposite with heaven,
@@ -2271,8 +2271,8 @@ Madam, bethink you, like a careful mother,
 Of the young prince your son. Send straight for
 him.
 Let him be crowned. In him your comfort lives.
-Drown desperate sorrow in dead Edward's grave
-And plant your joys in living Edward's throne.
+Drown desperate sorrow in dead Edward&rsquo;s grave
+And plant your joys in living Edward&rsquo;s throne.
 
 [<i>Enter Richard, Duke of Gloucester, Buckingham, Lord
 Stanley, Earl of Derby, Hastings, and Ratcliffe.</i>]
@@ -2294,16 +2294,16 @@ Love, charity, obedience, and true duty.
 [<i>standing</i>]
 Amen. [<i>Aside.</i>]
  And make me die a good old man!
-That is the butt end of a mother's blessing;
+That is the butt end of a mother&rsquo;s blessing;
 I marvel that her Grace did leave it out.
 
 <speaker>BUCKINGHAM</speaker>
 You cloudy princes and heart-sorrowing peers
 That bear this heavy mutual load of moan,
-Now cheer each other in each other's love.
+Now cheer each other in each other&rsquo;s love.
 Though we have spent our harvest of this king,
 We are to reap the harvest of his son.
-The broken rancor of your high-swoll'n hates,
+The broken rancor of your high-swoll&rsquo;n hates,
 But lately splintered, knit, and joined together,
 Must gently be preserved, cherished, and kept.
 Meseemeth good that with some little train
@@ -2311,7 +2311,7 @@ Forthwith from Ludlow the young prince be fet
 Hither to London, to be crowned our king.
 
 <speaker>RIVERS</speaker>
-Why "with some little train," my lord of
+Why "&ldquo;with some little train,&rdquo;" my lord of
 Buckingham?
 
 <speaker>BUCKINGHAM</speaker>
@@ -2350,16 +2350,16 @@ To give your censures in this business?
 
 <speaker>BUCKINGHAM</speaker>
 My lord, whoever journeys to the Prince,
-For God's sake let not us two stay at home.
-For by the way I'll sort occasion,
+For God&rsquo;s sake let not us two stay at home.
+For by the way I&rsquo;ll sort occasion,
 As index to the story we late talked of,
-To part the Queen's proud kindred from the Prince.
+To part the Queen&rsquo;s proud kindred from the Prince.
 
 <speaker>RICHARD</speaker>
-My other self, my council's consistory,
+My other self, my council&rsquo;s consistory,
 My oracle, my prophet, my dear cousin,
 I, as a child, will go by thy direction.
-Toward Ludlow then, for we'll not stay behind.
+Toward Ludlow then, for we&rsquo;ll not stay behind.
 [<i>They exit.</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
@@ -2377,8 +2377,8 @@ Hear you the news abroad?
 Yes, that the King is dead.
 
 <speaker>SECOND CITIZEN</speaker>
-Ill news, by 'r Lady. Seldom comes the better.
-I fear, I fear, 'twill prove a giddy world.
+Ill news, by &rsquo;r Lady. Seldom comes the better.
+I fear, I fear, &rsquo;twill prove a giddy world.
 
 [<i>Enter another Citizen.</i>]
 
@@ -2389,7 +2389,7 @@ Neighbors, God speed.
 Give you good morrow, sir.
 
 <speaker>THIRD CITIZEN</speaker>
-Doth the news hold of good King Edward's death?
+Doth the news hold of good King Edward&rsquo;s death?
 
 <speaker>SECOND CITIZEN</speaker>
 Ay, sir, it is too true, God help the while.
@@ -2398,10 +2398,10 @@ Ay, sir, it is too true, God help the while.
 Then, masters, look to see a troublous world.
 
 <speaker>FIRST CITIZEN</speaker>
-No, no, by God's good grace, his son shall reign.
+No, no, by God&rsquo;s good grace, his son shall reign.
 
 <speaker>THIRD CITIZEN</speaker>
-Woe to that land that's governed by a child.
+Woe to that land that&rsquo;s governed by a child.
 
 <speaker>SECOND CITIZEN</speaker>
 In him there is a hope of government,
@@ -2428,7 +2428,7 @@ Or by his father there were none at all,
 For emulation who shall now be nearest
 Will touch us all too near if God prevent not.
 O, full of danger is the Duke of Gloucester,
-And the Queen's sons and brothers haught and
+And the Queen&rsquo;s sons and brothers haught and
 proud,
 And were they to be ruled, and not to rule,
 This sickly land might solace as before.
@@ -2443,7 +2443,7 @@ When great leaves fall, then winter is at hand;
 When the sun sets, who doth not look for night?
 Untimely storms makes men expect a dearth.
 All may be well; but if God sort it so,
-'Tis more than we deserve or I expect.
+&rsquo;Tis more than we deserve or I expect.
 
 <speaker>SECOND CITIZEN</speaker>
 Truly, the hearts of men are full of fear.
@@ -2452,16 +2452,16 @@ That looks not heavily and full of dread.
 
 <speaker>THIRD CITIZEN</speaker>
 Before the days of change, still is it so.
-By a divine instinct, men's minds mistrust
+By a divine instinct, men&rsquo;s minds mistrust
 Ensuing danger, as by proof we see
-The water swell before a boist'rous storm.
+The water swell before a boist&rsquo;rous storm.
 But leave it all to God. Whither away?
 
 <speaker>SECOND CITIZEN</speaker>
 Marry, we were sent for to the Justices.
 
 <speaker>THIRD CITIZEN</speaker>
-And so was I. I'll bear you company.
+And so was I. I&rsquo;ll bear you company.
 [<i>They exit.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
@@ -2480,7 +2480,7 @@ I hope he is much grown since last I saw him.
 
 <speaker>QUEEN ELIZABETH</speaker>
 But I hear no; they say my son of York
-Has almost overta'en him in his growth.
+Has almost overta&rsquo;en him in his growth.
 
 <speaker>YORK</speaker>
 Ay, mother, but I would not have it so.
@@ -2491,10 +2491,10 @@ Why, my good cousin? It is good to grow.
 <speaker>YORK</speaker>
 Grandam, one night as we did sit at supper,
 My uncle Rivers talked how I did grow
-More than my brother. "Ay," quoth my uncle
+More than my brother. "&ldquo;Ay,&rdquo;" quoth my uncle
 Gloucester,
-"Small herbs have grace; great weeds do grow
-apace."
+"&ldquo;Small herbs have grace; great weeds do grow
+apace.&rdquo;"
 And since, methinks I would not grow so fast
 Because sweet flowers are slow and weeds make
 haste.
@@ -2502,7 +2502,7 @@ haste.
 <speaker>DUCHESS</speaker>
 Good faith, good faith, the saying did not hold
 In him that did object the same to thee!
-He was the wretched'st thing when he was young,
+He was the wretched&rsquo;st thing when he was young,
 So long a-growing and so leisurely,
 That if his rule were true, he should be gracious.
 
@@ -2514,7 +2514,7 @@ I hope he is, but yet let mothers doubt.
 
 <speaker>YORK</speaker>
 Now, by my troth, if I had been remembered,
-I could have given my uncle's Grace a flout
+I could have given my uncle&rsquo;s Grace a flout
 To touch his growth nearer than he touched mine.
 
 <speaker>DUCHESS</speaker>
@@ -2523,7 +2523,7 @@ How, my young York? I prithee let me hear it.
 <speaker>YORK</speaker>
 Marry, they say my uncle grew so fast
 That he could gnaw a crust at two hours old.
-'Twas full two years ere I could get a tooth.
+&rsquo;Twas full two years ere I could get a tooth.
 Grandam, this would have been a biting jest.
 
 <speaker>DUCHESS</speaker>
@@ -2536,7 +2536,7 @@ Grandam, his nurse.
 His nurse? Why, she was dead ere thou wast born.
 
 <speaker>YORK</speaker>
-If 'twere not she, I cannot tell who told me.
+If &rsquo;twere not she, I cannot tell who told me.
 
 <speaker>QUEEN ELIZABETH</speaker>
 A parlous boy! Go to, you are too shrewd.
@@ -2618,10 +2618,10 @@ You have no cause.
 [<i>to Queen Elizabeth</i>]
   My gracious lady, go,
 And thither bear your treasure and your goods.
-For my part, I'll resign unto your Grace
+For my part, I&rsquo;ll resign unto your Grace
 The seal I keep; and so betide to me
 As well I tender you and all of yours.
-Go. I'll conduct you to the sanctuary.
+Go. I&rsquo;ll conduct you to the sanctuary.
 [<i>They exit.</i>]
 
 <b id="act-3" class="act-header">Act 3</b>
@@ -2636,7 +2636,7 @@ Welcome, sweet prince, to London, to your chamber.
 
 <speaker>RICHARD,</speaker>
 [<i>to Prince</i>]
-Welcome, dear cousin, my thoughts' sovereign.
+Welcome, dear cousin, my thoughts&rsquo; sovereign.
 The weary way hath made you melancholy.
 
 <speaker>PRINCE</speaker>
@@ -2646,7 +2646,7 @@ I want more uncles here to welcome me.
 
 <speaker>RICHARD</speaker>
 Sweet prince, the untainted virtue of your years
-Hath not yet dived into the world's deceit;
+Hath not yet dived into the world&rsquo;s deceit;
 Nor more can you distinguish of a man
 Than of his outward show, which, God He knows,
 Seldom or never jumpeth with the heart.
@@ -2722,7 +2722,7 @@ Oft have I heard of sanctuary men,
 But sanctuary children, never till now.
 
 <speaker>CARDINAL</speaker>
-My lord, you shall o'errule my mind for once.--
+My lord, you shall o&rsquo;errule my mind for once.--
 Come on, Lord Hastings, will you go with me?
 
 <speaker>HASTINGS</speaker>
@@ -2759,7 +2759,7 @@ Upon record, my gracious lord.
 <speaker>PRINCE</speaker>
 But say, my lord, it were not registered,
 Methinks the truth should live from age to age,
-As 'twere retailed to all posterity,
+As &rsquo;twere retailed to all posterity,
 Even to the general all-ending day.
 
 <speaker>RICHARD,</speaker>
@@ -2781,14 +2781,14 @@ With what his valor did enrich his wit,
 His wit set down to make his valor live.
 Death makes no conquest of this conqueror,
 For now he lives in fame, though not in life.
-I'll tell you what, my cousin Buckingham--
+I&rsquo;ll tell you what, my cousin Buckingham--
 
 <speaker>BUCKINGHAM</speaker>
 What, my gracious lord?
 
 <speaker>PRINCE</speaker>
 An if I live until I be a man,
-I'll win our ancient right in France again
+I&rsquo;ll win our ancient right in France again
 Or die a soldier, as I lived a king.
 
 <speaker>RICHARD,</speaker>
@@ -2850,17 +2850,17 @@ Of my kind uncle, that I know will give,
 And being but a toy, which is no grief to give.
 
 <speaker>RICHARD</speaker>
-A greater gift than that I'll give my cousin.
+A greater gift than that I&rsquo;ll give my cousin.
 
 <speaker>YORK</speaker>
-A greater gift? O, that's the sword to it.
+A greater gift? O, that&rsquo;s the sword to it.
 
 <speaker>RICHARD</speaker>
 Ay, gentle cousin, were it light enough.
 
 <speaker>YORK</speaker>
 O, then I see you will part but with light gifts.
-In weightier things you'll say a beggar nay.
+In weightier things you&rsquo;ll say a beggar nay.
 
 <speaker>RICHARD</speaker>
 It is too heavy for your Grace to wear.
@@ -2900,7 +2900,7 @@ So cunning and so young is wonderful.
 
 <speaker>RICHARD,</speaker>
 [<i>to Prince</i>]
-My lord, will 't please you pass along?
+My lord, will &rsquo;t please you pass along?
 Myself and my good cousin Buckingham
 Will to your mother, to entreat of her
 To meet you at the Tower and welcome you.
@@ -2919,7 +2919,7 @@ I shall not sleep in quiet at the Tower.
 Why, what should you fear?
 
 <speaker>YORK</speaker>
-Marry, my uncle Clarence' angry ghost.
+Marry, my uncle Clarence&rsquo; angry ghost.
 My grandam told me he was murdered there.
 
 <speaker>PRINCE</speaker>
@@ -2944,9 +2944,9 @@ Was not incensed by his subtle mother
 To taunt and scorn you thus opprobriously?
 
 <speaker>RICHARD</speaker>
-No doubt, no doubt. O, 'tis a parlous boy,
+No doubt, no doubt. O, &rsquo;tis a parlous boy,
 Bold, quick, ingenious, forward, capable.
-He is all the mother's, from the top to toe.
+He is all the mother&rsquo;s, from the top to toe.
 
 <speaker>BUCKINGHAM</speaker>
 Well, let them rest.--Come hither, Catesby.
@@ -2959,11 +2959,11 @@ For the installment of this noble duke
 In the seat royal of this famous isle?
 
 <speaker>CATESBY</speaker>
-He, for his father's sake, so loves the Prince
+He, for his father&rsquo;s sake, so loves the Prince
 That he will not be won to aught against him.
 
 <speaker>BUCKINGHAM</speaker>
-What think'st thou then of Stanley? Will not he?
+What think&rsquo;st thou then of Stanley? Will not he?
 
 <speaker>CATESBY</speaker>
 He will do all in all as Hastings doth.
@@ -3016,7 +3016,7 @@ The earldom of Hereford, and all the movables
 Whereof the King my brother was possessed.
 
 <speaker>BUCKINGHAM</speaker>
-I'll claim that promise at your Grace's hand.
+I&rsquo;ll claim that promise at your Grace&rsquo;s hand.
 
 <speaker>RICHARD</speaker>
 And look to have it yielded with all kindness.
@@ -3041,7 +3041,7 @@ One from the Lord Stanley.
 
 <speaker>HASTINGS,</speaker>
 [<i>within</i>]
-  What is 't o'clock?
+  What is &rsquo;t o&rsquo;clock?
 
 <speaker>MESSENGER</speaker>
 Upon the stroke of four.
@@ -3063,8 +3063,8 @@ Then certifies your Lordship that this night
 He dreamt the boar had razed off his helm.
 Besides, he says there are two councils kept,
 And that may be determined at the one
-Which may make you and him to rue at th' other.
-Therefore he sends to know your Lordship's
+Which may make you and him to rue at th&rsquo; other.
+Therefore he sends to know your Lordship&rsquo;s
 pleasure,
 If you will presently take horse with him
 And with all speed post with him toward the north
@@ -3078,8 +3078,8 @@ And at the other is my good friend Catesby,
 Where nothing can proceed that toucheth us
 Whereof I shall not have intelligence.
 Tell him his fears are shallow, without instance.
-And for his dreams, I wonder he's so simple
-To trust the mock'ry of unquiet slumbers.
+And for his dreams, I wonder he&rsquo;s so simple
+To trust the mock&rsquo;ry of unquiet slumbers.
 To fly the boar before the boar pursues
 Were to incense the boar to follow us
 And make pursuit where he did mean no chase.
@@ -3088,7 +3088,7 @@ And we will both together to the Tower,
 Where he shall see the boar will use us kindly.
 
 <speaker>MESSENGER</speaker>
-I'll go, my lord, and tell him what you say.	[<i>He exits.</i>]
+I&rsquo;ll go, my lord, and tell him what you say.	[<i>He exits.</i>]
 
 [<i>Enter Catesby.</i>]
 
@@ -3097,7 +3097,7 @@ Many good morrows to my noble lord.
 
 <speaker>HASTINGS</speaker>
 Good morrow, Catesby. You are early stirring.
-What news, what news in this our tott'ring state?
+What news, what news in this our tott&rsquo;ring state?
 
 <speaker>CATESBY</speaker>
 It is a reeling world indeed, my lord,
@@ -3105,15 +3105,15 @@ And I believe will never stand upright
 Till Richard wear the garland of the realm.
 
 <speaker>HASTINGS</speaker>
-How "wear the garland"? Dost thou mean the
+How "&ldquo;wear the garland&rdquo;"? Dost thou mean the
 crown?
 
 <speaker>CATESBY</speaker>
 Ay, my good lord.
 
 <speaker>HASTINGS</speaker>
-I'll have this crown of mine cut from my shoulders
-Before I'll see the crown so foul misplaced.
+I&rsquo;ll have this crown of mine cut from my shoulders
+Before I&rsquo;ll see the crown so foul misplaced.
 But canst thou guess that he doth aim at it?
 
 <speaker>CATESBY</speaker>
@@ -3126,8 +3126,8 @@ The kindred of the Queen, must die at Pomfret.
 <speaker>HASTINGS</speaker>
 Indeed, I am no mourner for that news,
 Because they have been still my adversaries.
-But that I'll give my voice on Richard's side
-To bar my master's heirs in true descent,
+But that I&rsquo;ll give my voice on Richard&rsquo;s side
+To bar my master&rsquo;s heirs in true descent,
 God knows I will not do it, to the death.
 
 <speaker>CATESBY</speaker>
@@ -3135,20 +3135,20 @@ God keep your Lordship in that gracious mind.
 
 <speaker>HASTINGS</speaker>
 But I shall laugh at this a twelve-month hence,
-That they which brought me in my master's hate,
+That they which brought me in my master&rsquo;s hate,
 I live to look upon their tragedy.
 Well, Catesby, ere a fortnight make me older
-I'll send some packing that yet think not on 't.
+I&rsquo;ll send some packing that yet think not on &rsquo;t.
 
 <speaker>CATESBY</speaker>
-'Tis a vile thing to die, my gracious lord,
+&rsquo;Tis a vile thing to die, my gracious lord,
 When men are unprepared and look not for it.
 
 <speaker>HASTINGS</speaker>
 O monstrous, monstrous! And so falls it out
-With Rivers, Vaughan, Grey; and so 'twill do
+With Rivers, Vaughan, Grey; and so &rsquo;twill do
 With some men else that think themselves as safe
-As thou and I, who, as thou know'st, are dear
+As thou and I, who, as thou know&rsquo;st, are dear
 To princely Richard and to Buckingham.
 
 <speaker>CATESBY</speaker>
@@ -3172,7 +3172,7 @@ I do not like these several councils, I.
 <speaker>HASTINGS</speaker>
 My lord, I hold my life as dear as you do yours,
 And never in my days, I do protest,
-Was it so precious to me as 'tis now.
+Was it so precious to me as &rsquo;tis now.
 Think you but that I know our state secure,
 I would be so triumphant as I am?
 
@@ -3180,7 +3180,7 @@ I would be so triumphant as I am?
 The lords at Pomfret, when they rode from London,
 Were jocund and supposed their states were sure,
 And they indeed had no cause to mistrust;
-But yet you see how soon the day o'ercast.
+But yet you see how soon the day o&rsquo;ercast.
 This sudden stab of rancor I misdoubt.
 Pray God, I say, I prove a needless coward!
 What, shall we toward the Tower? The day is spent.
@@ -3192,12 +3192,12 @@ Today the lords you talked of are beheaded.
 <speaker>STANLEY</speaker>
 They, for their truth, might better wear their heads
 Than some that have accused them wear their hats.
-But come, my lord, let's away.
+But come, my lord, let&rsquo;s away.
 
 [<i>Enter a Pursuivant.</i>]
 
 <speaker>HASTINGS</speaker>
-Go on before. I'll talk with this good fellow.
+Go on before. I&rsquo;ll talk with this good fellow.
 [<i>Lord Stanley and Catesby exit.</i>]
 How now, sirrah? How goes the world with thee?
 
@@ -3205,16 +3205,16 @@ How now, sirrah? How goes the world with thee?
 The better that your Lordship please to ask.
 
 <speaker>HASTINGS</speaker>
-I tell thee, man, 'tis better with me now
-Than when thou met'st me last where now we meet.
+I tell thee, man, &rsquo;tis better with me now
+Than when thou met&rsquo;st me last where now we meet.
 Then was I going prisoner to the Tower
-By the suggestion of the Queen's allies.
+By the suggestion of the Queen&rsquo;s allies.
 But now, I tell thee--keep it to thyself--
 This day those enemies are put to death,
-And I in better state than e'er I was.
+And I in better state than e&rsquo;er I was.
 
 <speaker>PURSUIVANT</speaker>
-God hold it, to your Honor's good content!
+God hold it, to your Honor&rsquo;s good content!
 
 <speaker>HASTINGS</speaker>
 Gramercy, fellow. There, drink that for me.
@@ -3234,7 +3234,7 @@ I am in your debt for your last exercise.
 Come the next sabbath, and I will content you.
 
 <speaker>PRIEST</speaker>
-I'll wait upon your Lordship. [<i>Priest exits.</i>]
+I&rsquo;ll wait upon your Lordship. [<i>Priest exits.</i>]
 
 [<i>Enter Buckingham.</i>]
 
@@ -3257,11 +3257,11 @@ Nay, like enough, for I stay dinner there.
 
 <speaker>BUCKINGHAM,</speaker>
 [<i>aside</i>]
-And supper too, although thou know'st it not.--
+And supper too, although thou know&rsquo;st it not.--
 Come, will you go?
 
 <speaker>HASTINGS</speaker>
-I'll wait upon your Lordship.
+I&rsquo;ll wait upon your Lordship.
 [<i>They exit.</i>]
 
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
@@ -3295,7 +3295,7 @@ And, for more slander to thy dismal seat,
 We give to thee our guiltless blood to drink.
 
 <speaker>GREY</speaker>
-Now Margaret's curse is fall'n upon our heads,
+Now Margaret&rsquo;s curse is fall&rsquo;n upon our heads,
 When she exclaimed on Hastings, you, and I,
 For standing by when Richard stabbed her son.
 
@@ -3306,7 +3306,7 @@ Then cursed she Hastings. O, remember, God,
 To hear her prayer for them as now for us!
 And for my sister and her princely sons,
 Be satisfied, dear God, with our true blood,
-Which, as thou know'st, unjustly must be spilt.
+Which, as thou know&rsquo;st, unjustly must be spilt.
 
 <speaker>RATCLIFFE</speaker>
 Make haste. The hour of death is expiate.
@@ -3326,7 +3326,7 @@ others, at a table.</i>]
 <speaker>HASTINGS</speaker>
 Now, noble peers, the cause why we are met
 Is to determine of the coronation.
-In God's name, speak. When is the royal day?
+In God&rsquo;s name, speak. When is the royal day?
 
 <speaker>BUCKINGHAM</speaker>
 Is all things ready for the royal time?
@@ -3338,7 +3338,7 @@ It is, and wants but nomination.
 Tomorrow, then, I judge a happy day.
 
 <speaker>BUCKINGHAM</speaker>
-Who knows the Lord Protector's mind herein?
+Who knows the Lord Protector&rsquo;s mind herein?
 Who is most inward with the noble duke?
 
 <speaker>ELY</speaker>
@@ -3346,7 +3346,7 @@ Your Grace, we think, should soonest know his
 mind.
 
 <speaker>BUCKINGHAM</speaker>
-We know each other's faces; for our hearts,
+We know each other&rsquo;s faces; for our hearts,
 He knows no more of mine than I of yours,
 Or I of his, my lord, than you of mine.--
 Lord Hastings, you and he are near in love.
@@ -3357,8 +3357,8 @@ But for his purpose in the coronation,
 I have not sounded him, nor he delivered
 His gracious pleasure any way therein.
 But you, my honorable lords, may name the time,
-And in the Duke's behalf I'll give my voice,
-Which I presume he'll take in gentle part.
+And in the Duke&rsquo;s behalf I&rsquo;ll give my voice,
+Which I presume he&rsquo;ll take in gentle part.
 
 [<i>Enter Richard, Duke of Gloucester.</i>]
 
@@ -3393,11 +3393,11 @@ Cousin of Buckingham, a word with you.
 Catesby hath sounded Hastings in our business
 And finds the testy gentleman so hot
 That he will lose his head ere give consent
-His master's child, as worshipfully he terms it,
-Shall lose the royalty of England's throne.
+His master&rsquo;s child, as worshipfully he terms it,
+Shall lose the royalty of England&rsquo;s throne.
 
 <speaker>BUCKINGHAM</speaker>
-Withdraw yourself awhile. I'll go with you.
+Withdraw yourself awhile. I&rsquo;ll go with you.
 [<i>Richard and Buckingham exit.</i>]
 
 <speaker>STANLEY</speaker>
@@ -3415,9 +3415,9 @@ I have sent for these strawberries.
 <speaker>HASTINGS</speaker>
 His Grace looks cheerfully and smooth this
 morning.
-There's some conceit or other likes him well
+There&rsquo;s some conceit or other likes him well
 When that he bids good morrow with such spirit.
-I think there's never a man in Christendom
+I think there&rsquo;s never a man in Christendom
 Can lesser hide his love or hate than he,
 For by his face straight shall you know his heart.
 
@@ -3440,7 +3440,7 @@ Upon my body with their hellish charms?
 <speaker>HASTINGS</speaker>
 The tender love I bear your Grace, my lord,
 Makes me most forward in this princely presence
-To doom th' offenders, whosoe'er they be.
+To doom th&rsquo; offenders, whosoe&rsquo;er they be.
 I say, my lord, they have deserved death.
 
 <speaker>RICHARD</speaker>
@@ -3448,7 +3448,7 @@ Then be your eyes the witness of their evil.
 [<i>He shows his arm.</i>]
 Look how I am bewitched! Behold mine arm
 Is like a blasted sapling withered up;
-And this is Edward's wife, that monstrous witch,
+And this is Edward&rsquo;s wife, that monstrous witch,
 Consorted with that harlot, strumpet Shore,
 That by their witchcraft thus have marked me.
 
@@ -3457,7 +3457,7 @@ If they have done this deed, my noble lord--
 
 <speaker>RICHARD</speaker>
 If? Thou protector of this damned strumpet,
-Talk'st thou to me of "ifs"? Thou art a traitor.--
+Talk&rsquo;st thou to me of "&ldquo;ifs&rdquo;"? Thou art a traitor.--
 Off with his head. Now by Saint Paul I swear
 I will not dine until I see the same.--
 Lovell and Ratcliffe, look that it be done.--
@@ -3479,7 +3479,7 @@ As too triumphing, how mine enemies
 Today at Pomfret bloodily were butchered,
 And I myself secure in grace and favor.
 O Margaret, Margaret, now thy heavy curse
-Is lighted on poor Hastings' wretched head.
+Is lighted on poor Hastings&rsquo; wretched head.
 
 <speaker>RATCLIFFE</speaker>
 Come, come, dispatch. The Duke would be at
@@ -3495,11 +3495,11 @@ Ready with every nod to tumble down
 Into the fatal bowels of the deep.
 
 <speaker>LOVELL</speaker>
-Come, come, dispatch. 'Tis bootless to exclaim.
+Come, come, dispatch. &rsquo;Tis bootless to exclaim.
 
 <speaker>HASTINGS</speaker>
 O bloody Richard! Miserable England,
-I prophesy the fearfull'st time to thee
+I prophesy the fearfull&rsquo;st time to thee
 That ever wretched age hath looked upon.--
 Come, lead me to the block. Bear him my head.
 They smile at me who shortly shall be dead.
@@ -3542,7 +3542,7 @@ Look to the drawbridge there!
 Hark, a drum!
 
 <speaker>RICHARD</speaker>
-Catesby, o'erlook the walls.
+Catesby, o&rsquo;erlook the walls.
 [<i>Catesby exits.</i>]
 
 <speaker>BUCKINGHAM</speaker>
@@ -3554,7 +3554,7 @@ Look back! Defend thee! Here are enemies.
 <speaker>BUCKINGHAM</speaker>
 God and our innocence defend and guard us!
 
-[<i>Enter Lovell and Ratcliffe, with Hastings' head.</i>]
+[<i>Enter Lovell and Ratcliffe, with Hastings&rsquo; head.</i>]
 
 <speaker>RICHARD</speaker>
 Be patient. They are friends, Ratcliffe and Lovell.
@@ -3571,14 +3571,14 @@ Made him my book, wherein my soul recorded
 The history of all her secret thoughts.
 So smooth he daubed his vice with show of virtue
 That, his apparent open guilt omitted--
-I mean his conversation with Shore's wife--
+I mean his conversation with Shore&rsquo;s wife--
 He lived from all attainder of suspects.
 
 <speaker>BUCKINGHAM</speaker>
-Well, well, he was the covert'st sheltered traitor
+Well, well, he was the covert&rsquo;st sheltered traitor
 That ever lived.--
 Would you imagine, or almost believe,
-Were 't not that by great preservation
+Were &rsquo;t not that by great preservation
 We live to tell it, that the subtle traitor
 This day had plotted, in the council house,
 To murder me and my good lord of Gloucester?
@@ -3589,9 +3589,9 @@ Had he done so?
 <speaker>RICHARD</speaker>
 What, think you we are Turks or infidels?
 Or that we would, against the form of law,
-Proceed thus rashly in the villain's death,
+Proceed thus rashly in the villain&rsquo;s death,
 But that the extreme peril of the case,
-The peace of England, and our persons' safety
+The peace of England, and our persons&rsquo; safety
 Enforced us to this execution?
 
 <speaker>MAYOR</speaker>
@@ -3614,16 +3614,15 @@ Unto the citizens, who haply may
 Misconster us in him, and wail his death.
 
 <speaker>MAYOR</speaker>
-But, my good lord, your Graces' words shall serve
+But, my good lord, your Graces&rsquo; words shall serve
 As well as I had seen and heard him speak;
 And do not doubt, right noble princes both,
-But I'll acquaint our duteous citizens
+But I&rsquo;ll acquaint our duteous citizens
 With all your just proceedings in this case.
 
 <speaker>RICHARD</speaker>
 And to that end we wished your Lordship here,
-<speaker>T'</speaker>
-avoid the censures of the carping world.
+T&rsquo; avoid the censures of the carping world.
 
 <speaker>BUCKINGHAM</speaker>
 Which since you come too late of our intent,
@@ -3635,7 +3634,7 @@ And so, my good Lord Mayor, we bid farewell.
 Go after, after, cousin Buckingham.
 The Mayor towards Guildhall hies him in all post.
 There, at your meetest vantage of the time,
-Infer the bastardy of Edward's children.
+Infer the bastardy of Edward&rsquo;s children.
 Tell them how Edward put to death a citizen
 Only for saying he would make his son
 Heir to the Crown--meaning indeed his house,
@@ -3654,21 +3653,21 @@ And, by true computation of the time,
 Found that the issue was not his begot,
 Which well appeared in his lineaments,
 Being nothing like the noble duke my father.
-Yet touch this sparingly, as 'twere far off,
+Yet touch this sparingly, as &rsquo;twere far off,
 Because, my lord, you know my mother lives.
 
 <speaker>BUCKINGHAM</speaker>
-Doubt not, my lord. I'll play the orator
+Doubt not, my lord. I&rsquo;ll play the orator
 As if the golden fee for which I plead
 Were for myself. And so, my lord, adieu.
 
 <speaker>RICHARD</speaker>
-If you thrive well, bring them to Baynard's Castle,
+If you thrive well, bring them to Baynard&rsquo;s Castle,
 Where you shall find me well accompanied
 With reverend fathers and well-learned bishops.
 
 <speaker>BUCKINGHAM</speaker>
-I go; and towards three or four o'clock
+I go; and towards three or four o&rsquo;clock
 Look for the news that the Guildhall affords.
 [<i>Buckingham exits.</i>]
 
@@ -3677,7 +3676,7 @@ Go, Lovell, with all speed to Doctor Shaa.
 [<i>To Ratcliffe.</i>]
  Go thou to Friar Penker. Bid them
 both
-Meet me within this hour at Baynard's Castle.
+Meet me within this hour at Baynard&rsquo;s Castle.
 [<i>Ratcliffe and Lovell exit.</i>]
 Now will I go to take some privy order
 To draw the brats of Clarence out of sight,
@@ -3692,14 +3691,14 @@ Have any time recourse unto the Princes.
 <speaker>SCRIVENER</speaker>
 Here is the indictment of the good Lord Hastings,
 Which in a set hand fairly is engrossed,
-That it may be today read o'er in Paul's.
+That it may be today read o&rsquo;er in Paul&rsquo;s.
 And mark how well the sequel hangs together:
 Eleven hours I have spent to write it over,
 For yesternight by Catesby was it sent me;
 The precedent was full as long a-doing,
 And yet within these five hours Hastings lived,
 Untainted, unexamined, free, at liberty.
-Here's a good world the while! Who is so gross
+Here&rsquo;s a good world the while! Who is so gross
 That cannot see this palpable device?
 Yet who so bold but says he sees it not?
 Bad is the world, and all will come to naught
@@ -3718,12 +3717,12 @@ Now, by the holy mother of our Lord,
 The citizens are mum, say not a word.
 
 <speaker>RICHARD</speaker>
-Touched you the bastardy of Edward's children?
+Touched you the bastardy of Edward&rsquo;s children?
 
 <speaker>BUCKINGHAM</speaker>
 I did; with his contract with Lady Lucy
 And his contract by deputy in France;
-Th' unsatiate greediness of his desire
+Th&rsquo; unsatiate greediness of his desire
 And his enforcement of the city wives;
 His tyranny for trifles; his own bastardy,
 As being got, your father then in France,
@@ -3737,8 +3736,8 @@ Your bounty, virtue, fair humility;
 Indeed, left nothing fitting for your purpose
 Untouched or slightly handled in discourse.
 And when mine oratory drew toward end,
-I bid them that did love their country's good
-Cry "God save Richard, England's royal king!"
+I bid them that did love their country&rsquo;s good
+Cry "&ldquo;God save Richard, England&rsquo;s royal king!&rdquo;"
 
 <speaker>RICHARD</speaker>
 And did they so?
@@ -3752,15 +3751,15 @@ And asked the Mayor what meant this willful silence.
 His answer was, the people were not used
 To be spoke to but by the Recorder.
 Then he was urged to tell my tale again:
-"Thus saith the Duke. Thus hath the Duke
+"&ldquo;Thus saith the Duke. Thus hath the Duke
 inferred"--
 But nothing spoke in warrant from himself.
 When he had done, some followers of mine own,
 At lower end of the hall, hurled up their caps,
-And some ten voices cried "God save King Richard!"
+And some ten voices cried "&ldquo;God save King Richard!&rdquo;"
 And thus I took the vantage of those few.
-"Thanks, gentle citizens and friends," quoth I.
-"This general applause and cheerful shout
+"&ldquo;Thanks, gentle citizens and friends,&rdquo;" quoth I.
+"&ldquo;This general applause and cheerful shout
 Argues your wisdoms and your love to Richard"--
 And even here brake off and came away.
 
@@ -3774,13 +3773,13 @@ The Mayor is here at hand. Intend some fear;
 Be not you spoke with but by mighty suit.
 And look you get a prayer book in your hand
 And stand between two churchmen, good my lord,
-For on that ground I'll make a holy descant.
+For on that ground I&rsquo;ll make a holy descant.
 And be not easily won to our requests.
-Play the maid's part: still answer "nay," and take it.
+Play the maid&rsquo;s part: still answer "&ldquo;nay,&rdquo;" and take it.
 
 <speaker>RICHARD</speaker>
 I go. An if you plead as well for them
-As I can say "nay" to thee for myself,
+As I can say "&ldquo;nay&rdquo;" to thee for myself,
 No doubt we bring it to a happy issue.
 [<i>Knocking within.</i>]
 
@@ -3813,7 +3812,7 @@ No less importing than our general good,
 Are come to have some conference with his Grace.
 
 <speaker>CATESBY</speaker>
-I'll signify so much unto him straight.	[<i>He exits.</i>]
+I&rsquo;ll signify so much unto him straight.	[<i>He exits.</i>]
 
 <speaker>BUCKINGHAM</speaker>
 Ah ha, my lord, this prince is not an Edward!
@@ -3850,14 +3849,14 @@ By heaven, we come to him in perfect love,
 And so once more return and tell his Grace.
 [<i>Catesby exits.</i>]
 When holy and devout religious men
-Are at their beads, 'tis much to draw them thence,
+Are at their beads, &rsquo;tis much to draw them thence,
 So sweet is zealous contemplation.
 
 [<i>Enter Richard aloft, between two Bishops.</i>]
 [<i>Catesby reenters.</i>]
 
 <speaker>MAYOR</speaker>
-See where his Grace stands, 'tween two clergymen.
+See where his Grace stands, &rsquo;tween two clergymen.
 
 <speaker>BUCKINGHAM</speaker>
 Two props of virtue for a Christian prince,
@@ -3874,7 +3873,7 @@ My lord, there needs no such apology.
 I do beseech your Grace to pardon me,
 Who, earnest in the service of my God,
 Deferred the visitation of my friends.
-But, leaving this, what is your Grace's pleasure?
+But, leaving this, what is your Grace&rsquo;s pleasure?
 
 <speaker>BUCKINGHAM</speaker>
 Even that, I hope, which pleaseth God above
@@ -3882,7 +3881,7 @@ And all good men of this ungoverned isle.
 
 <speaker>RICHARD</speaker>
 I do suspect I have done some offense
-That seems disgracious in the city's eye,
+That seems disgracious in the city&rsquo;s eye,
 And that you come to reprehend my ignorance.
 
 <speaker>BUCKINGHAM</speaker>
@@ -3901,7 +3900,7 @@ Your state of fortune, and your due of birth,
 The lineal glory of your royal house,
 To the corruption of a blemished stock,
 Whiles in the mildness of your sleepy thoughts,
-Which here we waken to our country's good,
+Which here we waken to our country&rsquo;s good,
 The noble isle doth want her proper limbs--
 Her face defaced with scars of infamy,
 Her royal stock graft with ignoble plants,
@@ -3911,7 +3910,7 @@ Which to recure, we heartily solicit
 Your gracious self to take on you the charge
 And kingly government of this your land,
 Not as Protector, steward, substitute,
-Or lowly factor for another's gain,
+Or lowly factor for another&rsquo;s gain,
 But as successively, from blood to blood,
 Your right of birth, your empery, your own.
 For this, consorted with the citizens,
@@ -3958,8 +3957,8 @@ Which God defend that I should wring from him.
 My lord, this argues conscience in your Grace,
 But the respects thereof are nice and trivial,
 All circumstances well considered.
-You say that Edward is your brother's son;
-So say we too, but not by Edward's wife.
+You say that Edward is your brother&rsquo;s son;
+So say we too, but not by Edward&rsquo;s wife.
 For first was he contract to Lady Lucy--
 Your mother lives a witness to his vow--
 And afterward by substitute betrothed
@@ -3972,7 +3971,7 @@ Made prize and purchase of his wanton eye,
 Seduced the pitch and height of his degree
 To base declension and loathed bigamy.
 By her in his unlawful bed he got
-This Edward, whom our manners call "the Prince."
+This Edward, whom our manners call "&ldquo;the Prince.&rdquo;"
 More bitterly could I expostulate,
 Save that, for reverence to some alive,
 I give a sparing limit to my tongue.
@@ -4000,17 +3999,17 @@ I cannot, nor I will not, yield to you.
 
 <speaker>BUCKINGHAM</speaker>
 If you refuse it, as in love and zeal
-Loath to depose the child, your brother's son--
+Loath to depose the child, your brother&rsquo;s son--
 As well we know your tenderness of heart
 And gentle, kind, effeminate remorse,
 Which we have noted in you to your kindred
 And equally indeed to all estates--
-Yet know, whe'er you accept our suit or no,
-Your brother's son shall never reign our king,
+Yet know, whe&rsquo;er you accept our suit or no,
+Your brother&rsquo;s son shall never reign our king,
 But we will plant some other in the throne,
 To the disgrace and downfall of your house.
 And in this resolution here we leave you.--
-Come, citizens. Zounds, I'll entreat no more.
+Come, citizens. Zounds, I&rsquo;ll entreat no more.
 
 <speaker>RICHARD</speaker>
 O, do not swear, my lord of Buckingham!
@@ -4030,7 +4029,7 @@ Albeit against my conscience and my soul.
 
 Cousin of Buckingham and sage, grave men,
 Since you will buckle Fortune on my back,
-To bear her burden, whe'er I will or no,
+To bear her burden, whe&rsquo;er I will or no,
 I must have patience to endure the load;
 But if black scandal or foul-faced reproach
 Attend the sequel of your imposition,
@@ -4047,7 +4046,7 @@ In saying so, you shall but say the truth.
 
 <speaker>BUCKINGHAM</speaker>
 Then I salute you with this royal title:
-Long live Richard, England's worthy king!
+Long live Richard, England&rsquo;s worthy king!
 
 <speaker>ALL</speaker>
 Amen.
@@ -4073,14 +4072,14 @@ Farewell, my cousin. Farewell, gentle friends.
 <hr>
 [<i>Enter Queen Elizabeth, with the Duchess of York, and
 the Lord Marquess of Dorset, at one door; Anne,
-Duchess of Gloucester with Clarence's daughter, at
+Duchess of Gloucester with Clarence&rsquo;s daughter, at
 another door.</i>]
 
 <speaker>DUCHESS</speaker>
 Who meets us here? My niece Plantagenet
 Led in the hand of her kind aunt of Gloucester?
-Now, for my life, she's wandering to the Tower,
-On pure heart's love, to greet the tender prince.--
+Now, for my life, she&rsquo;s wandering to the Tower,
+On pure heart&rsquo;s love, to greet the tender prince.--
 Daughter, well met.
 
 <speaker>ANNE</speaker>
@@ -4096,7 +4095,7 @@ Upon the like devotion as yourselves,
 To gratulate the gentle princes there.
 
 <speaker>QUEEN ELIZABETH</speaker>
-Kind sister, thanks. We'll enter all together.
+Kind sister, thanks. We&rsquo;ll enter all together.
 
 [<i>Enter Brakenbury, the Lieutenant.</i>]
 
@@ -4110,7 +4109,7 @@ I may not suffer you to visit them.
 The King hath strictly charged the contrary.
 
 <speaker>QUEEN ELIZABETH</speaker>
-The King? Who's that?
+The King? Who&rsquo;s that?
 
 <speaker>BRAKENBURY</speaker>
 I mean, the Lord Protector.
@@ -4121,11 +4120,11 @@ Hath he set bounds between their love and me?
 I am their mother. Who shall bar me from them?
 
 <speaker>DUCHESS</speaker>
-I am their father's mother. I will see them.
+I am their father&rsquo;s mother. I will see them.
 
 <speaker>ANNE</speaker>
 Their aunt I am in law, in love their mother.
-Then bring me to their sights. I'll bear thy blame
+Then bring me to their sights. I&rsquo;ll bear thy blame
 And take thy office from thee, on my peril.
 
 <speaker>BRAKENBURY</speaker>
@@ -4137,12 +4136,12 @@ I am bound by oath, and therefore pardon me.
 
 <speaker>STANLEY</speaker>
 Let me but meet you ladies one hour hence,
-And I'll salute your Grace of York as mother
+And I&rsquo;ll salute your Grace of York as mother
 And reverend looker-on of two fair queens.
 [<i>To Anne.</i>]
  Come, madam, you must straight to
 Westminster,
-There to be crowned Richard's royal queen.
+There to be crowned Richard&rsquo;s royal queen.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Ah, cut my lace asunder
@@ -4159,13 +4158,13 @@ Be of good cheer, mother. How fares your Grace?
 <speaker>QUEEN ELIZABETH</speaker>
 O Dorset, speak not to me. Get thee gone.
 Death and destruction dogs thee at thy heels.
-Thy mother's name is ominous to children.
+Thy mother&rsquo;s name is ominous to children.
 If thou wilt outstrip death, go, cross the seas,
 And live with Richmond, from the reach of hell.
 Go, hie thee, hie thee from this slaughterhouse,
 Lest thou increase the number of the dead
-And make me die the thrall of Margaret's curse,
-Nor mother, wife, nor England's counted queen.
+And make me die the thrall of Margaret&rsquo;s curse,
+Nor mother, wife, nor England&rsquo;s counted queen.
 
 <speaker>STANLEY</speaker>
 Full of wise care is this your counsel, madam.
@@ -4174,7 +4173,7 @@ Full of wise care is this your counsel, madam.
 hours.
 You shall have letters from me to my son
 In your behalf, to meet you on the way.
-Be not ta'en tardy by unwise delay.
+Be not ta&rsquo;en tardy by unwise delay.
 
 <speaker>DUCHESS</speaker>
 O ill-dispersing wind of misery!
@@ -4192,7 +4191,7 @@ O, would to God that the inclusive verge
 Of golden metal that must round my brow
 Were red-hot steel to sear me to the brains!
 Anointed let me be with deadly venom,
-And die ere men can say "God save the Queen."
+And die ere men can say "&ldquo;God save the Queen.&rdquo;"
 
 <speaker>QUEEN ELIZABETH</speaker>
 Go, go, poor soul, I envy not thy glory.
@@ -4200,22 +4199,22 @@ To feed my humor, wish thyself no harm.
 
 <speaker>ANNE</speaker>
 No? Why? When he that is my husband now
-Came to me as I followed Henry's corse,
+Came to me as I followed Henry&rsquo;s corse,
 When scarce the blood was well washed from his
 hands
 Which issued from my other angel husband
 And that dear saint which then I weeping followed--
-O, when, I say, I looked on Richard's face,
+O, when, I say, I looked on Richard&rsquo;s face,
 This was my wish: be thou, quoth I, accursed
 For making me, so young, so old a widow;
-And, when thou wedd'st, let sorrow haunt thy bed;
+And, when thou wedd&rsquo;st, let sorrow haunt thy bed;
 And be thy wife, if any be so mad,
 More miserable by the life of thee
-Than thou hast made me by my dear lord's death.
+Than thou hast made me by my dear lord&rsquo;s death.
 Lo, ere I can repeat this curse again,
-Within so small a time my woman's heart
+Within so small a time my woman&rsquo;s heart
 Grossly grew captive to his honey words
-And proved the subject of mine own soul's curse,
+And proved the subject of mine own soul&rsquo;s curse,
 Which hitherto hath held my eyes from rest,
 For never yet one hour in his bed
 Did I enjoy the golden dew of sleep,
@@ -4233,7 +4232,7 @@ No more than with my soul I mourn for yours.
 Farewell, thou woeful welcomer of glory.
 
 <speaker>ANNE</speaker>
-Adieu, poor soul that tak'st thy leave of it.
+Adieu, poor soul that tak&rsquo;st thy leave of it.
 
 <speaker>DUCHESS,</speaker>
 [<i>to Dorset</i>]
@@ -4246,7 +4245,7 @@ tend thee.
 good thoughts possess thee.
 I to my grave, where peace and rest lie with me.
 Eighty-odd years of sorrow have I seen,
-And each hour's joy wracked with a week of teen.
+And each hour&rsquo;s joy wracked with a week of teen.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Stay, yet look back with me unto the Tower.--
@@ -4296,14 +4295,14 @@ Why, Buckingham, I say I would be king.
 Why so you are, my thrice-renowned lord.
 
 <speaker>RICHARD</speaker>
-Ha! Am I king? 'Tis so--but Edward lives.
+Ha! Am I king? &rsquo;Tis so--but Edward lives.
 
 <speaker>BUCKINGHAM</speaker>
 True, noble prince.
 
 <speaker>RICHARD</speaker>
 O bitter consequence
-That Edward still should live "true noble prince"!
+That Edward still should live "&ldquo;true noble prince&rdquo;"!
 Cousin, thou wast not wont to be so dull.
 Shall I be plain? I wish the bastards dead,
 And I would have it suddenly performed.
@@ -4339,7 +4338,7 @@ Boy!
   My lord?
 
 <speaker>RICHARD</speaker>
-Know'st thou not any whom corrupting gold
+Know&rsquo;st thou not any whom corrupting gold
 Will tempt unto a close exploit of death?
 
 <speaker>PAGE</speaker>
@@ -4365,7 +4364,7 @@ And stops he now for breath? Well, be it so.
 
 [<i>Enter Stanley.</i>]
 
-How now, Lord Stanley, what's the news?
+How now, Lord Stanley, what&rsquo;s the news?
 
 <speaker>STANLEY</speaker>
 Know, my loving lord,
@@ -4378,15 +4377,15 @@ Come hither, Catesby. Rumor it abroad
 That Anne my wife is very grievous sick.
 I will take order for her keeping close.
 Inquire me out some mean poor gentleman,
-Whom I will marry straight to Clarence' daughter.
+Whom I will marry straight to Clarence&rsquo; daughter.
 The boy is foolish, and I fear not him.
-Look how thou dream'st! I say again, give out
+Look how thou dream&rsquo;st! I say again, give out
 That Anne my queen is sick and like to die.
 About it, for it stands me much upon
 To stop all hopes whose growth may damage me.
 [<i>Catesby exits.</i>]
 [<i>Aside.</i>]
- I must be married to my brother's daughter,
+ I must be married to my brother&rsquo;s daughter,
 Or else my kingdom stands on brittle glass.
 Murder her brothers, and then marry her--
 Uncertain way of gain. But I am in
@@ -4407,23 +4406,23 @@ Art thou indeed?
 Prove me, my gracious lord.
 
 <speaker>RICHARD</speaker>
-Dar'st thou resolve to kill a friend of mine?
+Dar&rsquo;st thou resolve to kill a friend of mine?
 
 <speaker>TYRREL</speaker>
 Please you. But I had rather kill two enemies.
 
 <speaker>RICHARD</speaker>
 Why then, thou hast it. Two deep enemies,
-Foes to my rest, and my sweet sleep's disturbers,
+Foes to my rest, and my sweet sleep&rsquo;s disturbers,
 Are they that I would have thee deal upon.
 Tyrrel, I mean those bastards in the Tower.
 
 <speaker>TYRREL</speaker>
 Let me have open means to come to them,
-And soon I'll rid you from the fear of them.
+And soon I&rsquo;ll rid you from the fear of them.
 
 <speaker>RICHARD</speaker>
-Thou sing'st sweet music. Hark, come hither, Tyrrel.
+Thou sing&rsquo;st sweet music. Hark, come hither, Tyrrel.
 [<i>Tyrrel approaches Richard and kneels.</i>]
 Go, by this token. Rise, and lend thine ear.
 [<i>Tyrrel rises, and Richard whispers
@@ -4447,12 +4446,12 @@ Well, let that rest. Dorset is fled to Richmond.
 I hear the news, my lord.
 
 <speaker>RICHARD</speaker>
-Stanley, he is your wife's son. Well, look unto it.
+Stanley, he is your wife&rsquo;s son. Well, look unto it.
 
 <speaker>BUCKINGHAM</speaker>
 My lord, I claim the gift, my due by promise,
 For which your honor and your faith is pawned--
-Th' earldom of Hereford and the movables
+Th&rsquo; earldom of Hereford and the movables
 Which you have promised I shall possess.
 
 <speaker>RICHARD</speaker>
@@ -4489,14 +4488,14 @@ I should not live long after I saw Richmond.
 My lord--
 
 <speaker>RICHARD</speaker>
-Ay, what's o'clock?
+Ay, what&rsquo;s o&rsquo;clock?
 
 <speaker>BUCKINGHAM</speaker>
 I am thus bold to put your Grace in mind
 Of what you promised me.
 
 <speaker>RICHARD</speaker>
-Well, but what's o'clock?
+Well, but what&rsquo;s o&rsquo;clock?
 
 <speaker>BUCKINGHAM</speaker>
 Upon the stroke of ten.
@@ -4508,7 +4507,7 @@ Well, let it strike.
 Why let it strike?
 
 <speaker>RICHARD</speaker>
-Because that, like a jack, thou keep'st the stroke
+Because that, like a jack, thou keep&rsquo;st the stroke
 Betwixt thy begging and my meditation.
 I am not in the giving vein today.
 
@@ -4538,20 +4537,19 @@ Dighton and Forrest, who I did suborn
 To do this piece of ruthless butchery,
 Albeit they were fleshed villains, bloody dogs,
 Melted with tenderness and mild compassion,
-Wept like two children in their deaths' sad story.
-<speaker>"O</speaker>
-thus," quoth Dighton, "lay the gentle babes."
-"Thus, thus," quoth Forrest, "girdling one another
+Wept like two children in their deaths&rsquo; sad story.
+"&ldquo;O thus,&rdquo;" quoth Dighton, "&ldquo;lay the gentle babes.&rdquo;"
+"&ldquo;Thus, thus,&rdquo;" quoth Forrest, "&ldquo;girdling one another
 Within their alabaster innocent arms.
 Their lips were four red roses on a stalk,
 And in their summer beauty kissed each other.
 A book of prayers on their pillow lay,
-Which once," quoth Forrest, "almost changed my
+Which once,&rdquo;" quoth Forrest, "&ldquo;almost changed my
 mind,
-But, O, the devil--" There the villain stopped;
-When Dighton thus told on: "We smothered
+But, O, the devil--&rdquo;" There the villain stopped;
+When Dighton thus told on: "&ldquo;We smothered
 The most replenished sweet work of nature
-That from the prime creation e'er she framed."
+That from the prime creation e&rsquo;er she framed.&rdquo;"
 Hence both are gone with conscience and remorse;
 They could not speak; and so I left them both
 To bear this tidings to the bloody king.
@@ -4569,7 +4567,7 @@ Beget your happiness, be happy then,
 For it is done.
 
 <speaker>RICHARD</speaker>
-But did'st thou see them dead?
+But did&rsquo;st thou see them dead?
 
 <speaker>TYRREL</speaker>
 I did, my lord.
@@ -4595,10 +4593,10 @@ I humbly take my leave.
 <speaker>RICHARD</speaker>
 The son of Clarence have I pent up close,
 His daughter meanly have I matched in marriage,
-The sons of Edward sleep in Abraham's bosom,
+The sons of Edward sleep in Abraham&rsquo;s bosom,
 And Anne my wife hath bid this world goodnight.
 Now, for I know the Breton Richmond aims
-At young Elizabeth, my brother's daughter,
+At young Elizabeth, my brother&rsquo;s daughter,
 And by that knot looks proudly on the crown,
 To her go I, a jolly thriving wooer.
 
@@ -4608,7 +4606,7 @@ To her go I, a jolly thriving wooer.
 My lord.
 
 <speaker>RICHARD</speaker>
-Good or bad news, that thou com'st in so bluntly?
+Good or bad news, that thou com&rsquo;st in so bluntly?
 
 <speaker>RATCLIFFE</speaker>
 Bad news, my lord. Morton is fled to Richmond,
@@ -4622,7 +4620,7 @@ Come, I have learned that fearful commenting
 Is leaden servitor to dull delay;
 Delay leads impotent and snail-paced beggary;
 Then fiery expedition be my wing,
-Jove's Mercury, and herald for a king.
+Jove&rsquo;s Mercury, and herald for a king.
 Go, muster men. My counsel is my shield.
 We must be brief when traitors brave the field.
 [<i>They exit.</i>]
@@ -4650,7 +4648,7 @@ My unblown flowers, new-appearing sweets,
 If yet your gentle souls fly in the air
 And be not fixed in doom perpetual,
 Hover about me with your airy wings
-And hear your mother's lamentation.
+And hear your mother&rsquo;s lamentation.
 
 <speaker>QUEEN MARGARET,</speaker>
 [<i>aside</i>]
@@ -4679,10 +4677,10 @@ When holy Harry died, and my sweet son.
 <speaker>DUCHESS,</speaker>
 [<i>to Queen Elizabeth</i>]
 Dead life, blind sight, poor mortal living ghost,
-Woe's scene, world's shame, grave's due by life
+Woe&rsquo;s scene, world&rsquo;s shame, grave&rsquo;s due by life
 usurped,
 Brief abstract and record of tedious days,
-Rest thy unrest on England's lawful earth,
+Rest thy unrest on England&rsquo;s lawful earth,
 Unlawfully made drunk with innocent blood.
 
 <speaker>QUEEN ELIZABETH,</speaker>
@@ -4705,8 +4703,8 @@ Thou hadst an Edward till a Richard killed him;
 Thou hadst a Richard till a Richard killed him.
 
 <speaker>DUCHESS</speaker>
-I had a Richard too, and thou did'st kill him;
-I had a Rutland too; thou holp'st to kill him.
+I had a Richard too, and thou did&rsquo;st kill him;
+I had a Rutland too; thou holp&rsquo;st to kill him.
 
 <speaker>QUEEN MARGARET</speaker>
 Thou hadst a Clarence too, and Richard killed him.
@@ -4716,16 +4714,16 @@ That dog, that had his teeth before his eyes,
 To worry lambs and lap their gentle blood;
 That excellent grand tyrant of the Earth,
 That reigns in galled eyes of weeping souls;
-That foul defacer of God's handiwork
+That foul defacer of God&rsquo;s handiwork
 Thy womb let loose to chase us to our graves.
 O upright, just, and true-disposing God,
 How do I thank thee that this carnal cur
-Preys on the issue of his mother's body
-And makes her pew-fellow with others' moan!
+Preys on the issue of his mother&rsquo;s body
+And makes her pew-fellow with others&rsquo; moan!
 
 <speaker>DUCHESS,</speaker>
 [<i>standing</i>]
-O Harry's wife, triumph not in my woes!
+O Harry&rsquo;s wife, triumph not in my woes!
 God witness with me, I have wept for thine.
 
 <speaker>QUEEN MARGARET</speaker>
@@ -4737,16 +4735,16 @@ Young York, he is but boot, because both they
 Matched not the high perfection of my loss.
 Thy Clarence he is dead that stabbed my Edward,
 And the beholders of this frantic play,
-Th' adulterate Hastings, Rivers, Vaughan, Grey,
+Th&rsquo; adulterate Hastings, Rivers, Vaughan, Grey,
 Untimely smothered in their dusky graves.
-Richard yet lives, hell's black intelligencer,
+Richard yet lives, hell&rsquo;s black intelligencer,
 Only reserved their factor to buy souls
 And send them thither. But at hand, at hand
 Ensues his piteous and unpitied end.
 Earth gapes, hell burns, fiends roar, saints pray,
 To have him suddenly conveyed from hence.
 Cancel his bond of life, dear God I pray,
-That I may live and say "The dog is dead."
+That I may live and say "&ldquo;The dog is dead.&rdquo;"
 
 <speaker>QUEEN ELIZABETH,</speaker>
 [<i>standing</i>]
@@ -4755,8 +4753,8 @@ That I should wish for thee to help me curse
 That bottled spider, that foul bunch-backed toad!
 
 <speaker>QUEEN MARGARET</speaker>
-I called thee then "vain flourish of my fortune."
-I called thee then poor shadow, "painted queen,"
+I called thee then "&ldquo;vain flourish of my fortune.&rdquo;"
+I called thee then poor shadow, "&ldquo;painted queen,&rdquo;"
 The presentation of but what I was,
 The flattering index of a direful pageant,
 One heaved a-high to be hurled down below,
@@ -4767,8 +4765,8 @@ A sign of dignity, a breath, a bubble,
 A queen in jest, only to fill the scene.
 Where is thy husband now? Where be thy brothers?
 Where are thy two sons? Wherein dost thou joy?
-Who sues and kneels and says "God save the
-Queen?"
+Who sues and kneels and says "&ldquo;God save the
+Queen?&rdquo;"
 Where be the bending peers that flattered thee?
 Where be the thronging troops that followed thee?
 Decline all this, and see what now thou art:
@@ -4788,7 +4786,7 @@ Usurp the just proportion of my sorrow?
 Now thy proud neck bears half my burdened yoke,
 From which even here I slip my weary head
 And leave the burden of it all on thee.
-Farewell, York's wife, and queen of sad mischance.
+Farewell, York&rsquo;s wife, and queen of sad mischance.
 These English woes shall make me smile in France.
 [<i>She begins to exit.</i>]
 
@@ -4815,7 +4813,7 @@ mine.	[<i>Margaret exits.</i>]
 Why should calamity be full of words?
 
 <speaker>QUEEN ELIZABETH</speaker>
-Windy attorneys to their clients' woes,
+Windy attorneys to their clients&rsquo; woes,
 Airy succeeders of intestate joys,
 Poor breathing orators of miseries,
 Let them have scope; though what they will impart
@@ -4823,7 +4821,7 @@ Help nothing else, yet do they ease the heart.
 
 <speaker>DUCHESS</speaker>
 If so, then be not tongue-tied. Go with me,
-And in the breath of bitter words let's smother
+And in the breath of bitter words let&rsquo;s smother
 My damned son that thy two sweet sons smothered.
 [<i>A trumpet sounds.</i>]
 [<i>The trumpet sounds.</i>]
@@ -4841,7 +4839,7 @@ From all the slaughters, wretch, that thou hast done.
 
 <speaker>QUEEN ELIZABETH,</speaker>
 [<i>to Richard</i>]
-Hid'st thou that forehead with a golden crown
+Hid&rsquo;st thou that forehead with a golden crown
 Where should be branded, if that right were right,
 The slaughter of the prince that owed that crown
 And the dire death of my poor sons and brothers?
@@ -4863,7 +4861,7 @@ Where is the gentle Rivers, Vaughan, Grey?
 <speaker>RICHARD</speaker>
 A flourish, trumpets! Strike alarum, drums!
 Let not the heavens hear these telltale women
-Rail on the Lord's anointed. Strike, I say!
+Rail on the Lord&rsquo;s anointed. Strike, I say!
 [<i>Flourish. Alarums.</i>]
 Either be patient and entreat me fair,
 Or with the clamorous report of war
@@ -4886,7 +4884,7 @@ That cannot brook the accent of reproof.
 O, let me speak!
 
 <speaker>RICHARD</speaker>
-Do then, but I'll not hear.
+Do then, but I&rsquo;ll not hear.
 
 <speaker>DUCHESS</speaker>
 I will be mild and gentle in my words.
@@ -4902,11 +4900,11 @@ God knows, in torment and in agony.
 And came I not at last to comfort you?
 
 <speaker>DUCHESS</speaker>
-No, by the Holy Rood, thou know'st it well.
-Thou cam'st on Earth to make the Earth my hell.
+No, by the Holy Rood, thou know&rsquo;st it well.
+Thou cam&rsquo;st on Earth to make the Earth my hell.
 A grievous burden was thy birth to me;
 Tetchy and wayward was thy infancy;
-Thy school days frightful, desp'rate, wild, and
+Thy school days frightful, desp&rsquo;rate, wild, and
 furious;
 Thy prime of manhood daring, bold, and venturous;
 Thy age confirmed, proud, subtle, sly, and bloody,
@@ -4936,15 +4934,15 @@ For I shall never speak to thee again.
 So.
 
 <speaker>DUCHESS</speaker>
-Either thou wilt die by God's just ordinance
+Either thou wilt die by God&rsquo;s just ordinance
 Ere from this war thou turn a conqueror,
 Or I with grief and extreme age shall perish
 And nevermore behold thy face again.
 Therefore take with thee my most grievous curse,
 Which in the day of battle tire thee more
-Than all the complete armor that thou wear'st.
+Than all the complete armor that thou wear&rsquo;st.
 My prayers on the adverse party fight,
-And there the little souls of Edward's children
+And there the little souls of Edward&rsquo;s children
 Whisper the spirits of thine enemies
 And promise them success and victory.
 Bloody thou art; bloody will be thy end.
@@ -4971,17 +4969,17 @@ Virtuous and fair, royal and gracious.
 
 <speaker>QUEEN ELIZABETH</speaker>
 And must she die for this? O, let her live,
-And I'll corrupt her manners, stain her beauty,
-Slander myself as false to Edward's bed,
+And I&rsquo;ll corrupt her manners, stain her beauty,
+Slander myself as false to Edward&rsquo;s bed,
 Throw over her the veil of infamy.
 So she may live unscarred of bleeding slaughter,
-I will confess she was not Edward's daughter.
+I will confess she was not Edward&rsquo;s daughter.
 
 <speaker>RICHARD</speaker>
 Wrong not her birth. She is a royal princess.
 
 <speaker>QUEEN ELIZABETH</speaker>
-To save her life, I'll say she is not so.
+To save her life, I&rsquo;ll say she is not so.
 
 <speaker>RICHARD</speaker>
 Her life is safest only in her birth.
@@ -5011,13 +5009,13 @@ Cousins, indeed, and by their uncle cozened
 Of comfort, kingdom, kindred, freedom, life.
 Whose hand soever launched their tender hearts,
 Thy head, all indirectly, gave direction.
-No doubt the murd'rous knife was dull and blunt
+No doubt the murd&rsquo;rous knife was dull and blunt
 Till it was whetted on thy stone-hard heart,
 To revel in the entrails of my lambs.
 But that still use of grief makes wild grief tame,
 My tongue should to thy ears not name my boys
 Till that my nails were anchored in thine eyes,
-And I, in such a desp'rate bay of death,
+And I, in such a desp&rsquo;rate bay of death,
 Like a poor bark of sails and tackling reft,
 Rush all to pieces on thy rocky bosom.
 
@@ -5032,14 +5030,14 @@ What good is covered with the face of heaven,
 To be discovered, that can do me good?
 
 <speaker>RICHARD</speaker>
-Th' advancement of your children, gentle lady.
+Th&rsquo; advancement of your children, gentle lady.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Up to some scaffold, there to lose their heads.
 
 <speaker>RICHARD</speaker>
 Unto the dignity and height of fortune,
-The high imperial type of this Earth's glory.
+The high imperial type of this Earth&rsquo;s glory.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Flatter my sorrow with report of it.
@@ -5055,21 +5053,21 @@ Which thou supposest I have done to thee.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Be brief, lest that the process of thy kindness
-Last longer telling than thy kindness' date.
+Last longer telling than thy kindness&rsquo; date.
 
 <speaker>RICHARD</speaker>
 Then know that from my soul I love thy daughter.
 
 <speaker>QUEEN ELIZABETH</speaker>
-My daughter's mother thinks it with her soul.
+My daughter&rsquo;s mother thinks it with her soul.
 
 <speaker>RICHARD</speaker>
 What do you think?
 
 <speaker>QUEEN ELIZABETH</speaker>
 That thou dost love my daughter from thy soul.
-So from thy soul's love didst thou love her brothers,
-And from my heart's love I do thank thee for it.
+So from thy soul&rsquo;s love didst thou love her brothers,
+And from my heart&rsquo;s love I do thank thee for it.
 
 <speaker>RICHARD</speaker>
 Be not so hasty to confound my meaning.
@@ -5104,17 +5102,17 @@ Madam, with all my heart.
 <speaker>QUEEN ELIZABETH</speaker>
 Send to her, by the man that slew her brothers,
 A pair of bleeding hearts; thereon engrave
-"Edward" and "York." Then haply will she weep.
+"&ldquo;Edward&rdquo;" and "&ldquo;York.&rdquo;" Then haply will she weep.
 Therefore present to her--as sometime Margaret
-Did to thy father, steeped in Rutland's blood--
+Did to thy father, steeped in Rutland&rsquo;s blood--
 A handkerchief, which say to her did drain
-The purple sap from her sweet brother's body,
+The purple sap from her sweet brother&rsquo;s body,
 And bid her wipe her weeping eyes withal.
 If this inducement move her not to love,
 Send her a letter of thy noble deeds;
-Tell her thou mad'st away her uncle Clarence,
+Tell her thou mad&rsquo;st away her uncle Clarence,
 Her uncle Rivers, ay, and for her sake
-Mad'st quick conveyance with her good aunt Anne.
+Mad&rsquo;st quick conveyance with her good aunt Anne.
 
 <speaker>RICHARD</speaker>
 You mock me, madam. This is not the way
@@ -5137,11 +5135,11 @@ Look what is done cannot be now amended.
 Men shall deal unadvisedly sometimes,
 Which after-hours gives leisure to repent.
 If I did take the kingdom from your sons,
-To make amends I'll give it to your daughter.
+To make amends I&rsquo;ll give it to your daughter.
 If I have killed the issue of your womb,
 To quicken your increase I will beget
 Mine issue of your blood upon your daughter.
-A grandam's name is little less in love
+A grandam&rsquo;s name is little less in love
 Than is the doting title of a mother.
 They are as children but one step below,
 Even of your metal, of your very blood,
@@ -5169,19 +5167,19 @@ Advantaging their love with interest
 Of ten times double gain of happiness.
 Go then, my mother; to thy daughter go.
 Make bold her bashful years with your experience;
-Prepare her ears to hear a wooer's tale;
-Put in her tender heart th' aspiring flame
+Prepare her ears to hear a wooer&rsquo;s tale;
+Put in her tender heart th&rsquo; aspiring flame
 Of golden sovereignty; acquaint the Princess
 With the sweet silent hours of marriage joys;
 And when this arm of mine hath chastised
 The petty rebel, dull-brained Buckingham,
 Bound with triumphant garlands will I come
-And lead thy daughter to a conqueror's bed,
+And lead thy daughter to a conqueror&rsquo;s bed,
 To whom I will retail my conquest won,
-And she shall be sole victoress, Caesar's Caesar.
+And she shall be sole victoress, Caesar&rsquo;s Caesar.
 
 <speaker>QUEEN ELIZABETH</speaker>
-What were I best to say? Her father's brother
+What were I best to say? Her father&rsquo;s brother
 Would be her lord? Or shall I say her uncle?
 Or he that slew her brothers and her uncles?
 Under what title shall I woo for thee,
@@ -5189,7 +5187,7 @@ That God, the law, my honor, and her love
 Can make seem pleasing to her tender years?
 
 <speaker>RICHARD</speaker>
-Infer fair England's peace by this alliance.
+Infer fair England&rsquo;s peace by this alliance.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Which she shall purchase with still-lasting war.
@@ -5198,7 +5196,7 @@ Which she shall purchase with still-lasting war.
 Tell her the King, that may command, entreats--
 
 <speaker>QUEEN ELIZABETH</speaker>
-That, at her hands, which the King's King forbids.
+That, at her hands, which the King&rsquo;s King forbids.
 
 <speaker>RICHARD</speaker>
 Say she shall be a high and mighty queen.
@@ -5210,10 +5208,10 @@ To vail the title, as her mother doth.
 Say I will love her everlastingly.
 
 <speaker>QUEEN ELIZABETH</speaker>
-But how long shall that title "ever" last?
+But how long shall that title "&ldquo;ever&rdquo;" last?
 
 <speaker>RICHARD</speaker>
-Sweetly in force unto her fair life's end.
+Sweetly in force unto her fair life&rsquo;s end.
 
 <speaker>QUEEN ELIZABETH</speaker>
 But how long fairly shall her sweet life last?
@@ -5283,10 +5281,10 @@ Thyself is self-misused.
 Now, by the world--
 
 <speaker>QUEEN ELIZABETH</speaker>
-'Tis full of thy foul wrongs.
+&rsquo;Tis full of thy foul wrongs.
 
 <speaker>RICHARD</speaker>
-My father's death--
+My father&rsquo;s death--
 
 <speaker>QUEEN ELIZABETH</speaker>
 Thy life hath it dishonored.
@@ -5295,12 +5293,12 @@ Thy life hath it dishonored.
 Why then, by God.
 
 <speaker>QUEEN ELIZABETH</speaker>
-God's wrong is most of all.
+God&rsquo;s wrong is most of all.
 If thou didst fear to break an oath with Him,
 The unity the King my husband made
 Thou hadst not broken, nor my brothers died.
 If thou hadst feared to break an oath by Him,
-Th' imperial metal circling now thy head
+Th&rsquo; imperial metal circling now thy head
 Had graced the tender temples of my child,
 And both the Princes had been breathing here,
 Which now, two tender bedfellows for dust,
@@ -5311,7 +5309,7 @@ What canst thou swear by now?
 The time to come.
 
 <speaker>QUEEN ELIZABETH</speaker>
-That thou hast wronged in the time o'erpast;
+That thou hast wronged in the time o&rsquo;erpast;
 For I myself have many tears to wash
 Hereafter time, for time past wronged by thee.
 The children live whose fathers thou hast
@@ -5321,7 +5319,7 @@ The parents live whose children thou hast
 butchered,
 Old barren plants, to wail it with their age.
 Swear not by time to come, for that thou hast
-Misused ere used, by times ill-used o'erpast.
+Misused ere used, by times ill-used o&rsquo;erpast.
 
 <speaker>RICHARD</speaker>
 As I intend to prosper and repent,
@@ -5330,7 +5328,7 @@ Of hostile arms! Myself myself confound,
 Heaven and fortune bar me happy hours,
 Day, yield me not thy light, nor night thy rest,
 Be opposite all planets of good luck
-To my proceeding if, with dear heart's love,
+To my proceeding if, with dear heart&rsquo;s love,
 Immaculate devotion, holy thoughts,
 I tender not thy beauteous princely daughter.
 In her consists my happiness and thine.
@@ -5356,13 +5354,13 @@ Ay, if the devil tempt you to do good.
 Shall I forget myself to be myself?
 
 <speaker>RICHARD</speaker>
-Ay, if your self's remembrance wrong yourself.
+Ay, if your self&rsquo;s remembrance wrong yourself.
 
 <speaker>QUEEN ELIZABETH</speaker>
 Yet thou didst kill my children.
 
 <speaker>RICHARD</speaker>
-But in your daughter's womb I bury them,
+But in your daughter&rsquo;s womb I bury them,
 Where, in that nest of spicery, they will breed
 Selves of themselves, to your recomforture.
 
@@ -5377,7 +5375,7 @@ I go. Write to me very shortly,
 And you shall understand from me her mind.
 
 <speaker>RICHARD</speaker>
-Bear her my true love's kiss; and so, farewell.
+Bear her my true love&rsquo;s kiss; and so, farewell.
 [<i>Queen exits.</i>]
 Relenting fool and shallow, changing woman!
 
@@ -5390,7 +5388,7 @@ Most mighty sovereign, on the western coast
 Rideth a puissant navy. To our shores
 Throng many doubtful hollow-hearted friends,
 Unarmed and unresolved to beat them back.
-'Tis thought that Richmond is their admiral;
+&rsquo;Tis thought that Richmond is their admiral;
 And there they hull, expecting but the aid
 Of Buckingham to welcome them ashore.
 
@@ -5409,13 +5407,13 @@ Catesby, fly to the Duke.
 I will, my lord, with all convenient haste.
 
 <speaker>RICHARD</speaker>
-Ratcliffe, come hither. Post to Salisbury.When thou com'st thither--[<i>To Catesby.</i>]
+Ratcliffe, come hither. Post to Salisbury.When thou com&rsquo;st thither--[<i>To Catesby.</i>]
  Dull,
 unmindful villain,
-Why stay'st thou here and go'st not to the Duke?
+Why stay&rsquo;st thou here and go&rsquo;st not to the Duke?
 
 <speaker>CATESBY</speaker>
-First, mighty liege, tell me your Highness' pleasure,
+First, mighty liege, tell me your Highness&rsquo; pleasure,
 What from your Grace I shall deliver to him.
 
 <speaker>RICHARD</speaker>
@@ -5448,7 +5446,7 @@ Nor none so bad but well may be reported.
 
 <speaker>RICHARD</speaker>
 Hoyday, a riddle! Neither good nor bad.
-What need'st thou run so many miles about
+What need&rsquo;st thou run so many miles about
 When thou mayst tell thy tale the nearest way?
 Once more, what news?
 
@@ -5473,7 +5471,7 @@ He makes for England, here to claim the crown.
 Is the chair empty? Is the sword unswayed?
 Is the King dead, the empire unpossessed?
 What heir of York is there alive but we?
-And who is England's king but great York's heir?
+And who is England&rsquo;s king but great York&rsquo;s heir?
 Then tell me, what makes he upon the seas?
 
 <speaker>STANLEY</speaker>
@@ -5503,12 +5501,12 @@ When they should serve their sovereign in the west?
 <speaker>STANLEY</speaker>
 They have not been commanded, mighty king.
 Pleaseth your Majesty to give me leave,
-I'll muster up my friends and meet your Grace
+I&rsquo;ll muster up my friends and meet your Grace
 Where and what time your Majesty shall please.
 
 <speaker>RICHARD</speaker>
 Ay, thou wouldst be gone to join with Richmond,
-But I'll not trust thee.
+But I&rsquo;ll not trust thee.
 
 <speaker>STANLEY</speaker>
 Most mighty sovereign,
@@ -5518,7 +5516,7 @@ I never was nor never will be false.
 <speaker>RICHARD</speaker>
 Go then and muster men, but leave behind
 Your son George Stanley. Look your heart be firm,
-Or else his head's assurance is but frail.
+Or else his head&rsquo;s assurance is but frail.
 
 <speaker>STANLEY</speaker>
 So deal with him as I prove true to you.
@@ -5553,7 +5551,7 @@ There, take thou that till thou bring better news.
 <speaker>THIRD MESSENGER</speaker>
 The news I have to tell your Majesty
 Is that by sudden floods and fall of waters
-Buckingham's army is dispersed and scattered,
+Buckingham&rsquo;s army is dispersed and scattered,
 And he himself wandered away alone,
 No man knows whither.
 
@@ -5571,7 +5569,7 @@ Such proclamation hath been made, my lord.
 
 <speaker>FOURTH MESSENGER</speaker>
 Sir Thomas Lovell and Lord Marquess Dorset,
-'Tis said, my liege, in Yorkshire are in arms.
+&rsquo;Tis said, my liege, in Yorkshire are in arms.
 But this good comfort bring I to your Highness:
 The Breton navy is dispersed by tempest.
 Richmond, in Dorsetshire, sent out a boat
@@ -5609,7 +5607,7 @@ To Salisbury. The rest march on with me.
 Sir Christopher, tell Richmond this from me:
 That in the sty of the most deadly boar
 My son George Stanley is franked up in hold;
-If I revolt, off goes young George's head;
+If I revolt, off goes young George&rsquo;s head;
 The fear of that holds off my present aid.
 So get thee gone. Commend me to thy lord.
 Withal, say that the Queen hath heartily consented
@@ -5617,7 +5615,7 @@ He should espouse Elizabeth her daughter.
 But tell me, where is princely Richmond now?
 
 <speaker>CHRISTOPHER</speaker>
-At Pembroke, or at Ha'rfordwest in Wales.
+At Pembroke, or at Ha&rsquo;rfordwest in Wales.
 
 <speaker>STANLEY</speaker>
 What men of name resort to him?
@@ -5651,34 +5649,34 @@ Will not King Richard let me speak with him?
 No, my good lord. Therefore be patient.
 
 <speaker>BUCKINGHAM</speaker>
-Hastings and Edward's children, Grey and Rivers,
+Hastings and Edward&rsquo;s children, Grey and Rivers,
 Holy King Henry and thy fair son Edward,
 Vaughan, and all that have miscarried
 By underhand, corrupted, foul injustice,
 If that your moody, discontented souls
 Do through the clouds behold this present hour,
 Even for revenge mock my destruction.--
-This is All Souls' Day, fellow, is it not?
+This is All Souls&rsquo; Day, fellow, is it not?
 
 <speaker>SHERIFF</speaker>
 It is.
 
 <speaker>BUCKINGHAM</speaker>
-Why, then, All Souls' Day is my body's doomsday.
-This is the day which, in King Edward's time,
+Why, then, All Souls&rsquo; Day is my body&rsquo;s doomsday.
+This is the day which, in King Edward&rsquo;s time,
 I wished might fall on me when I was found
-False to his children and his wife's allies.
+False to his children and his wife&rsquo;s allies.
 This is the day wherein I wished to fall
 By the false faith of him whom most I trusted.
-This, this All Souls' Day to my fearful soul
+This, this All Souls&rsquo; Day to my fearful soul
 Is the determined respite of my wrongs.
 That high All-seer which I dallied with
 Hath turned my feigned prayer on my head
 And given in earnest what I begged in jest.
 Thus doth he force the swords of wicked men
-To turn their own points in their masters' bosoms.
-Thus Margaret's curse falls heavy on my neck:
-"When he," quoth she, "shall split thy heart with
+To turn their own points in their masters&rsquo; bosoms.
+Thus Margaret&rsquo;s curse falls heavy on my neck:
+"&ldquo;When he,&rdquo;" quoth she, "&ldquo;shall split thy heart with
 sorrow,
 Remember Margaret was a prophetess."--
 Come, lead me, officers, to the block of shame.
@@ -5704,13 +5702,13 @@ trough
 In your embowelled bosoms--this foul swine
 Is now even in the center of this isle,
 Near to the town of Leicester, as we learn.
-From Tamworth thither is but one day's march.
-In God's name, cheerly on, courageous friends,
+From Tamworth thither is but one day&rsquo;s march.
+In God&rsquo;s name, cheerly on, courageous friends,
 To reap the harvest of perpetual peace
 By this one bloody trial of sharp war.
 
 <speaker>OXFORD</speaker>
-Every man's conscience is a thousand men
+Every man&rsquo;s conscience is a thousand men
 To fight against this guilty homicide.
 
 <speaker>HERBERT</speaker>
@@ -5721,8 +5719,8 @@ He hath no friends but what are friends for fear,
 Which in his dearest need will fly from him.
 
 <speaker>RICHMOND</speaker>
-All for our vantage. Then, in God's name, march.
-True hope is swift, and flies with swallow's wings;
+All for our vantage. Then, in God&rsquo;s name, march.
+True hope is swift, and flies with swallow&rsquo;s wings;
 Kings it makes gods, and meaner creatures kings.
 [<i>All exit.</i>]
 
@@ -5753,7 +5751,7 @@ We must both give and take, my loving lord.
 
 <speaker>RICHARD</speaker>
 Up with my tent!--Here will I lie tonight.
-But where tomorrow? Well, all's one for that.
+But where tomorrow? Well, all&rsquo;s one for that.
 Who hath descried the number of the traitors?
 
 <speaker>NORFOLK</speaker>
@@ -5761,18 +5759,18 @@ Six or seven thousand is their utmost power.
 
 <speaker>RICHARD</speaker>
 Why, our battalia trebles that account.
-Besides, the King's name is a tower of strength
+Besides, the King&rsquo;s name is a tower of strength
 Which they upon the adverse faction want.--
 Up with the tent!--Come, noble gentlemen,
 Let us survey the vantage of the ground.
 Call for some men of sound direction;
-Let's lack no discipline, make no delay,
+Let&rsquo;s lack no discipline, make no delay,
 For, lords, tomorrow is a busy day.
 [<i>The tent now in place, they exit.</i>]
 
 [<i>Enter Richmond, Sir William Brandon, Oxford,
 Dorset, Herbert, Blunt, and others who set up
-Richmond's tent.</i>]
+Richmond&rsquo;s tent.</i>]
 
 <speaker>RICHMOND</speaker>
 The weary sun hath made a golden set,
@@ -5780,7 +5778,7 @@ And by the bright track of his fiery car
 Gives token of a goodly day tomorrow.--
 Sir William Brandon, you shall bear my standard.--
 Give me some ink and paper in my tent;
-I'll draw the form and model of our battle,
+I&rsquo;ll draw the form and model of our battle,
 Limit each leader to his several charge,
 And part in just proportion our small power.--
 My Lord of Oxford, you, Sir William Brandon,
@@ -5793,7 +5791,7 @@ Yet one thing more, good captain, do for me.
 Where is Lord Stanley quartered, do you know?
 
 <speaker>BLUNT</speaker>
-Unless I have mista'en his colors much,
+Unless I have mista&rsquo;en his colors much,
 Which well I am assured I have not done,
 His regiment lies half a mile, at least,
 South from the mighty power of the King.
@@ -5806,13 +5804,13 @@ And give him from me this most needful note.
 [<i>He gives a paper.</i>]
 
 <speaker>BLUNT</speaker>
-Upon my life, my lord, I'll undertake it,
+Upon my life, my lord, I&rsquo;ll undertake it,
 And so God give you quiet rest tonight.
 
 <speaker>RICHMOND</speaker>
 Good night, good Captain Blunt.	[<i>Blunt exits.</i>]
 Come, gentlemen,
-Let us consult upon tomorrow's business.
+Let us consult upon tomorrow&rsquo;s business.
 Into my tent. The dew is raw and cold.
 [<i>Richmond, Brandon, Dorset, Herbert, and Oxford
 withdraw into the tent. The others exit.</i>]
@@ -5821,10 +5819,10 @@ withdraw into the tent. The others exit.</i>]
 Catesby, with Soldiers.</i>]
 
 <speaker>RICHARD</speaker>
-What is 't o'clock?
+What is &rsquo;t o&rsquo;clock?
 
 <speaker>CATESBY</speaker>
-It's suppertime, my lord. It's nine o'clock.
+It&rsquo;s suppertime, my lord. It&rsquo;s nine o&rsquo;clock.
 
 <speaker>RICHARD</speaker>
 I will not sup tonight. Give me some ink and paper.
@@ -5855,7 +5853,7 @@ My lord.
 
 <speaker>RICHARD</speaker>
 Send out a pursuivant-at-arms
-To Stanley's regiment. Bid him bring his power
+To Stanley&rsquo;s regiment. Bid him bring his power
 Before sunrising, lest his son George fall
 Into the blind cave of eternal night.	[<i>Catesby exits.</i>]
 [<i>To Soldiers.</i>]
@@ -5905,7 +5903,7 @@ Tell me, how fares our loving mother?
 
 <speaker>STANLEY</speaker>
 I, by attorney, bless thee from thy mother,
-Who prays continually for Richmond's good.
+Who prays continually for Richmond&rsquo;s good.
 So much for that. The silent hours steal on,
 And flaky darkness breaks within the east.
 In brief, for so the season bids us be,
@@ -5917,7 +5915,7 @@ With best advantage will deceive the time
 And aid thee in this doubtful shock of arms.
 But on thy side I may not be too forward,
 Lest, being seen, thy brother, tender George,
-Be executed in his father's sight.
+Be executed in his father&rsquo;s sight.
 Farewell. The leisure and the fearful time
 Cuts off the ceremonious vows of love
 And ample interchange of sweet discourse,
@@ -5927,7 +5925,7 @@ Once more, adieu. Be valiant and speed well.
 
 <speaker>RICHMOND</speaker>
 Good lords, conduct him to his regiment.
-I'll strive with troubled thoughts to take a nap,
+I&rsquo;ll strive with troubled thoughts to take a nap,
 Lest leaden slumber peise me down tomorrow
 When I should mount with wings of victory.
 Once more, good night, kind lords and gentlemen.
@@ -5951,14 +5949,14 @@ the Sixth.</i>]
 <speaker>GHOST OF EDWARD,</speaker>
 [<i>to Richard</i>]
 Let me sit heavy on thy soul tomorrow.
-Think how thou stabbed'st me in my prime of
+Think how thou stabbed&rsquo;st me in my prime of
 youth
 At Tewkesbury. Despair therefore, and die!
 [<i>(To Richmond.)</i>]
  Be cheerful, Richmond, for the
 wronged souls
 Of butchered princes fight in thy behalf.
-King Henry's issue, Richmond, comforts thee.
+King Henry&rsquo;s issue, Richmond, comforts thee.
 [<i>He exits.</i>]
 
 [<i>Enter the Ghost of Henry the Sixth.</i>]
@@ -6009,7 +6007,7 @@ Let fall thy lance. Despair and die!
 
 <speaker>ALL,</speaker>
 [<i>to Richmond</i>]
-Awake, and think our wrongs in Richard's bosom
+Awake, and think our wrongs in Richard&rsquo;s bosom
 Will conquer him. Awake, and win the day.
 [<i>They exit.</i>]
 
@@ -6020,13 +6018,13 @@ Will conquer him. Awake, and win the day.
 Dream on thy cousins smothered in the Tower.
 Let us be lead within thy bosom, Richard,
 And weigh thee down to ruin, shame, and death.
-Thy nephews' souls bid thee despair and die.
+Thy nephews&rsquo; souls bid thee despair and die.
 [<i>(To Richmond.)</i>]
  Sleep, Richmond, sleep in peace
 and wake in joy.
-Good angels guard thee from the boar's annoy.
+Good angels guard thee from the boar&rsquo;s annoy.
 Live, and beget a happy race of kings.
-Edward's unhappy sons do bid thee flourish.
+Edward&rsquo;s unhappy sons do bid thee flourish.
 [<i>They exit.</i>]
 
 [<i>Enter the Ghost of Hastings.</i>]
@@ -6038,7 +6036,7 @@ And in a bloody battle end thy days.
 Think on Lord Hastings. Despair and die!
 [<i>(To Richmond.)</i>]
  Quiet, untroubled soul, awake, awake.
-Arm, fight, and conquer for fair England's sake.
+Arm, fight, and conquer for fair England&rsquo;s sake.
 [<i>He exits.</i>]
 
 [<i>Enter the Ghost of Lady Anne his wife.</i>]
@@ -6054,7 +6052,7 @@ And fall thy edgeless sword. Despair and die!
  Thou quiet soul, sleep thou a quiet
 sleep.
 Dream of success and happy victory.
-Thy adversary's wife doth pray for thee.	[<i>She exits.</i>]
+Thy adversary&rsquo;s wife doth pray for thee.	[<i>She exits.</i>]
 
 [<i>Enter the Ghost of Buckingham.</i>]
 
@@ -6070,7 +6068,7 @@ Fainting, despair; despairing, yield thy breath.
  I died for hope ere I could lend
 thee aid,
 But cheer thy heart, and be thou not dismayed.
-God and good angels fight on Richmond's side,
+God and good angels fight on Richmond&rsquo;s side,
 And Richard fall in height of all his pride.
 [<i>He exits.</i>]
 [<i>Richard starteth up out of a dream.</i>]
@@ -6081,7 +6079,7 @@ Have mercy, Jesu!--Soft, I did but dream.
 O coward conscience, how dost thou afflict me!
 The lights burn blue; it is now dead midnight.
 Cold fearful drops stand on my trembling flesh.
-What do I fear? Myself? There's none else by.
+What do I fear? Myself? There&rsquo;s none else by.
 Richard loves Richard, that is, I am I.
 Is there a murderer here? No. Yes, I am.
 Then fly! What, from myself? Great reason why:
@@ -6098,14 +6096,14 @@ And every tale condemns me for a villain.
 Perjury, perjury, in the highest degree;
 Murder, stern murder, in the direst degree;
 All several sins, all used in each degree,
-Throng to the bar, crying all "Guilty, guilty!"
+Throng to the bar, crying all "&ldquo;Guilty, guilty!&rdquo;"
 I shall despair. There is no creature loves me,
 And if I die no soul will pity me.
 And wherefore should they, since that I myself
 Find in myself no pity to myself?
 Methought the souls of all that I had murdered
 Came to my tent, and every one did threat
-Tomorrow's vengeance on the head of Richard.
+Tomorrow&rsquo;s vengeance on the head of Richard.
 
 [<i>Enter Ratcliffe.</i>]
 
@@ -6116,13 +6114,13 @@ My lord.
 Zounds, who is there?
 
 <speaker>RATCLIFFE</speaker>
-Ratcliffe, my lord, 'tis I. The early village cock
+Ratcliffe, my lord, &rsquo;tis I. The early village cock
 Hath twice done salutation to the morn.
 Your friends are up and buckle on their armor.
 
 <speaker>RICHARD</speaker>
 O Ratcliffe, I have dreamed a fearful dream!
-What think'st thou, will our friends prove all true?
+What think&rsquo;st thou, will our friends prove all true?
 
 <speaker>RATCLIFFE</speaker>
 No doubt, my lord.
@@ -6138,8 +6136,8 @@ By the apostle Paul, shadows tonight
 Have struck more terror to the soul of Richard
 Than can the substance of ten thousand soldiers
 Armed in proof and led by shallow Richmond.
-'Tis not yet near day. Come, go with me.
-Under our tents I'll play the eavesdropper
+&rsquo;Tis not yet near day. Come, go with me.
+Under our tents I&rsquo;ll play the eavesdropper
 To see if any mean to shrink from me.
 [<i>Richard and Ratcliffe exit.</i>]
 
@@ -6150,7 +6148,7 @@ Good morrow, Richmond.
 
 <speaker>RICHMOND</speaker>
 Cry mercy, lords and watchful gentlemen,
-That you have ta'en a tardy sluggard here.
+That you have ta&rsquo;en a tardy sluggard here.
 
 A LORD  How have you slept, my lord?
 
@@ -6169,7 +6167,7 @@ A LORD  Upon the stroke of four.
 
 <speaker>RICHMOND,</speaker>
 [<i>leaving the tent</i>]
-Why, then 'tis time to arm and give direction.
+Why, then &rsquo;tis time to arm and give direction.
 
 His oration to his soldiers.
 
@@ -6188,22 +6186,22 @@ One that made means to come by what he hath,
 And slaughtered those that were the means to help
 him;
 A base foul stone, made precious by the foil
-Of England's chair, where he is falsely set;
-One that hath ever been God's enemy.
-Then if you fight against God's enemy,
+Of England&rsquo;s chair, where he is falsely set;
+One that hath ever been God&rsquo;s enemy.
+Then if you fight against God&rsquo;s enemy,
 God will, in justice, ward you as his soldiers.
 If you do sweat to put a tyrant down,
 You sleep in peace, the tyrant being slain.
-If you do fight against your country's foes,
-Your country's fat shall pay your pains the hire.
+If you do fight against your country&rsquo;s foes,
+Your country&rsquo;s fat shall pay your pains the hire.
 If you do fight in safeguard of your wives,
 Your wives shall welcome home the conquerors.
 If you do free your children from the sword,
-Your children's children quits it in your age.
+Your children&rsquo;s children quits it in your age.
 Then, in the name of God and all these rights,
 Advance your standards; draw your willing swords.
 For me, the ransom of my bold attempt
-Shall be this cold corpse on the Earth's cold face,
+Shall be this cold corpse on the Earth&rsquo;s cold face,
 But if I thrive, the gain of my attempt
 The least of you shall share his part thereof.
 Sound drums and trumpets boldly and cheerfully.
@@ -6222,7 +6220,7 @@ That he was never trained up in arms.
 He said the truth. And what said Surrey then?
 
 <speaker>RATCLIFFE</speaker>
-He smiled and said "The better for our purpose."
+He smiled and said "&ldquo;The better for our purpose.&rdquo;"
 
 <speaker>RICHARD</speaker>
 He was in the right, and so indeed it is.
@@ -6269,7 +6267,7 @@ Shall have the leading of this foot and horse.
 They thus directed, we will follow
 In the main battle, whose puissance on either side
 Shall be well winged with our chiefest horse.
-This, and Saint George to boot!--What think'st
+This, and Saint George to boot!--What think&rsquo;st
 thou, Norfolk?
 
 <speaker>NORFOLK</speaker>
@@ -6296,16 +6294,16 @@ What shall I say more than I have inferred?
 Remember whom you are to cope withal,
 A sort of vagabonds, rascals, and runaways,
 A scum of Bretons and base lackey peasants,
-Whom their o'ercloyed country vomits forth
+Whom their o&rsquo;ercloyed country vomits forth
 To desperate adventures and assured destruction.
 You sleeping safe, they bring to you unrest;
 You having lands and blessed with beauteous wives,
 They would restrain the one, distain the other.
 And who doth lead them but a paltry fellow,
-Long kept in Brittany at our mother's cost,
+Long kept in Brittany at our mother&rsquo;s cost,
 A milksop, one that never in his life
 Felt so much cold as overshoes in snow?
-Let's whip these stragglers o'er the seas again,
+Let&rsquo;s whip these stragglers o&rsquo;er the seas again,
 Lash hence these overweening rags of France,
 These famished beggars weary of their lives,
 Who, but for dreaming on this fond exploit,
@@ -6333,7 +6331,7 @@ What says Lord Stanley? Will he bring his power?
 My lord, he doth deny to come.
 
 <speaker>RICHARD</speaker>
-Off with his son George's head!
+Off with his son George&rsquo;s head!
 
 <speaker>NORFOLK</speaker>
 My lord, the enemy is past the marsh.
@@ -6367,7 +6365,7 @@ Rescue, fair lord, or else the day is lost.
 A horse, a horse, my kingdom for a horse!
 
 <speaker>CATESBY</speaker>
-Withdraw, my lord. I'll help you to a horse.
+Withdraw, my lord. I&rsquo;ll help you to a horse.
 
 <speaker>RICHARD</speaker>
 Slave, I have set my life upon a cast,
@@ -6381,7 +6379,7 @@ A horse, a horse, my kingdom for a horse!
 <hr>
 [<i>Alarum. Enter Richard and Richmond. They fight.
 Richard is slain. Then retreat being sounded, Richmond
-exits, and Richard's body is removed. Flourish. Enter
+exits, and Richard&rsquo;s body is removed. Flourish. Enter
 Richmond, Stanley, Earl of Derby, bearing the crown,
 with other Lords, and Soldiers.</i>]
 
@@ -6416,28 +6414,28 @@ Sir Robert Brakenbury, and Sir William Brandon.
 Inter their bodies as becomes their births.
 Proclaim a pardon to the soldiers fled
 That in submission will return to us.
-And then, as we have ta'en the sacrament,
+And then, as we have ta&rsquo;en the sacrament,
 We will unite the white rose and the red;
 Smile heaven upon this fair conjunction,
 That long have frowned upon their enmity.
-What traitor hears me and says not "Amen"?
+What traitor hears me and says not "&ldquo;Amen&rdquo;"?
 England hath long been mad and scarred herself:
-The brother blindly shed the brother's blood;
+The brother blindly shed the brother&rsquo;s blood;
 The father rashly slaughtered his own son;
 The son, compelled, been butcher to the sire.
 All this divided York and Lancaster,
 Divided in their dire division.
 O, now let Richmond and Elizabeth,
 The true succeeders of each royal house,
-By God's fair ordinance conjoin together,
+By God&rsquo;s fair ordinance conjoin together,
 And let their heirs, God, if Thy will be so,
 Enrich the time to come with smooth-faced peace,
 With smiling plenty and fair prosperous days.
 Abate the edge of traitors, gracious Lord,
 That would reduce these bloody days again
 And make poor England weep in streams of blood.
-Let them not live to taste this land's increase,
-That would with treason wound this fair land's peace.
+Let them not live to taste this land&rsquo;s increase,
+That would with treason wound this fair land&rsquo;s peace.
 Now civil wounds are stopped, peace lives again.
 That she may long live here, God say amen.
 [<i>They exit.</i>]
