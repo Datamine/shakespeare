@@ -1,5 +1,9 @@
 // This will store the selected option globally
 window.selectedOption = null;
+window.currentPlayText = null;
+window.currentProcessedText = null;
+window.currentCharacters = null;
+window.currentPlayTitle = null;
 
 // Sample data - replace this with your actual data
 const options = [
@@ -168,6 +172,12 @@ Thanks, good Egeus. What&rsquo;s the news with thee?`;
         // Only add line numbers to the play text, not the characters
         const processedText = addLineNumbers(rawPlayText);
 
+        // Store in global variables
+        window.currentPlayText = rawPlayText;
+        window.currentCharacters = characters;
+        window.currentProcessedText = processedText;
+        window.currentPlayTitle = selectedPlay;
+
         // Replace the entire body content with our new layout
         document.body.innerHTML = `
             <div class="three-pane-layout">
@@ -179,7 +189,7 @@ Thanks, good Egeus. What&rsquo;s the news with thee?`;
                 </div>
                 <div class="main-content">
                     <div class="cream-pane">
-                        <div class="text-content">${characters}<br/>${processedText}</div>
+                        <div class="text-content"><b class="play-title-header">${window.currentPlayTitle}</b><br/>${window.currentCharacters}<br/>${window.currentProcessedText}</div>
                     </div>
                     <div class="white-pane">
                         <!-- White pane content -->
@@ -207,7 +217,7 @@ Thanks, good Egeus. What&rsquo;s the news with thee?`;
         });
 
         // Add this line after the innerHTML is set
-        updateSidebar(rawPlayText, selectedPlay);
+        updateSidebar(window.currentPlayText, window.currentPlayTitle);
     }
 });
 
@@ -454,7 +464,7 @@ function updateSidebar(playText, selectedPlay) {
         document.querySelectorAll('.scenes-container').forEach(container => {
             container.style.display = 'none';
         });
-        // Scroll to credits section
+        // Show credits
         const textContent = document.querySelector('.text-content');
         const creditsElement = document.createElement('div');
         creditsElement.innerHTML = credits.split('\n').map(line => `<div>${line.trim()}</div>`).join('');
@@ -464,6 +474,21 @@ function updateSidebar(playText, selectedPlay) {
     // Insert credits link before version number
     const versionNumber = document.querySelector('.version-number');
     versionNumber.parentNode.insertBefore(creditsLink, versionNumber);
+
+    // Modify act click handlers to use global variables
+    acts.forEach(({ div }, index) => {
+        const actNumber = index + 1;
+        div.onclick = () => {
+            const textContent = document.querySelector('.text-content');
+            // Always restore the play text first
+            textContent.innerHTML = `${window.currentCharacters}<br/>${window.currentProcessedText}`;
+            const target = document.querySelector(`#act-${actNumber}`);
+            if (target) {
+                selectAct(actNumber);
+                target.scrollIntoView({ behavior: 'smooth' });
+            }
+        };
+    });
 }
 
 function selectAct(actCount, sceneCount = null) {

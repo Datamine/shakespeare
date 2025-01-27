@@ -288,7 +288,7 @@ body {
 
 .version-number {
     position: absolute;
-    bottom: 5px;
+    bottom: 1rem;
     left: 1rem;
     width: auto;
     text-align: left;
@@ -398,7 +398,7 @@ body {
 
 .credits-link {
     position: absolute;
-    bottom: 25px;
+    bottom: 2.25rem;  /* Changed from 25px to 2.25rem to be above version number */
     left: 1rem;
     width: auto;
     text-align: left;
@@ -423,4 +423,14 @@ a {
 
 a:hover {
     color: #1d4ed8;  /* Slightly lighter blue on hover */
+}
+
+.play-title-header {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #1a1a1a;
+    font-family: 'EB Garamond', serif;
 }
