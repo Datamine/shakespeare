@@ -1030,7 +1030,7 @@ Do you bandy looks with me, you rascal?
 <speaker>OSWALD</speaker>
 I&rsquo;ll not be strucken, my lord.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>tripping him</i>]
   Nor tripped neither, you base
 football player?
@@ -1039,7 +1039,7 @@ football player?
 I thank thee, fellow. Thou serv&rsquo;st me, and I&rsquo;ll
 love thee.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Oswald</i>]
   Come, sir, arise. Away. I&rsquo;ll teach you
 differences. Away, away. If you will measure your
@@ -1060,7 +1060,7 @@ coxcomb.	[<i>He offers Kent his cap.</i>]
 <speaker>LEAR</speaker>
 How now, my pretty knave, how dost thou?
 
-<speaker>FOOL,</speaker>
+<speaker>FOOL</speaker>
 [<i>to Kent</i>]
   Sirrah, you were best take my
 coxcomb.
@@ -1129,7 +1129,7 @@ of nothing, nuncle?
 Why no, boy. Nothing can be made out of
 nothing.
 
-<speaker>FOOL,</speaker>
+<speaker>FOOL</speaker>
 [<i>to Kent</i>]
   Prithee tell him, so much the rent of his
 land comes to. He will not believe a Fool.
@@ -1339,7 +1339,7 @@ Than the sea monster!
 <speaker>ALBANY</speaker>
 Pray, sir, be patient.
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>to Goneril</i>]
   Detested kite, thou liest.
 My train are men of choice and rarest parts,
@@ -1493,7 +1493,7 @@ Well, well, th&rsquo; event.
 <hr>
 [<i>Enter Lear, Kent in disguise, Gentleman, and Fool.</i>]
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>to Kent</i>]
   Go you before to Gloucester with these
 letters. Acquaint my daughter no further with anything
@@ -2082,7 +2082,7 @@ beguiled you in a plain accent was a plain knave,
 which for my part I will not be, though I should
 win your displeasure to entreat me to &rsquo;t.
 
-<speaker>CORNWALL,</speaker>
+<speaker>CORNWALL</speaker>
 [<i>to Oswald</i>]
   What was th&rsquo; offense you gave
 him?
@@ -2234,7 +2234,7 @@ As I learned,
 The night before there was no purpose in them
 Of this remove.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>waking</i>]
   Hail to thee, noble master.
 
@@ -2328,7 +2328,7 @@ Thy element&rsquo;s below.&mdash;Where is this daughter?
 <speaker>KENT</speaker>
 With the Earl, sir, here within.
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>to Fool and Gentleman</i>]
   Follow me not. Stay
 here.	[<i>He exits.</i>]
@@ -2508,7 +2508,7 @@ That you&rsquo;ll vouchsafe me raiment, bed, and food.&rdquo;"
 Good sir, no more. These are unsightly tricks.
 Return you to my sister.
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>rising</i>]
   Never, Regan.
 She hath abated me of half my train,
@@ -2774,7 +2774,7 @@ He calls to horse, but will I know not whither.
 <speaker>CORNWALL</speaker>
 &rsquo;Tis best to give him way. He leads himself.
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>to Gloucester</i>]
 My lord, entreat him by no means to stay.
 
@@ -3296,7 +3296,7 @@ his body,
 Beware my follower. Peace, Smulkin! Peace, thou
 fiend!
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Lear</i>]
 What, hath your Grace no better company?
 
@@ -3304,7 +3304,7 @@ What, hath your Grace no better company?
 The Prince of Darkness is a gentleman. Modo
 he&rsquo;s called, and Mahu.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Lear</i>]
 Our flesh and blood, my lord, is grown so vile
 That it doth hate what gets it.
@@ -3312,7 +3312,7 @@ That it doth hate what gets it.
 <speaker>EDGAR</speaker>
 Poor Tom&rsquo;s a-cold.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Lear</i>]
 Go in with me. My duty cannot suffer
 T&rsquo; obey in all your daughters&rsquo; hard commands.
@@ -3340,7 +3340,7 @@ How to prevent the fiend and to kill vermin.
 Let me ask you one word in private.
 [<i>They talk aside.</i>]
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Gloucester</i>]
 Importune him once more to go, my lord.
 His wits begin t&rsquo; unsettle.
@@ -3367,7 +3367,7 @@ O, cry you mercy, sir.
 <speaker>EDGAR</speaker>
 Tom&rsquo;s a-cold.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Edgar</i>]
 In fellow, there, into th&rsquo; hovel. Keep thee warm.
 
@@ -3376,20 +3376,20 @@ LEARCome, let&rsquo;s in all.
 <speaker>KENT</speaker>
 This way, my lord.
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>indicating Edgar</i>]
   With him.
 I will keep still with my philosopher.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Gloucester</i>]
 Good my lord, soothe him. Let him take the fellow.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Kent</i>]
   Take him you on.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Edgar</i>]
 Sirrah, come on: go along with us.
 
@@ -3443,7 +3443,7 @@ True or false, it hath made thee Earl of
 Gloucester. Seek out where thy father is, that he
 may be ready for our apprehension.
 
-<speaker>EDMUND,</speaker>
+<speaker>EDMUND</speaker>
 [<i>aside</i>]
   If I find him comforting the King, it
 will stuff his suspicion more fully.&mdash;I will persevere
@@ -3526,7 +3526,7 @@ a nightingale. Hoppedance cries in Tom&rsquo;s belly for
 two white herring.&mdash;Croak not, black angel. I have
 no food for thee.
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Lear</i>]
 How do you, sir? Stand you not so amazed.
 Will you lie down and rest upon the cushions?
@@ -3575,12 +3575,12 @@ False justicer, why hast thou let her &rsquo;scape?
 <speaker>EDGAR</speaker>
 Bless thy five wits!
 
-<speaker>KENT,</speaker>
+<speaker>KENT</speaker>
 [<i>to Lear</i>]
 O pity! Sir, where is the patience now
 That you so oft have boasted to retain?
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 My tears begin to take his part so much
 They mar my counterfeiting.
@@ -3616,7 +3616,7 @@ Persian, but let them be changed.
 <speaker>KENT</speaker>
 Now, good my lord, lie here and rest awhile.
 
-<speaker>LEAR,</speaker>
+<speaker>LEAR</speaker>
 [<i>lying down</i>]
   Make no noise, make no noise.
 Draw the curtains. So, so, we&rsquo;ll go to supper i&rsquo; th&rsquo;
@@ -3627,7 +3627,7 @@ And I&rsquo;ll go to bed at noon.
 
 [<i>Enter Gloucester.</i>]
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to Kent</i>]
 Come hither, friend. Where is the King my master?
 
@@ -3684,7 +3684,7 @@ Lurk, lurk.
 [<i>Enter Cornwall, Regan, Goneril, Edmund, the Bastard,
 and Servants.</i>]
 
-<speaker>CORNWALL,</speaker>
+<speaker>CORNWALL</speaker>
 [<i>to Goneril</i>]
   Post speedily to my lord your
 husband. Show him this letter. [<i>He gives her a
@@ -3876,7 +3876,7 @@ My villain? [<i>Draw and fight.</i>]
 <speaker>FIRST SERVANT</speaker>
 Nay, then, come on, and take the chance of anger.
 
-<speaker>REGAN,</speaker>
+<speaker>REGAN</speaker>
 [<i>to an Attendant</i>]
 Give me thy sword. A peasant stand up thus?
 [<i>She takes a sword and runs
@@ -3985,7 +3985,7 @@ I&rsquo;d say I had eyes again.
 <speaker>OLD MAN</speaker>
 How now? Who&rsquo;s there?
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 O gods, who is &rsquo;t can say "&ldquo;I am at the worst&rdquo;"?
 I am worse than e&rsquo;er I was.
@@ -3993,7 +3993,7 @@ I am worse than e&rsquo;er I was.
 <speaker>OLD MAN</speaker>
 &rsquo;Tis poor mad Tom.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 And worse I may be yet. The worst is not
 So long as we can say "&ldquo;This is the worst.&rdquo;"
@@ -4017,7 +4017,7 @@ more since.
 As flies to wanton boys are we to th&rsquo; gods;
 They kill us for their sport.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
   How should this be?
 Bad is the trade that must play fool to sorrow,
@@ -4058,7 +4058,7 @@ Poor Tom&rsquo;s a-cold. [<i>Aside.</i>]
 <speaker>GLOUCESTER</speaker>
 Come hither, fellow.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 And yet I must.&mdash;Bless thy sweet eyes, they bleed.
 
@@ -4076,7 +4076,7 @@ of mopping and mowing, who since possesses
 chambermaids and waiting women. So, bless
 thee, master.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>giving him money</i>]
 Here, take this purse, thou whom the heavens&rsquo;
 plagues
@@ -4128,7 +4128,7 @@ And told me I had turned the wrong side out.
 What most he should dislike seems pleasant to him;
 What like, offensive.
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>to Edmund</i>]
   Then shall you go no further.
 It is the cowish terror of his spirit,
@@ -4262,7 +4262,7 @@ This letter, madam, craves a speedy answer.
 [<i>Giving her a paper.</i>]
 &rsquo;Tis from your sister.
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>aside</i>]
   One way I like this well.
 But being widow and my Gloucester with her
@@ -4618,14 +4618,14 @@ Prosper it with thee.	[<i>He gives Edgar a purse.</i>]
 Go thou further off.
 Bid me farewell, and let me hear thee going.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>walking away</i>]
 Now fare you well, good sir.
 
 <speaker>GLOUCESTER</speaker>
 With all my heart.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 Why I do trifle thus with his despair
 Is done to cure it.
@@ -4802,7 +4802,7 @@ penning of it.
 <speaker>GLOUCESTER</speaker>
 Were all thy letters suns, I could not see.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 I would not take this from report. It is,
 And my heart breaks at it.
@@ -4855,7 +4855,7 @@ Seem to see the things thou dost not. Now, now,
 now, now.
 Pull off my boots. Harder, harder. So.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>aside</i>]
 O, matter and impertinency mixed,
 Reason in madness!
@@ -4880,7 +4880,7 @@ Then kill, kill, kill, kill, kill, kill!
 
 [<i>Enter a Gentleman and Attendants.</i>]
 
-<speaker>GENTLEMAN,</speaker>
+<speaker>GENTLEMAN</speaker>
 [<i>noticing Lear</i>]
 O, here he is. [<i>To an Attendant.</i>]
  Lay hand upon
@@ -4976,7 +4976,7 @@ To boot, and boot.
 
 [<i>Enter Oswald, the Steward.</i>]
 
-<speaker>OSWALD,</speaker>
+<speaker>OSWALD</speaker>
 [<i>drawing his sword</i>]
 A proclaimed prize! Most happy!
 That eyeless head of thine was first framed flesh
@@ -5016,7 +5016,7 @@ Out, dunghill.
 Chill pick your teeth, zir. Come, no matter vor
 your foins.	[<i>They fight.</i>]
 
-<speaker>OSWALD,</speaker>
+<speaker>OSWALD</speaker>
 [<i>falling</i>]
 Slave, thou hast slain me. Villain, take my purse.
 If ever thou wilt thrive, bury my body,
@@ -5138,7 +5138,7 @@ Very well.
 <speaker>DOCTOR</speaker>
 Please you, draw near.&mdash;Louder the music there.
 
-<speaker>CORDELIA,</speaker>
+<speaker>CORDELIA</speaker>
 [<i>kissing Lear</i>]
 O, my dear father, restoration hang
 Thy medicine on my lips, and let this kiss
@@ -5214,7 +5214,7 @@ Where I did lodge last night. Do not laugh at me,
 For, as I am a man, I think this lady
 To be my child Cordelia.
 
-<speaker>CORDELIA,</speaker>
+<speaker>CORDELIA</speaker>
 [<i>weeping</i>]
   And so I am; I am.
 
@@ -5289,7 +5289,7 @@ Or well, or ill, as this day&rsquo;s battle&rsquo;s fought.
 [<i>Enter, with Drum and Colors, Edmund, Regan,
 Gentlemen, and Soldiers.</i>]
 
-<speaker>EDMUND,</speaker>
+<speaker>EDMUND</speaker>
 [<i>to a Gentleman</i>]
 Know of the Duke if his last purpose hold,
 Or whether since he is advised by aught
@@ -5335,7 +5335,7 @@ Fear me not. She and the Duke, her husband.
 
 [<i>Enter, with Drum and Colors, Albany, Goneril, Soldiers.</i>]
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>aside</i>]
 I had rather lose the battle than that sister
 Should loosen him and me.
@@ -5377,24 +5377,24 @@ No.
 <speaker>REGAN</speaker>
 &rsquo;Tis most convenient. Pray, go with us.
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>aside</i>]
 Oho, I know the riddle.&mdash;I will go.
 [<i>They begin to exit.</i>]
 
 [<i>Enter Edgar dressed as a peasant.</i>]
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>to Albany</i>]
 If e&rsquo;er your Grace had speech with man so poor,
 Hear me one word.
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to those exiting</i>]
 I&rsquo;ll overtake you.&mdash;Speak.
 [<i>Both the armies exit.</i>]
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>giving him a paper</i>]
 Before you fight the battle, ope this letter.
 If you have victory, let the trumpet sound
@@ -5492,7 +5492,7 @@ Some officers take them away. Good guard
 Until their greater pleasures first be known
 That are to censure them.
 
-<speaker>CORDELIA,</speaker>
+<speaker>CORDELIA</speaker>
 [<i>to Lear</i>]
   We are not the first
 Who with best meaning have incurred the worst.
@@ -5556,7 +5556,7 @@ If it be man&rsquo;s work, I&rsquo;ll do &rsquo;t.	[<i>Captain exits.</i>]
 [<i>Flourish. Enter Albany, Goneril, Regan, Soldiers and a
 Captain.</i>]
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to Edmund</i>]
 Sir, you have showed today your valiant strain,
 And Fortune led you well. You have the captives
@@ -5636,7 +5636,7 @@ Nor in thine, lord.
 <speaker>ALBANY</speaker>
 Half-blooded fellow, yes.
 
-<speaker>REGAN,</speaker>
+<speaker>REGAN</speaker>
 [<i>to Edmund</i>]
 Let the drum strike, and prove my title thine.
 
@@ -5666,7 +5666,7 @@ Than I have here proclaimed thee.
 <speaker>REGAN</speaker>
 Sick, O, sick!
 
-<speaker>GONERIL,</speaker>
+<speaker>GONERIL</speaker>
 [<i>aside</i>]
   If not, I&rsquo;ll ne&rsquo;er trust medicine.
 
@@ -5722,7 +5722,7 @@ Again! [<i>Third trumpet sounds.</i>]
 
 [<i>Enter Edgar armed.</i>]
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to Herald</i>]
 Ask him his purposes, why he appears
 Upon this call o&rsquo; th&rsquo; trumpet.
@@ -5782,7 +5782,7 @@ Where they shall rest forever. Trumpets, speak!
 [<i>He draws his sword. Alarums. Fights.</i>]
 [<i>Edmund falls, wounded.</i>]
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to Edgar</i>]
 Save him, save him!
 
@@ -5814,7 +5814,7 @@ Ask me not what I know.
 Go after her, she&rsquo;s desperate. Govern her.
 [<i>A Soldier exits.</i>]
 
-<speaker>EDMUND,</speaker>
+<speaker>EDMUND</speaker>
 [<i>to Edgar</i>]
 What you have charged me with, that have I done,
 And more, much more. The time will bring it out.
@@ -5836,7 +5836,7 @@ Cost him his eyes.
 Th&rsquo; hast spoken right. &rsquo;Tis true.
 The wheel is come full circle; I am here.
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to Edgar</i>]
 Methought thy very gait did prophesy
 A royal nobleness. I must embrace thee.
@@ -5914,7 +5914,7 @@ Help, help, O, help!
 <speaker>EDGAR</speaker>
 What kind of help?
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to Gentleman</i>]
   Speak, man!
 
@@ -5941,7 +5941,7 @@ Here comes Kent.
 
 [<i>Enter Kent.</i>]
 
-<speaker>ALBANY,</speaker>
+<speaker>ALBANY</speaker>
 [<i>to the Gentleman</i>]
 Produce the bodies, be they alive or dead.
 [<i>Gentleman exits.</i>]
@@ -5995,12 +5995,12 @@ Thy token of reprieve.
 Well thought on. Take my sword. Give it the
 Captain.
 
-<speaker>EDGAR,</speaker>
+<speaker>EDGAR</speaker>
 [<i>to a Soldier</i>]
   Haste thee for thy life.
 [<i>The Soldier exits with Edmund&rsquo;s sword.</i>]
 
-<speaker>EDMUND,</speaker>
+<speaker>EDMUND</speaker>
 [<i>to Albany</i>]
 He hath commission from thy wife and me
 To hang Cordelia in the prison, and

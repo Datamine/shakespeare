@@ -353,7 +353,7 @@ O, they love least that let men know their love.
 <speaker>JULIA</speaker>
 I would I knew his mind.
 
-<speaker>LUCETTA,</speaker>
+<speaker>LUCETTA</speaker>
 [<i>handing her a paper</i>]
   Peruse this paper,
 madam.
@@ -383,7 +383,7 @@ And you an officer fit for the place.
 There, take the paper; see it be returned,
 Or else return no more into my sight.
 
-<speaker>LUCETTA,</speaker>
+<speaker>LUCETTA</speaker>
 [<i>taking the paper</i>]
 To plead for love deserves more fee than hate.
 
@@ -477,7 +477,7 @@ And why not you?
 <speaker>LUCETTA</speaker>
 I cannot reach so high.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>taking the paper</i>]
 Let&rsquo;s see your song. How now, minion!
 
@@ -650,7 +650,7 @@ Good company. With them shall Proteus go.
 
 And in good time! Now will we break with him.
 
-<speaker>PROTEUS,</speaker>
+<speaker>PROTEUS</speaker>
 [<i>to himself</i>]
 Sweet love, sweet lines, sweet life!
 Here is her hand, the agent of her heart;
@@ -748,7 +748,7 @@ Ha? Let me see. Ay, give it me, it&rsquo;s mine.
 Sweet ornament that decks a thing divine!
 Ah, Sylvia, Sylvia!
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>calling</i>]
   Madam Sylvia! Madam Sylvia!
 
@@ -786,7 +786,7 @@ learned, like Sir Proteus, to wreathe your arms like
 a malcontent; to relish a love song like a robin
 redbreast; to walk alone like one that had the
 pestilence; to sigh like a schoolboy that had lost his
-<speaker>ABC;</speaker>
+<speaker>ABC</speaker>
 to weep like a young wench that had buried
 her grandam; to fast like one that takes diet; to
 watch like one that fears robbing; to speak puling
@@ -935,7 +935,7 @@ Peace, here she comes.
 
 [<i>Enter Sylvia.</i>]
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>aside</i>]
   O excellent motion! O exceeding puppet!
 Now will he interpret to her.
@@ -944,7 +944,7 @@ Now will he interpret to her.
 Madam and mistress, a thousand
 good-morrows.
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>aside</i>]
   O, give ye good ev&rsquo;n! Here&rsquo;s a million of
 manners.
@@ -953,7 +953,7 @@ manners.
 Sir Valentine, and servant, to you two
 thousand.
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>aside</i>]
   He should give her interest, and she
 gives it him.
@@ -988,7 +988,7 @@ And yet take this again.	[<i>She holds out the paper.</i>]
 And yet I thank you,
 Meaning henceforth to trouble you no more.
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>aside</i>]
 And yet you will; and yet another "&ldquo;yet.&rdquo;"
 
@@ -1008,7 +1008,7 @@ Ay, ay. You writ them, sir, at my request,
 But I will none of them. They are for you.
 I would have had them writ more movingly.
 
-<speaker>VALENTINE,</speaker>
+<speaker>VALENTINE</speaker>
 [<i>taking the paper</i>]
 Please you, I&rsquo;ll write your Ladyship another.
 
@@ -1023,7 +1023,7 @@ If it please me, madam? What then?
 Why, if it please you, take it for your labor.
 And so good-morrow, servant.	[<i>Sylvia exits.</i>]
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>aside</i>]
 O jest unseen, inscrutable, invisible
 As a nose on a man&rsquo;s face, or a weathercock on a
@@ -1130,7 +1130,7 @@ If you turn not, you will return the sooner.
 Keep this remembrance for thy Julia&rsquo;s sake.
 [<i>She gives him a ring.</i>]
 
-<speaker>PROTEUS,</speaker>
+<speaker>PROTEUS</speaker>
 [<i>giving her a ring</i>]
 Why, then we&rsquo;ll make exchange. Here, take you this.
 
@@ -1290,7 +1290,7 @@ Of my mistress, then.
 <speaker>SPEED</speaker>
 &rsquo;Twere good you knocked him.
 
-<speaker>SYLVIA,</speaker>
+<speaker>SYLVIA</speaker>
 [<i>to Valentine</i>]
   Servant, you are sad.
 
@@ -2500,7 +2500,7 @@ This proves that thou canst not read.
 <speaker>SPEED</speaker>
 Come, fool, come. Try me in thy paper.
 
-<speaker>LANCE,</speaker>
+<speaker>LANCE</speaker>
 [<i>giving him the paper</i>]
   There, and Saint Nicholas
 be thy speed.
@@ -2678,7 +2678,7 @@ And must I go to him?
 Thou must run to him, for thou hast stayed so
 long that going will scarce serve the turn.
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>handing him the paper</i>]
   Why didst not tell me
 sooner? Pox of your love letters!	[<i>He exits.</i>]
@@ -2836,7 +2836,7 @@ This, or else nothing, will inherit her.
 <speaker>DUKE</speaker>
 This discipline shows thou hast been in love.
 
-<speaker>THURIO,</speaker>
+<speaker>THURIO</speaker>
 [<i>to Proteus</i>]
 And thy advice this night I&rsquo;ll put in practice.
 Therefore, sweet Proteus, my direction-giver,
@@ -2873,7 +2873,7 @@ If there be ten, shrink not, but down with &rsquo;em.
 Stand, sir, and throw us that you have about you.
 If not, we&rsquo;ll make you sit, and rifle you.
 
-<speaker>SPEED,</speaker>
+<speaker>SPEED</speaker>
 [<i>to Valentine</i>]
 Sir, we are undone; these are the villains
 That all the travelers do fear so much.
@@ -2960,7 +2960,7 @@ of thievery.
 <speaker>VALENTINE</speaker>
 Peace, villain.
 
-<speaker>SECOND OUTLAW,</speaker>
+<speaker>SECOND OUTLAW</speaker>
 [<i>advancing</i>]
 Tell us this: have you anything to take to?
 
@@ -3075,7 +3075,7 @@ page, Sebastian. They stand at a distance and talk.</i>]
 Now, my young guest, methinks you&rsquo;re allycholly.
 I pray you, why is it?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Marry, mine host, because I
 cannot be merry.
@@ -3085,21 +3085,21 @@ Come, we&rsquo;ll have you merry. I&rsquo;ll bring you where
 you shall hear music and see the gentleman that you
 asked for.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   But shall I hear him speak?
 
 <speaker>HOST</speaker>
 Ay, that you shall.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   That will be music.
 
 <speaker>HOST</speaker>
 Hark, hark. [<i>Music plays.</i>]
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Is he among these?
 
@@ -3133,7 +3133,7 @@ Who is Sylvia? What is she,
 How now? Are you sadder than you were before?
 How do you, man? The music likes you not.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   You mistake. The musician likes me
 not.
@@ -3141,14 +3141,14 @@ not.
 <speaker>HOST</speaker>
 Why, my pretty youth?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   He plays false, father.
 
 <speaker>HOST</speaker>
 How, out of tune on the strings?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Not so; but yet so false that he
 grieves my very heart-strings.
@@ -3156,7 +3156,7 @@ grieves my very heart-strings.
 <speaker>HOST</speaker>
 You have a quick ear.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Ay, I would I were deaf; it makes
 me have a slow heart.
@@ -3164,14 +3164,14 @@ me have a slow heart.
 <speaker>HOST</speaker>
 I perceive you delight not in music.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Not a whit when it jars so.
 
 <speaker>HOST</speaker>
 Hark, what fine change is in the music!
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Ay; that change is the spite.
 
@@ -3179,7 +3179,7 @@ Hark, what fine change is in the music!
 You would have them always play but one
 thing?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 I would always have one play but one thing.
 But, host, doth this Sir Proteus, that we talk on,
@@ -3189,7 +3189,7 @@ Often resort unto this gentlewoman?
 I tell you what Lance his man told me: he loved
 her out of all nick.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Where is Lance?
 
@@ -3198,7 +3198,7 @@ Gone to seek his dog, which tomorrow, by his
 master&rsquo;s command, he must carry for a present to
 his lady.	[<i>Music ends.</i>]
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Peace. Stand aside. The company
 parts.	[<i>Host and Julia move away.</i>]
@@ -3260,7 +3260,7 @@ Even for this time I spend in talking to thee.
 I grant, sweet love, that I did love a lady,
 But she is dead.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
   &rsquo;Twere false if I should speak it,
 For I am sure she is not buried.
@@ -3285,7 +3285,7 @@ Sweet lady, let me rake it from the earth.
 Go to thy lady&rsquo;s grave and call hers thence,
 Or, at the least, in hers sepulcher thine.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
   He heard not that.
 
@@ -3298,7 +3298,7 @@ For since the substance of your perfect self
 Is else devoted, I am but a shadow;
 And to your shadow will I make true love.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 If &rsquo;twere a substance you would sure deceive it
 And make it but a shadow, as I am.
@@ -3314,14 +3314,14 @@ And so, good rest.	[<i>Sylvia exits.</i>]
 As wretches have o&rsquo;ernight
 That wait for execution in the morn.	[<i>Proteus exits.</i>]
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Host, will you go?
 
 <speaker>HOST</speaker>
 By my halidom, I was fast asleep.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Pray you, where lies Sir Proteus?
 
@@ -3329,7 +3329,7 @@ By my halidom, I was fast asleep.
 Marry, at my house. Trust me, I think &rsquo;tis almost
 day.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 Not so; but it hath been the longest night
 That e&rsquo;er I watched, and the most heaviest.
@@ -3470,7 +3470,7 @@ thou ever see me do such a trick?
 Sebastian is thy name? I like thee well
 And will employ thee in some service presently.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 In what you please. I&rsquo;ll do what I can.
 
@@ -3527,7 +3527,7 @@ Deliver it to Madam Sylvia.
 She loved me well delivered it to me.
 [<i>He gives her a ring.</i>]
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 It seems you loved not her, to leave her token.
 She is dead belike?
@@ -3535,21 +3535,21 @@ She is dead belike?
 <speaker>PROTEUS</speaker>
 Not so; I think she lives.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Alas!
 
 <speaker>PROTEUS</speaker>
 Why dost thou cry "&ldquo;Alas&rdquo;"?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   I cannot choose but pity her.
 
 <speaker>PROTEUS</speaker>
 Wherefore shouldst thou pity her?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 Because methinks that she loved you as well
 As you do love your lady Sylvia.
@@ -3599,7 +3599,7 @@ To bring me where to speak with Madam Sylvia.
 <speaker>SYLVIA</speaker>
 What would you with her, if that I be she?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 If you be she, I do entreat your patience
 To hear me speak the message I am sent on.
@@ -3607,7 +3607,7 @@ To hear me speak the message I am sent on.
 <speaker>SYLVIA</speaker>
 From whom?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   From my master, Sir Proteus,
 madam.
@@ -3615,11 +3615,11 @@ madam.
 <speaker>SYLVIA</speaker>
 O, he sends you for a picture?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Ay, madam.
 
-<speaker>SYLVIA,</speaker>
+<speaker>SYLVIA</speaker>
 [<i>calling</i>]
   Ursula, bring my picture there.
 [<i>She is brought the picture.</i>]
@@ -3627,7 +3627,7 @@ Go, give your master this. Tell him from me,
 One Julia, that his changing thoughts forget,
 Would better fit his chamber than this shadow.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Madam, please you peruse this
 letter.	[<i>She gives Sylvia a paper.</i>]
@@ -3640,7 +3640,7 @@ and hands Sylvia another.</i>]
 <speaker>SYLVIA</speaker>
 I pray thee let me look on that again.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 It may not be; good madam, pardon me.
 
@@ -3652,7 +3652,7 @@ And full of new-found oaths, which he will break
 As easily as I do tear his paper.
 [<i>She tears the second paper.</i>]
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 Madam, he sends your Ladyship this ring.
 [<i>She offers Sylvia a ring.</i>]
@@ -3664,14 +3664,14 @@ His Julia gave it him at his departure.
 Though his false finger have profaned the ring,
 Mine shall not do his Julia so much wrong.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   She thanks you.
 
 <speaker>SYLVIA</speaker>
 What sayst thou?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 I thank you, madam, that you tender her;
 Poor gentlewoman, my master wrongs her much.
@@ -3679,7 +3679,7 @@ Poor gentlewoman, my master wrongs her much.
 <speaker>SYLVIA</speaker>
 Dost thou know her?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 Almost as well as I do know myself.
 To think upon her woes, I do protest
@@ -3688,14 +3688,14 @@ That I have wept a hundred several times.
 <speaker>SYLVIA</speaker>
 Belike she thinks that Proteus hath forsook her?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 I think she doth, and that&rsquo;s her cause of sorrow.
 
 <speaker>SYLVIA</speaker>
 Is she not passing fair?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 She hath been fairer, madam, than she is;
 When she did think my master loved her well,
@@ -3709,7 +3709,7 @@ That now she is become as black as I.
 <speaker>SYLVIA</speaker>
 How tall was she?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 About my stature; for at Pentecost,
 When all our pageants of delight were played,
@@ -3737,7 +3737,7 @@ I give thee this
 For thy sweet mistress&rsquo; sake, because thou lov&rsquo;st her.
 Farewell.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 And she shall thank you for &rsquo;t if e&rsquo;er you know her.
 [<i>Sylvia exits.</i>]
@@ -3818,7 +3818,7 @@ No, that it is too little.
 <speaker>THURIO</speaker>
 I&rsquo;ll wear a boot to make it somewhat rounder.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 But love will not be spurred to what it loathes.
 
@@ -3835,7 +3835,7 @@ Nay, then the wanton lies; my face is black.
 But pearls are fair, and the old saying is,
 Black men are pearls in beauteous ladies&rsquo; eyes.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 &rsquo;Tis true, such pearls as put out ladies&rsquo; eyes,
 For I had rather wink than look on them.
@@ -3849,7 +3849,7 @@ Ill, when you talk of war.
 <speaker>THURIO</speaker>
 But well when I discourse of love and peace.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 But better, indeed, when you hold your peace.
 
@@ -3859,7 +3859,7 @@ What says she to my valor?
 <speaker>PROTEUS</speaker>
 O, sir, she makes no doubt of that.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 She needs not when she knows it cowardice.
 
@@ -3869,7 +3869,7 @@ What says she to my birth?
 <speaker>PROTEUS</speaker>
 That you are well derived.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
   True, from a gentleman to a fool.
 
@@ -3882,14 +3882,14 @@ O, ay, and pities them.
 <speaker>THURIO</speaker>
 Wherefore?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
   That such an ass should owe them.
 
 <speaker>PROTEUS</speaker>
 That they are out by lease.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Here comes the Duke.
 
@@ -4017,7 +4017,7 @@ Vouchsafe me for my meed but one fair look;
 A smaller boon than this I cannot beg,
 And less than this I am sure you cannot give.
 
-<speaker>VALENTINE,</speaker>
+<speaker>VALENTINE</speaker>
 [<i>aside</i>]
 How like a dream is this I see and hear!
 Love, lend me patience to forbear awhile.
@@ -4032,7 +4032,7 @@ But by my coming, I have made you happy.
 <speaker>SYLVIA</speaker>
 By thy approach thou mak&rsquo;st me most unhappy.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 And me, when he approacheth to your presence.
 
@@ -4083,7 +4083,7 @@ O, heaven!
 <speaker>PROTEUS</speaker>
 I&rsquo;ll force thee yield to my desire.
 
-<speaker>VALENTINE,</speaker>
+<speaker>VALENTINE</speaker>
 [<i>advancing</i>]
 Ruffian, let go that rude uncivil touch,
 Thou friend of an ill fashion.
@@ -4121,7 +4121,7 @@ By penitence th&rsquo; Eternal&rsquo;s wrath&rsquo;s appeased.
 And that my love may appear plain and free,
 All that was mine in Sylvia I give thee.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>aside</i>]
 O me unhappy!	[<i>She swoons.</i>]
 
@@ -4133,7 +4133,7 @@ Why, boy!
 Why, wag, how now? What&rsquo;s the matter? Look up.
 Speak.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   O, good sir, my master charged
 me to deliver a ring to Madam Sylvia, which out of
@@ -4142,7 +4142,7 @@ my neglect was never done.
 <speaker>PROTEUS</speaker>
 Where is that ring, boy?
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
   Here &rsquo;tis; this is it.
 [<i>She rises, and hands him a ring.</i>]
@@ -4151,7 +4151,7 @@ Where is that ring, boy?
 How, let me see.
 Why, this is the ring I gave to Julia.
 
-<speaker>JULIA,</speaker>
+<speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
 O, cry you mercy, sir, I have mistook.
 This is the ring you sent to Sylvia.
@@ -4190,7 +4190,7 @@ Inconstancy falls off ere it begins.
 What is in Sylvia&rsquo;s face but I may spy
 More fresh in Julia&rsquo;s, with a constant eye?
 
-<speaker>VALENTINE,</speaker>
+<speaker>VALENTINE</speaker>
 [<i>to Julia and Proteus</i>]
   Come, come, a
 hand from either.

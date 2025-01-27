@@ -864,7 +864,7 @@ Am I not stayed for? Tell me.
 Yes, you are. O Cassius, if you could
 But win the noble Brutus to our party&mdash;
 
-<speaker>CASSIUS,</speaker>
+<speaker>CASSIUS</speaker>
 [<i>handing him papers</i>]
 Be you content. Good Cinna, take this paper,
 And look you lay it in the Praetor&rsquo;s chair,
@@ -1108,7 +1108,7 @@ north
 He first presents his fire, and the high east
 Stands, as the Capitol, directly here.
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>coming forward with Cassius</i>]
 Give me your hands all over, one by one.
 
@@ -1670,7 +1670,7 @@ Is notwithstanding up.&mdash;Good morrow, Antony.
 <speaker>ANTONY</speaker>
 So to most noble Caesar.
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>to Servant</i>]
   Bid them prepare within.&mdash;
 I am to blame to be thus waited for.	[<i>Servant exits.</i>]
@@ -1688,7 +1688,7 @@ That your best friends shall wish I had been further.
 Good friends, go in and taste some wine with me,
 And we, like friends, will straightway go together.
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>aside</i>]
 That every like is not the same, O Caesar,
 The heart of Brutus earns to think upon.
@@ -1862,7 +1862,7 @@ What, urge you your petitions in the street?
 Come to the Capitol.
 [<i>Caesar goes forward, the rest following.</i>]
 
-<speaker>POPILIUS,</speaker>
+<speaker>POPILIUS</speaker>
 [<i>to Cassius</i>]
 I wish your enterprise today may thrive.
 
@@ -1912,7 +1912,7 @@ Casca, you are the first that rears your hand.
 Are we all ready? What is now amiss
 That Caesar and his Senate must redress?
 
-<speaker>METELLUS,</speaker>
+<speaker>METELLUS</speaker>
 [<i>kneeling</i>]
 Most high, most mighty, and most puissant Caesar,
 Metellus Cimber throws before thy seat
@@ -1940,7 +1940,7 @@ Is there no voice more worthy than my own
 To sound more sweetly in great Caesar&rsquo;s ear
 For the repealing of my banished brother?
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>kneeling</i>]
 I kiss thy hand, but not in flattery, Caesar,
 Desiring thee that Publius Cimber may
@@ -1949,7 +1949,7 @@ Have an immediate freedom of repeal.
 <speaker>CAESAR</speaker>
 What, Brutus?
 
-<speaker>CASSIUS,</speaker>
+<speaker>CASSIUS</speaker>
 [<i>kneeling</i>]
 Pardon, Caesar; Caesar, pardon!
 As low as to thy foot doth Cassius fall
@@ -1973,14 +1973,14 @@ Let me a little show it, even in this:
 That I was constant Cimber should be banished
 And constant do remain to keep him so.
 
-<speaker>CINNA,</speaker>
+<speaker>CINNA</speaker>
 [<i>kneeling</i>]
 O Caesar&mdash;
 
 <speaker>CAESAR</speaker>
 Hence. Wilt thou lift up Olympus?
 
-<speaker>DECIUS,</speaker>
+<speaker>DECIUS</speaker>
 [<i>kneeling</i>]
 Great Caesar&mdash;
 
@@ -2097,7 +2097,7 @@ With the most boldest and best hearts of Rome.
 <speaker>BRUTUS</speaker>
 Soft, who comes here? A friend of Antony&rsquo;s.
 
-<speaker>SERVANT,</speaker>
+<speaker>SERVANT</speaker>
 [<i>kneeling</i>]
 Thus, Brutus, did my master bid me kneel.
 Thus did Mark Antony bid me fall down,
@@ -2262,7 +2262,7 @@ That Antony speak in his funeral.
 Know you how much the people may be moved
 By that which he will utter?
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>aside to Cassius</i>]
   By your pardon,
 I will myself into the pulpit first
@@ -2273,7 +2273,7 @@ And that we are contented Caesar shall
 Have all true rites and lawful ceremonies.
 It shall advantage more than do us wrong.
 
-<speaker>CASSIUS,</speaker>
+<speaker>CASSIUS</speaker>
 [<i>aside to Brutus</i>]
 I know not what may fall. I like it not.
 
@@ -3884,7 +3884,7 @@ Mark Antony, shall we give sign of battle?
 No, Caesar, we will answer on their charge.
 Make forth. The Generals would have some words.
 
-<speaker>OCTAVIUS,</speaker>
+<speaker>OCTAVIUS</speaker>
 [<i>to his Officers</i>]
   Stir not until the signal.
 [<i>The Generals step forward.</i>]
@@ -4130,7 +4130,7 @@ This day I breathed first. Time is come round,
 And where I did begin, there shall I end;
 My life is run his compass.&mdash;Sirrah, what news?
 
-<speaker>PINDARUS,</speaker>
+<speaker>PINDARUS</speaker>
 [<i>above.</i>]
   O my lord!
 
@@ -4313,7 +4313,7 @@ O young and noble Cato, art thou down?
 Why, now thou diest as bravely as Titinius
 And mayst be honored, being Cato&rsquo;s son.
 
-<speaker>FIRST SOLDIER,</speaker>
+<speaker>FIRST SOLDIER</speaker>
 [<i>seizing Lucilius</i>]
 Yield, or thou diest.
 

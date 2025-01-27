@@ -395,7 +395,7 @@ Take thy fair hour, Laertes. Time be thine,
 And thy best graces spend it at thy will.&mdash;
 But now, my cousin Hamlet and my son&mdash;
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>aside</i>]
 A little more than kin and less than kind.
 
@@ -1418,7 +1418,7 @@ Propose the oath, my lord.
 Never to speak of this that you have seen,
 Swear by my sword.
 
-<speaker>GHOST,</speaker>
+<speaker>GHOST</speaker>
 [<i>beneath</i>]
   Swear.
 
@@ -1429,7 +1429,7 @@ And lay your hands again upon my sword.
 Swear by my sword
 Never to speak of this that you have heard.
 
-<speaker>GHOST,</speaker>
+<speaker>GHOST</speaker>
 [<i>beneath</i>]
   Swear by his sword.
 
@@ -1459,7 +1459,7 @@ Or such ambiguous giving-out, to note
 That you know aught of me&mdash;this do swear,
 So grace and mercy at your most need help you.
 
-<speaker>GHOST,</speaker>
+<speaker>GHOST</speaker>
 [<i>beneath</i>]
   Swear.
 
@@ -1924,7 +1924,7 @@ Thence to a lightness, and, by this declension,
 Into the madness wherein now he raves
 And all we mourn for.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Queen</i>]
   Do you think &rsquo;tis this?
 
@@ -2018,7 +2018,7 @@ Let her not walk i&rsquo; th&rsquo; sun. Conception is a
 blessing, but, as your daughter may conceive,
 friend, look to &rsquo;t.
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>aside</i>]
   How say you by that? Still harping on
 my daughter. Yet he knew me not at first; he said I
@@ -2050,7 +2050,7 @@ hold it not honesty to have it thus set down; for
 yourself, sir, shall grow old as I am, if, like a crab,
 you could go backward.
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>aside</i>]
   Though this be madness, yet there is
 method in &rsquo;t.&mdash;Will you walk out of the air, my lord?
@@ -2076,7 +2076,7 @@ except my life, except my life.
 <speaker>POLONIUS</speaker>
 Fare you well, my lord.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>aside</i>]
   These tedious old fools.
 
@@ -2085,7 +2085,7 @@ Fare you well, my lord.
 <speaker>POLONIUS</speaker>
 You go to seek the Lord Hamlet. There he is.
 
-<speaker>ROSENCRANTZ,</speaker>
+<speaker>ROSENCRANTZ</speaker>
 [<i>to Polonius</i>]
   God save you, sir.
 [<i>Polonius exits.</i>]
@@ -2226,11 +2226,11 @@ love, and by what more dear a better
 proposer can charge you withal: be even and direct
 with me whether you were sent for or no.
 
-<speaker>ROSENCRANTZ,</speaker>
+<speaker>ROSENCRANTZ</speaker>
 [<i>to Guildenstern</i>]
   What say you?
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>aside</i>]
   Nay, then, I have an eye of you.&mdash;If
 you love me, hold not off.
@@ -2432,7 +2432,7 @@ Why,
 	One fair daughter, and no more,
 	The which he loved passing well.
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>aside</i>]
   Still on my daughter.
 
@@ -2794,7 +2794,7 @@ Your loneliness.&mdash;We are oft to blame in this
 And pious action we do sugar o&rsquo;er
 The devil himself.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>aside</i>]
   O, &rsquo;tis too true!
 How smart a lash that speech doth give my
@@ -2970,7 +2970,7 @@ That unmatched form and stature of blown youth
 Blasted with ecstasy. O, woe is me
 T&rsquo; have seen what I have seen, see what I see!
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>advancing with Polonius</i>]
 Love? His affections do not that way tend;
 Nor what he spake, though it lacked form a little,
@@ -3192,7 +3192,7 @@ Come hither, my dear Hamlet, sit by me.
 No, good mother. Here&rsquo;s metal more
 attractive.	[<i>Hamlet takes a place near Ophelia.</i>]
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>to the King</i>]
   Oh, ho! Do you mark that?
 
@@ -3891,7 +3891,7 @@ As hell, whereto it goes. My mother stays.
 This physic but prolongs thy sickly days.
 [<i>Hamlet exits.</i>]
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>rising</i>]
 My words fly up, my thoughts remain below;
 Words without thoughts never to heaven go.
@@ -3910,7 +3910,7 @@ between
 Much heat and him. I&rsquo;ll silence me even here.
 Pray you, be round with him.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>within</i>]
   Mother, mother, mother!
 
@@ -3962,7 +3962,7 @@ Where you may see the inmost part of you.
 What wilt thou do? Thou wilt not murder me?
 Help, ho!
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>behind the arras</i>]
   What ho! Help!
 
@@ -3971,7 +3971,7 @@ How now, a rat? Dead for a ducat, dead.
 [<i>He kills Polonius by thrusting a rapier
 through the arras.</i>]
 
-<speaker>POLONIUS,</speaker>
+<speaker>POLONIUS</speaker>
 [<i>behind the arras</i>]
 O, I am slain!
 
@@ -4349,7 +4349,7 @@ My soul is full of discord and dismay.
 <speaker>HAMLET</speaker>
 Safely stowed.
 
-<speaker>GENTLEMEN,</speaker>
+<speaker>GENTLEMEN</speaker>
 [<i>within</i>]
   Hamlet! Lord Hamlet!
 
@@ -4497,7 +4497,7 @@ place yourself. But if, indeed, you find him not
 within this month, you shall nose him as you go up
 the stairs into the lobby.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Attendants.</i>]
   Go, seek him there.
 
@@ -5798,7 +5798,7 @@ This?
 <speaker>GRAVEDIGGER</speaker>
 E&rsquo;en that.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>taking the skull</i>]
   Let me see. Alas, poor
 Yorick! I knew him, Horatio&mdash;a fellow of infinite
@@ -5898,7 +5898,7 @@ May violets spring! I tell thee, churlish priest,
 A minist&rsquo;ring angel shall my sister be
 When thou liest howling.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>to Horatio</i>]
   What, the fair Ophelia?
 
@@ -5921,7 +5921,7 @@ Till of this flat a mountain you have made
 T&rsquo; o&rsquo;ertop old Pelion or the skyish head
 Of blue Olympus.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>advancing</i>]
 What is he whose grief
 Bears such an emphasis, whose phrase of sorrow
@@ -5929,7 +5929,7 @@ Conjures the wand&rsquo;ring stars and makes them stand
 Like wonder-wounded hearers? This is I,
 Hamlet the Dane.
 
-<speaker>LAERTES,</speaker>
+<speaker>LAERTES</speaker>
 [<i>coming out of the grave</i>]
 The devil take thy soul!
 
@@ -6159,11 +6159,11 @@ Denmark.
 I humbly thank you, sir. [<i>Aside to Horatio.</i>]
 Dost know this waterfly?
 
-<speaker>HORATIO,</speaker>
+<speaker>HORATIO</speaker>
 [<i>aside to Hamlet</i>]
   No, my good lord.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>aside to Horatio</i>]
   Thy state is the more gracious,
 for &rsquo;tis a vice to know him. He hath much
@@ -6238,7 +6238,7 @@ Sir?
 Is &rsquo;t not possible to understand in another
 tongue? You will to &rsquo;t, sir, really.
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>to Osric</i>]
   What imports the nomination of
 this gentleman?
@@ -6427,7 +6427,7 @@ foils, daggers, flagons of wine, and Laertes.</i>]
 Come, Hamlet, come and take this hand from me.
 [<i>He puts Laertes&rsquo; hand into Hamlet&rsquo;s.</i>]
 
-<speaker>HAMLET,</speaker>
+<speaker>HAMLET</speaker>
 [<i>to Laertes</i>]
 Give me your pardon, sir. I have done you wrong;
 But pardon &rsquo;t as you are a gentleman. This presence
@@ -6571,7 +6571,7 @@ Gertrude, do not drink.
 <speaker>QUEEN</speaker>
 I will, my lord; I pray you pardon me.	[<i>She drinks.</i>]
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>aside</i>]
 It is the poisoned cup. It is too late.
 
@@ -6581,14 +6581,14 @@ I dare not drink yet, madam&mdash;by and by.
 <speaker>QUEEN</speaker>
 Come, let me wipe thy face.
 
-<speaker>LAERTES,</speaker>
+<speaker>LAERTES</speaker>
 [<i>to Claudius</i>]
 My lord, I&rsquo;ll hit him now.
 
 <speaker>KING</speaker>
 I do not think &rsquo;t.
 
-<speaker>LAERTES,</speaker>
+<speaker>LAERTES</speaker>
 [<i>aside</i>]
 And yet it is almost against my conscience.
 

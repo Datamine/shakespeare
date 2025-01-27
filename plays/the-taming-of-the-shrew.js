@@ -522,7 +522,7 @@ As are the swelling Adriatic seas.
 I come to wive it wealthily in Padua;
 If wealthily, then happily in Padua.
 
-<speaker>GRUMIO,</speaker>
+<speaker>GRUMIO</speaker>
 [<i>to Hortensio</i>]
   Nay, look you, sir, he tells you
 flatly what his mind is. Why, give him gold enough
@@ -563,7 +563,7 @@ And therefore let me be thus bold with you
 To give you over at this first encounter&mdash;
 Unless you will accompany me thither.
 
-<speaker>GRUMIO,</speaker>
+<speaker>GRUMIO</speaker>
 [<i>to Hortensio</i>]
   I pray you, sir, let him go while
 the humor lasts. O&rsquo; my word, an she knew him as
@@ -617,11 +617,11 @@ Peace, Grumio, it is the rival of my love.
 Petruchio, stand by awhile.
 [<i>Petruchio, Hortensio, and Grumio stand aside.</i>]
 
-<speaker>GRUMIO,</speaker>
+<speaker>GRUMIO</speaker>
 [<i>aside</i>]
 A proper stripling, and an amorous.
 
-<speaker>GREMIO,</speaker>
+<speaker>GREMIO</speaker>
 [<i>to Lucentio</i>]
 O, very well, I have perused the note.
 Hark you, sir, I&rsquo;ll have them very fairly bound,
@@ -634,7 +634,7 @@ And let me have them very well perfumed,
 For she is sweeter than perfume itself
 To whom they go to. What will you read to her?
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Whate&rsquo;er I read to her, I&rsquo;ll plead for you
 As for my patron, stand you so assured,
@@ -645,15 +645,15 @@ Than you&mdash;unless you were a scholar, sir.
 <speaker>GREMIO</speaker>
 O this learning, what a thing it is!
 
-<speaker>GRUMIO,</speaker>
+<speaker>GRUMIO</speaker>
 [<i>aside</i>]
 O this woodcock, what an ass it is!
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>aside</i>]
   Peace, sirrah.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside</i>]
 Grumio, mum.	[<i>Coming forward.</i>]
 God save you, Signior Gremio.
@@ -678,7 +678,7 @@ To fair Bianca, so beloved of me.
 <speaker>GREMIO</speaker>
 Beloved of me, and that my deeds shall prove.
 
-<speaker>GRUMIO,</speaker>
+<speaker>GRUMIO</speaker>
 [<i>aside</i>]
   And that his bags shall prove.
 
@@ -755,7 +755,7 @@ I would I were as sure of a good dinner.
 
 [<i>Enter Tranio, disguised as Lucentio, and Biondello.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Gentlemen, God save you. If I may be bold,
 Tell me, I beseech you, which is the readiest way
@@ -765,25 +765,25 @@ To the house of Signior Baptista Minola?
 He that has the two fair daughters&mdash;is &rsquo;t
 he you mean?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Even he, Biondello.
 
 <speaker>GREMIO</speaker>
 Hark you, sir, you mean not her to&mdash;
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Perhaps him and her, sir. What have you to do?
 
 <speaker>PETRUCHIO</speaker>
 Not her that chides, sir, at any hand, I pray.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 I love no chiders, sir. Biondello, let&rsquo;s away.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>aside</i>]
 Well begun, Tranio.
 
@@ -791,14 +791,14 @@ Well begun, Tranio.
 Sir, a word ere you go.
 Are you a suitor to the maid you talk of, yea or no?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 An if I be, sir, is it any offense?
 
 <speaker>GREMIO</speaker>
 No, if without more words you will get you hence.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Why sir, I pray, are not the streets as free
 For me, as for you?
@@ -806,7 +806,7 @@ For me, as for you?
 <speaker>GREMIO</speaker>
 But so is not she.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 For what reason, I beseech you?
 
@@ -817,7 +817,7 @@ That she&rsquo;s the choice love of Signior Gremio.
 <speaker>HORTENSIO</speaker>
 That she&rsquo;s the chosen of Signior Hortensio.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Softly, my masters. If you be gentlemen,
 Do me this right: hear me with patience.
@@ -833,19 +833,19 @@ Though Paris came in hope to speed alone.
 <speaker>GREMIO</speaker>
 What, this gentleman will out-talk us all!
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Sir, give him head; I know he&rsquo;ll prove a jade.
 
 <speaker>PETRUCHIO</speaker>
 Hortensio, to what end are all these words?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>to Tranio</i>]
 Sir, let me be so bold as ask you,
 Did you yet ever see Baptista&rsquo;s daughter?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 No, sir, but hear I do that he hath two,
 The one as famous for a scolding tongue
@@ -858,7 +858,7 @@ Sir, sir, the first&rsquo;s for me; let her go by.
 Yea, leave that labor to great Hercules,
 And let it be more than Alcides&rsquo; twelve.
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>to Tranio</i>]
 Sir, understand you this of me, in sooth:
 The youngest daughter, whom you hearken for,
@@ -867,7 +867,7 @@ And will not promise her to any man
 Until the elder sister first be wed.
 The younger then is free, and not before.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 If it be so, sir, that you are the man
 Must stead us all, and me amongst the rest,
@@ -882,7 +882,7 @@ And since you do profess to be a suitor,
 You must, as we do, gratify this gentleman,
 To whom we all rest generally beholding.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Sir, I shall not be slack; in sign whereof,
 Please you we may contrive this afternoon
@@ -999,7 +999,7 @@ Called Katherina, fair and virtuous?
 <speaker>BAPTISTA</speaker>
 I have a daughter, sir, called Katherina.
 
-<speaker>GREMIO,</speaker>
+<speaker>GREMIO</speaker>
 [<i>to Petruchio</i>]
 You are too blunt. Go to it orderly.
 
@@ -1071,7 +1071,7 @@ good Cambio. [<i>To Tranio as Lucentio.</i>]
 gentle sir, methinks you walk like a stranger. May I
 be so bold to know the cause of your coming?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Pardon me, sir, the boldness is mine own,
 That being a stranger in this city here
@@ -1092,7 +1092,7 @@ If you accept them, then their worth is great.
 <speaker>BAPTISTA</speaker>
 Lucentio is your name. Of whence, I pray?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Of Pisa, sir, son to Vincentio.
 
@@ -1163,14 +1163,14 @@ That shakes not, though they blow perpetually.
 <speaker>BAPTISTA</speaker>
 How now, my friend, why dost thou look so pale?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 For fear, I promise you, if I look pale.
 
 <speaker>BAPTISTA</speaker>
 What, will my daughter prove a good musician?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 I think she&rsquo;ll sooner prove a soldier!
 Iron may hold with her, but never lutes.
@@ -1178,7 +1178,7 @@ Iron may hold with her, but never lutes.
 <speaker>BAPTISTA</speaker>
 Why, then thou canst not break her to the lute?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Why, no, for she hath broke the lute to me.
 I did but tell her she mistook her frets,
@@ -1199,7 +1199,7 @@ Now, by the world, it is a lusty wench.
 I love her ten times more than ere I did.
 O, how I long to have some chat with her!
 
-<speaker>BAPTISTA,</speaker>
+<speaker>BAPTISTA</speaker>
 [<i>to Hortensio as Litio</i>]
 Well, go with me, and be not so discomfited.
 Proceed in practice with my younger daughter.
@@ -1481,7 +1481,7 @@ I&rsquo;ll see thee hanged on Sunday first.
 Hark, Petruchio, she says she&rsquo;ll see thee
 hanged first.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Is this your speeding? Nay,
 then, goodnight our part.
@@ -1527,7 +1527,7 @@ Was ever match clapped up so suddenly?
 Faith, gentlemen, now I play a merchant&rsquo;s part
 And venture madly on a desperate mart.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 &rsquo;Twas a commodity lay fretting by you.
 &rsquo;Twill bring you gain, or perish on the seas.
@@ -1541,7 +1541,7 @@ But now, Baptista, to your younger daughter.
 Now is the day we long have looked for.
 I am your neighbor and was suitor first.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 And I am one that love Bianca more
 Than words can witness or your thoughts can guess.
@@ -1549,7 +1549,7 @@ Than words can witness or your thoughts can guess.
 <speaker>GREMIO</speaker>
 Youngling, thou canst not love so dear as I.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Graybeard, thy love doth freeze.
 
@@ -1557,7 +1557,7 @@ Graybeard, thy love doth freeze.
 But thine doth fry!
 Skipper, stand back. &rsquo;Tis age that nourisheth.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 But youth in ladies&rsquo; eyes that flourisheth.
 
@@ -1587,7 +1587,7 @@ Myself am struck in years, I must confess,
 And if I die tomorrow this is hers,
 If whilst I live she will be only mine.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 That "&ldquo;only&rdquo;" came well in. [<i>To Baptista.</i>]
  Sir, list to
@@ -1610,7 +1610,7 @@ That now is lying in Marcellus&rsquo; road.
 [<i>To Tranio.</i>]
  What, have I choked you with an argosy?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Gremio, &rsquo;tis known my father hath no less
 Than three great argosies, besides two galliasses
@@ -1624,7 +1624,7 @@ And she can have no more than all I have.
  If you like me, she shall have me and
 mine.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Why, then, the maid is mine from all the world,
 By your firm promise. Gremio is outvied.
@@ -1635,7 +1635,7 @@ And, let your father make her the assurance,
 She is your own; else, you must pardon me.
 If you should die before him, where&rsquo;s her dower?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 That&rsquo;s but a cavil. He is old, I young.
 
@@ -1679,13 +1679,13 @@ A child shall get a sire, if I fail not of my cunning.
 [<i>Enter Lucentio as Cambio, Hortensio as Litio, and
 Bianca.</i>]
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Fiddler, forbear. You grow too forward, sir.
 Have you so soon forgot the entertainment
 Her sister Katherine welcomed you withal?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
   But, wrangling pedant, this is
 The patroness of heavenly harmony.
@@ -1693,7 +1693,7 @@ Then give me leave to have prerogative,
 And when in music we have spent an hour,
 Your lecture shall have leisure for as much.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Preposterous ass, that never read so far
 To know the cause why music was ordained.
@@ -1702,7 +1702,7 @@ After his studies or his usual pain?
 Then give me leave to read philosophy,
 And, while I pause, serve in your harmony.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Sirrah, I will not bear these braves of thine.
 
@@ -1718,11 +1718,11 @@ And, to cut off all strife, here sit we down.
 the whiles;
 His lecture will be done ere you have tuned.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 You&rsquo;ll leave his lecture when I am in tune?
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>aside</i>]
 That will be never. [<i>To Hortensio.</i>]
  Tune your
@@ -1731,7 +1731,7 @@ instrument.	[<i>Hortensio steps aside to tune his lute.</i>]
 <speaker>BIANCA</speaker>
 Where left we last?
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
   Here, madam:
 [<i>Showing her a book.</i>]
@@ -1749,7 +1749,7 @@ steterat, and that "&ldquo;Lucentio&rdquo;" that comes a-wooing,
 Priami, is my man Tranio, regia, bearing my port,
 celsa senis, that we might beguile the old pantaloon.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
   Madam, my instrument&rsquo;s in
 tune.
@@ -1758,7 +1758,7 @@ tune.
 Let&rsquo;s hear. [<i>He plays.</i>]
  Oh fie, the treble jars!
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
   Spit in the hole, man, and tune
 again.	[<i>Hortensio tunes his lute again.</i>]
@@ -1769,15 +1769,15 @@ Simois, I know you not; hic est Sigeia tellus, I trust
 you not; Hic steterat Priami, take heed he hear us
 not; regia, presume not; celsa senis, despair not.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Madam, &rsquo;tis now in tune.	[<i>He plays again.</i>]
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
   All but the bass.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 The bass is right. &rsquo;Tis the base knave that jars.
 [<i>Aside.</i>]
@@ -1785,7 +1785,7 @@ The bass is right. &rsquo;Tis the base knave that jars.
 Now for my life the knave doth court my love!
 Pedascule, I&rsquo;ll watch you better yet.
 
-<speaker>BIANCA,</speaker>
+<speaker>BIANCA</speaker>
 [<i>to Lucentio</i>]
 In time I may believe, yet I mistrust.
 
@@ -1800,12 +1800,12 @@ But let it rest.&mdash;Now, Litio, to you.
 Good master, take it not unkindly, pray,
 That I have been thus pleasant with you both.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio, to Lucentio</i>]
 You may go walk, and give me leave awhile.
 My lessons make no music in three parts.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Are you so formal, sir? Well, I must wait
 [<i>Aside.</i>]
@@ -1813,7 +1813,7 @@ Are you so formal, sir? Well, I must wait
 Our fine musician groweth amorous.
 [<i>He steps aside.</i>]
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Madam, before you touch the instrument,
 To learn the order of my fingering
@@ -1870,7 +1870,7 @@ Hortensio will be quit with thee by changing.
 [<i>Enter Baptista, Gremio, Tranio as Lucentio, Katherine,
 Bianca, Lucentio as Cambio, and others, Attendants.</i>]
 
-<speaker>BAPTISTA,</speaker>
+<speaker>BAPTISTA</speaker>
 [<i>to Tranio</i>]
 Signior Lucentio, this is the &rsquo;pointed day
 That Katherine and Petruchio should be married,
@@ -1895,7 +1895,7 @@ Now must the world point at poor Katherine
 And say "&ldquo;Lo, there is mad Petruchio&rsquo;s wife,
 If it would please him come and marry her.&rdquo;"
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Patience, good Katherine, and Baptista too.
 Upon my life, Petruchio means but well,
@@ -1943,7 +1943,7 @@ When will he be here?
 <speaker>BIONDELLO</speaker>
 When he stands where I am, and sees you there.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   But say, what to thine old news?
 
@@ -1982,7 +1982,7 @@ forty fancies pricked in &rsquo;t for a feather. A monster,
 a very monster in apparel, and not like a Christian
 footboy or a gentleman&rsquo;s lackey.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 &rsquo;Tis some odd humor pricks him to this fashion,
 Yet oftentimes he goes but mean-appareled.
@@ -2030,7 +2030,7 @@ And yet I come not well.
 <speaker>BAPTISTA</speaker>
 And yet you halt not.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Not so well appareled as I wish
 you were.
@@ -2050,7 +2050,7 @@ Now sadder that you come so unprovided.
 Fie, doff this habit, shame to your estate,
 An eyesore to our solemn festival.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 And tell us what occasion of import
 Hath all so long detained you from your wife
@@ -2065,7 +2065,7 @@ As you shall well be satisfied with all.
 But where is Kate? I stay too long from her.
 The morning wears. &rsquo;Tis time we were at church.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 See not your bride in these unreverent robes.
 Go to my chamber, put on clothes of mine.
@@ -2088,7 +2088,7 @@ When I should bid good morrow to my bride
 And seal the title with a lovely kiss!
 [<i>Petruchio exits, with Grumio.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 He hath some meaning in his mad attire.
 We will persuade him, be it possible,
@@ -2127,14 +2127,14 @@ All for my master&rsquo;s sake, Lucentio.
 
 [<i>Enter Gremio.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Signior Gremio, came you from the church?
 
 <speaker>GREMIO</speaker>
 As willingly as e&rsquo;er I came from school.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 And is the bride and bridegroom coming home?
 
@@ -2142,14 +2142,14 @@ And is the bride and bridegroom coming home?
 A bridegroom, say you? &rsquo;Tis a groom indeed,
 A grumbling groom, and that the girl shall find.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Curster than she? Why, &rsquo;tis impossible.
 
 <speaker>GREMIO</speaker>
 Why, he&rsquo;s a devil, a devil, a very fiend.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Why, she&rsquo;s a devil, a devil, the devil&rsquo;s dam.
 
@@ -2164,7 +2164,7 @@ This mad-brained bridegroom took him such a cuff
 That down fell priest and book, and book and priest.
 "&ldquo;Now, take them up,&rdquo;" quoth he, "&ldquo;if any list.&rdquo;"
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 What said the wench when he rose again?
 
@@ -2210,7 +2210,7 @@ To this most patient, sweet, and virtuous wife.
 Dine with my father, drink a health to me,
 For I must hence, and farewell to you all.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Let us entreat you stay till after dinner.
 
@@ -2299,11 +2299,11 @@ Nay, let them go. A couple of quiet ones!
 <speaker>GREMIO</speaker>
 Went they not quickly, I should die with laughing.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Of all mad matches never was the like.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Mistress, what&rsquo;s your opinion of your sister?
 
@@ -2323,11 +2323,11 @@ You know there wants no junkets at the feast.
 bridegroom&rsquo;s place,
 And let Bianca take her sister&rsquo;s room.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Shall sweet Bianca practice how to bride it?
 
-<speaker>BAPTISTA,</speaker>
+<speaker>BAPTISTA</speaker>
 [<i>to Tranio</i>]
 She shall, Lucentio. Come, gentlemen, let&rsquo;s go.
 [<i>They exit.</i>]
@@ -2495,7 +2495,7 @@ They are.
 <speaker>GRUMIO</speaker>
 Call them forth.
 
-<speaker>CURTIS,</speaker>
+<speaker>CURTIS</speaker>
 [<i>calling out</i>]
   Do you hear, ho? You must meet
 my master to countenance my mistress.
@@ -2719,13 +2719,13 @@ Now let him speak; &rsquo;tis charity to shew.
 <hr>
 [<i>Enter Tranio as Lucentio and Hortensio as Litio.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Is &rsquo;t possible, friend Litio, that mistress Bianca
 Doth fancy any other but Lucentio?
 I tell you, sir, she bears me fair in hand.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Sir, to satisfy you in what I have said,
 Stand by, and mark the manner of his teaching.
@@ -2733,32 +2733,32 @@ Stand by, and mark the manner of his teaching.
 
 [<i>Enter Bianca and Lucentio as Cambio.</i>]
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 Now mistress, profit you in what you read?
 
 <speaker>BIANCA</speaker>
 What, master, read you? First resolve me that.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 I read that I profess, The Art to Love.
 
 <speaker>BIANCA</speaker>
 And may you prove, sir, master of your art.
 
-<speaker>LUCENTIO,</speaker>
+<speaker>LUCENTIO</speaker>
 [<i>as Cambio</i>]
 While you, sweet dear, prove mistress of my heart.
 [<i>They move aside and kiss and talk.</i>]
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>as Litio</i>]
 Quick proceeders, marry! Now tell me, I pray,
 You that durst swear that your mistress Bianca
 Loved none in the world so well as Lucentio.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 O despiteful love, unconstant womankind!
 I tell thee, Litio, this is wonderful!
@@ -2771,7 +2771,7 @@ For such a one as leaves a gentleman
 And makes a god of such a cullion.
 Know, sir, that I am called Hortensio.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Signior Hortensio, I have often heard
 Of your entire affection to Bianca,
@@ -2786,7 +2786,7 @@ Never to woo her more, but do forswear her
 As one unworthy all the former favors
 That I have fondly flattered her withal.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 And here I take the like unfeigned oath,
 Never to marry with her, though she would entreat.
@@ -2876,7 +2876,7 @@ Take in your love, and then let me alone.
 <speaker>MERCHANT</speaker>
 God save you, sir.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   And you, sir. You are welcome.
 Travel you far on, or are you at the farthest?
@@ -2886,14 +2886,14 @@ Sir, at the farthest for a week or two,
 But then up farther, and as far as Rome,
 And so to Tripoli, if God lend me life.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 What countryman, I pray?
 
 <speaker>MERCHANT</speaker>
 Of Mantua.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Of Mantua, sir? Marry, God forbid!
 And come to Padua, careless of your life?
@@ -2901,7 +2901,7 @@ And come to Padua, careless of your life?
 <speaker>MERCHANT</speaker>
 My life, sir? How, I pray? For that goes hard.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 &rsquo;Tis death for anyone in Mantua
 To come to Padua. Know you not the cause?
@@ -2916,7 +2916,7 @@ Alas, sir, it is worse for me than so,
 For I have bills for money by exchange
 From Florence, and must here deliver them.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Well, sir, to do you courtesy,
 This will I do, and this I will advise you.
@@ -2926,7 +2926,7 @@ First tell me, have you ever been at Pisa?
 Ay, sir, in Pisa have I often been,
 Pisa renowned for grave citizens.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Among them know you one Vincentio?
 
@@ -2934,17 +2934,17 @@ Among them know you one Vincentio?
 I know him not, but I have heard of him:
 A merchant of incomparable wealth.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 He is my father, sir, and sooth to say,
 In count&rsquo;nance somewhat doth resemble you.
 
-<speaker>BIONDELLO,</speaker>
+<speaker>BIONDELLO</speaker>
 [<i>aside</i>]
   As much as an apple doth an
 oyster, and all one.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 To save your life in this extremity,
 This favor will I do you for his sake
@@ -2961,7 +2961,7 @@ If this be court&rsquo;sy, sir, accept of it.
 O sir, I do, and will repute you ever
 The patron of my life and liberty.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Then go with me, to make the matter good.
 This, by the way, I let you understand:
@@ -3074,7 +3074,7 @@ I thank you, sir.
 Signior Petruchio, fie, you are to blame.
 Come, Mistress Kate, I&rsquo;ll bear you company.
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>aside to Hortensio</i>]
 Eat it up all, Hortensio, if thou lovest me.&mdash;
 Much good do it unto thy gentle heart.
@@ -3117,7 +3117,7 @@ And gentlewomen wear such caps as these.
 When you are gentle, you shall have one too,
 And not till then.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside</i>]
   That will not be in haste.
 
@@ -3150,7 +3150,7 @@ Here&rsquo;s snip and nip and cut and slish and slash,
 Like to a censer in a barber&rsquo;s shop.
 Why, what a devil&rsquo;s name, tailor, call&rsquo;st thou this?
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside</i>]
 I see she&rsquo;s like to have neither cap nor gown.
 
@@ -3301,14 +3301,14 @@ O, sir, the conceit is deeper than you think
 for. Take up my mistress&rsquo; gown to his master&rsquo;s use!
 O, fie, fie, fie!
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>aside to Hortensio</i>]
 Hortensio, say thou wilt see the tailor paid.
 [<i>To Tailor.</i>]
  Go, take it hence. Begone, and say no
 more.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside to Tailor</i>]
 Tailor, I&rsquo;ll pay thee for thy gown tomorrow.
 Take no unkindness of his hasty words.
@@ -3350,7 +3350,7 @@ You are still crossing it.&mdash;Sirs, let &rsquo;t alone.
 I will not go today, and, ere I do,
 It shall be what o&rsquo;clock I say it is.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside</i>]
 Why, so, this gallant will command the sun!
 [<i>They exit.</i>]
@@ -3360,7 +3360,7 @@ Why, so, this gallant will command the sun!
 [<i>Enter Tranio as Lucentio, and the Merchant, booted,
 and dressed like Vincentio.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Sir, this is the house. Please it you that I call?
 
@@ -3370,7 +3370,7 @@ Signior Baptista may remember me,
 Near twenty years ago, in Genoa,
 Where we were lodgers at the Pegasus.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 &rsquo;Tis well. And hold your own in any case
 With such austerity as &rsquo;longeth to a father.
@@ -3383,7 +3383,7 @@ I warrant you.
 But, sir, here comes your boy.
 &rsquo;Twere good he were schooled.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Fear you not him.&mdash;Sirrah Biondello,
 Now do your duty throughly, I advise you.
@@ -3392,7 +3392,7 @@ Imagine &rsquo;twere the right Vincentio.
 <speaker>BIONDELLO</speaker>
 Tut, fear not me.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 But hast thou done thy errand to Baptista?
 
@@ -3400,7 +3400,7 @@ But hast thou done thy errand to Baptista?
 I told him that your father was at Venice,
 And that you looked for him this day in Padua.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Thou &rsquo;rt a tall fellow. Hold thee that to drink.
 [<i>He gives him money.</i>]
@@ -3410,14 +3410,14 @@ Thou &rsquo;rt a tall fellow. Hold thee that to drink.
 Here comes Baptista. Set your countenance, sir.
 [<i>Merchant stands bareheaded.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Signior Baptista, you are happily met.&mdash;
 Sir, this is the gentleman I told you of.
 I pray you stand good father to me now.
 Give me Bianca for my patrimony.
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Soft, son.&mdash;
 Sir, by your leave, having come to Padua
@@ -3447,7 +3447,7 @@ And pass my daughter a sufficient dower,
 The match is made, and all is done.
 Your son shall have my daughter with consent.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 I thank you, sir. Where then do you know best
 We be affied and such assurance ta&rsquo;en
@@ -3459,7 +3459,7 @@ Pitchers have ears, and I have many servants.
 Besides, old Gremio is heark&rsquo;ning still,
 And happily we might be interrupted.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Then at my lodging, an it like you.
 There doth my father lie, and there this night
@@ -3481,7 +3481,7 @@ And how she&rsquo;s like to be Lucentio&rsquo;s wife.
 <speaker>BIONDELLO</speaker>
 I pray the gods she may, with all my heart.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
 Dally not with the gods, but get thee gone.&mdash;
 Signior Baptista, shall I lead the way?
@@ -3592,7 +3592,7 @@ Or e&rsquo;er I journey to your father&rsquo;s house.
 again.&mdash;
 Evermore crossed and crossed, nothing but crossed!
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>to Katherine</i>]
 Say as he says, or we shall never go.
 
@@ -3639,7 +3639,7 @@ As those two eyes become that heavenly face?&mdash;
 Fair lovely maid, once more good day to thee.&mdash;
 Sweet Kate, embrace her for her beauty&rsquo;s sake.
 
-<speaker>HORTENSIO,</speaker>
+<speaker>HORTENSIO</speaker>
 [<i>aside</i>]
 He will make the man mad, to make the woman of
 him.
@@ -3751,12 +3751,12 @@ I think I shall command your welcome here,
 And by all likelihood some cheer is toward.
 [<i>He knocks.</i>]
 
-<speaker>GREMIO,</speaker>
+<speaker>GREMIO</speaker>
 [<i>coming forward</i>]
 They&rsquo;re busy within. You were best knock louder.
 [<i>Merchant looks out of the window.</i>]
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   What&rsquo;s he that knocks as
 he would beat down the gate?
@@ -3764,7 +3764,7 @@ he would beat down the gate?
 <speaker>VINCENTIO</speaker>
 Is Signior Lucentio within, sir?
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   He&rsquo;s within, sir, but not to
 be spoken withal.
@@ -3773,13 +3773,13 @@ be spoken withal.
 What if a man bring him a hundred pound
 or two to make merry withal?
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Keep your hundred
 pounds to yourself. He shall need none so long as I
 live.
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>to Vincentio</i>]
   Nay, I told you your son was
 well beloved in Padua.&mdash;Do you hear, sir? To leave
@@ -3787,7 +3787,7 @@ frivolous circumstances, I pray you tell Signior
 Lucentio that his father is come from Pisa and is
 here at the door to speak with him.
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Thou liest. His father is
 come from Padua and here looking out at the
@@ -3796,18 +3796,18 @@ window.
 <speaker>VINCENTIO</speaker>
 Art thou his father?
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Ay, sir, so his mother says,
 if I may believe her.
 
-<speaker>PETRUCHIO,</speaker>
+<speaker>PETRUCHIO</speaker>
 [<i>to Vincentio</i>]
   Why, how now, gentleman!
 Why, this is flat knavery, to take upon you another
 man&rsquo;s name.
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Lay hands on the villain. I
 believe he means to cosen somebody in this city
@@ -3815,14 +3815,14 @@ under my countenance.
 
 [<i>Enter Biondello.</i>]
 
-<speaker>BIONDELLO,</speaker>
+<speaker>BIONDELLO</speaker>
 [<i>aside</i>]
   I have seen them in the church
 together. God send &rsquo;em good shipping! But who is
 here? Mine old master Vincentio! Now we are
 undone and brought to nothing.
 
-<speaker>VINCENTIO,</speaker>
+<speaker>VINCENTIO</speaker>
 [<i>to Biondello</i>]
   Come hither, crack-hemp.
 
@@ -3852,7 +3852,7 @@ Is &rsquo;t so indeed? [<i>He beats Biondello.</i>]
 Help, help, help! Here&rsquo;s a madman will
 murder me.	[<i>Biondello exits.</i>]
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Help, son! Help, Signior
 Baptista!	[<i>He exits from window.</i>]
@@ -3864,7 +3864,7 @@ end of this controversy.	[<i>They move aside.</i>]
 [<i>Enter Merchant with Servants, and Baptista and
 Tranio disguised as Lucentio.</i>]
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Sir, what are you that offer to
 beat my servant?
@@ -3877,14 +3877,14 @@ am undone, I am undone! While I play the good
 husband at home, my son and my servant spend all
 at the university.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   How now, what&rsquo;s the matter?
 
 <speaker>BAPTISTA</speaker>
 What, is the man lunatic?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Sir, you seem a sober ancient
 gentleman by your habit, but your words show you
@@ -3905,7 +3905,7 @@ His name? As if I knew not his name! I have
 brought him up ever since he was three years old,
 and his name is Tranio.
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Away, away, mad ass! His
 name is Lucentio and he is mine only son, and heir
@@ -3917,7 +3917,7 @@ Lay hold on him, I charge you in the Duke&rsquo;s name.
 O, my son, my son! Tell me, thou villain, where is
 my son Lucentio?
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Call forth an officer.
 
@@ -3941,14 +3941,14 @@ Take heed, Signior Baptista, lest you be cony-catched
 in this business. I dare swear this is the
 right Vincentio.
 
-<speaker>MERCHANT,</speaker>
+<speaker>MERCHANT</speaker>
 [<i>as Vincentio</i>]
   Swear, if thou dar&rsquo;st.
 
 <speaker>GREMIO</speaker>
 Nay, I dare not swear it.
 
-<speaker>TRANIO,</speaker>
+<speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
   Then thou wert best say that I
 am not Lucentio.

@@ -376,7 +376,7 @@ Attendants, including a Secretary of the Cardinal.
 The Cardinal places himself under the King&rsquo;s feet on
 his right side.</i>]
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Wolsey</i>]
 My life itself, and the best heart of it,
 Thanks you for this great care. I stood i&rsquo; th&rsquo; level
@@ -530,7 +530,7 @@ Free pardon to each man that has denied
 The force of this commission. Pray look to &rsquo;t;
 I put it to your care.
 
-<speaker>WOLSEY,</speaker>
+<speaker>WOLSEY</speaker>
 [<i>aside to his Secretary</i>]
   A word with you.
 Let there be letters writ to every shire
@@ -542,7 +542,7 @@ Further in the proceeding.	[<i>Secretary exits.</i>]
 
 [<i>Enter Buckingham&rsquo;s Surveyor.</i>]
 
-<speaker>QUEEN KATHERINE,</speaker>
+<speaker>QUEEN KATHERINE</speaker>
 [<i>to the King</i>]
 I am sorry that the Duke of Buckingham
 Is run in your displeasure.
@@ -596,7 +596,7 @@ Beyond you to your friends.
 My learned Lord Cardinal,
 Deliver all with charity.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Surveyor</i>]
   Speak on.
 How grounded he his title to the crown
@@ -703,7 +703,7 @@ And this man out of prison?
 <speaker>QUEEN KATHERINE</speaker>
 God mend all.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Surveyor</i>]
 There&rsquo;s something more would out of thee. What sayst?
 
@@ -1089,7 +1089,7 @@ By all your good leaves, gentlemen.
 Here I&rsquo;ll make
 My royal choice.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>unmasking</i>]
   You have found him, cardinal.
 You hold a fair assembly; you do well, lord.
@@ -1328,7 +1328,7 @@ To th&rsquo; waterside I must conduct your Grace,
 Then give my charge up to Sir Nicholas Vaux,
 Who undertakes you to your end.
 
-<speaker>VAUX,</speaker>
+<speaker>VAUX</speaker>
 [<i>calling as to Officers offstage</i>]
   Prepare there!
 The Duke is coming. See the barge be ready,
@@ -1558,14 +1558,14 @@ Chamberlain.
 [<i>Lord Chamberlain exits; and the King draws
 the curtain and sits reading pensively.</i>]
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>to Norfolk</i>]
 How sad he looks! Sure he is much afflicted.
 
 <speaker>KING</speaker>
 Who&rsquo;s there? Ha?
 
-<speaker>NORFOLK,</speaker>
+<speaker>NORFOLK</speaker>
 [<i>to Suffolk</i>]
   Pray God he be not angry.
 
@@ -1600,26 +1600,26 @@ Sir, you cannot.
 I would your Grace would give us but an hour
 Of private conference.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Norfolk and Suffolk</i>]
   We are busy. Go.
 
-<speaker>NORFOLK,</speaker>
+<speaker>NORFOLK</speaker>
 [<i>aside to Suffolk</i>]
 This priest has no pride in him?
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside to Norfolk</i>]
   Not to speak of.
 I would not be so sick, though for his place.
 But this cannot continue.
 
-<speaker>NORFOLK,</speaker>
+<speaker>NORFOLK</speaker>
 [<i>aside to Suffolk</i>]
   If it do,
 I&rsquo;ll venture one have-at-him.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside to Norfolk</i>]
   I another.
 [<i>Norfolk and Suffolk exit.</i>]
@@ -1645,7 +1645,7 @@ And thank the holy conclave for their loves.
 They have sent me such a man I would have wished
 for.	[<i>He embraces Campeius.</i>]
 
-<speaker>CAMPEIUS,</speaker>
+<speaker>CAMPEIUS</speaker>
 [<i>handing the King a paper</i>]
 Your Grace must needs deserve all strangers&rsquo; loves,
 You are so noble. To your Highness&rsquo; hand
@@ -1672,12 +1672,12 @@ I find him a fit fellow.	[<i>Wolsey goes to the door.</i>]
 
 [<i>Enter Gardiner to Wolsey.</i>]
 
-<speaker>WOLSEY,</speaker>
+<speaker>WOLSEY</speaker>
 [<i>aside to Gardiner</i>]
 Give me your hand. Much joy and favor to you.
 You are the King&rsquo;s now.
 
-<speaker>GARDINER,</speaker>
+<speaker>GARDINER</speaker>
 [<i>aside to Wolsey</i>]
   But to be commanded
 Forever by your Grace, whose hand has raised me.
@@ -1721,7 +1721,7 @@ If I command him follows my appointment.
 I will have none so near else. Learn this, brother:
 We live not to be griped by meaner persons.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to Gardiner</i>]
 Deliver this with modesty to th&rsquo; Queen.
 [<i>Gardiner exits.</i>]
@@ -2282,7 +2282,7 @@ Meanwhile must be an earnest motion
 Made to the Queen to call back her appeal
 She intends unto his Holiness.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>aside</i>]
   I may perceive
 These cardinals trifle with me. I abhor
@@ -2410,7 +2410,7 @@ Both of his truth and him&mdash;which was too far&mdash;
 Offers, as I do, in a sign of peace,
 His service and his counsel.
 
-<speaker>QUEEN KATHERINE,</speaker>
+<speaker>QUEEN KATHERINE</speaker>
 [<i>aside</i>]
   To betray me.&mdash;
 My lords, I thank you both for your good wills.
@@ -2800,7 +2800,7 @@ Does whet his anger to him.
 Sharp enough,
 Lord, for thy justice!
 
-<speaker>WOLSEY,</speaker>
+<speaker>WOLSEY</speaker>
 [<i>aside</i>]
 The late queen&rsquo;s gentlewoman, a knight&rsquo;s daughter,
 To be her mistress&rsquo; mistress? The Queen&rsquo;s queen?
@@ -2836,7 +2836,7 @@ Does he rake this together? [<i>Seeing the nobles.</i>]
 my lords,
 Saw you the Cardinal?
 
-<speaker>NORFOLK,</speaker>
+<speaker>NORFOLK</speaker>
 [<i>indicating Wolsey</i>]
   My lord, we have
 Stood here observing him. Some strange commotion
@@ -2865,7 +2865,7 @@ It&rsquo;s heaven&rsquo;s will!
 Some spirit put this paper in the packet
 To bless your eye withal.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>studying Wolsey</i>]
   If we did think
 His contemplation were above the Earth
@@ -2918,11 +2918,11 @@ Employed you where high profits might come home,
 But pared my present havings to bestow
 My bounties upon you.
 
-<speaker>WOLSEY,</speaker>
+<speaker>WOLSEY</speaker>
 [<i>aside</i>]
   What should this mean?
 
-<speaker>SURREY,</speaker>
+<speaker>SURREY</speaker>
 [<i>aside</i>]
 The Lord increase this business!
 
@@ -3331,7 +3331,7 @@ Thy hopeful service perish too. Good Cromwell,
 Neglect him not. Make use now, and provide
 For thine own future safety.
 
-<speaker>CROMWELL,</speaker>
+<speaker>CROMWELL</speaker>
 [<i>weeping</i>]
   O, my lord,
 Must I then leave you? Must I needs forgo
@@ -3341,7 +3341,7 @@ With what a sorrow Cromwell leaves his lord.
 The King shall have my service, but my prayers
 Forever and forever shall be yours.
 
-<speaker>WOLSEY,</speaker>
+<speaker>WOLSEY</speaker>
 [<i>weeping</i>]
 Cromwell, I did not think to shed a tear
 In all my miseries, but thou hast forced me,
@@ -3803,7 +3803,7 @@ the garland with them.</i>]
 
 [<i>The music continues.</i>]
 
-<speaker>KATHERINE,</speaker>
+<speaker>KATHERINE</speaker>
 [<i>waking</i>]
 Spirits of peace, where are you? Are you all gone,
 And leave me here in wretchedness behind you?
@@ -3834,14 +3834,14 @@ Possess your fancy.
 Bid the music leave.
 They are harsh and heavy to me.	[<i>Music ceases.</i>]
 
-<speaker>PATIENCE,</speaker>
+<speaker>PATIENCE</speaker>
 [<i>aside to Griffith</i>]
   Do you note
 How much her Grace is altered on the sudden?
 How long her face is drawn? How pale she looks,
 And of an earthy cold? Mark her eyes.
 
-<speaker>GRIFFITH,</speaker>
+<speaker>GRIFFITH</speaker>
 [<i>aside to Patience</i>]
 She is going, wench. Pray, pray.
 
@@ -3850,7 +3850,7 @@ Heaven comfort her!
 
 [<i>Enter a Messenger.</i>]
 
-<speaker>MESSENGER,</speaker>
+<speaker>MESSENGER</speaker>
 [<i>to Katherine</i>]
 An &rsquo;t like your Grace&mdash;
 
@@ -3858,13 +3858,13 @@ An &rsquo;t like your Grace&mdash;
 You are a saucy fellow.
 Deserve we no more reverence?
 
-<speaker>GRIFFITH,</speaker>
+<speaker>GRIFFITH</speaker>
 [<i>to Messenger</i>]
   You are to blame,
 Knowing she will not lose her wonted greatness,
 To use so rude behavior. Go to. Kneel.
 
-<speaker>MESSENGER,</speaker>
+<speaker>MESSENGER</speaker>
 [<i>kneeling</i>]
 I humbly do entreat your Highness&rsquo; pardon.
 My haste made me unmannerly. There is staying
@@ -4155,7 +4155,7 @@ He attends your Highness&rsquo; pleasure.
 Bring him to us.
 [<i>Denny exits.</i>]
 
-<speaker>LOVELL,</speaker>
+<speaker>LOVELL</speaker>
 [<i>aside</i>]
 This is about that which the Bishop spake.
 I am happily come hither.
@@ -4167,7 +4167,7 @@ Avoid the gallery.	[<i>Lovell seems to stay.</i>]
 Ha! I have said. Be gone!
 What!	[<i>Lovell and Denny exit.</i>]
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>aside</i>]
   I am fearful. Wherefore frowns he thus?
 &rsquo;Tis his aspect of terror. All&rsquo;s not well.
@@ -4176,7 +4176,7 @@ What!	[<i>Lovell and Denny exit.</i>]
 How now, my lord? You do desire to know
 Wherefore I sent for you.
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>kneeling</i>]
   It is my duty
 T&rsquo; attend your Highness&rsquo; pleasure.
@@ -4203,7 +4203,7 @@ To make your house our Tower. You a brother of us,
 It fits we thus proceed, or else no witness
 Would come against you.
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>kneeling</i>]
   I humbly thank your
 Highness,
@@ -4354,13 +4354,13 @@ So.
 
 [<i>Enter Doctor Butts.</i>]
 
-<speaker>BUTTS,</speaker>
+<speaker>BUTTS</speaker>
 [<i>aside</i>]
 This is a piece of malice. I am glad
 I came this way so happily. The King
 Shall understand it presently.	[<i>Butts exits.</i>]
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>aside</i>]
   &rsquo;Tis Butts,
 The King&rsquo;s physician. As he passed along
@@ -4429,7 +4429,7 @@ Has he had knowledge of it?
 <speaker>CROMWELL</speaker>
 Yes.
 
-<speaker>NORFOLK,</speaker>
+<speaker>NORFOLK</speaker>
 [<i>to Keeper</i>]
   Who waits there?
 
@@ -4446,7 +4446,7 @@ And has done half an hour, to know your pleasures.
 <speaker>CHANCELLOR</speaker>
 Let him come in.
 
-<speaker>KEEPER,</speaker>
+<speaker>KEEPER</speaker>
 [<i>at door</i>]
   Your Grace may enter now.
 [<i>Cranmer approaches the council table.</i>]
@@ -4578,7 +4578,7 @@ I have done.
 <speaker>CROMWELL</speaker>
 And I.
 
-<speaker>CHANCELLOR,</speaker>
+<speaker>CHANCELLOR</speaker>
 [<i>to Cranmer</i>]
 Then thus for you, my lord: it stands agreed,
 I take it, by all voices, that forthwith
@@ -4731,7 +4731,7 @@ Embrace and love this man.
 With a true heart
 And brother-love I do it.	[<i>He embraces Cranmer.</i>]
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>weeping</i>]
   And let heaven
 Witness how dear I hold this confirmation.
@@ -4757,7 +4757,7 @@ You&rsquo;ll leave your noise anon, you rascals! Do
 you take the court for Parish Garden? You rude
 slaves, leave your gaping!
 
-<speaker>ONE,</speaker>
+<speaker>ONE</speaker>
 [<i>within</i>]
   Good Master Porter, I belong to th&rsquo;
 larder.
@@ -4797,7 +4797,7 @@ He or she, cuckold or cuckold-maker,
 Let me ne&rsquo;er hope to see a chine again&mdash;
 And that I would not for a cow, God save her!
 
-<speaker>ONE,</speaker>
+<speaker>ONE</speaker>
 [<i>within</i>]
   Do you hear, Master Porter?
 
@@ -4910,7 +4910,7 @@ and mighty princess of England, Elizabeth.
 
 [<i>Flourish. Enter King and Guard.</i>]
 
-<speaker>CRANMER,</speaker>
+<speaker>CRANMER</speaker>
 [<i>kneeling</i>]
 And to your royal Grace and the good queen,
 My noble partners and myself thus pray
@@ -4936,7 +4936,7 @@ Into whose hand I give thy life.
 <speaker>CRANMER</speaker>
 Amen.
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>to the two godmothers</i>]
 My noble gossips, you&rsquo;ve been too prodigal.
 I thank you heartily; so shall this lady

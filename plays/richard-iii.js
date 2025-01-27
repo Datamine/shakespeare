@@ -306,7 +306,7 @@ Or by Saint Paul I&rsquo;ll strike thee to my foot
 And spurn upon thee, beggar, for thy boldness.
 [<i>They set down the bier.</i>]
 
-<speaker>ANNE,</speaker>
+<speaker>ANNE</speaker>
 [<i>to the Gentlemen and Halberds</i>]
 What, do you tremble? Are you all afraid?
 Alas, I blame you not, for you are mortal,
@@ -590,7 +590,7 @@ Take up the sword again, or take up me.
 Arise, dissembler. Though I wish thy death,
 I will not be thy executioner.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>rising</i>]
 Then bid me kill myself, and I will do it.
 
@@ -765,7 +765,7 @@ But so it must be if the King miscarry.
 <speaker>GREY</speaker>
 Here comes the lord of Buckingham, and Derby.
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>to Queen Elizabeth</i>]
 Good time of day unto your royal Grace.
 
@@ -917,12 +917,12 @@ To be so baited, scorned, and stormed at.
 
 Small joy have I in being England&rsquo;s queen.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 And lessened be that small, God I beseech Him!
 Thy honor, state, and seat is due to me.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Queen Elizabeth</i>]
 What, threat you me with telling of the King?
 Tell him and spare not. Look, what I have said,
@@ -930,13 +930,13 @@ I will avouch &rsquo;t in presence of the King;
 I dare adventure to be sent to th&rsquo; Tower.
 &rsquo;Tis time to speak. My pains are quite forgot.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Out, devil! I do remember them too well:
 Thou killed&rsquo;st my husband Henry in the Tower,
 And Edward, my poor son, at Tewkesbury.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Queen Elizabeth</i>]
 Ere you were queen, ay, or your husband king,
 I was a packhorse in his great affairs,
@@ -944,11 +944,11 @@ A weeder-out of his proud adversaries,
 A liberal rewarder of his friends.
 To royalize his blood, I spent mine own.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Ay, and much better blood than his or thine.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Queen Elizabeth</i>]
 In all which time, you and your husband Grey
 Were factious for the House of Lancaster.&mdash;
@@ -958,16 +958,16 @@ Let me put in your minds, if you forget,
 What you have been ere this, and what you are;
 Withal, what I have been, and what I am.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 A murd&rsquo;rous villain, and so still thou art.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Queen Elizabeth</i>]
 Poor Clarence did forsake his father Warwick,
 Ay, and forswore himself&mdash;which Jesu pardon!&mdash;
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
   Which God revenge!
 
@@ -978,7 +978,7 @@ I would to God my heart were flint, like Edward&rsquo;s,
 Or Edward&rsquo;s soft and pitiful, like mine.
 I am too childish-foolish for this world.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Hie thee to hell for shame, and leave this world,
 Thou cacodemon! There thy kingdom is.
@@ -999,7 +999,7 @@ You should enjoy were you this country&rsquo;s king,
 As little joy you may suppose in me
 That I enjoy, being the queen thereof.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 As little joy enjoys the queen thereof,
 For I am she, and altogether joyless.
@@ -1140,7 +1140,7 @@ O, let me make the period to my curse!
 <speaker>RICHARD</speaker>
 &rsquo;Tis done by me and ends in "&ldquo;Margaret.&rdquo;"
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>to Queen Margaret</i>]
 Thus have you breathed your curse against yourself.
 
@@ -1169,7 +1169,7 @@ To serve me well, you all should do me duty:
 Teach me to be your queen, and you my subjects.
 O, serve me well, and teach yourselves that duty!
 
-<speaker>DORSET,</speaker>
+<speaker>DORSET</speaker>
 [<i>to Rivers</i>]
 Dispute not with her; she is lunatic.
 
@@ -1806,7 +1806,7 @@ That you will war with God by murd&rsquo;ring me?
 O sirs, consider: they that set you on
 To do this deed will hate you for the deed.
 
-<speaker>SECOND MURDERER,</speaker>
+<speaker>SECOND MURDERER</speaker>
 [<i>to First Murderer</i>]
 What shall we do?
 
@@ -1883,7 +1883,7 @@ Since I have made my friends at peace on Earth.
 Rivers and Hastings, take each other&rsquo;s hand.
 Dissemble not your hatred. Swear your love.
 
-<speaker>RIVERS,</speaker>
+<speaker>RIVERS</speaker>
 [<i>taking Hastings&rsquo; hand</i>]
 By heaven, my soul is purged from grudging hate,
 And with my hand I seal my true heart&rsquo;s love.
@@ -1903,7 +1903,7 @@ So prosper I as I swear perfect love.
 <speaker>RIVERS</speaker>
 And I as I love Hastings with my heart.
 
-<speaker>KING EDWARD,</speaker>
+<speaker>KING EDWARD</speaker>
 [<i>to Queen Elizabeth</i>]
 Madam, yourself is not exempt from this,&mdash;
 Nor you, son Dorset,&mdash;Buckingham, nor you.
@@ -1932,7 +1932,7 @@ Now, princely Buckingham, seal thou this league
 With thy embracements to my wife&rsquo;s allies
 And make me happy in your unity.
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>to Queen Elizabeth</i>]
 Whenever Buckingham doth turn his hate
 Upon your Grace, but with all duteous love
@@ -2032,7 +2032,7 @@ And yet go current from suspicion.
 
 [<i>Enter Lord Stanley, Earl of Derby.</i>]
 
-<speaker>STANLEY,</speaker>
+<speaker>STANLEY</speaker>
 [<i>kneeling</i>]
 A boon, my sovereign, for my service done.
 
@@ -2204,12 +2204,12 @@ Clarence and Edward. O, what cause have I,
 Thine being but a moiety of my moan,
 To overgo thy woes and drown thy cries!
 
-<speaker>BOY,</speaker>
+<speaker>BOY</speaker>
 [<i>to Queen Elizabeth</i>]
 Ah, aunt, you wept not for our father&rsquo;s death.
 How can we aid you with our kindred tears?
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>to Queen Elizabeth</i>]
 Our fatherless distress was left unmoaned.
 Your widow-dolor likewise be unwept!
@@ -2255,7 +2255,7 @@ Alas, you three, on me, threefold distressed,
 Pour all your tears. I am your sorrow&rsquo;s nurse,
 And I will pamper it with lamentation.
 
-<speaker>DORSET,</speaker>
+<speaker>DORSET</speaker>
 [<i>to Queen Elizabeth</i>]
 Comfort, dear mother. God is much displeased
 That you take with unthankfulness His doing.
@@ -2276,7 +2276,7 @@ And plant your joys in living Edward&rsquo;s throne.
 [<i>Enter Richard, Duke of Gloucester, Buckingham, Lord
 Stanley, Earl of Derby, Hastings, and Ratcliffe.</i>]
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Queen Elizabeth</i>]
 Sister, have comfort. All of us have cause
 To wail the dimming of our shining star,
@@ -2289,7 +2289,7 @@ I crave your blessing.	[<i>He kneels.</i>]
 God bless thee, and put meekness in thy breast,
 Love, charity, obedience, and true duty.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>standing</i>]
 Amen. [<i>Aside.</i>]
  And make me die a good old man!
@@ -2602,7 +2602,7 @@ Blood to blood, self against self. O, preposterous
 And frantic outrage, end thy damned spleen,
 Or let me die, to look on Earth no more.
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>to York</i>]
 Come, come, my boy. We will to sanctuary.&mdash;
 Madam, farewell.
@@ -2613,7 +2613,7 @@ Stay, I will go with you.
 <speaker>QUEEN ELIZABETH</speaker>
 You have no cause.
 
-<speaker>ARCHBISHOP,</speaker>
+<speaker>ARCHBISHOP</speaker>
 [<i>to Queen Elizabeth</i>]
   My gracious lady, go,
 And thither bear your treasure and your goods.
@@ -2633,7 +2633,7 @@ the Cardinal, Catesby, and others.</i>]
 <speaker>BUCKINGHAM</speaker>
 Welcome, sweet prince, to London, to your chamber.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Prince</i>]
 Welcome, dear cousin, my thoughts&rsquo; sovereign.
 The weary way hath made you melancholy.
@@ -2761,7 +2761,7 @@ Methinks the truth should live from age to age,
 As &rsquo;twere retailed to all posterity,
 Even to the general all-ending day.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 So wise so young, they say, do never live long.
 
@@ -2790,7 +2790,7 @@ An if I live until I be a man,
 I&rsquo;ll win our ancient right in France again
 Or die a soldier, as I lived a king.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 Short summers lightly have a forward spring.
 
@@ -2890,21 +2890,21 @@ Because that I am little, like an ape,
 He thinks that you should bear me on your
 shoulders.
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>aside</i>]
 With what a sharp-provided wit he reasons!
 To mitigate the scorn he gives his uncle,
 He prettily and aptly taunts himself.
 So cunning and so young is wonderful.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Prince</i>]
 My lord, will &rsquo;t please you pass along?
 Myself and my good cousin Buckingham
 Will to your mother, to entreat of her
 To meet you at the Tower and welcome you.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>to Prince</i>]
 What, will you go unto the Tower, my lord?
 
@@ -2936,7 +2936,7 @@ Thinking on them, go I unto the Tower.
 and Hastings exit. Richard, Buckingham,
 and Catesby remain.</i>]
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>to Richard</i>]
 Think you, my lord, this little prating York
 Was not incensed by his subtle mother
@@ -3027,18 +3027,18 @@ We may digest our complots in some form.
 <hr>
 [<i>Enter a Messenger to the door of Hastings.</i>]
 
-<speaker>MESSENGER,</speaker>
+<speaker>MESSENGER</speaker>
 [<i>knocking</i>]
   My lord, my lord.
 
-<speaker>HASTINGS,</speaker>
+<speaker>HASTINGS</speaker>
 [<i>within</i>]
   Who knocks?
 
 <speaker>MESSENGER</speaker>
 One from the Lord Stanley.
 
-<speaker>HASTINGS,</speaker>
+<speaker>HASTINGS</speaker>
 [<i>within</i>]
   What is &rsquo;t o&rsquo;clock?
 
@@ -3254,7 +3254,7 @@ I shall return before your Lordship thence.
 <speaker>HASTINGS</speaker>
 Nay, like enough, for I stay dinner there.
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>aside</i>]
 And supper too, although thou know&rsquo;st it not.&mdash;
 Come, will you go?
@@ -3273,12 +3273,12 @@ Sir Richard Ratcliffe, let me tell thee this:
 Today shalt thou behold a subject die
 For truth, for duty, and for loyalty.
 
-<speaker>GREY,</speaker>
+<speaker>GREY</speaker>
 [<i>to Ratcliffe</i>]
 God bless the Prince from all the pack of you!
 A knot you are of damned bloodsuckers.
 
-<speaker>VAUGHAN,</speaker>
+<speaker>VAUGHAN</speaker>
 [<i>to Ratcliffe</i>]
 You live that shall cry woe for this hereafter.
 
@@ -4060,7 +4060,7 @@ Even when you please, for you will have it so.
 Tomorrow, then, we will attend your Grace,
 And so most joyfully we take our leave.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to the Bishops</i>]
 Come, let us to our holy work again.&mdash;
 Farewell, my cousin. Farewell, gentle friends.
@@ -4150,7 +4150,7 @@ Or else I swoon with this dead-killing news!
 <speaker>ANNE</speaker>
 Despiteful tidings! O, unpleasing news!
 
-<speaker>DORSET,</speaker>
+<speaker>DORSET</speaker>
 [<i>to Queen Elizabeth</i>]
 Be of good cheer, mother. How fares your Grace?
 
@@ -4180,7 +4180,7 @@ O my accursed womb, the bed of death!
 A cockatrice hast thou hatched to the world,
 Whose unavoided eye is murderous.
 
-<speaker>STANLEY,</speaker>
+<speaker>STANLEY</speaker>
 [<i>to Anne</i>]
 Come, madam, come. I in all haste was sent.
 
@@ -4233,7 +4233,7 @@ Farewell, thou woeful welcomer of glory.
 <speaker>ANNE</speaker>
 Adieu, poor soul that tak&rsquo;st thy leave of it.
 
-<speaker>DUCHESS,</speaker>
+<speaker>DUCHESS</speaker>
 [<i>to Dorset</i>]
 Go thou to Richmond, and good fortune guide thee.
 [<i>To Anne.</i>]
@@ -4320,11 +4320,11 @@ Before I positively speak in this.
 I will resolve you herein presently.
 [<i>Buckingham exits.</i>]
 
-<speaker>CATESBY,</speaker>
+<speaker>CATESBY</speaker>
 [<i>aside to the other Attendants</i>]
 The King is angry. See, he gnaws his lip.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 I will converse with iron-witted fools
 And unrespective boys. None are for me
@@ -4332,7 +4332,7 @@ That look into me with considerate eyes.
 High-reaching Buckingham grows circumspect.&mdash;
 Boy!
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>coming forward</i>]
   My lord?
 
@@ -4649,7 +4649,7 @@ And be not fixed in doom perpetual,
 Hover about me with your airy wings
 And hear your mother&rsquo;s lamentation.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Hover about her; say that right for right
 Hath dimmed your infant morn to aged night.
@@ -4659,7 +4659,7 @@ So many miseries have crazed my voice
 That my woe-wearied tongue is still and mute.
 Edward Plantagenet, why art thou dead?
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Plantagenet doth quit Plantagenet;
 Edward for Edward pays a dying debt.
@@ -4669,11 +4669,11 @@ Wilt thou, O God, fly from such gentle lambs
 And throw them in the entrails of the wolf?
 When didst thou sleep when such a deed was done?
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 When holy Harry died, and my sweet son.
 
-<speaker>DUCHESS,</speaker>
+<speaker>DUCHESS</speaker>
 [<i>to Queen Elizabeth</i>]
 Dead life, blind sight, poor mortal living ghost,
 Woe&rsquo;s scene, world&rsquo;s shame, grave&rsquo;s due by life
@@ -4682,14 +4682,14 @@ Brief abstract and record of tedious days,
 Rest thy unrest on England&rsquo;s lawful earth,
 Unlawfully made drunk with innocent blood.
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>as they both sit down</i>]
 Ah, that thou wouldst as soon afford a grave
 As thou canst yield a melancholy seat,
 Then would I hide my bones, not rest them here.
 Ah, who hath any cause to mourn but we?
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>coming forward</i>]
 If ancient sorrow be most reverend,
 Give mine the benefit of seigniory,
@@ -4720,7 +4720,7 @@ How do I thank thee that this carnal cur
 Preys on the issue of his mother&rsquo;s body
 And makes her pew-fellow with others&rsquo; moan!
 
-<speaker>DUCHESS,</speaker>
+<speaker>DUCHESS</speaker>
 [<i>standing</i>]
 O Harry&rsquo;s wife, triumph not in my woes!
 God witness with me, I have wept for thine.
@@ -4745,7 +4745,7 @@ To have him suddenly conveyed from hence.
 Cancel his bond of life, dear God I pray,
 That I may live and say "&ldquo;The dog is dead.&rdquo;"
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>standing</i>]
 O, thou didst prophesy the time would come
 That I should wish for thee to help me curse
@@ -4836,7 +4836,7 @@ O, she that might have intercepted thee,
 By strangling thee in her accursed womb,
 From all the slaughters, wretch, that thou hast done.
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>to Richard</i>]
 Hid&rsquo;st thou that forehead with a golden crown
 Where should be branded, if that right were right,
@@ -4844,16 +4844,16 @@ The slaughter of the prince that owed that crown
 And the dire death of my poor sons and brothers?
 Tell me, thou villain-slave, where are my children?
 
-<speaker>DUCHESS,</speaker>
+<speaker>DUCHESS</speaker>
 [<i>to Richard</i>]
 Thou toad, thou toad, where is thy brother Clarence,
 And little Ned Plantagenet his son?
 
-<speaker>QUEEN ELIZABETH,</speaker>
+<speaker>QUEEN ELIZABETH</speaker>
 [<i>to Richard</i>]
 Where is the gentle Rivers, Vaughan, Grey?
 
-<speaker>DUCHESS,</speaker>
+<speaker>DUCHESS</speaker>
 [<i>to Richard</i>]
   Where is kind Hastings?
 
@@ -5628,7 +5628,7 @@ And many other of great name and worth;
 And towards London do they bend their power,
 If by the way they be not fought withal.
 
-<speaker>STANLEY,</speaker>
+<speaker>STANLEY</speaker>
 [<i>giving Sir Christopher a paper</i>]
 Well, hie thee to thy lord. I kiss his hand.
 My letter will resolve him of my mind.
@@ -5945,7 +5945,7 @@ Sleeping and waking, O, defend me still!	[<i>Sleeps.</i>]
 [<i>Enter the Ghost of young Prince Edward, son to Harry
 the Sixth.</i>]
 
-<speaker>GHOST OF EDWARD,</speaker>
+<speaker>GHOST OF EDWARD</speaker>
 [<i>to Richard</i>]
 Let me sit heavy on thy soul tomorrow.
 Think how thou stabbed&rsquo;st me in my prime of
@@ -5960,7 +5960,7 @@ King Henry&rsquo;s issue, Richmond, comforts thee.
 
 [<i>Enter the Ghost of Henry the Sixth.</i>]
 
-<speaker>GHOST OF HENRY,</speaker>
+<speaker>GHOST OF HENRY</speaker>
 [<i>to Richard</i>]
 When I was mortal, my anointed body
 By thee was punched full of deadly holes.
@@ -5974,7 +5974,7 @@ Doth comfort thee in thy sleep. Live and flourish.
 
 [<i>Enter the Ghost of Clarence.</i>]
 
-<speaker>GHOST OF CLARENCE,</speaker>
+<speaker>GHOST OF CLARENCE</speaker>
 [<i>to Richard</i>]
 Let me sit heavy in thy soul tomorrow,
 I, that was washed to death with fulsome wine,
@@ -5990,21 +5990,21 @@ Good angels guard thy battle. Live and flourish.
 
 [<i>Enter the Ghosts of Rivers, Grey, and Vaughan.</i>]
 
-<speaker>GHOST OF RIVERS,</speaker>
+<speaker>GHOST OF RIVERS</speaker>
 [<i>to Richard</i>]
 Let me sit heavy in thy soul tomorrow,
 Rivers, that died at Pomfret. Despair and die!
 
-<speaker>GHOST OF GREY,</speaker>
+<speaker>GHOST OF GREY</speaker>
 [<i>to Richard</i>]
 Think upon Grey, and let thy soul despair!
 
-<speaker>GHOST OF VAUGHAN,</speaker>
+<speaker>GHOST OF VAUGHAN</speaker>
 [<i>to Richard</i>]
 Think upon Vaughan, and with guilty fear
 Let fall thy lance. Despair and die!
 
-<speaker>ALL,</speaker>
+<speaker>ALL</speaker>
 [<i>to Richmond</i>]
 Awake, and think our wrongs in Richard&rsquo;s bosom
 Will conquer him. Awake, and win the day.
@@ -6012,7 +6012,7 @@ Will conquer him. Awake, and win the day.
 
 [<i>Enter the Ghosts of the two young Princes.</i>]
 
-<speaker>GHOSTS OF PRINCES,</speaker>
+<speaker>GHOSTS OF PRINCES</speaker>
 [<i>to Richard</i>]
 Dream on thy cousins smothered in the Tower.
 Let us be lead within thy bosom, Richard,
@@ -6028,7 +6028,7 @@ Edward&rsquo;s unhappy sons do bid thee flourish.
 
 [<i>Enter the Ghost of Hastings.</i>]
 
-<speaker>GHOST OF HASTINGS,</speaker>
+<speaker>GHOST OF HASTINGS</speaker>
 [<i>to Richard</i>]
 Bloody and guilty, guiltily awake,
 And in a bloody battle end thy days.
@@ -6040,7 +6040,7 @@ Arm, fight, and conquer for fair England&rsquo;s sake.
 
 [<i>Enter the Ghost of Lady Anne his wife.</i>]
 
-<speaker>GHOST OF ANNE,</speaker>
+<speaker>GHOST OF ANNE</speaker>
 [<i>to Richard</i>]
 Richard, thy wife, that wretched Anne thy wife,
 That never slept a quiet hour with thee,
@@ -6055,7 +6055,7 @@ Thy adversary&rsquo;s wife doth pray for thee.	[<i>She exits.</i>]
 
 [<i>Enter the Ghost of Buckingham.</i>]
 
-<speaker>GHOST OF BUCKINGHAM,</speaker>
+<speaker>GHOST OF BUCKINGHAM</speaker>
 [<i>to Richard</i>]
 The first was I that helped thee to the crown;
 The last was I that felt thy tyranny.
@@ -6164,7 +6164,7 @@ How far into the morning is it, lords?
 
 A LORD  Upon the stroke of four.
 
-<speaker>RICHMOND,</speaker>
+<speaker>RICHMOND</speaker>
 [<i>leaving the tent</i>]
 Why, then &rsquo;tis time to arm and give direction.
 
@@ -6386,7 +6386,7 @@ with other Lords, and Soldiers.</i>]
 God and your arms be praised, victorious friends!
 The day is ours; the bloody dog is dead.
 
-<speaker>STANLEY,</speaker>
+<speaker>STANLEY</speaker>
 [<i>offering him the crown</i>]
 Courageous Richmond, well hast thou acquit thee.
 Lo, here this long-usurped royalty

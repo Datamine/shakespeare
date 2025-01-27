@@ -497,12 +497,12 @@ Bondslaves and pagans shall our statesmen be.
 <hr>
 [<i>Enter Duke, Senators, and Officers.</i>]
 
-<speaker>DUKE,</speaker>
+<speaker>DUKE</speaker>
 [<i>reading a paper</i>]
 There&rsquo;s no composition in these news
 That gives them credit.
 
-<speaker>FIRST SENATOR,</speaker>
+<speaker>FIRST SENATOR</speaker>
 [<i>reading a paper</i>]
 Indeed, they are disproportioned.
 My letters say a hundred and seven galleys.
@@ -510,7 +510,7 @@ My letters say a hundred and seven galleys.
 <speaker>DUKE</speaker>
 And mine, a hundred forty.
 
-<speaker>SECOND SENATOR,</speaker>
+<speaker>SECOND SENATOR</speaker>
 [<i>reading a paper</i>]
 And mine, two hundred.
 But though they jump not on a just account
@@ -524,7 +524,7 @@ I do not so secure me in the error,
 But the main article I do approve
 In fearful sense.
 
-<speaker>SAILOR,</speaker>
+<speaker>SAILOR</speaker>
 [<i>within</i>]
   What ho, what ho, what ho!
 
@@ -655,7 +655,7 @@ Hath hither brought.
 <speaker>ALL</speaker>
 We are very sorry for &rsquo;t.
 
-<speaker>DUKE,</speaker>
+<speaker>DUKE</speaker>
 [<i>to Othello</i>]
 What, in your own part, can you say to this?
 
@@ -1391,7 +1391,7 @@ Come on, assay.&mdash;There&rsquo;s one gone to the harbor?
 <speaker>IAGO</speaker>
 Ay, madam.
 
-<speaker>DESDEMONA,</speaker>
+<speaker>DESDEMONA</speaker>
 [<i>aside</i>]
 I am not merry, but I do beguile
 The thing I am by seeming otherwise.&mdash;
@@ -1468,7 +1468,7 @@ He speaks home, madam. You may relish him
 more in the soldier than in the scholar.
 [<i>Cassio takes Desdemona&rsquo;s hand.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>aside</i>]
   He takes her by the palm. Ay, well said,
 whisper. With as little a web as this will I ensnare as
@@ -1525,7 +1525,7 @@ It stops me here; it is too much of joy.	[<i>They kiss.</i>]
 And this, and this, the greatest discords be
 That e&rsquo;er our hearts shall make!
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>aside</i>]
   O, you are well tuned now,
 But I&rsquo;ll set down the pegs that make this music,
@@ -1547,7 +1547,7 @@ Does challenge much respect.&mdash;Come, Desdemona.
 Once more, well met at Cyprus.
 [<i>All but Iago and Roderigo exit.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to a departing Attendant</i>]
   Do thou meet me presently
 at the harbor. [<i>To Roderigo.</i>]
@@ -1916,7 +1916,7 @@ that I am drunk.	[<i>He exits.</i>]
 To th&rsquo; platform, masters. Come, let&rsquo;s set the watch.
 [<i>Gentlemen exit.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to Montano</i>]
 You see this fellow that is gone before?
 He&rsquo;s a soldier fit to stand by Caesar
@@ -1944,7 +1944,7 @@ And looks not on his evils. Is not this true?
 
 [<i>Enter Roderigo.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>aside to Roderigo</i>]
   How now, Roderigo?
 I pray you, after the Lieutenant, go.
@@ -1996,7 +1996,7 @@ Come, come, you&rsquo;re drunk.
 Drunk?
 [<i>They fight.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>aside to Roderigo</i>]
 Away, I say! Go out and cry a mutiny.
 [<i>Roderigo exits.</i>]
@@ -2961,7 +2961,7 @@ Farewell, farewell!
 If more thou dost perceive, let me know more.
 Set on thy wife to observe. Leave me, Iago.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>beginning to exit</i>]
   My lord, I take my leave.
 
@@ -2969,7 +2969,7 @@ Set on thy wife to observe. Leave me, Iago.
 Why did I marry? This honest creature doubtless
 Sees and knows more, much more, than he unfolds.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>returning</i>]
 My lord, I would I might entreat your Honor
 To scan this thing no farther. Leave it to time.
@@ -3045,7 +3045,7 @@ Come, I&rsquo;ll go in with you.
 I am very sorry that you are not well.
 [<i>Othello and Desdemona exit.</i>]
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>picking up the handkerchief</i>]
 I am glad I have found this napkin.
 This was her first remembrance from the Moor.
@@ -3103,7 +3103,7 @@ What will you do with &rsquo;t, that you have been so
 earnest
 To have me filch it?
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>snatching it</i>]
   Why, what is that to you?
 
@@ -3649,7 +3649,7 @@ They belch us.
 
 Look you&mdash;Cassio and my husband.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to Cassio</i>]
 There is no other way; &rsquo;tis she must do &rsquo;t,
 And, lo, the happiness! Go and importune her.
@@ -4044,7 +4044,7 @@ Ply Desdemona well, and you are sure on &rsquo;t.
 Now, if this suit lay in Bianca&rsquo;s power,
 How quickly should you speed!
 
-<speaker>CASSIO,</speaker>
+<speaker>CASSIO</speaker>
 [<i>laughing</i>]
   Alas, poor caitiff!
 
@@ -4181,7 +4181,7 @@ Prithee come. Will you?
 <speaker>IAGO</speaker>
 Go to; say no more. [<i>Cassio exits.</i>]
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>coming forward</i>]
   How shall I murder him,
 Iago?
@@ -4322,7 +4322,7 @@ Are you sure of that?
 <speaker>DESDEMONA</speaker>
 My lord?
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>reading</i>]
   "&ldquo;This fail you not to do, as you
 will"&mdash;
@@ -4367,7 +4367,7 @@ I am glad to see you mad.
 <speaker>DESDEMONA</speaker>
 Why, sweet Othello!
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>striking her</i>]
   Devil!
 
@@ -4396,7 +4396,7 @@ I do beseech your Lordship call her back.
 <speaker>OTHELLO</speaker>
 Mistress.
 
-<speaker>DESDEMONA,</speaker>
+<speaker>DESDEMONA</speaker>
 [<i>turning back</i>]
   My lord?
 
@@ -4540,7 +4540,7 @@ Let me see your eyes. Look in my face.
 <speaker>DESDEMONA</speaker>
 What horrible fancy&rsquo;s this?
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>to Emilia</i>]
   Some of your function,
 mistress.
@@ -4549,7 +4549,7 @@ Cough, or cry "&ldquo;hem,&rdquo;" if anybody come.
 Your mystery, your mystery! Nay, dispatch.
 [<i>Emilia exits.</i>]
 
-<speaker>DESDEMONA,</speaker>
+<speaker>DESDEMONA</speaker>
 [<i>kneeling</i>]
 Upon my knees, what doth your speech import?
 I understand a fury in your words,
@@ -4574,7 +4574,7 @@ Heaven doth truly know it.
 <speaker>OTHELLO</speaker>
 Heaven truly knows that thou art false as hell.
 
-<speaker>DESDEMONA,</speaker>
+<speaker>DESDEMONA</speaker>
 [<i>standing</i>]
 To whom, my lord? With whom? How am I false?
 
@@ -5068,7 +5068,7 @@ He speaks well.
 I know a lady in Venice would have walked
 barefoot to Palestine for a touch of his nether lip.
 
-<speaker>DESDEMONA,</speaker>
+<speaker>DESDEMONA</speaker>
 [<i>singing</i>]
 	The poor soul sat sighing by a sycamore tree,
 	   Sing all a green willow.
@@ -5209,7 +5209,7 @@ And yet he hath given me satisfying reasons.
 &rsquo;Tis but a man gone. Forth, my sword! He dies.
 [<i>He draws his sword.</i>]
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>aside</i>]
 I have rubbed this young quat almost to the sense,
 And he grows angry. Now, whether he kill Cassio,
@@ -5252,14 +5252,14 @@ The voice of Cassio! Iago keeps his word.
 <speaker>RODERIGO</speaker>
 O, villain that I am!
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>aside</i>]
   It is even so.
 
 <speaker>CASSIO</speaker>
 O, help ho! Light! A surgeon!
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>aside</i>]
 &rsquo;Tis he! O brave Iago, honest and just,
 That hast such noble sense of thy friend&rsquo;s wrong!
@@ -5320,14 +5320,14 @@ Here, here! For heaven&rsquo;s sake, help me!
 <speaker>IAGO</speaker>
 What&rsquo;s the matter?
 
-<speaker>GRATIANO,</speaker>
+<speaker>GRATIANO</speaker>
 [<i>to Lodovico</i>]
 This is Othello&rsquo;s ancient, as I take it.
 
 <speaker>LODOVICO</speaker>
 The same indeed, a very valiant fellow.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to Cassio</i>]
 What are you here that cry so grievously?
 
@@ -5354,7 +5354,7 @@ O, help me here!
 <speaker>CASSIO</speaker>
 That&rsquo;s one of them.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to Roderigo</i>]
   O murd&rsquo;rous slave! O villain!
 [<i>He stabs Roderigo.</i>]
@@ -5468,7 +5468,7 @@ Was my dear friend. What malice was between you?
 <speaker>CASSIO</speaker>
 None in the world. Nor do I know the man.
 
-<speaker>IAGO,</speaker>
+<speaker>IAGO</speaker>
 [<i>to Bianca</i>]
 What, look you pale?&mdash;O, bear him out o&rsquo; th&rsquo; air.
 [<i>Cassio, in the chair, and Roderigo are carried off.</i>]
@@ -5741,7 +5741,7 @@ But while I say one prayer!
 It is too late.
 [<i>He smothers her.</i>]
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>within</i>]
 My lord, my lord? What ho! My lord, my lord!
 
@@ -5751,7 +5751,7 @@ I that am cruel am yet merciful.
 I would not have thee linger in thy pain.
 So, so.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>within</i>]
   What, ho! My lord, my lord!
 
@@ -5759,7 +5759,7 @@ So, so.
 Who&rsquo;s
 there?
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>within</i>]
 O, good my lord, I would speak a word with you.
 
@@ -5776,7 +5776,7 @@ Methinks it should be now a huge eclipse
 Of sun and moon, and that th&rsquo; affrighted globe
 Should yawn at alteration.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>within</i>]
   I do beseech you
 That I may speak with you. O, good my lord&mdash;
@@ -5958,7 +5958,7 @@ That men must lay their murders on your neck.
 <speaker>GRATIANO</speaker>
 What is the matter?
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Iago</i>]
 Disprove this villain, if thou be&rsquo;st a man.
 He says thou told&rsquo;st him that his wife was false.
@@ -5990,7 +5990,7 @@ My mistress here lies murdered in her bed.
 <speaker>ALL</speaker>
 O heavens forfend!
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Iago</i>]
 And your reports have set the murder on!
 
@@ -6025,7 +6025,7 @@ Nay, lay thee down, and roar!
 For thou hast killed the sweetest innocent
 That e&rsquo;er did lift up eye.
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>standing</i>]
   O, she was foul!&mdash;
 I scarce did know you, uncle. There lies your niece,
@@ -6142,7 +6142,7 @@ I have another weapon in this chamber.
 It is a sword of Spain, the ice brook&rsquo;s temper.
 O, here it is.&mdash;Uncle, I must come forth.
 
-<speaker>GRATIANO,</speaker>
+<speaker>GRATIANO</speaker>
 [<i>within</i>]
 If thou attempt it, it will cost thee dear;
 Thou hast no weapon and perforce must suffer.
@@ -6295,7 +6295,7 @@ That I was cast. And even but now he spake,
 After long seeming dead: Iago hurt him,
 Iago set him on.
 
-<speaker>LODOVICO,</speaker>
+<speaker>LODOVICO</speaker>
 [<i>to Othello</i>]
 You must forsake this room and go with us.
 Your power and your command is taken off,
@@ -6335,7 +6335,7 @@ O bloody period!
 <speaker>GRATIANO</speaker>
 All that is spoke is marred.
 
-<speaker>OTHELLO,</speaker>
+<speaker>OTHELLO</speaker>
 [<i>to Desdemona</i>]
 I kissed thee ere I killed thee. No way but this,
 Killing myself, to die upon a kiss.	[<i>He dies.</i>]
@@ -6344,7 +6344,7 @@ Killing myself, to die upon a kiss.	[<i>He dies.</i>]
 This did I fear, but thought he had no weapon,
 For he was great of heart.
 
-<speaker>LODOVICO,</speaker>
+<speaker>LODOVICO</speaker>
 [<i>to Iago</i>]
   O Spartan dog,
 More fell than anguish, hunger, or the sea,

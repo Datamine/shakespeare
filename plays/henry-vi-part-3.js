@@ -726,7 +726,7 @@ Ah, Clifford, murder not this innocent child,
 Lest thou be hated both of God and man.
 [<i>He exits, dragged off by Soldiers.</i>]
 
-<speaker>CLIFFORD,</speaker>
+<speaker>CLIFFORD</speaker>
 [<i>approaching Rutland</i>]
 How now? Is he dead already? Or is it fear
 That makes him close his eyes? I&rsquo;ll open them.
@@ -900,7 +900,7 @@ So triumph thieves upon their conquered booty;
 So true men yield with robbers, so o&rsquo;ermatched.
 [<i>York is overcome.</i>]
 
-<speaker>NORTHUMBERLAND,</speaker>
+<speaker>NORTHUMBERLAND</speaker>
 [<i>to Queen Margaret</i>]
 What would your Grace have done unto him now?
 
@@ -1003,7 +1003,7 @@ And every drop cries vengeance for his death
 &rsquo;Gainst thee, fell Clifford, and thee, false
 Frenchwoman!
 
-<speaker>NORTHUMBERLAND,</speaker>
+<speaker>NORTHUMBERLAND</speaker>
 [<i>aside</i>]
 Beshrew me, but his passions moves me so
 That hardly can I check my eyes from tears.
@@ -1041,11 +1041,11 @@ What, weeping ripe, my Lord Northumberland?
 Think but upon the wrong he did us all,
 And that will quickly dry thy melting tears.
 
-<speaker>CLIFFORD,</speaker>
+<speaker>CLIFFORD</speaker>
 [<i>stabbing York twice</i>]
 Here&rsquo;s for my oath; here&rsquo;s for my father&rsquo;s death!
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>stabbing York</i>]
 And here&rsquo;s to right our gentle-hearted king.
 
@@ -1356,7 +1356,7 @@ Clifford, Northumberland, and young Prince Edward,
 all wearing the red rose with Drum and Trumpets,
 the head of York fixed above them.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>to King Henry</i>]
 Welcome, my lord, to this brave town of York.
 Yonder&rsquo;s the head of that arch-enemy
@@ -1427,12 +1427,12 @@ You promised knighthood to our forward son.
 Unsheathe your sword and dub him presently.&mdash;
 Edward, kneel down.	[<i>He kneels.</i>]
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>dubbing him knight</i>]
 Edward Plantagenet, arise a knight,
 And learn this lesson: draw thy sword in right.
 
-<speaker>PRINCE EDWARD,</speaker>
+<speaker>PRINCE EDWARD</speaker>
 [<i>rising</i>]
 My gracious father, by your kingly leave,
 I&rsquo;ll draw it as apparent to the crown
@@ -1648,7 +1648,7 @@ These words will cost ten thousand lives this day.
 [<i>Alarum. Excursions. Enter Warwick,
 wearing the white rose.</i>]
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>lying down</i>]
 Forspent with toil, as runners with a race,
 I lay me down a little while to breathe,
@@ -1664,7 +1664,7 @@ For this world frowns and Edward&rsquo;s sun is clouded.
 
 [<i>Enter George, wearing the white rose.</i>]
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>standing</i>]
 How now, my lord, what hap? What hope of good?
 
@@ -2168,7 +2168,7 @@ No humble suitors press to speak for right,
 No, not a man comes for redress of thee;
 For how can I help them an not myself?
 
-<speaker>FIRST GAMEKEEPER,</speaker>
+<speaker>FIRST GAMEKEEPER</speaker>
 [<i>aside to Second Gamekeeper</i>]
 Ay, here&rsquo;s a deer whose skin&rsquo;s a keeper&rsquo;s fee.
 This is the quondam king. Let&rsquo;s seize upon him.
@@ -2177,11 +2177,11 @@ This is the quondam king. Let&rsquo;s seize upon him.
 Let me embrace the sour adversaries,
 For wise men say it is the wisest course.
 
-<speaker>SECOND GAMEKEEPER,</speaker>
+<speaker>SECOND GAMEKEEPER</speaker>
 [<i>aside to First Gamekeeper</i>]
 Why linger we? Let us lay hands upon him.
 
-<speaker>FIRST GAMEKEEPER,</speaker>
+<speaker>FIRST GAMEKEEPER</speaker>
 [<i>aside to Second Gamekeeper</i>]
 Forbear awhile; we&rsquo;ll hear a little more.
 
@@ -2319,17 +2319,17 @@ It were dishonor to deny it her.
 <speaker>KING EDWARD</speaker>
 It were no less, but yet I&rsquo;ll make a pause.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
   Yea, is it so?
 I see the lady hath a thing to grant
 Before the King will grant her humble suit.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>formerly GEORGE, aside to Richard</i>]
 He knows the game; how true he keeps the wind!
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
   Silence!
 
@@ -2342,35 +2342,35 @@ Right gracious lord, I cannot brook delay.
 May it please your Highness to resolve me now,
 And what your pleasure is shall satisfy me.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 Ay, widow? Then I&rsquo;ll warrant you all your lands,
 An if what pleases him shall pleasure you.
 Fight closer, or, good faith, you&rsquo;ll catch a blow.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside to Richard</i>]
 I fear her not, unless she chance to fall.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 God forbid that, for he&rsquo;ll take vantages.
 
 <speaker>KING EDWARD</speaker>
 How many children hast thou, widow? Tell me.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside to Richard</i>]
 I think he means to beg a child of her.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 Nay, then, whip me; he&rsquo;ll rather give her two.
 
 <speaker>LADY GREY</speaker>
 Three, my most gracious lord.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 You shall have four if you&rsquo;ll be ruled by him.
 
@@ -2384,7 +2384,7 @@ Be pitiful, dread lord, and grant it then.
 Lords, give us leave. I&rsquo;ll try this widow&rsquo;s wit.
 [<i>Richard and Clarence stand aside.</i>]
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 Ay, good leave have you, for you will have leave
 Till youth take leave and leave you to the crutch.
@@ -2431,11 +2431,11 @@ Ay, but thou canst do what I mean to ask.
 <speaker>LADY GREY</speaker>
 Why, then, I will do what your Grace commands.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 He plies her hard, and much rain wears the marble.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside to Richard</i>]
 As red as fire! Nay, then, her wax must melt.
 
@@ -2455,7 +2455,7 @@ Why, then, thy husband&rsquo;s lands I freely give thee.
 I take my leave with many thousand thanks.
 [<i>She curtsies and begins to exit.</i>]
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 The match is made; she seals it with a cursy.
 
@@ -2515,15 +2515,15 @@ No, if thou dost say "&ldquo;no&rdquo;" to my demand.
 <speaker>LADY GREY</speaker>
 Then no, my lord; my suit is at an end.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 The widow likes him not; she knits her brows.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside to Richard</i>]
 He is the bluntest wooer in Christendom.
 
-<speaker>KING EDWARD,</speaker>
+<speaker>KING EDWARD</speaker>
 [<i>aside</i>]
 Her looks doth argue her replete with modesty;
 Her words doth show her wit incomparable;
@@ -2562,11 +2562,11 @@ Have other some. Why, &rsquo;tis a happy thing
 To be the father unto many sons.
 Answer no more, for thou shalt be my queen.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside to Clarence</i>]
 The ghostly father now hath done his shrift.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside to Richard</i>]
 When he was made a shriver, &rsquo;twas for shift.
 
@@ -2772,12 +2772,12 @@ What&rsquo;s he approacheth boldly to our presence?
 <speaker>QUEEN MARGARET</speaker>
 Our Earl of Warwick, Edward&rsquo;s greatest friend.
 
-<speaker>KING LEWIS,</speaker>
+<speaker>KING LEWIS</speaker>
 [<i>standing</i>]
 Welcome, brave Warwick. What brings thee to France?
 [<i>He descends. She ariseth.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Ay, now begins a second storm to rise,
 For this is he that moves both wind and tide.
@@ -2793,11 +2793,11 @@ With nuptial knot, if thou vouchsafe to grant
 That virtuous Lady Bona, thy fair sister,
 To England&rsquo;s king in lawful marriage.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 If that go forward, Henry&rsquo;s hope is done.
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>speaking to Lady Bona</i>]
 And, gracious madam, in our king&rsquo;s behalf,
 I am commanded, with your leave and favor,
@@ -2878,7 +2878,7 @@ Vouchsafe, at our request, to stand aside
 While I use further conference with Warwick.
 [<i>They stand aloof.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Heavens grant that Warwick&rsquo;s words bewitch him
 not.
@@ -2979,12 +2979,12 @@ Sent from your brother, Marquess Montague.
  And, madam, these for you&mdash;from
 whom, I know not.	[<i>They all read their letters.</i>]
 
-<speaker>OXFORD,</speaker>
+<speaker>OXFORD</speaker>
 [<i>aside</i>]
 I like it well that our fair queen and mistress
 Smiles at her news, while Warwick frowns at his.
 
-<speaker>PRINCE EDWARD,</speaker>
+<speaker>PRINCE EDWARD</speaker>
 [<i>aside</i>]
 Nay, mark how Lewis stamps as he were nettled.
 I hope all&rsquo;s for the best.
@@ -3290,7 +3290,7 @@ Unless they seek for hatred at my hands;
 Which if they do, yet will I keep thee safe,
 And they shall feel the vengeance of my wrath.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 I hear, yet say not much, but think the more.
 
@@ -3357,7 +3357,7 @@ friendship
 That young Prince Edward marries Warwick&rsquo;s
 daughter.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>aside</i>]
 Belike the elder; Clarence will have the younger.&mdash;
 Now, brother king, farewell, and sit you fast,
@@ -3367,7 +3367,7 @@ I may not prove inferior to yourself.
 You that love me and Warwick, follow me.
 [<i>Clarence exits, and Somerset follows.</i>]
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 Not I. My thoughts aim at a further matter:
 I stay not for the love of Edward, but the crown.
@@ -3826,7 +3826,7 @@ Of whom you seem to have so tender care?
 <speaker>SOMERSET</speaker>
 My liege, it is young Henry, Earl of Richmond.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Richmond</i>]
 Come hither, England&rsquo;s hope.
 [<i>Lays his hand on Richmond&rsquo;s head.</i>]
@@ -3865,7 +3865,7 @@ But let us hence, my sovereign, to provide
 A salve for any sore that may betide.
 [<i>All but Somerset, Richmond, and Oxford exit.</i>]
 
-<speaker>SOMERSET,</speaker>
+<speaker>SOMERSET</speaker>
 [<i>to Oxford</i>]
 My lord, I like not of this flight of Edward&rsquo;s,
 For doubtless Burgundy will yield him help,
@@ -3938,7 +3938,7 @@ True, my good lord, I know you for no less.
 Why, and I challenge nothing but my dukedom,
 As being well content with that alone.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 But when the fox hath once got in his nose,
 He&rsquo;ll soon find means to make the body follow.
@@ -4627,7 +4627,7 @@ Here pitch our battle; hence we will not budge.
 [<i>Flourish, and march. Enter King Edward, Richard,
 Clarence, and Soldiers, all wearing the white rose.</i>]
 
-<speaker>KING EDWARD,</speaker>
+<speaker>KING EDWARD</speaker>
 [<i>to his army</i>]
 Brave followers, yonder stands the thorny wood
 Which by the heavens&rsquo; assistance and your strength
@@ -4636,7 +4636,7 @@ I need not add more fuel to your fire,
 For, well I wot, you blaze to burn them out.
 Give signal to the fight, and to it, lords!
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>to her army</i>]
 Lords, knights, and gentlemen, what I should say
 My tears gainsay, for every word I speak
@@ -4724,7 +4724,7 @@ Nay, take away this scolding crookback, rather.
 <speaker>KING EDWARD</speaker>
 Peace, willful boy, or I will charm your tongue.
 
-<speaker>CLARENCE,</speaker>
+<speaker>CLARENCE</speaker>
 [<i>to Prince Edward</i>]
 Untutored lad, thou art too malapert.
 
@@ -4763,7 +4763,7 @@ Why should she live to fill the world with words?
 What, doth she swoon? Use means for her recovery.
 [<i>They attempt to revive her.</i>]
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>taking Clarence aside</i>]
 Clarence, excuse me to the King my brother.
 I&rsquo;ll hence to London on a serious matter.
@@ -4775,7 +4775,7 @@ What? What?
 <speaker>RICHARD</speaker>
 The Tower, the Tower! [<i>He exits.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>rising from her swoon</i>]
 O Ned, sweet Ned, speak to thy mother, boy.
 Canst thou not speak? O traitors, murderers!
@@ -4861,7 +4861,7 @@ Ay, my good lord&mdash;"my lord,&rdquo;" I should say rather.
 "&ldquo;Good Gloucester&rdquo;" and "&ldquo;good devil&rdquo;" were alike,
 And both preposterous: therefore, not "&ldquo;good lord.&rdquo;"
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>to Lieutenant</i>]
 Sirrah, leave us to ourselves; we must confer.
 [<i>Lieutenant exits.</i>]
@@ -5011,7 +5011,7 @@ Went all afoot in summer&rsquo;s scalding heat,
 That thou mightst repossess the crown in peace,
 And of our labors thou shalt reap the gain.
 
-<speaker>RICHARD,</speaker>
+<speaker>RICHARD</speaker>
 [<i>aside</i>]
 I&rsquo;ll blast his harvest, if your head were laid;
 For yet I am not looked on in the world.

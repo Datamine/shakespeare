@@ -486,7 +486,7 @@ In good time!
 
 [<i>Enter Benvolio and Romeo.</i>]
 
-<speaker>BENVOLIO,</speaker>
+<speaker>BENVOLIO</speaker>
 [<i>to Romeo</i>]
 Tut, man, one fire burns out another&rsquo;s burning;
 One pain is lessened by another&rsquo;s anguish.
@@ -1036,7 +1036,7 @@ His son is thirty.
 Will you tell me that?
 His son was but a ward two years ago.
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>to a Servingman</i>]
 What lady&rsquo;s that which doth enrich the hand
 Of yonder knight?
@@ -1122,7 +1122,7 @@ I will withdraw, but this intrusion shall,
 Now seeming sweet, convert to bitt&rsquo;rest gall.
 [<i>He exits.</i>]
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>taking Juliet&rsquo;s hand</i>]
 If I profane with my unworthiest hand
 This holy shrine, the gentle sin is this:
@@ -1178,7 +1178,7 @@ I nursed her daughter that you talked withal.
 I tell you, he that can lay hold of her
 Shall have the chinks.	[<i>Nurse moves away.</i>]
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>aside</i>]
   Is she a Capulet?
 O dear account! My life is my foe&rsquo;s debt.
@@ -1222,7 +1222,7 @@ Go ask his name. [<i>The Nurse goes.</i>]
  If he be married,
 My grave is like to be my wedding bed.
 
-<speaker>NURSE,</speaker>
+<speaker>NURSE</speaker>
 [<i>returning</i>]
 His name is Romeo, and a Montague,
 The only son of your great enemy.
@@ -1380,7 +1380,7 @@ That I might touch that cheek!
 <speaker>JULIET</speaker>
 Ay me.
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>aside</i>]
   She speaks.
 O, speak again, bright angel, for thou art
@@ -1397,7 +1397,7 @@ Deny thy father and refuse thy name,
 Or, if thou wilt not, be but sworn my love,
 And I&rsquo;ll no longer be a Capulet.
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>aside</i>]
 Shall I hear more, or shall I speak at this?
 
@@ -1577,7 +1577,7 @@ Where and what time thou wilt perform the rite,
 And all my fortunes at thy foot I&rsquo;ll lay
 And follow thee my lord throughout the world.
 
-<speaker>NURSE,</speaker>
+<speaker>NURSE</speaker>
 [<i>within</i>]
   Madam.
 
@@ -1585,7 +1585,7 @@ And follow thee my lord throughout the world.
 I come anon.&mdash;But if thou meanest not well,
 I do beseech thee&mdash;
 
-<speaker>NURSE,</speaker>
+<speaker>NURSE</speaker>
 [<i>within</i>]
   Madam.
 
@@ -2493,7 +2493,7 @@ By my head, here comes the Capulets.
 <speaker>MERCUTIO</speaker>
 By my heel, I care not.
 
-<speaker>TYBALT,</speaker>
+<speaker>TYBALT</speaker>
 [<i>to his companions</i>]
 Follow me close, for I will speak to them.&mdash;
 Gentlemen, good e&rsquo;en. A word with one of you.
@@ -2701,7 +2701,7 @@ Tybalt, that murderer, which way ran he?
 <speaker>BENVOLIO</speaker>
 There lies that Tybalt.
 
-<speaker>CITIZEN,</speaker>
+<speaker>CITIZEN</speaker>
 [<i>to Tybalt</i>]
   Up, sir, go with me.
 I charge thee in the Prince&rsquo;s name, obey.
@@ -3137,12 +3137,12 @@ What simpleness is this?&mdash;I come, I come.
 Who knocks so hard? Whence come you? What&rsquo;s
 your will?
 
-<speaker>NURSE,</speaker>
+<speaker>NURSE</speaker>
 [<i>within</i>]
 Let me come in, and you shall know my errand.
 I come from Lady Juliet.
 
-<speaker>FRIAR LAWRENCE,</speaker>
+<speaker>FRIAR LAWRENCE</speaker>
 [<i>admitting the Nurse</i>]
 Welcome, then.
 
@@ -3171,7 +3171,7 @@ Nurse.
 <speaker>NURSE</speaker>
 Ah sir, ah sir, death&rsquo;s the end of all.
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>rising up</i>]
 Spakest thou of Juliet? How is it with her?
 Doth not she think me an old murderer,
@@ -3494,7 +3494,7 @@ What villain, madam?
 <speaker>LADY CAPULET</speaker>
 That same villain, Romeo.
 
-<speaker>JULIET,</speaker>
+<speaker>JULIET</speaker>
 [<i>aside</i>]
 Villain and he be many miles asunder.&mdash;
 God pardon him. I do with all my heart,
@@ -3611,7 +3611,7 @@ You tallow face!
 <speaker>LADY CAPULET</speaker>
 Fie, fie, what, are you mad?
 
-<speaker>JULIET,</speaker>
+<speaker>JULIET</speaker>
 [<i>kneeling</i>]
 Good father, I beseech you on my knees,
 Hear me with patience but to speak a word.
@@ -3690,7 +3690,7 @@ Talk not to me, for I&rsquo;ll not speak a word.
 Do as thou wilt, for I have done with thee.
 [<i>She exits.</i>]
 
-<speaker>JULIET,</speaker>
+<speaker>JULIET</speaker>
 [<i>rising</i>]
 O God! O nurse, how shall this be prevented?
 My husband is on Earth, my faith in heaven.
@@ -3778,7 +3778,7 @@ Which, too much minded by herself alone,
 May be put from her by society.
 Now do you know the reason of this haste.
 
-<speaker>FRIAR LAWRENCE,</speaker>
+<speaker>FRIAR LAWRENCE</speaker>
 [<i>aside</i>]
 I would I knew not why it should be slowed.&mdash;
 Look, sir, here comes the lady toward my cell.
@@ -3945,7 +3945,7 @@ Abate thy valor in the acting it.
 <speaker>JULIET</speaker>
 Give me, give me! O, tell not me of fear!
 
-<speaker>FRIAR LAWRENCE,</speaker>
+<speaker>FRIAR LAWRENCE</speaker>
 [<i>giving Juliet the vial</i>]
 Hold, get you gone. Be strong and prosperous
 In this resolve. I&rsquo;ll send a friar with speed
@@ -4208,7 +4208,7 @@ Make haste, I say.
 <b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
 
-<speaker>NURSE,</speaker>
+<speaker>NURSE</speaker>
 [<i>approaching the bed</i>]
 Mistress! What, mistress! Juliet!&mdash;Fast, I warrant
 her, she&mdash;
@@ -4590,13 +4590,13 @@ My poverty, but not my will, consents.
 <speaker>ROMEO</speaker>
 I pay thy poverty and not thy will.
 
-<speaker>APOTHECARY,</speaker>
+<speaker>APOTHECARY</speaker>
 [<i>giving him the poison</i>]
 Put this in any liquid thing you will
 And drink it off, and if you had the strength
 Of twenty men, it would dispatch you straight.
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>handing him the money</i>]
 There is thy gold, worse poison to men&rsquo;s souls,
 Doing more murder in this loathsome world
@@ -4678,13 +4678,13 @@ But thou shalt hear it. Whistle then to me
 As signal that thou hearest something approach.
 Give me those flowers. Do as I bid thee. Go.
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>aside</i>]
 I am almost afraid to stand alone
 Here in the churchyard. Yet I will adventure.
 [<i>He moves away from Paris.</i>]
 
-<speaker>PARIS,</speaker>
+<speaker>PARIS</speaker>
 [<i>scattering flowers</i>]
 Sweet flower, with flowers thy bridal bed I strew
 <speaker>(O</speaker>
@@ -4730,13 +4730,13 @@ So shalt thou show me friendship. Take thou that.
 [<i>Giving money.</i>]
 Live and be prosperous, and farewell, good fellow.
 
-<speaker>BALTHASAR,</speaker>
+<speaker>BALTHASAR</speaker>
 [<i>aside</i>]
 For all this same, I&rsquo;ll hide me hereabout.
 His looks I fear, and his intents I doubt.
 [<i>He steps aside.</i>]
 
-<speaker>ROMEO,</speaker>
+<speaker>ROMEO</speaker>
 [<i>beginning to force open the tomb</i>]
 Thou detestable maw, thou womb of death,
 Gorged with the dearest morsel of the earth,
@@ -4886,7 +4886,7 @@ As I did sleep under this yew tree here,
 I dreamt my master and another fought,
 And that my master slew him.
 
-<speaker>FRIAR LAWRENCE,</speaker>
+<speaker>FRIAR LAWRENCE</speaker>
 [<i>moving toward the tomb</i>]
 Romeo!&mdash;
 Alack, alack, what blood is this which stains
@@ -5029,7 +5029,7 @@ What further woe conspires against mine age?
 <speaker>PRINCE</speaker>
 Look, and thou shalt see.
 
-<speaker>MONTAGUE,</speaker>
+<speaker>MONTAGUE</speaker>
 [<i>seeing Romeo dead</i>]
 O thou untaught! What manners is in this,
 To press before thy father to a grave?

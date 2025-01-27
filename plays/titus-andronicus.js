@@ -852,11 +852,11 @@ To serve and to deserve my mistress&rsquo; grace,
 And that my sword upon thee shall approve
 And plead my passions for Lavinia&rsquo;s love.
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>aside</i>]
 Clubs, clubs! These lovers will not keep the peace.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to Chiron</i>]
 Why, boy, although our mother, unadvised,
 Gave you a dancing rapier by your side,
@@ -939,7 +939,7 @@ Of a cut loaf to steal a shive, we know.
 Though Bassianus be the Emperor&rsquo;s brother,
 Better than he have worn Vulcan&rsquo;s badge.
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>aside</i>]
 Ay, and as good as Saturninus may.
 
@@ -1066,7 +1066,7 @@ And climb the highest promontory top.
 And I have horse will follow where the game
 Makes way and runs like swallows o&rsquo;er the plain.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>aside to Chiron</i>]
 Chiron, we hunt not, we, with horse nor hound,
 But hope to pluck a dainty doe to ground.
@@ -1230,11 +1230,11 @@ This vengeance on me had they executed.
 Revenge it as you love your mother&rsquo;s life,
 Or be you not henceforth called my children.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>drawing his dagger</i>]
 This is a witness that I am thy son.
 
-<speaker>CHIRON,</speaker>
+<speaker>CHIRON</speaker>
 [<i>drawing his dagger</i>]
 And this for me, struck home to show my strength.
 [<i>They stab Bassianus.</i>]
@@ -1278,7 +1278,7 @@ I will not hear her speak. Away with her.
 <speaker>LAVINIA</speaker>
 Sweet lords, entreat her hear me but a word.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to Tamora</i>]
 Listen, fair madam. Let it be your glory
 To see her tears, but be your heart to them
@@ -1344,11 +1344,11 @@ Do this, and be a charitable murderer.
 So should I rob my sweet sons of their fee.
 No, let them satisfy their lust on thee.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to Lavinia</i>]
 Away, for thou hast stayed us here too long!
 
-<speaker>LAVINIA,</speaker>
+<speaker>LAVINIA</speaker>
 [<i>to Tamora</i>]
 No grace, no womanhood? Ah, beastly creature,
 The blot and enemy to our general name,
@@ -1397,7 +1397,7 @@ Speak, brother! Hast thou hurt thee with the fall?
 O, brother, with the dismal&rsquo;st object hurt
 That ever eye with sight made heart lament!
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>aside</i>]
 Now will I fetch the King to find them here,
 That he thereby may have a likely guess
@@ -1446,7 +1446,7 @@ If fear hath made thee faint as me it hath&mdash;
 Out of this fell devouring receptacle,
 As hateful as Cocytus&rsquo; misty mouth.
 
-<speaker>QUINTUS,</speaker>
+<speaker>QUINTUS</speaker>
 [<i>reaching into the pit</i>]
 Reach me thy hand, that I may help thee out,
 Or, wanting strength to do thee so much good,
@@ -1528,7 +1528,7 @@ That should have murdered Bassianus here.
 <speaker>AARON</speaker>
 My gracious lord, here is the bag of gold.
 
-<speaker>SATURNINUS,</speaker>
+<speaker>SATURNINUS</speaker>
 [<i>to Titus</i>]
 Two of thy whelps, fell curs of bloody kind,
 Have here bereft my brother of his life.&mdash;
@@ -1542,7 +1542,7 @@ How easily murder is discovered.
 [<i>Attendants pull Quintus, Martius, and
 the body of Bassianus from the pit.</i>]
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>kneeling</i>]
 High Emperor, upon my feeble knee
 I beg this boon with tears not lightly shed,
@@ -1573,7 +1573,7 @@ That end upon them should be executed.
 Andronicus, I will entreat the King.
 Fear not thy sons; they shall do well enough.
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>rising</i>]
 Come, Lucius, come. Stay not to talk with them.
 [<i>They exit, with Attendants leading Martius and
@@ -1596,7 +1596,7 @@ An if thy stumps will let thee play the scribe.
 <speaker>DEMETRIUS</speaker>
 See how with signs and tokens she can scrowl.
 
-<speaker>CHIRON,</speaker>
+<speaker>CHIRON</speaker>
 [<i>to Lavinia</i>]
 Go home. Call for sweet water; wash thy hands.
 
@@ -1739,7 +1739,7 @@ To rescue my two brothers from their death,
 For which attempt the Judges have pronounced
 My everlasting doom of banishment.
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>rising</i>]
 O happy man, they have befriended thee!
 Why, foolish Lucius, dost thou not perceive
@@ -1948,7 +1948,7 @@ But I will use the ax. [<i>Lucius and Marcus exit.</i>]
 Come hither, Aaron. I&rsquo;ll deceive them both.
 Lend me thy hand, and I will give thee mine.
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>aside</i>]
 If that be called deceit, I will be honest
 And never whilst I live deceive men so.
@@ -2170,7 +2170,7 @@ Nor wink, nor nod, nor kneel, nor make a sign,
 But I of these will wrest an alphabet
 And by still practice learn to know thy meaning.
 
-<speaker>YOUNG LUCIUS,</speaker>
+<speaker>YOUNG LUCIUS</speaker>
 [<i>weeping</i>]
 Good grandsire, leave these bitter deep laments.
 Make my aunt merry with some pleasing tale.
@@ -2469,7 +2469,7 @@ I greet your Honors from Andronicus&mdash;
 <speaker>DEMETRIUS</speaker>
 Gramercy, lovely Lucius. What&rsquo;s the news?
 
-<speaker>YOUNG LUCIUS,</speaker>
+<speaker>YOUNG LUCIUS</speaker>
 [<i>aside</i>]
 That you are both deciphered, that&rsquo;s the news,
 For villains marked with rape.&mdash;May it please you,
@@ -2537,7 +2537,7 @@ And that would she, for twenty thousand more.
 Come, let us go and pray to all the gods
 For our beloved mother in her pains.
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>aside</i>]
 Pray to the devils; the gods have given us over.
 [<i>Trumpets sound offstage.</i>]
@@ -2636,7 +2636,7 @@ Do execution on my flesh and blood.
 I&rsquo;ll broach the tadpole on my rapier&rsquo;s point.
 Nurse, give it me. My sword shall soon dispatch it.
 
-<speaker>AARON,</speaker>
+<speaker>AARON</speaker>
 [<i>taking the baby</i>]
 Sooner this sword shall plow thy bowels up!
 Stay, murderous villains, will you kill your brother?
@@ -2707,7 +2707,7 @@ Then sit we down, and let us all consult.
 My son and I will have the wind of you.
 Keep there. Now talk at pleasure of your safety.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to the Nurse</i>]
 How many women saw this child of his?
 
@@ -2930,7 +2930,7 @@ my pigeons to the tribunal plebs, to take up a matter
 of brawl betwixt my uncle and one of the Emperal&rsquo;s
 men.
 
-<speaker>MARCUS,</speaker>
+<speaker>MARCUS</speaker>
 [<i>to Titus</i>]
   Why, sir, that is as fit as can be to
 serve for your oration; and let him deliver the pigeons
@@ -3558,7 +3558,7 @@ And I am sent to be revenged on him.
 Show me a thousand that hath done thee wrong,
 And I will be revenged on them all.
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>to Demetrius</i>]
 Look round about the wicked streets of Rome,
 And when thou findst a man that&rsquo;s like thyself,
@@ -3590,7 +3590,7 @@ And at thy mercy shall they stoop and kneel,
 And on them shalt thou ease thy angry heart.
 What says Andronicus to this device?
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>calling</i>]
 Marcus, my brother, &rsquo;tis sad Titus calls.
 
@@ -3618,7 +3618,7 @@ Nay, nay, let Rape and Murder stay with me,
 Or else I&rsquo;ll call my brother back again
 And cleave to no revenge but Lucius.
 
-<speaker>TAMORA,</speaker>
+<speaker>TAMORA</speaker>
 [<i>aside to Chiron and Demetrius</i>]
 What say you, boys? Will you abide with him
 Whiles I go tell my lord the Emperor
@@ -3626,13 +3626,13 @@ How I have governed our determined jest?
 Yield to his humor, smooth and speak him fair,
 And tarry with him till I turn again.
 
-<speaker>TITUS,</speaker>
+<speaker>TITUS</speaker>
 [<i>aside</i>]
 I knew them all, though they supposed me mad,
 And will o&rsquo;erreach them in their own devices&mdash;
 A pair of cursed hellhounds and their dam!
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>aside to Tamora</i>]
 Madam, depart at pleasure. Leave us here.
 
@@ -3959,7 +3959,7 @@ The common voice do cry it shall be so.
 <speaker>ROMANS</speaker>
 Lucius, all hail, Rome&rsquo;s royal emperor!
 
-<speaker>MARCUS,</speaker>
+<speaker>MARCUS</speaker>
 [<i>to Attendants</i>]
 Go, go into old Titus&rsquo; sorrowful house,
 And hither hale that misbelieving Moor
@@ -3990,7 +3990,7 @@ Thy brother Marcus tenders on thy lips.
 O, were the sum of these that I should pay
 Countless and infinite, yet would I pay them.
 
-<speaker>LUCIUS,</speaker>
+<speaker>LUCIUS</speaker>
 [<i>to Young Lucius</i>]
 Come hither, boy. Come, come, and learn of us
 To melt in showers. Thy grandsire loved thee well.

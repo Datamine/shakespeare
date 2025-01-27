@@ -545,7 +545,7 @@ here?
 <speaker>BASSANIO</speaker>
 This is Signior Antonio.
 
-<speaker>SHYLOCK,</speaker>
+<speaker>SHYLOCK</speaker>
 [<i>aside</i>]
 How like a fawning publican he looks!
 I hate him for he is a Christian,
@@ -639,7 +639,7 @@ Or is your gold and silver ewes and rams?
 I cannot tell; I make it breed as fast.
 But note me, signior&mdash;
 
-<speaker>ANTONIO,</speaker>
+<speaker>ANTONIO</speaker>
 [<i>aside to Bassanio</i>]
 Mark you this, Bassanio,
 The devil can cite Scripture for his purpose!
@@ -879,7 +879,7 @@ your commandment. I will run.
 Master young man, you, I pray you, which is
 the way to Master Jew&rsquo;s?
 
-<speaker>LANCELET,</speaker>
+<speaker>LANCELET</speaker>
 [<i>aside</i>]
   O heavens, this is my true begotten
 father, who being more than sandblind, high gravelblind,
@@ -936,7 +936,7 @@ terms, gone to heaven.
 Marry, God forbid! The boy was the very staff
 of my age, my very prop.
 
-<speaker>LANCELET,</speaker>
+<speaker>LANCELET</speaker>
 [<i>aside</i>]
   Do I look like a cudgel or a hovel-post,
 a staff or a prop?&mdash;Do you know me, father?
@@ -987,7 +987,7 @@ blood. Lord worshiped might He be, what a beard
 hast thou got! Thou hast got more hair on thy chin
 than Dobbin my fill-horse has on his tail.
 
-<speaker>LANCELET,</speaker>
+<speaker>LANCELET</speaker>
 [<i>standing up</i>]
   It should seem, then, that
 Dobbin&rsquo;s tail grows backward. I am sure he had
@@ -1014,7 +1014,7 @@ am a Jew if I serve the Jew any longer.
 
 [<i>Enter Bassanio with Leonardo and a follower or two.</i>]
 
-<speaker>BASSANIO,</speaker>
+<speaker>BASSANIO</speaker>
 [<i>to an Attendant</i>]
   You may do so, but let it be
 so hasted that supper be ready at the farthest by five
@@ -1025,7 +1025,7 @@ anon to my lodging.	[<i>The Attendant exits.</i>]
 <speaker>LANCELET</speaker>
 To him, father.
 
-<speaker>GOBBO,</speaker>
+<speaker>GOBBO</speaker>
 [<i>to Bassanio</i>]
   God bless your Worship.
 
@@ -1076,7 +1076,7 @@ Serve you, sir.
 <speaker>GOBBO</speaker>
 That is the very defect of the matter, sir.
 
-<speaker>BASSANIO,</speaker>
+<speaker>BASSANIO</speaker>
 [<i>to Lancelet</i>]
 I know thee well. Thou hast obtained thy suit.
 Shylock thy master spoke with me this day,
@@ -1124,7 +1124,7 @@ My best endeavors shall be done herein.
 
 [<i>Enter Gratiano.</i>]
 
-<speaker>GRATIANO,</speaker>
+<speaker>GRATIANO</speaker>
 [<i>to Leonardo</i>]
   Where&rsquo;s your master?
 
@@ -2254,7 +2254,7 @@ Thy paleness moves me more than eloquence,
 And here choose I. Joy be the consequence!
 [<i>Bassanio is given a key.</i>]
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>aside</i>]
 How all the other passions fleet to air,
 As doubtful thoughts and rash embraced despair,
@@ -2420,7 +2420,7 @@ Sweet Portia, welcome.
 <speaker>PORTIA</speaker>
 So do I, my lord. They are entirely welcome.
 
-<speaker>LORENZO,</speaker>
+<speaker>LORENZO</speaker>
 [<i>to Bassanio</i>]
 I thank your Honor. For my part, my lord,
 My purpose was not to have seen you here,
@@ -3013,7 +3013,7 @@ Every offence is not a hate at first.
 <speaker>SHYLOCK</speaker>
 What, wouldst thou have a serpent sting thee twice?
 
-<speaker>ANTONIO,</speaker>
+<speaker>ANTONIO</speaker>
 [<i>to Bassanio</i>]
 I pray you, think you question with the Jew.
 You may as well go stand upon the beach
@@ -3089,7 +3089,7 @@ Than to live still and write mine epitaph.
 <speaker>DUKE</speaker>
 Came you from Padua, from Bellario?
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>as Clerk</i>]
 From both, my lord. Bellario greets your Grace.
 [<i>Handing him a paper, which he reads, aside, while
@@ -3134,7 +3134,7 @@ This letter from Bellario doth commend
 A young and learned doctor to our court.
 Where is he?
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>as Clerk</i>]
   He attendeth here hard by
 To know your answer whether you&rsquo;ll admit him.
@@ -3169,7 +3169,7 @@ laws, with Attendants.</i>]
 And here I take it is the doctor come.&mdash;
 Give me your hand. Come you from old Bellario?
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I did, my lord.
 
@@ -3178,7 +3178,7 @@ You are welcome. Take your place.
 Are you acquainted with the difference
 That holds this present question in the court?
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I am informed throughly of the cause.
 Which is the merchant here? And which the Jew?
@@ -3186,14 +3186,14 @@ Which is the merchant here? And which the Jew?
 <speaker>DUKE</speaker>
 Antonio and old Shylock, both stand forth.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Is your name Shylock?
 
 <speaker>SHYLOCK</speaker>
 Shylock is my name.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Of a strange nature is the suit you follow,
 Yet in such rule that the Venetian law
@@ -3205,21 +3205,21 @@ not?
 <speaker>ANTONIO</speaker>
 Ay, so he says.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Do you confess the bond?
 
 <speaker>ANTONIO</speaker>
 I do.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Then must the Jew be merciful.
 
 <speaker>SHYLOCK</speaker>
 On what compulsion must I? Tell me that.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 The quality of mercy is not strained.
 It droppeth as the gentle rain from heaven
@@ -3249,7 +3249,7 @@ there.
 My deeds upon my head! I crave the law,
 The penalty and forfeit of my bond.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Is he not able to discharge the money?
 
@@ -3266,7 +3266,7 @@ Wrest once the law to your authority.
 To do a great right, do a little wrong,
 And curb this cruel devil of his will.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 It must not be. There is no power in Venice
 Can alter a decree established;
@@ -3278,7 +3278,7 @@ Will rush into the state. It cannot be.
 A Daniel come to judgment! Yea, a Daniel.
 O wise young judge, how I do honor thee!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I pray you let me look upon the bond.
 
@@ -3286,7 +3286,7 @@ I pray you let me look upon the bond.
 Here &rsquo;tis, most reverend doctor, here it is.
 [<i>Handing Portia a paper.</i>]
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Shylock, there&rsquo;s thrice thy money offered thee.
 
@@ -3295,7 +3295,7 @@ An oath, an oath, I have an oath in heaven!
 Shall I lay perjury upon my soul?
 No, not for Venice!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Why, this bond is forfeit,
 And lawfully by this the Jew may claim
@@ -3317,7 +3317,7 @@ To alter me. I stay here on my bond.
 Most heartily I do beseech the court
 To give the judgment.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Why, then, thus it is:
 You must prepare your bosom for his knife&mdash;
@@ -3325,7 +3325,7 @@ You must prepare your bosom for his knife&mdash;
 <speaker>SHYLOCK</speaker>
 O noble judge! O excellent young man!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 For the intent and purpose of the law
 Hath full relation to the penalty,
@@ -3335,7 +3335,7 @@ Which here appeareth due upon the bond.
 &rsquo;Tis very true. O wise and upright judge,
 How much more elder art thou than thy looks!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar, to Antonio</i>]
 Therefore lay bare your bosom&mdash;
 
@@ -3344,7 +3344,7 @@ Ay, his breast!
 So says the bond, doth it not, noble judge?
 "&ldquo;Nearest his heart.&rdquo;" Those are the very words.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 It is so.
 Are there balance here to weigh the flesh?
@@ -3352,7 +3352,7 @@ Are there balance here to weigh the flesh?
 <speaker>SHYLOCK</speaker>
 I have them ready.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Have by some surgeon, Shylock, on your charge,
 To stop his wounds, lest he do bleed to death.
@@ -3360,7 +3360,7 @@ To stop his wounds, lest he do bleed to death.
 <speaker>SHYLOCK</speaker>
 Is it so nominated in the bond?
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 It is not so expressed, but what of that?
 &rsquo;Twere good you do so much for charity.
@@ -3368,7 +3368,7 @@ It is not so expressed, but what of that?
 <speaker>SHYLOCK</speaker>
 I cannot find it. &rsquo;Tis not in the bond.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 You, merchant, have you anything to say?
 
@@ -3400,7 +3400,7 @@ Are not with me esteemed above thy life.
 I would lose all, ay, sacrifice them all
 Here to this devil, to deliver you.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>aside</i>]
 Your wife would give you little thanks for that
 If she were by to hear you make the offer.
@@ -3410,7 +3410,7 @@ I have a wife who I protest I love.
 I would she were in heaven, so she could
 Entreat some power to change this currish Jew.
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>aside</i>]
 &rsquo;Tis well you offer it behind her back.
 The wish would make else an unquiet house.
@@ -3422,7 +3422,7 @@ Would any of the stock of Barabbas
 Had been her husband, rather than a Christian!
 We trifle time. I pray thee, pursue sentence.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 A pound of that same merchant&rsquo;s flesh is thine:
 The court awards it, and the law doth give it.
@@ -3430,7 +3430,7 @@ The court awards it, and the law doth give it.
 <speaker>SHYLOCK</speaker>
 Most rightful judge!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 And you must cut this flesh from off his breast:
 The law allows it, and the court awards it.
@@ -3438,7 +3438,7 @@ The law allows it, and the court awards it.
 <speaker>SHYLOCK</speaker>
 Most learned judge! A sentence!&mdash;Come, prepare.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Tarry a little. There is something else.
 This bond doth give thee here no jot of blood.
@@ -3455,7 +3455,7 @@ O upright judge!&mdash;Mark, Jew.&mdash;O learned judge!
 <speaker>SHYLOCK</speaker>
 Is that the law?
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Thyself shalt see the act.
 For, as thou urgest justice, be assured
@@ -3471,7 +3471,7 @@ And let the Christian go.
 <speaker>BASSANIO</speaker>
 Here is the money.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Soft! The Jew shall have all justice. Soft, no haste!
 He shall have nothing but the penalty.
@@ -3479,7 +3479,7 @@ He shall have nothing but the penalty.
 <speaker>GRATIANO</speaker>
 O Jew, an upright judge, a learned judge!
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Therefore prepare thee to cut off the flesh.
 Shed thou no blood, nor cut thou less nor more
@@ -3495,7 +3495,7 @@ Thou diest, and all thy goods are confiscate.
 A second Daniel! A Daniel, Jew!
 Now, infidel, I have you on the hip.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Why doth the Jew pause? Take thy forfeiture.
 
@@ -3505,7 +3505,7 @@ Give me my principal and let me go.
 <speaker>BASSANIO</speaker>
 I have it ready for thee. Here it is.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 He hath refused it in the open court.
 He shall have merely justice and his bond.
@@ -3517,7 +3517,7 @@ I thank thee, Jew, for teaching me that word.
 <speaker>SHYLOCK</speaker>
 Shall I not have barely my principal?
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Thou shalt have nothing but the forfeiture
 To be so taken at thy peril, Jew.
@@ -3526,7 +3526,7 @@ To be so taken at thy peril, Jew.
 Why, then, the devil give him good of it!
 I&rsquo;ll stay no longer question.	[<i>He begins to exit.</i>]
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Tarry, Jew.
 The law hath yet another hold on you.
@@ -3561,7 +3561,7 @@ For half thy wealth, it is Antonio&rsquo;s;
 The other half comes to the general state,
 Which humbleness may drive unto a fine.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Ay, for the state, not for Antonio.
 
@@ -3571,7 +3571,7 @@ You take my house when you do take the prop
 That doth sustain my house; you take my life
 When you do take the means whereby I live.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 What mercy can you render him, Antonio?
 
@@ -3595,14 +3595,14 @@ Unto his son Lorenzo and his daughter.
 He shall do this, or else I do recant
 The pardon that I late pronounced here.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 Art thou contented, Jew? What dost thou say?
 
 <speaker>SHYLOCK</speaker>
 I am content.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   Clerk, draw a deed of gift.
 
@@ -3620,11 +3620,11 @@ Had I been judge, thou shouldst have had ten more,
 To bring thee to the gallows, not to the font.
 [<i>Shylock exits.</i>]
 
-<speaker>DUKE,</speaker>
+<speaker>DUKE</speaker>
 [<i>to Portia as Balthazar</i>]
 Sir, I entreat you home with me to dinner.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I humbly do desire your Grace of pardon.
 I must away this night toward Padua,
@@ -3636,7 +3636,7 @@ Antonio, gratify this gentleman,
 For in my mind you are much bound to him.
 [<i>The Duke and his train exit.</i>]
 
-<speaker>BASSANIO,</speaker>
+<speaker>BASSANIO</speaker>
 [<i>to Portia as Balthazar</i>]
 Most worthy gentleman, I and my friend
 Have by your wisdom been this day acquitted
@@ -3648,7 +3648,7 @@ We freely cope your courteous pains withal.
 And stand indebted, over and above,
 In love and service to you evermore.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 He is well paid that is well satisfied,
 And I, delivering you, am satisfied,
@@ -3664,7 +3664,7 @@ Take some remembrance of us as a tribute,
 Not as fee. Grant me two things, I pray you:
 Not to deny me, and to pardon me.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 You press me far, and therefore I will yield.
 Give me your gloves; I&rsquo;ll wear them for your sake&mdash;
@@ -3676,7 +3676,7 @@ And you in love shall not deny me this.
 This ring, good sir? Alas, it is a trifle.
 I will not shame myself to give you this.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I will have nothing else but only this.
 And now methinks I have a mind to it.
@@ -3687,7 +3687,7 @@ The dearest ring in Venice will I give you,
 And find it out by proclamation.
 Only for this, I pray you pardon me.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 I see, sir, you are liberal in offers.
 You taught me first to beg, and now methinks
@@ -3698,7 +3698,7 @@ Good sir, this ring was given me by my wife,
 And when she put it on, she made me vow
 That I should neither sell nor give nor lose it.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
 That &rsquo;scuse serves many men to save their gifts.
 And if your wife be not a madwoman,
@@ -3742,7 +3742,7 @@ My Lord Bassanio, upon more advice,
 Hath sent you here this ring, and doth entreat
 Your company at dinner.	[<i>He gives her a ring.</i>]
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
   That cannot be.
 His ring I do accept most thankfully,
@@ -3752,7 +3752,7 @@ I pray you show my youth old Shylock&rsquo;s house.
 <speaker>GRATIANO</speaker>
 That will I do.
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>as Clerk</i>]
   Sir, I would speak with you.
 [<i>Aside to Portia.</i>]
@@ -3760,7 +3760,7 @@ That will I do.
 ring,
 Which I did make him swear to keep forever.
 
-<speaker>PORTIA,</speaker>
+<speaker>PORTIA</speaker>
 [<i>aside to Nerissa</i>]
 Thou mayst, I warrant! We shall have old swearing
 That they did give the rings away to men;
@@ -3768,7 +3768,7 @@ But we&rsquo;ll outface them, and outswear them, too.&mdash;
 Away, make haste! Thou know&rsquo;st where I will tarry.
 [<i>She exits.</i>]
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>as Clerk</i>]
 Come, good sir, will you show me to this house?
 [<i>They exit.</i>]
@@ -3882,7 +3882,7 @@ Tell him there&rsquo;s a post come from my master
 with his horn full of good news. My master will
 be here ere morning, sweet soul.	[<i>Lancelet exits.</i>]
 
-<speaker>LORENZO,</speaker>
+<speaker>LORENZO</speaker>
 [<i>to Jessica</i>]
 Let&rsquo;s in, and there expect their coming.
 And yet no matter; why should we go in?&mdash;
@@ -4041,7 +4041,7 @@ Sir, you are very welcome to our house.
 It must appear in other ways than words;
 Therefore I scant this breathing courtesy.
 
-<speaker>GRATIANO,</speaker>
+<speaker>GRATIANO</speaker>
 [<i>to Nerissa</i>]
 By yonder moon I swear you do me wrong!
 In faith, I gave it to the judge&rsquo;s clerk.
@@ -4093,7 +4093,7 @@ That the world masters. Now, in faith, Gratiano,
 You give your wife too unkind a cause of grief.
 An &rsquo;twere to me I should be mad at it.
 
-<speaker>BASSANIO,</speaker>
+<speaker>BASSANIO</speaker>
 [<i>aside</i>]
 Why, I were best to cut my left hand off
 And swear I lost the ring defending it.
@@ -4120,7 +4120,7 @@ Even so void is your false heart of truth.
 By heaven, I will ne&rsquo;er come in your bed
 Until I see the ring!
 
-<speaker>NERISSA,</speaker>
+<speaker>NERISSA</speaker>
 [<i>to Gratiano</i>]
   Nor I in yours
 Till I again see mine!
@@ -4271,7 +4271,7 @@ Were you the clerk that is to make me cuckold?
 Ay, but the clerk that never means to do it,
 Unless he live until he be a man.
 
-<speaker>BASSANIO,</speaker>
+<speaker>BASSANIO</speaker>
 [<i>to Portia</i>]
 Sweet doctor, you shall be my bedfellow.
 When I am absent, then lie with my wife.

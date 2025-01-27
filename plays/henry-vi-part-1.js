@@ -374,7 +374,7 @@ By this means shall we sound what skill she hath.
 
 [<i>Enter Bastard, with Joan la Pucelle.</i>]
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>as Charles</i>]
 Fair maid, is &rsquo;t thou wilt do these wondrous feats?
 
@@ -462,26 +462,26 @@ Meantime look gracious on thy prostrate thrall.
 
 [<i>Enter Reignier and Alanson.</i>]
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>aside to Alanson</i>]
 My lord, methinks, is very long in talk.
 
-<speaker>ALANSON,</speaker>
+<speaker>ALANSON</speaker>
 [<i>aside to Reignier</i>]
 Doubtless he shrives this woman to her smock,
 Else ne&rsquo;er could he so long protract his speech.
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>aside to Alanson</i>]
 Shall we disturb him, since he keeps no mean?
 
-<speaker>ALANSON,</speaker>
+<speaker>ALANSON</speaker>
 [<i>aside to Reignier</i>]
 He may mean more than we poor men do know.
 These women are shrewd tempters with their
 tongues.
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>to Charles</i>]
 My lord, where are you? What devise you on?
 Shall we give o&rsquo;er Orleance, or no?
@@ -537,21 +537,21 @@ Where be these warders that they wait not here?&mdash;
 Open the gates! &rsquo;Tis Gloucester that calls.
 [<i>Servingmen knock at the gate.</i>]
 
-<speaker>FIRST WARDER,</speaker>
+<speaker>FIRST WARDER</speaker>
 [<i>within</i>]
 Who&rsquo;s there that knocks so imperiously?
 
 <speaker>FIRST SERVINGMAN</speaker>
 It is the noble Duke of Gloucester.
 
-<speaker>SECOND WARDER,</speaker>
+<speaker>SECOND WARDER</speaker>
 [<i>within</i>]
 Whoe&rsquo;er he be, you may not be let in.
 
 <speaker>FIRST SERVINGMAN</speaker>
 Villains, answer you so the Lord Protector?
 
-<speaker>FIRST WARDER,</speaker>
+<speaker>FIRST WARDER</speaker>
 [<i>within</i>]
 The Lord protect him, so we answer him.
 We do no otherwise than we are willed.
@@ -703,7 +703,7 @@ For I intend to have it ere long.
 [<i>Gloucester and Winchester exit
 at separate doors, with their Servingmen.</i>]
 
-<speaker>MAYOR,</speaker>
+<speaker>MAYOR</speaker>
 [<i>to Officers</i>]
 See the coast cleared, and then we will depart.
 [<i>(Aside.)</i>]
@@ -1315,7 +1315,7 @@ But since your Ladyship is not at leisure,
 I&rsquo;ll sort some other time to visit you.
 [<i>He begins to exit.</i>]
 
-<speaker>COUNTESS,</speaker>
+<speaker>COUNTESS</speaker>
 [<i>to Messenger</i>]
 What means he now? Go ask him whither he goes.
 
@@ -1329,7 +1329,7 @@ I go to certify her Talbot&rsquo;s here.
 
 [<i>Enter Porter with keys.</i>]
 
-<speaker>COUNTESS,</speaker>
+<speaker>COUNTESS</speaker>
 [<i>to Talbot</i>]
 If thou be he, then art thou prisoner.
 
@@ -1710,7 +1710,7 @@ Richard Plantagenet, my friend, is he come?
 Ay, noble uncle, thus ignobly used,
 Your nephew, late despised Richard, comes.
 
-<speaker>MORTIMER,</speaker>
+<speaker>MORTIMER</speaker>
 [<i>to Jailer</i>]
 Direct mine arms I may embrace his neck
 And in his bosom spend my latter gasp.
@@ -1920,7 +1920,7 @@ Rome shall remedy this.
 <speaker>GLOUCESTER</speaker>
 Roam thither then.
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>to Winchester</i>]
 My lord, it were your duty to forbear.
 
@@ -1940,7 +1940,7 @@ Yes, when his holy state is touched so near.
 State holy, or unhallowed, what of that?
 Is not his Grace Protector to the King?
 
-<speaker>PLANTAGENET,</speaker>
+<speaker>PLANTAGENET</speaker>
 [<i>aside</i>]
 Plantagenet, I see, must hold his tongue,
 Lest it be said "&ldquo;Speak, sirrah, when you should;
@@ -2069,7 +2069,7 @@ Well, Duke of Gloucester, I will yield to thee;
 Love for thy love and hand for hand I give.
 [<i>They take each other&rsquo;s hand.</i>]
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>aside</i>]
 Ay, but I fear me with a hollow heart.&mdash;
 See here, my friends and loving countrymen,
@@ -2077,7 +2077,7 @@ This token serveth for a flag of truce
 Betwixt ourselves and all our followers,
 So help me God, as I dissemble not.
 
-<speaker>WINCHESTER,</speaker>
+<speaker>WINCHESTER</speaker>
 [<i>aside</i>]
 So help me God, as I intend it not.
 
@@ -2100,7 +2100,7 @@ And I will see what physic the tavern
 affords.
 [<i>They exit with Mayor and Others.</i>]
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>presenting a scroll</i>]
 Accept this scroll, most gracious sovereign,
 Which in the right of Richard Plantagenet
@@ -2143,7 +2143,7 @@ I girt thee with the valiant sword of York.
 Rise, Richard, like a true Plantagenet,
 And rise created princely Duke of York.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>formerly PLANTAGENET, standing</i>]
 And so thrive Richard as thy foes may fall!
 And as my duty springs, so perish they
@@ -2152,7 +2152,7 @@ That grudge one thought against your Majesty.
 <speaker>ALL</speaker>
 Welcome, high prince, the mighty Duke of York.
 
-<speaker>SOMERSET,</speaker>
+<speaker>SOMERSET</speaker>
 [<i>aside</i>]
 Perish, base prince, ignoble Duke of York.
 
@@ -2211,7 +2211,7 @@ And we be lords and rulers over Roan;
 Therefore we&rsquo;ll knock.
 [<i>Knock.</i>]
 
-<speaker>WATCH,</speaker>
+<speaker>WATCH</speaker>
 [<i>within</i>]
 Qui la?
 
@@ -2222,7 +2222,7 @@ Poor market folks that come to sell their corn.
 <speaker>WATCH</speaker>
 Enter, go in. The market bell is rung.
 
-<speaker>PUCELLE,</speaker>
+<speaker>PUCELLE</speaker>
 [<i>aside</i>]
 Now, Roan, I&rsquo;ll shake thy bulwarks to the ground.
 [<i>They exit.</i>]
@@ -2281,7 +2281,7 @@ and Burgundy without; within, Pucelle with a sack
 of grain, Charles, Bastard, Alanson, and Reignier
 on the walls.</i>]
 
-<speaker>PUCELLE,</speaker>
+<speaker>PUCELLE</speaker>
 [<i>to those below</i>]
 Good morrow, gallants. Want you corn for bread?
 [<i>She scatters grain on those below.</i>]
@@ -2479,12 +2479,12 @@ We have been guided by thee hitherto,
 And of thy cunning had no diffidence.
 One sudden foil shall never breed distrust.
 
-<speaker>BASTARD,</speaker>
+<speaker>BASTARD</speaker>
 [<i>to Pucelle</i>]
 Search out thy wit for secret policies,
 And we will make thee famous through the world.
 
-<speaker>ALANSON,</speaker>
+<speaker>ALANSON</speaker>
 [<i>to Pucelle</i>]
 We&rsquo;ll set thy statue in some holy place
 And have thee reverenced like a blessed saint.
@@ -2535,7 +2535,7 @@ The princely Charles of France, thy countryman.
 <speaker>BURGUNDY</speaker>
 What say&rsquo;st thou, Charles?&mdash;for I am marching hence.
 
-<speaker>CHARLES,</speaker>
+<speaker>CHARLES</speaker>
 [<i>aside to Pucelle</i>]
 Speak, Pucelle, and enchant him with thy words.
 
@@ -2562,7 +2562,7 @@ Should grieve thee more than streams of foreign gore.
 Return thee therefore with a flood of tears,
 And wash away thy country&rsquo;s stained spots.
 
-<speaker>BURGUNDY,</speaker>
+<speaker>BURGUNDY</speaker>
 [<i>aside</i>]
 Either she hath bewitched me with her words,
 Or nature makes me suddenly relent.
@@ -2587,7 +2587,7 @@ And join&rsquo;st with them will be thy slaughtermen.
 Come, come, return; return, thou wandering lord.
 Charles and the rest will take thee in their arms.
 
-<speaker>BURGUNDY,</speaker>
+<speaker>BURGUNDY</speaker>
 [<i>aside</i>]
 I am vanquished. These haughty words of hers
 Have battered me like roaring cannon-shot,
@@ -2598,7 +2598,7 @@ And, lords, accept this hearty kind embrace.
 My forces and my power of men are yours.
 So, farewell, Talbot. I&rsquo;ll no longer trust thee.
 
-<speaker>PUCELLE,</speaker>
+<speaker>PUCELLE</speaker>
 [<i>aside</i>]
 Done like a Frenchman: turn and turn again.
 
@@ -2708,7 +2708,7 @@ and Others.</i>]
 <speaker>GLOUCESTER</speaker>
 Lord Bishop, set the crown upon his head.
 
-<speaker>WINCHESTER,</speaker>
+<speaker>WINCHESTER</speaker>
 [<i>crowning King Henry</i>]
 God save King Henry, of that name the Sixth!
 
@@ -2770,7 +2770,7 @@ And should, if I were worthy to be judge,
 Be quite degraded, like a hedge-born swain
 That doth presume to boast of gentle blood.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Fastolf</i>]
 Stain to thy countrymen, thou hear&rsquo;st thy doom.
 Be packing therefore, thou that wast a knight.
@@ -2836,11 +2836,11 @@ Grant me the combat, gracious sovereign.
 <speaker>BASSET</speaker>
 And me, my lord, grant me the combat too.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>indicating Vernon</i>]
 This is my servant; hear him, noble prince.
 
-<speaker>SOMERSET,</speaker>
+<speaker>SOMERSET</speaker>
 [<i>indicating Basset</i>]
 And this is mine, sweet Henry; favor him.
 
@@ -2904,15 +2904,15 @@ And then your Highness shall command a peace.
 The quarrel toucheth none but us alone;
 Betwixt ourselves let us decide it then.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>throwing down a gage</i>]
 There is my pledge; accept it, Somerset.
 
-<speaker>VERNON,</speaker>
+<speaker>VERNON</speaker>
 [<i>to Somerset</i>]
 Nay, let it rest where it began at first.
 
-<speaker>BASSET,</speaker>
+<speaker>BASSET</speaker>
 [<i>to Somerset</i>]
 Confirm it so, mine honorable lord.
 
@@ -3579,7 +3579,7 @@ All will be ours, now bloody Talbot&rsquo;s slain.
 [<i>Sennet. Enter King, Gloucester, and Exeter,
 with Attendants.</i>]
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Gloucester</i>]
 Have you perused the letters from the Pope,
 The Emperor, and the Earl of Armagnac?
@@ -3626,7 +3626,7 @@ Tends to God&rsquo;s glory and my country&rsquo;s weal.
 and the Ambassador of Armagnac, a Papal Legate,
 and another Ambassador.</i>]
 
-<speaker>EXETER,</speaker>
+<speaker>EXETER</speaker>
 [<i>aside</i>]
 What, is my Lord of Winchester installed
 And called unto a cardinal&rsquo;s degree?
@@ -3644,7 +3644,7 @@ To draw conditions of a friendly peace,
 Which by my Lord of Winchester we mean
 Shall be transported presently to France.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to the Ambassador of Armagnac</i>]
 And for the proffer of my lord your master,
 I have informed his Highness so at large
@@ -3652,7 +3652,7 @@ As, liking of the lady&rsquo;s virtuous gifts,
 Her beauty, and the value of her dower,
 He doth intend she shall be England&rsquo;s queen.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>handing a jewel to the Ambassador</i>]
 In argument and proof of which contract,
 Bear her this jewel, pledge of my affection.&mdash;
@@ -3849,7 +3849,7 @@ Say, Earl of Suffolk, if thy name be so,
 What ransom must I pay before I pass?
 For I perceive I am thy prisoner.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 How canst thou tell she will deny thy suit
 Before thou make a trial of her love?
@@ -3857,7 +3857,7 @@ Before thou make a trial of her love?
 <speaker>MARGARET</speaker>
 Why speak&rsquo;st thou not? What ransom must I pay?
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 She&rsquo;s beautiful, and therefore to be wooed;
 She is a woman, therefore to be won.
@@ -3865,40 +3865,40 @@ She is a woman, therefore to be won.
 <speaker>MARGARET</speaker>
 Wilt thou accept of ransom, yea or no?
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 Fond man, remember that thou hast a wife;
 Then how can Margaret be thy paramour?
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 I were best to leave him, for he will not hear.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 There all is marred; there lies a cooling card.
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 He talks at random; sure the man is mad.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 And yet a dispensation may be had.
 
 <speaker>MARGARET</speaker>
 And yet I would that you would answer me.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 I&rsquo;ll win this Lady Margaret. For whom?
 Why, for my king. Tush, that&rsquo;s a wooden thing!
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 He talks of wood. It is some carpenter.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 Yet so my fancy may be satisfied,
 And peace established between these realms.
@@ -3910,13 +3910,13 @@ And our nobility will scorn the match.
 <speaker>MARGARET</speaker>
 Hear you, captain? Are you not at leisure?
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>aside</i>]
 It shall be so, disdain they ne&rsquo;er so much.
 Henry is youthful, and will quickly yield.&mdash;
 Madam, I have a secret to reveal.
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 What though I be enthralled, he seems a knight,
 And will not any way dishonor me.
@@ -3924,7 +3924,7 @@ And will not any way dishonor me.
 <speaker>SUFFOLK</speaker>
 Lady, vouchsafe to listen what I say.
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 Perhaps I shall be rescued by the French,
 And then I need not crave his courtesy.
@@ -3932,7 +3932,7 @@ And then I need not crave his courtesy.
 <speaker>SUFFOLK</speaker>
 Sweet madam, give me hearing in a cause.
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>aside</i>]
 Tush, women have been captivate ere now.
 
@@ -4067,12 +4067,12 @@ And make this marriage to be solemnized.
 So farewell, Reignier; set this diamond safe
 In golden palaces, as it becomes.
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>embracing Suffolk</i>]
 I do embrace thee, as I would embrace
 The Christian prince King Henry, were he here.
 
-<speaker>MARGARET,</speaker>
+<speaker>MARGARET</speaker>
 [<i>to Suffolk</i>]
 Farewell, my lord; good wishes, praise, and prayers
 Shall Suffolk ever have of Margaret.
@@ -4215,7 +4215,7 @@ Although you hale me to a violent death.
 <speaker>YORK</speaker>
 Now heaven forfend, the holy maid with child?
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>to Pucelle</i>]
 The greatest miracle that e&rsquo;er you wrought!
 Is all your strict preciseness come to this?
@@ -4353,14 +4353,14 @@ Of benefit proceeding from our king
 And not of any challenge of desert,
 Or we will plague thee with incessant wars.
 
-<speaker>REIGNIER,</speaker>
+<speaker>REIGNIER</speaker>
 [<i>aside to Charles</i>]
 My lord, you do not well in obstinacy
 To cavil in the course of this contract.
 If once it be neglected, ten to one
 We shall not find like opportunity.
 
-<speaker>ALANSON,</speaker>
+<speaker>ALANSON</speaker>
 [<i>aside to Charles</i>]
 To say the truth, it is your policy
 To save your subjects from such massacre

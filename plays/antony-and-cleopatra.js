@@ -144,16 +144,16 @@ Is this the man?&mdash;Is &rsquo;t you, sir, that know things?
 In nature&rsquo;s infinite book of secrecy
 A little I can read.
 
-<speaker>ALEXAS,</speaker>
+<speaker>ALEXAS</speaker>
 [<i>to Charmian</i>]
   Show him your hand.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>to Servants</i>]
 Bring in the banquet quickly, wine enough
 Cleopatra&rsquo;s health to drink.
 
-<speaker>CHARMIAN,</speaker>
+<speaker>CHARMIAN</speaker>
 [<i>giving her hand to the Soothsayer</i>]
   Good sir,
 give me good fortune.
@@ -225,7 +225,7 @@ Out, fool! I forgive thee for a witch.
 You think none but your sheets are privy to
 your wishes.
 
-<speaker>CHARMIAN,</speaker>
+<speaker>CHARMIAN</speaker>
 [<i>to Soothsayer</i>]
   Nay, come. Tell Iras hers.
 
@@ -236,7 +236,7 @@ We&rsquo;ll know all our fortunes.
 Mine, and most of our fortunes tonight,
 shall be&mdash;drunk to bed.
 
-<speaker>IRAS,</speaker>
+<speaker>IRAS</speaker>
 [<i>giving her hand to the Soothsayer</i>]
   There&rsquo;s a palm
 presages chastity, if nothing else.
@@ -557,7 +557,7 @@ Where is he?
 <speaker>CHARMIAN</speaker>
 I did not see him since.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>to Alexas</i>]
 See where he is, who&rsquo;s with him, what he does.
 I did not send you. If you find him sad,
@@ -1201,16 +1201,16 @@ And yonder Caesar.
 [<i>Enter, at another door, Caesar,
 Maecenas, and Agrippa.</i>]
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to Ventidius</i>]
 If we compose well here, to Parthia.
 Hark, Ventidius.	[<i>They talk aside.</i>]
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>to Maecenas</i>]
 I do not know, Maecenas. Ask Agrippa.
 
-<speaker>LEPIDUS,</speaker>
+<speaker>LEPIDUS</speaker>
 [<i>to Caesar and Antony</i>]
   Noble friends,
 That which combined us was most great, and let not
@@ -1514,7 +1514,7 @@ Noble Antony, not sickness should detain me.
 [<i>Flourish. All but Enobarbus, Agrippa, and
 Maecenas exit.</i>]
 
-<speaker>MAECENAS,</speaker>
+<speaker>MAECENAS</speaker>
 [<i>to Enobarbus</i>]
   Welcome from Egypt, sir.
 
@@ -1655,7 +1655,7 @@ All which time
 Before the gods my knee shall bow my prayers
 To them for you.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to Caesar</i>]
   Goodnight, sir.&mdash;My Octavia,
 Read not my blemishes in the world&rsquo;s report.
@@ -2146,7 +2146,7 @@ The beds i&rsquo; th&rsquo; East are soft; and thanks to you,
 That called me timelier than my purpose hither,
 For I have gained by &rsquo;t.
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>to Pompey</i>]
   Since I saw you last,
 There&rsquo;s a change upon you.
@@ -2235,7 +2235,7 @@ Show &rsquo;s the way, sir.
 Come.
 [<i>They exit, except for Enobarbus and Menas.</i>]
 
-<speaker>MENAS,</speaker>
+<speaker>MENAS</speaker>
 [<i>aside</i>]
   Thy father, Pompey, would ne&rsquo;er have
 made this treaty.&mdash;You and I have known, sir.
@@ -2427,7 +2427,7 @@ Sit, and some wine. A health to Lepidus!
 I am not so well as I should be, but I&rsquo;ll ne&rsquo;er
 out.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside</i>]
   Not till you have slept. I fear me
 you&rsquo;ll be in till then.
@@ -2437,11 +2437,11 @@ Nay, certainly, I have heard the Ptolemies&rsquo;
 pyramises are very goodly things. Without contradiction
 I have heard that.
 
-<speaker>MENAS,</speaker>
+<speaker>MENAS</speaker>
 [<i>aside to Pompey</i>]
 Pompey, a word.
 
-<speaker>POMPEY,</speaker>
+<speaker>POMPEY</speaker>
 [<i>aside to Menas</i>]
   Say in mine ear what is &rsquo;t.
 
@@ -2450,7 +2450,7 @@ Pompey, a word.
 Forsake thy seat, I do beseech thee, captain,
 And hear me speak a word.
 
-<speaker>POMPEY,</speaker>
+<speaker>POMPEY</speaker>
 [<i>aside to Menas</i>]
 Forbear me till anon.&mdash;This wine for Lepidus!
 
@@ -2476,7 +2476,7 @@ Of it own color too.
 <speaker>ANTONY</speaker>
 &rsquo;Tis so, and the tears of it are wet.
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>aside to Antony</i>]
   Will this description satisfy
 him?
@@ -2485,12 +2485,12 @@ him?
 With the health that Pompey gives him, else he
 is a very epicure.
 
-<speaker>POMPEY,</speaker>
+<speaker>POMPEY</speaker>
 [<i>aside to Menas</i>]
 Go hang, sir, hang! Tell me of that? Away!
 Do as I bid you.&mdash;Where&rsquo;s this cup I called for?
 
-<speaker>MENAS,</speaker>
+<speaker>MENAS</speaker>
 [<i>aside to Pompey</i>]
 If for the sake of merit thou wilt hear me,
 Rise from thy stool.
@@ -2512,7 +2512,7 @@ Be jolly, lords.
 These quicksands, Lepidus,
 Keep off them, for you sink.
 
-<speaker>MENAS,</speaker>
+<speaker>MENAS</speaker>
 [<i>aside to Pompey</i>]
 Wilt thou be lord of all the world?
 
@@ -2558,7 +2558,7 @@ Hath so betrayed thine act. Being done unknown,
 I should have found it afterwards well done,
 But must condemn it now. Desist and drink.
 
-<speaker>MENAS,</speaker>
+<speaker>MENAS</speaker>
 [<i>aside</i>]
   For this
 I&rsquo;ll never follow thy palled fortunes more.
@@ -2568,7 +2568,7 @@ Shall never find it more.
 <speaker>POMPEY</speaker>
 This health to Lepidus!
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to Servant</i>]
 Bear him ashore.&mdash;I&rsquo;ll pledge it for him, Pompey.
 
@@ -2581,7 +2581,7 @@ Enobarbus, welcome.
 <speaker>POMPEY</speaker>
 Fill till the cup be hid.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>pointing to the Servant carrying Lepidus</i>]
 There&rsquo;s a strong fellow, Menas.
 
@@ -2622,7 +2622,7 @@ Possess it, I&rsquo;ll make answer.
 But I had rather fast from all, four days,
 Than drink so much in one.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>to Antony</i>]
   Ha, my brave emperor,
 Shall we dance now the Egyptian bacchanals
@@ -2868,7 +2868,7 @@ My noble brother. [<i>She weeps.</i>]
 The April&rsquo;s in her eyes. It is love&rsquo;s spring,
 And these the showers to bring it on.&mdash;Be cheerful.
 
-<speaker>OCTAVIA,</speaker>
+<speaker>OCTAVIA</speaker>
 [<i>to Caesar</i>]
 Sir, look well to my husband&rsquo;s house, and&mdash;
 
@@ -2886,7 +2886,7 @@ feather
 That stands upon the swell at the full of tide
 And neither way inclines.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside to Agrippa</i>]
   Will Caesar weep?
 
@@ -2908,7 +2908,7 @@ That year indeed he was troubled with a rheum.
 What willingly he did confound he wailed,
 Believe &rsquo;t, till I wept too.
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>coming forward with Octavia</i>]
   No, sweet Octavia,
 You shall hear from me still. The time shall not
@@ -2923,7 +2923,7 @@ And give you to the gods.
 <speaker>CAESAR</speaker>
 Adieu, be happy.
 
-<speaker>LEPIDUS,</speaker>
+<speaker>LEPIDUS</speaker>
 [<i>to Antony</i>]
 Let all the number of the stars give light
 To thy fair way.
@@ -3026,7 +3026,7 @@ The fellow has good judgment.
 <speaker>CHARMIAN</speaker>
 Excellent.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>to Messenger</i>]
   Guess at her years, I
 prithee.
@@ -3054,7 +3054,7 @@ Her hair what color?
 Brown, madam, and her forehead
 As low as she would wish it.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>giving money</i>]
   There&rsquo;s gold for thee.
 Thou must not take my former sharpness ill.
@@ -3369,7 +3369,7 @@ In his abominations, turns you off
 And gives his potent regiment to a trull
 That noises it against us.
 
-<speaker>OCTAVIA,</speaker>
+<speaker>OCTAVIA</speaker>
 [<i>to Caesar</i>]
   Is it so, sir?
 
@@ -3776,7 +3776,7 @@ The Queen, my lord, the Queen.
 Go to him, madam; speak to him.
 He&rsquo;s unqualitied with very shame.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>rising</i>]
   Well, then, sustain me. O!
 
@@ -3792,7 +3792,7 @@ A most unnoble swerving.
 <speaker>EROS</speaker>
 Sir, the Queen.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>rising</i>]
 O, whither hast them led me, Egypt? See
 How I convey my shame out of thine eyes,
@@ -3968,7 +3968,7 @@ With principalities.
 <speaker>CLEOPATRA</speaker>
 That head, my lord?
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to Ambassador</i>]
 To him again. Tell him he wears the rose
 Of youth upon him, from which the world should
@@ -3982,7 +3982,7 @@ And answer me declined, sword against sword,
 Ourselves alone. I&rsquo;ll write it. Follow me.
 [<i>Antony and Ambassador exit.</i>]
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside</i>]
 Yes, like enough, high-battled Caesar will
 Unstate his happiness and be staged to th&rsquo; show
@@ -4005,7 +4005,7 @@ Against the blown rose may they stop their nose
 That kneeled unto the buds.&mdash;Admit him, sir.
 [<i>Servant exits.</i>]
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside</i>]
 Mine honesty and I begin to square.
 The loyalty well held to fools does make
@@ -4060,7 +4060,7 @@ He is a god and knows
 What is most right. Mine honor was not yielded,
 But conquered merely.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside</i>]
   To be sure of that,
 I will ask Antony. Sir, sir, thou art so leaky
@@ -4119,7 +4119,7 @@ To have command obeyed.
 <speaker>ENOBARBUS</speaker>
 You will be whipped.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>calling for Servants</i>]
 Approach there!&mdash;Ah, you kite!&mdash;Now, gods and
 devils,
@@ -4132,7 +4132,7 @@ Antony yet.
 
 Take hence this jack and whip him.
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside</i>]
 &rsquo;Tis better playing with a lion&rsquo;s whelp
 Than with an old one dying.
@@ -4213,7 +4213,7 @@ Cried he? And begged he pardon?
 <speaker>SERVANT</speaker>
 He did ask favor.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to Thidias</i>]
 If that thy father live, let him repent
 Thou wast not made his daughter; and be thou sorry
@@ -4396,16 +4396,16 @@ Thou,&mdash;and thou,&mdash;and thou. You have served me
 well,
 And kings have been your fellows.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>aside to Enobarbus</i>]
   What means this?
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside to Cleopatra</i>]
 &rsquo;Tis one of those odd tricks which sorrow shoots
 Out of the mind.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to another Servitor</i>]
   And thou art honest too.
 I wish I could be made so many men,
@@ -4422,15 +4422,15 @@ Scant not my cups, and make as much of me
 As when mine empire was your fellow too
 And suffered my command.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>aside to Enobarbus</i>]
   What does he mean?
 
-<speaker>ENOBARBUS,</speaker>
+<speaker>ENOBARBUS</speaker>
 [<i>aside to Cleopatra</i>]
 To make his followers weep.
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>to the Servitors</i>]
   Tend me tonight;
 May be it is the period of your duty.
@@ -4560,7 +4560,7 @@ Content. &rsquo;Tis strange.
 [<i>Enter Antony and Cleopatra, with
 Charmian, and others.</i>]
 
-<speaker>ANTONY,</speaker>
+<speaker>ANTONY</speaker>
 [<i>calling</i>]
 Eros! Mine armor, Eros!
 
@@ -4880,7 +4880,7 @@ He hath fought today
 As if a god in hate of mankind had
 Destroyed in such a shape.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>to Scarus</i>]
   I&rsquo;ll give thee, friend,
 An armor all of gold. It was a king&rsquo;s.
@@ -5607,7 +5607,7 @@ But resolution and the briefest end.
 [<i>Enter Caesar with Agrippa, Dolabella, Maecenas,
 Gallus, and Proculeius, his council of war.</i>]
 
-<speaker>CAESAR,</speaker>
+<speaker>CAESAR</speaker>
 [<i>aside to Dolabella</i>]
 Go to him, Dolabella, bid him yield.
 Being so frustrate, tell him, he mocks
@@ -5824,11 +5824,11 @@ Royal queen!
 <speaker>CHARMIAN</speaker>
 O, Cleopatra, thou art taken, queen!
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>drawing a dagger</i>]
 Quick, quick, good hands!
 
-<speaker>PROCULEIUS,</speaker>
+<speaker>PROCULEIUS</speaker>
 [<i>seizing the dagger</i>]
   Hold, worthy lady, hold!
 Do not yourself such wrong, who are in this
@@ -6149,7 +6149,7 @@ Be noble to myself. But hark thee, Charmian.
 Finish, good lady. The bright day is done,
 And we are for the dark.
 
-<speaker>CLEOPATRA,</speaker>
+<speaker>CLEOPATRA</speaker>
 [<i>to Charmian</i>]
   Hie thee again.
 I have spoke already, and it is provided.

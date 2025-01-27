@@ -210,7 +210,7 @@ Dies ere the weary sun set in the west.
 There is your money that I had to keep.
 [<i>He gives money.</i>]
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>handing money to Dromio</i>]
 Go bear it to the Centaur, where we host,
 And stay there, Dromio, till I come to thee.
@@ -339,7 +339,7 @@ Your Worship&rsquo;s wife, my mistress at the Phoenix,
 She that doth fast till you come home to dinner
 And prays that you will hie you home to dinner.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>beating Dromio</i>]
 What, wilt thou flout me thus unto my face,
 Being forbid? There, take you that, sir knave.
@@ -905,7 +905,7 @@ Usurping ivy, brier, or idle moss,
 Who, all for want of pruning, with intrusion
 Infect thy sap and live on thy confusion.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>aside</i>]
 To me she speaks; she moves me for her theme.
 What, was I married to her in my dream?
@@ -965,7 +965,7 @@ And shrive you of a thousand idle pranks.
 Say he dines forth, and let no creature enter.&mdash;
 Come, sister.&mdash;Dromio, play the porter well.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>aside</i>]
 Am I in Earth, in heaven, or in hell?
 Sleeping or waking, mad or well-advised?
@@ -1056,7 +1056,7 @@ them let us in.
 <speaker>DROMIO OF EPHESUS</speaker>
 Maud, Bridget, Marian, Ciceley, Gillian, Ginn!
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Mome, malt-horse, capon, coxcomb, idiot, patch!
 Either get thee from the door or sit down at the
@@ -1070,7 +1070,7 @@ door.
 What patch is made our porter? My master stays in
 the street.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Let him walk from whence he came, lest he catch
 cold on &rsquo;s feet.
@@ -1078,7 +1078,7 @@ cold on &rsquo;s feet.
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Who talks within there? Ho, open the door.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Right, sir, I&rsquo;ll tell you when an you&rsquo;ll tell me
 wherefore.
@@ -1086,7 +1086,7 @@ wherefore.
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Wherefore? For my dinner. I have not dined today.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Nor today here you must not. Come again when you
 may.
@@ -1095,7 +1095,7 @@ may.
 What art thou that keep&rsquo;st me out from the house I
 owe?
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 The porter for this time, sir, and my name is
 Dromio.
@@ -1131,19 +1131,19 @@ Have at you with a proverb: shall I set in my staff?
 Have at you with another: that&rsquo;s&mdash;When, can you
 tell?
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 If thy name be called "&ldquo;Luce,&rdquo;" Luce, thou hast
 answered him well.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Luce</i>]
 Do you hear, you minion? You&rsquo;ll let us in, I hope?
 
 <speaker>LUCE</speaker>
 I thought to have asked you.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
    And you said no.
 
@@ -1151,7 +1151,7 @@ I thought to have asked you.
 So, come help. Well struck! There was blow for
 blow.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Luce</i>]
 Thou baggage, let me in.
 
@@ -1178,7 +1178,7 @@ and his company.</i>]
 <speaker>ADRIANA</speaker>
 Who is that at the door that keeps all this noise?
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 By my troth, your town is troubled with unruly
 boys.
@@ -1194,7 +1194,7 @@ Your wife, sir knave? Go, get you from the door.
 If you went in pain, master, this knave would go
 sore.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Here is neither cheer, sir, nor welcome. We would
 fain have either.
@@ -1222,7 +1222,7 @@ bought and sold.
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Go, fetch me something. I&rsquo;ll break ope the gate.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Break any breaking here, and I&rsquo;ll break your knave&rsquo;s
 pate.
@@ -1233,7 +1233,7 @@ are but wind,
 Ay, and break it in your face, so he break it not
 behind.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 It seems thou want&rsquo;st breaking. Out upon thee, hind!
 
@@ -1241,12 +1241,12 @@ It seems thou want&rsquo;st breaking. Out upon thee, hind!
 Here&rsquo;s too much "&ldquo;Out upon thee!&rdquo;" I pray thee, let
 me in.
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
 Ay, when fowls have no feathers and fish have no
 fin.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Dromio of Ephesus</i>]
 Well, I&rsquo;ll break in. Go, borrow me a crow.
 
@@ -1652,7 +1652,7 @@ If any ship put out, then straight away.
 [<i>Enter a Second Merchant, Angelo the Goldsmith,
 and an Officer.</i>]
 
-<speaker>SECOND MERCHANT,</speaker>
+<speaker>SECOND MERCHANT</speaker>
 [<i>to Angelo</i>]
 You know since Pentecost the sum is due,
 And since I have not much importuned you,
@@ -1676,7 +1676,7 @@ Ephesus from the Courtesan&rsquo;s.</i>]
 <speaker>OFFICER</speaker>
 That labor may you save. See where he comes.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Dromio of Ephesus</i>]
 While I go to the goldsmith&rsquo;s house, go thou
 And buy a rope&rsquo;s end. That will I bestow
@@ -1689,7 +1689,7 @@ Buy thou a rope, and bring it home to me.
 I buy a thousand pound a year! I buy a rope!
 [<i>Dromio exits.</i>]
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Angelo</i>]
 A man is well holp up that trusts to you!
 I promised your presence and the chain,
@@ -1697,7 +1697,7 @@ But neither chain nor goldsmith came to me.
 Belike you thought our love would last too long
 If it were chained together, and therefore came not.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>handing a paper to Antipholus of Ephesus</i>]
 Saving your merry humor, here&rsquo;s the note
 How much your chain weighs to the utmost carat,
@@ -1739,11 +1739,11 @@ Your breach of promise to the Porpentine.
 I should have chid you for not bringing it,
 But, like a shrew, you first begin to brawl.
 
-<speaker>SECOND MERCHANT,</speaker>
+<speaker>SECOND MERCHANT</speaker>
 [<i>to Angelo</i>]
 The hour steals on. I pray you, sir, dispatch.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>to Antipholus of Ephesus</i>]
 You hear how he importunes me. The chain!
 
@@ -1785,12 +1785,12 @@ Consider how it stands upon my credit.
 <speaker>SECOND MERCHANT</speaker>
 Well, officer, arrest him at my suit.
 
-<speaker>OFFICER,</speaker>
+<speaker>OFFICER</speaker>
 [<i>to Angelo</i>]
 I do, and charge you in the Duke&rsquo;s name to obey
 me.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>to Antipholus of Ephesus</i>]
 This touches me in reputation.
 Either consent to pay this sum for me,
@@ -1800,13 +1800,13 @@ Or I attach you by this officer.
 Consent to pay thee that I never had?&mdash;
 Arrest me, foolish fellow, if thou dar&rsquo;st.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>to Officer</i>]
 Here is thy fee. Arrest him, officer.	[<i>Giving money.</i>]
 I would not spare my brother in this case
 If he should scorn me so apparently.
 
-<speaker>OFFICER,</speaker>
+<speaker>OFFICER</speaker>
 [<i>to Antipholus of Ephesus</i>]
 I do arrest you, sir. You hear the suit.
 
@@ -2141,7 +2141,7 @@ Why, Dromio?
 Marry, he must have a long
 spoon that must eat with the devil.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>to the Courtesan</i>]
 Avoid then, fiend! What tell&rsquo;st thou me of supping?
 Thou art, as you are all, a sorceress.
@@ -2209,7 +2209,7 @@ Here comes my man. I think he brings the
 money.
 How now, sir? Have you that I sent you for?
 
-<speaker>DROMIO OF EPHESUS,</speaker>
+<speaker>DROMIO OF EPHESUS</speaker>
 [<i>handing over the rope&rsquo;s end</i>]
 Here&rsquo;s that, I warrant you, will pay them all.
 
@@ -2232,7 +2232,7 @@ To what end did I bid thee hie thee home?
 To a rope&rsquo;s end, sir, and to that
 end am I returned.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>beating Dromio</i>]
 And to that end, sir, I will welcome you.
 
@@ -2291,7 +2291,7 @@ your end, or rather, the prophecy like the parrot,
 Wilt thou still talk?
 [<i>Beats Dromio.</i>]
 
-<speaker>COURTESAN,</speaker>
+<speaker>COURTESAN</speaker>
 [<i>to Adriana</i>]
 How say you now? Is not your husband mad?
 
@@ -2307,11 +2307,11 @@ Alas, how fiery and how sharp he looks!
 <speaker>COURTESAN</speaker>
 Mark how he trembles in his ecstasy.
 
-<speaker>PINCH,</speaker>
+<speaker>PINCH</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Give me your hand, and let me feel your pulse.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>striking Pinch</i>]
 There is my hand, and let it feel your ear.
 
@@ -2372,7 +2372,7 @@ And did not I in rage depart from thence?
 In verity you did.&mdash;My bones bears witness,
 That since have felt the vigor of his rage.
 
-<speaker>ADRIANA,</speaker>
+<speaker>ADRIANA</speaker>
 [<i>to Pinch</i>]
 Is &rsquo;t good to soothe him in these contraries?
 
@@ -2380,7 +2380,7 @@ Is &rsquo;t good to soothe him in these contraries?
 It is no shame. The fellow finds his vein
 And, yielding to him, humors well his frenzy.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Adriana</i>]
 Thou hast suborned the goldsmith to arrest me.
 
@@ -2410,7 +2410,7 @@ Mistress, both man and master is possessed.
 I know it by their pale and deadly looks.
 They must be bound and laid in some dark room.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Adriana</i>]
 Say wherefore didst thou lock me forth today.
 [<i>To Dromio of Ephesus.</i>]
@@ -2458,7 +2458,7 @@ He is my prisoner, and you shall not have him.
 Go, bind this man, for he is frantic too.
 [<i>Dromio is bound.</i>]
 
-<speaker>ADRIANA,</speaker>
+<speaker>ADRIANA</speaker>
 [<i>to Officer</i>]
 What wilt thou do, thou peevish officer?
 Hast thou delight to see a wretched man
@@ -2492,7 +2492,7 @@ Cry "&ldquo;The devil!&rdquo;"
 <speaker>LUCIANA</speaker>
 God help poor souls! How idly do they talk!
 
-<speaker>ADRIANA,</speaker>
+<speaker>ADRIANA</speaker>
 [<i>to Pinch</i>]
 Go bear him hence.
 [<i>Pinch and his men exit with Antipholus
@@ -2779,7 +2779,7 @@ To separate the husband and the wife.
 Be quiet and depart. Thou shalt not have him.
 [<i>She exits.</i>]
 
-<speaker>LUCIANA,</speaker>
+<speaker>LUCIANA</speaker>
 [<i>to Adriana</i>]
 Complain unto the Duke of this indignity.
 
@@ -2808,7 +2808,7 @@ Beheaded publicly for his offense.
 <speaker>ANGELO</speaker>
 See where they come. We will behold his death.
 
-<speaker>LUCIANA,</speaker>
+<speaker>LUCIANA</speaker>
 [<i>to Adriana</i>]
 Kneel to the Duke before he pass the abbey.
 
@@ -2821,7 +2821,7 @@ Yet once again proclaim it publicly,
 If any friend will pay the sum for him,
 He shall not die; so much we tender him.
 
-<speaker>ADRIANA,</speaker>
+<speaker>ADRIANA</speaker>
 [<i>kneeling</i>]
 Justice, most sacred duke, against the Abbess.
 
@@ -2910,7 +2910,7 @@ When I bestrid thee in the wars and took
 Deep scars to save thy life. Even for the blood
 That then I lost for thee, now grant me justice.
 
-<speaker>EGEON,</speaker>
+<speaker>EGEON</speaker>
 [<i>aside</i>]
 Unless the fear of death doth make me dote,
 I see my son Antipholus and Dromio.
@@ -3002,7 +3002,7 @@ But had he such a chain of thee or no?
 He had, my lord, and when he ran in here,
 These people saw the chain about his neck.
 
-<speaker>SECOND MERCHANT,</speaker>
+<speaker>SECOND MERCHANT</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Besides, I will be sworn these ears of mine
 Heard you confess you had the chain of him
@@ -3029,18 +3029,18 @@ Denies that saying. [<i>To Dromio of Ephesus.</i>]
  Sirrah,
 what say you?
 
-<speaker>DROMIO OF EPHESUS,</speaker>
+<speaker>DROMIO OF EPHESUS</speaker>
 [<i>pointing to the Courtesan</i>]
 Sir, he dined with her there at the Porpentine.
 
 <speaker>COURTESAN</speaker>
 He did, and from my finger snatched that ring.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>showing a ring</i>]
 &rsquo;Tis true, my liege, this ring I had of her.
 
-<speaker>DUKE,</speaker>
+<speaker>DUKE</speaker>
 [<i>to Courtesan</i>]
 Saw&rsquo;st thou him enter at the abbey here?
 
@@ -3060,7 +3060,7 @@ And pay the sum that may deliver me.
 <speaker>DUKE</speaker>
 Speak freely, Syracusian, what thou wilt.
 
-<speaker>EGEON,</speaker>
+<speaker>EGEON</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Is not your name, sir, called Antipholus?
 And is not that your bondman Dromio?
@@ -3078,7 +3078,7 @@ Ourselves we do remember, sir, by you,
 For lately we were bound as you are now.
 You are not Pinch&rsquo;s patient, are you, sir?
 
-<speaker>EGEON,</speaker>
+<speaker>EGEON</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Why look you strange on me? You know me well.
 
@@ -3199,7 +3199,7 @@ And me they left with those of Epidamium.
 What then became of them I cannot tell;
 I to this fortune that you see me in.
 
-<speaker>DUKE,</speaker>
+<speaker>DUKE</speaker>
 [<i>to Antipholus of Syracuse</i>]
 Antipholus, thou cam&rsquo;st from Corinth first.
 
@@ -3240,21 +3240,21 @@ then
 I hope I shall have leisure to make good,
 If this be not a dream I see and hear.
 
-<speaker>ANGELO,</speaker>
+<speaker>ANGELO</speaker>
 [<i>turning to Antipholus of Syracuse</i>]
 That is the chain, sir, which you had of me.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 I think it be, sir. I deny it not.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to Angelo</i>]
 And you, sir, for this chain arrested me.
 
 <speaker>ANGELO</speaker>
 I think I did, sir. I deny it not.
 
-<speaker>ADRIANA,</speaker>
+<speaker>ADRIANA</speaker>
 [<i>to Antipholus of Ephesus</i>]
 I sent you money, sir, to be your bail
 By Dromio, but I think he brought it not.
@@ -3262,7 +3262,7 @@ By Dromio, but I think he brought it not.
 <speaker>DROMIO OF EPHESUS</speaker>
 No, none by me.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>to Adriana</i>]
 This purse of ducats I received from you,
 And Dromio my man did bring them me.
@@ -3270,14 +3270,14 @@ I see we still did meet each other&rsquo;s man,
 And I was ta&rsquo;en for him, and he for me,
 And thereupon these errors are arose.
 
-<speaker>ANTIPHOLUS OF EPHESUS,</speaker>
+<speaker>ANTIPHOLUS OF EPHESUS</speaker>
 [<i>to the Duke</i>]
 These ducats pawn I for my father here.
 
 <speaker>DUKE</speaker>
 It shall not need. Thy father hath his life.
 
-<speaker>COURTESAN,</speaker>
+<speaker>COURTESAN</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Sir, I must have that diamond from you.
 
@@ -3305,7 +3305,7 @@ With all my heart I&rsquo;ll gossip at this feast.
 [<i>All exit except the two Dromios
 and the two brothers Antipholus.</i>]
 
-<speaker>DROMIO OF SYRACUSE,</speaker>
+<speaker>DROMIO OF SYRACUSE</speaker>
 [<i>to Antipholus of Ephesus</i>]
 Master, shall I fetch your stuff from shipboard?
 
@@ -3315,7 +3315,7 @@ Dromio, what stuff of mine hast thou embarked?
 <speaker>DROMIO OF SYRACUSE</speaker>
 Your goods that lay at host, sir, in the Centaur.
 
-<speaker>ANTIPHOLUS OF SYRACUSE,</speaker>
+<speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 [<i>to Antipholus of Ephesus</i>]
 He speaks to me.&mdash;I am your master, Dromio.
 Come, go with us. We&rsquo;ll look to that anon.

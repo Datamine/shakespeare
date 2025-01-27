@@ -1114,7 +1114,7 @@ But who is here? Lysander, on the ground!
 Dead or asleep? I see no blood, no wound.&mdash;
 Lysander, if you live, good sir, awake.
 
-<speaker>LYSANDER,</speaker>
+<speaker>LYSANDER</speaker>
 [<i>waking up</i>]
 And run through fire I will for thy sweet sake.
 Transparent Helena! Nature shows art,
@@ -1168,7 +1168,7 @@ Of all be hated, but the most of me!
 And, all my powers, address your love and might
 To honor Helen and to be her knight.	[<i>He exits.</i>]
 
-<speaker>HERMIA,</speaker>
+<speaker>HERMIA</speaker>
 [<i>waking up</i>]
 Help me, Lysander, help me! Do thy best
 To pluck this crawling serpent from my breast.
@@ -1316,7 +1316,7 @@ according to his cue.
 
 [<i>Enter Robin invisible to those onstage.</i>]
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>aside</i>]
 What hempen homespuns have we swagg&rsquo;ring here
 So near the cradle of the Fairy Queen?
@@ -1326,21 +1326,21 @@ An actor too perhaps, if I see cause.
 <speaker>QUINCE</speaker>
 Speak, Pyramus.&mdash;Thisbe, stand forth.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 	Thisbe, the flowers of odious savors sweet&mdash;
 
 <speaker>QUINCE</speaker>
 Odors, odors!
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 		...odors savors sweet.
 	So hath thy breath, my dearest Thisbe dear.&mdash;
 	But hark, a voice! Stay thou but here awhile,
 	And by and by I will to thee appear.	[<i>He exits.</i>]
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>aside</i>]
 A stranger Pyramus than e&rsquo;er played here.	[<i>He exits.</i>]
 
@@ -1352,7 +1352,7 @@ Ay, marry, must you, for you must understand
 he goes but to see a noise that he heard and is to
 come again.
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 	Most radiant Pyramus, most lily-white of hue,
 	Of color like the red rose on triumphant brier,
@@ -1375,7 +1375,7 @@ tire.
 [<i>Enter Robin, and Bottom as Pyramus with the
 ass-head.</i>]
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 	If I were fair, fair Thisbe, I were only thine.
 
@@ -1426,7 +1426,7 @@ I am not afraid.
 	The throstle with his note so true,
 	   The wren with little quill&mdash;
 
-<speaker>TITANIA,</speaker>
+<speaker>TITANIA</speaker>
 [<i>waking up</i>]
 What angel wakes me from my flow&rsquo;ry bed?
 
@@ -1695,7 +1695,7 @@ Which now in some slight measure it will pay,
 If for his tender here I make some stay.
 [<i>He lies down and falls asleep.</i>]
 
-<speaker>OBERON,</speaker>
+<speaker>OBERON</speaker>
 [<i>to Robin</i>]
 What hast thou done? Thou hast mistaken quite
 And laid the love juice on some true-love&rsquo;s sight.
@@ -1718,7 +1718,7 @@ I&rsquo;ll charm his eyes against she do appear.
 I go, I go, look how I go,
 Swifter than arrow from the Tartar&rsquo;s bow.	[<i>He exits.</i>]
 
-<speaker>OBERON,</speaker>
+<speaker>OBERON</speaker>
 [<i>applying the nectar to Demetrius&rsquo; eyes</i>]
 	Flower of this purple dye,
 	Hit with Cupid&rsquo;s archery,
@@ -1778,7 +1778,7 @@ Nor none, in my mind, now you give her o&rsquo;er.
 <speaker>LYSANDER</speaker>
 Demetrius loves her, and he loves not you.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>waking up</i>]
 O Helen, goddess, nymph, perfect, divine!
 To what, my love, shall I compare thine eyne?
@@ -1836,7 +1836,7 @@ Look where thy love comes. Yonder is thy dear.
 
 [<i>Enter Hermia.</i>]
 
-<speaker>HERMIA,</speaker>
+<speaker>HERMIA</speaker>
 [<i>to Lysander</i>]
 Dark night, that from the eye his function takes,
 The ear more quick of apprehension makes;
@@ -1933,11 +1933,11 @@ My love, my life, my soul, fair Helena.
 <speaker>HELENA</speaker>
 O excellent!
 
-<speaker>HERMIA,</speaker>
+<speaker>HERMIA</speaker>
 [<i>to Lysander</i>]
 Sweet, do not scorn her so.
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to Lysander</i>]
 If she cannot entreat, I can compel.
 
@@ -1965,7 +1965,7 @@ Lysander, whereto tends all this?
 <speaker>LYSANDER</speaker>
 Away, you Ethiop!
 
-<speaker>DEMETRIUS,</speaker>
+<speaker>DEMETRIUS</speaker>
 [<i>to Hermia</i>]
 No, no. He&rsquo;ll
 Seem to break loose. [<i>To Lysander.</i>]
@@ -1973,7 +1973,7 @@ Seem to break loose. [<i>To Lysander.</i>]
 would follow,
 But yet come not. You are a tame man, go!
 
-<speaker>LYSANDER,</speaker>
+<speaker>LYSANDER</speaker>
 [<i>to Hermia</i>]
 Hang off, thou cat, thou burr! Vile thing, let loose,
 Or I will shake thee from me like a serpent.
@@ -2136,7 +2136,7 @@ My legs are longer though, to run away.	[<i>She exits.</i>]
 <speaker>HERMIA</speaker>
 I am amazed and know not what to say.	[<i>She exits.</i>]
 
-<speaker>OBERON,</speaker>
+<speaker>OBERON</speaker>
 [<i>to Robin</i>]
 This is thy negligence. Still thou mistak&rsquo;st,
 Or else committ&rsquo;st thy knaveries willfully.
@@ -2212,14 +2212,14 @@ Here comes one.
 <speaker>LYSANDER</speaker>
 Where art thou, proud Demetrius? Speak thou now.
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Demetrius&rsquo; voice</i>]
 Here, villain, drawn and ready. Where art thou?
 
 <speaker>LYSANDER</speaker>
 I will be with thee straight.
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Demetrius&rsquo; voice</i>]
   Follow me, then, to
 plainer ground.	[<i>Lysander exits.</i>]
@@ -2232,7 +2232,7 @@ Thou runaway, thou coward, art thou fled?
 Speak! In some bush? Where dost thou hide thy
 head?
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Lysander&rsquo;s voice</i>]
 Thou coward, art thou bragging to the stars,
 Telling the bushes that thou look&rsquo;st for wars,
@@ -2244,7 +2244,7 @@ That draws a sword on thee.
 <speaker>DEMETRIUS</speaker>
 Yea, art thou there?
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Lysander&rsquo;s voice</i>]
 Follow my voice. We&rsquo;ll try no manhood here.
 [<i>They exit.</i>]
@@ -2264,7 +2264,7 @@ I&rsquo;ll find Demetrius and revenge this spite.
 
 [<i>Enter Robin and Demetrius.</i>]
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Lysander&rsquo;s voice</i>]
 Ho, ho, ho! Coward, why com&rsquo;st thou not?
 
@@ -2274,7 +2274,7 @@ Thou runn&rsquo;st before me, shifting every place,
 And dar&rsquo;st not stand nor look me in the face.
 Where art thou now?
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>in Lysander&rsquo;s voice</i>]
 Come hither. I am here.
 
@@ -2465,7 +2465,7 @@ But first I will release the Fairy Queen.
 	Hath such force and blessed power.
 Now, my Titania, wake you, my sweet queen.
 
-<speaker>TITANIA,</speaker>
+<speaker>TITANIA</speaker>
 [<i>waking</i>]
 My Oberon, what visions have I seen!
 Methought I was enamored of an ass.
@@ -2485,7 +2485,7 @@ Than common sleep of all these five the sense.
 <speaker>TITANIA</speaker>
 Music, ho, music such as charmeth sleep!
 
-<speaker>ROBIN,</speaker>
+<speaker>ROBIN</speaker>
 [<i>removing the ass-head from Bottom</i>]
 Now, when thou wak&rsquo;st, with thine own fool&rsquo;s eyes
 peep.
@@ -2677,7 +2677,7 @@ Why, then, we are awake. Let&rsquo;s follow him,
 And by the way let us recount our dreams.
 [<i>Lovers exit.</i>]
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>waking up</i>]
    When my cue comes, call me,
 and I will answer. My next is "&ldquo;Most fair Pyramus.&rdquo;"
@@ -2844,7 +2844,7 @@ What revels are in hand? Is there no play
 To ease the anguish of a torturing hour?
 Call Philostrate.
 
-<speaker>PHILOSTRATE,</speaker>
+<speaker>PHILOSTRATE</speaker>
 [<i>coming forward</i>]
   Here, mighty Theseus.
 
@@ -2853,7 +2853,7 @@ Say what abridgment have you for this evening,
 What masque, what music? How shall we beguile
 The lazy time if not with some delight?
 
-<speaker>PHILOSTRATE,</speaker>
+<speaker>PHILOSTRATE</speaker>
 [<i>giving Theseus a paper</i>]
 There is a brief how many sports are ripe.
 Make choice of which your Highness will see first.
@@ -2990,7 +2990,7 @@ impaired, but all disordered. Who is next?
 Wall (Snout), and Moonshine (Starveling), and Lion
 (Snug), and Prologue (Quince).</i>]
 
-<speaker>QUINCE,</speaker>
+<speaker>QUINCE</speaker>
 [<i>as Prologue</i>]
 Gentles, perchance you wonder at this show.
    But wonder on, till truth make all things plain.
@@ -3028,7 +3028,7 @@ No wonder, my lord. One lion may when
 many asses do.
 [<i>Lion, Thisbe, Moonshine, and Prologue exit.</i>]
 
-<speaker>SNOUT,</speaker>
+<speaker>SNOUT</speaker>
 [<i>as Wall</i>]
 In this same interlude it doth befall
 That I, one Snout by name, present a wall;
@@ -3052,7 +3052,7 @@ discourse, my lord.
 <speaker>THESEUS</speaker>
 Pyramus draws near the wall. Silence.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 O grim-looked night! O night with hue so black!
    O night, which ever art when day is not!
@@ -3082,58 +3082,58 @@ pat as I told you. Yonder she comes.
 
 [<i>Enter Thisbe (Flute).</i>]
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 O wall, full often hast thou heard my moans
    For parting my fair Pyramus and me.
 My cherry lips have often kissed thy stones,
    Thy stones with lime and hair knit up in thee.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 I see a voice! Now will I to the chink
    To spy an I can hear my Thisbe&rsquo;s face.
 Thisbe?
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 My love! Thou art my love, I think.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
    Think what thou wilt, I am thy lover&rsquo;s grace,
 And, like Limander, am I trusty still.
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 And I like Helen, till the Fates me kill.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 Not Shafalus to Procrus was so true.
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 As Shafalus to Procrus, I to you.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 O kiss me through the hole of this vile wall.
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 I kiss the wall&rsquo;s hole, not your lips at all.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 Wilt thou at Ninny&rsquo;s tomb meet me straightway?
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 &rsquo;Tide life, &rsquo;tide death, I come without delay.
 [<i>Bottom and Flute exit.</i>]
 
-<speaker>SNOUT,</speaker>
+<speaker>SNOUT</speaker>
 [<i>as Wall</i>]
 Thus have I, Wall, my part discharged so,
 And, being done, thus Wall away doth go.	[<i>He exits.</i>]
@@ -3165,7 +3165,7 @@ come two noble beasts in, a man and a lion.
 
 [<i>Enter Lion (Snug) and Moonshine (Starveling).</i>]
 
-<speaker>SNUG,</speaker>
+<speaker>SNUG</speaker>
 [<i>as Lion</i>]
 You ladies, you whose gentle hearts do fear
    The smallest monstrous mouse that creeps on
@@ -3201,7 +3201,7 @@ valor, for the goose carries not the fox. It is well.
 Leave it to his discretion, and let us listen to the
 Moon.
 
-<speaker>STARVELING,</speaker>
+<speaker>STARVELING</speaker>
 [<i>as Moonshine</i>]
 This lanthorn doth the horned moon present.
 
@@ -3213,7 +3213,7 @@ head.
 He is no crescent, and his horns are invisible
 within the circumference.
 
-<speaker>STARVELING,</speaker>
+<speaker>STARVELING</speaker>
 [<i>as Moonshine</i>]
 This lanthorn doth the horned moon present.
 Myself the man i&rsquo; th&rsquo; moon do seem to be.
@@ -3239,7 +3239,7 @@ we must stay the time.
 <speaker>LYSANDER</speaker>
 Proceed, Moon.
 
-<speaker>STARVELING,</speaker>
+<speaker>STARVELING</speaker>
 [<i>as Moonshine</i>]
    All that I have to say is to tell
 you that the lanthorn is the moon, I the man i&rsquo; th&rsquo;
@@ -3253,11 +3253,11 @@ comes Thisbe.
 
 [<i>Enter Thisbe (Flute).</i>]
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 This is old Ninny&rsquo;s tomb. Where is my love?
 
-<speaker>SNUG,</speaker>
+<speaker>SNUG</speaker>
 [<i>as Lion</i>]
   O!
 [<i>The Lion roars. Thisbe runs off,
@@ -3286,7 +3286,7 @@ And then came Pyramus.
 <speaker>LYSANDER</speaker>
 And so the lion vanished.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 Sweet Moon, I thank thee for thy sunny beams.
    I thank thee, Moon, for shining now so bright,
@@ -3312,7 +3312,7 @@ would go near to make a man look sad.
 <speaker>HIPPOLYTA</speaker>
 Beshrew my heart but I pity the man.
 
-<speaker>BOTTOM,</speaker>
+<speaker>BOTTOM</speaker>
 [<i>as Pyramus</i>]
 O, wherefore, Nature, didst thou lions frame,
    Since lion vile hath here deflowered my dear,
@@ -3371,7 +3371,7 @@ sweet eyes.
 <speaker>DEMETRIUS</speaker>
 And thus she means, videlicet&mdash;
 
-<speaker>FLUTE,</speaker>
+<speaker>FLUTE</speaker>
 [<i>as Thisbe</i>]
 	      Asleep, my love?
 	      What, dead, my dove?

@@ -224,7 +224,7 @@ Wracked as homeward he did come.	[<i>Drum within.</i>]
 A drum, a drum!
 Macbeth doth come.
 
-<speaker>ALL,</speaker>
+<speaker>ALL</speaker>
 [<i>dancing in a circle</i>]
 The Weird Sisters, hand in hand,
 Posters of the sea and land,
@@ -380,7 +380,7 @@ He labored in his country&rsquo;s wrack, I know not;
 But treasons capital, confessed and proved,
 Have overthrown him.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
   Glamis and Thane of Cawdor!
 The greatest is behind. [<i>To Ross and Angus.</i>]
@@ -402,7 +402,7 @@ Win us with honest trifles, to betray &rsquo;s
 In deepest consequence.&mdash;
 Cousins, a word, I pray you.	[<i>They step aside.</i>]
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
   Two truths are told
 As happy prologues to the swelling act
@@ -425,7 +425,7 @@ And nothing is but what is not.
 <speaker>BANQUO</speaker>
 Look how our partner&rsquo;s rapt.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
 If chance will have me king, why, chance may
 crown me
@@ -436,7 +436,7 @@ New honors come upon him,
 Like our strange garments, cleave not to their mold
 But with the aid of use.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
   Come what come may,
 Time and the hour runs through the roughest day.
@@ -542,7 +542,7 @@ So humbly take my leave.
 <speaker>DUNCAN</speaker>
 My worthy Cawdor.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
 The Prince of Cumberland! That is a step
 On which I must fall down or else o&rsquo;erleap,
@@ -564,7 +564,7 @@ It is a peerless kinsman.
 <hr>
 [<i>Enter Macbeth&rsquo;s Wife, alone, with a letter.</i>]
 
-<speaker>LADY MACBETH,</speaker>
+<speaker>LADY MACBETH</speaker>
 [<i>reading the letter</i>]
   They met me in the
 day of success, and I have learned by the perfect&rsquo;st
@@ -1015,7 +1015,7 @@ their possets,
 That death and nature do contend about them
 Whether they live or die.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>within</i>]
   Who&rsquo;s there? what, ho!
 
@@ -1415,19 +1415,19 @@ Help me hence, ho!
 <speaker>MACDUFF</speaker>
 Look to the lady.
 
-<speaker>MALCOLM,</speaker>
+<speaker>MALCOLM</speaker>
 [<i>aside to Donalbain</i>]
   Why do we hold our
 tongues,
 That most may claim this argument for ours?
 
-<speaker>DONALBAIN,</speaker>
+<speaker>DONALBAIN</speaker>
 [<i>aside to Malcolm</i>]
 What should be spoken here, where our fate,
 Hid in an auger hole, may rush and seize us?
 Let&rsquo;s away. Our tears are not yet brewed.
 
-<speaker>MALCOLM,</speaker>
+<speaker>MALCOLM</speaker>
 [<i>aside to Donalbain</i>]
 Nor our strong sorrow upon the foot of motion.
 
@@ -1932,7 +1932,7 @@ But who did bid thee join with us?
 <speaker>THIRD MURDERER</speaker>
 Macbeth.
 
-<speaker>SECOND MURDERER,</speaker>
+<speaker>SECOND MURDERER</speaker>
 [<i>to the First Murderer</i>]
 He needs not our mistrust, since he delivers
 Our offices and what we have to do
@@ -1948,7 +1948,7 @@ The subject of our watch.
 <speaker>THIRD MURDERER</speaker>
 Hark, I hear horses.
 
-<speaker>BANQUO,</speaker>
+<speaker>BANQUO</speaker>
 [<i>within</i>]
   Give us a light there, ho!
 
@@ -1976,7 +1976,7 @@ A light, a light!
 <speaker>FIRST MURDERER</speaker>
 Stand to &rsquo;t.
 
-<speaker>BANQUO,</speaker>
+<speaker>BANQUO</speaker>
 [<i>to Fleance</i>]
   It will be rain tonight.
 
@@ -2057,7 +2057,7 @@ If thou didst it, thou art the nonpareil.
 <speaker>MURDERER</speaker>
 Most royal sir, Fleance is &rsquo;scaped.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
 Then comes my fit again. I had else been perfect,
 Whole as the marble, founded as the rock,
@@ -2087,7 +2087,7 @@ Meeting were bare without it.
 
 [<i>Enter the Ghost of Banquo, and sits in Macbeth&rsquo;s place.</i>]
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>to Lady Macbeth</i>]
   Sweet remembrancer!&mdash;
 Now, good digestion wait on appetite
@@ -2127,7 +2127,7 @@ Which of you have done this?
 <speaker>LORDS</speaker>
 What, my good lord?
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>to the Ghost</i>]
 Thou canst not say I did it. Never shake
 Thy gory locks at me.
@@ -2211,7 +2211,7 @@ And all to all.
 Our duties, and the pledge.
 [<i>They raise their drinking cups.</i>]
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>to the Ghost</i>]
 Avaunt, and quit my sight! Let the earth hide thee.
 Thy bones are marrowless; thy blood is cold;
@@ -2224,7 +2224,7 @@ peers,
 But as a thing of custom. &rsquo;Tis no other;
 Only it spoils the pleasure of the time.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>to the Ghost</i>]
   What man dare, I dare.
 Approach thou like the rugged Russian bear,
@@ -2728,7 +2728,7 @@ Fled to England?
 <speaker>LENNOX</speaker>
 Ay, my good lord.
 
-<speaker>MACBETH,</speaker>
+<speaker>MACBETH</speaker>
 [<i>aside</i>]
 Time, thou anticipat&rsquo;st my dread exploits.
 The flighty purpose never is o&rsquo;ertook
@@ -3702,7 +3702,7 @@ Bring it after me.&mdash;
 I will not be afraid of death and bane
 Till Birnam Forest come to Dunsinane.
 
-<speaker>DOCTOR,</speaker>
+<speaker>DOCTOR</speaker>
 [<i>aside</i>]
 Were I from Dunsinane away and clear,
 Profit again should hardly draw me here.

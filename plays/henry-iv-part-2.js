@@ -393,7 +393,7 @@ the stews, I were manned, horsed, and wived.
 
 [<i>Enter Lord Chief Justice and Servant.</i>]
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Falstaff</i>]
   Sir, here comes the nobleman that
 committed the Prince for striking him about
@@ -403,7 +403,7 @@ Bardolph.
 Wait close. I will not see him.
 [<i>They begin to exit.</i>]
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Servant</i>]
   What&rsquo;s he that goes there?
 
@@ -435,7 +435,7 @@ I am sure he is, to the hearing of
 anything good.&mdash;Go pluck him by the elbow. I must
 speak with him.
 
-<speaker>SERVANT,</speaker>
+<speaker>SERVANT</speaker>
 [<i>plucking Falstaff&rsquo;s sleeve</i>]
   Sir John!
 
@@ -909,14 +909,14 @@ It is entered.
 Where&rsquo;s your yeoman? Is &rsquo;t a lusty yeoman?
 Will he stand to &rsquo;t?
 
-<speaker>FANG,</speaker>
+<speaker>FANG</speaker>
 [<i>calling</i>]
   Sirrah! Where&rsquo;s Snare?
 
 <speaker>HOSTESS</speaker>
 O Lord, ay, good Master Snare.
 
-<speaker>SNARE,</speaker>
+<speaker>SNARE</speaker>
 [<i>catching up to them</i>]
   Here, here.
 
@@ -1133,7 +1133,7 @@ The King, my lord, and Harry Prince of Wales
 Are near at hand. The rest the paper tells.
 [<i>He gives the Chief Justice a paper to read.</i>]
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to the Hostess</i>]
   As I am a gentleman!
 
@@ -1189,16 +1189,16 @@ No more words. Let&rsquo;s have her.
 [<i>Hostess, Fang, Snare, Bardolph, Page,
 and others exit.</i>]
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Gower</i>]
   I have heard better news.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Chief Justice</i>]
   What&rsquo;s the news, my good
 lord?
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Gower</i>]
   Where lay the King
 tonight?
@@ -1206,12 +1206,12 @@ tonight?
 <speaker>GOWER</speaker>
 At Basingstoke, my lord.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Chief Justice</i>]
   I hope, my lord, all&rsquo;s
 well. What is the news, my lord?
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Gower</i>]
   Come all his forces back?
 
@@ -1220,11 +1220,11 @@ No. Fifteen hundred foot, five hundred horse
 Are marched up to my Lord of Lancaster
 Against Northumberland and the Archbishop.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Chief Justice</i>]
 Comes the King back from Wales, my noble lord?
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Gower</i>]
 You shall have letters of me presently.
 Come. Go along with me, good Master Gower.
@@ -1388,7 +1388,7 @@ God save your Grace.
 <speaker>PRINCE</speaker>
 And yours, most noble Bardolph.
 
-<speaker>POINS,</speaker>
+<speaker>POINS</speaker>
 [<i>to Bardolph</i>]
   Come, you virtuous ass, you bashful
 fool, must you be blushing? Wherefore blush
@@ -1406,7 +1406,7 @@ petticoat and so peeped through.
 <speaker>PRINCE</speaker>
 Has not the boy profited?
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>to Page</i>]
   Away, you whoreson upright rabbit,
 away!
@@ -1748,7 +1748,7 @@ gold. Lo, here comes Sir John.
 
 [<i>Enter Sir John Falstaff.</i>]
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>singing</i>]
 When Arthur first in court&mdash;
 [<i>To Will.</i>]
@@ -1946,14 +1946,14 @@ odious as the word "&ldquo;occupy,&rdquo;" which was an excellent
 good word before it was ill sorted. Therefore
 captains had need look to &rsquo;t.
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>to Pistol</i>]
   Pray thee go down, good ancient.
 
 <speaker>FALSTAFF</speaker>
 Hark thee hither, Mistress Doll.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>to Bardolph</i>]
   Not I. I tell thee what, Corporal
 Bardolph, I could tear her. I&rsquo;ll be revenged of her.
@@ -2029,7 +2029,7 @@ nothing, he shall be nothing here.
 <speaker>BARDOLPH</speaker>
 Come, get you downstairs.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>taking up his sword</i>]
   What, shall we have
 incision? Shall we imbrue? Then death rock me
@@ -2046,7 +2046,7 @@ Give me my rapier, boy.
 <speaker>DOLL</speaker>
 I pray thee, Jack, I pray thee do not draw.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Pistol</i>]
   Get you downstairs.	[<i>They fight.</i>]
 
@@ -2061,7 +2061,7 @@ naked weapons, put up your naked weapons.
 I pray thee, Jack, be quiet. The rascal&rsquo;s gone. Ah,
 you whoreson little valiant villain, you.
 
-<speaker>HOSTESS,</speaker>
+<speaker>HOSTESS</speaker>
 [<i>to Falstaff</i>]
   Are you not hurt i&rsquo; th&rsquo; groin?
 Methought he made a shrewd thrust at your belly.
@@ -2150,7 +2150,7 @@ the Prince admits him; for the Prince himself is
 such another. The weight of a hair will turn the
 scales between their avoirdupois.
 
-<speaker>PRINCE,</speaker>
+<speaker>PRINCE</speaker>
 [<i>aside to Poins</i>]
   Would not this nave of a wheel
 have his ears cut off?
@@ -2169,7 +2169,7 @@ outlive performance?
 <speaker>FALSTAFF</speaker>
 Kiss me, Doll.
 
-<speaker>PRINCE,</speaker>
+<speaker>PRINCE</speaker>
 [<i>aside to Poins</i>]
   Saturn and Venus this year in
 conjunction! What says th&rsquo; almanac to that?
@@ -2179,7 +2179,7 @@ And look whether the fiery trigon, his man, be
 not lisping to his master&rsquo;s old tables, his notebook,
 his counsel keeper.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Doll</i>]
   Thou dost give me flattering busses.
 
@@ -2208,7 +2208,7 @@ thy return. Well, harken a&rsquo; th&rsquo; end.
 <speaker>FALSTAFF</speaker>
 Some sack, Francis.
 
-<speaker>PRINCE, POINS,</speaker>
+<speaker>PRINCE POINS</speaker>
 [<i>coming forward</i>]
   Anon, anon, sir.
 
@@ -2234,7 +2234,7 @@ troth, welcome to London. Now the Lord bless that
 sweet face of thine. O Jesu, are you come from
 Wales?
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Prince</i>]
   Thou whoreson mad compound
 of majesty, by this light flesh and corrupt blood,
@@ -2247,7 +2247,7 @@ How? You fat fool, I scorn you.
 My lord, he will drive you out of your revenge
 and turn all to a merriment if you take not the heat.
 
-<speaker>PRINCE,</speaker>
+<speaker>PRINCE</speaker>
 [<i>to Falstaff</i>]
   You whoreson candle-mine, you,
 how vilely did you speak of me even now before
@@ -2257,7 +2257,7 @@ this honest, virtuous, civil gentlewoman!
 God&rsquo;s blessing of your good heart, and so she
 is, by my troth.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Prince</i>]
   Didst thou hear me?
 
@@ -2337,7 +2337,7 @@ howl.
 All vitlars do so. What&rsquo;s a joint of mutton or
 two in a whole Lent?
 
-<speaker>PRINCE,</speaker>
+<speaker>PRINCE</speaker>
 [<i>to Doll</i>]
   You, gentlewoman.
 
@@ -2389,7 +2389,7 @@ matter?
 You must away to court, sir, presently.
 A dozen captains stay at door for you.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Page</i>]
   Pay the musicians, sirrah.&mdash;
 Farewell, hostess.&mdash;Farewell, Doll. You see, my
@@ -2412,14 +2412,14 @@ twenty-nine years, come peasecod time, but an
 honester and truer-hearted man&mdash;well, fare thee
 well.
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>within</i>]
   Mistress Tearsheet!
 
 <speaker>HOSTESS</speaker>
 What&rsquo;s the matter?
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>within</i>]
   Bid Mistress Tearsheet come to my
 master.
@@ -2769,7 +2769,7 @@ and Bullcalf.</i>]
 
 Let me see, where is Mouldy?
 
-<speaker>MOULDY,</speaker>
+<speaker>MOULDY</speaker>
 [<i>coming forward</i>]
   Here, an it please you.
 
@@ -2821,7 +2821,7 @@ He&rsquo;s like to be a cold soldier.
 <speaker>SHALLOW</speaker>
 Where&rsquo;s Shadow?
 
-<speaker>SHADOW,</speaker>
+<speaker>SHADOW</speaker>
 [<i>coming forward</i>]
   Here, sir.
 
@@ -2851,7 +2851,7 @@ Thomas Wart!
 <speaker>FALSTAFF</speaker>
 Where&rsquo;s he?
 
-<speaker>WART,</speaker>
+<speaker>WART</speaker>
 [<i>coming forward</i>]
   Here, sir.
 
@@ -2876,7 +2876,7 @@ pins. Prick him no more.
 Ha, ha, ha. You can do it, sir, you can do it. I
 commend you well.&mdash;Francis Feeble!
 
-<speaker>FEEBLE,</speaker>
+<speaker>FEEBLE</speaker>
 [<i>coming forward</i>]
   Here, sir.
 
@@ -2929,7 +2929,7 @@ Peter Bullcalf o&rsquo; th&rsquo; green.
 <speaker>FALSTAFF</speaker>
 Yea, marry, let&rsquo;s see Bullcalf.
 
-<speaker>BULLCALF,</speaker>
+<speaker>BULLCALF</speaker>
 [<i>coming forward</i>]
   Here, sir.
 
@@ -3070,7 +3070,7 @@ Come, sir, which men shall I have?
 <speaker>SHALLOW</speaker>
 Four of which you please.
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>aside to Falstaff</i>]
   Sir, a word with you. I
 have three pound to free Mouldy and Bullcalf.
@@ -3116,12 +3116,12 @@ tailor, run off! O, give me the spare men, and spare
 me the great ones.&mdash;Put me a caliver into Wart&rsquo;s
 hand, Bardolph.
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>giving Wart a musket</i>]
   Hold, Wart. Traverse.
 Thas, thas, thas.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Wart</i>]
   Come, manage me your caliver: so,
 very well, go to, very good, exceeding good. O, give
@@ -3446,7 +3446,7 @@ Of what conditions we shall stand upon?
 That is intended in the General&rsquo;s name.
 I muse you make so slight a question.
 
-<speaker>ARCHBISHOP,</speaker>
+<speaker>ARCHBISHOP</speaker>
 [<i>giving Westmoreland a paper</i>]
 Then take, my Lord of Westmoreland, this schedule,
 For this contains our general grievances.
@@ -3530,14 +3530,14 @@ Here is returned my Lord of Westmoreland.
 
 [<i>Enter Westmoreland.</i>]
 
-<speaker>WESTMORELAND,</speaker>
+<speaker>WESTMORELAND</speaker>
 [<i>to the Archbishop</i>]
 The Prince is here at hand. Pleaseth your Lordship
 To meet his Grace just distance &rsquo;tween our armies.
 
 [<i>Enter Prince John and his army.</i>]
 
-<speaker>MOWBRAY,</speaker>
+<speaker>MOWBRAY</speaker>
 [<i>to the Archbishop</i>]
 Your Grace of York, in God&rsquo;s name then set
 forward.
@@ -3641,18 +3641,18 @@ I give it you, and will maintain my word,
 And thereupon I drink unto your Grace.
 [<i>The Leaders of both armies begin to drink together.</i>]
 
-<speaker>HASTINGS,</speaker>
+<speaker>HASTINGS</speaker>
 [<i>to an Officer</i>]
 Go, captain, and deliver to the army
 This news of peace. Let them have pay, and part.
 I know it will well please them. Hie thee, captain.
 [<i>Officer exits.</i>]
 
-<speaker>ARCHBISHOP,</speaker>
+<speaker>ARCHBISHOP</speaker>
 [<i>toasting Westmoreland</i>]
 To you, my noble Lord of Westmoreland.
 
-<speaker>WESTMORELAND,</speaker>
+<speaker>WESTMORELAND</speaker>
 [<i>returning the toast</i>]
 I pledge your Grace, and if you knew what pains
 I have bestowed to breed this present peace,
@@ -3698,7 +3698,7 @@ A peace is of the nature of a conquest,
 For then both parties nobly are subdued,
 And neither party loser.
 
-<speaker>JOHN OF LANCASTER,</speaker>
+<speaker>JOHN OF LANCASTER</speaker>
 [<i>to Westmoreland</i>]
   Go, my lord,
 And let our army be discharged too.
@@ -3731,7 +3731,7 @@ They know their duties.
 
 [<i>Enter Hastings.</i>]
 
-<speaker>HASTINGS,</speaker>
+<speaker>HASTINGS</speaker>
 [<i>to the Archbishop</i>]
 My lord, our army is dispersed already.
 Like youthful steers unyoked, they take their
@@ -4020,7 +4020,7 @@ Is not his brother Thomas of Clarence with him?
 <speaker>HUMPHREY OF GLOUCESTER</speaker>
 No, my good lord, he is in presence here.
 
-<speaker>THOMAS OF CLARENCE,</speaker>
+<speaker>THOMAS OF CLARENCE</speaker>
 [<i>coming forward</i>]
   What would
 my lord and father?
@@ -4207,7 +4207,7 @@ Let there be no noise made, my gentle friends,
 Unless some dull and favorable hand
 Will whisper music to my weary spirit.
 
-<speaker>WARWICK,</speaker>
+<speaker>WARWICK</speaker>
 [<i>to an Attendant</i>]
 Call for the music in the other room.
 
@@ -4215,7 +4215,7 @@ Call for the music in the other room.
 Set me the crown upon my pillow here.
 [<i>The crown is placed on the bed.</i>]
 
-<speaker>THOMAS OF CLARENCE,</speaker>
+<speaker>THOMAS OF CLARENCE</speaker>
 [<i>aside to the others</i>]
 His eye is hollow, and he changes much.
 
@@ -4227,7 +4227,7 @@ Less noise, less noise.
 <speaker>PRINCE</speaker>
 Who saw the Duke of Clarence?
 
-<speaker>THOMAS OF CLARENCE,</speaker>
+<speaker>THOMAS OF CLARENCE</speaker>
 [<i>weeping</i>]
 I am here, brother, full of heaviness.
 
@@ -4294,7 +4294,7 @@ This lineal honor from me. This from thee
 Will I to mine leave, as &rsquo;tis left to me.
 [<i>He exits with the crown.</i>]
 
-<speaker>KING,</speaker>
+<speaker>KING</speaker>
 [<i>rising up in his bed</i>]
   Warwick! Gloucester!
 Clarence!
@@ -4432,7 +4432,7 @@ What wilt thou do when riot is thy care?
 O, thou wilt be a wilderness again,
 Peopled with wolves, thy old inhabitants.
 
-<speaker>PRINCE,</speaker>
+<speaker>PRINCE</speaker>
 [<i>placing the crown on the pillow</i>]
 O pardon me, my liege! But for my tears,
 The moist impediments unto my speech,
@@ -4713,7 +4713,7 @@ sad brow will do with a fellow that never had the
 ache in his shoulders. O, you shall see him laugh till
 his face be like a wet cloak ill laid up.
 
-<speaker>SHALLOW,</speaker>
+<speaker>SHALLOW</speaker>
 [<i>within</i>]
   Sir John.
 
@@ -4771,7 +4771,7 @@ O God, I fear all will be overturned.
 <speaker>JOHN OF LANCASTER</speaker>
 Good morrow, cousin Warwick, good morrow.
 
-<speaker>HUMPHREY OF GLOUCESTER, THOMAS OF CLARENCE</speaker>
+<speaker>HUMPHREY OF GLOUCESTER THOMAS OF CLARENCE</speaker>
 Good morrow, cousin.
 
 <speaker>JOHN OF LANCASTER</speaker>
@@ -4792,7 +4792,7 @@ O, good my lord, you have lost a friend indeed,
 And I dare swear you borrow not that face
 Of seeming sorrow; it is sure your own.
 
-<speaker>JOHN OF LANCASTER,</speaker>
+<speaker>JOHN OF LANCASTER</speaker>
 [<i>to the Chief Justice</i>]
 Though no man be assured what grace to find,
 You stand in coldest expectation.
@@ -4986,7 +4986,7 @@ I&rsquo;ll give you a health for that anon.
 <speaker>SHALLOW</speaker>
 Give Master Bardolph some wine, Davy.
 
-<speaker>DAVY,</speaker>
+<speaker>DAVY</speaker>
 [<i>to the guests</i>]
   Sweet sir, sit. I&rsquo;ll be with you
 anon. Most sweet sir, sit. Master page, good master
@@ -5016,7 +5016,7 @@ now.
 
 [<i>Enter Davy.</i>]
 
-<speaker>DAVY,</speaker>
+<speaker>DAVY</speaker>
 [<i>to the guests</i>]
   There&rsquo;s a dish of leather-coats for
 you.
@@ -5392,12 +5392,12 @@ God save thee, my sweet boy!
 <speaker>KING</speaker>
 My Lord Chief Justice, speak to that vain man.
 
-<speaker>CHIEF JUSTICE,</speaker>
+<speaker>CHIEF JUSTICE</speaker>
 [<i>to Falstaff</i>]
 Have you your wits? Know you what &rsquo;tis you
 speak?
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to the King</i>]
 My king, my Jove, I speak to thee, my heart!
 

@@ -722,7 +722,7 @@ sheathe their swords.</i>]
 Give me thy fist, thy forefoot to me give. Thy spirits
 are most tall.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>to Pistol</i>]
   I will cut thy throat one time or other
 in fair terms, that is the humor of it.
@@ -776,13 +776,13 @@ That now I will have, that&rsquo;s the humor of it.
 As manhood shall compound. Push home.
 [<i>They draw.</i>]
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>drawing his sword</i>]
   By this sword, he that
 makes the first thrust, I&rsquo;ll kill him. By this sword, I
 will.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>sheathing his sword</i>]
   "&ldquo;Sword&rdquo;" is an oath, and
 oaths must have their course.
@@ -792,7 +792,7 @@ Corporal Nym, an thou wilt be friends, be
 friends; an thou wilt not, why then be enemies with
 me too. Prithee, put up.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>to Nym</i>]
   A noble shalt thou have, and present
 pay, and liquor likewise will I give to thee, and
@@ -954,7 +954,7 @@ So did you me, my liege.
 <speaker>GREY</speaker>
 And I, my royal sovereign.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>giving them papers</i>]
 Then Richard, Earl of Cambridge, there is yours&mdash;
 There yours, Lord Scroop of Masham.&mdash;And, sir
@@ -1206,14 +1206,14 @@ And that&rsquo;s but unwholesome food, they say.
 <speaker>PISTOL</speaker>
 Touch her soft mouth, and march.
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>kissing the Hostess</i>]
   Farewell, hostess.
 
 <speaker>NYM</speaker>
 I cannot kiss, that is the humor of it. But adieu.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>to the Hostess</i>]
   Let huswifery appear. Keep
 close, I thee command.
@@ -1381,7 +1381,7 @@ For us, we will consider of this further.
 Tomorrow shall you bear our full intent
 Back to our brother of England.
 
-<speaker>DAUPHIN,</speaker>
+<speaker>DAUPHIN</speaker>
 [<i>to Exeter</i>]
   For the Dauphin,
 I stand here for him. What to him from England?
@@ -1575,7 +1575,7 @@ thy rage, abate thy manly rage, abate thy rage, great
 duke. Good bawcock, &rsquo;bate thy rage. Use lenity,
 sweet chuck.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>to Fluellen</i>]
   These be good humors. Your Honor
 wins bad humors.
@@ -1758,7 +1758,7 @@ war, and there is an end.
 [<i>Enter the King of England and all his train
 before the gates.</i>]
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to the men of Harfleur</i>]
 How yet resolves the Governor of the town?
 This is the latest parle we will admit.
@@ -3518,7 +3518,7 @@ for a ransom.	[<i>Montjoy exits.</i>]
 [<i>Enter York.
 </i>]
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>kneeling</i>]
 My lord, most humbly on my knee I beg
 The leading of the vaward.
@@ -3599,7 +3599,7 @@ and "&ldquo;firk.&rdquo;"
 <speaker>PISTOL</speaker>
 Bid him prepare, for I will cut his throat.
 
-<speaker>FRENCH SOLDIER,</speaker>
+<speaker>FRENCH SOLDIER</speaker>
 [<i>to the Boy</i>]
   Que dit-il, monsieur?
 
@@ -3631,7 +3631,7 @@ hundred crowns.
 Tell him my fury shall abate, and I the crowns
 will take.
 
-<speaker>FRENCH SOLDIER,</speaker>
+<speaker>FRENCH SOLDIER</speaker>
 [<i>to the Boy</i>]
   Petit monsieur, que dit-il?
 
@@ -4049,7 +4049,7 @@ Call him hither to me, soldier.
 <speaker>WILLIAMS</speaker>
 I will, my liege. [<i>He exits.</i>]
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>giving Fluellen Williams&rsquo;s glove</i>]
   Here,
 Fluellen, wear thou this favor for me, and stick it in
@@ -4059,7 +4059,7 @@ man challenge this, he is a friend to Alencon and an
 enemy to our person. If thou encounter any such,
 apprehend him, an thou dost me love.
 
-<speaker>FLUELLEN,</speaker>
+<speaker>FLUELLEN</speaker>
 [<i>putting the glove in his cap</i>]
   Your Grace
 does me as great honors as can be desired in the
@@ -4107,14 +4107,14 @@ I warrant it is to knight you, captain.
 
 [<i>Enter Fluellen, wearing Williams&rsquo;s glove.</i>]
 
-<speaker>FLUELLEN,</speaker>
+<speaker>FLUELLEN</speaker>
 [<i>to Gower</i>]
   God&rsquo;s will and His pleasure,
 captain, I beseech you now, come apace to the
 King. There is more good toward you peradventure
 than is in your knowledge to dream of.
 
-<speaker>WILLIAMS,</speaker>
+<speaker>WILLIAMS</speaker>
 [<i>to Fluellen, pointing to the glove in his own
 hat</i>]
   Sir, know you this glove?
@@ -4130,7 +4130,7 @@ I know this, and thus I challenge it.
 &rsquo;Sblood, an arrant traitor as any &rsquo;s in the
 universal world, or in France, or in England!
 
-<speaker>GOWER,</speaker>
+<speaker>GOWER</speaker>
 [<i>to Williams</i>]
   How now, sir? You villain!
 
@@ -4187,7 +4187,7 @@ testimony and witness and will avouchment that
 this is the glove of Alencon that your Majesty is give
 me, in your conscience now.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Williams</i>]
   Give me thy glove, soldier.
 Look, here is the fellow of it.
@@ -4198,7 +4198,7 @@ And thou hast given me most bitter terms.
 An please your Majesty, let his neck answer
 for it, if there is any martial law in the world.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Williams</i>]
   How canst thou make me
 satisfaction?
@@ -4250,11 +4250,11 @@ change it.
 <speaker>KING HENRY</speaker>
 Now, herald, are the dead numbered?
 
-<speaker>HERALD,</speaker>
+<speaker>HERALD</speaker>
 [<i>giving the King a paper</i>]
 Here is the number of the slaughtered French.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Exeter</i>]
 What prisoners of good sort are taken, uncle?
 
@@ -4701,7 +4701,7 @@ me.&rdquo;"
 An angel is like you, Kate, and you are
 like an angel.
 
-<speaker>KATHERINE,</speaker>
+<speaker>KATHERINE</speaker>
 [<i>to Alice</i>]
   Que dit-il? Que je suis semblable a
 les anges?
@@ -4717,7 +4717,7 @@ blush to affirm it.
 O bon Dieu, les langues des hommes sont
 pleines de tromperies.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Alice</i>]
   What says she, fair one? That the
 tongues of men are full of deceits?

@@ -805,16 +805,16 @@ The dirge.
 	   We convent naught else but woes.
 	   We convent naught else but woes.
 
-<speaker>THIRD QUEEN,</speaker>
+<speaker>THIRD QUEEN</speaker>
 [<i>to Second Queen</i>]
 This funeral path brings to your household&rsquo;s grave.
 Joy seize on you again; peace sleep with him.
 
-<speaker>SECOND QUEEN,</speaker>
+<speaker>SECOND QUEEN</speaker>
 [<i>to First Queen</i>]
 And this to yours.
 
-<speaker>FIRST QUEEN,</speaker>
+<speaker>FIRST QUEEN</speaker>
 [<i>to Third Queen</i>]
   Yours this way. Heavens
 lend
@@ -856,7 +856,7 @@ When that shall be seen, I tender my consent.
 <speaker>WOOER</speaker>
 I have sir. Here she comes.
 
-<speaker>JAILER,</speaker>
+<speaker>JAILER</speaker>
 [<i>to Daughter</i>]
   Your friend and I have chanced
 to name you here, upon the old business. But no
@@ -1106,7 +1106,7 @@ To those that love eternally.	[<i>Palamon catches sight
 of Emilia.</i>]
 Speak on, sir.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to her Woman</i>]
 This garden has a world of pleasures in &rsquo;t.
 What flower is this?
@@ -1118,14 +1118,14 @@ What flower is this?
 That was a fair boy certain, but a fool
 To love himself. Were there not maids enough?
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>to Palamon, who is stunned by the sight of Emilia</i>]
 Pray, forward.
 
 <speaker>PALAMON</speaker>
 Yes.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Woman</i>]
   Or were they all hard-hearted?
 
@@ -1149,12 +1149,12 @@ madam?
 <speaker>EMILIA</speaker>
 Men are mad things.
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>to Palamon</i>]
   Will you go forward,
 cousin?
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Woman</i>]
 Canst not thou work such flowers in silk, wench?
 
@@ -1169,7 +1169,7 @@ Rarely upon a skirt, wench?
 <speaker>WOMAN</speaker>
 Dainty, madam.
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>to Palamon</i>]
 Cousin, cousin! How do you, sir? Why, Palamon!
 
@@ -1183,7 +1183,7 @@ Why, what&rsquo;s the matter, man?
 Behold, and wonder!
 By heaven, she is a goddess.
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>seeing Emilia</i>]
   Ha!
 
@@ -1191,7 +1191,7 @@ By heaven, she is a goddess.
 Do reverence.
 She is a goddess, Arcite.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Woman</i>]
   Of all flowers
 Methinks a rose is best.
@@ -1219,14 +1219,14 @@ To take example by her.
 <speaker>EMILIA</speaker>
 Thou art wanton!
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>to Palamon</i>]
 She is wondrous fair.
 
 <speaker>PALAMON</speaker>
 She is all the beauty extant.
 
-<speaker>EMILIA,</speaker>
+<speaker>EMILIA</speaker>
 [<i>to Woman</i>]
 The sun grows high. Let&rsquo;s walk in. Keep these
 flowers.
@@ -1704,13 +1704,13 @@ Not yet, sir.
 Well, sir,
 Take your own time.&mdash;Come, boys.
 
-<speaker>FIRST COUNTRYMAN,</speaker>
+<speaker>FIRST COUNTRYMAN</speaker>
 [<i>aside to the others</i>]
   My mind misgives
 me. This fellow has a vengeance trick o&rsquo; th&rsquo;
 hip. Mark how his body&rsquo;s made for &rsquo;t.
 
-<speaker>SECOND COUNTRYMAN,</speaker>
+<speaker>SECOND COUNTRYMAN</speaker>
 [<i>aside to the others</i>]
   I&rsquo;ll be
 hanged, though, if he dare venture. Hang him,
@@ -1775,7 +1775,7 @@ And this night, or tomorrow, he shall love me.
 Enter Theseus, Hippolyta, Pirithous, Emilia, Arcite
 in disguise, with a garland, Attendants, and others.</i>]
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Arcite</i>]
 You have done worthily. I have not seen,
 Since Hercules, a man of tougher sinews.
@@ -1825,7 +1825,7 @@ Upon my soul, a proper man.
 <speaker>EMILIA</speaker>
 He is so.
 
-<speaker>PIRITHOUS,</speaker>
+<speaker>PIRITHOUS</speaker>
 [<i>to Hippolyta</i>]
 How do you like him, lady?
 
@@ -1850,7 +1850,7 @@ Breaks through his baser garments.
 <speaker>HIPPOLYTA</speaker>
 He&rsquo;s well got, sure.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Arcite</i>]
 What made you seek this place, sir?
 
@@ -1894,7 +1894,7 @@ If you deserve well, sir, I shall soon see &rsquo;t.
 You&rsquo;re mine, and somewhat better than your rank
 I&rsquo;ll use you.
 
-<speaker>PIRITHOUS,</speaker>
+<speaker>PIRITHOUS</speaker>
 [<i>to Arcite</i>]
 I&rsquo;ll see you furnished, and because you say
 You are a horseman, I must needs entreat you
@@ -1904,7 +1904,7 @@ This afternoon to ride&mdash;but &rsquo;tis a rough one.
 I like him better, prince; I shall not then
 Freeze in my saddle.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Hippolyta</i>]
   Sweet, you must be ready,&mdash;
 And you, Emilia,&mdash;and you, friend,&mdash;and all,
@@ -2235,7 +2235,7 @@ An end, and that is all.
 <speaker>ARCITE</speaker>
 I should be near the place.&mdash;Ho! Cousin Palamon!
 
-<speaker>PALAMON,</speaker>
+<speaker>PALAMON</speaker>
 [<i>within</i>]
 Arcite?
 
@@ -2584,7 +2584,7 @@ thee!
 
 [<i>Enter Jailer&rsquo;s Daughter.</i>]
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>sings</i>]
 	The George Alow came from the south,
 	From the coast of Barbary-a,
@@ -2610,7 +2610,7 @@ her, she&rsquo;ll do the rarest gambols.
 <speaker>FIRST COUNTRYMAN</speaker>
 A madwoman? We are made, boys.
 
-<speaker>SCHOOLMASTER,</speaker>
+<speaker>SCHOOLMASTER</speaker>
 [<i>to Jailer&rsquo;s Daughter</i>]
   And are you mad,
 good woman?
@@ -2673,7 +2673,7 @@ What have we here?
 <speaker>PIRITHOUS</speaker>
 Some country sport, upon my life, sir.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Schoolmaster</i>]
   Well, sir, go forward. We
 will "&ldquo;edify.&rdquo;"	[<i>Chairs and stools brought out.</i>]
@@ -2683,7 +2683,7 @@ Ladies, sit down. We&rsquo;ll stay it.
 <speaker>SCHOOLMASTER</speaker>
 Thou doughty duke, all hail!&mdash;All hail, sweet ladies!
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>aside</i>]
   This is a cold beginning.
 
@@ -3028,7 +3028,7 @@ A place prepared for those that sleep in honor,
 I wish his weary soul that falls may win it.
 Fight bravely, cousin. Give me thy noble hand.
 
-<speaker>ARCITE,</speaker>
+<speaker>ARCITE</speaker>
 [<i>as they shake hands</i>]
 Here, Palamon. This hand shall never more
 Come near thee with such friendship.
@@ -3371,7 +3371,7 @@ And lovers yet unborn shall bless my ashes.
 If she refuse me, yet my grave will wed me,
 And soldiers sing my epitaph.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Emilia</i>]
   Make choice, then.
 
@@ -3411,7 +3411,7 @@ Are you content, sister?
 Yes, I must, sir,
 Else both miscarry.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Palamon and Arcite</i>]
 Come, shake hands again, then,
 And take heed, as you are gentlemen, this quarrel
@@ -3519,7 +3519,7 @@ Why do you ask?
 <speaker>WOOER</speaker>
 O, sir, when did you see her?
 
-<speaker>SECOND FRIEND,</speaker>
+<speaker>SECOND FRIEND</speaker>
 [<i>aside</i>]
   How he looks!
 
@@ -3530,7 +3530,7 @@ This morning.
 Was she well? Was she in health?
 Sir, when did she sleep?
 
-<speaker>FIRST FRIEND,</speaker>
+<speaker>FIRST FRIEND</speaker>
 [<i>aside</i>]
   These are strange questions.
 
@@ -3658,7 +3658,7 @@ And hither came to tell you.
 
 Here they are.
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>sings</i>]
 	May you never more enjoy the light, etc.
 Is not this a fine song?
@@ -3693,7 +3693,7 @@ thrive else.
 [<i>Sings.</i>]
 O fair, O sweet, etc.
 
-<speaker>BROTHER,</speaker>
+<speaker>BROTHER</speaker>
 [<i>to Jailer</i>]
   You must e&rsquo;en take it patiently.
 
@@ -3713,13 +3713,13 @@ Is &rsquo;t not a fine young gentleman?
 <speaker>JAILER</speaker>
 &rsquo;Tis, love.
 
-<speaker>BROTHER,</speaker>
+<speaker>BROTHER</speaker>
 [<i>aside to others</i>]
   By no mean cross her; she
 is then distempered far worse than now she
 shows.
 
-<speaker>FIRST FRIEND,</speaker>
+<speaker>FIRST FRIEND</speaker>
 [<i>to Daughter</i>]
   Yes, he&rsquo;s a fine man.
 
@@ -3763,19 +3763,19 @@ to him; I&rsquo;ll warrant you, he had not so few last
 night as twenty to dispatch. He&rsquo;ll tickle &rsquo;t up in two
 hours, if his hand be in.
 
-<speaker>JAILER,</speaker>
+<speaker>JAILER</speaker>
 [<i>aside</i>]
   She&rsquo;s lost past all cure.
 
 <speaker>BROTHER</speaker>
 Heaven forbid, man!
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>to Jailer</i>]
   Come hither; you are a wise
 man.
 
-<speaker>FIRST FRIEND,</speaker>
+<speaker>FIRST FRIEND</speaker>
 [<i>aside</i>]
   Does she know him?
 
@@ -3800,7 +3800,7 @@ course to th&rsquo; wood, where Palamon lies longing for
 me. For the tackling, let me alone.&mdash;Come, weigh,
 my hearts, cheerly.
 
-<speaker>ALL,</speaker>
+<speaker>ALL</speaker>
 [<i>as if sailing a ship</i>]
   Owgh, owgh, owgh!&mdash;&rsquo;Tis up!
 The wind&rsquo;s fair!&mdash;Top the bowline!&mdash;Out with the
@@ -3923,7 +3923,7 @@ To my unhappy beauty?
 
 [<i>Enter Theseus, Hippolyta, Pirithous and Attendants.</i>]
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Attendant</i>]
   Bring &rsquo;em in
 Quickly, by any means; I long to see &rsquo;em.
@@ -4081,7 +4081,7 @@ Bravely about the titles of two kingdoms;
 O, my soft-hearted sister, what think you?
 Weep not till they weep blood. Wench, it must be.
 
-<speaker>THESEUS,</speaker>
+<speaker>THESEUS</speaker>
 [<i>to Emilia</i>]
 You have steeled &rsquo;em with your beauty. [<i>(To
 Pirithous.)</i>]
@@ -4135,7 +4135,7 @@ too, as ever he may go upon &rsquo;s legs, for in
 the next world will Dido see Palamon, and then
 will she be out of love with Aeneas.
 
-<speaker>DOCTOR,</speaker>
+<speaker>DOCTOR</speaker>
 [<i>aside to Jailer and Wooer</i>]
   What stuff&rsquo;s here?
 Poor soul.
@@ -4628,7 +4628,7 @@ You&rsquo;ll find it so.
 She comes; pray humor her.
 [<i>Wooer and Doctor stand aside.</i>]
 
-<speaker>JAILER,</speaker>
+<speaker>JAILER</speaker>
 [<i>to Daughter</i>]
 Come, your love Palamon stays for you, child,
 And has done this long hour, to visit you.
@@ -4702,7 +4702,7 @@ And twenty strike of oats, but he&rsquo;ll ne&rsquo;er have her.
 He lisps in &rsquo;s neighing able to entice
 A miller&rsquo;s mare. He&rsquo;ll be the death of her.
 
-<speaker>DOCTOR,</speaker>
+<speaker>DOCTOR</speaker>
 [<i>aside</i>]
   What stuff she utters!
 
@@ -4723,7 +4723,7 @@ How far is &rsquo;t now to th&rsquo; end o&rsquo; th&rsquo; world, my masters?
 <speaker>DOCTOR</speaker>
 Why, a day&rsquo;s journey, wench.
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>to Wooer</i>]
   Will you go with me?
 
@@ -4761,7 +4761,7 @@ That&rsquo;s all one; I will have you.
 <speaker>DAUGHTER</speaker>
 Will you surely?
 
-<speaker>WOOER,</speaker>
+<speaker>WOOER</speaker>
 [<i>taking her hand</i>]
 Yes, by this fair hand, will I.
 
@@ -4771,7 +4771,7 @@ We&rsquo;ll to bed then.
 <speaker>WOOER</speaker>
 E&rsquo;en when you will.	[<i>He kisses her.</i>]
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>wiping her face</i>]
   O , sir, you would fain
 be nibbling.
@@ -4795,7 +4795,7 @@ Do you think he&rsquo;ll have me?
 <speaker>DOCTOR</speaker>
 Yes, without doubt.
 
-<speaker>DAUGHTER,</speaker>
+<speaker>DAUGHTER</speaker>
 [<i>to Jailer</i>]
   Do you think so too?
 
@@ -4832,7 +4832,7 @@ I must e&rsquo;en leave you here.
 Nay, we&rsquo;ll go with you.
 I will not lose the sight.
 
-<speaker>JAILER,</speaker>
+<speaker>JAILER</speaker>
 [<i>aside to Doctor</i>]
   How did you like her?
 
@@ -4868,7 +4868,7 @@ Ay, and twenty.
 <speaker>DAUGHTER</speaker>
 And then we&rsquo;ll sleep together.
 
-<speaker>DOCTOR,</speaker>
+<speaker>DOCTOR</speaker>
 [<i>to Wooer</i>]
   Take her offer.
 
@@ -4907,7 +4907,7 @@ With what shall happen, &rsquo;gainst the which there is
 No deafing but to hear; not taint mine eye
 With dread sights it may shun.
 
-<speaker>PIRITHOUS,</speaker>
+<speaker>PIRITHOUS</speaker>
 [<i>to Theseus</i>]
   Sir, my good lord,
 Your sister will no further.
@@ -5256,7 +5256,7 @@ fare?
 Arise, great sir, and give the tidings ear
 That are most dearly sweet and bitter.
 
-<speaker>PALAMON,</speaker>
+<speaker>PALAMON</speaker>
 [<i>rising</i>]
   What
 Hath waked us from our dream?

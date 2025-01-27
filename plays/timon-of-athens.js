@@ -654,14 +654,14 @@ notes.
 Great men should drink with harness on their
 throats.
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>responding to a toast</i>]
 My lord, in heart! And let the health go round.
 
 <speaker>SECOND LORD</speaker>
 Let it flow this way, my good lord.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   "&ldquo;Flow this way&rdquo;"? A brave fellow.
 He keeps his tides well. Those healths will make
@@ -701,7 +701,7 @@ So they were bleeding new, my lord,
 there&rsquo;s no meat like &rsquo;em. I could wish my best
 friend at such a feast.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   Would all those flatterers were
 thine enemies, then, that then thou mightst kill
@@ -736,7 +736,7 @@ another&rsquo;s fortunes. O, joy&rsquo;s e&rsquo;en made away ere &rsquo;t
 can be born! Mine eyes cannot hold out water,
 methinks. To forget their faults, I drink to you.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   Thou weep&rsquo;st to make them drink,
 Timon.
@@ -745,14 +745,14 @@ Timon.
 Joy had the like conception in our eyes
 And, at that instant, like a babe sprung up.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
 Ho, ho! I laugh to think that babe a bastard.
 
 <speaker>THIRD LORD</speaker>
 I promise you, my lord, you moved me much.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   Much!	[<i>Sound tucket.</i>]
 
@@ -797,7 +797,7 @@ You see, my lord, how ample you&rsquo;re beloved.
 [<i>Music. Enter the masque of Ladies as Amazons,
 with lutes in their hands, dancing and playing.</i>]
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   Hoy-day!
 What a sweep of vanity comes this way.
@@ -831,7 +831,7 @@ I am to thank you for &rsquo;t.
 <speaker>FIRST LADY</speaker>
 My lord, you take us even at the best.
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>apart</i>]
   Faith, for the worst is filthy and
 would not hold taking, I doubt me.
@@ -905,7 +905,7 @@ Near? Why, then, another time I&rsquo;ll hear thee.
 I prithee, let&rsquo;s be provided to show them
 entertainment.
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>aside</i>]
   I scarce know how.
 
@@ -934,7 +934,7 @@ Honor two brace of greyhounds.
 I&rsquo;ll hunt with him; and let them be received,
 Not without fair reward.	[<i>Servant exits.</i>]
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>aside</i>]
   What will this come to?
 He commands us to provide, and give great gifts,
@@ -952,7 +952,7 @@ Happier is he that has no friend to feed
 Than such that do e&rsquo;en enemies exceed.
 I bleed inwardly for my lord.	[<i>He exits.</i>]
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>to Lords</i>]
   You do yourselves much wrong.
 You bate too much of your own merits.
@@ -1152,7 +1152,7 @@ My Alcibiades. [<i>(To Caphis.)</i>]
  With me? What is your
 will?
 
-<speaker>CAPHIS,</speaker>
+<speaker>CAPHIS</speaker>
 [<i>offering Timon a paper</i>]
 My lord, here is a note of certain dues.
 
@@ -1213,7 +1213,7 @@ With clamorous demands of debt, broken bonds,
 And the detention of long-since-due debts
 Against my honor?
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>to the creditors&rsquo; Men</i>]
   Please you, gentlemen,
 The time is unagreeable to this business.
@@ -1259,7 +1259,7 @@ on your back already.
 No, thou stand&rsquo;st single; thou &rsquo;rt not on
 him yet.
 
-<speaker>CAPHIS,</speaker>
+<speaker>CAPHIS</speaker>
 [<i>to Isidore&rsquo;s Man</i>]
   Where&rsquo;s the fool now?
 
@@ -1299,7 +1299,7 @@ Good. Gramercy.
 <speaker>FOOL</speaker>
 Look you, here comes my master&rsquo;s page.
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Fool</i>]
   Why, how now, captain? What do you in
 this wise company?&mdash;How dost thou, Apemantus?
@@ -1401,7 +1401,7 @@ I do not always follow lover, elder brother, and
 woman; sometime the philosopher.
 [<i>Apemantus and the Fool exit.</i>]
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>to the creditors&rsquo; Men</i>]
 Pray you, walk near. I&rsquo;ll speak with you anon.
 [<i>The Men exit.</i>]
@@ -1526,7 +1526,7 @@ supply of money. Let the request be fifty talents.
 <speaker>FLAMINIUS</speaker>
 As you have said, my lord. [<i>Servants exit.</i>]
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>aside</i>]
   Lord Lucius and Lucullus? Humh!
 
@@ -1606,7 +1606,7 @@ I thank you, sir.
 <speaker>SERVANT</speaker>
 Here&rsquo;s my lord.
 
-<speaker>LUCULLUS,</speaker>
+<speaker>LUCULLUS</speaker>
 [<i>aside</i>]
   One of Lord Timon&rsquo;s men? A gift, I
 warrant. Why, this hits right. I dreamt of a silver
@@ -1744,7 +1744,7 @@ should ne&rsquo;er have denied his occasion fifty talents.
 
 [<i>Enter Servilius.</i>]
 
-<speaker>SERVILIUS,</speaker>
+<speaker>SERVILIUS</speaker>
 [<i>aside</i>]
   See, by good hap, yonder&rsquo;s my lord.
 I have sweat to see his Honor. [<i>To Lucius.</i>]
@@ -2093,7 +2093,7 @@ Good gods!
 <speaker>TITUS</speaker>
 We cannot take this for answer, sir.
 
-<speaker>FLAMINIUS,</speaker>
+<speaker>FLAMINIUS</speaker>
 [<i>within</i>]
   Servilius, help! My lord, my lord!
 
@@ -2198,7 +2198,7 @@ Of knaves once more. My cook and I&rsquo;ll provide.
 [<i>Enter three Senators at one door, Alcibiades meeting
 them, with Attendants.</i>]
 
-<speaker>FIRST SENATOR,</speaker>
+<speaker>FIRST SENATOR</speaker>
 [<i>to the Second Senator</i>]
 My lord, you have my voice to &rsquo;t. The fault&rsquo;s
 Bloody. &rsquo;Tis necessary he should die.
@@ -2445,7 +2445,7 @@ Lordship.
 The swallow follows not summer
 more willing than we your Lordship.
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>aside</i>]
   Nor more willingly leaves winter, such
 summer birds are men.&mdash;Gentlemen, our dinner
@@ -3074,7 +3074,7 @@ Call&rsquo;st thou that harm?
 Men daily find it. Get thee away, and take
 Thy beagles with thee.
 
-<speaker>ALCIBIADES,</speaker>
+<speaker>ALCIBIADES</speaker>
 [<i>to the Women</i>]
   We but offend him.&mdash;
 Strike.	[<i>The drum sounds; all but Timon exit.</i>]
@@ -3249,7 +3249,7 @@ I&rsquo;d give thee leave to hang it. Get thee gone.
 That the whole life of Athens were in this!
 Thus would I eat it.	[<i>He gnaws a root.</i>]
 
-<speaker>APEMANTUS,</speaker>
+<speaker>APEMANTUS</speaker>
 [<i>offering food</i>]
   Here, I will mend thy feast.
 
@@ -3773,7 +3773,7 @@ and fashionable. Performance is a kind of will or
 testament which argues a great sickness in his
 judgment that makes it.
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>aside</i>]
   Excellent workman! Thou canst not
 paint a man so bad as is thyself.
@@ -3785,7 +3785,7 @@ satire against the softness of prosperity, with a discovery
 of the infinite flatteries that follow youth
 and opulency.
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>aside</i>]
   Must thou needs stand for a villain in
 thine own work? Wilt thou whip thine own faults
@@ -3802,7 +3802,7 @@ When the day serves, before black-cornered night,
 Find what thou want&rsquo;st by free and offered light.
 Come.
 
-<speaker>TIMON,</speaker>
+<speaker>TIMON</speaker>
 [<i>aside</i>]
 I&rsquo;ll meet you at the turn. What a god&rsquo;s gold
 That he is worshiped in a baser temple
@@ -4067,7 +4067,7 @@ The reverend&rsquo;st throat in Athens. So I leave you
 To the protection of the prosperous gods
 As thieves to keepers.
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>to Senators</i>]
   Stay not. All&rsquo;s in vain.
 
@@ -4111,7 +4111,7 @@ In life&rsquo;s uncertain voyage, I will some kindness do
 them.
 I&rsquo;ll teach them to prevent wild Alcibiades&rsquo; wrath.
 
-<speaker>FIRST SENATOR,</speaker>
+<speaker>FIRST SENATOR</speaker>
 [<i>to Second Senator</i>]
 I like this well. He will return again.
 
@@ -4125,7 +4125,7 @@ To stop affliction, let him take his haste,
 Come hither ere my tree hath felt the ax,
 And hang himself. I pray you, do my greeting.
 
-<speaker>FLAVIUS,</speaker>
+<speaker>FLAVIUS</speaker>
 [<i>to Senators</i>]
 Trouble him no further. Thus you still shall find him.
 

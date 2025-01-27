@@ -775,7 +775,7 @@ My horse to yours, no.
 <speaker>LARTIUS</speaker>
 Agreed.
 
-<speaker>MARTIUS,</speaker>
+<speaker>MARTIUS</speaker>
 [<i>to Messenger</i>]
 Say, has our general met the enemy?
 
@@ -1228,7 +1228,7 @@ Aufidius and Martius exit, separately.</i>]
 door, Cominius with the Romans; at another door
 Martius, with his arm in a scarf.</i>]
 
-<speaker>COMINIUS,</speaker>
+<speaker>COMINIUS</speaker>
 [<i>to Martius</i>]
 If I should tell thee o&rsquo;er this thy day&rsquo;s work,
 Thou &rsquo;t not believe thy deeds. But I&rsquo;ll report it
@@ -1626,7 +1626,7 @@ throws his cap in the air.)</i>]
  Hoo! Martius coming
 home?
 
-<speaker>VALERIA, VIRGILIA</speaker>
+<speaker>VALERIA VIRGILIA</speaker>
 Nay, &rsquo;tis true.
 
 <speaker>VOLUMNIA</speaker>
@@ -1809,7 +1809,7 @@ Menenius ever, ever.
 <speaker>HERALD</speaker>
 Give way there, and go on!
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>to Volumnia and Virgilia</i>]
   Your hand
 and yours.
@@ -2202,7 +2202,7 @@ Sir, the people
 Must have their voices; neither will they bate
 One jot of ceremony.
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to Coriolanus</i>]
   Put them not to &rsquo;t.
 Pray you, go fit you to the custom, and
@@ -2214,7 +2214,7 @@ It is a part
 That I shall blush in acting, and might well
 Be taken from the people.
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>to Sicinius</i>]
   Mark you that?
 
@@ -2408,7 +2408,7 @@ You shall ha &rsquo;t, worthy sir.
 A match, sir. There&rsquo;s in all two worthy
 voices begged. I have your alms. Adieu.
 
-<speaker>THIRD CITIZEN,</speaker>
+<speaker>THIRD CITIZEN</speaker>
 [<i>to the other Citizens</i>]
   But this is something
 odd.
@@ -3118,11 +3118,11 @@ Hence, old goat.
 <speaker>ALL PATRICIANS</speaker>
 We&rsquo;ll surety him.
 
-<speaker>COMINIUS,</speaker>
+<speaker>COMINIUS</speaker>
 [<i>to Sicinius</i>]
   Aged sir, hands off.
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>to Sicinius</i>]
 Hence, rotten thing, or I shall shake thy bones
 Out of thy garments.
@@ -3261,7 +3261,7 @@ Down with him, down with him!
 [<i>In this mutiny, the Tribunes, the Aediles, and the People
 are beat in.</i>]
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to Coriolanus</i>]
 Go, get you to your house. Begone, away.
 All will be naught else.
@@ -3318,7 +3318,7 @@ Before the tag return, whose rage doth rend
 Like interrupted waters and o&rsquo;erbear
 What they are used to bear?
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to Coriolanus</i>]
   Pray you, begone.
 I&rsquo;ll try whether my old wit be in request
@@ -3569,7 +3569,7 @@ Ay, and burn too.
 
 [<i>Enter Menenius with the Senators.</i>]
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to Coriolanus</i>]
 Come, come, you have been too rough, something
 too rough.
@@ -3871,12 +3871,12 @@ others (Senators).</i>]
 <speaker>SICINIUS</speaker>
 Well, here he comes.
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>aside to Coriolanus</i>]
   Calmly, I do beseech
 you.
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>aside to Menenius</i>]
 Ay, as an hostler that for th&rsquo; poorest piece
 Will bear the knave by th&rsquo; volume.&mdash;Th&rsquo; honored
@@ -4246,19 +4246,19 @@ Requite your love!
 <speaker>MENENIUS</speaker>
 Peace, peace! Be not so loud.
 
-<speaker>VOLUMNIA,</speaker>
+<speaker>VOLUMNIA</speaker>
 [<i>to the Tribunes</i>]
 If that I could for weeping, you should hear&mdash;
 Nay, and you shall hear some. [<i>(To Sicinius.)</i>]
  Will
 you be gone?
 
-<speaker>VIRGILIA,</speaker>
+<speaker>VIRGILIA</speaker>
 [<i>to Brutus</i>]
 You shall stay too. I would I had the power
 To say so to my husband.
 
-<speaker>SICINIUS,</speaker>
+<speaker>SICINIUS</speaker>
 [<i>to Volumnia</i>]
   Are you mankind?
 
@@ -4306,7 +4306,7 @@ Cats, that can judge as fitly of his worth
 As I can of those mysteries which heaven
 Will not have Earth to know.
 
-<speaker>BRUTUS,</speaker>
+<speaker>BRUTUS</speaker>
 [<i>to Sicinius</i>]
   Pray, let&rsquo;s go.
 
@@ -4651,7 +4651,7 @@ Whence com&rsquo;st thou? What wouldst thou?
 Thy name? Why speak&rsquo;st not? Speak, man. What&rsquo;s
 thy name?
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>removing his muffler</i>]
   If, Tullus,
 Not yet thou know&rsquo;st me, and seeing me, dost not
@@ -5000,7 +5000,7 @@ His mother and his wife hear nothing from him.
 
 [<i>Enter three or four Citizens.</i>]
 
-<speaker>ALL CITIZENS,</speaker>
+<speaker>ALL CITIZENS</speaker>
 [<i>to the Tribunes</i>]
 The gods preserve
 you both!
@@ -5148,7 +5148,7 @@ What lay before them.
 
 [<i>Enter Cominius.</i>]
 
-<speaker>COMINIUS,</speaker>
+<speaker>COMINIUS</speaker>
 [<i>to the Tribunes</i>]
   O, you have made good
 work!
@@ -5156,7 +5156,7 @@ work!
 <speaker>MENENIUS</speaker>
 What news? What news?
 
-<speaker>COMINIUS,</speaker>
+<speaker>COMINIUS</speaker>
 [<i>to the Tribunes</i>]
 You have holp to ravish your own daughters and
 To melt the city leads upon your pates,
@@ -5165,7 +5165,7 @@ To see your wives dishonored to your noses&mdash;
 <speaker>MENENIUS</speaker>
 What&rsquo;s the news? What&rsquo;s the news?
 
-<speaker>COMINIUS,</speaker>
+<speaker>COMINIUS</speaker>
 [<i>to the Tribunes</i>]
 Your temples burned in their cement, and
 Your franchises, whereon you stood, confined
@@ -5186,7 +5186,7 @@ Against us brats with no less confidence
 Than boys pursuing summer butterflies
 Or butchers killing flies.
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to the Tribunes</i>]
   You have made good work,
 You and your apron-men, you that stood so much
@@ -5436,7 +5436,7 @@ He was a kind of nothing, titleless,
 Till he had forged himself a name o&rsquo; th&rsquo; fire
 Of burning Rome.
 
-<speaker>MENENIUS,</speaker>
+<speaker>MENENIUS</speaker>
 [<i>to the Tribunes</i>]
 Why, so; you have made good work!
 A pair of tribunes that have wracked Rome
@@ -5852,13 +5852,13 @@ The moon of Rome, chaste as the icicle
 That&rsquo;s curdied by the frost from purest snow
 And hangs on Dian&rsquo;s temple!&mdash;Dear Valeria.
 
-<speaker>VOLUMNIA,</speaker>
+<speaker>VOLUMNIA</speaker>
 [<i>presenting young Martius</i>]
 This is a poor epitome of yours,
 Which by th&rsquo; interpretation of full time
 May show like all yourself.
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>to young Martius</i>]
   The god of soldiers,
 With the consent of supreme Jove, inform
@@ -5867,7 +5867,7 @@ To shame unvulnerable, and stick i&rsquo; th&rsquo; wars
 Like a great seamark standing every flaw
 And saving those that eye thee.
 
-<speaker>VOLUMNIA,</speaker>
+<speaker>VOLUMNIA</speaker>
 [<i>to young Martius</i>]
   Your knee, sirrah.
 [<i>He kneels.</i>]
@@ -6039,13 +6039,13 @@ I&rsquo;ll not to Rome. I&rsquo;ll back with you; and pray you,
 Stand to me in this cause.&mdash;O mother!&mdash;Wife!
 [<i>He speaks with them aside.</i>]
 
-<speaker>AUFIDIUS,</speaker>
+<speaker>AUFIDIUS</speaker>
 [<i>aside</i>]
 I am glad thou hast set thy mercy and thy honor
 At difference in thee. Out of that I&rsquo;ll work
 Myself a former fortune.
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>to the Women</i>]
   Ay, by and by;
 But we will drink together, and you shall bear
@@ -6121,7 +6121,7 @@ respect not us.
 
 [<i>Enter a Messenger.</i>]
 
-<speaker>MESSENGER,</speaker>
+<speaker>MESSENGER</speaker>
 [<i>to Sicinius</i>]
 Sir, if you&rsquo;d save your life, fly to your house.
 The plebeians have got your fellow tribune
@@ -6166,7 +6166,7 @@ This morning for ten thousand of your throats
 I&rsquo;d not have given a doit. Hark, how they joy!
 [<i>Sound still with the shouts.</i>]
 
-<speaker>SICINIUS,</speaker>
+<speaker>SICINIUS</speaker>
 [<i>to Second Messenger</i>]
   First, the gods bless
 you for your tidings; next, accept my thankfulness.
@@ -6446,7 +6446,7 @@ This orb o&rsquo; th&rsquo; Earth. His last offenses to us
 Shall have judicious hearing. Stand, Aufidius,
 And trouble not the peace.
 
-<speaker>CORIOLANUS,</speaker>
+<speaker>CORIOLANUS</speaker>
 [<i>drawing his sword</i>]
   O, that I had him,
 With six Aufidiuses, or more, his tribe,

@@ -581,7 +581,7 @@ the commons of Melford. How now, sir knave?
 Alas, sir, I am but a poor petitioner
 of our whole township.
 
-<speaker>PETER,</speaker>
+<speaker>PETER</speaker>
 [<i>showing his petition</i>]
   Against my master,
 Thomas Horner, for saying that the Duke of York
@@ -596,7 +596,7 @@ That my master was? No, forsooth. My master
 said that he was and that the King was an
 usurper.
 
-<speaker>SUFFOLK,</speaker>
+<speaker>SUFFOLK</speaker>
 [<i>calling</i>]
   Who is there?
 
@@ -750,23 +750,23 @@ The Dauphin hath prevailed beyond the seas,
 And all the peers and nobles of the realm
 Have been as bondmen to thy sovereignty.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>to Gloucester</i>]
 The Commons hast thou racked; the clergy&rsquo;s bags
 Are lank and lean with thy extortions.
 
-<speaker>SOMERSET,</speaker>
+<speaker>SOMERSET</speaker>
 [<i>to Gloucester</i>]
 Thy sumptuous buildings and thy wife&rsquo;s attire
 Have cost a mass of public treasury.
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>to Gloucester</i>]
 Thy cruelty in execution
 Upon offenders hath exceeded law
 And left thee to the mercy of the law.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>to Gloucester</i>]
 Thy sale of offices and towns in France,
 If they were known, as the suspect is great,
@@ -793,7 +793,7 @@ Though in this place most master wear no breeches,
 She shall not strike Dame Eleanor unrevenged.
 [<i>Eleanor, the Duchess, exits.</i>]
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>aside to Cardinal</i>]
 Lord Cardinal, I will follow Eleanor
 And listen after Humphrey how he proceeds.
@@ -874,7 +874,7 @@ By these ten bones, my lords, he did speak
 them to me in the garret one night as we were
 scouring my lord of York&rsquo;s armor.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>to Horner</i>]
 Base dunghill villain and mechanical,
 I&rsquo;ll have thy head for this thy traitor&rsquo;s speech!&mdash;
@@ -985,7 +985,7 @@ For till thou speak, thou shalt not pass from hence.
 <speaker>SPIRIT</speaker>
 Ask what thou wilt. That I had said and done!
 
-<speaker>BOLINGBROKE,</speaker>
+<speaker>BOLINGBROKE</speaker>
 [<i>reading from a paper, while Southwell
 writes</i>]
 First of the King: What shall of him become?
@@ -994,7 +994,7 @@ First of the King: What shall of him become?
 The duke yet lives that Henry shall depose,
 But him outlive and die a violent death.
 
-<speaker>BOLINGBROKE,</speaker>
+<speaker>BOLINGBROKE</speaker>
 [<i>reads</i>]
 What fates await the Duke of Suffolk?
 
@@ -1104,7 +1104,7 @@ I saw not better sport these seven years&rsquo; day.
 Yet, by your leave, the wind was very high,
 And, ten to one, old Joan had not gone out.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Gloucester</i>]
 But what a point, my lord, your falcon made,
 And what a pitch she flew above the rest!
@@ -1131,7 +1131,7 @@ Were it not good your Grace could fly to heaven?
 <speaker>KING HENRY</speaker>
 The treasury of everlasting joy.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>to Gloucester</i>]
 Thy heaven is on Earth; thine eyes and thoughts
 Beat on a crown, the treasure of thy heart.
@@ -1171,21 +1171,21 @@ For blessed are the peacemakers on Earth.
 Let me be blessed for the peace I make
 Against this proud Protector with my sword!
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>aside to Cardinal</i>]
 Faith, holy uncle, would &rsquo;t were come to that!
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>aside to Gloucester</i>]
   Marry, when thou
 dar&rsquo;st!
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>aside to Cardinal</i>]
 Make up no factious numbers for the matter.
 In thine own person answer thy abuse.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>aside to Gloucester</i>]
 Ay, where thou dar&rsquo;st not peep. An if thou dar&rsquo;st,
 This evening, on the east side of the grove.
@@ -1204,7 +1204,7 @@ True, uncle. [<i>(Aside to Cardinal.)</i>]
  Are you advised?
 The east side of the grove.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>aside to Gloucester</i>]
 I am with you.
 
@@ -1218,7 +1218,7 @@ Talking of hawking; nothing else, my lord.
 I&rsquo;ll shave your crown for this,
 Or all my fence shall fail.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>aside to Gloucester</i>]
   Medice, teipsum;
 Protector, see to &rsquo;t well; protect yourself.
@@ -1391,14 +1391,14 @@ Tell me, sirrah, what&rsquo;s my name?
 <speaker>SIMPCOX</speaker>
 Alas, master, I know not.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>pointing</i>]
   What&rsquo;s his name?
 
 <speaker>SIMPCOX</speaker>
 I know not.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>pointing to someone else</i>]
   Nor his?
 
@@ -1474,7 +1474,7 @@ O God, seest Thou this, and bearest so long?
 <speaker>QUEEN MARGARET</speaker>
 It made me laugh to see the villain run.
 
-<speaker>GLOUCESTER,</speaker>
+<speaker>GLOUCESTER</speaker>
 [<i>to the Beadle</i>]
 Follow the knave, and take this drab away.
 
@@ -1652,7 +1652,7 @@ And in this private plot be we the first
 That shall salute our rightful sovereign
 With honor of his birthright to the crown.
 
-<speaker>SALISBURY, WARWICK,</speaker>
+<speaker>SALISBURY WARWICK</speaker>
 [<i>kneeling</i>]
 Long live our sovereign Richard, England&rsquo;s king!
 
@@ -2179,7 +2179,7 @@ Is utterly bereft you. All is lost.
 <speaker>KING HENRY</speaker>
 Cold news, Lord Somerset; but God&rsquo;s will be done.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>aside</i>]
 Cold news for me, for I had hope of France
 As firmly as I hope for fertile England.
@@ -2319,7 +2319,7 @@ And well such losers may have leave to speak.
 He&rsquo;ll wrest the sense and hold us here all day.
 Lord Cardinal, he is your prisoner.
 
-<speaker>CARDINAL,</speaker>
+<speaker>CARDINAL</speaker>
 [<i>to his Men</i>]
 Sirs, take away the Duke, and guard him sure.
 
@@ -2368,7 +2368,7 @@ Say "&ldquo;Who&rsquo;s a traitor, Gloucester he is none.&rdquo;"
 [<i>He exits, with Buckingham, Salisbury, Warwick,
 and Others. Somerset steps aside.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>to Cardinal, Suffolk, and York</i>]
 Free lords, cold snow melts with the sun&rsquo;s hot
 beams.
@@ -2477,7 +2477,7 @@ That Somerset be sent as regent thither.
 &rsquo;Tis meet that lucky ruler be employed&mdash;
 Witness the fortune he hath had in France.
 
-<speaker>SOMERSET,</speaker>
+<speaker>SOMERSET</speaker>
 [<i>advancing</i>]
 If York, with all his far-fet policy,
 Had been the regent there instead of me,
@@ -2990,7 +2990,7 @@ Set all upon me, mighty sovereign.
 
 [<i>Enter Salisbury.</i>]
 
-<speaker>SALISBURY,</speaker>
+<speaker>SALISBURY</speaker>
 [<i>to the offstage Commons</i>]
 Sirs, stand apart. The King shall know your mind.&mdash;
 Dread lord, the Commons send you word by me,
@@ -3021,7 +3021,7 @@ With whose envenomed and fatal sting
 Your loving uncle, twenty times his worth,
 They say, is shamefully bereft of life.
 
-<speaker>COMMONS,</speaker>
+<speaker>COMMONS</speaker>
 [<i>within</i>]
 An answer from the King, my lord of Salisbury!
 
@@ -3036,7 +3036,7 @@ But all the honor Salisbury hath won
 Is that he was the lord ambassador
 Sent from a sort of tinkers to the King.
 
-<speaker>COMMONS,</speaker>
+<speaker>COMMONS</speaker>
 [<i>within</i>]
 An answer from the King, or we will all break in.
 
@@ -3071,7 +3071,7 @@ Come, Warwick, come, good Warwick, go with me.
 I have great matters to impart to thee.
 [<i>All but the Queen and Suffolk exit.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>calling after King Henry and
 Warwick</i>]
 Mischance and sorrow go along with you!
@@ -3326,7 +3326,7 @@ What is my ransom, master? Let me know.
 <speaker>MASTER</speaker>
 A thousand crowns, or else lay down your head.
 
-<speaker>MATE,</speaker>
+<speaker>MATE</speaker>
 [<i>to the Second Gentleman</i>]
 And so much shall you give, or off goes yours.
 
@@ -3343,7 +3343,7 @@ I&rsquo;ll give it, sir, and therefore spare my life.
 <speaker>SECOND GENTLEMAN</speaker>
 And so will I, and write home for it straight.
 
-<speaker>WHITMORE,</speaker>
+<speaker>WHITMORE</speaker>
 [<i>to Suffolk</i>]
 I lost mine eye in laying the prize aboard,
 And therefore to revenge it shalt thou die;
@@ -3623,7 +3623,7 @@ all with staves.</i>]
 We, John Cade, so termed of our supposed
 father&mdash;
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   Or rather of stealing a cade of herrings.
 
@@ -3638,7 +3638,7 @@ Silence!
 <speaker>CADE</speaker>
 My father was a Mortimer&mdash;
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   He was an honest man and a good
 bricklayer.
@@ -3646,19 +3646,19 @@ bricklayer.
 <speaker>CADE</speaker>
 My mother a Plantagenet&mdash;
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   I knew her well; she was a midwife.
 
 <speaker>CADE</speaker>
 My wife descended of the Lacys.
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   She was indeed a peddler&rsquo;s daughter, and
 sold many laces.
 
-<speaker>SMITH,</speaker>
+<speaker>SMITH</speaker>
 [<i>aside</i>]
   But now of late, not able to travel with
 her furred pack, she washes bucks here at home.
@@ -3666,7 +3666,7 @@ her furred pack, she washes bucks here at home.
 <speaker>CADE</speaker>
 Therefore am I of an honorable house.
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   Ay, by my faith, the field is honorable;
 and there was he born, under a hedge, for his
@@ -3675,14 +3675,14 @@ father had never a house but the cage.
 <speaker>CADE</speaker>
 Valiant I am&mdash;
 
-<speaker>SMITH,</speaker>
+<speaker>SMITH</speaker>
 [<i>aside</i>]
   He must needs, for beggary is valiant.
 
 <speaker>CADE</speaker>
 I am able to endure much&mdash;
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   No question of that; for I have seen him
 whipped three market-days together.
@@ -3690,12 +3690,12 @@ whipped three market-days together.
 <speaker>CADE</speaker>
 I fear neither sword nor fire.
 
-<speaker>SMITH,</speaker>
+<speaker>SMITH</speaker>
 [<i>aside</i>]
   He need not fear the sword, for his coat
 is of proof.
 
-<speaker>DICK,</speaker>
+<speaker>DICK</speaker>
 [<i>aside</i>]
   But methinks he should stand in fear of
 fire, being burnt i&rsquo; th&rsquo; hand for stealing of sheep.
@@ -3913,7 +3913,7 @@ counselor, or no?
 <speaker>ALL</speaker>
 No, no, and therefore we&rsquo;ll have his head!
 
-<speaker>BROTHER,</speaker>
+<speaker>BROTHER</speaker>
 [<i>to Stafford</i>]
 Well, seeing gentle words will not prevail,
 Assail them with the army of the King.
@@ -3988,7 +3988,7 @@ towards London.
 Queen Margaret with Suffolk&rsquo;s head, the Duke
 of Buckingham, and the Lord Saye.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Oft have I heard that grief softens the mind
 And makes it fearful and degenerate.
@@ -3997,7 +3997,7 @@ But who can cease to weep and look on this?
 Here may his head lie on my throbbing breast,
 But where&rsquo;s the body that I should embrace?
 
-<speaker>BUCKINGHAM,</speaker>
+<speaker>BUCKINGHAM</speaker>
 [<i>to King Henry</i>]
 What answer makes your Grace to the rebels&rsquo;
 supplication?
@@ -4010,7 +4010,7 @@ Rather than bloody war shall cut them short,
 Will parley with Jack Cade, their general.
 But stay, I&rsquo;ll read it over once again.	[<i>He reads.</i>]
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>aside</i>]
 Ah, barbarous villains! Hath this lovely face
 Ruled, like a wandering planet, over me,
@@ -4090,7 +4090,7 @@ Come, Margaret. God, our hope, will succor us.
 <speaker>QUEEN MARGARET</speaker>
 My hope is gone, now Suffolk is deceased.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Saye</i>]
 Farewell, my lord. Trust not the Kentish rebels.
 
@@ -4181,13 +4181,13 @@ Be it a lordship, thou shalt have it for that word.
 Only that the laws of England may come out of
 your mouth.
 
-<speaker>HOLLAND,</speaker>
+<speaker>HOLLAND</speaker>
 [<i>aside</i>]
   Mass, &rsquo;twill be sore law, then, for he
 was thrust in the mouth with a spear, and &rsquo;tis not
 whole yet.
 
-<speaker>SMITH,</speaker>
+<speaker>SMITH</speaker>
 [<i>aside</i>]
   Nay, John, it will be stinking law, for
 his breath stinks with eating toasted cheese.
@@ -4197,7 +4197,7 @@ I have thought upon it; it shall be so. Away!
 Burn all the records of the realm. My mouth shall
 be the Parliament of England.
 
-<speaker>HOLLAND,</speaker>
+<speaker>HOLLAND</speaker>
 [<i>aside</i>]
   Then we are like to have biting
 statutes&mdash;unless his teeth be pulled out.
@@ -4473,7 +4473,7 @@ God on our side, doubt not of victory.
 A Clifford! A Clifford! We&rsquo;ll follow the King and
 Clifford!
 
-<speaker>CADE,</speaker>
+<speaker>CADE</speaker>
 [<i>aside</i>]
   Was ever feather so lightly blown to and
 fro as this multitude? The name of Henry the Fifth
@@ -4571,7 +4571,7 @@ My lord,
 I&rsquo;ll yield myself to prison willingly,
 Or unto death, to do my country good.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to Buckingham</i>]
 In any case, be not too rough in terms,
 For he is fierce and cannot brook hard language.
@@ -4619,7 +4619,7 @@ Or gather wealth, I care not with what envy.
 Sufficeth that I have maintains my state
 And sends the poor well pleased from my gate.
 
-<speaker>CADE,</speaker>
+<speaker>CADE</speaker>
 [<i>aside</i>]
   Here&rsquo;s the lord of the soil come to seize
 me for a stray, for entering his fee-simple without
@@ -4743,7 +4743,7 @@ Against thy oath and true allegiance sworn,
 Should raise so great a power without his leave,
 Or dare to bring thy force so near the court.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>aside</i>]
 Scarce can I speak, my choler is so great.
 O, I could hew up rocks and fight with flint,
@@ -4851,7 +4851,7 @@ And never live but true unto his liege!
 [<i>Enter Queen Margaret and Somerset,
 wearing the red rose.</i>]
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>aside to Buckingham</i>]
 See, Buckingham, Somerset comes with th&rsquo; Queen.
 Go bid her hide him quickly from the Duke.
@@ -4861,7 +4861,7 @@ Go bid her hide him quickly from the Duke.
 For thousand Yorks he shall not hide his head,
 But boldly stand and front him to his face.
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>aside</i>]
 How now? Is Somerset at liberty?
 Then, York, unloose thy long-imprisoned thoughts,
@@ -4897,14 +4897,14 @@ bail.	[<i>Attendant exits.</i>]
 I know, ere they will have me go to ward,
 They&rsquo;ll pawn their swords for my enfranchisement.
 
-<speaker>QUEEN MARGARET,</speaker>
+<speaker>QUEEN MARGARET</speaker>
 [<i>to Buckingham</i>]
 Call hither Clifford; bid him come amain,
 To say if that the bastard boys of York
 Shall be the surety for their traitor father.
 [<i>Buckingham exits.</i>]
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>to Queen Margaret</i>]
 O, blood-bespotted Neapolitan,
 Outcast of Naples, England&rsquo;s bloody scourge!
@@ -4923,7 +4923,7 @@ good.
 <speaker>QUEEN MARGARET</speaker>
 And here comes Clifford to deny their bail.
 
-<speaker>CLIFFORD,</speaker>
+<speaker>CLIFFORD</speaker>
 [<i>kneeling before King Henry</i>]
 Health and all happiness to my lord the King.
 [<i>He rises.</i>]
@@ -5044,12 +5044,12 @@ But that he was bound by a solemn oath?
 <speaker>QUEEN MARGARET</speaker>
 A subtle traitor needs no sophister.
 
-<speaker>KING HENRY,</speaker>
+<speaker>KING HENRY</speaker>
 [<i>to an Attendant</i>]
 Call Buckingham, and bid him arm himself.
 [<i>Attendant exits.</i>]
 
-<speaker>YORK,</speaker>
+<speaker>YORK</speaker>
 [<i>to King Henry</i>]
 Call Buckingham and all the friends thou hast,
 I am resolved for death or dignity.

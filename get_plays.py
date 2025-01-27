@@ -83,6 +83,8 @@ def process_content(content):
                 if speaker_end > 0:
                     speaker = ' '.join(words[:speaker_end])
                     rest = ' '.join(words[speaker_end:])
+                    # Clean speaker text of punctuation and normalize whitespace
+                    speaker = re.sub(r'[,.!?:;\s]+', ' ', speaker).strip()
                     # Add more visible formatting for speaker and dialogue
                     if rest.strip():
                         line = f"<speaker>{speaker}</speaker>\n{rest}"
@@ -155,6 +157,8 @@ def process_content(content):
                 if speaker_end > 0:
                     speaker = ' '.join(words[:speaker_end])
                     rest = ' '.join(words[speaker_end:])
+                    # Clean speaker text of punctuation and normalize whitespace
+                    speaker = re.sub(r'[,.!?:;\s]+', ' ', speaker).strip()
                     # Add more visible formatting for speaker and dialogue
                     if rest.strip():
                         line = f"<speaker>{speaker}</speaker>\n{rest}"

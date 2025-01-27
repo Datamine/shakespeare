@@ -605,12 +605,12 @@ I can construe the action of her familiar style;
 and the hardest voice of her behavior, to be Englished
 rightly, is "&ldquo;I am Sir John Falstaff&rsquo;s.&rdquo;"
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>aside to Nym</i>]
   He hath studied her will and
 translated her will&mdash;out of honesty into English.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>aside to Pistol</i>]
   The anchor is deep. Will that
 humor pass?
@@ -619,17 +619,17 @@ humor pass?
 Now, the report goes, she has all the rule of
 her husband&rsquo;s purse. He hath a legion of angels.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>aside to Nym</i>]
   As many devils entertain, and
 "&ldquo;To her, boy,&rdquo;" say I.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>aside to Pistol</i>]
   The humor rises; it is good.
 Humor me the angels.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>showing two papers</i>]
   I have writ me here a
 letter to her; and here another to Page&rsquo;s wife, who
@@ -638,12 +638,12 @@ parts with most judicious oeillades. Sometimes
 the beam of her view gilded my foot, sometimes
 my portly belly.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>aside to Nym</i>]
   Then did the sun on dunghill
 shine.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>aside to Pistol</i>]
   I thank thee for that humor.
 
@@ -663,13 +663,13 @@ Ford. We will thrive, lads, we will thrive.
 Shall I Sir Pandarus of Troy become,
 And by my side wear steel? Then Lucifer take all!
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>to Falstaff</i>]
   I will run no base humor. Here, take
 the humor-letter. I will keep the havior of
 reputation.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>giving papers to Robin</i>]
 Hold, sirrah, bear you these letters tightly;
 Sail like my pinnace to these golden shores.&mdash;
@@ -905,7 +905,7 @@ for my master in the way of marriage.
 This is all, indeed, la! But I&rsquo;ll ne&rsquo;er
 put my finger in the fire, and need not.
 
-<speaker>DOCTOR CAIUS,</speaker>
+<speaker>DOCTOR CAIUS</speaker>
 [<i>to Simple</i>]
   Sir Hugh send-a you?&mdash;
 Rugby, baille me some paper.&mdash;Tarry you a little-a
@@ -913,7 +913,7 @@ while.
 
 [<i>Rugby brings paper, and Doctor Caius writes.</i>]
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>aside to Simple</i>]
   I am glad he is so
 quiet. If he had been throughly moved, you should
@@ -925,12 +925,12 @@ master, look you, for I keep his house, and I wash,
 wring, brew, bake, scour, dress meat and drink,
 make the beds, and do all myself&mdash;
 
-<speaker>SIMPLE,</speaker>
+<speaker>SIMPLE</speaker>
 [<i>aside to Quickly</i>]
   &rsquo;Tis a great charge to come
 under one body&rsquo;s hand.
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>aside to Simple</i>]
   Are you advised o&rsquo;
 that? You shall find it a great charge. And to be up
@@ -940,7 +940,7 @@ master himself is in love with Mistress Anne Page.
 But notwithstanding that, I know Anne&rsquo;s mind.
 That&rsquo;s neither here nor there.
 
-<speaker>DOCTOR CAIUS,</speaker>
+<speaker>DOCTOR CAIUS</speaker>
 [<i>handing paper to Simple</i>]
   You, jack&rsquo;nape,
 give-a this letter to Sir Hugh. By gar, it is a
@@ -981,7 +981,7 @@ for that. Never a woman in Windsor knows more
 of Anne&rsquo;s mind than I do, nor can do more than I
 do with her, I thank heaven.
 
-<speaker>FENTON,</speaker>
+<speaker>FENTON</speaker>
 [<i>within</i>]
   Who&rsquo;s within there, ho?
 
@@ -1249,11 +1249,11 @@ sing.&mdash;
 Away, Sir Corporal Nym.&mdash;Believe it, Page. He
 speaks sense.	[<i>He exits.</i>]
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>aside</i>]
   I will be patient. I will find out this.
 
-<speaker>NYM,</speaker>
+<speaker>NYM</speaker>
 [<i>to Page</i>]
   And this is true. I like not the humor of
 lying. He hath wronged me in some humors. I
@@ -1265,37 +1265,37 @@ My name is Corporal Nym. I speak and I avouch.
 wife. Adieu. I love not the humor of bread and
 cheese. Adieu.	[<i>He exits.</i>]
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>aside</i>]
   "&ldquo;The humor of it,&rdquo;" quoth he? Here&rsquo;s a fellow
 frights English out of his wits.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>aside</i>]
   I will seek out Falstaff.
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>aside</i>]
   I never heard such a drawling, affecting
 rogue.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>aside</i>]
   If I do find it&mdash;well.
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>aside</i>]
   I will not believe such a Cataian, though
 the priest o&rsquo; th&rsquo; town commended him for a true
 man.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>aside</i>]
   &rsquo;Twas a good sensible fellow&mdash;well.
 
 [<i>Mistress Page and Mistress Ford come forward.</i>]
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Mistress Page</i>]
   How now, Meg?
 
@@ -1303,7 +1303,7 @@ man.
 Whither go you, George? Hark you.
 [<i>They talk aside.</i>]
 
-<speaker>MISTRESS FORD,</speaker>
+<speaker>MISTRESS FORD</speaker>
 [<i>to Ford</i>]
   How now, sweet Frank? Why
 art thou melancholy?
@@ -1329,7 +1329,7 @@ She shall be our messenger to this paltry knight.
 <speaker>MISTRESS FORD</speaker>
 Trust me, I thought on her. She&rsquo;ll fit it.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>to Mistress Quickly</i>]
   You are come to
 see my daughter Anne?
@@ -1418,7 +1418,7 @@ Good mine Host o&rsquo; th&rsquo; Garter, a word with you.
 What say&rsquo;st thou, my bullyrook?
 [<i>The Host and Ford talk aside.</i>]
 
-<speaker>SHALLOW,</speaker>
+<speaker>SHALLOW</speaker>
 [<i>to Page</i>]
   Will you go with us to behold it?
 My merry Host hath had the measuring of their
@@ -1427,7 +1427,7 @@ places; for, believe me, I hear the parson is no
 jester. Hark, I will tell you what our sport shall be.
 [<i>Shallow and Page talk aside.</i>]
 
-<speaker>HOST,</speaker>
+<speaker>HOST</speaker>
 [<i>to Ford</i>]
   Hast thou no suit against my knight,
 my guest cavalier?
@@ -1697,7 +1697,7 @@ Quickly and Robin exit.)</i>]
  This news distracts
 me.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>aside</i>]
 This punk is one of Cupid&rsquo;s carriers.
 Clap on more sails, pursue; up with your fights;
@@ -1734,14 +1734,14 @@ you? Go to. Via!
 
 [<i>Enter Bardolph with Ford disguised as Brook.</i>]
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   God bless you, sir.
 
 <speaker>FALSTAFF</speaker>
 And you, sir. Would you speak with me?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   I make bold to press with so little
 preparation upon you.
@@ -1750,7 +1750,7 @@ preparation upon you.
 You&rsquo;re welcome. What&rsquo;s your will?&mdash;Give us
 leave, drawer.	[<i>Bardolph exits.</i>]
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Sir, I am a gentleman that have spent
 much. My name is Brook.
@@ -1759,7 +1759,7 @@ much. My name is Brook.
 Good Master Brook, I desire more acquaintance
 of you.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Good Sir John, I sue for yours&mdash;not
 to charge you, for I must let you understand I
@@ -1771,7 +1771,7 @@ go before, all ways do lie open.
 <speaker>FALSTAFF</speaker>
 Money is a good soldier, sir, and will on.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Troth, and I have a bag of money
 here troubles me. [<i>He sets it down.</i>]
@@ -1783,7 +1783,7 @@ of the carriage.
 Sir, I know not how I may deserve to be your
 porter.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   I will tell you, sir, if you will give me
 the hearing.
@@ -1792,7 +1792,7 @@ the hearing.
 Speak, good Master Brook. I shall be glad
 to be your servant.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Sir, I hear you are a scholar&mdash;I will
 be brief with you&mdash;and you have been a man long
@@ -1809,7 +1809,7 @@ be such an offender.
 <speaker>FALSTAFF</speaker>
 Very well, sir. Proceed.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   There is a gentlewoman in this
 town&mdash;her husband&rsquo;s name is Ford.
@@ -1817,7 +1817,7 @@ town&mdash;her husband&rsquo;s name is Ford.
 <speaker>FALSTAFF</speaker>
 Well, sir.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   I have long loved her and, I protest
 to you, bestowed much on her, followed her with
@@ -1841,7 +1841,7 @@ Pursuing that that flies, and flying what pursues.&rdquo;"
 Have you received no promise of satisfaction
 at her hands?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Never.
 
@@ -1849,14 +1849,14 @@ at her hands?
 Have you importuned her to such a
 purpose?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Never.
 
 <speaker>FALSTAFF</speaker>
 Of what quality was your love, then?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Like a fair house built on another
 man&rsquo;s ground, so that I have lost my edifice by
@@ -1866,7 +1866,7 @@ mistaking the place where I erected it.
 To what purpose have you unfolded this to
 me?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   When I have told you that, I have
 told you all. Some say that though she appear honest
@@ -1882,7 +1882,7 @@ learned preparations.
 <speaker>FALSTAFF</speaker>
 O, sir!
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Believe it, for you know it. There is
 money. [<i>(He points to the bag.)</i>]
@@ -1899,7 +1899,7 @@ your affection that I should win what you would
 enjoy? Methinks you prescribe to yourself very
 preposterously.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   O, understand my drift. She dwells
 so securely on the excellency of her honor that the
@@ -1913,21 +1913,21 @@ other her defenses, which now are too too strongly
 embattled against me. What say you to &rsquo;t, Sir
 John?
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>taking the bag</i>]
   Master Brook, I will first
 make bold with your money; next, give me your
 hand; and, last, as I am a gentleman, you shall, if
 you will, enjoy Ford&rsquo;s wife.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   O, good sir!
 
 <speaker>FALSTAFF</speaker>
 I say you shall.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Want no money, Sir John; you shall
 want none.
@@ -1942,7 +1942,7 @@ at that time the jealous, rascally knave her husband
 will be forth. Come you to me at night. You
 shall know how I speed.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   I am blessed in your acquaintance.
 Do you know Ford, sir?
@@ -1955,7 +1955,7 @@ money, for the which his wife seems to me well-favored.
 I will use her as the key of the cuckoldly
 rogue&rsquo;s coffer, and there&rsquo;s my harvest home.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   I would you knew Ford, sir, that you
 might avoid him if you saw him.
@@ -2166,7 +2166,7 @@ well?
 <speaker>SHALLOW</speaker>
 We will do it.
 
-<speaker>PAGE, SHALLOW,</speaker>
+<speaker>PAGE SHALLOW</speaker>
 and SLENDER Adieu, good Master
 Doctor.	[<i>Page, Shallow, and Slender exit.</i>]
 
@@ -2273,7 +2273,7 @@ good Sir Hugh. Keep a gamester from the dice,
 and a good student from his book, and it is
 wonderful.
 
-<speaker>SLENDER,</speaker>
+<speaker>SLENDER</speaker>
 [<i>aside</i>]
   Ah, sweet Anne Page!
 
@@ -2333,12 +2333,12 @@ and Galen&mdash;and he is a knave besides, a cowardly
 knave as you would desires to be acquainted
 withal.
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Shallow</i>]
   I warrant you, he&rsquo;s the man should
 fight with him.
 
-<speaker>SLENDER,</speaker>
+<speaker>SLENDER</speaker>
 [<i>aside</i>]
   O, sweet Anne Page!
 
@@ -2360,13 +2360,13 @@ Disarm them, and let them question. Let them
 keep their limbs whole and hack our English.
 [<i>Page and Shallow disarm Caius and Sir Hugh.</i>]
 
-<speaker>DOCTOR CAIUS,</speaker>
+<speaker>DOCTOR CAIUS</speaker>
 [<i>to Sir Hugh</i>]
   I pray you, let-a me speak
 a word with your ear. Verefore vill you not
 meet-a me?
 
-<speaker>SIR HUGH,</speaker>
+<speaker>SIR HUGH</speaker>
 [<i>aside to Caius</i>]
   Pray you, use your patience.
 [<i>(Aloud.)</i>]
@@ -2376,7 +2376,7 @@ meet-a me?
 By gar, you are de coward, de Jack dog,
 John ape.
 
-<speaker>SIR HUGH,</speaker>
+<speaker>SIR HUGH</speaker>
 [<i>aside to Caius</i>]
   Pray you, let us not be
 laughing-stocks to other men&rsquo;s humors. I desire
@@ -2426,7 +2426,7 @@ me, lads of peace, follow, follow, follow.
 Afore God, a mad Host. Follow, gentlemen,
 follow.
 
-<speaker>SLENDER,</speaker>
+<speaker>SLENDER</speaker>
 [<i>aside</i>]
   O, sweet Anne Page!
 [<i>Shallow, Page, and Slender exit.</i>]
@@ -2539,7 +2539,7 @@ there. I will go.
 [<i>Enter Page, Shallow, Slender, Host, Sir Hugh
 Evans, Doctor Caius, and Rugby.</i>]
 
-<speaker>SHALLOW, PAGE, ETC.</speaker>
+<speaker>SHALLOW PAGE ETC</speaker>
 Well met, Master Ford.
 
 <speaker>FORD</speaker>
@@ -2571,7 +2571,7 @@ altogether.
 Ay, be-gar, and de maid is love-a me! My
 nursh-a Quickly tell me so mush.
 
-<speaker>HOST,</speaker>
+<speaker>HOST</speaker>
 [<i>to Page</i>]
   What say you to young Master Fenton?
 He capers, he dances, he has eyes of youth, he
@@ -2609,13 +2609,13 @@ Go home, John Rugby. I come anon.
 Farewell, my hearts. I will to my honest knight
 Falstaff, and drink canary with him.	[<i>He exits.</i>]
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>aside</i>]
   I think I shall drink in pipe-wine first
 with him; I&rsquo;ll make him dance.&mdash;Will you go,
 gentles?
 
-<speaker>PAGE, DOCTOR CAIUS,</speaker>
+<speaker>PAGE DOCTOR CAIUS</speaker>
 and SIR HUGH Have with you to
 see this monster.
 [<i>They exit.</i>]
@@ -2873,7 +2873,7 @@ What, Sir John Falstaff? [<i>(Aside to
 him.)</i>]
  Are these your letters, knight?
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>aside to Mistress Page</i>]
   I love thee. Help me
 away. Let me creep in here. I&rsquo;ll never&mdash;
@@ -2881,7 +2881,7 @@ away. Let me creep in here. I&rsquo;ll never&mdash;
 [<i>Falstaff goes into the basket; they cover
 him with dirty clothes.</i>]
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>to Robin</i>]
   Help to cover your master,
 boy.&mdash;Call your men, Mistress Ford.&mdash;You dissembling
@@ -2990,7 +2990,7 @@ eight o&rsquo;clock to have amends.
 I cannot find him. Maybe the knave bragged of
 that he could not compass.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>aside to Mistress Ford</i>]
   Heard you
 that?
@@ -3048,7 +3048,7 @@ this.&mdash;Come, wife&mdash;come, Mistress Page, I pray
 you, pardon me. Pray, heartily, pardon me.
 [<i>Mistress Page and Mistress Ford exit.</i>]
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Caius and Sir Hugh</i>]
   Let&rsquo;s go in, gentlemen.
 But, trust me, we&rsquo;ll mock him. [<i>(To Ford, Caius,
@@ -3142,7 +3142,7 @@ Be not dismayed.
 No, she shall not dismay me. I care not for
 that, but that I am afeard.
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>to Anne</i>]
   Hark ye, Master Slender
 would speak a word with you.
@@ -3157,7 +3157,7 @@ Looks handsome in three hundred pounds a year!
 And how does good Master Fenton?
 Pray you, a word with you.	[<i>They talk aside.</i>]
 
-<speaker>SHALLOW,</speaker>
+<speaker>SHALLOW</speaker>
 [<i>to Slender</i>]
   She&rsquo;s coming. To her, coz! O
 boy, thou hadst a father!
@@ -3247,7 +3247,7 @@ Come Master Shallow.&mdash;Come, son Slender, in.&mdash;
 Knowing my mind, you wrong me, Master Fenton.
 [<i>Page, Shallow, and Slender exit.</i>]
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>to Fenton</i>]
   Speak to Mistress Page.
 
@@ -3361,7 +3361,7 @@ Come in, woman.
 By your leave, I cry you mercy. Give
 your Worship good morrow.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>to Bardolph</i>]
   Take away these chalices. Go
 brew me a pottle of sack finely.
@@ -3429,7 +3429,7 @@ sent me word to stay within. I like his money well.
 
 O, here he comes.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   God bless you, sir.
 
@@ -3437,7 +3437,7 @@ O, here he comes.
 Now, Master Brook, you come to know
 what hath passed between me and Ford&rsquo;s wife.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   That indeed, Sir John, is my
 business.
@@ -3446,14 +3446,14 @@ business.
 Master Brook, I will not lie to you. I was at
 her house the hour she appointed me.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   And sped you, sir?
 
 <speaker>FALSTAFF</speaker>
 Very ill-favoredly, Master Brook.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   How so, sir? Did she change her
 determination?
@@ -3469,14 +3469,14 @@ thither provoked and instigated by his
 distemper, and, forsooth, to search his house for
 his wife&rsquo;s love.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   What, while you were there?
 
 <speaker>FALSTAFF</speaker>
 While I was there.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   And did he search for you and could
 not find you?
@@ -3488,7 +3488,7 @@ Ford&rsquo;s approach, and, in her invention and Ford&rsquo;s
 wife&rsquo;s distraction, they conveyed me into a
 buck-basket.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   A buck-basket!
 
@@ -3499,7 +3499,7 @@ greasy napkins, that, Master Brook, there
 was the rankest compound of villainous smell that
 ever offended nostril.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   And how long lay you there?
 
@@ -3533,7 +3533,7 @@ into the Thames and cooled, glowing hot, in that
 surge, like a horseshoe! Think of that&mdash;hissing
 hot&mdash;think of that, Master Brook.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   In good sadness, sir, I am sorry that
 for my sake you have suffered all this. My suit,
@@ -3547,7 +3547,7 @@ I have received from her another embassy of meeting.
 &rsquo;Twixt eight and nine is the hour, Master
 Brook.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   &rsquo;Tis past eight already, sir.
 
@@ -3701,7 +3701,7 @@ And that&rsquo;s a good root.
 <speaker>SIR HUGH</speaker>
 &rsquo;Oman, forbear.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>to Mistress Quickly</i>]
   Peace!
 
@@ -3736,7 +3736,7 @@ for thy cases and the numbers of the
 genders? Thou art as foolish Christian creatures as
 I would desires.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>to Mistress Quickly</i>]
   Prithee, hold thy
 peace.
@@ -3783,7 +3783,7 @@ of it. But are you sure of your husband now?
 <speaker>MISTRESS FORD</speaker>
 He&rsquo;s a-birding, sweet Sir John.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>within</i>]
   What ho, gossip Ford! What
 ho!
@@ -4049,7 +4049,7 @@ I shall find you anon.
 &rsquo;Tis unreasonable. Will you take up your
 wife&rsquo;s clothes? Come, away.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>to the Servants</i>]
   Empty the basket, I say.
 
@@ -4094,7 +4094,7 @@ walnut for his wife&rsquo;s leman.&rdquo;" Satisfy me once
 more. Once more search with me.
 [<i>Robert and John refill the basket and carry it off.</i>]
 
-<speaker>MISTRESS FORD,</speaker>
+<speaker>MISTRESS FORD</speaker>
 [<i>calling offstage</i>]
   What ho, Mistress
 Page! Come you and the old woman down. My
@@ -4418,7 +4418,7 @@ I&rsquo;ll call.&mdash;Bully knight! Bully Sir John! Speak from
 thy lungs military. Art thou there? It is thine Host,
 thine Ephesian, calls.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>within</i>]
   How now, mine Host?
 
@@ -4513,7 +4513,7 @@ paid for my learning.
 
 [<i>Enter Bardolph.</i>]
 
-<speaker>BARDOLPH,</speaker>
+<speaker>BARDOLPH</speaker>
 [<i>to Host</i>]
   Out, alas, sir, cozenage, mere
 cozenage!
@@ -4567,7 +4567,7 @@ Jamanie. By my trot, dere is no duke that the court
 is know to come. I tell you for good will. Adieu.
 [<i>He exits.</i>]
 
-<speaker>HOST,</speaker>
+<speaker>HOST</speaker>
 [<i>to Bardolph</i>]
   Hue and cry, villain, go!&mdash;Assist
 me, knight. I am undone.&mdash;Fly, run; hue and cry,
@@ -4733,7 +4733,7 @@ matter will be known tonight or never. Be you in
 the park about midnight, at Herne&rsquo;s oak, and you
 shall see wonders.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>as Brook</i>]
   Went you not to her yesterday, sir, as
 you told me you had appointed?
@@ -4918,7 +4918,7 @@ would never else cross me thus.
 Anne Page and boys, all disguised as Fairies and
 carrying tapers.</i>]
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>as Fairy Queen</i>]
 Fairies black, gray, green, and white,
 You moonshine revelers and shades of night,
@@ -4926,7 +4926,7 @@ You orphan heirs of fixed destiny,
 Attend your office and your quality.
 Crier Hobgoblin, make the fairy oyes.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>as Hobgoblin</i>]
 Elves, list your names. Silence, you airy toys!&mdash;
 Cricket, to Windsor chimneys shalt thou leap,
@@ -4935,13 +4935,13 @@ unswept.
 There pinch the maids as blue as bilberry.
 Our radiant queen hates sluts and sluttery.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>aside</i>]
 They are fairies. He that speaks to them shall die.
 I&rsquo;ll wink and couch. No man their works must eye.
 [<i>He crouches down and covers his eyes.</i>]
 
-<speaker>SIR HUGH,</speaker>
+<speaker>SIR HUGH</speaker>
 [<i>as a fairy</i>]
 Where&rsquo;s Bead? Go you, and where you find a maid
 That ere she sleep has thrice her prayers said,
@@ -4951,7 +4951,7 @@ But those as sleep and think not on their sins,
 Pinch them, arms, legs, backs, shoulders, sides, and
 shins.
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>as Fairy Queen</i>]
   About, about!
 Search Windsor Castle, elves, within and out.
@@ -4976,34 +4976,34 @@ Away, disperse! But till &rsquo;tis one o&rsquo;clock,
 Our dance of custom round about the oak
 Of Herne the Hunter let us not forget.
 
-<speaker>SIR HUGH,</speaker>
+<speaker>SIR HUGH</speaker>
 [<i>as a fairy</i>]
 Pray you, lock hand in hand. Yourselves in order set;
 And twenty glowworms shall our lanterns be,
 To guide our measure round about the tree.
 But stay! I smell a man of Middle Earth.
 
-<speaker>FALSTAFF,</speaker>
+<speaker>FALSTAFF</speaker>
 [<i>aside</i>]
   Heavens defend me from that Welsh
 fairy, lest he transform me to a piece of cheese.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>as Hobgoblin, to Falstaff</i>]
 Vile worm, thou wast o&rsquo;erlooked even in thy birth.
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>as Fairy Queen, to Sir Hugh</i>]
 With trial-fire touch me his finger-end.
 If he be chaste, the flame will back descend
 And turn him to no pain. But if he start,
 It is the flesh of a corrupted heart.
 
-<speaker>PISTOL,</speaker>
+<speaker>PISTOL</speaker>
 [<i>as Hobgoblin</i>]
 A trial, come!
 
-<speaker>SIR HUGH,</speaker>
+<speaker>SIR HUGH</speaker>
 [<i>as a fairy</i>]
   Come, will this wood take fire?
 [<i>Sir Hugh puts a taper to Falstaff&rsquo;s finger, and he starts.</i>]
@@ -5011,7 +5011,7 @@ A trial, come!
 <speaker>FALSTAFF</speaker>
 O, O, O!
 
-<speaker>MISTRESS QUICKLY,</speaker>
+<speaker>MISTRESS QUICKLY</speaker>
 [<i>as Fairy Queen</i>]
 Corrupt, corrupt, and tainted in desire!
 About him, fairies. Sing a scornful rhyme,
@@ -5040,7 +5040,7 @@ run away from Falstaff, who pulls off his buck&rsquo;s head
 and rises up. Enter Page, Mistress Page,
 Mistress Ford and Ford.</i>]
 
-<speaker>PAGE,</speaker>
+<speaker>PAGE</speaker>
 [<i>to Falstaff</i>]
 Nay, do not fly. I think we have watched you now.
 Will none but Herne the Hunter serve your turn?
@@ -5052,7 +5052,7 @@ Now, good Sir John, how like you Windsor wives?
 See you these, husband? Do not these fair yokes
 Become the forest better than the town?
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>to Falstaff</i>]
   Now, sir, who&rsquo;s a cuckold now?
 Master Brook, Falstaff&rsquo;s a knave, a cuckoldly
@@ -5166,7 +5166,7 @@ tonight at my house, where I will desire thee to
 laugh at my wife, that now laughs at thee. Tell her
 Master Slender hath married her daughter.
 
-<speaker>MISTRESS PAGE,</speaker>
+<speaker>MISTRESS PAGE</speaker>
 [<i>aside</i>]
   Doctors doubt that. If Anne
 Page be my daughter, she is, by this, Doctor Caius&rsquo;
@@ -5269,7 +5269,7 @@ Since therein she doth evitate and shun
 A thousand irreligious cursed hours
 Which forced marriage would have brought upon her.
 
-<speaker>FORD,</speaker>
+<speaker>FORD</speaker>
 [<i>to Page and Mistress Page</i>]
 Stand not amazed. Here is no remedy.
 In love the heavens themselves do guide the state.
