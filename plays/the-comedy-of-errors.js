@@ -3,7 +3,7 @@ by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
-https://shakespeare.folger.edu/shakespeares-works/the-comedy-of-errors/
+<a href="https://shakespeare.folger.edu/shakespeares-works/the-comedy-of-errors/" target="_blank">https://shakespeare.folger.edu/shakespeares-works/the-comedy-of-errors/</a>
 Created on Oct 4, 2017, from FDT version 0.9.2.2`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>

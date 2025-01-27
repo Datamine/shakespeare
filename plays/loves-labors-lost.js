@@ -3,7 +3,7 @@ by William Shakespeare
 Edited by Barbara A. Mowat and Paul Werstine
   with Michael Poston and Rebecca Niles
 Folger Shakespeare Library
-https://shakespeare.folger.edu/shakespeares-works/loves-labors-lost/
+<a href="https://shakespeare.folger.edu/shakespeares-works/loves-labors-lost/" target="_blank">https://shakespeare.folger.edu/shakespeares-works/loves-labors-lost/</a>
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>

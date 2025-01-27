@@ -12,7 +12,9 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 - return shakespeare head to original position during rotation
 - Go through all the character files and fix the formatting.. what we have is not ideal
 - make line breaks more clear, indent slightly when a line is broken
-- fix the space between act and scene AGAIN omfg
+- some of these line transcriptions are just wrong. e.g. in my textfile download, "Crowns him with flowers and makes him all her joy."  is listed as two verses, but it's actually one if you look at https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/read/
+- think about weirdly indented lines, like when they're singing in a midsummer night's dream
+
 
 ### Characters
 The text sources are not quite satisfactory, pulled the formatting from Folger sites like https://www.folger.edu/explore/shakespeares-works/coriolanus/read/characterList/

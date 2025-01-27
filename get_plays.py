@@ -60,6 +60,14 @@ def process_content(content):
     
     # Replace special characters in both parts
     credits = credits.replace('`', '\\`').replace('$', '\\$')
+    
+    # Add link formatting to credits section
+    credits = re.sub(
+        r'(https?://[^\s]+)',
+        r'<a href="\1" target="_blank">\1</a>',
+        credits
+    )
+    
     content = content.replace('`', '\\`').replace('$', '\\$')
     
     # Process square brackets - make content italic with <i> tags
