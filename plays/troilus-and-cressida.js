@@ -54,7 +54,7 @@ Patience herself, what goddess e&rsquo;er she be,
 Doth lesser blench at suff&rsquo;rance than I do.
 At Priam&rsquo;s royal table do I sit
 And when fair Cressid comes into my thoughts&mdash;
-So, traitor! "&ldquo;When she comes&rdquo;"? When is she
+So, traitor! &ldquo;When she comes&rdquo;? When is she
 thence?
 
 PANDARUS  Well, she looked yesternight fairer than ever
@@ -181,7 +181,7 @@ AENEAS
 Hark what good sport is out of town today!
 
 TROILUS
-Better at home, if "&ldquo;would I might&rdquo;" were "&ldquo;may.&rdquo;"
+Better at home, if &ldquo;would I might&rdquo; were &ldquo;may.&rdquo;
 But to the sport abroad. Are you bound thither?
 
 AENEAS
@@ -534,19 +534,19 @@ his pretty answer.
 What was his answer?
 
 <speaker>PANDARUS</speaker>
-Quoth she "&ldquo;Here&rsquo;s but two-and-fifty hairs
-on your chin, and one of them is white.&rdquo;"
+Quoth she &ldquo;Here&rsquo;s but two-and-fifty hairs
+on your chin, and one of them is white.&rdquo;
 
 <speaker>CRESSIDA</speaker>
 This is her question.
 
 <speaker>PANDARUS</speaker>
-That&rsquo;s true, make no question of that. "&ldquo;Two-and-fifty
-hairs,&rdquo;" quoth he, "&ldquo;and one white. That
+That&rsquo;s true, make no question of that. &ldquo;Two-and-fifty
+hairs,&rdquo; quoth he, &ldquo;and one white. That
 white hair is my father, and all the rest are his
-sons.&rdquo;" "&ldquo;Jupiter!&rdquo;" quoth she, "&ldquo;which of these hairs
-is Paris, my husband?&rdquo;" "&ldquo;The forked one,&rdquo;" quoth he.
-"&ldquo;Pluck &rsquo;t out, and give it him.&rdquo;" But there was such
+sons.&rdquo; &ldquo;Jupiter!&rdquo; quoth she, &ldquo;which of these hairs
+is Paris, my husband?&rdquo; &ldquo;The forked one,&rdquo; quoth he.
+&ldquo;Pluck &rsquo;t out, and give it him.&rdquo; But there was such
 laughing, and Helen so blushed, and Paris so
 chafed, and all the rest so laughed that it passed.
 
@@ -667,7 +667,7 @@ Can Helenus fight, uncle?
 <speaker>PANDARUS</speaker>
 Helenus? No. Yes, he&rsquo;ll fight indifferent
 well. I marvel where Troilus is. Hark, do you not
-hear the people cry "&ldquo;Troilus&rdquo;"? Helenus is a priest.
+hear the people cry &ldquo;Troilus&rdquo;? Helenus is a priest.
 
 [<i>Enter Troilus and crosses the stage.</i>]
 
@@ -718,7 +718,7 @@ Achilles? A drayman, a porter, a very camel!
 Well, well.
 
 <speaker>PANDARUS</speaker>
-"&ldquo;Well, well&rdquo;"? Why, have you any discretion?
+&ldquo;Well, well&rdquo;? Why, have you any discretion?
 Have you any eyes? Do you know what a man is? Is
 not birth, beauty, good shape, discourse, manhood,
 learning, gentleness, virtue, youth, liberality and
@@ -987,21 +987,21 @@ Which from the tongue of roaring Typhon dropped
 Would seem hyperboles. At this fusty stuff,
 The large Achilles, on his pressed bed lolling,
 From his deep chest laughs out a loud applause,
-Cries "&ldquo;Excellent! &rsquo;Tis Agamemnon right.
+Cries &ldquo;Excellent! &rsquo;Tis Agamemnon right.
 Now play me Nestor; hem and stroke thy beard,
-As he being dressed to some oration.&rdquo;"
+As he being dressed to some oration.&rdquo;
 That&rsquo;s done, as near as the extremest ends
 Of parallels, as like as Vulcan and his wife;
-Yet god Achilles still cries "&ldquo;Excellent!
+Yet god Achilles still cries &ldquo;Excellent!
 &rsquo;Tis Nestor right. Now play him me, Patroclus,
-Arming to answer in a night alarm.&rdquo;"
+Arming to answer in a night alarm.&rdquo;
 And then, forsooth, the faint defects of age
 Must be the scene of mirth&mdash;to cough and spit,
 And, with a palsy fumbling on his gorget,
 Shake in and out the rivet. And at this sport
-Sir Valor dies, cries "&ldquo;O, enough, Patroclus,
+Sir Valor dies, cries &ldquo;O, enough, Patroclus,
 Or give me ribs of steel! I shall split all
-In pleasure of my spleen.&rdquo;" And in this fashion,
+In pleasure of my spleen.&rdquo; And in this fashion,
 All our abilities, gifts, natures, shapes,
 Severals and generals of grace exact,
 Achievements, plots, orders, preventions,
@@ -1140,7 +1140,7 @@ We have, great Agamemnon, here in Troy
 A prince called Hector&mdash;Priam is his father&mdash;
 Who in this dull and long-continued truce
 Is resty grown. He bade me take a trumpet
-And to this purpose speak: "&ldquo;Kings, princes, lords,
+And to this purpose speak: &ldquo;Kings, princes, lords,
 If there be one among the fair&rsquo;st of Greece
 That holds his honor higher than his ease,
 That seeks his praise more than he fears his peril,
@@ -1159,7 +1159,7 @@ To rouse a Grecian that is true in love.
 If any come, Hector shall honor him;
 If none, he&rsquo;ll say in Troy when he retires
 The Grecian dames are sunburnt and not worth
-The splinter of a lance.&rdquo;" Even so much.
+The splinter of a lance.&rdquo; Even so much.
 
 <speaker>AGAMEMNON</speaker>
 This shall be told our lovers, Lord Aeneas.
@@ -1615,11 +1615,11 @@ O, meaning you? I will go learn more of it.
 <speaker>PRIAM</speaker>
 After so many hours, lives, speeches spent,
 Thus once again says Nestor from the Greeks:
-"&ldquo;Deliver Helen, and all damage else&mdash;
+&ldquo;Deliver Helen, and all damage else&mdash;
 As honor, loss of time, travel, expense,
 Wounds, friends, and what else dear that is consumed
 In hot digestion of this cormorant war&mdash;
-Shall be struck off."&mdash;Hector, what say you to &rsquo;t?
+Shall be struck off.&rdquo;&mdash;Hector, what say you to &rsquo;t?
 
 <speaker>HECTOR</speaker>
 Though no man lesser fears the Greeks than I
@@ -1627,7 +1627,7 @@ As far as toucheth my particular,
 Yet, dread Priam,
 There is no lady of more softer bowels,
 More spongy to suck in the sense of fear,
-More ready to cry out "&ldquo;Who knows what follows?&rdquo;"
+More ready to cry out &ldquo;Who knows what follows?&rdquo;
 Than Hector is. The wound of peace is surety,
 Surety secure; but modest doubt is called
 The beacon of the wise, the tent that searches
@@ -1719,10 +1719,10 @@ Is she worth keeping? Why, she is a pearl
 Whose price hath launched above a thousand ships
 And turned crowned kings to merchants.
 If you&rsquo;ll avouch &rsquo;twas wisdom Paris went&mdash;
-As you must needs, for you all cried "&ldquo;Go, go"&mdash;
+As you must needs, for you all cried &ldquo;Go, go&rdquo;&mdash;
 If you&rsquo;ll confess he brought home worthy prize&mdash;
 As you must needs, for you all clapped your hands
-And cried "&ldquo;Inestimable"&mdash;why do you now
+And cried &ldquo;Inestimable&rdquo;&mdash;why do you now
 The issue of your proper wisdoms rate
 And do a deed that never Fortune did,
 Beggar the estimation which you prized
@@ -1916,7 +1916,7 @@ and cutting the web. After this, the vengeance on
 the whole camp! Or rather, the Neapolitan bone-ache!
 For that, methinks, is the curse depending
 on those that war for a placket. I have said my
-prayers, and devil Envy say "&ldquo;Amen."&mdash;What ho,
+prayers, and devil Envy say &ldquo;Amen.&rdquo;&mdash;What ho,
 my lord Achilles!
 
 <speaker>PATROCLUS</speaker>
@@ -2144,7 +2144,7 @@ Rode on his tide. Go tell him this, and add
 That, if he overhold his price so much,
 We&rsquo;ll none of him. But let him, like an engine
 Not portable, lie under this report:
-"&ldquo;Bring action hither; this cannot go to war.&rdquo;"
+&ldquo;Bring action hither; this cannot go to war.&rdquo;
 A stirring dwarf we do allowance give
 Before a sleeping giant. Tell him so.
 
@@ -2224,7 +2224,7 @@ That &rsquo;twixt his mental and his active parts
 Kingdomed Achilles in commotion rages
 And batters down himself. What should I say?
 He is so plaguy proud that the death-tokens of it
-Cry "&ldquo;No recovery.&rdquo;"
+Cry &ldquo;No recovery.&rdquo;
 
 <speaker>AGAMEMNON</speaker>
 Let Ajax go to him.&mdash;
@@ -2250,7 +2250,7 @@ That were to enlard his fat-already pride
 And add more coals to Cancer when he burns
 With entertaining great Hyperion.
 This lord go to him? Jupiter forbid
-And say in thunder "&ldquo;Achilles, go to him.&rdquo;"
+And say in thunder &ldquo;Achilles, go to him.&rdquo;
 
 <speaker>NESTOR</speaker>
 [<i>aside to Diomedes</i>]
@@ -2456,7 +2456,7 @@ I do desire it.
 You are in the state of grace?
 
 <speaker>PANDARUS</speaker>
-Grace? Not so, friend. "&ldquo;Honor&rdquo;" and "&ldquo;Lordship&rdquo;"
+Grace? Not so, friend. &ldquo;Honor&rdquo; and &ldquo;Lordship&rdquo;
 are my titles. What music is this?
 
 <speaker>MAN</speaker>
@@ -2660,14 +2660,14 @@ thou hast a fine forehead.
 Ay, you may, you may.
 
 <speaker>HELEN</speaker>
-Let thy song be love. "&ldquo;This love will undo us all.&rdquo;"
+Let thy song be love. &ldquo;This love will undo us all.&rdquo;
 O Cupid, Cupid, Cupid!
 
 <speaker>PANDARUS</speaker>
 Love? Ay, that it shall, i&rsquo; faith.
 
 <speaker>PARIS</speaker>
-Ay, good now, "&ldquo;Love, love, nothing but love.&rdquo;"
+Ay, good now, &ldquo;Love, love, nothing but love.&rdquo;
 
 <speaker>PANDARUS</speaker>
 In good troth, it begins so.
@@ -2678,12 +2678,12 @@ In good troth, it begins so.
 	   Not that it wounds
 	But tickles still the sore.
 
-	These lovers cry "&ldquo;O ho!&rdquo;" they die,
+	These lovers cry &ldquo;O ho!&rdquo; they die,
 	   Yet that which seems the wound to kill
-	Doth turn "&ldquo;O ho!&rdquo;" to "&ldquo;Ha ha he!&rdquo;"
+	Doth turn &ldquo;O ho!&rdquo; to &ldquo;Ha ha he!&rdquo;
 	   So dying love lives still.
-	"&ldquo;O ho!&rdquo;" awhile, but "&ldquo;Ha ha ha!&rdquo;"
-	"&ldquo;O ho!"groans out for "&ldquo;ha ha ha!"&mdash;Hey ho!
+	&ldquo;O ho!&rdquo; awhile, but &ldquo;Ha ha ha!&rdquo;
+	&ldquo;O ho!&rdquo;groans out for &ldquo;ha ha ha!&rdquo;&mdash;Hey ho!
 
 <speaker>HELEN</speaker>
 In love, i&rsquo; faith, to the very tip of the nose.
@@ -2846,8 +2846,8 @@ Words pay no debts; give her deeds. But
 she&rsquo;ll bereave you o&rsquo; th&rsquo; deeds too, if she call your
 activity in question. [<i>(They kiss.)</i>]
  What, billing
-again? Here&rsquo;s "&ldquo;In witness whereof the parties
-interchangeably&mdash;.&rdquo;" Come in, come in. I&rsquo;ll go get a fire.
+again? Here&rsquo;s &ldquo;In witness whereof the parties
+interchangeably&mdash;.&rdquo; Come in, come in. I&rsquo;ll go get a fire.
 [<i>Pandarus exits.</i>]
 
 <speaker>CRESSIDA</speaker>
@@ -2857,7 +2857,7 @@ Will you walk in, my lord?
 O Cressid, how often have I wished me thus!
 
 <speaker>CRESSIDA</speaker>
-"&ldquo;Wished,&rdquo;" my lord? The gods grant&mdash;O, my
+&ldquo;Wished,&rdquo; my lord? The gods grant&mdash;O, my
 lord!
 
 <speaker>TROILUS</speaker>
@@ -3043,12 +3043,12 @@ True swains in love shall in the world to come
 Approve their truth by Troilus. When their rhymes,
 Full of protest, of oath and big compare,
 Wants similes, truth tired with iteration&mdash;
-"&ldquo;As true as steel, as plantage to the moon,
+&ldquo;As true as steel, as plantage to the moon,
 As sun to day, as turtle to her mate,
-As iron to adamant, as Earth to th&rsquo; center"&mdash;
+As iron to adamant, as Earth to th&rsquo; center&rdquo;&mdash;
 Yet, after all comparisons of truth,
 As truth&rsquo;s authentic author to be cited,
-"&ldquo;As true as Troilus&rdquo;" shall crown up the verse
+&ldquo;As true as Troilus&rdquo; shall crown up the verse
 And sanctify the numbers.
 
 <speaker>CRESSIDA</speaker>
@@ -3060,12 +3060,12 @@ And blind oblivion swallowed cities up,
 And mighty states characterless are grated
 To dusty nothing, yet let memory,
 From false to false, among false maids in love,
-Upbraid my falsehood! When they&rsquo;ve said "&ldquo;as false
+Upbraid my falsehood! When they&rsquo;ve said &ldquo;as false
 As air, as water, wind or sandy earth,
 As fox to lamb, or wolf to heifer&rsquo;s calf,
-Pard to the hind, or stepdame to her son,&rdquo;"
+Pard to the hind, or stepdame to her son,&rdquo;
 Yea, let them say, to stick the heart of falsehood,
-"&ldquo;As false as Cressid.&rdquo;"
+&ldquo;As false as Cressid.&rdquo;
 
 <speaker>PANDARUS</speaker>
 Go to, a bargain made. Seal it, seal it. I&rsquo;ll be
@@ -3075,7 +3075,7 @@ I have taken such pains to bring you together, let
 all pitiful goers-between be called to the world&rsquo;s
 end after my name: call them all panders. Let all
 constant men be Troiluses, all false women Cressids,
-and all brokers-between panders. Say "&ldquo;Amen.&rdquo;"
+and all brokers-between panders. Say &ldquo;Amen.&rdquo;
 
 <speaker>TROILUS</speaker>
 Amen.
@@ -3394,8 +3394,8 @@ To throw down Hector than Polyxena.
 But it must grieve young Pyrrhus now at home
 When Fame shall in our islands sound her trump,
 And all the Greekish girls shall tripping sing
-"&ldquo;Great Hector&rsquo;s sister did Achilles win,
-But our great Ajax bravely beat down him.&rdquo;"
+&ldquo;Great Hector&rsquo;s sister did Achilles win,
+But our great Ajax bravely beat down him.&rdquo;
 Farewell, my lord. I as your lover speak.
 The fool slides o&rsquo;er the ice that you should break.
 [<i>He exits.</i>]
@@ -3470,14 +3470,14 @@ Why, he stalks up and down like a peacock&mdash;
 a stride and a stand; ruminates like an hostess
 that hath no arithmetic but her brain to set
 down her reckoning; bites his lip with a politic regard,
-as who should say "&ldquo;There were wit in this
-head an &rsquo;twould out"&mdash;and so there is, but it lies
+as who should say &ldquo;There were wit in this
+head an &rsquo;twould out&rdquo;&mdash;and so there is, but it lies
 as coldly in him as fire in a flint, which will not
 show without knocking. The man&rsquo;s undone forever,
 for if Hector break not his neck i&rsquo; th&rsquo; combat,
 he&rsquo;ll break &rsquo;t himself in vainglory. He knows not
-me. I said "&ldquo;Good morrow, Ajax,&rdquo;" and he replies
-"&ldquo;Thanks, Agamemnon.&rdquo;" What think you of this
+me. I said &ldquo;Good morrow, Ajax,&rdquo; and he replies
+&ldquo;Thanks, Agamemnon.&rdquo; What think you of this
 man that takes me for the General? He&rsquo;s grown a
 very land-fish, languageless, a monster. A plague of
 opinion! A man may wear it on both sides, like a
@@ -3958,7 +3958,7 @@ Do, do.
 <speaker>CRESSIDA</speaker>
 Tear my bright hair, and scratch my praised cheeks,
 Crack my clear voice with sobs, and break my heart
-With sounding "&ldquo;Troilus.&rdquo;" I will not go from Troy.
+With sounding &ldquo;Troilus.&rdquo; I will not go from Troy.
 [<i>They exit.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
@@ -4016,7 +4016,7 @@ ducks!
 
 <speaker>PANDARUS</speaker>
 What a pair of spectacles is here! Let me
-embrace too. "&ldquo;O heart,&rdquo;" as the goodly saying is,
+embrace too. &ldquo;O heart,&rdquo; as the goodly saying is,
 	O heart, heavy heart,
 	Why sigh&rsquo;st thou without breaking?
 where he answers again,
@@ -4104,12 +4104,12 @@ I true? How now, what wicked deem is this?
 <speaker>TROILUS</speaker>
 Nay, we must use expostulation kindly,
 For it is parting from us.
-I speak not "&ldquo;Be thou true&rdquo;" as fearing thee,
+I speak not &ldquo;Be thou true&rdquo; as fearing thee,
 For I will throw my glove to Death himself
 That there is no maculation in thy heart;
-But "&ldquo;Be thou true,&rdquo;" say I, to fashion in
-My sequent protestation: "&ldquo;Be thou true,
-And I will see thee.&rdquo;"
+But &ldquo;Be thou true,&rdquo; say I, to fashion in
+My sequent protestation: &ldquo;Be thou true,
+And I will see thee.&rdquo;
 
 <speaker>CRESSIDA</speaker>
 O, you shall be exposed, my lord, to dangers
@@ -4128,7 +4128,7 @@ To give thee nightly visitation.
 But yet, be true.
 
 <speaker>CRESSIDA</speaker>
-O heavens! "&ldquo;Be true&rdquo;" again?
+O heavens! &ldquo;Be true&rdquo; again?
 
 <speaker>TROILUS</speaker>
 Hear why I speak it, love.
@@ -4192,7 +4192,7 @@ I with great truth catch mere simplicity.
 Whilst some with cunning gild their copper crowns,
 With truth and plainness I do wear mine bare.
 Fear not my truth. The moral of my wit
-Is "&ldquo;plain and true&rdquo;"; there&rsquo;s all the reach of it.
+Is &ldquo;plain and true&rdquo;; there&rsquo;s all the reach of it.
 
 [<i>Enter Aeneas, Paris, Antenor, Deiphobus, and
 Diomedes.</i>]
@@ -4230,8 +4230,8 @@ Let me be privileged by my place and message
 To be a speaker free. When I am hence,
 I&rsquo;ll answer to my lust, and know you, lord,
 I&rsquo;ll nothing do on charge. To her own worth
-She shall be prized; but that you say "&ldquo;Be &rsquo;t so,&rdquo;"
-I speak it in my spirit and honor: "&ldquo;no.&rdquo;"
+She shall be prized; but that you say &ldquo;Be &rsquo;t so,&rdquo;
+I speak it in my spirit and honor: &ldquo;no.&rdquo;
 
 <speaker>TROILUS</speaker>
 Come, to the port. I&rsquo;ll tell thee, Diomed,
@@ -4553,11 +4553,11 @@ A cousin-german to great Priam&rsquo;s seed.
 The obligation of our blood forbids
 A gory emulation &rsquo;twixt us twain.
 Were thy commixtion Greek and Trojan so
-That thou couldst say "&ldquo;This hand is Grecian all,
+That thou couldst say &ldquo;This hand is Grecian all,
 And this is Trojan; the sinews of this leg
 All Greek, and this all Troy; my mother&rsquo;s blood
 Runs on the dexter cheek, and this sinister
-Bounds in my father&rsquo;s,&rdquo;" by Jove multipotent,
+Bounds in my father&rsquo;s,&rdquo; by Jove multipotent,
 Thou shouldst not bear from me a Greekish member
 Wherein my sword had not impressure made
 Of our rank feud. But the just gods gainsay
@@ -4576,8 +4576,8 @@ A great addition earned in thy death.
 
 <speaker>HECTOR</speaker>
 Not Neoptolemus so mirable&mdash;
-On whose bright crest Fame with her loud&rsquo;st "&ldquo;Oyez&rdquo;"
-Cries "&ldquo;This is he"&mdash;could promise to himself
+On whose bright crest Fame with her loud&rsquo;st &ldquo;Oyez&rdquo;
+Cries &ldquo;This is he&rdquo;&mdash;could promise to himself
 A thought of added honor torn from Hector.
 
 <speaker>AENEAS</speaker>
@@ -4670,7 +4670,7 @@ Despising many forfeits and subduments,
 When thou hast hung thy advanced sword i&rsquo; th&rsquo; air,
 Not letting it decline on the declined,
 That I have said to some my standers-by
-"&ldquo;Lo, Jupiter is yonder, dealing life!&rdquo;"
+&ldquo;Lo, Jupiter is yonder, dealing life!&rdquo;
 And I have seen thee pause and take thy breath
 When that a ring of Greeks have hemmed thee in,
 Like an Olympian wrestling. This have I seen.
@@ -4898,7 +4898,7 @@ Prithee, be silent, boy. I profit not by thy
 talk. Thou art said to be Achilles&rsquo; male varlet.
 
 <speaker>PATROCLUS</speaker>
-"&ldquo;Male varlet,&rdquo;" you rogue! What&rsquo;s that?
+&ldquo;Male varlet,&rdquo; you rogue! What&rsquo;s that?
 
 <speaker>THERSITES</speaker>
 Why, his masculine whore. Now the rotten
@@ -5012,7 +5012,7 @@ Menelaus.
 
 <speaker>THERSITES</speaker>
 [<i>aside</i>]
-  Sweet draught. "&ldquo;Sweet,&rdquo;" quoth he?
+  Sweet draught. &ldquo;Sweet,&rdquo; quoth he?
 Sweet sink, sweet sewer.
 
 <speaker>ACHILLES</speaker>
@@ -5445,7 +5445,7 @@ Minds swayed by eyes are full of turpitude.	[<i>She exits.</i>]
 <speaker>THERSITES</speaker>
 [<i>aside</i>]
 A proof of strength she could not publish more,
-Unless she said "&ldquo;My mind is now turned whore.&rdquo;"
+Unless she said &ldquo;My mind is now turned whore.&rdquo;
 
 <speaker>ULYSSES</speaker>
 All&rsquo;s done, my lord.
@@ -5778,7 +5778,7 @@ Hark, how Troy roars, how Hecuba cries out,
 How poor Andromache shrills her dolor forth!
 Behold, distraction, frenzy, and amazement,
 Like witless antics, one another meet,
-And all cry "&ldquo;Hector! Hector&rsquo;s dead! O, Hector!&rdquo;"
+And all cry &ldquo;Hector! Hector&rsquo;s dead! O, Hector!&rdquo;
 
 <speaker>TROILUS</speaker>
 Away, away!
@@ -6155,7 +6155,7 @@ Strike, fellows, strike! This is the man I seek.
 So, Ilium, fall thou next! Come, Troy, sink down!
 Here lies thy heart, thy sinews, and thy bone.
 On, Myrmidons, and cry you all amain
-"&ldquo;Achilles hath the mighty Hector slain.&rdquo;"
+&ldquo;Achilles hath the mighty Hector slain.&rdquo;
 [<i>Retreat sounded from both armies.</i>]
 Hark! A retire upon our Grecian part.
 

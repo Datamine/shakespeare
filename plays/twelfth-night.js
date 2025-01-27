@@ -302,12 +302,12 @@ My name is Mary, sir.
 Good Mistress Mary Accost&mdash;
 
 <speaker>TOBY</speaker>
-You mistake, knight. "&ldquo;Accost&rdquo;" is front her, board
+You mistake, knight. &ldquo;Accost&rdquo; is front her, board
 her, woo her, assail her.
 
 <speaker>ANDREW</speaker>
 By my troth, I would not undertake her in
-this company. Is that the meaning of "&ldquo;accost&rdquo;"?
+this company. Is that the meaning of &ldquo;accost&rdquo;?
 
 <speaker>MARIA</speaker>
 Fare you well, gentlemen. [<i>She begins to exit.</i>]
@@ -377,7 +377,7 @@ home tomorrow, Sir Toby.
 Pourquoi, my dear knight?
 
 <speaker>ANDREW</speaker>
-What is "&ldquo;pourquoi&rdquo;"? Do, or not do? I would I
+What is &ldquo;pourquoi&rdquo;? Do, or not do? I would I
 had bestowed that time in the tongues that I have in
 fencing, dancing, and bearbaiting. O, had I but
 followed the arts!
@@ -573,7 +573,7 @@ He shall see none to fear.
 
 <speaker>MARIA</speaker>
 A good Lenten answer. I can tell thee where
-that saying was born, of "&ldquo;I fear no colors.&rdquo;"
+that saying was born, of &ldquo;I fear no colors.&rdquo;
 
 <speaker>FOOL</speaker>
 Where, good Mistress Mary?
@@ -623,7 +623,7 @@ my lady. Make your excuse wisely, you were best.
 fooling! Those wits that think they have thee do very
 oft prove fools, and I that am sure I lack thee may
 pass for a wise man. For what says Quinapalus?
-"&ldquo;Better a witty Fool than a foolish wit."&mdash;God bless
+&ldquo;Better a witty Fool than a foolish wit.&rdquo;&mdash;God bless
 thee, lady!
 
 <speaker>OLIVIA</speaker>
@@ -1071,7 +1071,7 @@ Write loyal cantons of contemned love
 And sing them loud even in the dead of night,
 Hallow your name to the reverberate hills
 And make the babbling gossip of the air
-Cry out "&ldquo;Olivia!&rdquo;" O, you should not rest
+Cry out &ldquo;Olivia!&rdquo; O, you should not rest
 Between the elements of air and earth
 But you should pity me.
 
@@ -1099,9 +1099,9 @@ And let your fervor, like my master&rsquo;s, be
 Placed in contempt. Farewell, fair cruelty.	[<i>She exits.</i>]
 
 <speaker>OLIVIA</speaker>
-"&ldquo;What is your parentage?&rdquo;"
-"&ldquo;Above my fortunes, yet my state is well.
-I am a gentleman.&rdquo;" I&rsquo;ll be sworn thou art.
+&ldquo;What is your parentage?&rdquo;
+&ldquo;Above my fortunes, yet my state is well.
+I am a gentleman.&rdquo; I&rsquo;ll be sworn thou art.
 Thy tongue, thy face, thy limbs, actions, and spirit
 Do give thee fivefold blazon. Not too fast! Soft,
 soft!
@@ -1279,7 +1279,7 @@ It is too hard a knot for me t&rsquo; untie.
 
 <speaker>TOBY</speaker>
 Approach, Sir Andrew. Not to be abed after
-midnight is to be up betimes, and "&ldquo;diluculo surgere,&rdquo;"
+midnight is to be up betimes, and &ldquo;diluculo surgere,&rdquo;
 thou know&rsquo;st&mdash;
 
 <speaker>ANDREW</speaker>
@@ -1308,7 +1308,7 @@ Here comes the Fool, i&rsquo; faith.
 
 <speaker>FOOL</speaker>
 How now, my hearts? Did you never see the
-picture of "&ldquo;We Three&rdquo;"?
+picture of &ldquo;We Three&rdquo;?
 
 <speaker>TOBY</speaker>
 Welcome, ass! Now let&rsquo;s have a catch.
@@ -1399,17 +1399,17 @@ catch.
 By &rsquo;r Lady, sir, and some dogs will catch well.
 
 <speaker>ANDREW</speaker>
-Most certain. Let our catch be "&ldquo;Thou
-Knave.&rdquo;"
+Most certain. Let our catch be &ldquo;Thou
+Knave.&rdquo;
 
 <speaker>FOOL</speaker>
-"&ldquo;Hold thy peace, thou knave,&rdquo;" knight? I shall be
-constrained in &rsquo;t to call thee "&ldquo;knave,&rdquo;" knight.
+&ldquo;Hold thy peace, thou knave,&rdquo; knight? I shall be
+constrained in &rsquo;t to call thee &ldquo;knave,&rdquo; knight.
 
 <speaker>ANDREW</speaker>
 &rsquo;Tis not the first time I have constrained one
-to call me "&ldquo;knave.&rdquo;" Begin, Fool. It begins "&ldquo;Hold
-thy peace.&rdquo;"
+to call me &ldquo;knave.&rdquo; Begin, Fool. It begins &ldquo;Hold
+thy peace.&rdquo;
 
 <speaker>FOOL</speaker>
 I shall never begin if I hold my peace.
@@ -1429,7 +1429,7 @@ My lady&rsquo;s a Cataian, we are politicians, Malvolio&rsquo;s
 a Peg-a-Ramsey, and [<i>Sings.</i>]
  Three merry men be
 we. Am not I consanguineous? Am I not of her
-blood? Tillyvally! "&ldquo;Lady&rdquo;"! [<i>Sings.</i>]
+blood? Tillyvally! &ldquo;Lady&rdquo;! [<i>Sings.</i>]
  There dwelt a man
 in Babylon, lady, lady.
 
@@ -1645,7 +1645,7 @@ out.
 
 <speaker>TOBY</speaker>
 Send for money, knight. If thou hast her not i&rsquo;
-th&rsquo; end, call me "&ldquo;Cut.&rdquo;"
+th&rsquo; end, call me &ldquo;Cut.&rdquo;
 
 <speaker>ANDREW</speaker>
 If I do not, never trust me, take it how you
@@ -2048,16 +2048,16 @@ control&mdash;
 lips then?
 
 <speaker>MALVOLIO</speaker>
-Saying, "&ldquo;Cousin Toby, my fortunes, having
+Saying, &ldquo;Cousin Toby, my fortunes, having
 cast me on your niece, give me this prerogative of
-speech&mdash;&rdquo;"
+speech&mdash;&ldquo;
 
 <speaker>TOBY</speaker>
 [<i>aside</i>]
   What, what?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;You must amend your drunkenness.&rdquo;"
+&ldquo;You must amend your drunkenness.&rdquo;
 
 <speaker>TOBY</speaker>
 [<i>aside</i>]
@@ -2069,15 +2069,15 @@ speech&mdash;&rdquo;"
 of our plot!
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Besides, you waste the treasure of your
-time with a foolish knight&mdash;&rdquo;"
+&ldquo;Besides, you waste the treasure of your
+time with a foolish knight&mdash;&ldquo;
 
 <speaker>ANDREW</speaker>
 [<i>aside</i>]
   That&rsquo;s me, I warrant you.
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;One Sir Andrew.&rdquo;"
+&ldquo;One Sir Andrew.&rdquo;
 
 <speaker>ANDREW</speaker>
 [<i>aside</i>]
@@ -2127,8 +2127,8 @@ To whom should this be?
 	   But who?
 	Lips, do not move;
 	   No man must know.
-"&ldquo;No man must know.&rdquo;" What follows? The numbers
-altered. "&ldquo;No man must know.&rdquo;" If this should be
+&ldquo;No man must know.&rdquo; What follows? The numbers
+altered. &ldquo;No man must know.&rdquo; If this should be
 thee, Malvolio!
 
 <speaker>TOBY</speaker>
@@ -2152,7 +2152,7 @@ doth sway my life.
   Excellent wench, say I.
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;M.O.A.I. doth sway my life.&rdquo;" Nay, but first
+&ldquo;M.O.A.I. doth sway my life.&rdquo; Nay, but first
 let me see, let me see, let me see.
 
 <speaker>FABIAN</speaker>
@@ -2166,12 +2166,12 @@ him!
 at it!
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;I may command where I adore.&rdquo;" Why, she
+&ldquo;I may command where I adore.&rdquo; Why, she
 may command me; I serve her; she is my lady. Why,
 this is evident to any formal capacity. There is no
 obstruction in this. And the end&mdash;what should that
 alphabetical position portend? If I could make that
-resemble something in me! Softly! "&ldquo;M.O.A.I."&mdash;
+resemble something in me! Softly! &ldquo;M.O.A.I.&rdquo;&mdash;
 
 <speaker>TOBY</speaker>
 [<i>aside</i>]
@@ -2184,7 +2184,7 @@ scent.
 though it be as rank as a fox.
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;M"&mdash;Malvolio. "&ldquo;M"&mdash;why, that begins
+&ldquo;M&rdquo;&mdash;Malvolio. &ldquo;M&rdquo;&mdash;why, that begins
 my name!
 
 <speaker>FABIAN</speaker>
@@ -2193,21 +2193,21 @@ my name!
 cur is excellent at faults.
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;M.&rdquo;" But then there is no consonancy in
-the sequel that suffers under probation. "&ldquo;A&rdquo;" should
-follow, but "&ldquo;O&rdquo;" does.
+&ldquo;M.&rdquo; But then there is no consonancy in
+the sequel that suffers under probation. &ldquo;A&rdquo; should
+follow, but &ldquo;O&rdquo; does.
 
 <speaker>FABIAN</speaker>
 [<i>aside</i>]
-  And "&ldquo;O&rdquo;" shall end, I hope.
+  And &ldquo;O&rdquo; shall end, I hope.
 
 <speaker>TOBY</speaker>
 [<i>aside</i>]
   Ay, or I&rsquo;ll cudgel him and make him cry
-"&ldquo;O.&rdquo;"
+&ldquo;O.&rdquo;
 
 <speaker>MALVOLIO</speaker>
-And then "&ldquo;I&rdquo;" comes behind.
+And then &ldquo;I&rdquo; comes behind.
 
 <speaker>FABIAN</speaker>
 [<i>aside</i>]
@@ -2216,7 +2216,7 @@ might see more detraction at your heels than fortunes
 before you.
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;M.O.A.I.&rdquo;" This simulation is not as the
+&ldquo;M.O.A.I.&rdquo; This simulation is not as the
 former, and yet to crush this a little, it would bow
 to me, for every one of these letters are in my name.
 Soft, here follows prose.
@@ -2442,7 +2442,7 @@ The matter I hope is not great, sir, begging but a
 beggar: Cressida was a beggar. My lady is within, sir.
 I will conster to them whence you come. Who you
 are and what you would are out of my welkin&mdash;I
-might say "&ldquo;element,&rdquo;" but the word is overworn.
+might say &ldquo;element,&rdquo; but the word is overworn.
 [<i>He exits.</i>]
 
 <speaker>VIOLA</speaker>
@@ -2503,8 +2503,8 @@ odors on you!
 
 <speaker>ANDREW</speaker>
 [<i>aside</i>]
-  That youth&rsquo;s a rare courtier. "&ldquo;Rain
-odors,&rdquo;" well.
+  That youth&rsquo;s a rare courtier. &ldquo;Rain
+odors,&rdquo; well.
 
 <speaker>VIOLA</speaker>
 My matter hath no voice, lady, but to your own
@@ -2512,7 +2512,7 @@ most pregnant and vouchsafed ear.
 
 <speaker>ANDREW</speaker>
 [<i>aside</i>]
-  "&ldquo;Odors,&rdquo;" "&ldquo;pregnant,&rdquo;" and "&ldquo;vouchsafed.&rdquo;"
+  &ldquo;Odors,&rdquo; &ldquo;pregnant,&rdquo; and &ldquo;vouchsafed.&rdquo;
 I&rsquo;ll get &rsquo;em all three all ready.
 
 <speaker>OLIVIA</speaker>
@@ -2724,7 +2724,7 @@ Will either of you bear me a challenge to him?
 Go, write it in a martial hand. Be curst and
 brief. It is no matter how witty, so it be eloquent
 and full of invention. Taunt him with the license of
-ink. If thou "&ldquo;thou"-est him some thrice, it shall not
+ink. If thou &ldquo;thou&rdquo;-est him some thrice, it shall not
 be amiss, and as many lies as will lie in thy sheet of
 paper, although the sheet were big enough for the
 bed of Ware in England, set &rsquo;em down. Go, about it.
@@ -2929,8 +2929,8 @@ occasion.
 Sad, lady? I could be sad. This does make
 some obstruction in the blood, this cross-gartering,
 but what of that? If it please the eye of one, it is
-with me as the very true sonnet is: "&ldquo;Please one, and
-please all.&rdquo;"
+with me as the very true sonnet is: &ldquo;Please one, and
+please all.&rdquo;
 
 <speaker>OLIVIA</speaker>
 Why, how dost thou, man? What is the matter
@@ -2946,8 +2946,8 @@ hand.
 Wilt thou go to bed, Malvolio?
 
 <speaker>MALVOLIO</speaker>
-To bed? "&ldquo;Ay, sweetheart, and I&rsquo;ll come to
-thee.&rdquo;"
+To bed? &ldquo;Ay, sweetheart, and I&rsquo;ll come to
+thee.&rdquo;
 
 <speaker>OLIVIA</speaker>
 God comfort thee! Why dost thou smile so, and
@@ -2965,53 +2965,53 @@ Why appear you with this ridiculous boldness
 before my lady?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Be not afraid of greatness.&rdquo;" &rsquo;Twas well
+&ldquo;Be not afraid of greatness.&rdquo; &rsquo;Twas well
 writ.
 
 <speaker>OLIVIA</speaker>
 What mean&rsquo;st thou by that, Malvolio?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Some are born great&mdash;&rdquo;"
+&ldquo;Some are born great&mdash;&ldquo;
 
 <speaker>OLIVIA</speaker>
 Ha?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Some achieve greatness&mdash;&rdquo;"
+&ldquo;Some achieve greatness&mdash;&ldquo;
 
 <speaker>OLIVIA</speaker>
 What sayst thou?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;And some have greatness thrust upon
-them.&rdquo;"
+&ldquo;And some have greatness thrust upon
+them.&rdquo;
 
 <speaker>OLIVIA</speaker>
 Heaven restore thee!
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Remember who commended thy yellow
-stockings&mdash;&rdquo;"
+&ldquo;Remember who commended thy yellow
+stockings&mdash;&ldquo;
 
 <speaker>OLIVIA</speaker>
 Thy yellow stockings?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;And wished to see thee cross-gartered.&rdquo;"
+&ldquo;And wished to see thee cross-gartered.&rdquo;
 
 <speaker>OLIVIA</speaker>
 Cross-gartered?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;Go to, thou art made, if thou desir&rsquo;st to be
-so&mdash;&rdquo;"
+&ldquo;Go to, thou art made, if thou desir&rsquo;st to be
+so&mdash;&ldquo;
 
 <speaker>OLIVIA</speaker>
 Am I made?
 
 <speaker>MALVOLIO</speaker>
-"&ldquo;If not, let me see thee a servant still.&rdquo;"
+&ldquo;If not, let me see thee a servant still.&rdquo;
 
 <speaker>OLIVIA</speaker>
 Why, this is very midsummer madness!
@@ -3037,17 +3037,17 @@ O ho, do you come near me now? No worse
 man than Sir Toby to look to me. This concurs
 directly with the letter. She sends him on purpose
 that I may appear stubborn to him, for she incites
-me to that in the letter: "&ldquo;Cast thy humble slough,&rdquo;"
-says she. "&ldquo;Be opposite with a kinsman, surly with
+me to that in the letter: &ldquo;Cast thy humble slough,&rdquo;
+says she. &ldquo;Be opposite with a kinsman, surly with
 servants; let thy tongue tang with arguments of
-state; put thyself into the trick of singularity,&rdquo;" and
+state; put thyself into the trick of singularity,&rdquo; and
 consequently sets down the manner how: as, a sad
 face, a reverend carriage, a slow tongue, in the habit
 of some Sir of note, and so forth. I have limed her,
 but it is Jove&rsquo;s doing, and Jove make me thankful!
-And when she went away now, "&ldquo;Let this fellow be
-looked to.&rdquo;" "&ldquo;Fellow!&rdquo;" Not "&ldquo;Malvolio,&rdquo;" nor after my
-degree, but "&ldquo;fellow.&rdquo;" Why, everything adheres together,
+And when she went away now, &ldquo;Let this fellow be
+looked to.&rdquo; &ldquo;Fellow!&rdquo; Not &ldquo;Malvolio,&rdquo; nor after my
+degree, but &ldquo;fellow.&rdquo; Why, everything adheres together,
 that no dram of a scruple, no scruple of a
 scruple, no obstacle, no incredulous or unsafe
 circumstance&mdash;what can be said? Nothing that can
@@ -3359,8 +3359,8 @@ on carpet consideration, but he is a devil in private
 brawl. Souls and bodies hath he divorced three, and
 his incensement at this moment is so implacable
 that satisfaction can be none but by pangs of death
-and sepulcher. "&ldquo;Hob, nob&rdquo;" is his word; "&ldquo;give &rsquo;t or
-take &rsquo;t.&rdquo;"
+and sepulcher. &ldquo;Hob, nob&rdquo; is his word; &ldquo;give &rsquo;t or
+take &rsquo;t.&rdquo;
 
 <speaker>VIOLA</speaker>
 I will return again into the house and desire
@@ -3841,9 +3841,9 @@ Jove bless thee, Master Parson.
 <speaker>FOOL</speaker>
 Bonos dies, Sir Toby; for, as the old hermit of
 Prague, that never saw pen and ink, very wittily said
-to a niece of King Gorboduc "&ldquo;That that is, is,&rdquo;" so I,
+to a niece of King Gorboduc &ldquo;That that is, is,&rdquo; so I,
 being Master Parson, am Master Parson; for what is
-"&ldquo;that&rdquo;" but "&ldquo;that&rdquo;" and "&ldquo;is&rdquo;" but "&ldquo;is&rdquo;"?
+&ldquo;that&rdquo; but &ldquo;that&rdquo; and &ldquo;is&rdquo; but &ldquo;is&rdquo;?
 
 <speaker>TOBY</speaker>
 To him, Sir Topas.
@@ -4078,9 +4078,9 @@ prithee, begone.
 	In a trice, like to the old Vice,
 	   Your need to sustain.
 	Who with dagger of lath, in his rage and his wrath,
-	   Cries "&ldquo;aha!&rdquo;" to the devil;
-	Like a mad lad, "&ldquo;Pare thy nails, dad!
-	   Adieu, goodman devil.&rdquo;"
+	   Cries &ldquo;aha!&rdquo; to the devil;
+	Like a mad lad, &ldquo;Pare thy nails, dad!
+	   Adieu, goodman devil.&rdquo;
 [<i>He exits.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
@@ -4592,7 +4592,7 @@ But am in that dimension grossly clad
 Which from the womb I did participate.
 Were you a woman, as the rest goes even,
 I should my tears let fall upon your cheek
-And say "&ldquo;Thrice welcome, drowned Viola.&rdquo;"
+And say &ldquo;Thrice welcome, drowned Viola.&rdquo;
 
 <speaker>VIOLA</speaker>
 My father had a mole upon his brow.
@@ -4742,7 +4742,7 @@ Madam, I am most apt t&rsquo; embrace your offer.
 service done him,
 So much against the mettle of your sex,
 So far beneath your soft and tender breeding,
-And since you called me "&ldquo;master&rdquo;" for so long,
+And since you called me &ldquo;master&rdquo; for so long,
 Here is my hand. You shall from this time be
 Your master&rsquo;s mistress.
 
@@ -4819,13 +4819,13 @@ That have on both sides passed.
 Alas, poor fool, how have they baffled thee!
 
 <speaker>FOOL</speaker>
-Why, "&ldquo;some are born great, some achieve greatness,
-and some have greatness thrown upon them.&rdquo;"
+Why, &ldquo;some are born great, some achieve greatness,
+and some have greatness thrown upon them.&rdquo;
 I was one, sir, in this interlude, one Sir Topas, sir,
-but that&rsquo;s all one. "&ldquo;By the Lord, Fool, I am not
-mad"&mdash;but, do you remember "&ldquo;Madam, why laugh
+but that&rsquo;s all one. &ldquo;By the Lord, Fool, I am not
+mad&rdquo;&mdash;but, do you remember &ldquo;Madam, why laugh
 you at such a barren rascal; an you smile not, he&rsquo;s
-gagged&rdquo;"? And thus the whirligig of time brings in
+gagged&rdquo;? And thus the whirligig of time brings in
 his revenges.
 
 <speaker>MALVOLIO</speaker>

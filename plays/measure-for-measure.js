@@ -152,7 +152,7 @@ that went to sea with the ten commandments but
 scraped one out of the table.
 
 <speaker>SECOND GENTLEMAN</speaker>
-"&ldquo;Thou shalt not steal&rdquo;"?
+&ldquo;Thou shalt not steal&rdquo;?
 
 <speaker>LUCIO</speaker>
 Ay, that he razed.
@@ -624,7 +624,7 @@ A novice of this place and the fair sister
 To her unhappy brother, Claudio?
 
 <speaker>ISABELLA</speaker>
-Why "&ldquo;her unhappy brother&rdquo;"? Let me ask,
+Why &ldquo;her unhappy brother&rdquo;? Let me ask,
 The rather for I now must make you know
 I am that Isabella, and his sister.
 
@@ -1836,7 +1836,7 @@ Which the air beats for vain. O place, O form,
 How often dost thou with thy case, thy habit,
 Wrench awe from fools, and tie the wiser souls
 To thy false seeming! Blood, thou art blood.
-Let&rsquo;s write "&ldquo;good angel&rdquo;" on the devil&rsquo;s horn.
+Let&rsquo;s write &ldquo;good angel&rdquo; on the devil&rsquo;s horn.
 &rsquo;Tis not the devil&rsquo;s crest. [<i>Knock within.</i>]
  How now,
 who&rsquo;s there?
@@ -3265,7 +3265,7 @@ But my entreaty too.
 [<i>to Mariana</i>]
   Little have you to say
 When you depart from him, but, soft and low,
-"&ldquo;Remember now my brother.&rdquo;"
+&ldquo;Remember now my brother.&rdquo;
 
 <speaker>MARIANA</speaker>
 Fear me not.
@@ -3726,8 +3726,8 @@ man, and young Drop-heir that killed
 lusty Pudding, and Master Forth-light the tilter, and
 brave Master Shoe-tie the great traveler, and wild
 Half-can that stabbed Pots, and I think forty more,
-all great doers in our trade, and are now "&ldquo;for the
-Lord&rsquo;s sake.&rdquo;"
+all great doers in our trade, and are now &ldquo;for the
+Lord&rsquo;s sake.&rdquo;
 
 [<i>Enter Abhorson.</i>]
 
@@ -4804,7 +4804,7 @@ To th&rsquo; Duke himself, to tax him with injustice?&mdash;
 Take him hence. To th&rsquo; rack with him. We&rsquo;ll touse
 him
 Joint by joint, but we will know his purpose.
-What? "&ldquo;Unjust&rdquo;"?
+What? &ldquo;Unjust&rdquo;?
 
 <speaker>DUKE</speaker>
 [<i>as Friar</i>]
@@ -4996,7 +4996,7 @@ Of sacred chastity and of promise-breach
 Thereon dependent for your brother&rsquo;s life&mdash;
 The very mercy of the law cries out
 Most audible, even from his proper tongue,
-"&ldquo;An Angelo for Claudio, death for death.&rdquo;"
+&ldquo;An Angelo for Claudio, death for death.&rdquo;
 Haste still pays haste, and leisure answers leisure;
 Like doth quit like, and measure still for
 measure.&mdash;

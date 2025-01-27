@@ -143,12 +143,12 @@ Drew Priam&rsquo;s curtain in the dead of night
 And would have told him half his Troy was burnt;
 But Priam found the fire ere he his tongue,
 And I my Percy&rsquo;s death ere thou report&rsquo;st it.
-This thou wouldst say: "&ldquo;Your son did thus and thus;
-Your brother thus; so fought the noble Douglas"&mdash;
+This thou wouldst say: &ldquo;Your son did thus and thus;
+Your brother thus; so fought the noble Douglas&rdquo;&mdash;
 Stopping my greedy ear with their bold deeds.
 But in the end, to stop my ear indeed,
 Thou hast a sigh to blow away this praise,
-Ending with "&ldquo;Brother, son, and all are dead.&rdquo;"
+Ending with &ldquo;Brother, son, and all are dead.&rdquo;
 
 MORTON
 Douglas is living, and your brother yet,
@@ -258,7 +258,7 @@ To stormy passion, must perforce decay.
 You cast th&rsquo; event of war, my noble lord,
 And summed the accompt of chance before you
 said
-"&ldquo;Let us make head.&rdquo;" It was your presurmise
+&ldquo;Let us make head.&rdquo; It was your presurmise
 That in the dole of blows your son might drop.
 You knew he walked o&rsquo;er perils on an edge,
 More likely to fall in than to get o&rsquo;er.
@@ -266,7 +266,7 @@ You were advised his flesh was capable
 Of wounds and scars, and that his forward spirit
 Would lift him where most trade of danger
 ranged.
-Yet did you say "&ldquo;Go forth,&rdquo;" and none of this,
+Yet did you say &ldquo;Go forth,&rdquo; and none of this,
 Though strongly apprehended, could restrain
 The stiff-borne action. What hath then befall&rsquo;n,
 Or what did this bold enterprise bring forth,
@@ -289,13 +289,13 @@ With well-appointed powers. He is a man
 Who with a double surety binds his followers.
 My lord your son had only but the corpse,
 But shadows and the shows of men, to fight;
-For that same word "&ldquo;rebellion&rdquo;" did divide
+For that same word &ldquo;rebellion&rdquo; did divide
 The action of their bodies from their souls,
 And they did fight with queasiness, constrained,
 As men drink potions, that their weapons only
 Seemed on our side. But, for their spirits and
 souls,
-This word "&ldquo;rebellion,&rdquo;" it had froze them up
+This word &ldquo;rebellion,&rdquo; it had froze them up
 As fish are in a pond. But now the Bishop
 Turns insurrection to religion.
 Supposed sincere and holy in his thoughts,
@@ -374,9 +374,9 @@ and bunches of keys at their girdles; and if a man is
 through with them in honest taking up, then they
 must stand upon security. I had as lief they would
 put ratsbane in my mouth as offer to stop it with
-"&ldquo;security.&rdquo;" I looked he should have sent me two-and-twenty
+&ldquo;security.&rdquo; I looked he should have sent me two-and-twenty
 yards of satin, as I am a true knight, and
-he sends me "&ldquo;security.&rdquo;" Well, he may sleep in
+he sends me &ldquo;security.&rdquo; Well, he may sleep in
 security, for he hath the horn of abundance, and the
 lightness of his wife shines through it, and yet
 cannot he see though he have his own lantern to
@@ -881,8 +881,8 @@ Are now become enamored on his grave.
 Thou, that threw&rsquo;st dust upon his goodly head
 When through proud London he came sighing on
 After th&rsquo; admired heels of Bolingbroke,
-Criest now "&ldquo;O earth, yield us that king again,
-And take thou this!&rdquo;" O thoughts of men accursed!
+Criest now &ldquo;O earth, yield us that king again,
+And take thou this!&rdquo; O thoughts of men accursed!
 Past and to come seems best; things present,
 worst.
 
@@ -1107,8 +1107,8 @@ the other with current repentance.
 
 <speaker>FALSTAFF</speaker>
 My lord, I will not undergo this sneap without
-reply. You call honorable boldness "&ldquo;impudent
-sauciness.&rdquo;" If a man will make curtsy and say
+reply. You call honorable boldness &ldquo;impudent
+sauciness.&rdquo; If a man will make curtsy and say
 nothing, he is virtuous. No, my lord, my humble
 duty remembered, I will not be your suitor. I say to
 you, I do desire deliverance from these officers,
@@ -1464,10 +1464,10 @@ writes.	[<i>He shows the letter to Poins.</i>]
 Every man must know that as oft as he has occasion
 to name himself, even like those that are kin to the
 King, for they never prick their finger but they say
-"&ldquo;There&rsquo;s some of the King&rsquo;s blood spilt.&rdquo;" "&ldquo;How
-comes that?&rdquo;" says he that takes upon him not to
+&ldquo;There&rsquo;s some of the King&rsquo;s blood spilt.&rdquo; &ldquo;How
+comes that?&rdquo; says he that takes upon him not to
 conceive. The answer is as ready as a borrower&rsquo;s
-cap: "&ldquo;I am the King&rsquo;s poor cousin, sir.&rdquo;"
+cap: &ldquo;I am the King&rsquo;s poor cousin, sir.&rdquo;
 
 <speaker>PRINCE</speaker>
 Nay, they will be kin to us, or they will fetch it
@@ -1700,8 +1700,8 @@ an applejohn.
 Mass, thou sayst true. The Prince
 once set a dish of applejohns before him and told
 him there were five more Sir Johns and, putting off
-his hat, said "&ldquo;I will now take my leave of these six
-dry, round, old, withered knights.&rdquo;" It angered him
+his hat, said &ldquo;I will now take my leave of these six
+dry, round, old, withered knights.&rdquo; It angered him
 to the heart. But he hath forgot that.
 
 <speaker>FRANCIS</speaker>
@@ -1736,8 +1736,8 @@ as extraordinarily as heart would desire, and your
 color, I warrant you, is as red as any rose, in good
 truth, la. But, i&rsquo; faith, you have drunk too much
 canaries, and that&rsquo;s a marvellous searching wine,
-and it perfumes the blood ere one can say "&ldquo;What&rsquo;s
-this?&rdquo;" How do you now?
+and it perfumes the blood ere one can say &ldquo;What&rsquo;s
+this?&rdquo; How do you now?
 
 <speaker>DOLL</speaker>
 Better than I was. Hem.
@@ -1844,14 +1844,14 @@ Tilly-vally, Sir John, ne&rsquo;er tell me. And your
 ancient swaggerer comes not in my doors. I was
 before Master Tisick the debuty t&rsquo; other day, and, as
 he said to me&mdash;&rsquo;twas no longer ago than Wednesday
-last, i&rsquo; good faith&mdash;"Neighbor Quickly,&rdquo;" says
+last, i&rsquo; good faith&mdash;&ldquo;Neighbor Quickly,&rdquo; says
 he&mdash;Master Dumb, our minister, was by then&mdash;
-"&ldquo;Neighbor Quickly,&rdquo;" says he, "&ldquo;receive those that
-are civil, for,&rdquo;" said he, "&ldquo;you are in an ill name.&rdquo;"
-Now he said so, I can tell whereupon. "&ldquo;For,&rdquo;" says
-he, "&ldquo;you are an honest woman, and well thought
+&ldquo;Neighbor Quickly,&rdquo; says he, &ldquo;receive those that
+are civil, for,&rdquo; said he, &ldquo;you are in an ill name.&rdquo;
+Now he said so, I can tell whereupon. &ldquo;For,&rdquo; says
+he, &ldquo;you are an honest woman, and well thought
 on. Therefore take heed what guests you receive.
-Receive,&rdquo;" says he, "&ldquo;no swaggering companions.&rdquo;"
+Receive,&rdquo; says he, &ldquo;no swaggering companions.&rdquo;
 There comes none here. You would bless you to
 hear what he said. No, I&rsquo;ll no swaggerers.
 
@@ -1863,10 +1863,10 @@ her feathers turn back in any show of resistance.&mdash;
 Call him up, drawer.	[<i>Drawer exits.</i>]
 
 <speaker>HOSTESS</speaker>
-"&ldquo;Cheater&rdquo;" call you him? I will bar no honest
+&ldquo;Cheater&rdquo; call you him? I will bar no honest
 man my house, nor no cheater, but I do not love
 swaggering. By my troth, I am the worse when one
-says "&ldquo;swagger.&rdquo;" Feel, masters, how I shake; look
+says &ldquo;swagger.&rdquo; Feel, masters, how I shake; look
 you, I warrant you.
 
 <speaker>DOLL</speaker>
@@ -1942,7 +1942,7 @@ For tearing a poor whore&rsquo;s ruff in a bawdy house?
 He a captain! Hang him, rogue. He lives upon
 mouldy stewed prunes and dried cakes. A captain?
 God&rsquo;s light, these villains will make the word as
-odious as the word "&ldquo;occupy,&rdquo;" which was an excellent
+odious as the word &ldquo;occupy,&rdquo; which was an excellent
 good word before it was ill sorted. Therefore
 captains had need look to &rsquo;t.
 
@@ -2018,7 +2018,7 @@ For God&rsquo;s sake, thrust him downstairs. I cannot
 endure such a fustian rascal.
 
 <speaker>PISTOL</speaker>
-"&ldquo;Thrust him downstairs&rdquo;"? Know we not Galloway
+&ldquo;Thrust him downstairs&rdquo;? Know we not Galloway
 nags?
 
 <speaker>FALSTAFF</speaker>
@@ -2525,14 +2525,14 @@ remember&mdash;
 When Richard, with his eye brimful of tears,
 Then checked and rated by Northumberland,
 Did speak these words, now proved a prophecy?
-"&ldquo;Northumberland, thou ladder by the which
-My cousin Bolingbroke ascends my throne"&mdash;
+&ldquo;Northumberland, thou ladder by the which
+My cousin Bolingbroke ascends my throne&rdquo;&mdash;
 Though then, God knows, I had no such intent,
 But that necessity so bowed the state
 That I and greatness were compelled to kiss&mdash;
-"&ldquo;The time shall come,&rdquo;" thus did he follow it,
-"&ldquo;The time will come that foul sin, gathering head,
-Shall break into corruption"&mdash;so went on,
+&ldquo;The time shall come,&rdquo; thus did he follow it,
+&ldquo;The time will come that foul sin, gathering head,
+Shall break into corruption&rdquo;&mdash;so went on,
 Foretelling this same time&rsquo;s condition
 And the division of our amity.
 
@@ -2611,7 +2611,7 @@ was once of Clement&rsquo;s Inn, where I think they will
 talk of mad Shallow yet.
 
 <speaker>SILENCE</speaker>
-You were called "&ldquo;Lusty Shallow&rdquo;" then,
+You were called &ldquo;Lusty Shallow&rdquo; then,
 cousin.
 
 <speaker>SHALLOW</speaker>
@@ -2708,17 +2708,17 @@ than with a wife.
 
 <speaker>SHALLOW</speaker>
 It is well said, in faith, sir, and it is well said
-indeed too. "&ldquo;Better accommodated.&rdquo;" It is good,
+indeed too. &ldquo;Better accommodated.&rdquo; It is good,
 yea, indeed is it. Good phrases are surely, and ever
-were, very commendable. "&ldquo;Accommodated.&rdquo;" It
+were, very commendable. &ldquo;Accommodated.&rdquo; It
 comes of accommodo. Very good, a good phrase.
 
 <speaker>BARDOLPH</speaker>
 Pardon, sir, I have heard the word&mdash;
-"&ldquo;phrase&rdquo;" call you it? By this day, I know not the
+&ldquo;phrase&rdquo; call you it? By this day, I know not the
 phrase, but I will maintain the word with my sword
 to be a soldierlike word, and a word of exceeding
-good command, by heaven. "&ldquo;Accommodated,&rdquo;" that
+good command, by heaven. &ldquo;Accommodated,&rdquo; that
 is when a man is, as they say, accommodated, or
 when a man is being whereby he may be thought to
 be accommodated, which is an excellent thing.
@@ -3020,8 +3020,8 @@ Shallow.
 
 <speaker>SHALLOW</speaker>
 That we have, that we have, that we have. In
-faith, Sir John, we have. Our watchword was "&ldquo;Hem,
-boys.&rdquo;" Come, let&rsquo;s to dinner, come, let&rsquo;s to dinner.
+faith, Sir John, we have. Our watchword was &ldquo;Hem,
+boys.&rdquo; Come, let&rsquo;s to dinner, come, let&rsquo;s to dinner.
 Jesus, the days that we have seen! Come, come.
 [<i>Shallow, Silence, and Falstaff rise and exit.</i>]
 
@@ -3137,8 +3137,8 @@ show&mdash;there was a little quiver fellow, and he
 would manage you his piece thus. [<i>Shallow performs
 with the musket.</i>]
  And he would about and
-about, and come you in, and come you in. "&ldquo;Rah,
-tah, tah,&rdquo;" would he say. "&ldquo;Bounce,&rdquo;" would he say,
+about, and come you in, and come you in. &ldquo;Rah,
+tah, tah,&rdquo; would he say. &ldquo;Bounce,&rdquo; would he say,
 and away again would he go, and again would he
 come. I shall ne&rsquo;er see such a fellow.
 
@@ -3181,7 +3181,7 @@ with a head fantastically carved upon it with a
 knife. He was so forlorn that his dimensions to
 any thick sight were invincible. He was the very
 genius of famine, yet lecherous as a monkey,
-and the whores called him "&ldquo;mandrake.&rdquo;" He came
+and the whores called him &ldquo;mandrake.&rdquo; He came
 ever in the rearward of the fashion, and sung
 those tunes to the overscutched huswives that he
 heard the carmen whistle, and swore they were his
@@ -3676,8 +3676,8 @@ But heaviness foreruns the good event.
 
 <speaker>WESTMORELAND</speaker>
 Therefore be merry, coz, since sudden sorrow
-Serves to say thus: "&ldquo;Some good thing comes
-tomorrow.&rdquo;"
+Serves to say thus: &ldquo;Some good thing comes
+tomorrow.&rdquo;
 
 <speaker>ARCHBISHOP</speaker>
 Believe me, I am passing light in spirit.
@@ -3833,8 +3833,8 @@ travel-tainted as I am, have in my pure and immaculate
 valor taken Sir John Colevile of the Dale, a most
 furious knight and valorous enemy. But what of
 that? He saw me and yielded, that I may justly say,
-with the hook-nosed fellow of Rome, "&ldquo;There, cousin,
-I came, saw, and overcame.&rdquo;"
+with the hook-nosed fellow of Rome, &ldquo;There, cousin,
+I came, saw, and overcame.&rdquo;
 
 <speaker>JOHN OF LANCASTER</speaker>
 It was more of his courtesy than
@@ -4456,14 +4456,14 @@ The noble change that I have purposed.
 Coming to look on you, thinking you dead,
 And dead almost, my liege, to think you were,
 I spake unto this crown as having sense,
-And thus upbraided it: "&ldquo;The care on thee
+And thus upbraided it: &ldquo;The care on thee
 depending
 Hath fed upon the body of my father;
 Therefore thou best of gold art worst of gold.
 Other, less fine in carat, is more precious,
 Preserving life in med&rsquo;cine potable;
 But thou, most fine, most honored, most renowned,
-Hast eat thy bearer up.&rdquo;" Thus, my most royal liege,
+Hast eat thy bearer up.&rdquo; Thus, my most royal liege,
 Accusing it, I put it on my head
 To try with it, as with an enemy
 That had before my face murdered my father,
@@ -4896,11 +4896,11 @@ And I do wish your honors may increase
 Till you do live to see a son of mine
 Offend you and obey you as I did.
 So shall I live to speak my father&rsquo;s words:
-"&ldquo;Happy am I that have a man so bold
+&ldquo;Happy am I that have a man so bold
 That dares do justice on my proper son;
 And not less happy, having such a son
 That would deliver up his greatness so
-Into the hands of justice.&rdquo;" You did commit me,
+Into the hands of justice.&rdquo; You did commit me,
 For which I do commit into your hand
 Th&rsquo; unstained sword that you have used to bear,
 With this remembrance: that you use the same
@@ -5222,7 +5222,7 @@ my friends, and woe to my Lord Chief Justice!
 
 <speaker>PISTOL</speaker>
 Let vultures vile seize on his lungs also!
-"&ldquo;Where is the life that late I led?&rdquo;" say they.
+&ldquo;Where is the life that late I led?&rdquo; say they.
 Why, here it is. Welcome these pleasant days.
 [<i>They exit.</i>]
 

@@ -486,23 +486,23 @@ I mean not cuckold mad,
 But sure he is stark mad.
 When I desired him to come home to dinner,
 He asked me for a thousand marks in gold.
-"&ldquo;&rsquo;Tis dinnertime,&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth he.
-"&ldquo;Your meat doth burn,&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth
+&ldquo;&rsquo;Tis dinnertime,&rdquo; quoth I. &ldquo;My gold,&rdquo; quoth he.
+&ldquo;Your meat doth burn,&rdquo; quoth I. &ldquo;My gold,&rdquo; quoth
 he.
-"&ldquo;Will you come?&rdquo;" quoth I. "&ldquo;My gold,&rdquo;" quoth he.
-"&ldquo;Where is the thousand marks I gave thee, villain?&rdquo;"
-"&ldquo;The pig,&rdquo;" quoth I, "&ldquo;is burned.&rdquo;" "&ldquo;My gold,&rdquo;" quoth
+&ldquo;Will you come?&rdquo; quoth I. &ldquo;My gold,&rdquo; quoth he.
+&ldquo;Where is the thousand marks I gave thee, villain?&rdquo;
+&ldquo;The pig,&rdquo; quoth I, &ldquo;is burned.&rdquo; &ldquo;My gold,&rdquo; quoth
 he.
-"&ldquo;My mistress, sir,&rdquo;" quoth I. "&ldquo;Hang up thy mistress!
-I know not thy mistress. Out on thy mistress!&rdquo;"
+&ldquo;My mistress, sir,&rdquo; quoth I. &ldquo;Hang up thy mistress!
+I know not thy mistress. Out on thy mistress!&rdquo;
 
 <speaker>LUCIANA</speaker>
 Quoth who?
 
 <speaker>DROMIO OF EPHESUS</speaker>
 Quoth my master.
-"&ldquo;I know,&rdquo;" quoth he, "&ldquo;no house, no wife, no
-mistress.&rdquo;"
+&ldquo;I know,&rdquo; quoth he, &ldquo;no house, no wife, no
+mistress.&rdquo;
 So that my errand, due unto my tongue,
 I thank him, I bare home upon my shoulders,
 For, in conclusion, he did beat me there.
@@ -634,9 +634,9 @@ And fashion your demeanor to my looks,
 Or I will beat this method in your sconce.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-"&ldquo;Sconce&rdquo;" call you it? So you
+&ldquo;Sconce&rdquo; call you it? So you
 would leave battering, I had rather have it a
-"&ldquo;head.&rdquo;" An you use these blows long, I must get a
+&ldquo;head.&rdquo; An you use these blows long, I must get a
 sconce for my head and ensconce it too, or else I
 shall seek my wit in my shoulders. But I pray, sir,
 why am I beaten?
@@ -656,13 +656,13 @@ Ay, sir, and wherefore, for they
 say every why hath a wherefore.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-"&ldquo;Why&rdquo;" first: for flouting
-me; and then "&ldquo;wherefore": for urging it the second
+&ldquo;Why&rdquo; first: for flouting
+me; and then &ldquo;wherefore&rdquo;: for urging it the second
 time to me.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Was there ever any man thus beaten out of season,
-When in the "&ldquo;why&rdquo;" and the "&ldquo;wherefore&rdquo;" is neither
+When in the &ldquo;why&rdquo; and the &ldquo;wherefore&rdquo; is neither
 rhyme nor reason?
 Well, sir, I thank you.
 
@@ -821,7 +821,7 @@ Unless I spake, or looked, or touched, or carved to
 thee.
 How comes it now, my husband, O, how comes it
 That thou art then estranged from thyself?
-"&ldquo;Thyself&rdquo;" I call it, being strange to me,
+&ldquo;Thyself&rdquo; I call it, being strange to me,
 That, undividable, incorporate,
 Am better than thy dear self&rsquo;s better part.
 Ah, do not tear away thyself from me!
@@ -1133,7 +1133,7 @@ tell?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 [<i>within</i>]
-If thy name be called "&ldquo;Luce,&rdquo;" Luce, thou hast
+If thy name be called &ldquo;Luce,&rdquo; Luce, thou hast
 answered him well.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
@@ -1238,7 +1238,7 @@ behind.
 It seems thou want&rsquo;st breaking. Out upon thee, hind!
 
 <speaker>DROMIO OF EPHESUS</speaker>
-Here&rsquo;s too much "&ldquo;Out upon thee!&rdquo;" I pray thee, let
+Here&rsquo;s too much &ldquo;Out upon thee!&rdquo; I pray thee, let
 me in.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
@@ -1391,7 +1391,7 @@ sight.
 As good to wink, sweet love, as look on night.
 
 <speaker>LUCIANA</speaker>
-Why call you me "&ldquo;love&rdquo;"? Call my sister so.
+Why call you me &ldquo;love&rdquo;? Call my sister so.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Thy sister&rsquo;s sister.
@@ -1410,7 +1410,7 @@ My sole Earth&rsquo;s heaven, and my heaven&rsquo;s claim.
 All this my sister is, or else should be.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-Call thyself "&ldquo;sister,&rdquo;" sweet, for I am thee.
+Call thyself &ldquo;sister,&rdquo; sweet, for I am thee.
 Thee will I love, and with thee lead my life;
 Thou hast no husband yet, nor I no wife.
 Give me thy hand.
@@ -1462,12 +1462,12 @@ What is she?
 <speaker>DROMIO OF SYRACUSE</speaker>
 A very reverend body, ay, such a
 one as a man may not speak of without he say
-"&ldquo;sir-reverence.&rdquo;" I have but lean luck in the match,
+&ldquo;sir-reverence.&rdquo; I have but lean luck in the match,
 and yet is she a wondrous fat marriage.
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
-How dost thou mean a "&ldquo;fat
-marriage&rdquo;"?
+How dost thou mean a &ldquo;fat
+marriage&rdquo;?
 
 <speaker>DROMIO OF SYRACUSE</speaker>
 Marry, sir, she&rsquo;s the kitchen
@@ -2081,7 +2081,7 @@ officer?
 Ay, sir, the sergeant of the band;
 he that brings any man to answer it that breaks his
 band; one that thinks a man always going to bed
-and says "&ldquo;God give you good rest.&rdquo;"
+and says &ldquo;God give you good rest.&rdquo;
 
 <speaker>ANTIPHOLUS OF SYRACUSE</speaker>
 Well, sir, there rest in your
@@ -2120,8 +2120,8 @@ It is the devil.
 Nay, she is worse; she is the
 devil&rsquo;s dam, and here she comes in the habit of a
 light wench. And thereof comes that the wenches
-say "&ldquo;God damn me&rdquo;"; that&rsquo;s as much to say "&ldquo;God
-make me a light wench.&rdquo;" It is written they appear
+say &ldquo;God damn me&rdquo;; that&rsquo;s as much to say &ldquo;God
+make me a light wench.&rdquo; It is written they appear
 to men like angels of light. Light is an effect of fire,
 and fire will burn: ergo, light wenches will burn.
 Come not near her.
@@ -2167,7 +2167,7 @@ I hope you do not mean to cheat me so.
 Avaunt, thou witch!&mdash;Come, Dromio, let us go.
 
 <speaker>DROMIO OF SYRACUSE</speaker>
-"&ldquo;Fly pride,&rdquo;" says the peacock.
+&ldquo;Fly pride,&rdquo; says the peacock.
 Mistress, that you know.
 [<i>Antipholus and Dromio exit.</i>]
 
@@ -2285,7 +2285,7 @@ Come, go along. My wife is coming yonder.
 <speaker>DROMIO OF EPHESUS</speaker>
 Mistress, respice finem, respect
 your end, or rather, the prophecy like the parrot,
-"&ldquo;Beware the rope&rsquo;s end.&rdquo;"
+&ldquo;Beware the rope&rsquo;s end.&rdquo;
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
 Wilt thou still talk?
@@ -2340,7 +2340,7 @@ Where would you had remained until this time,
 Free from these slanders and this open shame.
 
 <speaker>ANTIPHOLUS OF EPHESUS</speaker>
-"&ldquo;Dined at home&rdquo;"? [<i>To Dromio.</i>]
+&ldquo;Dined at home&rdquo;? [<i>To Dromio.</i>]
  Thou villain, what
 sayest thou?
 
@@ -2487,7 +2487,7 @@ Out on thee, villain! Wherefore dost thou mad me?
 <speaker>DROMIO OF EPHESUS</speaker>
 Will you be bound for nothing? Be mad, good
 master.
-Cry "&ldquo;The devil!&rdquo;"
+Cry &ldquo;The devil!&rdquo;
 
 <speaker>LUCIANA</speaker>
 God help poor souls! How idly do they talk!

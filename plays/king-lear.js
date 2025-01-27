@@ -509,12 +509,12 @@ My services are bound. Wherefore should I
 Stand in the plague of custom, and permit
 The curiosity of nations to deprive me
 For that I am some twelve or fourteen moonshines
-Lag of a brother? why "&ldquo;bastard&rdquo;"? Wherefore "&ldquo;base,&rdquo;"
+Lag of a brother? why &ldquo;bastard&rdquo;? Wherefore &ldquo;base,&rdquo;
 When my dimensions are as well compact,
 My mind as generous and my shape as true
 As honest madam&rsquo;s issue? Why brand they us
-With "&ldquo;base,&rdquo;" with "&ldquo;baseness,&rdquo;" "&ldquo;bastardy,&rdquo;" "&ldquo;base,&rdquo;"
-"&ldquo;base,&rdquo;"
+With &ldquo;base,&rdquo; with &ldquo;baseness,&rdquo; &ldquo;bastardy,&rdquo; &ldquo;base,&rdquo;
+&ldquo;base,&rdquo;
 Who, in the lusty stealth of nature, take
 More composition and fierce quality
 Than doth within a dull, stale, tired bed
@@ -522,7 +522,7 @@ Go to th&rsquo; creating a whole tribe of fops
 Got &rsquo;tween asleep and wake? Well then,
 Legitimate Edgar, I must have your land.
 Our father&rsquo;s love is to the bastard Edmund
-As to th&rsquo; legitimate. Fine word, "&ldquo;legitimate.&rdquo;"
+As to th&rsquo; legitimate. Fine word, &ldquo;legitimate.&rdquo;
 Well, my legitimate, if this letter speed
 And my invention thrive, Edmund the base
 Shall top th&rsquo; legitimate. I grow, I prosper.
@@ -592,8 +592,8 @@ power but as it is suffered. Come to me, that of this I
 may speak more. If our father would sleep till I waked
 him, you should enjoy half his revenue forever and
 live the beloved of your brother. 	Edgar.
-Hum? Conspiracy? "&ldquo;Sleep till I wake him, you
-should enjoy half his revenue.&rdquo;" My son Edgar! Had
+Hum? Conspiracy? &ldquo;Sleep till I wake him, you
+should enjoy half his revenue.&rdquo; My son Edgar! Had
 he a hand to write this? A heart and brain to breed it
 in?&mdash;When came you to this? Who brought it?
 
@@ -1016,7 +1016,7 @@ O you, sir, you, come you hither, sir. Who am I, sir?
 My lady&rsquo;s father.
 
 <speaker>LEAR</speaker>
-"&ldquo;My lady&rsquo;s father&rdquo;"? My lord&rsquo;s knave! You whoreson
+&ldquo;My lady&rsquo;s father&rdquo;? My lord&rsquo;s knave! You whoreson
 dog, you slave, you cur!
 
 <speaker>OSWALD</speaker>
@@ -1155,7 +1155,7 @@ That lord that counseled thee
 	   The other found out there.
 
 <speaker>LEAR</speaker>
-Dost thou call me "&ldquo;fool,&rdquo;" boy?
+Dost thou call me &ldquo;fool,&rdquo; boy?
 
 <speaker>FOOL</speaker>
 All thy other titles thou hast given away. That
@@ -1738,7 +1738,7 @@ He that conceals him, death.
 When I dissuaded him from his intent
 And found him pight to do it, with curst speech
 I threatened to discover him. He replied
-"&ldquo;Thou unpossessing bastard, dost thou think
+&ldquo;Thou unpossessing bastard, dost thou think
 If I would stand against thee, would the reposal
 Of any trust, virtue, or worth in thee
 Make thy words faithed? No. What I should
@@ -1749,7 +1749,7 @@ To thy suggestion, plot, and damned practice.
 And thou must make a dullard of the world
 If they not thought the profits of my death
 Were very pregnant and potential spurs
-To make thee seek it.&rdquo;"
+To make thee seek it.&rdquo;
 
 <speaker>GLOUCESTER</speaker>
 O strange and fastened villain!
@@ -2039,7 +2039,7 @@ No contraries hold more antipathy
 Than I and such a knave.
 
 <speaker>CORNWALL</speaker>
-Why dost thou call him "&ldquo;knave&rdquo;"? What is his fault?
+Why dost thou call him &ldquo;knave&rdquo;? What is his fault?
 
 <speaker>KENT</speaker>
 His countenance likes me not.
@@ -2217,8 +2217,8 @@ Pins, wooden pricks, nails, sprigs of rosemary,
 And, with this horrible object, from low farms,
 Poor pelting villages, sheepcotes, and mills,
 Sometime with lunatic bans, sometime with prayers,
-Enforce their charity. "&ldquo;Poor Turlygod! Poor Tom!&rdquo;"
-That&rsquo;s something yet. "&ldquo;Edgar&rdquo;" I nothing am.
+Enforce their charity. &ldquo;Poor Turlygod! Poor Tom!&rdquo;
+That&rsquo;s something yet. &ldquo;Edgar&rdquo; I nothing am.
 [<i>He exits.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
@@ -2390,7 +2390,7 @@ In his own course.
 
 <speaker>LEAR</speaker>
 Vengeance, plague, death, confusion!
-"&ldquo;Fiery&rdquo;"? What "&ldquo;quality&rdquo;"? Why Gloucester,
+&ldquo;Fiery&rdquo;? What &ldquo;quality&rdquo;? Why Gloucester,
 Gloucester,
 I&rsquo;d speak with the Duke of Cornwall and his wife.
 
@@ -2398,7 +2398,7 @@ I&rsquo;d speak with the Duke of Cornwall and his wife.
 Well, my good lord, I have informed them so.
 
 <speaker>LEAR</speaker>
-"&ldquo;Informed them&rdquo;"? Dost thou understand me,
+&ldquo;Informed them&rdquo;? Dost thou understand me,
 man?
 
 <speaker>GLOUCESTER</speaker>
@@ -2409,9 +2409,9 @@ The King would speak with Cornwall. The dear
 father
 Would with his daughter speak, commands, tends
 service.
-Are they "&ldquo;informed&rdquo;" of this? My breath and
+Are they &ldquo;informed&rdquo; of this? My breath and
 blood!
-"&ldquo;Fiery&rdquo;"? The "&ldquo;fiery&rdquo;" duke? Tell the hot duke that&mdash;
+&ldquo;Fiery&rdquo;? The &ldquo;fiery&rdquo; duke? Tell the hot duke that&mdash;
 No, but not yet. Maybe he is not well.
 Infirmity doth still neglect all office
 Whereto our health is bound. We are not ourselves
@@ -2440,8 +2440,8 @@ O me, my heart, my rising heart! But down!
 <speaker>FOOL</speaker>
 Cry to it, nuncle, as the cockney did to the eels
 when she put &rsquo;em i&rsquo; th&rsquo; paste alive. She knapped
-&rsquo;em o&rsquo; th&rsquo; coxcombs with a stick and cried "&ldquo;Down,
-wantons, down!&rdquo;" &rsquo;Twas her brother that in pure
+&rsquo;em o&rsquo; th&rsquo; coxcombs with a stick and cried &ldquo;Down,
+wantons, down!&rdquo; &rsquo;Twas her brother that in pure
 kindness to his horse buttered his hay.
 
 [<i>Enter Cornwall, Regan, Gloucester, Servants.</i>]
@@ -2500,9 +2500,9 @@ Say you have wronged her.
 Ask her forgiveness?
 Do you but mark how this becomes the house:
 [<i>He kneels.</i>]
-"&ldquo;Dear daughter, I confess that I am old.
+&ldquo;Dear daughter, I confess that I am old.
 Age is unnecessary. On my knees I beg
-That you&rsquo;ll vouchsafe me raiment, bed, and food.&rdquo;"
+That you&rsquo;ll vouchsafe me raiment, bed, and food.&rdquo;
 
 <speaker>REGAN</speaker>
 Good sir, no more. These are unsightly tricks.
@@ -3401,8 +3401,8 @@ No words, no words. Hush.
 
 <speaker>EDGAR</speaker>
 	Child Rowland to the dark tower came.
-	His word was still "&ldquo;Fie, foh, and fum,
-	I smell the blood of a British man.&rdquo;"
+	His word was still &ldquo;Fie, foh, and fum,
+	I smell the blood of a British man.&rdquo;
 [<i>They exit.</i>]
 
 <b id="act-3-scene-5" class="scene-header">Scene 5</b>
@@ -3834,8 +3834,8 @@ In hell-black night endured, would have buoyed up
 And quenched the stelled fires;
 Yet, poor old heart, he holp the heavens to rain.
 If wolves had at thy gate howled that stern time,
-Thou shouldst have said "&ldquo;Good porter, turn the
-key.&rdquo;"
+Thou shouldst have said &ldquo;Good porter, turn the
+key.&rdquo;
 All cruels else subscribe. But I shall see
 The winged vengeance overtake such children.
 
@@ -3987,7 +3987,7 @@ How now? Who&rsquo;s there?
 
 <speaker>EDGAR</speaker>
 [<i>aside</i>]
-O gods, who is &rsquo;t can say "&ldquo;I am at the worst&rdquo;"?
+O gods, who is &rsquo;t can say &ldquo;I am at the worst&rdquo;?
 I am worse than e&rsquo;er I was.
 
 <speaker>OLD MAN</speaker>
@@ -3996,7 +3996,7 @@ I am worse than e&rsquo;er I was.
 <speaker>EDGAR</speaker>
 [<i>aside</i>]
 And worse I may be yet. The worst is not
-So long as we can say "&ldquo;This is the worst.&rdquo;"
+So long as we can say &ldquo;This is the worst.&rdquo;
 
 <speaker>OLD MAN</speaker>
 Fellow, where goest?
@@ -4120,10 +4120,10 @@ Now, where&rsquo;s your master?
 Madam, within, but never man so changed.
 I told him of the army that was landed;
 He smiled at it. I told him you were coming;
-His answer was "&ldquo;The worse.&rdquo;" Of Gloucester&rsquo;s
+His answer was &ldquo;The worse.&rdquo; Of Gloucester&rsquo;s
 treachery
 And of the loyal service of his son
-When I informed him, then he called me "&ldquo;sot&rdquo;"
+When I informed him, then he called me &ldquo;sot&rdquo;
 And told me I had turned the wrong side out.
 What most he should dislike seems pleasant to him;
 What like, offensive.
@@ -4208,7 +4208,7 @@ drum?
 France spreads his banners in our noiseless land,
 With plumed helm thy state begins to threat,
 Whilst thou, a moral fool, sits still and cries
-"&ldquo;Alack, why does he so?&rdquo;"
+&ldquo;Alack, why does he so?&rdquo;
 
 <speaker>ALBANY</speaker>
 See thyself, devil!
@@ -4350,11 +4350,11 @@ Made she no verbal question?
 
 <speaker>GENTLEMAN</speaker>
 Faith, once or twice she heaved the name of
-"&ldquo;father&rdquo;"
+&ldquo;father&rdquo;
 Pantingly forth, as if it pressed her heart;
-Cried "&ldquo;Sisters, sisters, shame of ladies, sisters!
+Cried &ldquo;Sisters, sisters, shame of ladies, sisters!
 Kent, father, sisters! What, i&rsquo; th&rsquo; storm, i&rsquo; th&rsquo; night?
-Let pity not be believed!&rdquo;" There she shook
+Let pity not be believed!&rdquo; There she shook
 The holy water from her heavenly eyes,
 And clamor moistened. Then away she started,
 To deal with grief alone.
@@ -4707,9 +4707,9 @@ Of men&rsquo;s impossibilities, have preserved thee.
 <speaker>GLOUCESTER</speaker>
 I do remember now. Henceforth I&rsquo;ll bear
 Affliction till it do cry out itself
-"&ldquo;Enough, enough!&rdquo;" and die. That thing you speak of,
+&ldquo;Enough, enough!&rdquo; and die. That thing you speak of,
 I took it for a man. Often &rsquo;twould say
-"&ldquo;The fiend, the fiend!&rdquo;" He led me to that place.
+&ldquo;The fiend, the fiend!&rdquo; He led me to that place.
 
 <speaker>EDGAR</speaker>
 Bear free and patient thoughts.
@@ -4748,8 +4748,8 @@ I know that voice.
 <speaker>LEAR</speaker>
 Ha! Goneril with a white beard? They flattered
 me like a dog and told me I had the white hairs in
-my beard ere the black ones were there. To say "&ldquo;ay&rdquo;"
-and "&ldquo;no&rdquo;" to everything that I said "&ldquo;ay&rdquo;" and "&ldquo;no&rdquo;" to
+my beard ere the black ones were there. To say &ldquo;ay&rdquo;
+and &ldquo;no&rdquo; to everything that I said &ldquo;ay&rdquo; and &ldquo;no&rdquo; to
 was no good divinity. When the rain came to wet me
 once and the wind to make me chatter, when the
 thunder would not peace at my bidding, there I
@@ -5545,7 +5545,7 @@ Or thrive by other means.
 I&rsquo;ll do &rsquo;t, my lord.
 
 <speaker>EDMUND</speaker>
-About it, and write "&ldquo;happy&rdquo;" when th&rsquo; hast done.
+About it, and write &ldquo;happy&rdquo; when th&rsquo; hast done.
 Mark, I say, instantly, and carry it so
 As I have set it down.
 
@@ -5763,7 +5763,7 @@ False to thy gods, thy brother, and thy father,
 Conspirant &rsquo;gainst this high illustrious prince,
 And from th&rsquo; extremest upward of thy head
 To the descent and dust below thy foot,
-A most toad-spotted traitor. Say thou "&ldquo;no,&rdquo;"
+A most toad-spotted traitor. Say thou &ldquo;no,&rdquo;
 This sword, this arm, and my best spirits are bent
 To prove upon thy heart, whereto I speak,
 Thou liest.

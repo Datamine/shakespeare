@@ -53,9 +53,9 @@ ANTONY  Grates me, the sum.
 CLEOPATRA  Nay, hear them, Antony.
 Fulvia perchance is angry. Or who knows
 If the scarce-bearded Caesar have not sent
-His powerful mandate to you: "&ldquo;Do this, or this;
+His powerful mandate to you: &ldquo;Do this, or this;
 Take in that kingdom, and enfranchise that.
-Perform &rsquo;t, or else we damn thee.&rdquo;"
+Perform &rsquo;t, or else we damn thee.&rdquo;
 
 ANTONY  How, my love?
 
@@ -371,7 +371,7 @@ To Lydia and to Ionia,
 Whilst&mdash;
 
 <speaker>ANTONY</speaker>
-"&ldquo;Antony,&rdquo;" thou wouldst say?
+&ldquo;Antony,&rdquo; thou wouldst say?
 
 <speaker>MESSENGER</speaker>
 O, my lord!
@@ -961,7 +961,7 @@ Do bravely, horse, for wot&rsquo;st thou whom thou
 mov&rsquo;st?
 The demi-Atlas of this Earth, the arm
 And burgonet of men. He&rsquo;s speaking now,
-Or murmuring "&ldquo;Where&rsquo;s my serpent of old Nile?&rdquo;"
+Or murmuring &ldquo;Where&rsquo;s my serpent of old Nile?&rdquo;
 For so he calls me. Now I feed myself
 With most delicious poison. Think on me
 That am with Phoebus&rsquo; amorous pinches black,
@@ -992,13 +992,13 @@ This orient pearl. His speech sticks in my heart.
 Mine ear must pluck it thence.
 
 <speaker>ALEXAS</speaker>
-"&ldquo;Good friend,&rdquo;" quoth
+&ldquo;Good friend,&rdquo; quoth
 he,
-"&ldquo;Say the firm Roman to great Egypt sends
+&ldquo;Say the firm Roman to great Egypt sends
 This treasure of an oyster; at whose foot,
 To mend the petty present, I will piece
 Her opulent throne with kingdoms. All the East,
-Say thou, shall call her mistress.&rdquo;" So he nodded
+Say thou, shall call her mistress.&rdquo; So he nodded
 And soberly did mount an arm-gaunt steed,
 Who neighed so high that what I would have spoke
 Was beastly dumbed by him.
@@ -1038,7 +1038,7 @@ O, that brave Caesar!
 
 <speaker>CLEOPATRA</speaker>
 Be choked with such another emphasis!
-Say "&ldquo;the brave Antony.&rdquo;"
+Say &ldquo;the brave Antony.&rdquo;
 
 <speaker>CHARMIAN</speaker>
 The valiant Caesar!
@@ -1444,7 +1444,7 @@ With what is spoke already.
 
 <speaker>ANTONY</speaker>
 What power is in Agrippa,
-If I would say "&ldquo;Agrippa, be it so,&rdquo;"
+If I would say &ldquo;Agrippa, be it so,&rdquo;
 To make this good?
 
 <speaker>CAESAR</speaker>
@@ -1599,7 +1599,7 @@ Upon her landing, Antony sent to her,
 Invited her to supper. She replied
 It should be better he became her guest,
 Which she entreated. Our courteous Antony,
-Whom ne&rsquo;er the word of "&ldquo;No&rdquo;" woman heard speak,
+Whom ne&rsquo;er the word of &ldquo;No&rdquo; woman heard speak,
 Being barbered ten times o&rsquo;er, goes to the feast,
 And for his ordinary pays his heart
 For what his eyes eat only.
@@ -1797,7 +1797,7 @@ My music playing far off, I will betray
 Tawny-finned fishes. My bended hook shall pierce
 Their slimy jaws, and as I draw them up
 I&rsquo;ll think them every one an Antony
-And say "&ldquo;Aha! You&rsquo;re caught.&rdquo;"
+And say &ldquo;Aha! You&rsquo;re caught.&rdquo;
 
 <speaker>CHARMIAN</speaker>
 &rsquo;Twas merry when
@@ -1881,9 +1881,9 @@ Make thee a fortune from me.
 But yet, madam&mdash;
 
 <speaker>CLEOPATRA</speaker>
-I do not like "&ldquo;But yet.&rdquo;" It does allay
-The good precedence. Fie upon "&ldquo;But yet.&rdquo;"
-"&ldquo;But yet&rdquo;" is as a jailer to bring forth
+I do not like &ldquo;But yet.&rdquo; It does allay
+The good precedence. Fie upon &ldquo;But yet.&rdquo;
+&ldquo;But yet&rdquo; is as a jailer to bring forth
 Some monstrous malefactor. Prithee, friend,
 Pour out the pack of matter to mine ear,
 The good and bad together: he&rsquo;s friends with Caesar,
@@ -1976,7 +1976,7 @@ I have done my duty.
 <speaker>CLEOPATRA</speaker>
 Is he married?
 I cannot hate thee worser than I do
-If thou again say "&ldquo;yes.&rdquo;"
+If thou again say &ldquo;yes.&rdquo;
 
 <speaker>MESSENGER</speaker>
 He&rsquo;s married, madam.
@@ -2376,7 +2376,7 @@ They have made him drink alms-drink.
 
 <speaker>SECOND SERVANT</speaker>
 As they pinch one another by the
-disposition, he cries out "&ldquo;No more,&rdquo;" reconciles
+disposition, he cries out &ldquo;No more,&rdquo; reconciles
 them to his entreaty and himself to th&rsquo; drink.
 
 <speaker>FIRST SERVANT</speaker>
@@ -2799,7 +2799,7 @@ Spake you of Caesar? How, the nonpareil!
 O Antony, O thou Arabian bird!
 
 <speaker>ENOBARBUS</speaker>
-Would you praise Caesar, say "&ldquo;Caesar.&rdquo;" Go no
+Would you praise Caesar, say &ldquo;Caesar.&rdquo; Go no
 further.
 
 <speaker>AGRIPPA</speaker>
@@ -3113,9 +3113,9 @@ Stomach not all. A more unhappy lady,
 If this division chance, ne&rsquo;er stood between,
 Praying for both parts.
 The good gods will mock me presently
-When I shall pray "&ldquo;O, bless my lord and husband!&rdquo;"
+When I shall pray &ldquo;O, bless my lord and husband!&rdquo;
 Undo that prayer by crying out as loud
-"&ldquo;O, bless my brother!&rdquo;" Husband win, win brother
+&ldquo;O, bless my brother!&rdquo; Husband win, win brother
 Prays and destroys the prayer; no midway
 &rsquo;Twixt these extremes at all.
 
@@ -3182,7 +3182,7 @@ They&rsquo;ll grind the one the other. Where&rsquo;s Antony?
 
 <speaker>EROS</speaker>
 He&rsquo;s walking in the garden, thus, and spurns
-The rush that lies before him; cries "&ldquo;Fool Lepidus!&rdquo;"
+The rush that lies before him; cries &ldquo;Fool Lepidus!&rdquo;
 And threats the throat of that his officer
 That murdered Pompey.
 
@@ -4123,9 +4123,9 @@ You will be whipped.
 [<i>calling for Servants</i>]
 Approach there!&mdash;Ah, you kite!&mdash;Now, gods and
 devils,
-Authority melts from me. Of late when I cried "&ldquo;Ho!&rdquo;"
+Authority melts from me. Of late when I cried &ldquo;Ho!&rdquo;
 Like boys unto a muss kings would start forth
-And cry "&ldquo;Your will?&rdquo;" Have you no ears? I am
+And cry &ldquo;Your will?&rdquo; Have you no ears? I am
 Antony yet.
 
 [<i>Enter Servants.</i>]
@@ -4191,7 +4191,7 @@ Wherefore is this?
 
 <speaker>ANTONY</speaker>
 To let a fellow that will take rewards
-And say "&ldquo;God quit you!&rdquo;" be familiar with
+And say &ldquo;God quit you!&rdquo; be familiar with
 My playfellow, your hand, this kingly seal
 And plighter of high hearts! O, that I were
 Upon the hill of Basan, to outroar
@@ -4331,7 +4331,7 @@ Some way to leave him.
 Caesar reading a letter.</i>]
 
 <speaker>CAESAR</speaker>
-He calls me "&ldquo;boy,&rdquo;" and chides as he had power
+He calls me &ldquo;boy,&rdquo; and chides as he had power
 To beat me out of Egypt. My messenger
 He hath whipped with rods, dares me to personal
 combat,
@@ -4381,7 +4381,7 @@ Or bathe my dying honor in the blood
 Shall make it live again. Woo&rsquo;t thou fight well?
 
 <speaker>ENOBARBUS</speaker>
-I&rsquo;ll strike and cry "&ldquo;Take all.&rdquo;"
+I&rsquo;ll strike and cry &ldquo;Take all.&rdquo;
 
 <speaker>ANTONY</speaker>
 Well said. Come on.
@@ -4677,7 +4677,7 @@ Who&rsquo;s gone this morning?
 Who?
 One ever near thee. Call for Enobarbus,
 He shall not hear thee, or from Caesar&rsquo;s camp
-Say "&ldquo;I am none of thine.&rdquo;"
+Say &ldquo;I am none of thine.&rdquo;
 
 <speaker>ANTONY</speaker>
 What sayest thou?
@@ -5113,7 +5113,7 @@ Than greatness going off.
 <speaker>CLEOPATRA</speaker>
 To th&rsquo; monument!&mdash;
 Mardian, go tell him I have slain myself.
-Say that the last I spoke was "&ldquo;Antony,&rdquo;"
+Say that the last I spoke was &ldquo;Antony,&rdquo;
 And word it, prithee, piteously. Hence, Mardian,
 And bring me how he takes my death.&mdash;To th&rsquo;
 monument!
@@ -5181,7 +5181,7 @@ She hath betrayed me and shall die the death.
 Death of one person can be paid but once,
 And that she has discharged. What thou wouldst do
 Is done unto thy hand. The last she spake
-Was "&ldquo;Antony, most noble Antony.&rdquo;"
+Was &ldquo;Antony, most noble Antony.&rdquo;
 Then in the midst a tearing groan did break
 The name of Antony; it was divided
 Between her heart and lips. She rendered life
@@ -5231,7 +5231,7 @@ Quartered the world and o&rsquo;er green Neptune&rsquo;s back
 With ships made cities, condemn myself to lack
 The courage of a woman&mdash;less noble mind
 Than she which, by her death, our Caesar tells
-"&ldquo;I am conqueror of myself.&rdquo;" Thou art sworn, Eros,
+&ldquo;I am conqueror of myself.&rdquo; Thou art sworn, Eros,
 That when the exigent should come, which now
 Is come indeed, when I should see behind me
 Th&rsquo; inevitable prosecution of

@@ -221,7 +221,7 @@ Making it momentany as a sound,
 Swift as a shadow, short as any dream,
 Brief as the lightning in the collied night,
 That, in a spleen, unfolds both heaven and Earth,
-And, ere a man hath power to say "&ldquo;Behold!&rdquo;"
+And, ere a man hath power to say &ldquo;Behold!&rdquo;
 The jaws of darkness do devour it up.
 So quick bright things come to confusion.
 
@@ -269,7 +269,7 @@ HERMIA
 Godspeed, fair Helena. Whither away?
 
 HELENA
-Call you me "&ldquo;fair&rdquo;"? That "&ldquo;fair&rdquo;" again unsay.
+Call you me &ldquo;fair&rdquo;? That &ldquo;fair&rdquo; again unsay.
 Demetrius loves your fair. O happy fair!
 Your eyes are lodestars and your tongue&rsquo;s sweet air
 More tunable than lark to shepherd&rsquo;s ear
@@ -397,9 +397,9 @@ treats on, then read the names of the actors, and so
 grow to a point.
 
 <speaker>QUINCE</speaker>
-Marry, our play is "&ldquo;The most lamentable
+Marry, our play is &ldquo;The most lamentable
 comedy and most cruel death of Pyramus and
-Thisbe.&rdquo;"
+Thisbe.&rdquo;
 
 <speaker>BOTTOM</speaker>
 A very good piece of work, I assure you, and a
@@ -468,9 +468,9 @@ you may speak as small as you will.
 
 <speaker>BOTTOM</speaker>
 An I may hide my face, let me play Thisbe too.
-I&rsquo;ll speak in a monstrous little voice: "&ldquo;Thisne,
-Thisne!"&mdash;"Ah Pyramus, my lover dear! Thy Thisbe
-dear and lady dear!&rdquo;"
+I&rsquo;ll speak in a monstrous little voice: &ldquo;Thisne,
+Thisne!&rdquo;&mdash;&ldquo;Ah Pyramus, my lover dear! Thy Thisbe
+dear and lady dear!&rdquo;
 
 <speaker>QUINCE</speaker>
 No, no, you must play Pyramus&mdash;and, Flute,
@@ -508,8 +508,8 @@ roaring.
 <speaker>BOTTOM</speaker>
 Let me play the lion too. I will roar that I will
 do any man&rsquo;s heart good to hear me. I will roar that
-I will make the Duke say "&ldquo;Let him roar again. Let
-him roar again!&rdquo;"
+I will make the Duke say &ldquo;Let him roar again. Let
+him roar again!&rdquo;
 
 <speaker>QUINCE</speaker>
 An you should do it too terribly, you would
@@ -624,7 +624,7 @@ Skim milk, and sometimes labor in the quern
 And bootless make the breathless huswife churn,
 And sometime make the drink to bear no barm,
 Mislead night wanderers, laughing at their harm?
-Those that "&ldquo;Hobgoblin&rdquo;" call you and "&ldquo;sweet Puck,&rdquo;"
+Those that &ldquo;Hobgoblin&rdquo; call you and &ldquo;sweet Puck,&rdquo;
 You do their work, and they shall have good luck.
 Are not you he?
 
@@ -641,7 +641,7 @@ And on her withered dewlap pour the ale.
 The wisest aunt, telling the saddest tale,
 Sometime for three-foot stool mistaketh me;
 Then slip I from her bum, down topples she
-And "&ldquo;Tailor!&rdquo;" cries and falls into a cough,
+And &ldquo;Tailor!&rdquo; cries and falls into a cough,
 And then the whole choir hold their hips and loffe
 And waxen in their mirth and neeze and swear
 A merrier hour was never wasted there.
@@ -795,7 +795,7 @@ In maiden meditation, fancy-free.
 Yet marked I where the bolt of Cupid fell.
 It fell upon a little western flower,
 Before, milk-white, now purple with love&rsquo;s wound,
-And maidens call it "&ldquo;love-in-idleness.&rdquo;"
+And maidens call it &ldquo;love-in-idleness.&rdquo;
 Fetch me that flower; the herb I showed thee once.
 The juice of it on sleeping eyelids laid
 Will make or man or woman madly dote
@@ -1050,7 +1050,7 @@ So far be distant; and good night, sweet friend.
 Thy love ne&rsquo;er alter till thy sweet life end!
 
 <speaker>LYSANDER</speaker>
-"&ldquo;Amen, amen&rdquo;" to that fair prayer, say I,
+&ldquo;Amen, amen&rdquo; to that fair prayer, say I,
 And then end life when I end loyalty!
 Here is my bed. Sleep give thee all his rest!
 
@@ -1257,12 +1257,12 @@ a lion.
 Nay, you must name his name, and half his
 face must be seen through the lion&rsquo;s neck, and he
 himself must speak through, saying thus, or to the
-same defect: "&ldquo;Ladies,&rdquo;" or "&ldquo;Fair ladies, I would
-wish you,&rdquo;" or "&ldquo;I would request you,&rdquo;" or "&ldquo;I would
+same defect: &ldquo;Ladies,&rdquo; or &ldquo;Fair ladies, I would
+wish you,&rdquo; or &ldquo;I would request you,&rdquo; or &ldquo;I would
 entreat you not to fear, not to tremble! My life for
 yours. If you think I come hither as a lion, it were
 pity of my life. No, I am no such thing. I am a man as
-other men are.&rdquo;" And there indeed let him name his
+other men are.&rdquo; And there indeed let him name his
 name and tell them plainly he is Snug the joiner.
 
 <speaker>QUINCE</speaker>
@@ -1361,10 +1361,10 @@ come again.
 	I&rsquo;ll meet thee, Pyramus, at Ninny&rsquo;s tomb.
 
 <speaker>QUINCE</speaker>
-"&ldquo;Ninus&rsquo; tomb,&rdquo;" man! Why, you must not
+&ldquo;Ninus&rsquo; tomb,&rdquo; man! Why, you must not
 speak that yet. That you answer to Pyramus. You
 speak all your part at once, cues and all.&mdash;Pyramus,
-enter. Your cue is past. It is "&ldquo;never tire.&rdquo;"
+enter. Your cue is past. It is &ldquo;never tire.&rdquo;
 
 <speaker>FLUTE</speaker>
 O!
@@ -1435,10 +1435,10 @@ What angel wakes me from my flow&rsquo;ry bed?
 	The finch, the sparrow, and the lark,
 	   The plainsong cuckoo gray,
 	Whose note full many a man doth mark
-	   And dares not answer "&ldquo;nay"&mdash;
+	   And dares not answer &ldquo;nay&rdquo;&mdash;
 for, indeed, who would set his wit to so foolish a
 bird? Who would give a bird the lie though he cry
-"&ldquo;cuckoo&rdquo;" never so?
+&ldquo;cuckoo&rdquo; never so?
 
 <speaker>TITANIA</speaker>
 I pray thee, gentle mortal, sing again.
@@ -1595,7 +1595,7 @@ Rising and cawing at the gun&rsquo;s report,
 Sever themselves and madly sweep the sky,
 So at his sight away his fellows fly,
 And, at our stamp, here o&rsquo;er and o&rsquo;er one falls.
-He "&ldquo;Murder&rdquo;" cries and help from Athens calls.
+He &ldquo;Murder&rdquo; cries and help from Athens calls.
 Their sense thus weak, lost with their fears thus
 strong,
 Made senseless things begin to do them wrong;
@@ -2035,7 +2035,7 @@ Impatient answers from my gentle tongue?
 Fie, fie, you counterfeit, you puppet, you!
 
 <speaker>HERMIA</speaker>
-"&ldquo;Puppet&rdquo;"? Why so? Ay, that way goes the game.
+&ldquo;Puppet&rdquo;? Why so? Ay, that way goes the game.
 Now I perceive that she hath made compare
 Between our statures; she hath urged her height,
 And with her personage, her tall personage,
@@ -2056,7 +2056,7 @@ Because she is something lower than myself,
 That I can match her.
 
 <speaker>HERMIA</speaker>
-"&ldquo;Lower&rdquo;"? Hark, again!
+&ldquo;Lower&rdquo;? Hark, again!
 
 <speaker>HELENA</speaker>
 Good Hermia, do not be so bitter with me.
@@ -2096,7 +2096,7 @@ She was a vixen when she went to school,
 And though she be but little, she is fierce.
 
 <speaker>HERMIA</speaker>
-"&ldquo;Little&rdquo;" again? Nothing but "&ldquo;low&rdquo;" and "&ldquo;little&rdquo;"?
+&ldquo;Little&rdquo; again? Nothing but &ldquo;low&rdquo; and &ldquo;little&rdquo;?
 Why will you suffer her to flout me thus?
 Let me come to her.
 
@@ -2119,7 +2119,7 @@ Now follow, if thou dar&rsquo;st, to try whose right,
 Of thine or mine, is most in Helena.
 
 <speaker>DEMETRIUS</speaker>
-"&ldquo;Follow&rdquo;"? Nay, I&rsquo;ll go with thee, cheek by jowl.
+&ldquo;Follow&rdquo;? Nay, I&rsquo;ll go with thee, cheek by jowl.
 [<i>Demetrius and Lysander exit.</i>]
 
 <speaker>HERMIA</speaker>
@@ -2680,7 +2680,7 @@ And by the way let us recount our dreams.
 <speaker>BOTTOM</speaker>
 [<i>waking up</i>]
    When my cue comes, call me,
-and I will answer. My next is "&ldquo;Most fair Pyramus.&rdquo;"
+and I will answer. My next is &ldquo;Most fair Pyramus.&rdquo;
 Hey-ho! Peter Quince! Flute the bellows-mender!
 Snout the tinker! Starveling! God&rsquo;s my life! Stolen
 hence and left me asleep! I have had a most rare
@@ -2694,7 +2694,7 @@ man hath not heard, the ear of man hath not seen,
 man&rsquo;s hand is not able to taste, his tongue to
 conceive, nor his heart to report what my dream
 was. I will get Peter Quince to write a ballad of this
-dream. It shall be called "&ldquo;Bottom&rsquo;s Dream&rdquo;" because
+dream. It shall be called &ldquo;Bottom&rsquo;s Dream&rdquo; because
 it hath no bottom; and I will sing it in the
 latter end of a play, before the Duke. Peradventure,
 to make it the more gracious, I shall sing it at her
@@ -2730,7 +2730,7 @@ Yea, and the best person too, and he is a very
 paramour for a sweet voice.
 
 <speaker>FLUTE</speaker>
-You must say "&ldquo;paragon.&rdquo;" A "&ldquo;paramour&rdquo;" is (God
+You must say &ldquo;paragon.&rdquo; A &ldquo;paramour&rdquo; is (God
 bless us) a thing of naught.
 
 [<i>Enter Snug the joiner.</i>]
@@ -2859,21 +2859,21 @@ There is a brief how many sports are ripe.
 Make choice of which your Highness will see first.
 
 <speaker>THESEUS</speaker>
-"&ldquo;The battle with the Centaurs, to be sung
-By an Athenian eunuch to the harp.&rdquo;"
+&ldquo;The battle with the Centaurs, to be sung
+By an Athenian eunuch to the harp.&rdquo;
 We&rsquo;ll none of that. That have I told my love
 In glory of my kinsman Hercules.
-"&ldquo;The riot of the tipsy Bacchanals,
-Tearing the Thracian singer in their rage.&rdquo;"
+&ldquo;The riot of the tipsy Bacchanals,
+Tearing the Thracian singer in their rage.&rdquo;
 That is an old device, and it was played
 When I from Thebes came last a conqueror.
-"&ldquo;The thrice-three Muses mourning for the death
-Of learning, late deceased in beggary.&rdquo;"
+&ldquo;The thrice-three Muses mourning for the death
+Of learning, late deceased in beggary.&rdquo;
 That is some satire, keen and critical,
 Not sorting with a nuptial ceremony.
-"&ldquo;A tedious brief scene of young Pyramus
-And his love Thisbe, very tragical mirth.&rdquo;"
-"&ldquo;Merry&rdquo;" and "&ldquo;tragical&rdquo;"? "&ldquo;Tedious&rdquo;" and "&ldquo;brief&rdquo;"?
+&ldquo;A tedious brief scene of young Pyramus
+And his love Thisbe, very tragical mirth.&rdquo;
+&ldquo;Merry&rdquo; and &ldquo;tragical&rdquo;? &ldquo;Tedious&rdquo; and &ldquo;brief&rdquo;?
 That is hot ice and wondrous strange snow!
 How shall we find the concord of this discord?
 
@@ -2997,16 +2997,16 @@ Gentles, perchance you wonder at this show.
 This man is Pyramus, if you would know.
    This beauteous lady Thisbe is certain.
 This man with lime and roughcast doth present
-   "&ldquo;Wall,&rdquo;" that vile wall which did these lovers
+   &ldquo;Wall,&rdquo; that vile wall which did these lovers
    sunder;
 And through Wall&rsquo;s chink, poor souls, they are
 content
    To whisper, at the which let no man wonder.
 This man, with lantern, dog, and bush of thorn,
-   Presenteth "&ldquo;Moonshine,&rdquo;" for, if you will know,
+   Presenteth &ldquo;Moonshine,&rdquo; for, if you will know,
 By moonshine did these lovers think no scorn
    To meet at Ninus&rsquo; tomb, there, there to woo.
-This grisly beast (which "&ldquo;Lion&rdquo;" hight by name)
+This grisly beast (which &ldquo;Lion&rdquo; hight by name)
    The trusty Thisbe coming first by night
 Did scare away or rather did affright;
 And, as she fled, her mantle she did fall,
@@ -3075,8 +3075,8 @@ The wall, methinks, being sensible, should
 curse again.
 
 <speaker>BOTTOM</speaker>
-No, in truth, sir, he should not. "&ldquo;Deceiving
-me&rdquo;" is Thisbe&rsquo;s cue. She is to enter now, and I am
+No, in truth, sir, he should not. &ldquo;Deceiving
+me&rdquo; is Thisbe&rsquo;s cue. She is to enter now, and I am
 to spy her through the wall. You shall see it will fall
 pat as I told you. Yonder she comes.
 
@@ -3221,7 +3221,7 @@ Myself the man i&rsquo; th&rsquo; moon do seem to be.
 <speaker>THESEUS</speaker>
 This is the greatest error of all the rest; the
 man should be put into the lanthorn. How is it else
-"&ldquo;the man i&rsquo; th&rsquo; moon&rdquo;"?
+&ldquo;the man i&rsquo; th&rsquo; moon&rdquo;?
 
 <speaker>DEMETRIUS</speaker>
 He dares not come there for the candle,

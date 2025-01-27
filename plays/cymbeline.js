@@ -1078,12 +1078,12 @@ There is a Frenchman his companion, one
 An eminent monsieur that, it seems, much loves
 A Gallian girl at home. He furnaces
 The thick sighs from him, whiles the jolly Briton&mdash;
-Your lord, I mean&mdash;laughs from &rsquo;s free lungs, cries "&ldquo;O,
+Your lord, I mean&mdash;laughs from &rsquo;s free lungs, cries &ldquo;O,
 Can my sides hold to think that man who knows
 By history, report, or his own proof
 What woman is, yea, what she cannot choose
 But must be, will &rsquo;s free hours languish for
-Assured bondage?&rdquo;"
+Assured bondage?&rdquo;
 
 <speaker>IMOGEN</speaker>
 Will my lord say so?
@@ -1793,14 +1793,14 @@ Were they all made such men.&mdash;How now, Pisanio!
 [<i>Enter Pisanio.</i>]
 
 <speaker>CLOTEN</speaker>
-"&ldquo;His garment&rdquo;"? Now the devil&mdash;
+&ldquo;His garment&rdquo;? Now the devil&mdash;
 
 <speaker>IMOGEN</speaker>
 [<i>to Pisanio</i>]
 To Dorothy, my woman, hie thee presently.
 
 <speaker>CLOTEN</speaker>
-"&ldquo;His garment&rdquo;"?
+&ldquo;His garment&rdquo;?
 
 <speaker>IMOGEN</speaker>
 [<i>to Pisanio</i>]
@@ -1823,7 +1823,7 @@ I hope so. Go and search.	[<i>Pisanio exits.</i>]
 
 <speaker>CLOTEN</speaker>
 You have abused me.
-"&ldquo;His meanest garment&rdquo;"?
+&ldquo;His meanest garment&rdquo;?
 
 <speaker>IMOGEN</speaker>
 Ay, I said so, sir.
@@ -1839,7 +1839,7 @@ But the worst of me. So I leave you, sir,
 To th&rsquo; worst of discontent.	[<i>She exits.</i>]
 
 <speaker>CLOTEN</speaker>
-I&rsquo;ll be revenged! "&ldquo;His mean&rsquo;st garment&rdquo;"? Well.
+I&rsquo;ll be revenged! &ldquo;His mean&rsquo;st garment&rdquo;? Well.
 [<i>He exits.</i>]
 
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
@@ -2184,7 +2184,7 @@ As chaste as unsunned snow. O, all the devils!
 This yellow Iachimo in an hour, was &rsquo;t not?
 Or less? At first? Perchance he spoke not, but,
 Like a full-acorned boar, a German one,
-Cried "&ldquo;O!&rdquo;" and mounted; found no opposition
+Cried &ldquo;O!&rdquo; and mounted; found no opposition
 But what he looked for should oppose and she
 Should from encounter guard. Could I find out
 The woman&rsquo;s part in me&mdash;for there&rsquo;s no motion
@@ -2246,7 +2246,7 @@ With rocks unscalable and roaring waters,
 With sands that will not bear your enemies&rsquo; boats
 But suck them up to th&rsquo; topmast. A kind of conquest
 Caesar made here, but made not here his brag
-Of "&ldquo;came, and saw, and overcame.&rdquo;" With shame&mdash;
+Of &ldquo;came, and saw, and overcame.&rdquo; With shame&mdash;
 The first that ever touched him&mdash;he was carried
 From off our coast, twice beaten; and his shipping,
 Poor ignorant baubles, on our terrible seas
@@ -2581,8 +2581,8 @@ The heir of Cymbeline and Britain, who
 The King his father called Guiderius&mdash;Jove!
 When on my three-foot stool I sit and tell
 The warlike feats I have done, his spirits fly out
-Into my story; say "&ldquo;Thus mine enemy fell,
-And thus I set my foot on &rsquo;s neck,&rdquo;" even then
+Into my story; say &ldquo;Thus mine enemy fell,
+And thus I set my foot on &rsquo;s neck,&rdquo; even then
 The princely blood flows in his cheek, he sweats,
 Strains his young nerves, and puts himself in posture
 That acts my words. The younger brother, Cadwal,
@@ -3106,7 +3106,7 @@ O, my all-worthy lord!
 <speaker>CLOTEN</speaker>
 All-worthy villain!
 Discover where thy mistress is at once,
-At the next word. No more of "&ldquo;worthy lord&rdquo;"!
+At the next word. No more of &ldquo;worthy lord&rdquo;!
 Speak, or thy silence on the instant is
 Thy condemnation and thy death.
 
@@ -3574,7 +3574,7 @@ In my good brother&rsquo;s fault. I know not why
 I love this youth, and I have heard you say
 Love&rsquo;s reason&rsquo;s without reason. The bier at door,
 And a demand who is &rsquo;t shall die, I&rsquo;d say
-"&ldquo;My father, not this youth.&rdquo;"
+&ldquo;My father, not this youth.&rdquo;
 
 <speaker>BELARIUS</speaker>
 [<i>aside</i>]
@@ -3691,7 +3691,7 @@ Hath mocked me. I am faint.
 
 <speaker>BELARIUS</speaker>
 [<i>as Morgan, to Polydor and Cadwal</i>]
-"&ldquo;Those runagates&rdquo;"?
+&ldquo;Those runagates&rdquo;?
 Means he not us? I partly know him. &rsquo;Tis
 Cloten, the son o&rsquo; th&rsquo; Queen. I fear some ambush.
 I saw him not these many years, and yet
@@ -4081,7 +4081,7 @@ By good Euriphile, our mother.
 And let us, Polydor, though now our voices
 Have got the mannish crack, sing him to th&rsquo; ground
 As once to our mother; use like note and words,
-Save that "&ldquo;Euriphile&rdquo;" must be "&ldquo;Fidele.&rdquo;"
+Save that &ldquo;Euriphile&rdquo; must be &ldquo;Fidele.&rdquo;
 
 <speaker>GUIDERIUS</speaker>
 [<i>as Polydor</i>]
@@ -4717,14 +4717,14 @@ The country base than to commit such slaughter,
 With faces fit for masks, or rather fairer
 Than those for preservation cased or shame&mdash;
 Made good the passage, cried to those that fled
-"&ldquo;Our Britain&rsquo;s harts die flying, not our men.
+&ldquo;Our Britain&rsquo;s harts die flying, not our men.
 To darkness fleet souls that fly backwards. Stand,
 Or we are Romans and will give you that
 Like beasts which you shun beastly, and may save
-But to look back in frown. Stand, stand!&rdquo;" These three,
+But to look back in frown. Stand, stand!&rdquo; These three,
 Three thousand confident, in act as many&mdash;
 For three performers are the file when all
-The rest do nothing&mdash;with this word "&ldquo;Stand, stand,&rdquo;"
+The rest do nothing&mdash;with this word &ldquo;Stand, stand,&rdquo;
 Accommodated by the place, more charming
 With their own nobleness, which could have turned
 A distaff to a lance, gilded pale looks,
@@ -4757,8 +4757,8 @@ Nay, do not wonder at it. You are made
 Rather to wonder at the things you hear
 Than to work any. Will you rhyme upon &rsquo;t
 And vent it for a mock&rsquo;ry? Here is one:
-"&ldquo;Two boys, an old man twice a boy, a lane,
-Preserved the Britons, was the Romans&rsquo; bane.&rdquo;"
+&ldquo;Two boys, an old man twice a boy, a lane,
+Preserved the Britons, was the Romans&rsquo; bane.&rdquo;
 
 <speaker>LORD</speaker>
 Nay, be not angry, sir.
@@ -4776,7 +4776,7 @@ Farewell. You&rsquo;re angry.
 
 <speaker>POSTHUMUS</speaker>
 Still going? This is a lord! O noble misery,
-To be i&rsquo; th&rsquo; field and ask "&ldquo;What news?&rdquo;" of me!
+To be i&rsquo; th&rsquo; field and ask &ldquo;What news?&rdquo; of me!
 Today how many would have given their honors
 To have saved their carcasses, took heel to do &rsquo;t,
 And yet died too! I, in mine own woe charmed,
@@ -5311,7 +5311,7 @@ I have surely seen him.
 His favor is familiar to me.&mdash;Boy,
 Thou hast looked thyself into my grace
 And art mine own. I know not why, wherefore,
-To say "&ldquo;Live, boy.&rdquo;" Ne&rsquo;er thank thy master. Live,
+To say &ldquo;Live, boy.&rdquo; Ne&rsquo;er thank thy master. Live,
 And ask of Cymbeline what boon thou wilt,
 Fitting my bounty and thy state, I&rsquo;ll give it,
 Yea, though thou do demand a prisoner,
@@ -5610,10 +5610,10 @@ O gods!
 [<i>To Pisanio.</i>]
  I left out one thing which the Queen
 confessed,
-Which must approve thee honest. "&ldquo;If Pisanio
-Have,&rdquo;" said she, "&ldquo;given his mistress that confection
+Which must approve thee honest. &ldquo;If Pisanio
+Have,&rdquo; said she, &ldquo;given his mistress that confection
 Which I gave him for cordial, she is served
-As I would serve a rat.&rdquo;"
+As I would serve a rat.&rdquo;
 
 <speaker>CYMBELINE</speaker>
 What&rsquo;s this, Cornelius?
@@ -5883,8 +5883,8 @@ Thou hast lost by this a kingdom!
 No, my lord.
 I have got two worlds by &rsquo;t.&mdash;O my gentle brothers,
 Have we thus met? O, never say hereafter
-But I am truest speaker. You called me "&ldquo;brother&rdquo;"
-When I was but your sister; I you "&ldquo;brothers&rdquo;"
+But I am truest speaker. You called me &ldquo;brother&rdquo;
+When I was but your sister; I you &ldquo;brothers&rdquo;
 When we were so indeed.
 
 <speaker>CYMBELINE</speaker>
@@ -6021,8 +6021,8 @@ Being Leo-natus, doth import so much.
 [<i>To Cymbeline.</i>]
  The piece of tender air thy virtuous
 daughter,
-Which we call "&ldquo;mollis aer,&rdquo;" and "&ldquo;mollis aer&rdquo;"
-We term it "&ldquo;mulier,&rdquo;" which "&ldquo;mulier&rdquo;" I divine
+Which we call &ldquo;mollis aer,&rdquo; and &ldquo;mollis aer&rdquo;
+We term it &ldquo;mulier,&rdquo; which &ldquo;mulier&rdquo; I divine
 Is this most constant wife; who, even now,
 Answering the letter of the oracle,
 [<i>To Posthumus</i>]

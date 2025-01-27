@@ -86,7 +86,7 @@ Would be filled up, my brother, with our thanks,
 And yet we should for perpetuity
 Go hence in debt. And therefore, like a cipher,
 Yet standing in rich place, I multiply
-With one "&ldquo;We thank you&rdquo;" many thousands more
+With one &ldquo;We thank you&rdquo; many thousands more
 That go before it.
 
 <speaker>LEONTES</speaker>
@@ -98,7 +98,7 @@ Sir, that&rsquo;s tomorrow.
 I am questioned by my fears of what may chance
 Or breed upon our absence, that may blow
 No sneaping winds at home to make us say
-"&ldquo;This is put forth too truly.&rdquo;" Besides, I have stayed
+&ldquo;This is put forth too truly.&rdquo; Besides, I have stayed
 To tire your Royalty.
 
 <speaker>LEONTES</speaker>
@@ -174,13 +174,13 @@ Verily?
 You put me off with limber vows. But I,
 Though you would seek t&rsquo; unsphere the stars with
 oaths,
-Should yet say "&ldquo;Sir, no going.&rdquo;" Verily,
-You shall not go. A lady&rsquo;s "&ldquo;verily&rdquo;" is
+Should yet say &ldquo;Sir, no going.&rdquo; Verily,
+You shall not go. A lady&rsquo;s &ldquo;verily&rdquo; is
 As potent as a lord&rsquo;s. Will you go yet?
 Force me to keep you as a prisoner,
 Not like a guest, so you shall pay your fees
 When you depart and save your thanks. How say you?
-My prisoner or my guest? By your dread "&ldquo;verily,&rdquo;"
+My prisoner or my guest? By your dread &ldquo;verily,&rdquo;
 One of them you shall be.
 
 <speaker>POLIXENES</speaker>
@@ -214,7 +214,7 @@ That any did. Had we pursued that life,
 And our weak spirits ne&rsquo;er been higher reared
 With stronger blood, we should have answered
 heaven
-Boldly "&ldquo;Not guilty,&rdquo;" the imposition cleared
+Boldly &ldquo;Not guilty,&rdquo; the imposition cleared
 Hereditary ours.
 
 <speaker>HERMIONE</speaker>
@@ -275,7 +275,7 @@ Three crabbed months had soured themselves to
 death
 Ere I could make thee open thy white hand
 And clap thyself my love; then didst thou utter
-"&ldquo;I am yours forever.&rdquo;"
+&ldquo;I am yours forever.&rdquo;
 
 <speaker>HERMIONE</speaker>
 &rsquo;Tis grace indeed.
@@ -471,7 +471,7 @@ Didst perceive it?
 [<i>Aside.</i>]
  They&rsquo;re here with me already, whisp&rsquo;ring,
 rounding:
-"&ldquo;Sicilia is a so-forth.&rdquo;" &rsquo;Tis far gone
+&ldquo;Sicilia is a so-forth.&rdquo; &rsquo;Tis far gone
 When I shall gust it last.&mdash;How came &rsquo;t, Camillo,
 That he did stay?
 
@@ -479,7 +479,7 @@ That he did stay?
 At the good queen&rsquo;s entreaty.
 
 <speaker>LEONTES</speaker>
-"&ldquo;At the queen&rsquo;s&rdquo;" be &rsquo;t. "&ldquo;Good&rdquo;" should be pertinent,
+&ldquo;At the queen&rsquo;s&rdquo; be &rsquo;t. &ldquo;Good&rdquo; should be pertinent,
 But so it is, it is not. Was this taken
 By any understanding pate but thine?
 For thy conceit is soaking, will draw in
@@ -1025,16 +1025,16 @@ Howe&rsquo;er you lean to th&rsquo; nayward.
 <speaker>LEONTES</speaker>
 You, my lords,
 Look on her, mark her well. Be but about
-To say "&ldquo;She is a goodly lady,&rdquo;" and
+To say &ldquo;She is a goodly lady,&rdquo; and
 The justice of your hearts will thereto add
-"&ldquo;&rsquo;Tis pity she&rsquo;s not honest, honorable.&rdquo;"
+&ldquo;&rsquo;Tis pity she&rsquo;s not honest, honorable.&rdquo;
 Praise her but for this her without-door form,
 Which on my faith deserves high speech, and
 straight
-The shrug, the "&ldquo;hum,&rdquo;" or "&ldquo;ha,&rdquo;" these petty brands
+The shrug, the &ldquo;hum,&rdquo; or &ldquo;ha,&rdquo; these petty brands
 That calumny doth use&mdash;O, I am out,
 That mercy does, for calumny will sear
-Virtue itself&mdash;these shrugs, these "&ldquo;hum"s and "&ldquo;ha"s,
+Virtue itself&mdash;these shrugs, these &ldquo;hum&rdquo;s and &ldquo;ha&rdquo;s,
 When you have said she&rsquo;s goodly, come between
 Ere you can say she&rsquo;s honest. But be &rsquo;t known,
 From him that has most cause to grieve it should be,
@@ -1305,8 +1305,8 @@ A boy?
 <speaker>EMILIA</speaker>
 A daughter, and a goodly babe,
 Lusty and like to live. The Queen receives
-Much comfort in &rsquo;t, says "&ldquo;My poor prisoner,
-I am innocent as you.&rdquo;"
+Much comfort in &rsquo;t, says &ldquo;My poor prisoner,
+I am innocent as you.&rdquo;
 
 <speaker>PAULINA</speaker>
 I dare be sworn.
@@ -1489,8 +1489,8 @@ From your good queen.
 Good queen?
 
 <speaker>PAULINA</speaker>
-Good queen, my lord, good queen, I say "&ldquo;good
-queen,&rdquo;"
+Good queen, my lord, good queen, I say &ldquo;good
+queen,&rdquo;
 And would by combat make her good, so were I
 A man, the worst about you.
 
@@ -1846,7 +1846,7 @@ Since what I am to say must be but that
 Which contradicts my accusation, and
 The testimony on my part no other
 But what comes from myself, it shall scarce boot me
-To say "&ldquo;Not guilty.&rdquo;" Mine integrity,
+To say &ldquo;Not guilty.&rdquo; Mine integrity,
 Being counted falsehood, shall, as I express it,
 Be so received. But thus: if powers divine
 Behold our human actions, as they do,
@@ -2224,7 +2224,7 @@ Like very sanctity, she did approach
 My cabin where I lay, thrice bowed before me,
 And, gasping to begin some speech, her eyes
 Became two spouts. The fury spent, anon
-Did this break from her: "&ldquo;Good Antigonus,
+Did this break from her: &ldquo;Good Antigonus,
 Since fate, against thy better disposition,
 Hath made thy person for the thrower-out
 Of my poor babe, according to thine oath,
@@ -2233,7 +2233,7 @@ There weep, and leave it crying. And, for the babe
 Is counted lost forever, Perdita
 I prithee call &rsquo;t. For this ungentle business
 Put on thee by my lord, thou ne&rsquo;er shalt see
-Thy wife Paulina more.&rdquo;" And so, with shrieks,
+Thy wife Paulina more.&rdquo; And so, with shrieks,
 She melted into air. Affrighted much,
 I did in time collect myself and thought
 This was so and no slumber. Dreams are toys,
@@ -3021,13 +3021,13 @@ He hath songs for man or woman, of all sizes.
 No milliner can so fit his customers with gloves. He
 has the prettiest love songs for maids, so without
 bawdry, which is strange, with such delicate burdens
-of dildos and fadings, "&ldquo;Jump her and thump
-her.&rdquo;" And where some stretch-mouthed rascal
+of dildos and fadings, &ldquo;Jump her and thump
+her.&rdquo; And where some stretch-mouthed rascal
 would, as it were, mean mischief and break a foul
 gap into the matter, he makes the maid to answer
-"&ldquo;Whoop, do me no harm, good man&rdquo;"; puts him off,
-slights him, with "&ldquo;Whoop, do me no harm, good
-man.&rdquo;"
+&ldquo;Whoop, do me no harm, good man&rdquo;; puts him off,
+slights him, with &ldquo;Whoop, do me no harm, good
+man.&rdquo;
 
 <speaker>POLIXENES</speaker>
 This is a brave fellow.
@@ -3183,7 +3183,7 @@ Let&rsquo;s have some merry ones.
 
 <speaker>AUTOLYCUS</speaker>
 Why, this is a passing merry one and goes
-to the tune of "&ldquo;Two Maids Wooing a Man.&rdquo;" There&rsquo;s
+to the tune of &ldquo;Two Maids Wooing a Man.&rdquo; There&rsquo;s
 scarce a maid westward but she sings it. &rsquo;Tis in
 request, I can tell you.
 
@@ -4147,7 +4147,7 @@ great authority. Close with him, give him gold; and
 though authority be a stubborn bear, yet he is oft
 led by the nose with gold. Show the inside of your
 purse to the outside of his hand, and no more ado.
-Remember: "&ldquo;stoned,&rdquo;" and "&ldquo;flayed alive.&rdquo;"
+Remember: &ldquo;stoned,&rdquo; and &ldquo;flayed alive.&rdquo;
 
 <speaker>SHEPHERD</speaker>
 [<i>to Autolycus</i>]
@@ -4308,7 +4308,7 @@ No more such wives, therefore no wife. One worse,
 And better used, would make her sainted spirit
 Again possess her corpse, and on this stage,
 Where we offenders now appear, soul-vexed,
-And begin "&ldquo;Why to me?&rdquo;"
+And begin &ldquo;Why to me?&rdquo;
 
 <speaker>PAULINA</speaker>
 Had she such power,
@@ -4324,7 +4324,7 @@ Were I the ghost that walked, I&rsquo;d bid you mark
 Her eye, and tell me for what dull part in &rsquo;t
 You chose her. Then I&rsquo;d shriek, that even your ears
 Should rift to hear me, and the words that followed
-Should be "&ldquo;Remember mine.&rdquo;"
+Should be &ldquo;Remember mine.&rdquo;
 
 <speaker>LEONTES</speaker>
 Stars, stars,
@@ -4593,7 +4593,7 @@ She is
 When once she is my wife.
 
 <speaker>LEONTES</speaker>
-That "&ldquo;once,&rdquo;" I see, by your good father&rsquo;s speed
+That &ldquo;once,&rdquo; I see, by your good father&rsquo;s speed
 Will come on very slowly. I am sorry,
 Most sorry, you have broken from his liking,
 Where you were tied in duty, and as sorry
@@ -4713,7 +4713,7 @@ countenance of such distraction that they were to
 be known by garment, not by favor. Our king, being
 ready to leap out of himself for joy of his found
 daughter, as if that joy were now become a loss,
-cries "&ldquo;O, thy mother, thy mother!&rdquo;" then asks Bohemia
+cries &ldquo;O, thy mother, thy mother!&rdquo; then asks Bohemia
 forgiveness, then embraces his son-in-law, then
 again worries he his daughter with clipping her.
 Now he thanks the old shepherd, which stands by
@@ -4765,7 +4765,7 @@ of the Queen&rsquo;s death&mdash;with the manner how
 she came to &rsquo;t bravely confessed and lamented by
 the King&mdash;how attentiveness wounded his daughter,
 till, from one sign of dolor to another, she did,
-with an "&ldquo;Alas,&rdquo;" I would fain say bleed tears, for I am
+with an &ldquo;Alas,&rdquo; I would fain say bleed tears, for I am
 sure my heart wept blood. Who was most marble
 there changed color; some swooned, all sorrowed.
 If all the world could have seen &rsquo;t, the woe had been

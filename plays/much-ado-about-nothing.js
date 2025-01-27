@@ -314,9 +314,9 @@ short daughter.
 
 CLAUDIO  If this were so, so were it uttered.
 
-BENEDICK  Like the old tale, my lord: "&ldquo;It is not so, nor
+BENEDICK  Like the old tale, my lord: &ldquo;It is not so, nor
 &rsquo;twas not so, but, indeed, God forbid it should be
-so.&rdquo;"
+so.&rdquo;
 
 CLAUDIO  If my passion change not shortly, God forbid
 it should be otherwise.
@@ -380,9 +380,9 @@ In time the savage bull doth bear the yoke.
 BENEDICK  The savage bull may, but if ever the sensible
 Benedick bear it, pluck off the bull&rsquo;s horns and set
 them in my forehead, and let me be vilely painted,
-and in such great letters as they write "&ldquo;Here is good
-horse to hire&rdquo;" let them signify under my sign "&ldquo;Here
-you may see Benedick the married man.&rdquo;"
+and in such great letters as they write &ldquo;Here is good
+horse to hire&rdquo; let them signify under my sign &ldquo;Here
+you may see Benedick the married man.&rdquo;
 
 CLAUDIO  If this should ever happen, thou wouldst be
 horn-mad.
@@ -688,8 +688,8 @@ LEONATO&rsquo;S BROTHER  In faith, she&rsquo;s too curst.
 
 <speaker>BEATRICE</speaker>
 Too curst is more than curst. I shall lessen
-God&rsquo;s sending that way, for it is said "&ldquo;God sends a
-curst cow short horns,&rdquo;" but to a cow too curst, he
+God&rsquo;s sending that way, for it is said &ldquo;God sends a
+curst cow short horns,&rdquo; but to a cow too curst, he
 sends none.
 
 <speaker>LEONATO</speaker>
@@ -723,8 +723,8 @@ Well then, go you into hell?
 <speaker>BEATRICE</speaker>
 No, but to the gate, and there will the devil
 meet me like an old cuckold with horns on his
-head, and say "&ldquo;Get you to heaven, Beatrice, get you
-to heaven; here&rsquo;s no place for you maids.&rdquo;" So deliver
+head, and say &ldquo;Get you to heaven, Beatrice, get you
+to heaven; here&rsquo;s no place for you maids.&rdquo; So deliver
 I up my apes and away to Saint Peter; for the
 heavens, he shows me where the bachelors sit, and
 there live we as merry as the day is long.
@@ -735,10 +735,10 @@ will be ruled by your father.
 
 <speaker>BEATRICE</speaker>
 Yes, faith, it is my cousin&rsquo;s duty to make
-curtsy and say "&ldquo;Father, as it please you.&rdquo;" But yet for
+curtsy and say &ldquo;Father, as it please you.&rdquo; But yet for
 all that, cousin, let him be a handsome fellow, or
-else make another curtsy and say "&ldquo;Father, as it
-please me.&rdquo;"
+else make another curtsy and say &ldquo;Father, as it
+please me.&rdquo;
 
 <speaker>LEONATO</speaker>
 Well, niece, I hope to see you one day fitted
@@ -837,7 +837,7 @@ I say my prayers aloud.
 
 <speaker>BENEDICK</speaker>
 I love you the better; the hearers may cry
-"&ldquo;Amen.&rdquo;"
+&ldquo;Amen.&rdquo;
 
 <speaker>MARGARET</speaker>
 God match me with a good dancer.
@@ -1195,7 +1195,7 @@ and God give thee joy.
 <speaker>LEONATO</speaker>
 Count, take of me my daughter, and with her
 my fortunes. His Grace hath made the match, and
-all grace say "&ldquo;Amen&rdquo;" to it.
+all grace say &ldquo;Amen&rdquo; to it.
 
 <speaker>BEATRICE</speaker>
 Speak, count, &rsquo;tis your cue.
@@ -1224,7 +1224,7 @@ And so she doth, cousin.
 <speaker>BEATRICE</speaker>
 Good Lord for alliance! Thus goes everyone
 to the world but I, and I am sunburnt. I may sit in a
-corner and cry "&ldquo;Heigh-ho for a husband!&rdquo;"
+corner and cry &ldquo;Heigh-ho for a husband!&rdquo;
 
 <speaker>PRINCE</speaker>
 Lady Beatrice, I will get you one.
@@ -1412,8 +1412,8 @@ with the semblance of a maid, that you have discovered
 thus. They will scarcely believe this without
 trial. Offer them instances, which shall bear no less
 likelihood than to see me at her chamber window,
-hear me call Margaret "&ldquo;Hero,&rdquo;" hear Margaret term
-me "&ldquo;Claudio,&rdquo;" and bring them to see this the very
+hear me call Margaret &ldquo;Hero,&rdquo; hear Margaret term
+me &ldquo;Claudio,&rdquo; and bring them to see this the very
 night before the intended wedding, for in the meantime
 I will so fashion the matter that Hero shall be
 absent, and there shall appear such seeming truth
@@ -1674,9 +1674,9 @@ No, and swears she never will. That&rsquo;s her
 torment.
 
 <speaker>CLAUDIO</speaker>
-&rsquo;Tis true indeed, so your daughter says. "&ldquo;Shall
-I,&rdquo;" says she, "&ldquo;that have so oft encountered him with
-scorn, write to him that I love him?&rdquo;"
+&rsquo;Tis true indeed, so your daughter says. &ldquo;Shall
+I,&rdquo; says she, &ldquo;that have so oft encountered him with
+scorn, write to him that I love him?&rdquo;
 
 <speaker>LEONATO</speaker>
 This says she now when she is beginning to
@@ -1690,7 +1690,7 @@ a pretty jest your daughter told us of.
 
 <speaker>LEONATO</speaker>
 O, when she had writ it and was reading it
-over, she found "&ldquo;Benedick&rdquo;" and "&ldquo;Beatrice&rdquo;" between
+over, she found &ldquo;Benedick&rdquo; and &ldquo;Beatrice&rdquo; between
 the sheet?
 
 <speaker>CLAUDIO</speaker>
@@ -1700,14 +1700,14 @@ That.
 O, she tore the letter into a thousand halfpence,
 railed at herself that she should be so
 immodest to write to one that she knew would flout
-her. "&ldquo;I measure him,&rdquo;" says she, "&ldquo;by my own spirit,
+her. &ldquo;I measure him,&rdquo; says she, &ldquo;by my own spirit,
 for I should flout him if he writ to me, yea, though I
-love him, I should.&rdquo;"
+love him, I should.&rdquo;
 
 <speaker>CLAUDIO</speaker>
 Then down upon her knees she falls, weeps,
 sobs, beats her heart, tears her hair, prays, curses:
-"&ldquo;O sweet Benedick, God give me patience!&rdquo;"
+&ldquo;O sweet Benedick, God give me patience!&rdquo;
 
 <speaker>LEONATO</speaker>
 She doth indeed, my daughter says so, and
@@ -1881,12 +1881,12 @@ knife&rsquo;s point and choke a daw withal. You have no
 stomach, signior. Fare you well.	[<i>She exits.</i>]
 
 <speaker>BENEDICK</speaker>
-Ha! "&ldquo;Against my will I am sent to bid you
-come in to dinner.&rdquo;" There&rsquo;s a double meaning in
-that. "&ldquo;I took no more pains for those thanks than
-you took pains to thank me.&rdquo;" That&rsquo;s as much as to
-say "&ldquo;Any pains that I take for you is as easy as
-thanks.&rdquo;" If I do not take pity of her, I am a villain; if I
+Ha! &ldquo;Against my will I am sent to bid you
+come in to dinner.&rdquo; There&rsquo;s a double meaning in
+that. &ldquo;I took no more pains for those thanks than
+you took pains to thank me.&rdquo; That&rsquo;s as much as to
+say &ldquo;Any pains that I take for you is as easy as
+thanks.&rdquo; If I do not take pity of her, I am a villain; if I
 do not love her, I am a Jew. I will go get her picture.
 [<i>He exits.</i>]
 
@@ -2738,10 +2738,10 @@ Fie upon thee! Art not ashamed?
 Of what, lady? Of speaking honorably? Is
 not marriage honorable in a beggar? Is not your
 lord honorable without marriage? I think you
-would have me say "&ldquo;Saving your reverence, a husband.&rdquo;"
+would have me say &ldquo;Saving your reverence, a husband.&rdquo;
 An bad thinking do not wrest true speaking,
-I&rsquo;ll offend nobody. Is there any harm in "&ldquo;the heavier
-for a husband&rdquo;"? None, I think, an it be the right
+I&rsquo;ll offend nobody. Is there any harm in &ldquo;the heavier
+for a husband&rdquo;? None, I think, an it be the right
 husband and the right wife. Otherwise, &rsquo;tis light and
 not heavy. Ask my lady Beatrice else. Here she
 comes.
@@ -2761,7 +2761,7 @@ Why, how now? Do you speak in the sick tune?
 I am out of all other tune, methinks.
 
 <speaker>MARGARET</speaker>
-Clap &rsquo;s into "&ldquo;Light o&rsquo; love.&rdquo;" That goes
+Clap &rsquo;s into &ldquo;Light o&rsquo; love.&rdquo; That goes
 without a burden. Do you sing it, and I&rsquo;ll dance it.
 
 <speaker>BEATRICE</speaker>
@@ -2933,7 +2933,7 @@ knaves as any in Messina.
 
 <speaker>DOGBERRY</speaker>
 A good old man, sir. He will be talking. As
-they say, "&ldquo;When the age is in, the wit is out.&rdquo;" God
+they say, &ldquo;When the age is in, the wit is out.&rdquo; God
 help us, it is a world to see!&mdash;Well said, i&rsquo; faith,
 neighbor Verges.&mdash;Well, God&rsquo;s a good man. An two
 men ride of a horse, one must ride behind. An
@@ -3252,8 +3252,8 @@ Why ever wast thou lovely in my eyes?
 Why had I not with charitable hand
 Took up a beggar&rsquo;s issue at my gates,
 Who, smirched thus, and mired with infamy,
-I might have said "&ldquo;No part of it is mine;
-This shame derives itself from unknown loins&rdquo;"?
+I might have said &ldquo;No part of it is mine;
+This shame derives itself from unknown loins&rdquo;?
 But mine, and mine I loved, and mine I praised,
 And mine that I was proud on, mine so much
 That I myself was to myself not mine,
@@ -3628,7 +3628,7 @@ What is your name, friend?
 Borachio.
 
 <speaker>DOGBERRY</speaker>
-Pray, write down "&ldquo;Borachio."&mdash;Yours,
+Pray, write down &ldquo;Borachio.&rdquo;&mdash;Yours,
 sirrah?
 
 <speaker>CONRADE</speaker>
@@ -3636,7 +3636,7 @@ I am a gentleman, sir, and my name is
 Conrade.
 
 <speaker>DOGBERRY</speaker>
-Write down "&ldquo;Master Gentleman Conrade."&mdash;
+Write down &ldquo;Master Gentleman Conrade.&rdquo;&mdash;
 Masters, do you serve God?
 
 <speaker>BORACHIO/CONRADE</speaker>
@@ -3746,7 +3746,7 @@ Off, coxcomb!
 
 <speaker>DOGBERRY</speaker>
 God&rsquo;s my life, where&rsquo;s the Sexton? Let
-him write down the Prince&rsquo;s officer "&ldquo;coxcomb.&rdquo;"
+him write down the Prince&rsquo;s officer &ldquo;coxcomb.&rdquo;
 Come, bind them.&mdash;Thou naughty varlet!
 
 <speaker>CONRADE</speaker>
@@ -3793,7 +3793,7 @@ And let it answer every strain for strain,
 As thus for thus, and such a grief for such,
 In every lineament, branch, shape, and form.
 If such a one will smile and stroke his beard,
-Bid sorrow wag, cry "&ldquo;hem&rdquo;" when he should
+Bid sorrow wag, cry &ldquo;hem&rdquo; when he should
 groan,
 Patch grief with proverbs, make misfortune drunk
 With candle-wasters, bring him yet to me,
@@ -4075,16 +4075,16 @@ Sir, your wit ambles well; it goes easily.
 
 <speaker>PRINCE</speaker>
 I&rsquo;ll tell thee how Beatrice praised thy wit the
-other day. I said thou hadst a fine wit. "&ldquo;True,&rdquo;" said
-she, "&ldquo;a fine little one.&rdquo;" "&ldquo;No,&rdquo;" said I, "&ldquo;a great wit.&rdquo;"
-"&ldquo;Right,&rdquo;" says she, "&ldquo;a great gross one.&rdquo;" "&ldquo;Nay,&rdquo;" said I,
-"&ldquo;a good wit.&rdquo;" "&ldquo;Just,&rdquo;" said she, "&ldquo;it hurts nobody.&rdquo;"
-"&ldquo;Nay,&rdquo;" said I, "&ldquo;the gentleman is wise.&rdquo;" "&ldquo;Certain,&rdquo;"
-said she, "&ldquo;a wise gentleman.&rdquo;" "&ldquo;Nay,&rdquo;" said I, "&ldquo;he
-hath the tongues.&rdquo;" "&ldquo;That I believe,&rdquo;" said she, "&ldquo;for he
+other day. I said thou hadst a fine wit. &ldquo;True,&rdquo; said
+she, &ldquo;a fine little one.&rdquo; &ldquo;No,&rdquo; said I, &ldquo;a great wit.&rdquo;
+&ldquo;Right,&rdquo; says she, &ldquo;a great gross one.&rdquo; &ldquo;Nay,&rdquo; said I,
+&ldquo;a good wit.&rdquo; &ldquo;Just,&rdquo; said she, &ldquo;it hurts nobody.&rdquo;
+&ldquo;Nay,&rdquo; said I, &ldquo;the gentleman is wise.&rdquo; &ldquo;Certain,&rdquo;
+said she, &ldquo;a wise gentleman.&rdquo; &ldquo;Nay,&rdquo; said I, &ldquo;he
+hath the tongues.&rdquo; &ldquo;That I believe,&rdquo; said she, &ldquo;for he
 swore a thing to me on Monday night which he
 forswore on Tuesday morning; there&rsquo;s a double
-tongue, there&rsquo;s two tongues.&rdquo;" Thus did she an hour
+tongue, there&rsquo;s two tongues.&rdquo; Thus did she an hour
 together transshape thy particular virtues. Yet at
 last she concluded with a sigh, thou wast the
 proper&rsquo;st man in Italy.
@@ -4107,8 +4107,8 @@ But when shall we set the savage bull&rsquo;s horns
 on the sensible Benedick&rsquo;s head?
 
 <speaker>CLAUDIO</speaker>
-Yea, and text underneath: "&ldquo;Here dwells Benedick,
-the married man&rdquo;"?
+Yea, and text underneath: &ldquo;Here dwells Benedick,
+the married man&rdquo;?
 
 <speaker>BENEDICK</speaker>
 Fare you well, boy. You know my mind. I
@@ -4435,9 +4435,9 @@ whose names yet run smoothly in the even
 road of a blank verse, why, they were never so truly
 turned over and over as my poor self in love. Marry,
 I cannot show it in rhyme. I have tried. I can find out
-no rhyme to "&ldquo;lady&rdquo;" but "&ldquo;baby"&mdash;an innocent
-rhyme; for "&ldquo;scorn,&rdquo;" "&ldquo;horn"&mdash;a hard rhyme; for
-"&ldquo;school,&rdquo;" "&ldquo;fool"&mdash;a babbling rhyme; very ominous
+no rhyme to &ldquo;lady&rdquo; but &ldquo;baby&rdquo;&mdash;an innocent
+rhyme; for &ldquo;scorn,&rdquo; &ldquo;horn&rdquo;&mdash;a hard rhyme; for
+&ldquo;school,&rdquo; &ldquo;fool&rdquo;&mdash;a babbling rhyme; very ominous
 endings. No, I was not born under a rhyming
 planet, nor I cannot woo in festival terms.
 
@@ -4453,7 +4453,7 @@ Yea, signior, and depart when you bid me.
 O, stay but till then!
 
 <speaker>BEATRICE</speaker>
-"&ldquo;Then&rdquo;" is spoken. Fare you well now. And
+&ldquo;Then&rdquo; is spoken. Fare you well now. And
 yet, ere I go, let me go with that I came, which is,
 with knowing what hath passed between you and
 Claudio.

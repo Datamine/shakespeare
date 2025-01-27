@@ -112,7 +112,7 @@ See riot and dishonor stain the brow
 Of my young Harry. O, that it could be proved
 That some night-tripping fairy had exchanged
 In cradle-clothes our children where they lay,
-And called mine "&ldquo;Percy,&rdquo;" his "&ldquo;Plantagenet&rdquo;"!
+And called mine &ldquo;Percy,&rdquo; his &ldquo;Plantagenet&rdquo;!
 Then would I have his Harry, and he mine.
 But let him from my thoughts. What think you, coz,
 Of this young Percy&rsquo;s pride? The prisoners
@@ -195,8 +195,8 @@ flow like the sea, being governed, as the sea is, by
 the moon. As for proof now: a purse of gold most
 resolutely snatched on Monday night and most
 dissolutely spent on Tuesday morning, got with
-swearing "&ldquo;Lay by&rdquo;" and spent with crying "&ldquo;Bring
-in&rdquo;"; now in as low an ebb as the foot of the ladder,
+swearing &ldquo;Lay by&rdquo; and spent with crying &ldquo;Bring
+in&rdquo;; now in as low an ebb as the foot of the ladder,
 and by and by in as high a flow as the ridge of the
 gallows.
 
@@ -325,7 +325,7 @@ for a man to labor in his vocation.
 Poins!&mdash;Now shall we know if Gadshill have set a
 match. O, if men were to be saved by merit, what
 hole in hell were hot enough for him? This is the
-most omnipotent villain that ever cried "&ldquo;Stand!&rdquo;" to
+most omnipotent villain that ever cried &ldquo;Stand!&rdquo; to
 a true man.
 
 <speaker>PRINCE</speaker>
@@ -800,9 +800,9 @@ Nay, I will. That&rsquo;s flat!
 He said he would not ransom Mortimer,
 Forbade my tongue to speak of Mortimer.
 But I will find him when he lies asleep,
-And in his ear I&rsquo;ll hollo "&ldquo;Mortimer.&rdquo;"
+And in his ear I&rsquo;ll hollo &ldquo;Mortimer.&rdquo;
 Nay, I&rsquo;ll have a starling shall be taught to speak
-Nothing but "&ldquo;Mortimer,&rdquo;" and give it him
+Nothing but &ldquo;Mortimer,&rdquo; and give it him
 To keep his anger still in motion.
 
 <speaker>WORCESTER</speaker>
@@ -846,8 +846,8 @@ At Berkeley Castle.
 You say true.
 Why, what a candy deal of courtesy
 This fawning greyhound then did proffer me:
-"&ldquo;Look when his infant fortune came to age,&rdquo;"
-And "&ldquo;gentle Harry Percy,&rdquo;" and "&ldquo;kind cousin.&rdquo;"
+&ldquo;Look when his infant fortune came to age,&rdquo;
+And &ldquo;gentle Harry Percy,&rdquo; and &ldquo;kind cousin.&rdquo;
 O, the devil take such cozeners!&mdash;God forgive me!
 Good uncle, tell your tale. I have done.
 
@@ -1016,8 +1016,8 @@ two of that, i&rsquo; faith.
 thine.
 
 <speaker>SECOND CARRIER</speaker>
-Ay, when, canst tell? "&ldquo;Lend me thy
-lantern,&rdquo;" quoth he. Marry, I&rsquo;ll see thee hanged
+Ay, when, canst tell? &ldquo;Lend me thy
+lantern,&rdquo; quoth he. Marry, I&rsquo;ll see thee hanged
 first.
 
 <speaker>GADSHILL</speaker>
@@ -1040,8 +1040,8 @@ What ho, chamberlain!
 At hand, quoth pickpurse.
 
 <speaker>GADSHILL</speaker>
-That&rsquo;s even as fair as "&ldquo;at hand, quoth the
-Chamberlain,&rdquo;" for thou variest no more from
+That&rsquo;s even as fair as &ldquo;at hand, quoth the
+Chamberlain,&rdquo; for thou variest no more from
 picking of purses than giving direction doth from
 laboring: thou layest the plot how.
 
@@ -1412,7 +1412,7 @@ To thick-eyed musing and curst melancholy?
 In thy faint slumbers I by thee have watched,
 And heard thee murmur tales of iron wars,
 Speak terms of manage to thy bounding steed,
-Cry "&ldquo;Courage! To the field!&rdquo;" And thou hast talked
+Cry &ldquo;Courage! To the field!&rdquo; And thou hast talked
 Of sallies and retires, of trenches, tents,
 Of palisadoes, frontiers, parapets,
 Of basilisks, of cannon, culverin,
@@ -1554,9 +1554,9 @@ and tell me flatly I am no proud jack, like Falstaff,
 but a Corinthian, a lad of mettle, a good boy&mdash;by
 the Lord, so they call me&mdash;and when I am king of
 England, I shall command all the good lads in
-Eastcheap. They call drinking deep "&ldquo;dyeing scarlet,&rdquo;"
+Eastcheap. They call drinking deep &ldquo;dyeing scarlet,&rdquo;
 and when you breathe in your watering, they
-cry "&ldquo;Hem!&rdquo;" and bid you "&ldquo;Play it off!&rdquo;" To conclude, I
+cry &ldquo;Hem!&rdquo; and bid you &ldquo;Play it off!&rdquo; To conclude, I
 am so good a proficient in one quarter of an hour
 that I can drink with any tinker in his own language
 during my life. I tell thee, Ned, thou hast lost much
@@ -1564,15 +1564,15 @@ honor that thou wert not with me in this action; but,
 sweet Ned&mdash;to sweeten which name of Ned, I give
 thee this pennyworth of sugar, clapped even now
 into my hand by an underskinker, one that never
-spake other English in his life than "&ldquo;Eight shillings
-and sixpence,&rdquo;" and "&ldquo;You are welcome,&rdquo;" with this
-shrill addition, "&ldquo;Anon, anon, sir.&mdash;Score a pint of
-bastard in the Half-moon,&rdquo;" or so. But, Ned, to
+spake other English in his life than &ldquo;Eight shillings
+and sixpence,&rdquo; and &ldquo;You are welcome,&rdquo; with this
+shrill addition, &ldquo;Anon, anon, sir.&mdash;Score a pint of
+bastard in the Half-moon,&rdquo; or so. But, Ned, to
 drive away the time till Falstaff come, I prithee, do
 thou stand in some by-room while I question my
 puny drawer to what end he gave me the sugar, and
-do thou never leave calling "&ldquo;Francis,&rdquo;" that his tale
-to me may be nothing but "&ldquo;Anon.&rdquo;" Step aside, and
+do thou never leave calling &ldquo;Francis,&rdquo; that his tale
+to me may be nothing but &ldquo;Anon.&rdquo; Step aside, and
 I&rsquo;ll show thee a precedent.	[<i>Poins exits.</i>]
 
 <speaker>POINS</speaker>
@@ -1743,14 +1743,14 @@ industry is upstairs and downstairs, his eloquence
 the parcel of a reckoning. I am not yet of Percy&rsquo;s
 mind, the Hotspur of the north, he that kills me
 some six or seven dozen of Scots at a breakfast,
-washes his hands, and says to his wife "&ldquo;Fie upon
-this quiet life! I want work.&rdquo;" "&ldquo;O my sweet Harry,&rdquo;"
-says she, "&ldquo;how many hast thou killed today?&rdquo;"
-"&ldquo;Give my roan horse a drench,&rdquo;" says he, and answers
-"&ldquo;Some fourteen,&rdquo;" an hour after. "&ldquo;A trifle, a
-trifle.&rdquo;" I prithee, call in Falstaff. I&rsquo;ll play Percy,
+washes his hands, and says to his wife &ldquo;Fie upon
+this quiet life! I want work.&rdquo; &ldquo;O my sweet Harry,&rdquo;
+says she, &ldquo;how many hast thou killed today?&rdquo;
+&ldquo;Give my roan horse a drench,&rdquo; says he, and answers
+&ldquo;Some fourteen,&rdquo; an hour after. &ldquo;A trifle, a
+trifle.&rdquo; I prithee, call in Falstaff. I&rsquo;ll play Percy,
 and that damned brawn shall play Dame Mortimer
-his wife. "&ldquo;Rivo!&rdquo;" says the drunkard. Call in
+his wife. &ldquo;Rivo!&rdquo; says the drunkard. Call in
 Ribs, call in Tallow.
 
 [<i>Enter Falstaff, Gadshill, Peto, Bardolph;
@@ -2780,7 +2780,7 @@ A virtue that was never seen in you.
 
 <speaker>HOTSPUR</speaker>
 Marry, and I am glad of it with all my heart.
-I had rather be a kitten and cry "&ldquo;mew&rdquo;"
+I had rather be a kitten and cry &ldquo;mew&rdquo;
 Than one of these same meter balladmongers.
 I had rather hear a brazen can&rsquo;stick turned,
 Or a dry wheel grate on the axletree,
@@ -2819,8 +2819,8 @@ And such a deal of skimble-skamble stuff
 As puts me from my faith. I tell you what&mdash;
 He held me last night at least nine hours
 In reckoning up the several devils&rsquo; names
-That were his lackeys. I cried "&ldquo;Hum,&rdquo;" and "&ldquo;Well, go
-to,&rdquo;"
+That were his lackeys. I cried &ldquo;Hum,&rdquo; and &ldquo;Well, go
+to,&rdquo;
 But marked him not a word. O, he is as tedious
 As a tired horse, a railing wife,
 Worse than a smoky house. I had rather live
@@ -2982,13 +2982,13 @@ Not mine, in good sooth.
 
 <speaker>HOTSPUR</speaker>
 Not yours, in good sooth! Heart, you swear
-like a comfit-maker&rsquo;s wife! "&ldquo;Not you, in good
-sooth,&rdquo;" and "&ldquo;as true as I live,&rdquo;" and "&ldquo;as God shall
-mend me,&rdquo;" and "&ldquo;as sure as day"&mdash;
+like a comfit-maker&rsquo;s wife! &ldquo;Not you, in good
+sooth,&rdquo; and &ldquo;as true as I live,&rdquo; and &ldquo;as God shall
+mend me,&rdquo; and &ldquo;as sure as day&rdquo;&mdash;
 And givest such sarcenet surety for thy oaths
 As if thou never walk&rsquo;st further than Finsbury.
 Swear me, Kate, like a lady as thou art,
-A good mouth-filling oath, and leave "&ldquo;in sooth,&rdquo;"
+A good mouth-filling oath, and leave &ldquo;in sooth,&rdquo;
 And such protest of pepper-gingerbread
 To velvet-guards and Sunday citizens.
 Come, sing.
@@ -3071,8 +3071,8 @@ And left me in reputeless banishment,
 A fellow of no mark nor likelihood.
 By being seldom seen, I could not stir
 But like a comet I was wondered at,
-That men would tell their children "&ldquo;This is he.&rdquo;"
-Others would say "&ldquo;Where? Which is Bolingbroke?&rdquo;"
+That men would tell their children &ldquo;This is he.&rdquo;
+Others would say &ldquo;Where? Which is Bolingbroke?&rdquo;
 And then I stole all courtesy from heaven,
 And dressed myself in such humility
 That I did pluck allegiance from men&rsquo;s hearts,
@@ -3276,7 +3276,7 @@ mori. I never see thy face but I think upon hellfire
 and Dives that lived in purple, for there he is in his
 robes, burning, burning. If thou wert any way given
 to virtue, I would swear by thy face. My oath should
-be "&ldquo;By this fire, that&rsquo;s God&rsquo;s angel.&rdquo;" But thou art
+be &ldquo;By this fire, that&rsquo;s God&rsquo;s angel.&rdquo; But thou art
 altogether given over, and wert indeed, but for the
 light in thy face, the son of utter darkness. When
 thou ran&rsquo;st up Gad&rsquo;s Hill in the night to catch my
@@ -3481,7 +3481,7 @@ A thousand pound, Hal? A million. Thy love is
 worth a million; thou owest me thy love.
 
 <speaker>HOSTESS</speaker>
-Nay, my lord, he called you "&ldquo;jack,&rdquo;" and said
+Nay, my lord, he called you &ldquo;jack,&rdquo; and said
 he would cudgel you.
 
 <speaker>FALSTAFF</speaker>
@@ -4392,7 +4392,7 @@ off when I come on? How then? Can honor set to a
 leg? No. Or an arm? No. Or take away the grief of a
 wound? No. Honor hath no skill in surgery, then?
 No. What is honor? A word. What is in that word
-"&ldquo;honor&rdquo;"? What is that "&ldquo;honor&rdquo;"? Air. A trim reckoning.
+&ldquo;honor&rdquo;? What is that &ldquo;honor&rdquo;? Air. A trim reckoning.
 Who hath it? He that died o&rsquo; Wednesday. Doth
 he feel it? No. Doth he hear it? No. &rsquo;Tis insensible,
 then? Yea, to the dead. But will it not live with the
@@ -4474,7 +4474,7 @@ Did you beg any? God forbid!
 I told him gently of our grievances,
 Of his oath-breaking, which he mended thus
 By now forswearing that he is forsworn.
-He calls us "&ldquo;rebels,&rdquo;" "&ldquo;traitors,&rdquo;" and will scourge
+He calls us &ldquo;rebels,&rdquo; &ldquo;traitors,&rdquo; and will scourge
 With haughty arms this hateful name in us.
 
 [<i>Enter Douglas.</i>]

@@ -35,7 +35,7 @@ with hope, and finds no other advantage in the
 process but only the losing of hope by time.
 
 COUNTESS  This young gentlewoman had a father&mdash;O,
-that "&ldquo;had,&rdquo;" how sad a passage &rsquo;tis!&mdash;whose skill
+that &ldquo;had,&rdquo; how sad a passage &rsquo;tis!&mdash;whose skill
 was almost as great as his honesty; had it stretched
 so far, would have made nature immortal, and
 death should have play for lack of work. Would for
@@ -415,15 +415,15 @@ As in your royal speech.
 Would I were with him! He would always say&mdash;
 Methinks I hear him now; his plausive words
 He scattered not in ears, but grafted them
-To grow there and to bear. "&ldquo;Let me not live"&mdash;
+To grow there and to bear. &ldquo;Let me not live&rdquo;&mdash;
 This his good melancholy oft began
 On the catastrophe and heel of pastime,
-When it was out&mdash;"Let me not live,&rdquo;" quoth he,
-"&ldquo;After my flame lacks oil, to be the snuff
+When it was out&mdash;&ldquo;Let me not live,&rdquo; quoth he,
+&ldquo;After my flame lacks oil, to be the snuff
 Of younger spirits, whose apprehensive senses
 All but new things disdain, whose judgments are
 Mere fathers of their garments, whose constancies
-Expire before their fashions.&rdquo;" This he wished.
+Expire before their fashions.&rdquo; This he wished.
 I, after him, do after him wish too,
 Since I nor wax nor honey can bring home,
 I quickly were dissolved from my hive
@@ -580,16 +580,16 @@ with her&mdash;Helen, I mean.
 
 <speaker>FOOL</speaker>
 [<i>sings</i>]
-	"&ldquo;Was this fair face the cause,&rdquo;" quoth she,
-	   "&ldquo;Why the Grecians sacked Troy?
+	&ldquo;Was this fair face the cause,&rdquo; quoth she,
+	   &ldquo;Why the Grecians sacked Troy?
 	Fond done, done fond.
-	   Was this King Priam&rsquo;s joy?&rdquo;"
+	   Was this King Priam&rsquo;s joy?&rdquo;
 	With that she sighed as she stood,
 	With that she sighed as she stood,
 	   And gave this sentence then:
-	"&ldquo;Among nine bad if one be good,
+	&ldquo;Among nine bad if one be good,
 	Among nine bad if one be good,
-	   There&rsquo;s yet one good in ten.&rdquo;"
+	   There&rsquo;s yet one good in ten.&rdquo;
 
 <speaker>COUNTESS</speaker>
 What, one good in ten? You corrupt the
@@ -682,8 +682,8 @@ Mine honorable mistress.
 
 <speaker>COUNTESS</speaker>
 Nay, a mother.
-Why not a mother? When I said "&ldquo;a mother,&rdquo;"
-Methought you saw a serpent. What&rsquo;s in "&ldquo;mother&rdquo;"
+Why not a mother? When I said &ldquo;a mother,&rdquo;
+Methought you saw a serpent. What&rsquo;s in &ldquo;mother&rdquo;
 That you start at it? I say I am your mother
 And put you in the catalogue of those
 That were enwombed mine. &rsquo;Tis often seen
@@ -725,7 +725,7 @@ But, I your daughter, he must be my brother?
 
 <speaker>COUNTESS</speaker>
 Yes, Helen, you might be my daughter-in-law.
-God shield you mean it not! "&ldquo;Daughter&rdquo;" and "&ldquo;mother&rdquo;"
+God shield you mean it not! &ldquo;Daughter&rdquo; and &ldquo;mother&rdquo;
 So strive upon your pulse. What, pale again?
 My fear hath catched your fondness! Now I see
 The mystery of your loneliness and find
@@ -929,8 +929,8 @@ Most admirable. I have seen those wars.
 
 <speaker>BERTRAM</speaker>
 I am commanded here and kept a coil
-With "&ldquo;Too young,&rdquo;" and "&ldquo;The next year,&rdquo;" and "&ldquo;&rsquo;Tis
-too early.&rdquo;"
+With &ldquo;Too young,&rdquo; and &ldquo;The next year,&rdquo; and &ldquo;&rsquo;Tis
+too early.&rdquo;
 
 <speaker>PAROLLES</speaker>
 An thy mind stand to &rsquo;t, boy, steal away bravely.
@@ -1040,7 +1040,7 @@ To give great Charlemagne a pen in &rsquo;s hand
 And write to her a love line.
 
 <speaker>KING</speaker>
-What "&ldquo;her&rdquo;" is this?
+What &ldquo;her&rdquo; is this?
 
 <speaker>LAFEW</speaker>
 Why, Doctor She. My lord, there&rsquo;s one arrived,
@@ -1257,9 +1257,9 @@ I will show myself highly fed and lowly taught. I
 know my business is but to the court.
 
 <speaker>COUNTESS</speaker>
-"&ldquo;To the court&rdquo;"? Why, what place make you
+&ldquo;To the court&rdquo;? Why, what place make you
 special when you put off that with such contempt?
-"&ldquo;But to the court&rdquo;"?
+&ldquo;But to the court&rdquo;?
 
 <speaker>FOOL</speaker>
 Truly, madam, if God have lent a man any manners,
@@ -1339,14 +1339,14 @@ You were lately whipped, sir, as I think.
 O Lord, sir!&mdash;Spare not me.
 
 <speaker>COUNTESS</speaker>
-Do you cry "&ldquo;O Lord, sir!&rdquo;" at your whipping,
-and "&ldquo;spare not me&rdquo;"? Indeed your "&ldquo;O Lord, sir!&rdquo;" is
+Do you cry &ldquo;O Lord, sir!&rdquo; at your whipping,
+and &ldquo;spare not me&rdquo;? Indeed your &ldquo;O Lord, sir!&rdquo; is
 very sequent to your whipping. You would answer
 very well to a whipping if you were but bound to &rsquo;t.
 
 <speaker>FOOL</speaker>
-I ne&rsquo;er had worse luck in my life in my "&ldquo;O Lord,
-sir!&rdquo;" I see things may serve long but not serve ever.
+I ne&rsquo;er had worse luck in my life in my &ldquo;O Lord,
+sir!&rdquo; I see things may serve long but not serve ever.
 
 <speaker>COUNTESS</speaker>
 I play the noble huswife with the time to
@@ -1528,10 +1528,10 @@ I am a simple maid, and therein wealthiest
 That I protest I simply am a maid.&mdash;
 Please it your Majesty, I have done already.
 The blushes in my cheeks thus whisper me:
-"&ldquo;We blush that thou shouldst choose; but, be
+&ldquo;We blush that thou shouldst choose; but, be
 refused,
 Let the white death sit on thy cheek forever;
-We&rsquo;ll ne&rsquo;er come there again.&rdquo;"
+We&rsquo;ll ne&rsquo;er come there again.&rdquo;
 
 <speaker>KING</speaker>
 Make choice and see.
@@ -1642,7 +1642,7 @@ Of color, weight, and heat, poured all together,
 Would quite confound distinction, yet stands off
 In differences so mighty. If she be
 All that is virtuous, save what thou dislik&rsquo;st&mdash;
-"&ldquo;A poor physician&rsquo;s daughter"&mdash;thou dislik&rsquo;st
+&ldquo;A poor physician&rsquo;s daughter&rdquo;&mdash;thou dislik&rsquo;st
 Of virtue for the name. But do not so.
 From lowest place whence virtuous things proceed,
 The place is dignified by th&rsquo; doer&rsquo;s deed.
@@ -1736,14 +1736,14 @@ Your lord and master did well to make his
 recantation.
 
 <speaker>PAROLLES</speaker>
-"&ldquo;Recantation&rdquo;"? My "&ldquo;lord&rdquo;"? My "&ldquo;master&rdquo;"?
+&ldquo;Recantation&rdquo;? My &ldquo;lord&rdquo;? My &ldquo;master&rdquo;?
 
 <speaker>LAFEW</speaker>
 Ay. Is it not a language I speak?
 
 <speaker>PAROLLES</speaker>
 A most harsh one, and not to be understood
-without bloody succeeding. My "&ldquo;master&rdquo;"?
+without bloody succeeding. My &ldquo;master&rdquo;?
 
 <speaker>LAFEW</speaker>
 Are you companion to the Count Rossillion?
@@ -1811,7 +1811,7 @@ bound in thy scarf and beaten, thou shalt find
 what it is to be proud of thy bondage. I have a
 desire to hold my acquaintance with thee, or
 rather my knowledge, that I may say in the default
-"&ldquo;He is a man I know.&rdquo;"
+&ldquo;He is a man I know.&rdquo;
 
 <speaker>PAROLLES</speaker>
 My lord, you do me most insupportable
@@ -1998,9 +1998,9 @@ which is within a very little of nothing.
 Away. Thou &rsquo;rt a knave.
 
 <speaker>FOOL</speaker>
-You should have said, sir, "&ldquo;Before a knave,
-thou &rsquo;rt a knave&rdquo;"; that&rsquo;s "&ldquo;Before me, thou &rsquo;rt a
-knave.&rdquo;" This had been truth, sir.
+You should have said, sir, &ldquo;Before a knave,
+thou &rsquo;rt a knave&rdquo;; that&rsquo;s &ldquo;Before me, thou &rsquo;rt a
+knave.&rdquo; This had been truth, sir.
 
 <speaker>PAROLLES</speaker>
 Go to. Thou art a witty fool. I have found
@@ -2349,7 +2349,7 @@ E&rsquo;en that you have there. [<i>He exits.</i>]
   I have sent you a daughter-in-law.
 She hath recovered the King and undone me. I have
 wedded her, not bedded her, and sworn to make the
-"&ldquo;not&rdquo;" eternal. You shall hear I am run away. Know it
+&ldquo;not&rdquo; eternal. You shall hear I am run away. Know it
 before the report come. If there be breadth enough in
 the world, I will hold a long distance. My duty to
 you.
@@ -2416,8 +2416,8 @@ Look on his letter, madam; here&rsquo;s my passport.
  When thou canst get the ring upon
 my finger, which never shall come off, and show me
 a child begotten of thy body that I am father to, then
-call me husband. But in such a "&ldquo;then&rdquo;" I write a
-"&ldquo;never.&rdquo;"
+call me husband. But in such a &ldquo;then&rdquo; I write a
+&ldquo;never.&rdquo;
 This is a dreadful sentence.
 
 <speaker>COUNTESS</speaker>
@@ -2511,7 +2511,7 @@ Will you draw near?
 [<i>She exits with the Gentlemen.</i>]
 
 <speaker>HELEN</speaker>
-"&ldquo;Till I have no wife I have nothing in France.&rdquo;"
+&ldquo;Till I have no wife I have nothing in France.&rdquo;
 Nothing in France until he has no wife.
 Thou shalt have none, Rossillion, none in France.
 Then hast thou all again. Poor lord, is &rsquo;t I
@@ -3235,7 +3235,7 @@ the recovery of this drum, being not ignorant
 of the impossibility and knowing I had no such
 purpose? I must give myself some hurts and say I
 got them in exploit. Yet slight ones will not carry it.
-They will say "&ldquo;Came you off with so little?&rdquo;" And
+They will say &ldquo;Came you off with so little?&rdquo; And
 great ones I dare not give. Wherefore? What&rsquo;s the
 instance? Tongue, I must put you into a butter-woman&rsquo;s
 mouth and buy myself another of
@@ -3800,8 +3800,8 @@ everything in him by wearing his apparel neatly.
   Well, that&rsquo;s set down.
 
 <speaker>PAROLLES</speaker>
-"&ldquo;Five or six thousand horse,&rdquo;" I said&mdash;I will
-say true&mdash;"or thereabouts&rdquo;" set down, for I&rsquo;ll speak
+&ldquo;Five or six thousand horse,&rdquo; I said&mdash;I will
+say true&mdash;&ldquo;or thereabouts&rdquo; set down, for I&rsquo;ll speak
 truth.
 
 <speaker>FIRST LORD</speaker>
@@ -3814,7 +3814,7 @@ truth.
 nature he delivers it.
 
 <speaker>PAROLLES</speaker>
-"&ldquo;Poor rogues,&rdquo;" I pray you say.
+&ldquo;Poor rogues,&rdquo; I pray you say.
 
 <speaker>FIRST SOLDIER</speaker>
 Well, that&rsquo;s set down.
@@ -4213,7 +4213,7 @@ Upon your will to suffer.
 
 <speaker>HELEN</speaker>
 Yet, I pray you&mdash;
-But with the word "&ldquo;The time will bring on summer,&rdquo;"
+But with the word &ldquo;The time will bring on summer,&rdquo;
 When briers shall have leaves as well as thorns
 And be as sweet as sharp. We must away.
 Our wagon is prepared, and time revives us.
@@ -4706,7 +4706,7 @@ That thou didst love her strikes some scores away
 From the great compt. But love that comes too late,
 Like a remorseful pardon slowly carried,
 To the great sender turns a sour offense,
-Crying "&ldquo;That&rsquo;s good that&rsquo;s gone!&rdquo;" Our rash faults
+Crying &ldquo;That&rsquo;s good that&rsquo;s gone!&rdquo; Our rash faults
 Make trivial price of serious things we have,
 Not knowing them until we know their grave.
 Oft our displeasures, to ourselves unjust,

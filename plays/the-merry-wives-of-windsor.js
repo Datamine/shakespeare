@@ -22,9 +22,9 @@ and Coram.
 SHALLOW  Ay, Cousin Slender, and Custalorum.
 
 SLENDER  Ay, and Ratolorum too; and a gentleman born,
-Master Parson, who writes himself "&ldquo;Armigero&rdquo;"
+Master Parson, who writes himself &ldquo;Armigero&rdquo;
 in any bill, warrant, quittance, or obligation&mdash;
-"&ldquo;Armigero!&rdquo;"
+&ldquo;Armigero!&rdquo;
 
 SHALLOW  Ay, that I do, and have done any time these
 three hundred years.
@@ -228,7 +228,7 @@ FALSTAFF  Pistol.
 PISTOL  He hears with ears.
 
 SIR HUGH  The tevil and his tam! What phrase is this,
-"&ldquo;He hears with ear&rdquo;"? Why, it is affectations.
+&ldquo;He hears with ear&rdquo;? Why, it is affectations.
 
 FALSTAFF  Pistol, did you pick Master Slender&rsquo;s purse?
 
@@ -253,7 +253,7 @@ SLENDER, [<i>indicating Nym</i>]
 he.
 
 NYM  Be avised, sir, and pass good humors. I will say
-"&ldquo;marry trap with you&rdquo;" if you run the nuthook&rsquo;s
+&ldquo;marry trap with you&rdquo; if you run the nuthook&rsquo;s
 humor on me. That is the very note of it.
 
 SLENDER  By this hat, then, he in the red face had it.
@@ -266,7 +266,7 @@ FALSTAFF  What say you, Scarlet and John?
 BARDOLPH  Why, sir, for my part, I say the gentleman
 had drunk himself out of his five sentences.
 
-SIR HUGH  It is "&ldquo;his five senses.&rdquo;" Fie, what the ignorance
+SIR HUGH  It is &ldquo;his five senses.&rdquo; Fie, what the ignorance
 is!
 
 BARDOLPH, [<i>to Falstaff</i>]
@@ -379,13 +379,13 @@ there be no great love in the beginning, yet heaven
 may decrease it upon better acquaintance, when
 we are married and have more occasion to know
 one another. I hope upon familiarity will grow
-more content. But if you say "&ldquo;Marry her,&rdquo;" I will
+more content. But if you say &ldquo;Marry her,&rdquo; I will
 marry her. That I am freely dissolved, and
 dissolutely.
 
 SIR HUGH  It is a fery discretion answer, save the fall is
-in the &rsquo;ord "&ldquo;dissolutely.&rdquo;" The &rsquo;ort is, according to
-our meaning, "&ldquo;resolutely.&rdquo;" His meaning is good.
+in the &rsquo;ord &ldquo;dissolutely.&rdquo; The &rsquo;ort is, according to
+our meaning, &ldquo;resolutely.&rdquo; His meaning is good.
 
 SHALLOW  Ay, I think my cousin meant well.
 
@@ -566,7 +566,7 @@ unskillful singer; he kept not time.
 The good humor is to steal at a minute&rsquo;s rest.
 
 <speaker>PISTOL</speaker>
-"&ldquo;Convey,&rdquo;" the wise it call. "&ldquo;Steal&rdquo;"? Foh, a fico
+&ldquo;Convey,&rdquo; the wise it call. &ldquo;Steal&rdquo;? Foh, a fico
 for the phrase!
 
 <speaker>FALSTAFF</speaker>
@@ -603,7 +603,7 @@ love to Ford&rsquo;s wife. I spy entertainment in her. She
 discourses; she carves; she gives the leer of invitation.
 I can construe the action of her familiar style;
 and the hardest voice of her behavior, to be Englished
-rightly, is "&ldquo;I am Sir John Falstaff&rsquo;s.&rdquo;"
+rightly, is &ldquo;I am Sir John Falstaff&rsquo;s.&rdquo;
 
 <speaker>PISTOL</speaker>
 [<i>aside to Nym</i>]
@@ -622,7 +622,7 @@ her husband&rsquo;s purse. He hath a legion of angels.
 <speaker>PISTOL</speaker>
 [<i>aside to Nym</i>]
   As many devils entertain, and
-"&ldquo;To her, boy,&rdquo;" say I.
+&ldquo;To her, boy,&rdquo; say I.
 
 <speaker>NYM</speaker>
 [<i>aside to Pistol</i>]
@@ -1145,7 +1145,7 @@ that I would have sworn his disposition
 would have gone to the truth of his words. But
 they do no more adhere and keep place together
 than the Hundredth Psalm to the tune of
-"&ldquo;Greensleeves.&rdquo;" What tempest, I trow, threw this
+&ldquo;Greensleeves.&rdquo; What tempest, I trow, threw this
 whale, with so many tuns of oil in his belly, ashore
 at Windsor? How shall I be revenged on him? I
 think the best way were to entertain him with hope
@@ -1181,7 +1181,7 @@ me that I know not myself, he would never have
 boarded me in this fury.
 
 <speaker>MISTRESS FORD</speaker>
-"&ldquo;Boarding&rdquo;" call you it? I&rsquo;ll be sure to
+&ldquo;Boarding&rdquo; call you it? I&rsquo;ll be sure to
 keep him above deck.
 
 <speaker>MISTRESS PAGE</speaker>
@@ -1267,7 +1267,7 @@ cheese. Adieu.	[<i>He exits.</i>]
 
 <speaker>PAGE</speaker>
 [<i>aside</i>]
-  "&ldquo;The humor of it,&rdquo;" quoth he? Here&rsquo;s a fellow
+  &ldquo;The humor of it,&rdquo; quoth he? Here&rsquo;s a fellow
 frights English out of his wits.
 
 <speaker>FORD</speaker>
@@ -1565,7 +1565,7 @@ pray, come a little nearer this ways. I myself dwell
 with Master Doctor Caius.
 
 <speaker>FALSTAFF</speaker>
-Well, on. "&ldquo;Mistress Ford,&rdquo;" you say&mdash;
+Well, on. &ldquo;Mistress Ford,&rdquo; you say&mdash;
 
 <speaker>MISTRESS QUICKLY</speaker>
 Your Worship says very true. I pray
@@ -1580,7 +1580,7 @@ Are they so? God bless them and
 make them His servants!
 
 <speaker>FALSTAFF</speaker>
-Well, "&ldquo;Mistress Ford"&mdash;what of her?
+Well, &ldquo;Mistress Ford&rdquo;&mdash;what of her?
 
 <speaker>MISTRESS QUICKLY</speaker>
 Why, sir, she&rsquo;s a good creature.
@@ -1588,7 +1588,7 @@ Lord, Lord, your Worship&rsquo;s a wanton! Well, heaven
 forgive you and all of us, I pray!
 
 <speaker>FALSTAFF</speaker>
-"&ldquo;Mistress Ford"&mdash;come, "&ldquo;Mistress Ford"&mdash;
+&ldquo;Mistress Ford&rdquo;&mdash;come, &ldquo;Mistress Ford&rdquo;&mdash;
 
 <speaker>MISTRESS QUICKLY</speaker>
 Marry, this is the short and the long
@@ -1833,9 +1833,9 @@ means, meed I am sure I have received none, unless
 experience be a jewel. That I have purchased
 at an infinite rate, and that hath taught me to say
 this:
-"&ldquo;Love like a shadow flies when substance love
+&ldquo;Love like a shadow flies when substance love
 pursues,
-Pursuing that that flies, and flying what pursues.&rdquo;"
+Pursuing that that flies, and flying what pursues.&rdquo;
 
 <speaker>FALSTAFF</speaker>
 Have you received no promise of satisfaction
@@ -1982,9 +1982,9 @@ coffers ransacked, my reputation gnawn at. And
 I shall not only receive this villainous wrong but
 stand under the adoption of abominable terms,
 and by him that does me this wrong. Terms,
-names! "&ldquo;Amaimon&rdquo;" sounds well, "&ldquo;Lucifer&rdquo;" well,
-"&ldquo;Barbason&rdquo;" well; yet they are devils&rsquo; additions, the
-names of fiends. But "&ldquo;Cuckold,&rdquo;" "&ldquo;Wittoll,&rdquo;" "&ldquo;Cuckold&rdquo;"!
+names! &ldquo;Amaimon&rdquo; sounds well, &ldquo;Lucifer&rdquo; well,
+&ldquo;Barbason&rdquo; well; yet they are devils&rsquo; additions, the
+names of fiends. But &ldquo;Cuckold,&rdquo; &ldquo;Wittoll,&rdquo; &ldquo;Cuckold&rdquo;!
 The devil himself hath not such a name. Page
 is an ass, a secure ass. He will trust his wife, he will
 not be jealous. I will rather trust a Fleming with
@@ -2118,10 +2118,10 @@ Pardon, guest Justice. [<i>(To Caius.)</i>]
 Monsieur Mockwater.
 
 <speaker>DOCTOR CAIUS</speaker>
-"&ldquo;Mockvater&rdquo;"? Vat is dat?
+&ldquo;Mockvater&rdquo;? Vat is dat?
 
 <speaker>HOST</speaker>
-"&ldquo;Mockwater,&rdquo;" in our English tongue, is "&ldquo;valor,&rdquo;"
+&ldquo;Mockwater,&rdquo; in our English tongue, is &ldquo;valor,&rdquo;
 bully.
 
 <speaker>DOCTOR CAIUS</speaker>
@@ -2133,7 +2133,7 @@ me vill cut his ears.
 He will clapper-claw thee tightly, bully.
 
 <speaker>DOCTOR CAIUS</speaker>
-"&ldquo;Clapper-de-claw&rdquo;"? Vat is dat?
+&ldquo;Clapper-de-claw&rdquo;? Vat is dat?
 
 <speaker>HOST</speaker>
 That is, he will make thee amends.
@@ -2709,7 +2709,7 @@ teach him to know turtles from jays.
 [<i>Enter Sir John Falstaff.</i>]
 
 <speaker>FALSTAFF</speaker>
-"&ldquo;Have I caught thee, my heavenly jewel?&rdquo;"
+&ldquo;Have I caught thee, my heavenly jewel?&rdquo;
 Why, now let me die, for I have lived long enough.
 This is the period of my ambition. O, this blessed
 hour!
@@ -2850,8 +2850,8 @@ much as his peril. I had rather than a thousand
 pound he were out of the house.
 
 <speaker>MISTRESS PAGE</speaker>
-For shame! Never stand "&ldquo;you had
-rather&rdquo;" and "&ldquo;you had rather.&rdquo;" Your husband&rsquo;s here
+For shame! Never stand &ldquo;you had
+rather&rdquo; and &ldquo;you had rather.&rdquo; Your husband&rsquo;s here
 at hand. Bethink you of some conveyance. In the
 house you cannot hide him. O, how have you deceived
 me! Look, here is a basket. If he be of any
@@ -3284,9 +3284,9 @@ Farewell, gentle mistress.&mdash;Farewell, Nan.
 [<i>Mistress Page and Anne Page exit.</i>]
 
 <speaker>MISTRESS QUICKLY</speaker>
-This is my doing now. "&ldquo;Nay,&rdquo;" said I,
-"&ldquo;will you cast away your child on a fool and a
-physician? Look on Master Fenton.&rdquo;" This is my
+This is my doing now. &ldquo;Nay,&rdquo; said I,
+&ldquo;will you cast away your child on a fool and a
+physician? Look on Master Fenton.&rdquo; This is my
 doing.
 
 <speaker>FENTON</speaker>
@@ -3628,10 +3628,10 @@ Two.
 
 <speaker>MISTRESS QUICKLY</speaker>
 Truly, I thought there had been one
-number more, because they say "&ldquo; &rsquo;Od&rsquo;s nouns.&rdquo;"
+number more, because they say &ldquo; &rsquo;Od&rsquo;s nouns.&rdquo;
 
 <speaker>SIR HUGH</speaker>
-Peace your tattlings!&mdash;What is "&ldquo;fair,&rdquo;"
+Peace your tattlings!&mdash;What is &ldquo;fair,&rdquo;
 William?
 
 <speaker>WILLIAM</speaker>
@@ -3649,7 +3649,7 @@ peace.&mdash;What is lapis, William?
 A stone.
 
 <speaker>SIR HUGH</speaker>
-And what is "&ldquo;a stone,&rdquo;" William?
+And what is &ldquo;a stone,&rdquo; William?
 
 <speaker>WILLIAM</speaker>
 A pebble.
@@ -3682,7 +3682,7 @@ I pray you, have your remembrance, child.
 Accusativo, hung, hang, hog.
 
 <speaker>MISTRESS QUICKLY</speaker>
-"&ldquo;Hang-hog&rdquo;" is Latin for bacon, I
+&ldquo;Hang-hog&rdquo; is Latin for bacon, I
 warrant you.
 
 <speaker>SIR HUGH</speaker>
@@ -3728,7 +3728,7 @@ For shame, &rsquo;oman!
 You do ill to teach the child such
 words.&mdash;He teaches him to hick and to hack,
 which they&rsquo;ll do fast enough of themselves, and to
-call "&ldquo;whorum."&mdash;Fie upon you!
+call &ldquo;whorum.&rdquo;&mdash;Fie upon you!
 
 <speaker>SIR HUGH</speaker>
 &rsquo;Oman, art thou lunatics? Hast thou no understandings
@@ -3822,7 +3822,7 @@ old lunes again. He so takes on yonder with my
 husband, so rails against all married mankind, so
 curses all Eve&rsquo;s daughters of what complexion soever,
 and so buffets himself on the forehead, crying
-"&ldquo;Peer out, peer out!&rdquo;" that any madness I ever yet
+&ldquo;Peer out, peer out!&rdquo; that any madness I ever yet
 beheld seemed but tameness, civility, and patience
 to this his distemper he is in now. I am glad the fat
 knight is not here.
@@ -3969,7 +3969,7 @@ misuse him enough.
 We&rsquo;ll leave a proof, by that which we will do,
 Wives may be merry and yet honest too.
 We do not act that often jest and laugh;
-&rsquo;Tis old but true: "&ldquo;Still swine eats all the draff.&rdquo;"
+&rsquo;Tis old but true: &ldquo;Still swine eats all the draff.&rdquo;
 [<i>She exits.</i>]
 
 [<i>Enter Mistress Ford with Robert and John,
@@ -4089,8 +4089,8 @@ No, nor nowhere else but in your brain.
 Help to search my house this one time. If I find
 not what I seek, show no color for my extremity.
 Let me forever be your table-sport. Let them say of
-me "&ldquo;As jealous as Ford, that searched a hollow
-walnut for his wife&rsquo;s leman.&rdquo;" Satisfy me once
+me &ldquo;As jealous as Ford, that searched a hollow
+walnut for his wife&rsquo;s leman.&rdquo; Satisfy me once
 more. Once more search with me.
 [<i>Robert and John refill the basket and carry it off.</i>]
 
@@ -4101,7 +4101,7 @@ Page! Come you and the old woman down. My
 husband will come into the chamber.
 
 <speaker>FORD</speaker>
-"&ldquo;Old woman&rdquo;"? What old woman&rsquo;s that?
+&ldquo;Old woman&rdquo;? What old woman&rsquo;s that?
 
 <speaker>MISTRESS FORD</speaker>
 Why, it is my maid&rsquo;s aunt of Brentford.
@@ -4770,12 +4770,12 @@ my&mdash;
 <speaker>SLENDER</speaker>
 Ay, forsooth, I have spoke with her, and we
 have a nayword how to know one another. I come
-to her in white and cry "&ldquo;mum,&rdquo;" she cries "&ldquo;budget,&rdquo;"
+to her in white and cry &ldquo;mum,&rdquo; she cries &ldquo;budget,&rdquo;
 and by that we know one another.
 
 <speaker>SHALLOW</speaker>
 That&rsquo;s good too. But what needs either your
-"&ldquo;mum&rdquo;" or her "&ldquo;budget&rdquo;"? The white will decipher
+&ldquo;mum&rdquo; or her &ldquo;budget&rdquo;? The white will decipher
 her well enough. It hath struck ten o&rsquo;clock.
 
 <speaker>PAGE</speaker>
@@ -4878,7 +4878,7 @@ male deer?
 
 <speaker>FALSTAFF</speaker>
 My doe with the black scut! Let the sky rain
-potatoes, let it thunder to the tune of "&ldquo;Greensleeves,&rdquo;"
+potatoes, let it thunder to the tune of &ldquo;Greensleeves,&rdquo;
 hail kissing-comfits, and snow eryngoes; let there
 come a tempest of provocation, I will shelter me
 here.	[<i>He embraces her.</i>]
@@ -5111,7 +5111,7 @@ Seese is not good to give putter. Your belly is
 all putter.
 
 <speaker>FALSTAFF</speaker>
-"&ldquo;Seese&rdquo;" and "&ldquo;putter&rdquo;"? Have I lived to stand at
+&ldquo;Seese&rdquo; and &ldquo;putter&rdquo;? Have I lived to stand at
 the taunt of one that makes fritters of English?
 This is enough to be the decay of lust and late
 walking through the realm.
@@ -5182,7 +5182,7 @@ Son, how now! How now, son! Have you
 dispatched?
 
 <speaker>SLENDER</speaker>
-"&ldquo;Dispatched&rdquo;"? I&rsquo;ll make the best in Gloucestershire
+&ldquo;Dispatched&rdquo;? I&rsquo;ll make the best in Gloucestershire
 know on &rsquo;t. Would I were hanged, la, else!
 
 <speaker>PAGE</speaker>
@@ -5211,8 +5211,8 @@ how you should know my daughter by her
 garments?
 
 <speaker>SLENDER</speaker>
-I went to her in white, and cried "&ldquo;mum,&rdquo;"
-and she cried "&ldquo;budget,&rdquo;" as Anne and I had appointed,
+I went to her in white, and cried &ldquo;mum,&rdquo;
+and she cried &ldquo;budget,&rdquo; as Anne and I had appointed,
 and yet it was not Anne, but a post-master&rsquo;s
 boy.
 

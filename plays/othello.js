@@ -32,8 +32,8 @@ But he, as loving his own pride and purposes,
 Evades them with a bombast circumstance,
 Horribly stuffed with epithets of war,
 And in conclusion,
-Nonsuits my mediators. For "&ldquo;Certes,&rdquo;" says he,
-"&ldquo;I have already chose my officer.&rdquo;"
+Nonsuits my mediators. For &ldquo;Certes,&rdquo; says he,
+&ldquo;I have already chose my officer.&rdquo;
 And what was he?
 Forsooth, a great arithmetician,
 One Michael Cassio, a Florentine,
@@ -1234,7 +1234,7 @@ His bark is stoutly timbered, and his pilot
 Of very expert and approved allowance;
 Therefore my hopes, not surfeited to death,
 Stand in bold cure.
-[<i>Voices cry within. "&ldquo;A sail, a sail, a sail!"</i>]
+[<i>Voices cry within. &ldquo;A sail, a sail, a sail!&rdquo;</i>]
 
 [<i>Enter a Messenger.</i>]
 
@@ -1243,7 +1243,7 @@ What noise?
 
 <speaker>MESSENGER</speaker>
 The town is empty; on the brow o&rsquo; th&rsquo; sea
-Stand ranks of people, and they cry "&ldquo;A sail!&rdquo;"
+Stand ranks of people, and they cry &ldquo;A sail!&rdquo;
 
 <speaker>CASSIO</speaker>
 My hopes do shape him for the Governor.
@@ -1324,7 +1324,7 @@ O, but I fear&mdash;How lost you company?
 <speaker>CASSIO</speaker>
 The great contention of sea and skies
 Parted our fellowship.
-[<i>Within "&ldquo;A sail, a sail!&rdquo;" A shot.</i>]
+[<i>Within &ldquo;A sail, a sail!&rdquo; A shot.</i>]
 But hark, a sail!
 
 <speaker>SECOND GENTLEMAN</speaker>
@@ -1442,7 +1442,7 @@ malice itself?
 	She that was ever fair and never proud,
 	Had tongue at will and yet was never loud,
 	Never lacked gold and yet went never gay,
-	Fled from her wish, and yet said "&ldquo;Now I may,&rdquo;"
+	Fled from her wish, and yet said &ldquo;Now I may,&rdquo;
 	She that being angered, her revenge being nigh,
 	Bade her wrong stay and her displeasure fly,
 	She that in wisdom never was so frail
@@ -1960,7 +1960,7 @@ To the Moor.
 <speaker>IAGO</speaker>
 Not I, for this fair island.
 I do love Cassio well and would do much
-To cure him of this evil&mdash;	[<i>"Help, help!&rdquo;" within.</i>]
+To cure him of this evil&mdash;	[<i>&ldquo;Help, help!&rdquo; within.</i>]
 But hark! What noise?
 
 [<i>Enter Cassio, pursuing Roderigo.</i>]
@@ -2349,8 +2349,8 @@ Dull not device by coldness and delay.
 
 <speaker>CASSIO</speaker>
 Masters, play here (I will content your pains)
-Something that&rsquo;s brief; and bid "&ldquo;Good morrow,
-general.&rdquo;"	[<i>They play.</i>]
+Something that&rsquo;s brief; and bid &ldquo;Good morrow,
+general.&rdquo;	[<i>They play.</i>]
 
 [<i>Enter the Clown.</i>]
 
@@ -2727,7 +2727,7 @@ What dost thou think?
 Think, my lord?
 
 <speaker>OTHELLO</speaker>
-"&ldquo;Think, my lord?&rdquo;" By heaven, thou echo&rsquo;st me
+&ldquo;Think, my lord?&rdquo; By heaven, thou echo&rsquo;st me
 As if there were some monster in thy thought
 Too hideous to be shown. Thou dost mean
 something.
@@ -2735,7 +2735,7 @@ I heard thee say even now, thou lik&rsquo;st not that,
 When Cassio left my wife. What didst not like?
 And when I told thee he was of my counsel
 In my whole course of wooing, thou cried&rsquo;st
-"&ldquo;Indeed?&rdquo;"
+&ldquo;Indeed?&rdquo;
 And didst contract and purse thy brow together
 As if thou then hadst shut up in thy brain
 Some horrible conceit. If thou dost love me,
@@ -3272,14 +3272,14 @@ And being troubled with a raging tooth
 I could not sleep. There are a kind of men
 So loose of soul that in their sleeps will mutter
 Their affairs. One of this kind is Cassio.
-In sleep I heard him say "&ldquo;Sweet Desdemona,
-Let us be wary, let us hide our loves.&rdquo;"
+In sleep I heard him say &ldquo;Sweet Desdemona,
+Let us be wary, let us hide our loves.&rdquo;
 And then, sir, would he gripe and wring my hand,
-Cry "&ldquo;O sweet creature!&rdquo;" then kiss me hard,
+Cry &ldquo;O sweet creature!&rdquo; then kiss me hard,
 As if he plucked up kisses by the roots
 That grew upon my lips; then laid his leg
 O&rsquo;er my thigh, and sighed, and kissed, and then
-Cried "&ldquo;Cursed fate that gave thee to the Moor!&rdquo;"
+Cried &ldquo;Cursed fate that gave thee to the Moor!&rdquo;
 
 <speaker>OTHELLO</speaker>
 O monstrous! Monstrous!
@@ -3918,7 +3918,7 @@ With her?
 With her&mdash;on her&mdash;what you will.
 
 <speaker>OTHELLO</speaker>
-Lie with her? Lie on her? We say "&ldquo;lie on her&rdquo;"
+Lie with her? Lie on her? We say &ldquo;lie on her&rdquo;
 when they belie her. Lie with her&mdash;Zounds, that&rsquo;s
 fulsome! Handkerchief&mdash;confessions&mdash;handkerchief.
 To confess and be hanged for his labor.
@@ -4113,7 +4113,7 @@ the bauble. By this hand, she falls thus about my
 neck!
 
 <speaker>OTHELLO</speaker>
-Crying, "&ldquo;O dear Cassio,&rdquo;" as it were; his
+Crying, &ldquo;O dear Cassio,&rdquo; as it were; his
 gesture imports it.
 
 <speaker>CASSIO</speaker>
@@ -4324,8 +4324,8 @@ My lord?
 
 <speaker>OTHELLO</speaker>
 [<i>reading</i>]
-  "&ldquo;This fail you not to do, as you
-will"&mdash;
+  &ldquo;This fail you not to do, as you
+will&rdquo;&mdash;
 
 <speaker>LODOVICO</speaker>
 He did not call; he&rsquo;s busy in the paper.
@@ -4545,7 +4545,7 @@ What horrible fancy&rsquo;s this?
   Some of your function,
 mistress.
 Leave procreants alone, and shut the door.
-Cough, or cry "&ldquo;hem,&rdquo;" if anybody come.
+Cough, or cry &ldquo;hem,&rdquo; if anybody come.
 Your mystery, your mystery! Nay, dispatch.
 [<i>Emilia exits.</i>]
 
@@ -4624,7 +4624,7 @@ Alas, what ignorant sin have I committed?
 
 <speaker>OTHELLO</speaker>
 Was this fair paper, this most goodly book,
-Made to write "&ldquo;whore&rdquo;" upon? What committed?
+Made to write &ldquo;whore&rdquo; upon? What committed?
 Committed? O thou public commoner,
 I should make very forges of my cheeks
 That would to cinders burn up modesty,
@@ -4740,7 +4740,7 @@ lady?
 Such as she said my lord did say I was.
 
 <speaker>EMILIA</speaker>
-He called her "&ldquo;whore.&rdquo;" A beggar in his drink
+He called her &ldquo;whore.&rdquo; A beggar in his drink
 Could not have laid such terms upon his callet.
 
 <speaker>IAGO</speaker>
@@ -4755,7 +4755,7 @@ Do not weep, do not weep! Alas the day!
 <speaker>EMILIA</speaker>
 Hath she forsook so many noble matches,
 Her father and her country and her friends,
-To be called "&ldquo;whore&rdquo;"? Would it not make one
+To be called &ldquo;whore&rdquo;? Would it not make one
 weep?
 
 <speaker>DESDEMONA</speaker>
@@ -4781,7 +4781,7 @@ If any such there be, heaven pardon him.
 
 <speaker>EMILIA</speaker>
 A halter pardon him, and hell gnaw his bones!
-Why should he call her "&ldquo;whore&rdquo;"? Who keeps her
+Why should he call her &ldquo;whore&rdquo;? Who keeps her
 company?
 What place? What time? What form? What
 likelihood?
@@ -4821,7 +4821,7 @@ Comfort forswear me! [<i>She stands.</i>]
  Unkindness may
 do much,
 And his unkindness may defeat my life,
-But never taint my love. I cannot say "&ldquo;whore"&mdash;
+But never taint my love. I cannot say &ldquo;whore&rdquo;&mdash;
 It does abhor me now I speak the word.
 To do the act that might the addition earn,
 Not the world&rsquo;s mass of vanity could make me.
@@ -4884,7 +4884,7 @@ find none.
 Well, go to! Very well.
 
 <speaker>RODERIGO</speaker>
-"&ldquo;Very well.&rdquo;" "&ldquo;Go to!&rdquo;" I cannot go to, man,
+&ldquo;Very well.&rdquo; &ldquo;Go to!&rdquo; I cannot go to, man,
 nor &rsquo;tis not very well! By this hand, I say &rsquo;tis very
 scurvy, and begin to find myself fopped in it.
 
@@ -5661,7 +5661,7 @@ That I do groan withal. Thou art to die.
 Then Lord have mercy on me!
 
 <speaker>OTHELLO</speaker>
-I say "&ldquo;Amen.&rdquo;"
+I say &ldquo;Amen.&rdquo;
 
 <speaker>DESDEMONA</speaker>
 And have you mercy, too. I never did

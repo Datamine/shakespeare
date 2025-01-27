@@ -154,7 +154,7 @@ Shake off their sterile curse.
 
 <speaker>ANTONY</speaker>
 I shall remember.
-When Caesar says "&ldquo;Do this,&rdquo;" it is performed.
+When Caesar says &ldquo;Do this,&rdquo; it is performed.
 
 <speaker>CAESAR</speaker>
 Set on and leave no ceremony out.	[<i>Sennet.</i>]
@@ -171,7 +171,7 @@ Bid every noise be still. Peace, yet again!
 <speaker>CAESAR</speaker>
 Who is it in the press that calls on me?
 I hear a tongue shriller than all the music
-Cry "&ldquo;Caesar.&rdquo;" Speak. Caesar is turned to hear.
+Cry &ldquo;Caesar.&rdquo; Speak. Caesar is turned to hear.
 
 <speaker>SOOTHSAYER</speaker>
 Beware the ides of March.
@@ -309,16 +309,16 @@ We both have fed as well, and we can both
 Endure the winter&rsquo;s cold as well as he.
 For once, upon a raw and gusty day,
 The troubled Tiber chafing with her shores,
-Caesar said to me "&ldquo;Dar&rsquo;st thou, Cassius, now
+Caesar said to me &ldquo;Dar&rsquo;st thou, Cassius, now
 Leap in with me into this angry flood
-And swim to yonder point?&rdquo;" Upon the word,
+And swim to yonder point?&rdquo; Upon the word,
 Accoutered as I was, I plunged in
 And bade him follow; so indeed he did.
 The torrent roared, and we did buffet it
 With lusty sinews, throwing it aside
 And stemming it with hearts of controversy.
 But ere we could arrive the point proposed,
-Caesar cried "&ldquo;Help me, Cassius, or I sink!&rdquo;"
+Caesar cried &ldquo;Help me, Cassius, or I sink!&rdquo;
 I, as Aeneas, our great ancestor,
 Did from the flames of Troy upon his shoulder
 The old Anchises bear, so from the waves of Tiber
@@ -334,7 +334,7 @@ And that same eye whose bend doth awe the world
 Did lose his luster. I did hear him groan.
 Ay, and that tongue of his that bade the Romans
 Mark him and write his speeches in their books,
-"&ldquo;Alas,&rdquo;" it cried "&ldquo;Give me some drink, Titinius&rdquo;"
+&ldquo;Alas,&rdquo; it cried &ldquo;Give me some drink, Titinius&rdquo;
 As a sick girl. You gods, it doth amaze me
 A man of such a feeble temper should
 So get the start of the majestic world
@@ -354,14 +354,14 @@ To find ourselves dishonorable graves.
 Men at some time are masters of their fates.
 The fault, dear Brutus, is not in our stars,
 But in ourselves, that we are underlings.
-"&ldquo;Brutus&rdquo;" and "&ldquo;Caesar"&mdash;what should be in that
-"&ldquo;Caesar&rdquo;"?
+&ldquo;Brutus&rdquo; and &ldquo;Caesar&rdquo;&mdash;what should be in that
+&ldquo;Caesar&rdquo;?
 Why should that name be sounded more than
 yours?
 Write them together, yours is as fair a name;
 Sound them, it doth become the mouth as well;
 Weigh them, it is as heavy; conjure with &rsquo;em,
-"&ldquo;Brutus&rdquo;" will start a spirit as soon as "&ldquo;Caesar.&rdquo;"
+&ldquo;Brutus&rdquo; will start a spirit as soon as &ldquo;Caesar.&rdquo;
 Now, in the names of all the gods at once,
 Upon what meat doth this our Caesar feed
 That he is grown so great? Age, thou art shamed!
@@ -558,7 +558,7 @@ would I might go to hell among the rogues. And so
 he fell. When he came to himself again, he said if he
 had done or said anything amiss, he desired their
 Worships to think it was his infirmity. Three or four
-wenches where I stood cried "&ldquo;Alas, good soul!&rdquo;" and
+wenches where I stood cried &ldquo;Alas, good soul!&rdquo; and
 forgave him with all their hearts. But there&rsquo;s no
 heed to be taken of them; if Caesar had stabbed
 their mothers, they would have done no less.
@@ -685,7 +685,7 @@ And yesterday the bird of night did sit
 Even at noonday upon the marketplace,
 Hooting and shrieking. When these prodigies
 Do so conjointly meet, let not men say
-"&ldquo;These are their reasons, they are natural,&rdquo;"
+&ldquo;These are their reasons, they are natural,&rdquo;
 For I believe they are portentous things
 Unto the climate that they point upon.
 
@@ -982,15 +982,15 @@ Give so much light that I may read by them.
 
 Brutus, thou sleep&rsquo;st. Awake, and see thyself!
 Shall Rome, etc. Speak, strike, redress!
-"&ldquo;Brutus, thou sleep&rsquo;st. Awake.&rdquo;"
+&ldquo;Brutus, thou sleep&rsquo;st. Awake.&rdquo;
 Such instigations have been often dropped
 Where I have took them up.
-"&ldquo;Shall Rome, etc.&rdquo;" Thus must I piece it out:
+&ldquo;Shall Rome, etc.&rdquo; Thus must I piece it out:
 Shall Rome stand under one man&rsquo;s awe? What,
 Rome?
 My ancestors did from the streets of Rome
 The Tarquin drive when he was called a king.
-"&ldquo;Speak, strike, redress!&rdquo;" Am I entreated
+&ldquo;Speak, strike, redress!&rdquo; Am I entreated
 To speak and strike? O Rome, I make thee promise,
 If the redress will follow, thou receivest
 Thy full petition at the hand of Brutus.
@@ -1472,7 +1472,7 @@ nightgown.</i>]
 <speaker>CAESAR</speaker>
 Nor heaven nor Earth have been at peace tonight.
 Thrice hath Calphurnia in her sleep cried out
-"&ldquo;Help ho, they murder Caesar!"&mdash;Who&rsquo;s within?
+&ldquo;Help ho, they murder Caesar!&rdquo;&mdash;Who&rsquo;s within?
 
 [<i>Enter a Servant.</i>]
 
@@ -1627,10 +1627,10 @@ To give this day a crown to mighty Caesar.
 If you shall send them word you will not come,
 Their minds may change. Besides, it were a mock
 Apt to be rendered, for someone to say
-"&ldquo;Break up the Senate till another time,
-When Caesar&rsquo;s wife shall meet with better dreams.&rdquo;"
+&ldquo;Break up the Senate till another time,
+When Caesar&rsquo;s wife shall meet with better dreams.&rdquo;
 If Caesar hide himself, shall they not whisper
-"&ldquo;Lo, Caesar is afraid&rdquo;"?
+&ldquo;Lo, Caesar is afraid&rdquo;?
 Pardon me, Caesar, for my dear dear love
 To your proceeding bids me tell you this,
 And reason to my love is liable.
@@ -2001,7 +2001,7 @@ Run hence, proclaim, cry it about the streets.
 
 <speaker>CASSIUS</speaker>
 Some to the common pulpits and cry out
-"&ldquo;Liberty, freedom, and enfranchisement.&rdquo;"
+&ldquo;Liberty, freedom, and enfranchisement.&rdquo;
 
 <speaker>BRUTUS</speaker>
 People and Senators, be not affrighted.
@@ -2065,7 +2065,7 @@ And let us bathe our hands in Caesar&rsquo;s blood
 Up to the elbows and besmear our swords.
 Then walk we forth, even to the marketplace,
 And, waving our red weapons o&rsquo;er our heads,
-Let&rsquo;s all cry "&ldquo;Peace, freedom, and liberty!&rdquo;"
+Let&rsquo;s all cry &ldquo;Peace, freedom, and liberty!&rdquo;
 
 <speaker>CASSIUS</speaker>
 Stoop then, and wash.
@@ -2315,7 +2315,7 @@ All pity choked with custom of fell deeds;
 And Caesar&rsquo;s spirit, ranging for revenge,
 With Ate by his side come hot from hell,
 Shall in these confines with a monarch&rsquo;s voice
-Cry "&ldquo;Havoc!&rdquo;" and let slip the dogs of war,
+Cry &ldquo;Havoc!&rdquo; and let slip the dogs of war,
 That this foul deed shall smell above the earth
 With carrion men groaning for burial.
 
@@ -3251,7 +3251,7 @@ I shall be glad to learn of noble men.
 <speaker>CASSIUS</speaker>
 You wrong me every way, you wrong me, Brutus.
 I said an elder soldier, not a better.
-Did I say "&ldquo;better&rdquo;"?
+Did I say &ldquo;better&rdquo;?
 
 <speaker>BRUTUS</speaker>
 If you did, I care not.
@@ -3901,7 +3901,7 @@ Good words are better than bad strokes, Octavius.
 <speaker>ANTONY</speaker>
 In your bad strokes, Brutus, you give good words.
 Witness the hole you made in Caesar&rsquo;s heart,
-Crying "&ldquo;Long live, hail, Caesar!&rdquo;"
+Crying &ldquo;Long live, hail, Caesar!&rdquo;
 
 <speaker>CASSIUS</speaker>
 Antony,
@@ -4222,7 +4222,7 @@ What, Pindarus! Where art thou, Pindarus?
 <speaker>MESSALA</speaker>
 Seek him, Titinius, whilst I go to meet
 The noble Brutus, thrusting this report
-Into his ears. I may say "&ldquo;thrusting it,&rdquo;"
+Into his ears. I may say &ldquo;thrusting it,&rdquo;
 For piercing steel and darts envenomed
 Shall be as welcome to the ears of Brutus
 As tidings of this sight.
@@ -4451,7 +4451,7 @@ So fare you well at once, for Brutus&rsquo; tongue
 Hath almost ended his life&rsquo;s history.
 Night hangs upon mine eyes; my bones would rest,
 That have but labored to attain this hour.
-[<i>Alarum. Cry within "&ldquo;Fly, fly, fly!"</i>]
+[<i>Alarum. Cry within &ldquo;Fly, fly, fly!&rdquo;</i>]
 
 <speaker>CLITUS</speaker>
 Fly, my lord, fly!
@@ -4521,7 +4521,7 @@ He only in a general honest thought
 And common good to all made one of them.
 His life was gentle and the elements
 So mixed in him that nature might stand up
-And say to all the world "&ldquo;This was a man.&rdquo;"
+And say to all the world &ldquo;This was a man.&rdquo;
 
 <speaker>OCTAVIUS</speaker>
 According to his virtue, let us use him

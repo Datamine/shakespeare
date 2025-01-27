@@ -90,7 +90,7 @@ I pray you, sir, is it your will
 To make a stale of me amongst these mates?
 
 HORTENSIO
-"&ldquo;Mates,&rdquo;" maid? How mean you that? No mates for
+&ldquo;Mates,&rdquo; maid? How mean you that? No mates for
 you,
 Unless you were of gentler, milder mold.
 
@@ -188,9 +188,9 @@ HORTENSIO  Marry, sir, to get a husband for her sister.
 
 GREMIO  A husband? A devil!
 
-HORTENSIO  I say "&ldquo;a husband.&rdquo;"
+HORTENSIO  I say &ldquo;a husband.&rdquo;
 
-GREMIO  I say "&ldquo;a devil.&rdquo;" Think&rsquo;st thou, Hortensio,
+GREMIO  I say &ldquo;a devil.&rdquo; Think&rsquo;st thou, Hortensio,
 though her father be very rich, any man is so very a
 fool to be married to hell?
 
@@ -326,7 +326,7 @@ TRANIO  So had you need.
 In brief, sir, sith it your pleasure is,
 And I am tied to be obedient
 (For so your father charged me at our parting:
-"&ldquo;Be serviceable to my son,&rdquo;" quoth he,
+&ldquo;Be serviceable to my son,&rdquo; quoth he,
 Although I think &rsquo;twas in another sense),
 I am content to be Lucentio,
 Because so well I love Lucentio.
@@ -362,7 +362,7 @@ BIONDELLO  Ay, sir. [<i>Aside.</i>]
  Ne&rsquo;er a whit.
 
 LUCENTIO
-And not a jot of "&ldquo;Tranio&rdquo;" in your mouth.
+And not a jot of &ldquo;Tranio&rdquo; in your mouth.
 Tranio is changed into Lucentio.
 
 BIONDELLO
@@ -475,9 +475,9 @@ And could not get him for my heart to do it.
 
 <speaker>GRUMIO</speaker>
 Knock at the gate? O, heavens, spake you not
-these words plain: "&ldquo;Sirrah, knock me here, rap me
-here, knock me well, and knock me soundly&rdquo;"? And
-come you now with "&ldquo;knocking at the gate&rdquo;"?
+these words plain: &ldquo;Sirrah, knock me here, rap me
+here, knock me well, and knock me soundly&rdquo;? And
+come you now with &ldquo;knocking at the gate&rdquo;?
 
 <speaker>PETRUCHIO</speaker>
 Sirrah, begone, or talk not, I advise you.
@@ -591,7 +591,7 @@ That none shall have access unto Bianca
 Till Katherine the curst have got a husband.
 
 <speaker>GRUMIO</speaker>
-"&ldquo;Katherine the curst,&rdquo;"
+&ldquo;Katherine the curst,&rdquo;
 A title for a maid, of all titles the worst.
 
 <speaker>HORTENSIO</speaker>
@@ -1184,14 +1184,14 @@ Why, no, for she hath broke the lute to me.
 I did but tell her she mistook her frets,
 And bowed her hand to teach her fingering,
 When, with a most impatient devilish spirit,
-"&ldquo; &rsquo;Frets&rsquo; call you these?&rdquo;" quoth she. "&ldquo;I&rsquo;ll fume with
-them!&rdquo;"
+&ldquo; &rsquo;Frets&rsquo; call you these?&rdquo; quoth she. &ldquo;I&rsquo;ll fume with
+them!&rdquo;
 And with that word she struck me on the head,
 And through the instrument my pate made way,
 And there I stood amazed for a while,
 As on a pillory, looking through the lute,
-While she did call me "&ldquo;rascal fiddler,&rdquo;"
-And "&ldquo;twangling Jack,&rdquo;" with twenty such vile terms,
+While she did call me &ldquo;rascal fiddler,&rdquo;
+And &ldquo;twangling Jack,&rdquo; with twenty such vile terms,
 As had she studied to misuse me so.
 
 <speaker>PETRUCHIO</speaker>
@@ -1245,7 +1245,7 @@ Thy virtues spoke of, and thy beauty sounded
 Myself am moved to woo thee for my wife.
 
 <speaker>KATHERINE</speaker>
-"&ldquo;Moved,&rdquo;" in good time! Let him that moved you
+&ldquo;Moved,&rdquo; in good time! Let him that moved you
 hither
 Remove you hence. I knew you at the first
 You were a movable.
@@ -1277,7 +1277,7 @@ Too light for such a swain as you to catch,
 And yet as heavy as my weight should be.
 
 <speaker>PETRUCHIO</speaker>
-"&ldquo;Should be"&mdash;should buzz!
+&ldquo;Should be&rdquo;&mdash;should buzz!
 
 <speaker>KATHERINE</speaker>
 Well ta&rsquo;en, and like a
@@ -1589,7 +1589,7 @@ If whilst I live she will be only mine.
 
 <speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
-That "&ldquo;only&rdquo;" came well in. [<i>To Baptista.</i>]
+That &ldquo;only&rdquo; came well in. [<i>To Baptista.</i>]
  Sir, list to
 me:
 I am my father&rsquo;s heir and only son.
@@ -1667,7 +1667,7 @@ A vengeance on your crafty withered hide!&mdash;
 Yet I have faced it with a card of ten.
 &rsquo;Tis in my head to do my master good.
 I see no reason but supposed Lucentio
-Must get a father, called "&ldquo;supposed Vincentio"&mdash;
+Must get a father, called &ldquo;supposed Vincentio&rdquo;&mdash;
 And that&rsquo;s a wonder. Fathers commonly
 Do get their children. But in this case of wooing,
 A child shall get a sire, if I fail not of my cunning.
@@ -1745,7 +1745,7 @@ Conster them.
 Hic ibat, as I told you before, Simois, I am
 Lucentio, hic est, son unto Vincentio of Pisa,
 Sigeia tellus, disguised thus to get your love, Hic
-steterat, and that "&ldquo;Lucentio&rdquo;" that comes a-wooing,
+steterat, and that &ldquo;Lucentio&rdquo; that comes a-wooing,
 Priami, is my man Tranio, regia, bearing my port,
 celsa senis, that we might beguile the old pantaloon.
 
@@ -1832,13 +1832,13 @@ Yet read the gamut of Hortensio.
 
 <speaker>BIANCA</speaker>
 [<i>reads</i>]
-"&ldquo;Gamut I am, the ground of all accord:
+&ldquo;Gamut I am, the ground of all accord:
 A re, to plead Hortensio&rsquo;s passion;
 B mi, Bianca, take him for thy lord,
 C fa ut, that loves with all affection;
 D sol re, one clef, two notes have I;
-E la mi, show pity or I die.&rdquo;"
-Call you this "&ldquo;gamut&rdquo;"? Tut, I like it not.
+E la mi, show pity or I die.&rdquo;
+Call you this &ldquo;gamut&rdquo;? Tut, I like it not.
 Old fashions please me best. I am not so nice
 To change true rules for odd inventions.
 
@@ -1892,8 +1892,8 @@ He&rsquo;ll woo a thousand, &rsquo;point the day of marriage,
 Make friends, invite, and proclaim the banns,
 Yet never means to wed where he hath wooed.
 Now must the world point at poor Katherine
-And say "&ldquo;Lo, there is mad Petruchio&rsquo;s wife,
-If it would please him come and marry her.&rdquo;"
+And say &ldquo;Lo, there is mad Petruchio&rsquo;s wife,
+If it would please him come and marry her.&rdquo;
 
 <speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
@@ -2104,7 +2104,7 @@ Her father&rsquo;s liking, which to bring to pass,
 As I before imparted to your Worship,
 I am to get a man (whate&rsquo;er he be
 It skills not much, we&rsquo;ll fit him to our turn),
-And he shall be "&ldquo;Vincentio of Pisa,&rdquo;"
+And he shall be &ldquo;Vincentio of Pisa,&rdquo;
 And make assurance here in Padua
 Of greater sums than I have promised.
 So shall you quietly enjoy your hope
@@ -2157,12 +2157,12 @@ Why, she&rsquo;s a devil, a devil, the devil&rsquo;s dam.
 Tut, she&rsquo;s a lamb, a dove, a fool to him.
 I&rsquo;ll tell you, Sir Lucentio: when the priest
 Should ask if Katherine should be his wife,
-"&ldquo;Ay, by gog&rsquo;s wouns!&rdquo;" quoth he, and swore so loud
+&ldquo;Ay, by gog&rsquo;s wouns!&rdquo; quoth he, and swore so loud
 That, all amazed, the priest let fall the book,
 And as he stooped again to take it up,
 This mad-brained bridegroom took him such a cuff
 That down fell priest and book, and book and priest.
-"&ldquo;Now, take them up,&rdquo;" quoth he, "&ldquo;if any list.&rdquo;"
+&ldquo;Now, take them up,&rdquo; quoth he, &ldquo;if any list.&rdquo;
 
 <speaker>TRANIO</speaker>
 [<i>as Lucentio</i>]
@@ -2172,7 +2172,7 @@ What said the wench when he rose again?
 Trembled and shook, for why he stamped and swore
 As if the vicar meant to cozen him.
 But after many ceremonies done,
-He calls for wine. "&ldquo;A health!&rdquo;" quoth he, as if
+He calls for wine. &ldquo;A health!&rdquo; quoth he, as if
 He had been aboard, carousing to his mates
 After a storm; quaffed off the muscatel
 And threw the sops all in the sexton&rsquo;s face,
@@ -2402,7 +2402,7 @@ There&rsquo;s fire ready. And therefore, good Grumio,
 the news!
 
 <speaker>GRUMIO</speaker>
-Why, "&ldquo;Jack boy, ho boy!&rdquo;" and as much news
+Why, &ldquo;Jack boy, ho boy!&rdquo; and as much news
 as wilt thou.
 
 <speaker>CURTIS</speaker>
@@ -2558,7 +2558,7 @@ Where is Nathaniel, Gregory, Phillip?
 Here! Here, sir, here, sir!
 
 <speaker>PETRUCHIO</speaker>
-"&ldquo;Here, sir! Here, sir! Here, sir! Here, sir!&rdquo;"
+&ldquo;Here, sir! Here, sir! Here, sir! Here, sir!&rdquo;
 You loggerheaded and unpolished grooms.
 What? No attendance? No regard? No duty?
 Where is the foolish knave I sent before?
@@ -3231,33 +3231,33 @@ The note lies in &rsquo;s throat, if he say I said so.
 
 <speaker>TAILOR</speaker>
 [<i>reads</i>]
-  "&ldquo;Imprimis, a loose-bodied gown&mdash;&rdquo;"
+  &ldquo;Imprimis, a loose-bodied gown&mdash;&ldquo;
 
 <speaker>GRUMIO</speaker>
-Master, if ever I said "&ldquo;loose-bodied gown,&rdquo;"
+Master, if ever I said &ldquo;loose-bodied gown,&rdquo;
 sew me in the skirts of it and beat me to death with
-a bottom of brown thread. I said "&ldquo;a gown.&rdquo;"
+a bottom of brown thread. I said &ldquo;a gown.&rdquo;
 
 <speaker>PETRUCHIO</speaker>
 Proceed.
 
 <speaker>TAILOR</speaker>
 [<i>reads</i>]
-  "&ldquo;With a small-compassed cape&mdash;&rdquo;"
+  &ldquo;With a small-compassed cape&mdash;&ldquo;
 
 <speaker>GRUMIO</speaker>
 I confess the cape.
 
 <speaker>TAILOR</speaker>
 [<i>reads</i>]
-  "&ldquo;With a trunk sleeve&mdash;&rdquo;"
+  &ldquo;With a trunk sleeve&mdash;&ldquo;
 
 <speaker>GRUMIO</speaker>
 I confess two sleeves.
 
 <speaker>TAILOR</speaker>
 [<i>reads</i>]
-  "&ldquo;The sleeves curiously cut.&rdquo;"
+  &ldquo;The sleeves curiously cut.&rdquo;
 
 <speaker>PETRUCHIO</speaker>
 Ay, there&rsquo;s the villainy.
@@ -3562,7 +3562,7 @@ I may, and will, if she be so contented.
 She will be pleased. Then wherefore should I
 doubt?
 Hap what hap may, I&rsquo;ll roundly go about her.
-It shall go hard if "&ldquo;Cambio&rdquo;" go without her.
+It shall go hard if &ldquo;Cambio&rdquo; go without her.
 [<i>He exits.</i>]
 
 <b id="act-4-scene-5" class="scene-header">Scene 5</b>
@@ -4132,7 +4132,7 @@ My widow says, thus she conceives her tale.
 Very well mended. Kiss him for that, good widow.
 
 <speaker>KATHERINE</speaker>
-"&ldquo;He that is giddy thinks the world turns round"&mdash;
+&ldquo;He that is giddy thinks the world turns round&rdquo;&mdash;
 I pray you tell me what you meant by that.
 
 <speaker>WIDOW</speaker>
@@ -4276,7 +4276,7 @@ word
 That she is busy, and she cannot come.
 
 <speaker>PETRUCHIO</speaker>
-How? "&ldquo;She&rsquo;s busy, and she cannot come&rdquo;"?
+How? &ldquo;She&rsquo;s busy, and she cannot come&rdquo;?
 Is that an answer?
 
 <speaker>GREMIO</speaker>

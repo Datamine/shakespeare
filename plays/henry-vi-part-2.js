@@ -232,11 +232,11 @@ There&rsquo;s reason he should be displeased at it.
 Look to it, lords. Let not his smoothing words
 Bewitch your hearts; be wise and circumspect.
 What though the common people favor him,
-Calling him "&ldquo;Humphrey, the good Duke of
-Gloucester,&rdquo;"
+Calling him &ldquo;Humphrey, the good Duke of
+Gloucester,&rdquo;
 Clapping their hands and crying with loud voice
-"&ldquo;Jesu maintain your royal Excellence!&rdquo;"
-With "&ldquo;God preserve the good Duke Humphrey!&rdquo;"
+&ldquo;Jesu maintain your royal Excellence!&rdquo;
+With &ldquo;God preserve the good Duke Humphrey!&rdquo;
 I fear me, lords, for all this flattering gloss,
 He will be found a dangerous Protector.
 
@@ -471,7 +471,7 @@ We are alone; here&rsquo;s none but thee and I.
 Jesus preserve your royal Majesty!
 
 <speaker>DUCHESS</speaker>
-What sayst thou? "&ldquo;Majesty&rdquo;"? I am but "&ldquo;Grace.&rdquo;"
+What sayst thou? &ldquo;Majesty&rdquo;? I am but &ldquo;Grace.&rdquo;
 
 <speaker>HUME</speaker>
 But by the grace of God and Hume&rsquo;s advice,
@@ -502,7 +502,7 @@ With thy confederates in this weighty cause.
 <speaker>HUME</speaker>
 Hume must make merry with the Duchess&rsquo; gold.
 Marry, and shall! But, how now, Sir John Hume?
-Seal up your lips, and give no words but "&ldquo;mum&rdquo;";
+Seal up your lips, and give no words but &ldquo;mum&rdquo;;
 The business asketh silent secrecy.
 Dame Eleanor gives gold to bring the witch;
 Gold cannot come amiss, were she a devil.
@@ -970,7 +970,7 @@ We will make fast within a hallowed verge.
 
 [<i>Here they do the ceremonies belonging, and
 make the circle. Bolingbroke or Southwell reads
-"&ldquo;Conjuro te, etc.&rdquo;" It thunders and lightens terribly;
+&ldquo;Conjuro te, etc.&rdquo; It thunders and lightens terribly;
 then the Spirit riseth.</i>]
 
 <speaker>SPIRIT</speaker>
@@ -1229,7 +1229,7 @@ How irksome is this music to my heart!
 When such strings jar, what hope of harmony?
 I pray, my lords, let me compound this strife.
 
-[<i>Enter a man from St. Albans crying "&ldquo;A miracle!"</i>]
+[<i>Enter a man from St. Albans crying &ldquo;A miracle!&rdquo;</i>]
 
 <speaker>GLOUCESTER</speaker>
 What means this noise?&mdash;
@@ -1306,8 +1306,8 @@ Or of devotion to this holy shrine?
 <speaker>SIMPCOX</speaker>
 God knows, of pure devotion, being called
 A hundred times and oftener in my sleep
-By good Saint Alban, who said "&ldquo;Simon, come,
-Come, offer at my shrine, and I will help thee.&rdquo;"
+By good Saint Alban, who said &ldquo;Simon, come,
+Come, offer at my shrine, and I will help thee.&rdquo;
 
 <speaker>WIFE</speaker>
 Most true, forsooth, and many time and oft
@@ -1466,7 +1466,7 @@ Alas, master, what shall I do? I am not able to
 stand.
 [<i>After the Beadle hath hit him once, he leaps
 over the stool and runs away; and they follow
-and cry "&ldquo;A miracle!"</i>]
+and cry &ldquo;A miracle!&rdquo;</i>]
 
 <speaker>KING HENRY</speaker>
 O God, seest Thou this, and bearest so long?
@@ -2291,7 +2291,7 @@ And all to make away my guiltless life.
 I shall not want false witness to condemn me
 Nor store of treasons to augment my guilt.
 The ancient proverb will be well effected:
-"&ldquo;A staff is quickly found to beat a dog.&rdquo;"
+&ldquo;A staff is quickly found to beat a dog.&rdquo;
 
 <speaker>CARDINAL</speaker>
 My liege, his railing is intolerable.
@@ -2364,7 +2364,7 @@ With sad unhelpful tears, and with dimmed eyes
 Look after him and cannot do him good,
 So mighty are his vowed enemies.
 His fortunes I will weep and, &rsquo;twixt each groan,
-Say "&ldquo;Who&rsquo;s a traitor, Gloucester he is none.&rdquo;"
+Say &ldquo;Who&rsquo;s a traitor, Gloucester he is none.&rdquo;
 [<i>He exits, with Buckingham, Salisbury, Warwick,
 and Others. Somerset steps aside.</i>]
 
@@ -2757,8 +2757,8 @@ Was I for this nigh-wracked upon the sea
 And twice by awkward wind from England&rsquo;s bank
 Drove back again unto my native clime?
 What boded this, but well forewarning wind
-Did seem to say "&ldquo;Seek not a scorpion&rsquo;s nest,
-Nor set no footing on this unkind shore&rdquo;"?
+Did seem to say &ldquo;Seek not a scorpion&rsquo;s nest,
+Nor set no footing on this unkind shore&rdquo;?
 What did I then but cursed the gentle gusts
 And he that loosed them forth their brazen caves
 And bid them blow towards England&rsquo;s blessed shore
@@ -3462,7 +3462,7 @@ By shameful murder of a guiltless king
 And lofty, proud, encroaching tyranny,
 Burns with revenging fire, whose hopeful colors
 Advance our half-faced sun, striving to shine,
-Under the which is writ "&ldquo;Invitis nubibus.&rdquo;"
+Under the which is writ &ldquo;Invitis nubibus.&rdquo;
 The commons here in Kent are up in arms,
 And, to conclude, reproach and beggary
 Is crept into the palace of our king,
@@ -3582,9 +3582,9 @@ Nay, more, the King&rsquo;s Council are no good
 workmen.
 
 <speaker>HOLLAND</speaker>
-True, and yet it is said "&ldquo;Labor in thy vocation,&rdquo;"
-which is as much to say as "&ldquo;Let the magistrates
-be laboring men.&rdquo;" And therefore should we
+True, and yet it is said &ldquo;Labor in thy vocation,&rdquo;
+which is as much to say as &ldquo;Let the magistrates
+be laboring men.&rdquo; And therefore should we
 be magistrates.
 
 <speaker>BEVIS</speaker>
@@ -4323,8 +4323,8 @@ Why dost thou quiver, man?
 The palsy, and not fear, provokes me.
 
 <speaker>CADE</speaker>
-Nay, he nods at us, as who should say "&ldquo;I&rsquo;ll be
-even with you.&rdquo;" I&rsquo;ll see if his head will stand steadier
+Nay, he nods at us, as who should say &ldquo;I&rsquo;ll be
+even with you.&rdquo; I&rsquo;ll see if his head will stand steadier
 on a pole, or no. Take him away, and behead
 him.
 
@@ -4420,7 +4420,7 @@ What say you, countrymen? Will you relent
 And yield to mercy whil&rsquo;st &rsquo;tis offered you,
 Or let a rabble lead you to your deaths?
 Who loves the King and will embrace his pardon,
-Fling up his cap and say "&ldquo;God save his Majesty!&rdquo;"
+Fling up his cap and say &ldquo;God save his Majesty!&rdquo;
 Who hateth him and honors not his father,
 Henry the Fifth, that made all France to quake,
 Shake he his weapon at us and pass by.
@@ -4461,7 +4461,7 @@ The fearful French, whom you late vanquished,
 Should make a start o&rsquo;er seas and vanquish you?
 Methinks already in this civil broil
 I see them lording it in London streets,
-Crying "&ldquo;Villiago!&rdquo;" unto all they meet.
+Crying &ldquo;Villiago!&rdquo; unto all they meet.
 Better ten thousand baseborn Cades miscarry
 Than you should stoop unto a Frenchman&rsquo;s mercy.
 To France, to France, and get what you have lost!
@@ -4869,7 +4869,7 @@ And let thy tongue be equal with thy heart.
 Shall I endure the sight of Somerset?&mdash;
 False king, why hast thou broken faith with me,
 Knowing how hardly I can brook abuse?
-"&ldquo;King&rdquo;" did I call thee? No, thou art not king,
+&ldquo;King&rdquo; did I call thee? No, thou art not king,
 Not fit to govern and rule multitudes,
 Which dar&rsquo;st not&mdash;no, nor canst not&mdash;rule a traitor.
 That head of thine doth not become a crown;

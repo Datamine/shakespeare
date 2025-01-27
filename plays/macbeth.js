@@ -181,9 +181,9 @@ Sister, where thou?
 
 <speaker>FIRST WITCH</speaker>
 A sailor&rsquo;s wife had chestnuts in her lap
-And munched and munched and munched. "&ldquo;Give
-me,&rdquo;" quoth I.
-"&ldquo;Aroint thee, witch,&rdquo;" the rump-fed runnion cries.
+And munched and munched and munched. &ldquo;Give
+me,&rdquo; quoth I.
+&ldquo;Aroint thee, witch,&rdquo; the rump-fed runnion cries.
 Her husband&rsquo;s to Aleppo gone, master o&rsquo; th&rsquo; Tiger;
 But in a sieve I&rsquo;ll thither sail,
 And, like a rat without a tail,
@@ -572,10 +572,10 @@ report they have more in them than mortal knowledge.
 When I burned in desire to question them further, they
 made themselves air, into which they vanished.
 Whiles I stood rapt in the wonder of it came missives
-from the King, who all-hailed me "&ldquo;Thane of Cawdor,&rdquo;"
+from the King, who all-hailed me &ldquo;Thane of Cawdor,&rdquo;
 by which title, before, these Weird Sisters saluted me
-and referred me to the coming on of time with "&ldquo;Hail,
-king that shalt be.&rdquo;" This have I thought good to deliver
+and referred me to the coming on of time with &ldquo;Hail,
+king that shalt be.&rdquo; This have I thought good to deliver
 thee, my dearest partner of greatness, that thou
 might&rsquo;st not lose the dues of rejoicing by being ignorant
 of what greatness is promised thee. Lay it to thy
@@ -590,7 +590,7 @@ highly,
 That wouldst thou holily; wouldst not play false
 And yet wouldst wrongly win. Thou &rsquo;dst have, great
 Glamis,
-That which cries "&ldquo;Thus thou must do,&rdquo;" if thou have
+That which cries &ldquo;Thus thou must do,&rdquo; if thou have
 it,
 And that which rather thou dost fear to do,
 Than wishest should be undone. Hie thee hither,
@@ -637,7 +637,7 @@ You wait on nature&rsquo;s mischief. Come, thick night,
 And pall thee in the dunnest smoke of hell,
 That my keen knife see not the wound it makes,
 Nor heaven peep through the blanket of the dark
-To cry "&ldquo;Hold, hold!&rdquo;"
+To cry &ldquo;Hold, hold!&rdquo;
 
 [<i>Enter Macbeth.</i>]
 
@@ -811,7 +811,7 @@ To be the same in thine own act and valor
 As thou art in desire? Wouldst thou have that
 Which thou esteem&rsquo;st the ornament of life
 And live a coward in thine own esteem,
-Letting "&ldquo;I dare not&rdquo;" wait upon "&ldquo;I would,&rdquo;"
+Letting &ldquo;I dare not&rdquo; wait upon &ldquo;I would,&rdquo;
 Like the poor cat i&rsquo; th&rsquo; adage?
 
 <speaker>MACBETH</speaker>
@@ -1063,7 +1063,7 @@ A foolish thought, to say a sorry sight.
 
 <speaker>MACBETH</speaker>
 There&rsquo;s one did laugh in &rsquo;s sleep, and one cried
-"&ldquo;Murder!&rdquo;"
+&ldquo;Murder!&rdquo;
 That they did wake each other. I stood and heard
 them.
 But they did say their prayers and addressed them
@@ -1073,17 +1073,17 @@ Again to sleep.
 There are two lodged together.
 
 <speaker>MACBETH</speaker>
-One cried "&ldquo;God bless us&rdquo;" and "&ldquo;Amen&rdquo;" the other,
+One cried &ldquo;God bless us&rdquo; and &ldquo;Amen&rdquo; the other,
 As they had seen me with these hangman&rsquo;s hands,
-List&rsquo;ning their fear. I could not say "&ldquo;Amen&rdquo;"
-When they did say "&ldquo;God bless us.&rdquo;"
+List&rsquo;ning their fear. I could not say &ldquo;Amen&rdquo;
+When they did say &ldquo;God bless us.&rdquo;
 
 <speaker>LADY MACBETH</speaker>
 Consider it not so deeply.
 
 <speaker>MACBETH</speaker>
-But wherefore could not I pronounce "&ldquo;Amen&rdquo;"?
-I had most need of blessing, and "&ldquo;Amen&rdquo;"
+But wherefore could not I pronounce &ldquo;Amen&rdquo;?
+I had most need of blessing, and &ldquo;Amen&rdquo;
 Stuck in my throat.
 
 <speaker>LADY MACBETH</speaker>
@@ -1091,8 +1091,8 @@ These deeds must not be thought
 After these ways; so, it will make us mad.
 
 <speaker>MACBETH</speaker>
-Methought I heard a voice cry "&ldquo;Sleep no more!
-Macbeth does murder sleep"&mdash;the innocent sleep,
+Methought I heard a voice cry &ldquo;Sleep no more!
+Macbeth does murder sleep&rdquo;&mdash;the innocent sleep,
 Sleep that knits up the raveled sleave of care,
 The death of each day&rsquo;s life, sore labor&rsquo;s bath,
 Balm of hurt minds, great nature&rsquo;s second course,
@@ -1102,10 +1102,10 @@ Chief nourisher in life&rsquo;s feast.
 What do you mean?
 
 <speaker>MACBETH</speaker>
-Still it cried "&ldquo;Sleep no more!&rdquo;" to all the house.
-"&ldquo;Glamis hath murdered sleep, and therefore
+Still it cried &ldquo;Sleep no more!&rdquo; to all the house.
+&ldquo;Glamis hath murdered sleep, and therefore
 Cawdor
-Shall sleep no more. Macbeth shall sleep no more.&rdquo;"
+Shall sleep no more. Macbeth shall sleep no more.&rdquo;
 
 <speaker>LADY MACBETH</speaker>
 Who was it that thus cried? Why, worthy thane,
@@ -1722,7 +1722,7 @@ instruments,
 Who wrought with them, and all things else that
 might
 To half a soul and to a notion crazed
-Say "&ldquo;Thus did Banquo.&rdquo;"
+Say &ldquo;Thus did Banquo.&rdquo;
 
 <speaker>FIRST MURDERER</speaker>
 You made it known to us.
@@ -2354,7 +2354,7 @@ Is mortals&rsquo; chiefest enemy.
 [<i>Music and a song.</i>]
 Hark! I am called. My little spirit, see,
 Sits in a foggy cloud and stays for me.	[<i>Hecate exits.</i>]
-[<i>Sing within "&ldquo;Come away, come away,&rdquo;" etc.</i>]
+[<i>Sing within &ldquo;Come away, come away,&rdquo; etc.</i>]
 
 <speaker>FIRST WITCH</speaker>
 Come, let&rsquo;s make haste. She&rsquo;ll soon be back again.
@@ -2415,10 +2415,10 @@ Prepares for some attempt of war.
 Sent he to Macduff?
 
 <speaker>LORD</speaker>
-He did, and with an absolute "&ldquo;Sir, not I,&rdquo;"
+He did, and with an absolute &ldquo;Sir, not I,&rdquo;
 The cloudy messenger turns me his back
-And hums, as who should say "&ldquo;You&rsquo;ll rue the time
-That clogs me with this answer.&rdquo;"
+And hums, as who should say &ldquo;You&rsquo;ll rue the time
+That clogs me with this answer.&rdquo;
 
 <speaker>LENNOX</speaker>
 And that well might
@@ -2445,7 +2445,7 @@ Thrice the brinded cat hath mewed.
 Thrice, and once the hedge-pig whined.
 
 <speaker>THIRD WITCH</speaker>
-Harpier cries "&ldquo;&rsquo;Tis time, &rsquo;tis time!&rdquo;"
+Harpier cries &ldquo;&rsquo;Tis time, &rsquo;tis time!&rdquo;
 
 <speaker>FIRST WITCH</speaker>
 Round about the cauldron go;
@@ -2505,7 +2505,7 @@ And everyone shall share i&rsquo; th&rsquo; gains.
 And now about the cauldron sing
 Like elves and fairies in a ring,
 Enchanting all that you put in.
-[<i>Music and a song: "&ldquo;Black Spirits,&rdquo;" etc. Hecate exits.</i>]
+[<i>Music and a song: &ldquo;Black Spirits,&rdquo; etc. Hecate exits.</i>]
 
 <speaker>SECOND WITCH</speaker>
 By the pricking of my thumbs,
@@ -2935,7 +2935,7 @@ What, you egg?
 He has killed
 me, mother.
 Run away, I pray you.
-[<i>Lady Macduff exits, crying "&ldquo;Murder!&rdquo;" followed by the
+[<i>Lady Macduff exits, crying &ldquo;Murder!&rdquo; followed by the
 Murderers bearing the Son&rsquo;s body.</i>]
 
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
@@ -3321,7 +3321,7 @@ To cure this deadly grief.
 
 <speaker>MACDUFF</speaker>
 He has no children. All my pretty ones?
-Did you say "&ldquo;all&rdquo;"? O hell-kite! All?
+Did you say &ldquo;all&rdquo;? O hell-kite! All?
 What, all my pretty chickens and their dam
 At one fell swoop?
 
@@ -3590,8 +3590,8 @@ Till Birnam Wood remove to Dunsinane
 I cannot taint with fear. What&rsquo;s the boy Malcolm?
 Was he not born of woman? The spirits that know
 All mortal consequences have pronounced me thus:
-"&ldquo;Fear not, Macbeth. No man that&rsquo;s born of woman
-Shall e&rsquo;er have power upon thee.&rdquo;" Then fly, false
+&ldquo;Fear not, Macbeth. No man that&rsquo;s born of woman
+Shall e&rsquo;er have power upon thee.&rdquo; Then fly, false
 thanes,
 And mingle with the English epicures.
 The mind I sway by and the heart I bear
@@ -3769,7 +3769,7 @@ Colors.</i>]
 
 <speaker>MACBETH</speaker>
 Hang out our banners on the outward walls.
-The cry is still "&ldquo;They come!&rdquo;" Our castle&rsquo;s strength
+The cry is still &ldquo;They come!&rdquo; Our castle&rsquo;s strength
 Will laugh a siege to scorn. Here let them lie
 Till famine and the ague eat them up.
 Were they not forced with those that should be
@@ -3844,8 +3844,8 @@ Till famine cling thee. If thy speech be sooth,
 I care not if thou dost for me as much.&mdash;
 I pull in resolution and begin
 To doubt th&rsquo; equivocation of the fiend,
-That lies like truth. "&ldquo;Fear not till Birnam Wood
-Do come to Dunsinane,&rdquo;" and now a wood
+That lies like truth. &ldquo;Fear not till Birnam Wood
+Do come to Dunsinane,&rdquo; and now a wood
 Comes toward Dunsinane.&mdash;Arm, arm, and out!&mdash;
 If this which he avouches does appear,
 There is nor flying hence nor tarrying here.
@@ -4006,7 +4006,7 @@ Then yield thee, coward,
 And live to be the show and gaze o&rsquo; th&rsquo; time.
 We&rsquo;ll have thee, as our rarer monsters are,
 Painted upon a pole, and underwrit
-"&ldquo;Here may you see the tyrant.&rdquo;"
+&ldquo;Here may you see the tyrant.&rdquo;
 
 <speaker>MACBETH</speaker>
 I will not yield
@@ -4016,7 +4016,7 @@ Though Birnam Wood be come to Dunsinane
 And thou opposed, being of no woman born,
 Yet I will try the last. Before my body
 I throw my warlike shield. Lay on, Macduff,
-And damned be him that first cries "&ldquo;Hold! Enough!&rdquo;"
+And damned be him that first cries &ldquo;Hold! Enough!&rdquo;
 [<i>They exit fighting. Alarums.</i>]
 
 [<i>They enter fighting, and Macbeth is slain. Macduff

@@ -25,10 +25,35 @@ def process_content(content):
         # Keep only content from Act 1 onwards
         content = content[act1_match.start():]
     
-    # Replace quotes based on context (before any HTML is added)
-    content = re.sub(r'(?:^|\s)"', r'\g<0>&ldquo;', content)  # Quote after space or start of line
-    content = re.sub(r'"(?=$|\s|[.,!?;])', r'&rdquo;\g<0>', content)  # Quote before space or punctuation
-    content = content.replace("'", "&rsquo;")  # Single quotes/apostrophes
+    def replace_quotes(text):
+        """Replace straight quotes with smart quotes using string manipulation."""
+        result = []
+        in_quote = False
+        
+        # Split into lines to preserve line breaks
+        lines = text.split('\n')
+        for line in lines:
+            chars = list(line)
+            i = 0
+            while i < len(chars):
+                if chars[i] == '"':
+                    # Opening quote if: at start of line, or preceded by space/punctuation/em dash
+                    if (i == 0 or 
+                        chars[i-1].isspace() or 
+                        chars[i-1] in '([{' or 
+                        (i >= 2 and chars[i-2:i] == ['-', '-'])):  # Check for em dash
+                        chars[i] = '&ldquo;'
+                    else:  # Closing quote
+                        chars[i] = '&rdquo;'
+                elif chars[i] == "'":
+                    chars[i] = '&rsquo;'
+                i += 1
+            result.append(''.join(chars))
+        
+        return '\n'.join(result)
+    
+    # Replace quotes before any other processing
+    content = replace_quotes(content)
     
     # Replace em dashes
     content = content.replace("--", "&mdash;")

@@ -27,14 +27,14 @@ We lose the better half of our possession,
 For all the temporal lands which men devout
 By testament have given to the Church
 Would they strip from us, being valued thus:
-"&ldquo;As much as would maintain, to the King&rsquo;s honor,
+&ldquo;As much as would maintain, to the King&rsquo;s honor,
 Full fifteen earls and fifteen hundred knights,
 Six thousand and two hundred good esquires;
 And, to relief of lazars and weak age
 Of indigent faint souls past corporal toil,
 A hundred almshouses right well supplied;
 And to the coffers of the King besides,
-A thousand pounds by th&rsquo; year.&rdquo;" Thus runs the bill.
+A thousand pounds by th&rsquo; year.&rdquo; Thus runs the bill.
 
 BISHOP OF ELY
 This would drink deep.
@@ -217,7 +217,7 @@ That owe yourselves, your lives, and services
 To this imperial throne. There is no bar
 To make against your Highness&rsquo; claim to France
 But this, which they produce from Pharamond:
-"&ldquo;In terram Salicam mulieres ne succedant
+&ldquo;In terram Salicam mulieres ne succedant
 (No woman shall succeed in Salic land),
 Which Salic land the French unjustly gloze
 To be the realm of France, and Pharamond
@@ -232,7 +232,7 @@ Who, holding in disdain the German women
 For some dishonest manners of their life,
 Established then this law: to wit, no female
 Should be inheritrix in Salic land,
-Which "&ldquo;Salic,&rdquo;" as I said, &rsquo;twixt Elbe and Sala
+Which &ldquo;Salic,&rdquo; as I said, &rsquo;twixt Elbe and Sala
 Is at this day in Germany called Meissen.
 Then doth it well appear the Salic law
 Was not devised for the realm of France,
@@ -283,8 +283,8 @@ May I with right and conscience make this claim?
 <speaker>BISHOP OF CANTERBURY</speaker>
 The sin upon my head, dread sovereign,
 For in the Book of Numbers is it writ:
-"&ldquo;When the man dies, let the inheritance
-Descend unto the daughter.&rdquo;" Gracious lord,
+&ldquo;When the man dies, let the inheritance
+Descend unto the daughter.&rdquo; Gracious lord,
 Stand for your own, unwind your bloody flag,
 Look back into your mighty ancestors.
 Go, my dread lord, to your great-grandsire&rsquo;s tomb,
@@ -371,8 +371,8 @@ With sunken wrack and sumless treasuries.
 
 <speaker>BISHOP OF ELY</speaker>
 But there&rsquo;s a saying very old and true:
-	"&ldquo;If that you will France win,
-	Then with Scotland first begin.&rdquo;"
+	&ldquo;If that you will France win,
+	Then with Scotland first begin.&rdquo;
 For once the eagle England being in prey,
 To her unguarded nest the weasel Scot
 Comes sneaking and so sucks her princely eggs,
@@ -689,7 +689,7 @@ Will you shog off? [<i>To Pistol.</i>]
 solus.
 
 <speaker>PISTOL</speaker>
-"&ldquo;Solus, egregious dog? O viper vile, the solus
+&ldquo;Solus, egregious dog? O viper vile, the solus
 in thy most marvelous face, the solus in thy teeth
 and in thy throat and in thy hateful lungs, yea, in thy
 maw, perdy, and, which is worse, within thy nasty
@@ -784,7 +784,7 @@ will.
 
 <speaker>PISTOL</speaker>
 [<i>sheathing his sword</i>]
-  "&ldquo;Sword&rdquo;" is an oath, and
+  &ldquo;Sword&rdquo; is an oath, and
 oaths must have their course.
 
 <speaker>BARDOLPH</speaker>
@@ -1023,8 +1023,8 @@ Unless to dub thee with the name of traitor.
 If that same demon that hath gulled thee thus
 Should with his lion gait walk the whole world,
 He might return to vasty Tartar back
-And tell the legions "&ldquo;I can never win
-A soul so easy as that Englishman&rsquo;s.&rdquo;"
+And tell the legions &ldquo;I can never win
+A soul so easy as that Englishman&rsquo;s.&rdquo;
 O, how hast thou with jealousy infected
 The sweetness of affiance! Show men dutiful?
 Why, so didst thou. Seem they grave and learned?
@@ -1135,9 +1135,9 @@ and one, ev&rsquo;n at the turning o&rsquo; th&rsquo; tide; for after I saw
 him fumble with the sheets and play with flowers
 and smile upon his finger&rsquo;s end, I knew there was
 but one way, for his nose was as sharp as a pen and
-he talked of green fields. "&ldquo;How now, Sir John?&rdquo;"
-quoth I. "&ldquo;What, man, be o&rsquo; good cheer!&rdquo;" So he cried
-out "&ldquo;God, God, God!&rdquo;" three or four times. Now I, to
+he talked of green fields. &ldquo;How now, Sir John?&rdquo;
+quoth I. &ldquo;What, man, be o&rsquo; good cheer!&rdquo; So he cried
+out &ldquo;God, God, God!&rdquo; three or four times. Now I, to
 comfort him, bid him he should not think of God; I
 hoped there was no need to trouble himself with
 any such thoughts yet. So he bade me lay more
@@ -1192,7 +1192,7 @@ Southampton.
 Come, let&rsquo;s away.&mdash;My love, give me thy lips.
 [<i>They kiss.</i>]
  Look to my chattels and my movables.
-Let senses rule. The word is "&ldquo;Pitch and pay.&rdquo;" Trust
+Let senses rule. The word is &ldquo;Pitch and pay.&rdquo; Trust
 none, for oaths are straws, men&rsquo;s faiths are wafer-cakes,
 and Holdfast is the only dog, my duck.
 Therefore, Caveto be thy counselor. Go, clear thy
@@ -1519,7 +1519,7 @@ That hath not noble luster in your eyes.
 I see you stand like greyhounds in the slips,
 Straining upon the start. The game&rsquo;s afoot.
 Follow your spirit, and upon this charge
-Cry "&ldquo;God for Harry, England, and Saint George!&rdquo;"
+Cry &ldquo;God for Harry, England, and Saint George!&rdquo;
 [<i>Alarum, and chambers go off.</i>]
 [<i>They exit.</i>]
 
@@ -1538,7 +1538,7 @@ The humor of it is too hot; that is the very plainsong
 of it.
 
 <speaker>PISTOL</speaker>
-"&ldquo;The plainsong&rdquo;" is most just, for humors do
+&ldquo;The plainsong&rdquo; is most just, for humors do
 abound.
 Knocks go and come. God&rsquo;s vassals drop and die,
 [<i>Sings</i>]
@@ -1840,28 +1840,28 @@ Un peu, madame.
 
 <speaker>KATHERINE</speaker>
 Je te prie, m&rsquo;enseignez. Il faut que j&rsquo;apprenne
-a parler. Comment appelez-vous "&ldquo;la main&rdquo;" en
+a parler. Comment appelez-vous &ldquo;la main&rdquo; en
 anglais?
 
 <speaker>ALICE</speaker>
-La main? Elle est appelee "&ldquo;de hand.&rdquo;"
+La main? Elle est appelee &ldquo;de hand.&rdquo;
 
 <speaker>KATHERINE</speaker>
-De hand. Et "&ldquo;les doigts&rdquo;"?
+De hand. Et &ldquo;les doigts&rdquo;?
 
 <speaker>ALICE</speaker>
 Les doigts? Ma foi, j&rsquo;oublie les doigts; mais je
 me souviendrai. Les doigts? Je pense qu&rsquo;ils sont
-appeles "&ldquo;de fingres&rdquo;"; oui, de fingres.
+appeles &ldquo;de fingres&rdquo;; oui, de fingres.
 
 <speaker>KATHERINE</speaker>
 La main, de hand. Les doigts, le fingres.
 Je pense que je suis le bon ecolier. J&rsquo;ai gagne deux
-mots d&rsquo;anglais vitement. Comment appelez-vous "&ldquo;les
-ongles&rdquo;"?
+mots d&rsquo;anglais vitement. Comment appelez-vous &ldquo;les
+ongles&rdquo;?
 
 <speaker>ALICE</speaker>
-Les ongles? Nous les appelons "&ldquo;de nailes.&rdquo;"
+Les ongles? Nous les appelons &ldquo;de nailes.&rdquo;
 
 <speaker>KATHERINE</speaker>
 De nailes. Ecoutez. Dites-moi si je parle
@@ -1871,16 +1871,16 @@ bien: de hand, de fingres, et de nailes.
 C&rsquo;est bien dit, madame. Il est fort bon anglais.
 
 <speaker>KATHERINE</speaker>
-Dites-moi l&rsquo;anglais pour "&ldquo;le bras.&rdquo;"
+Dites-moi l&rsquo;anglais pour &ldquo;le bras.&rdquo;
 
 <speaker>ALICE</speaker>
-"&ldquo;De arme,&rdquo;" madame.
+&ldquo;De arme,&rdquo; madame.
 
 <speaker>KATHERINE</speaker>
-Et "&ldquo;le coude&rdquo;"?
+Et &ldquo;le coude&rdquo;?
 
 <speaker>ALICE</speaker>
-"&ldquo;D&rsquo; elbow.&rdquo;"
+&ldquo;D&rsquo; elbow.&rdquo;
 
 <speaker>KATHERINE</speaker>
 D&rsquo; elbow. Je m&rsquo;en fais la repetition de tous
@@ -1898,16 +1898,16 @@ D&rsquo; elbow, madame.
 
 <speaker>KATHERINE</speaker>
 O Seigneur Dieu! Je m&rsquo;en oublie; d&rsquo; elbow.
-Comment appelez-vous "&ldquo;le col&rdquo;"?
+Comment appelez-vous &ldquo;le col&rdquo;?
 
 <speaker>ALICE</speaker>
-"&ldquo;De nick,&rdquo;" madame.
+&ldquo;De nick,&rdquo; madame.
 
 <speaker>KATHERINE</speaker>
-De nick. Et "&ldquo;le menton&rdquo;"?
+De nick. Et &ldquo;le menton&rdquo;?
 
 <speaker>ALICE</speaker>
-"&ldquo;De chin.&rdquo;"
+&ldquo;De chin.&rdquo;
 
 <speaker>KATHERINE</speaker>
 De sin. Le col, de nick; le menton, de sin.
@@ -1939,10 +1939,10 @@ Sauf votre honneur, d&rsquo; elbow.
 
 <speaker>KATHERINE</speaker>
 Ainsi dis-je: d&rsquo; elbow, de nick, et de sin.
-Comment appelez-vous "&ldquo;le pied&rdquo;" et "&ldquo;la robe&rdquo;"?
+Comment appelez-vous &ldquo;le pied&rdquo; et &ldquo;la robe&rdquo;?
 
 <speaker>ALICE</speaker>
-"&ldquo;Le foot,&rdquo;" madame, et "&ldquo;le count.&rdquo;"
+&ldquo;Le foot,&rdquo; madame, et &ldquo;le count.&rdquo;
 
 <speaker>KATHERINE</speaker>
 Le foot, et le count. O Seigneur Dieu! Ils
@@ -2002,7 +2002,7 @@ Let us not hang like roping icicles
 Upon our houses&rsquo; thatch, whiles a more frosty
 people
 Sweat drops of gallant youth in our rich fields!
-"&ldquo;Poor&rdquo;" we may call them in their native lords.
+&ldquo;Poor&rdquo; we may call them in their native lords.
 
 <speaker>DAUPHIN</speaker>
 By faith and honor,
@@ -2263,7 +2263,7 @@ My master&rsquo;s mind.
 Unfold it.
 
 <speaker>MONTJOY</speaker>
-Thus says my king: "&ldquo;Say thou to Harry of
+Thus says my king: &ldquo;Say thou to Harry of
 England, though we seemed dead, we did but sleep.
 Advantage is a better soldier than rashness. Tell him
 we could have rebuked him at Harfleur, but that we
@@ -2281,7 +2281,7 @@ too faint a number; and for our disgrace, his own
 person kneeling at our feet but a weak and worthless
 satisfaction. To this, add defiance, and tell him,
 for conclusion, he hath betrayed his followers,
-whose condemnation is pronounced.&rdquo;" So far my
+whose condemnation is pronounced.&rdquo; So far my
 king and master; so much my office.
 
 <speaker>KING HENRY</speaker>
@@ -2405,8 +2405,8 @@ a subject for a sovereign to reason on, and for a
 sovereign&rsquo;s sovereign to ride on, and for the world,
 familiar to us and unknown, to lay apart their
 particular functions and wonder at him. I once writ
-a sonnet in his praise and began thus: "&ldquo;Wonder of
-nature&mdash;&rdquo;"
+a sonnet in his praise and began thus: &ldquo;Wonder of
+nature&mdash;&ldquo;
 
 <speaker>ORLEANS</speaker>
 I have heard a sonnet begin so to one&rsquo;s
@@ -2458,8 +2458,8 @@ I could make as true a boast as that if I had
 a sow to my mistress.
 
 <speaker>DAUPHIN</speaker>
-"&ldquo;Le chien est retourne a son propre vomissement,
-et la truie lavee au bourbier.&rdquo;" Thou mak&rsquo;st use
+&ldquo;Le chien est retourne a son propre vomissement,
+et la truie lavee au bourbier.&rdquo; Thou mak&rsquo;st use
 of anything.
 
 <speaker>CONSTABLE</speaker>
@@ -2566,21 +2566,21 @@ it appears, it will bate.
 Ill will never said well.
 
 <speaker>CONSTABLE</speaker>
-I will cap that proverb with "&ldquo;There is
-flattery in friendship.&rdquo;"
+I will cap that proverb with &ldquo;There is
+flattery in friendship.&rdquo;
 
 <speaker>ORLEANS</speaker>
-And I will take up that with "&ldquo;Give the devil
-his due.&rdquo;"
+And I will take up that with &ldquo;Give the devil
+his due.&rdquo;
 
 <speaker>CONSTABLE</speaker>
 Well placed; there stands your friend for
 the devil. Have at the very eye of that proverb with
-"&ldquo;A pox of the devil.&rdquo;"
+&ldquo;A pox of the devil.&rdquo;
 
 <speaker>ORLEANS</speaker>
 You are the better at proverbs, by how much
-"&ldquo;A fool&rsquo;s bolt is soon shot.&rdquo;"
+&ldquo;A fool&rsquo;s bolt is soon shot.&rdquo;
 
 <speaker>CONSTABLE</speaker>
 You have shot over.
@@ -2688,7 +2688,7 @@ Presenteth them unto the gazing moon
 So many horrid ghosts. O now, who will behold
 The royal captain of this ruined band
 Walking from watch to watch, from tent to tent,
-Let him cry, "&ldquo;Praise and glory on his head!&rdquo;"
+Let him cry, &ldquo;Praise and glory on his head!&rdquo;
 For forth he goes and visits all his host,
 Bids them good morrow with a modest smile,
 And calls them brothers, friends, and countrymen.
@@ -2739,7 +2739,7 @@ Were better than a churlish turf of France.
 
 <speaker>ERPINGHAM</speaker>
 Not so, my liege, this lodging likes me better,
-Since I may say "&ldquo;Now lie I like a king.&rdquo;"
+Since I may say &ldquo;Now lie I like a king.&rdquo;
 
 <speaker>KING HENRY</speaker>
 &rsquo;Tis good for men to love their present pains
@@ -2979,7 +2979,7 @@ But if the cause be not good, the King
 himself hath a heavy reckoning to make, when all
 those legs and arms and heads, chopped off in a
 battle, shall join together at the latter day, and cry
-all "&ldquo;We died at such a place,&rdquo;" some swearing, some
+all &ldquo;We died at such a place,&rdquo; some swearing, some
 crying for a surgeon, some upon their wives left
 poor behind them, some upon the debts they owe,
 some upon their children rawly left. I am afeard
@@ -3059,8 +3059,8 @@ You pay him then. That&rsquo;s a perilous shot out
 of an elder gun, that a poor and a private displeasure
 can do against a monarch. You may as well go
 about to turn the sun to ice with fanning in his face
-with a peacock&rsquo;s feather. You&rsquo;ll "&ldquo;never trust his
-word after.&rdquo;" Come, &rsquo;tis a foolish saying.
+with a peacock&rsquo;s feather. You&rsquo;ll &ldquo;never trust his
+word after.&rdquo; Come, &rsquo;tis a foolish saying.
 
 <speaker>KING HENRY</speaker>
 Your reproof is something too round. I
@@ -3089,8 +3089,8 @@ There. [<i>They exchange gloves.</i>]
 
 <speaker>WILLIAMS</speaker>
 This will I also wear in my cap. If ever thou
-come to me and say, after tomorrow, "&ldquo;This is my
-glove,&rdquo;" by this hand I will take thee a box on the
+come to me and say, after tomorrow, &ldquo;This is my
+glove,&rdquo; by this hand I will take thee a box on the
 ear.
 
 <speaker>KING HENRY</speaker>
@@ -3400,7 +3400,7 @@ Will stand o&rsquo; tiptoe when this day is named
 And rouse him at the name of Crispian.
 He that shall see this day, and live old age,
 Will yearly on the vigil feast his neighbors
-And say "&ldquo;Tomorrow is Saint Crispian.&rdquo;"
+And say &ldquo;Tomorrow is Saint Crispian.&rdquo;
 Then will he strip his sleeve and show his scars.
 Old men forget; yet all shall be forgot,
 But he&rsquo;ll remember with advantages
@@ -3593,8 +3593,8 @@ Master Fer. I&rsquo;ll fer him, and firk him, and ferret
 him. Discuss the same in French unto him.
 
 <speaker>BOY</speaker>
-I do not know the French for "&ldquo;fer,&rdquo;" and "&ldquo;ferret,&rdquo;"
-and "&ldquo;firk.&rdquo;"
+I do not know the French for &ldquo;fer,&rdquo; and &ldquo;ferret,&rdquo;
+and &ldquo;firk.&rdquo;
 
 <speaker>PISTOL</speaker>
 Bid him prepare, for I will cut his throat.
@@ -3666,8 +3666,8 @@ Follow me.
 Suivez-vous le grand capitaine.
 [<i>The French Soldier stands up. He and Pistol exit.</i>]
 I did never know so full a voice issue from so empty
-a heart. But the saying is true: "&ldquo;The empty vessel
-makes the greatest sound.&rdquo;" Bardolph and Nym had
+a heart. But the saying is true: &ldquo;The empty vessel
+makes the greatest sound.&rdquo; Bardolph and Nym had
 ten times more valor than this roaring devil i&rsquo; th&rsquo; old
 play, that everyone may pare his nails with a wooden
 dagger, and they are both hanged, and so would
@@ -3756,15 +3756,15 @@ Suffolk first died, and York, all haggled over,
 Comes to him where in gore he lay insteeped,
 And takes him by the beard, kisses the gashes
 That bloodily did yawn upon his face.
-He cries aloud "&ldquo;Tarry, my cousin Suffolk.
+He cries aloud &ldquo;Tarry, my cousin Suffolk.
 My soul shall thine keep company to heaven.
 Tarry, sweet soul, for mine; then fly abreast,
 As in this glorious and well-foughten field
-We kept together in our chivalry.&rdquo;"
+We kept together in our chivalry.&rdquo;
 Upon these words I came and cheered him up.
 He smiled me in the face, raught me his hand,
-And with a feeble grip, says "&ldquo;Dear my lord,
-Commend my service to my sovereign.&rdquo;"
+And with a feeble grip, says &ldquo;Dear my lord,
+Commend my service to my sovereign.&rdquo;
 So did he turn, and over Suffolk&rsquo;s neck
 He threw his wounded arm and kissed his lips,
 And so, espoused to death, with blood he sealed
@@ -3813,7 +3813,7 @@ Alexander the Pig was born?
 Alexander the Great.
 
 <speaker>FLUELLEN</speaker>
-Why, I pray you, is not "&ldquo;pig&rdquo;" great? The pig,
+Why, I pray you, is not &ldquo;pig&rdquo; great? The pig,
 or the great, or the mighty, or the huge, or the
 magnanimous, are all one reckonings, save the
 phrase is a little variations.
@@ -4446,7 +4446,7 @@ You say very true, scald knave, when God&rsquo;s
 will is. I will desire you to live in the meantime and
 eat your victuals. Come, there is sauce for it. [<i>Strikes
 him.</i>]
- You called me yesterday "&ldquo;mountain squire,&rdquo;"
+ You called me yesterday &ldquo;mountain squire,&rdquo;
 but I will make you today a squire of low degree. I
 pray you, fall to. If you can mock a leek, you can eat
 a leek.
@@ -4574,7 +4574,7 @@ Have lost their quality, and that this day
 Shall change all griefs and quarrels into love.
 
 <speaker>KING HENRY</speaker>
-To cry "&ldquo;Amen&rdquo;" to that, thus we appear.
+To cry &ldquo;Amen&rdquo; to that, thus we appear.
 
 <speaker>QUEEN OF FRANCE</speaker>
 You English princes all, I do salute you.
@@ -4694,8 +4694,8 @@ hear you confess it brokenly with your English
 tongue. Do you like me, Kate?
 
 <speaker>KATHERINE</speaker>
-Pardonnez-moi, I cannot tell wat is "&ldquo;like
-me.&rdquo;"
+Pardonnez-moi, I cannot tell wat is &ldquo;like
+me.&rdquo;
 
 <speaker>KING HENRY</speaker>
 An angel is like you, Kate, and you are
@@ -4733,9 +4733,9 @@ understanding. I am glad thou canst speak no
 better English, for if thou couldst, thou wouldst
 find me such a plain king that thou wouldst think I
 had sold my farm to buy my crown. I know no ways
-to mince it in love, but directly to say "&ldquo;I love you.&rdquo;"
-Then if you urge me farther than to say "&ldquo;Do you, in
-faith?&rdquo;" I wear out my suit. Give me your answer, i&rsquo;
+to mince it in love, but directly to say &ldquo;I love you.&rdquo;
+Then if you urge me farther than to say &ldquo;Do you, in
+faith?&rdquo; I wear out my suit. Give me your answer, i&rsquo;
 faith, do; and so clap hands and a bargain. How say
 you, lady?
 
@@ -4875,11 +4875,11 @@ wear me, if thou wear me, better and better. And
 therefore tell me, most fair Katherine, will you have
 me? Put off your maiden blushes, avouch the
 thoughts of your heart with the looks of an empress,
-take me by the hand, and say "&ldquo;Harry of England, I
-am thine,&rdquo;" which word thou shalt no sooner bless
-mine ear withal, but I will tell thee aloud "&ldquo;England
+take me by the hand, and say &ldquo;Harry of England, I
+am thine,&rdquo; which word thou shalt no sooner bless
+mine ear withal, but I will tell thee aloud &ldquo;England
 is thine, Ireland is thine, France is thine, and Henry
-Plantagenet is thine,&rdquo;" who, though I speak it before
+Plantagenet is thine,&rdquo; who, though I speak it before
 his face, if he be not fellow with the best king, thou
 shalt find the best king of good fellows. Come, your
 answer in broken music, for thy voice is music, and

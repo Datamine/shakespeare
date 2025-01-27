@@ -668,7 +668,7 @@ And come to us as favorers, not as foes.
 
 <speaker>CLEON</speaker>
 Thou speak&rsquo;st like him&rsquo;s untutored to repeat
-"&ldquo;Who makes the fairest show means most deceit.&rdquo;"
+&ldquo;Who makes the fairest show means most deceit.&rdquo;
 But bring they what they will and what they can,
 What need we fear?
 The ground&rsquo;s the lowest, and we are halfway there.
@@ -972,7 +972,7 @@ Why, I&rsquo;ll tell you. This is called Pentapolis,
 and our king the good Simonides.
 
 <speaker>PERICLES</speaker>
-"&ldquo;The good Simonides&rdquo;" do you call him?
+&ldquo;The good Simonides&rdquo; do you call him?
 
 <speaker>FIRST FISHERMAN</speaker>
 Ay, sir, and he deserves so to be called
@@ -980,7 +980,7 @@ for his peaceable reign and good government.
 
 <speaker>PERICLES</speaker>
 He is a happy king, since he gains from his
-subjects the name of "&ldquo;good&rdquo;" by his government.
+subjects the name of &ldquo;good&rdquo; by his government.
 How far is his court distant from this shore?
 
 <speaker>FIRST FISHERMAN</speaker>
@@ -1015,11 +1015,11 @@ Thou givest me somewhat to repair myself;
 And though it was mine own, part of my heritage
 Which my dead father did bequeath to me
 With this strict charge even as he left his life,
-"&ldquo;Keep it, my Pericles; it hath been a shield
-&rsquo;Twixt me and death,&rdquo;" and pointed to this brace,
-"&ldquo;For that it saved me, keep it. In like necessity&mdash;
+&ldquo;Keep it, my Pericles; it hath been a shield
+&rsquo;Twixt me and death,&rdquo; and pointed to this brace,
+&ldquo;For that it saved me, keep it. In like necessity&mdash;
 The which the gods protect thee from&mdash;may &rsquo;t
-defend thee.&rdquo;"
+defend thee.&rdquo;
 It kept where I kept, I so dearly loved it,
 Till the rough seas, that spares not any man,
 Took it in rage, though calmed have given &rsquo;t again.
@@ -1210,7 +1210,7 @@ But stay, the knights are coming.
 We will withdraw into the gallery.
 [<i>They exit.</i>]
 
-[<i>Great shouts offstage, and all cry, "&ldquo;The mean knight."</i>]
+[<i>Great shouts offstage, and all cry, &ldquo;The mean knight.&rdquo;</i>]
 
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
@@ -1396,7 +1396,7 @@ And waste the time which looks for other revels.
 Even in your armors, as you are addressed,
 Will well become a soldiers&rsquo; dance.
 I will not have excuse with saying this:
-"&ldquo;Loud music is too harsh for ladies&rsquo; heads,&rdquo;"
+&ldquo;Loud music is too harsh for ladies&rsquo; heads,&rdquo;
 Since they love men in arms as well as beds.
 [<i>They dance.</i>]
 So, this was well asked, &rsquo;twas so well performed.
@@ -1773,8 +1773,8 @@ Will take the crown. The sum of this,
 Brought hither to Pentapolis,
 Y-ravished the regions round,
 And everyone with claps can sound,
-"&ldquo;Our heir apparent is a king!
-Who dreamt, who thought of such a thing?&rdquo;"
+&ldquo;Our heir apparent is a king!
+Who dreamt, who thought of such a thing?&rdquo;
 Brief, he must hence depart to Tyre.
 His queen, with child, makes her desire&mdash;
 Which who shall cross?&mdash;along to go.
@@ -2431,7 +2431,7 @@ Was &rsquo;t so?
 
 <speaker>MARINA</speaker>
 My father, as nurse says, did never fear,
-But cried "&ldquo;Good seamen!&rdquo;" to the sailors,
+But cried &ldquo;Good seamen!&rdquo; to the sailors,
 Galling his kingly hands haling ropes,
 And, clasping to the mast, endured a sea
 That almost burst the deck.
@@ -2443,7 +2443,7 @@ When was this?
 When I was born.
 Never was waves nor wind more violent,
 And from the ladder-tackle washes off
-A canvas-climber. "&ldquo;Ha!&rdquo;" says one, "&ldquo;Wolt out?&rdquo;"
+A canvas-climber. &ldquo;Ha!&rdquo; says one, &ldquo;Wolt out?&rdquo;
 And with a dropping industry they skip
 From stern to stern. The Boatswain whistles, and
 The Master calls and trebles their confusion.
@@ -2632,8 +2632,8 @@ her entertainment.	[<i>He exits with Pirates.</i>]
 <speaker>BAWD</speaker>
 Bolt, take you the marks of her: the color of her
 hair, complexion, height, her age, with warrant of
-her virginity, and cry "&ldquo;He that will give most shall
-have her first.&rdquo;" Such a maidenhead were no cheap
+her virginity, and cry &ldquo;He that will give most shall
+have her first.&rdquo; Such a maidenhead were no cheap
 thing, if men were as they have been. Get this done
 as I command you.
 
@@ -2848,7 +2848,7 @@ To foster is not ever to preserve.
 She died at night; I&rsquo;ll say so. Who can cross it
 Unless you play the impious innocent
 And, for an honest attribute, cry out
-"&ldquo;She died by foul play!&rdquo;"
+&ldquo;She died by foul play!&rdquo;
 
 <speaker>CLEON</speaker>
 O, go to. Well, well,
@@ -3613,7 +3613,7 @@ And to the world and awkward casualties
 Bound me in servitude. [<i>Aside.</i>]
  I will desist,
 But there is something glows upon my cheek,
-And whispers in mine ear "&ldquo;Go not till he speak.&rdquo;"
+And whispers in mine ear &ldquo;Go not till he speak.&rdquo;
 
 <speaker>PERICLES</speaker>
 My fortunes&mdash;parentage&mdash;good parentage,

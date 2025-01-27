@@ -607,7 +607,7 @@ Than my fortunes to me.	[<i>They sit.</i>]
 My lord, we always have confessed it.
 
 <speaker>APEMANTUS</speaker>
-Ho, ho, "&ldquo;confessed it&rdquo;"? Hanged it, have you not?
+Ho, ho, &ldquo;confessed it&rdquo;? Hanged it, have you not?
 
 <speaker>TIMON</speaker>
 O Apemantus, you are welcome.
@@ -663,7 +663,7 @@ Let it flow this way, my good lord.
 
 <speaker>APEMANTUS</speaker>
 [<i>apart</i>]
-  "&ldquo;Flow this way&rdquo;"? A brave fellow.
+  &ldquo;Flow this way&rdquo;? A brave fellow.
 He keeps his tides well. Those healths will make
 thee and thy state look ill, Timon.
 Here&rsquo;s that which is too weak to be a sinner,
@@ -777,7 +777,7 @@ which bears that office to signify their pleasures.
 <speaker>TIMON</speaker>
 I pray, let them be admitted. [<i>Servant exits.</i>]
 
-[<i>Enter "&ldquo;Cupid."</i>]
+[<i>Enter &ldquo;Cupid.&rdquo;</i>]
 
 <speaker>CUPID</speaker>
 Hail to thee, worthy Timon, and to all
@@ -1077,7 +1077,7 @@ Here, sir. What is your pleasure?
 Get on your cloak and haste you to Lord Timon.
 Importune him for my moneys. Be not ceased
 With slight denial, nor then silenced when
-"&ldquo;Commend me to your master&rdquo;" and the cap
+&ldquo;Commend me to your master&rdquo; and the cap
 Plays in the right hand thus; but tell him
 My uses cry to me. I must serve my turn
 Out of mine own. His days and times are past,
@@ -1097,7 +1097,7 @@ Which flashes now a phoenix. Get you gone.
 I go, sir.
 
 <speaker>SENATOR</speaker>
-"&ldquo;I go, sir&rdquo;"? Take the bonds along with you
+&ldquo;I go, sir&rdquo;? Take the bonds along with you
 And have the dates in. Come.
 [<i>He hands Caphis papers.</i>]
 
@@ -1635,7 +1635,7 @@ furnish him, nothing doubting your present assistance
 therein.
 
 <speaker>LUCULLUS</speaker>
-La, la, la, la. "&ldquo;Nothing doubting&rdquo;" says he?
+La, la, la, la. &ldquo;Nothing doubting&rdquo; says he?
 Alas, good lord! A noble gentleman &rsquo;tis, if he would
 not keep so good a house. Many a time and often I
 ha&rsquo; dined with him and told him on &rsquo;t, and come
@@ -2734,7 +2734,7 @@ The latest of my wealth I&rsquo;ll share amongst you.
 Wherever we shall meet, for Timon&rsquo;s sake
 Let&rsquo;s yet be fellows. Let&rsquo;s shake our heads and say,
 As &rsquo;twere a knell unto our master&rsquo;s fortunes,
-"&ldquo;We have seen better days.&rdquo;" [<i>(He offers them
+&ldquo;We have seen better days.&rdquo; [<i>(He offers them
 money.)</i>]
  Let each take some.
 Nay, put out all your hands. Not one word more.
@@ -2784,7 +2784,7 @@ It is the pasture lards the brother&rsquo;s sides,
 The want that makes him lean. Who dares, who
 dares
 In purity of manhood stand upright
-And say "&ldquo;This man&rsquo;s a flatterer&rdquo;"? If one be,
+And say &ldquo;This man&rsquo;s a flatterer&rdquo;? If one be,
 So are they all, for every grise of fortune
 Is smoothed by that below. The learned pate
 Ducks to the golden fool. All&rsquo;s obliquy.
@@ -4229,7 +4229,7 @@ As slept within the shadow of your power
 Have wandered with our traversed arms and breathed
 Our sufferance vainly. Now the time is flush,
 When crouching marrow in the bearer strong
-Cries of itself "&ldquo;No more!&rdquo;" Now breathless wrong
+Cries of itself &ldquo;No more!&rdquo; Now breathless wrong
 Shall sit and pant in your great chairs of ease,
 And pursy insolence shall break his wind
 With fear and horrid flight.

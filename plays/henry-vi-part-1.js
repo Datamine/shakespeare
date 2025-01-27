@@ -193,7 +193,7 @@ Here, there, and everywhere, enraged, he slew.
 The French exclaimed the devil was in arms;
 All the whole army stood agazed on him.
 His soldiers, spying his undaunted spirit,
-"&ldquo;A Talbot! A Talbot!&rdquo;" cried out amain
+&ldquo;A Talbot! A Talbot!&rdquo; cried out amain
 And rushed into the bowels of the battle.
 Here had the conquest fully been sealed up
 If Sir John Fastolf had not played the coward.
@@ -635,7 +635,7 @@ Here by the cheeks I&rsquo;ll drag thee up and down.
 Gloucester, thou wilt answer this before the Pope.
 
 <speaker>GLOUCESTER</speaker>
-Winchester goose, I cry "&ldquo;a rope, a rope!"&mdash;
+Winchester goose, I cry &ldquo;a rope, a rope!&rdquo;&mdash;
 Now beat them hence; why do you let them stay?&mdash;
 Thee I&rsquo;ll chase hence, thou wolf in sheep&rsquo;s array.&mdash;
 Out, tawny coats, out, scarlet hypocrite!
@@ -776,8 +776,8 @@ Yet tell&rsquo;st thou not how thou wert entertained.
 With scoffs and scorns and contumelious taunts.
 In open marketplace produced they me
 To be a public spectacle to all.
-"&ldquo;Here,&rdquo;" said they, "&ldquo;is the terror of the French,
-The scarecrow that affrights our children so.&rdquo;"
+&ldquo;Here,&rdquo; said they, &ldquo;is the terror of the French,
+The scarecrow that affrights our children so.&rdquo;
 Then broke I from the officers that led me,
 And with my nails digged stones out of the ground
 To hurl at the beholders of my shame.
@@ -847,8 +847,8 @@ Bear hence his body; I will help to bury it.
 Salisbury, cheer thy spirit with this comfort,
 Thou shalt not die whiles&mdash;
 He beckons with his hand and smiles on me
-As who should say "&ldquo;When I am dead and gone,
-Remember to avenge me on the French.&rdquo;"
+As who should say &ldquo;When I am dead and gone,
+Remember to avenge me on the French.&rdquo;
 Plantagenet, I will; and, like thee, Nero,
 Play on the lute, beholding the towns burn.
 Wretched shall France be only in my name.
@@ -1072,7 +1072,7 @@ Now, Salisbury, for thee and for the right
 Of English Henry, shall this night appear
 How much in duty I am bound to both.
 [<i>Scaling the walls, they cry
-"&ldquo;Saint George! A Talbot!"</i>]
+&ldquo;Saint George! A Talbot!&rdquo;</i>]
 
 <speaker>SENTINEL</speaker>
 Arm, arm! The enemy doth make assault.
@@ -1157,12 +1157,12 @@ To gather our soldiers, scattered and dispersed,
 And lay new platforms to endamage them.
 
 [<i>Alarum. Enter an English Soldier, crying,
-"&ldquo;A Talbot, A Talbot!&rdquo;" The French fly,
+&ldquo;A Talbot, A Talbot!&rdquo; The French fly,
 leaving their clothes behind.</i>]
 
 <speaker>SOLDIER</speaker>
 I&rsquo;ll be so bold to take what they have left.
-The cry of "&ldquo;Talbot&rdquo;" serves me for a sword,
+The cry of &ldquo;Talbot&rdquo; serves me for a sword,
 For I have loaden me with many spoils,
 Using no other weapon but his name.
 [<i>He exits.</i>]
@@ -1943,8 +1943,8 @@ Is not his Grace Protector to the King?
 <speaker>PLANTAGENET</speaker>
 [<i>aside</i>]
 Plantagenet, I see, must hold his tongue,
-Lest it be said "&ldquo;Speak, sirrah, when you should;
-Must your bold verdict enter talk with lords?&rdquo;"
+Lest it be said &ldquo;Speak, sirrah, when you should;
+Must your bold verdict enter talk with lords?&rdquo;
 Else would I have a fling at Winchester.
 
 <speaker>KING HENRY</speaker>
@@ -1958,13 +1958,13 @@ Believe me, lords, my tender years can tell
 Civil dissension is a viperous worm
 That gnaws the bowels of the commonwealth.
 
-[<i>A noise within: "&ldquo;Down with the tawny coats!"</i>]
+[<i>A noise within: &ldquo;Down with the tawny coats!&rdquo;</i>]
 What tumult &rsquo;s this?
 
 <speaker>WARWICK</speaker>
 An uproar, I dare warrant,
 Begun through malice of the Bishop&rsquo;s men.
-[<i>A noise again: "&ldquo;Stones! Stones!"</i>]
+[<i>A noise again: &ldquo;Stones! Stones!&rdquo;</i>]
 
 [<i>Enter Mayor.</i>]
 
@@ -2237,7 +2237,7 @@ And once again we&rsquo;ll sleep secure in Roan.
 <speaker>BASTARD</speaker>
 Here entered Pucelle and her practisants.
 Now she is there, how will she specify
-"&ldquo;Here is the best and safest passage in&rdquo;"?
+&ldquo;Here is the best and safest passage in&rdquo;?
 
 <speaker>REIGNIER</speaker>
 By thrusting out a torch from yonder tower,
@@ -2261,7 +2261,7 @@ A prophet to the fall of all our foes!
 
 <speaker>REIGNIER</speaker>
 Defer no time; delays have dangerous ends.
-Enter and cry "&ldquo;The Dauphin!&rdquo;" presently,
+Enter and cry &ldquo;The Dauphin!&rdquo; presently,
 And then do execution on the watch.
 [<i>Alarum. They exit.</i>]
 
@@ -2782,7 +2782,7 @@ Sent from our uncle, Duke of Burgundy.
 
 <speaker>GLOUCESTER</speaker>
 What means his Grace that he hath changed his style?
-No more but, plain and bluntly, "&ldquo;To the King&rdquo;"!
+No more but, plain and bluntly, &ldquo;To the King&rdquo;!
 Hath he forgot he is his sovereign?
 Or doth this churlish superscription
 Pretend some alteration in good will?
@@ -3267,8 +3267,8 @@ Is my name Talbot? And am I your son?
 And shall I fly? O, if you love my mother,
 Dishonor not her honorable name
 To make a bastard and a slave of me!
-The world will say "&ldquo;He is not Talbot&rsquo;s blood,
-That basely fled when noble Talbot stood.&rdquo;"
+The world will say &ldquo;He is not Talbot&rsquo;s blood,
+That basely fled when noble Talbot stood.&rdquo;
 
 <speaker>TALBOT</speaker>
 Fly, to revenge my death if I be slain.
@@ -3374,10 +3374,10 @@ From thee, my boy, and had the maidenhood
 Of thy first fight, I soon encountered,
 And, interchanging blows, I quickly shed
 Some of his bastard blood, and in disgrace
-Bespoke him thus: "&ldquo;Contaminated, base,
+Bespoke him thus: &ldquo;Contaminated, base,
 And misbegotten blood I spill of thine,
 Mean and right poor, for that pure blood of mine
-Which thou didst force from Talbot, my brave boy.&rdquo;"
+Which thou didst force from Talbot, my brave boy.&rdquo;
 Here, purposing the Bastard to destroy,
 Came in strong rescue. Speak, thy father&rsquo;s care:
 Art thou not weary, John? How dost thou fare?
@@ -3456,8 +3456,8 @@ Speak to thy father ere thou yield thy breath!
 Brave Death by speaking, whither he will or no.
 Imagine him a Frenchman and thy foe.&mdash;
 Poor boy, he smiles, methinks, as who should say
-"&ldquo;Had Death been French, then Death had died
-today."&mdash;
+&ldquo;Had Death been French, then Death had died
+today.&rdquo;&mdash;
 Come, come, and lay him in his father&rsquo;s arms;
 My spirit can no longer bear these harms.
 Soldiers, adieu! I have what I would have,
@@ -3478,10 +3478,10 @@ Did flesh his puny sword in Frenchmen&rsquo;s blood!
 
 <speaker>PUCELLE</speaker>
 Once I encountered him, and thus I said:
-"&ldquo;Thou maiden youth, be vanquished by a maid.&rdquo;"
+&ldquo;Thou maiden youth, be vanquished by a maid.&rdquo;
 But with a proud majestical high scorn
-He answered thus: "&ldquo;Young Talbot was not born
-To be the pillage of a giglot wench.&rdquo;"
+He answered thus: &ldquo;Young Talbot was not born
+To be the pillage of a giglot wench.&rdquo;
 So, rushing in the bowels of the French,
 He left me proudly, as unworthy fight.
 
@@ -3632,8 +3632,8 @@ What, is my Lord of Winchester installed
 And called unto a cardinal&rsquo;s degree?
 Then I perceive that will be verified
 Henry the Fifth did sometime prophesy:
-"&ldquo;If once he come to be a cardinal,
-He&rsquo;ll make his cap coequal with the crown.&rdquo;"
+&ldquo;If once he come to be a cardinal,
+He&rsquo;ll make his cap coequal with the crown.&rdquo;
 
 <speaker>KING HENRY</speaker>
 My Lords Ambassadors, your several suits

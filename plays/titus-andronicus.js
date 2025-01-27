@@ -342,13 +342,13 @@ Lord Saturnine, whose virtues will, I hope,
 Reflect on Rome as Titan&rsquo;s rays on Earth
 And ripen justice in this commonweal.
 Then, if you will elect by my advice,
-Crown him and say "&ldquo;Long live our emperor.&rdquo;"
+Crown him and say &ldquo;Long live our emperor.&rdquo;
 
 MARCUS
 With voices and applause of every sort,
 Patricians and plebeians, we create
 Lord Saturninus Rome&rsquo;s great emperor,
-And say "&ldquo;Long live our Emperor Saturnine.&rdquo;"
+And say &ldquo;Long live our Emperor Saturnine.&rdquo;
 [<i>A long flourish till Saturninus, Bassianus,
 and Guards come down.</i>]
 
@@ -575,7 +575,7 @@ MARTIUS
 And shall, or him we will accompany.
 
 TITUS
-"&ldquo;And shall&rdquo;"? What villain was it spake that word?
+&ldquo;And shall&rdquo;? What villain was it spake that word?
 
 MARTIUS
 He that would vouch it in any place but here.
@@ -674,7 +674,7 @@ Traitor, if Rome have law or we have power,
 Thou and thy faction shall repent this rape.
 
 BASSIANUS
-"&ldquo;Rape&rdquo;" call you it, my lord, to seize my own,
+&ldquo;Rape&rdquo; call you it, my lord, to seize my own,
 My true betrothed love and now my wife?
 But let the laws of Rome determine all.
 Meanwhile am I possessed of that is mine.
@@ -2199,7 +2199,7 @@ I see thou art not for my company.
 Alas, my lord, I have but killed a fly.
 
 <speaker>TITUS</speaker>
-"&ldquo;But&rdquo;"? How if that fly had a father and mother?
+&ldquo;But&rdquo;? How if that fly had a father and mother?
 How would he hang his slender gilded wings
 And buzz lamenting doings in the air!
 Poor harmless fly,
@@ -2368,7 +2368,7 @@ with her stumps and writes.</i>]
 O, do you read, my lord, what she hath writ?
 
 <speaker>TITUS</speaker>
-"&ldquo;Stuprum. Chiron, Demetrius.&rdquo;"
+&ldquo;Stuprum. Chiron, Demetrius.&rdquo;
 
 <speaker>MARCUS</speaker>
 What, what! The lustful sons of Tamora
@@ -2488,8 +2488,8 @@ And so I leave you both&mdash;[<i>(aside)</i>]
 What&rsquo;s here? A scroll, and written round about.
 Let&rsquo;s see:
 [<i>He reads:</i>]
- 	"&ldquo;Integer vitae, scelerisque purus,
-	Non eget Mauri iaculis, nec arcu.&rdquo;"
+ 	&ldquo;Integer vitae, scelerisque purus,
+	Non eget Mauri iaculis, nec arcu.&rdquo;
 
 <speaker>CHIRON</speaker>
 O, &rsquo;tis a verse in Horace; I know it well.
@@ -2686,7 +2686,7 @@ Fie, treacherous hue, that will betray with blushing
 The close enacts and counsels of thy heart.
 Here&rsquo;s a young lad framed of another leer.
 Look how the black slave smiles upon the father,
-As who should say "&ldquo;Old lad, I am thine own.&rdquo;"
+As who should say &ldquo;Old lad, I am thine own.&rdquo;
 He is your brother, lords, sensibly fed
 Of that self blood that first gave life to you,
 And from that womb where you imprisoned were
@@ -2729,7 +2729,7 @@ The Empress, the midwife, and yourself.
 Two may keep counsel when the third&rsquo;s away.
 Go to the Empress; tell her this I said.
 [<i>He kills her.</i>]
-"&ldquo;Wheak, wheak&rdquo;"! So cries a pig prepared to the spit.
+&ldquo;Wheak, wheak&rdquo;! So cries a pig prepared to the spit.
 
 <speaker>DEMETRIUS</speaker>
 What mean&rsquo;st thou, Aaron? Wherefore didst thou this?
@@ -2855,10 +2855,10 @@ We will solicit heaven and move the gods
 To send down Justice for to wreak our wrongs.
 Come, to this gear. You are a good archer, Marcus.
 [<i>He gives them the arrows.</i>]
-"&ldquo;Ad Jovem,&rdquo;" that&rsquo;s for you;&mdash;here, "&ldquo;Ad Apollinem&rdquo;";&mdash;
-"&ldquo;Ad Martem,&rdquo;" that&rsquo;s for myself;&mdash;
-Here, boy, "&ldquo;to Pallas&rdquo;";&mdash;here, "&ldquo;to Mercury&rdquo;";&mdash;
-"&ldquo;To Saturn,&rdquo;" Caius&mdash;not to Saturnine!
+&ldquo;Ad Jovem,&rdquo; that&rsquo;s for you;&mdash;here, &ldquo;Ad Apollinem&rdquo;;&mdash;
+&ldquo;Ad Martem,&rdquo; that&rsquo;s for myself;&mdash;
+Here, boy, &ldquo;to Pallas&rdquo;;&mdash;here, &ldquo;to Mercury&rdquo;;&mdash;
+&ldquo;To Saturn,&rdquo; Caius&mdash;not to Saturnine!
 You were as good to shoot against the wind.
 To it, boy!&mdash;Marcus, loose when I bid.
 Of my word, I have written to effect;
@@ -3004,8 +3004,8 @@ His sorrows have so overwhelmed his wits?
 Shall we be thus afflicted in his wreaks,
 His fits, his frenzy, and his bitterness?
 And now he writes to heaven for his redress!
-See, here&rsquo;s "&ldquo;to Jove,&rdquo;" and this "&ldquo;to Mercury,&rdquo;"
-This "&ldquo;to Apollo,&rdquo;" this to the god of war.
+See, here&rsquo;s &ldquo;to Jove,&rdquo; and this &ldquo;to Mercury,&rdquo;
+This &ldquo;to Apollo,&rdquo; this to the god of war.
 Sweet scrolls to fly about the streets of Rome!
 What&rsquo;s this but libeling against the Senate
 And blazoning our unjustice everywhere?
@@ -3204,16 +3204,16 @@ Upon the wasted building, suddenly
 I heard a child cry underneath a wall.
 I made unto the noise, when soon I heard
 The crying babe controlled with this discourse:
-"&ldquo;Peace, tawny slave, half me and half thy dame!
+&ldquo;Peace, tawny slave, half me and half thy dame!
 Did not thy hue bewray whose brat thou art,
 Had nature lent thee but thy mother&rsquo;s look,
 Villain, thou mightst have been an emperor.
 But where the bull and cow are both milk white,
 They never do beget a coal-black calf.
-Peace, villain, peace!"&mdash;even thus he rates the babe&mdash;
-"&ldquo;For I must bear thee to a trusty Goth
+Peace, villain, peace!&rdquo;&mdash;even thus he rates the babe&mdash;
+&ldquo;For I must bear thee to a trusty Goth
 Who, when he knows thou art the Empress&rsquo; babe,
-Will hold thee dearly for thy mother&rsquo;s sake.&rdquo;"
+Will hold thee dearly for thy mother&rsquo;s sake.&rdquo;
 With this, my weapon drawn, I rushed upon him,
 Surprised him suddenly, and brought him hither
 To use as you think needful of the man.
@@ -3245,7 +3245,7 @@ And bear it from me to the Empress.
 If thou do this, I&rsquo;ll show thee wondrous things
 That highly may advantage thee to hear.
 If thou wilt not, befall what may befall,
-I&rsquo;ll speak no more but "&ldquo;Vengeance rot you all!&rdquo;"
+I&rsquo;ll speak no more but &ldquo;Vengeance rot you all!&rdquo;
 
 <speaker>LUCIUS</speaker>
 Say on, and if it please me which thou speak&rsquo;st,
@@ -3364,7 +3364,7 @@ And set them upright at their dear friends&rsquo; door,
 Even when their sorrows almost was forgot,
 And on their skins, as on the bark of trees,
 Have with my knife carved in Roman letters
-"&ldquo;Let not your sorrow die, though I am dead.&rdquo;"
+&ldquo;Let not your sorrow die, though I am dead.&rdquo;
 But I have done a thousand dreadful things
 As willingly as one would kill a fly,
 And nothing grieves me heartily indeed

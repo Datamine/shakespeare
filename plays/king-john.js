@@ -21,7 +21,7 @@ In my behavior to the majesty,
 The borrowed majesty, of England here.
 
 QUEEN ELEANOR
-A strange beginning: "&ldquo;borrowed majesty&rdquo;"!
+A strange beginning: &ldquo;borrowed majesty&rdquo;!
 
 KING JOHN
 Silence, good mother. Hear the embassy.
@@ -234,8 +234,8 @@ And I had his, Sir Robert&rsquo;s his like him,
 And if my legs were two such riding-rods,
 My arms such eel-skins stuffed, my face so thin
 That in mine ear I durst not stick a rose,
-Lest men should say "&ldquo;Look where three-farthings
-goes,&rdquo;"
+Lest men should say &ldquo;Look where three-farthings
+goes,&rdquo;
 And, to his shape, were heir to all this land,
 Would I might never stir from off this place,
 I would give it every foot to have this face.
@@ -305,21 +305,21 @@ For thou wast got i&rsquo; th&rsquo; way of honesty.
 A foot of honor better than I was,
 But many a many foot of land the worse.
 Well, now can I make any Joan a lady.
-"&ldquo;Good den, Sir Richard!&rdquo;" "&ldquo;God-a-mercy, fellow!&rdquo;"
-An if his name be George, I&rsquo;ll call him "&ldquo;Peter,&rdquo;"
+&ldquo;Good den, Sir Richard!&rdquo; &ldquo;God-a-mercy, fellow!&rdquo;
+An if his name be George, I&rsquo;ll call him &ldquo;Peter,&rdquo;
 For new-made honor doth forget men&rsquo;s names;
 &rsquo;Tis too respective and too sociable
 For your conversion. Now your traveler,
 He and his toothpick at my Worship&rsquo;s mess,
 And when my knightly stomach is sufficed,
 Why then I suck my teeth and catechize
-My picked man of countries: "&ldquo;My dear sir,&rdquo;"
+My picked man of countries: &ldquo;My dear sir,&rdquo;
 Thus leaning on mine elbow I begin,
-"&ldquo;I shall beseech you"&mdash;that is Question now,
+&ldquo;I shall beseech you&rdquo;&mdash;that is Question now,
 And then comes Answer like an absey-book:
-"&ldquo;O, sir,&rdquo;" says Answer, "&ldquo;at your best command,
-At your employment, at your service, sir.&rdquo;"
-"&ldquo;No, sir,&rdquo;" says Question, "&ldquo;I, sweet sir, at yours.&rdquo;"
+&ldquo;O, sir,&rdquo; says Answer, &ldquo;at your best command,
+At your employment, at your service, sir.&rdquo;
+&ldquo;No, sir,&rdquo; says Question, &ldquo;I, sweet sir, at yours.&rdquo;
 And so, ere Answer knows what Question would,
 Saving in dialogue of compliment
 And talking of the Alps and Apennines,
@@ -356,7 +356,7 @@ Colbrand the Giant, that same mighty man?
 Is it Sir Robert&rsquo;s son that you seek so?
 
 LADY FAULCONBRIDGE
-"&ldquo;Sir Robert&rsquo;s son&rdquo;"? Ay, thou unreverent boy,
+&ldquo;Sir Robert&rsquo;s son&rdquo;? Ay, thou unreverent boy,
 Sir Robert&rsquo;s son. Why scorn&rsquo;st thou at Sir Robert?
 He is Sir Robert&rsquo;s son, and so art thou.
 
@@ -366,7 +366,7 @@ James Gurney, wilt thou give us leave awhile?
 GURNEY
 Good leave, good Philip.
 
-BASTARD  "&ldquo;Philip Sparrow,&rdquo;" James.
+BASTARD  &ldquo;Philip Sparrow,&rdquo; James.
 There&rsquo;s toys abroad. Anon I&rsquo;ll tell thee more.
 [<i>James Gurney exits.</i>]
 Madam, I was not old Sir Robert&rsquo;s son.
@@ -1171,7 +1171,7 @@ To speak unto this city. What say you?
 
 <speaker>KING JOHN</speaker>
 If that the Dauphin there, thy princely son,
-Can in this book of beauty read "&ldquo;I love,&rdquo;"
+Can in this book of beauty read &ldquo;I love,&rdquo;
 Her dowry shall weigh equal with a queen.
 For Anjou and fair Touraine, Maine, Poitiers,
 And all that we upon this side the sea&mdash;
@@ -1198,7 +1198,7 @@ Drawn in the flattering table of her eye.
 
 <speaker>BASTARD</speaker>
 [<i>aside</i>]
-"&ldquo;Drawn in the flattering table of her eye&rdquo;"?
+&ldquo;Drawn in the flattering table of her eye&rdquo;?
    Hanged in the frowning wrinkle of her brow
 And quartered in her heart! He doth espy
    Himself love&rsquo;s traitor. This is pity now,
@@ -1301,7 +1301,7 @@ That broker that still breaks the pate of faith,
 That daily break-vow, he that wins of all,
 Of kings, of beggars, old men, young men, maids&mdash;
 Who having no external thing to lose
-But the word "&ldquo;maid,&rdquo;" cheats the poor maid of
+But the word &ldquo;maid,&rdquo; cheats the poor maid of
 that&mdash;
 That smooth-faced gentleman, tickling Commodity,
 Commodity, the bias of the world&mdash;
@@ -1513,13 +1513,13 @@ And hang a calfskin on those recreant limbs.
 O, that a man should speak those words to me!
 
 <speaker>BASTARD</speaker>
-"&ldquo;And hang a calfskin on those recreant limbs.&rdquo;"
+&ldquo;And hang a calfskin on those recreant limbs.&rdquo;
 
 <speaker>AUSTRIA</speaker>
 Thou dar&rsquo;st not say so, villain, for thy life!
 
 <speaker>BASTARD</speaker>
-"&ldquo;And hang a calfskin on those recreant limbs.&rdquo;"
+&ldquo;And hang a calfskin on those recreant limbs.&rdquo;
 
 <speaker>KING JOHN</speaker>
 We like not this. Thou dost forget thyself.
@@ -1586,7 +1586,7 @@ Thy hateful life.
 <speaker>CONSTANCE</speaker>
 O, lawful let it be
 That I have room with Rome to curse awhile!
-Good father cardinal, cry thou "&ldquo;Amen&rdquo;"
+Good father cardinal, cry thou &ldquo;Amen&rdquo;
 To my keen curses, for without my wrong
 There is no tongue hath power to curse him right.
 
@@ -1780,7 +1780,7 @@ Shall braying trumpets and loud churlish drums,
 Clamors of hell, be measures to our pomp?
 [<i>She kneels.</i>]
 O husband, hear me! Ay, alack, how new
-Is "&ldquo;husband&rdquo;" in my mouth! Even for that name,
+Is &ldquo;husband&rdquo; in my mouth! Even for that name,
 Which till this time my tongue did ne&rsquo;er pronounce,
 Upon my knee I beg, go not to arms
 Against mine uncle.
@@ -2139,8 +2139,8 @@ Bind up your hairs.
 <speaker>CONSTANCE</speaker>
 Yes, that I will. And wherefore will I do it?
 I tore them from their bonds and cried aloud
-"&ldquo;O, that these hands could so redeem my son,
-As they have given these hairs their liberty!&rdquo;"
+&ldquo;O, that these hands could so redeem my son,
+As they have given these hairs their liberty!&rdquo;
 But now I envy at their liberty,
 And will again commit them to their bonds,
 Because my poor child is a prisoner.
@@ -2389,9 +2389,9 @@ And I did never ask it you again;
 And with my hand at midnight held your head,
 And like the watchful minutes to the hour
 Still and anon cheered up the heavy time,
-Saying "&ldquo;What lack you?&rdquo;" and "&ldquo;Where lies your
-grief?&rdquo;"
-Or "&ldquo;What good love may I perform for you?&rdquo;"
+Saying &ldquo;What lack you?&rdquo; and &ldquo;Where lies your
+grief?&rdquo;
+Or &ldquo;What good love may I perform for you?&rdquo;
 Many a poor man&rsquo;s son would have lien still
 And ne&rsquo;er have spoke a loving word to you;
 But you at your sick service had a prince.
@@ -2555,7 +2555,7 @@ Here once again we sit, once again crowned
 And looked upon, I hope, with cheerful eyes.
 
 <speaker>PEMBROKE</speaker>
-This "&ldquo;once again,&rdquo;" but that your Highness pleased,
+This &ldquo;once again,&rdquo; but that your Highness pleased,
 Was once superfluous. You were crowned before,
 And that high royalty was ne&rsquo;er plucked off,
 The faiths of men ne&rsquo;er stained with revolt;
@@ -3494,7 +3494,7 @@ That undergo this charge? Who else but I,
 And such as to my claim are liable,
 Sweat in this business and maintain this war?
 Have I not heard these islanders shout out
-"&ldquo;Vive le Roi&rdquo;" as I have banked their towns?
+&ldquo;Vive le Roi&rdquo; as I have banked their towns?
 Have I not here the best cards for the game
 To win this easy match played for a crown?
 And shall I now give o&rsquo;er the yielded set?

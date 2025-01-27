@@ -168,7 +168,7 @@ shepherd for food follows not the sheep. Thou for
 wages followest thy master; thy master for wages
 follows not thee. Therefore thou art a sheep.
 
-SPEED  Such another proof will make me cry "&ldquo;baa.&rdquo;"
+SPEED  Such another proof will make me cry &ldquo;baa.&rdquo;
 
 PROTEUS  But dost thou hear? Gav&rsquo;st thou my letter to
 Julia?
@@ -201,12 +201,12 @@ PROTEUS  But what said she?
 SPEED, [<i>nodding</i>]
   Ay.
 
-PROTEUS  Nod&mdash;"Ay.&rdquo;" Why, that&rsquo;s "&ldquo;noddy.&rdquo;"
+PROTEUS  Nod&mdash;&ldquo;Ay.&rdquo; Why, that&rsquo;s &ldquo;noddy.&rdquo;
 
 SPEED  You mistook, sir. I say she did nod, and you ask
-me if she did nod, and I say "&ldquo;ay.&rdquo;"
+me if she did nod, and I say &ldquo;ay.&rdquo;
 
-PROTEUS  And that set together is "&ldquo;noddy.&rdquo;"
+PROTEUS  And that set together is &ldquo;noddy.&rdquo;
 
 SPEED  Now you have taken the pains to set it together,
 take it for your pains.
@@ -218,7 +218,7 @@ SPEED  Well, I perceive I must be fain to bear with you.
 PROTEUS  Why, sir, how do you bear with me?
 
 SPEED  Marry, sir, the letter, very orderly, having nothing
-but the word "&ldquo;noddy&rdquo;" for my pains.
+but the word &ldquo;noddy&rdquo; for my pains.
 
 PROTEUS  Beshrew me, but you have a quick wit.
 
@@ -250,7 +250,7 @@ steel.
 
 PROTEUS  What said she? Nothing?
 
-SPEED  No, not so much as "&ldquo;Take this for thy pains.&rdquo;"
+SPEED  No, not so much as &ldquo;Take this for thy pains.&rdquo;
 To testify your bounty, I thank you, you have
 testerned me. In requital whereof, henceforth
 carry your letters yourself. And so, sir, I&rsquo;ll commend
@@ -360,7 +360,7 @@ madam.
 
 <speaker>JULIA</speaker>
 [<i>reads</i>]
-  "&ldquo;To Julia."&mdash;Say from whom.
+  &ldquo;To Julia.&rdquo;&mdash;Say from whom.
 
 <speaker>LUCETTA</speaker>
 That the contents will show.
@@ -399,8 +399,8 @@ It were a shame to call her back again
 And pray her to a fault for which I chid her.
 What fool is she that knows I am a maid
 And would not force the letter to my view,
-Since maids in modesty say "&ldquo;no&rdquo;" to that
-Which they would have the profferer construe "&ldquo;ay&rdquo;"!
+Since maids in modesty say &ldquo;no&rdquo; to that
+Which they would have the profferer construe &ldquo;ay&rdquo;!
 Fie, fie, how wayward is this foolish love
 That like a testy babe will scratch the nurse
 And presently, all humbled, kiss the rod!
@@ -460,7 +460,7 @@ Give me a note. Your Ladyship can set&mdash;
 
 <speaker>JULIA</speaker>
 As little by such toys as may be possible.
-Best sing it to the tune of "&ldquo;Light o&rsquo; Love.&rdquo;"
+Best sing it to the tune of &ldquo;Light o&rsquo; Love.&rdquo;
 
 <speaker>LUCETTA</speaker>
 It is too heavy for so light a tune.
@@ -524,23 +524,23 @@ Injurious wasps, to feed on such sweet honey
 And kill the bees that yield it with your stings!
 I&rsquo;ll kiss each several paper for amends.
 [<i>She picks up some pieces.</i>]
-Look, here is writ "&ldquo;kind Julia.&rdquo;" Unkind Julia,
+Look, here is writ &ldquo;kind Julia.&rdquo; Unkind Julia,
 As in revenge of thy ingratitude,
 I throw thy name against the bruising stones,
 Trampling contemptuously on thy disdain.
-And here is writ "&ldquo;love-wounded Proteus.&rdquo;"
+And here is writ &ldquo;love-wounded Proteus.&rdquo;
 Poor wounded name, my bosom as a bed
 Shall lodge thee till thy wound be throughly healed,
 And thus I search it with a sovereign kiss.
-But twice or thrice was "&ldquo;Proteus&rdquo;" written down.
+But twice or thrice was &ldquo;Proteus&rdquo; written down.
 Be calm, good wind. Blow not a word away
 Till I have found each letter in the letter
 Except mine own name. That some whirlwind bear
 Unto a ragged, fearful, hanging rock
 And throw it thence into the raging sea.
 Lo, here in one line is his name twice writ:
-"&ldquo;Poor forlorn Proteus, passionate Proteus,
-To the sweet Julia.&rdquo;" That I&rsquo;ll tear away&mdash;
+&ldquo;Poor forlorn Proteus, passionate Proteus,
+To the sweet Julia.&rdquo; That I&rsquo;ll tear away&mdash;
 And yet I will not, sith so prettily
 He couples it to his complaining names.
 Thus will I fold them one upon another.
@@ -726,7 +726,7 @@ He is in haste. Therefore, I pray you, go.
 <speaker>PROTEUS</speaker>
 Why, this it is: my heart accords thereto.
 [<i>Aside.</i>]
- And yet a thousand times it answers "&ldquo;no.&rdquo;"
+ And yet a thousand times it answers &ldquo;no.&rdquo;
 [<i>They exit.</i>]
 
 <b id="act-2" class="act-header">Act 2</b>
@@ -990,7 +990,7 @@ Meaning henceforth to trouble you no more.
 
 <speaker>SPEED</speaker>
 [<i>aside</i>]
-And yet you will; and yet another "&ldquo;yet.&rdquo;"
+And yet you will; and yet another &ldquo;yet.&rdquo;
 
 <speaker>VALENTINE</speaker>
 What means your Ladyship? Do you not like it?
@@ -1192,7 +1192,7 @@ is as white as a lily and as small as a wand. This hat
 is Nan, our maid. I am the dog. No, the dog is
 himself, and I am the dog. O, the dog is me, and I
 am myself. Ay, so, so. Now come I to my father:
-"&ldquo;Father, your blessing.&rdquo;" Now should not the shoe
+&ldquo;Father, your blessing.&rdquo; Now should not the shoe
 speak a word for weeping. Now should I kiss my
 father. [<i>He kisses one shoe.</i>]
  Well, he weeps on. Now
@@ -1328,7 +1328,7 @@ And how quote you my folly?
 I quote it in your jerkin.
 
 <speaker>THURIO</speaker>
-My "&ldquo;jerkin&rdquo;" is a doublet.
+My &ldquo;jerkin&rdquo; is a doublet.
 
 <speaker>VALENTINE</speaker>
 Well, then, I&rsquo;ll double your folly.
@@ -1762,15 +1762,15 @@ and my staff understands me.
 It stands under thee indeed.
 
 <speaker>LANCE</speaker>
-Why, "&ldquo;stand under&rdquo;" and "&ldquo;understand&rdquo;" is all
+Why, &ldquo;stand under&rdquo; and &ldquo;understand&rdquo; is all
 one.
 
 <speaker>SPEED</speaker>
 But tell me true, will &rsquo;t be a match?
 
 <speaker>LANCE</speaker>
-Ask my dog. If he say "&ldquo;Ay,&rdquo;" it will; if he say
-"&ldquo;No,&rdquo;" it will; if he shake his tail and say nothing, it
+Ask my dog. If he say &ldquo;Ay,&rdquo; it will; if he say
+&ldquo;No,&rdquo; it will; if he shake his tail and say nothing, it
 will.
 
 <speaker>SPEED</speaker>
@@ -1947,8 +1947,8 @@ Of greater time than I shall show to be.
 What fashion, madam, shall I make your breeches?
 
 <speaker>JULIA</speaker>
-That fits as well as "&ldquo;Tell me, good my lord,
-What compass will you wear your farthingale?&rdquo;"
+That fits as well as &ldquo;Tell me, good my lord,
+What compass will you wear your farthingale?&rdquo;
 Why, ev&rsquo;n what fashion thou best likes, Lucetta.
 
 <speaker>LUCETTA</speaker>
@@ -2157,7 +2157,7 @@ But rather to beget more love in you.
 If she do chide, &rsquo;tis not to have you gone,
 Forwhy the fools are mad if left alone.
 Take no repulse, whatever she doth say;
-For "&ldquo;get you gone&rdquo;" she doth not mean "&ldquo;away.&rdquo;"
+For &ldquo;get you gone&rdquo; she doth not mean &ldquo;away.&rdquo;
 Flatter and praise, commend, extol their graces;
 Though ne&rsquo;er so black, say they have angels&rsquo; faces.
 That man that hath a tongue, I say, is no man
@@ -2516,14 +2516,14 @@ Ay, that she can.
 Item, She brews good ale.
 
 <speaker>LANCE</speaker>
-And thereof comes the proverb: "&ldquo;Blessing of
-your heart, you brew good ale.&rdquo;"
+And thereof comes the proverb: &ldquo;Blessing of
+your heart, you brew good ale.&rdquo;
 
 <speaker>SPEED</speaker>
 Item, She can sew.
 
 <speaker>LANCE</speaker>
-That&rsquo;s as much as to say "&ldquo;Can she so?&rdquo;"
+That&rsquo;s as much as to say &ldquo;Can she so?&rdquo;
 
 <speaker>SPEED</speaker>
 Item, She can knit.
@@ -2550,7 +2550,7 @@ can spin for her living.
 Item, She hath many nameless virtues.
 
 <speaker>LANCE</speaker>
-That&rsquo;s as much as to say "&ldquo;bastard virtues,&rdquo;" that
+That&rsquo;s as much as to say &ldquo;bastard virtues,&rdquo; that
 indeed know not their fathers and therefore have no
 names.
 
@@ -2637,7 +2637,7 @@ that once more.
 Item, She hath more hair than wit.
 
 <speaker>LANCE</speaker>
-"&ldquo;More hair than wit&rdquo;"? It may be; I&rsquo;ll prove it:
+&ldquo;More hair than wit&rdquo;? It may be; I&rsquo;ll prove it:
 the cover of the salt hides the salt, and therefore it is
 more than the salt; the hair that covers the wit is
 more than the wit, for the greater hides the less.
@@ -3427,7 +3427,7 @@ him, look you, it goes hard&mdash;one that I brought up
 of a puppy, one that I saved from drowning when
 three or four of his blind brothers and sisters went
 to it. I have taught him even as one would say
-precisely "&ldquo;Thus I would teach a dog.&rdquo;" I was sent to
+precisely &ldquo;Thus I would teach a dog.&rdquo; I was sent to
 deliver him as a present to Mistress Sylvia from my
 master; and I came no sooner into the dining
 chamber but he steps me to her trencher and steals
@@ -3441,15 +3441,15 @@ for &rsquo;t. Sure as I live, he had suffered for &rsquo;t. You shall
 judge. He thrusts me himself into the company of
 three or four gentlemanlike dogs under the Duke&rsquo;s
 table; he had not been there&mdash;bless the mark!&mdash;a
-pissing while but all the chamber smelt him. "&ldquo;Out
-with the dog!&rdquo;" says one. "&ldquo;What cur is that?&rdquo;" says
-another. "&ldquo;Whip him out!&rdquo;" says the third. "&ldquo;Hang him
-up!&rdquo;" says the Duke. I, having been acquainted with
+pissing while but all the chamber smelt him. &ldquo;Out
+with the dog!&rdquo; says one. &ldquo;What cur is that?&rdquo; says
+another. &ldquo;Whip him out!&rdquo; says the third. &ldquo;Hang him
+up!&rdquo; says the Duke. I, having been acquainted with
 the smell before, knew it was Crab, and goes me to
-the fellow that whips the dogs. "&ldquo;Friend,&rdquo;" quoth I,
-"&ldquo;You mean to whip the dog?&rdquo;" "&ldquo;Ay, marry, do I,&rdquo;"
-quoth he. "&ldquo;You do him the more wrong,&rdquo;" quoth I.
-"&ldquo;&rsquo;Twas I did the thing you wot of.&rdquo;" He makes me no
+the fellow that whips the dogs. &ldquo;Friend,&rdquo; quoth I,
+&ldquo;You mean to whip the dog?&rdquo; &ldquo;Ay, marry, do I,&rdquo;
+quoth he. &ldquo;You do him the more wrong,&rdquo; quoth I.
+&ldquo;&rsquo;Twas I did the thing you wot of.&rdquo; He makes me no
 more ado but whips me out of the chamber. How
 many masters would do this for his servant? Nay,
 I&rsquo;ll be sworn I have sat in the stocks for puddings he
@@ -3540,7 +3540,7 @@ Not so; I think she lives.
   Alas!
 
 <speaker>PROTEUS</speaker>
-Why dost thou cry "&ldquo;Alas&rdquo;"?
+Why dost thou cry &ldquo;Alas&rdquo;?
 
 <speaker>JULIA</speaker>
 [<i>as Sebastian</i>]
@@ -3556,7 +3556,7 @@ As you do love your lady Sylvia.
 She dreams on him that has forgot her love;
 You dote on her that cares not for your love.
 &rsquo;Tis pity love should be so contrary,
-And thinking on it makes me cry "&ldquo;Alas.&rdquo;"
+And thinking on it makes me cry &ldquo;Alas.&rdquo;
 
 <speaker>PROTEUS</speaker>
 Well, give her that ring and therewithal
@@ -4181,7 +4181,7 @@ It is the lesser blot, modesty finds,
 Women to change their shapes than men their minds.
 
 <speaker>PROTEUS</speaker>
-"&ldquo;Than men their minds&rdquo;"? &rsquo;Tis true. O heaven, were
+&ldquo;Than men their minds&rdquo;? &rsquo;Tis true. O heaven, were
 man
 But constant, he were perfect; that one error
 Fills him with faults, makes him run through all th&rsquo;

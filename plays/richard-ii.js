@@ -541,7 +541,7 @@ Receive thy lance; and God defend the right.
 [<i>He presents a lance to Bolingbroke.</i>]
 
 <speaker>BOLINGBROKE</speaker>
-Strong as a tower in hope, I cry "&ldquo;Amen!&rdquo;"
+Strong as a tower in hope, I cry &ldquo;Amen!&rdquo;
 
 <speaker>MARSHAL</speaker>
 [<i>to an Officer</i>]
@@ -614,7 +614,7 @@ Norfolk, for thee remains a heavier doom,
 Which I with some unwillingness pronounce:
 The sly, slow hours shall not determinate
 The dateless limit of thy dear exile.
-The hopeless word of "&ldquo;never to return&rdquo;"
+The hopeless word of &ldquo;never to return&rdquo;
 Breathe I against thee, upon pain of life.
 
 <speaker>MOWBRAY</speaker>
@@ -882,12 +882,12 @@ Did grace our hollow parting with a tear.
 What said our cousin when you parted with him?
 
 <speaker>AUMERLE</speaker>
-"&ldquo;Farewell.&rdquo;"
+&ldquo;Farewell.&rdquo;
 And, for my heart disdained that my tongue
 Should so profane the word, that taught me craft
 To counterfeit oppression of such grief
 That words seemed buried in my sorrow&rsquo;s grave.
-Marry, would the word "&ldquo;farewell&rdquo;" have lengthened
+Marry, would the word &ldquo;farewell&rdquo; have lengthened
 hours
 And added years to his short banishment,
 He should have had a volume of farewells.
@@ -908,7 +908,7 @@ As &rsquo;twere to banish their affects with him.
 Off goes his bonnet to an oysterwench;
 A brace of draymen bid God speed him well
 And had the tribute of his supple knee,
-With "&ldquo;Thanks, my countrymen, my loving friends,&rdquo;"
+With &ldquo;Thanks, my countrymen, my loving friends,&rdquo;
 As were our England in reversion his
 And he our subjects&rsquo; next degree in hope.
 
@@ -1782,7 +1782,7 @@ It is my Lord of Berkeley, as I guess.
 My Lord of Hereford, my message is to you.
 
 <speaker>BOLINGBROKE</speaker>
-My lord, my answer is&mdash;to "&ldquo;Lancaster&rdquo;";
+My lord, my answer is&mdash;to &ldquo;Lancaster&rdquo;;
 And I am come to seek that name in England.
 And I must find that title in your tongue
 Before I make reply to aught you say.
@@ -1814,7 +1814,7 @@ Whose duty is deceivable and false.
 <speaker>YORK</speaker>
 Tut, tut!
 Grace me no grace, nor uncle me no uncle.
-I am no traitor&rsquo;s uncle, and that word "&ldquo;grace&rdquo;"
+I am no traitor&rsquo;s uncle, and that word &ldquo;grace&rdquo;
 In an ungracious mouth is but profane.
 Why have those banished and forbidden legs
 Dared once to touch a dust of England&rsquo;s ground?
@@ -2344,7 +2344,7 @@ Richard not far from hence hath hid his head.
 
 <speaker>YORK</speaker>
 It would beseem the Lord Northumberland
-To say "&ldquo;King Richard.&rdquo;" Alack the heavy day
+To say &ldquo;King Richard.&rdquo; Alack the heavy day
 When such a sacred king should hide his head!
 
 <speaker>NORTHUMBERLAND</speaker>
@@ -2841,9 +2841,9 @@ My Lord Aumerle, I know your daring tongue
 Scorns to unsay what once it hath delivered.
 In that dead time when Gloucester&rsquo;s death was
 plotted,
-I heard you say "&ldquo;Is not my arm of length,
+I heard you say &ldquo;Is not my arm of length,
 That reacheth from the restful English court
-As far as Calais, to mine uncle&rsquo;s head?&rdquo;"
+As far as Calais, to mine uncle&rsquo;s head?&rdquo;
 Amongst much other talk that very time
 I heard you say that you had rather refuse
 The offer of an hundred thousand crowns
@@ -3083,11 +3083,11 @@ To insinuate, flatter, bow, and bend my knee.
 Give sorrow leave awhile to tutor me
 To this submission. Yet I well remember
 The favors of these men. Were they not mine?
-Did they not sometime cry "&ldquo;All hail&rdquo;" to me?
+Did they not sometime cry &ldquo;All hail&rdquo; to me?
 So Judas did to Christ, but He in twelve
 Found truth in all but one; I, in twelve thousand,
 none.
-God save the King! Will no man say "&ldquo;amen&rdquo;"?
+God save the King! Will no man say &ldquo;amen&rdquo;?
 Am I both priest and clerk? Well, then, amen.
 God save the King, although I be not he,
 And yet amen, if heaven do think him me.
@@ -3133,7 +3133,7 @@ Are you contented to resign the crown?
 
 <speaker>KING RICHARD</speaker>
 Ay, no; no, ay; for I must nothing be.
-Therefore no "&ldquo;no,&rdquo;" for I resign to thee.
+Therefore no &ldquo;no,&rdquo; for I resign to thee.
 Now, mark me how I will undo myself.
 I give this heavy weight from off my head
 And this unwieldy scepter from my hand,
@@ -3279,7 +3279,7 @@ Shall I obtain it?
 Name it, fair cousin.
 
 <speaker>KING RICHARD</speaker>
-"&ldquo;Fair cousin&rdquo;"? I am greater than a king,
+&ldquo;Fair cousin&rdquo;? I am greater than a king,
 For when I was a king, my flatterers
 Were then but subjects. Being now a subject,
 I have a king here to my flatterer.
@@ -3307,7 +3307,7 @@ Whither you will, so I were from your sights.
 Go, some of you, convey him to the Tower.
 
 <speaker>KING RICHARD</speaker>
-O, good! "&ldquo;Convey&rdquo;"? Conveyers are you all,
+O, good! &ldquo;Convey&rdquo;? Conveyers are you all,
 That rise thus nimbly by a true king&rsquo;s fall.
 [<i>Richard exits with Guards.</i>]
 
@@ -3517,17 +3517,17 @@ Then, as I said, the Duke, great Bolingbroke,
 Mounted upon a hot and fiery steed,
 Which his aspiring rider seemed to know,
 With slow but stately pace kept on his course,
-Whilst all tongues cried "&ldquo;God save thee,
-Bolingbroke!&rdquo;"
+Whilst all tongues cried &ldquo;God save thee,
+Bolingbroke!&rdquo;
 You would have thought the very windows spake,
 So many greedy looks of young and old
 Through casements darted their desiring eyes
 Upon his visage, and that all the walls
 With painted imagery had said at once
-"&ldquo;Jesu preserve thee! Welcome, Bolingbroke!&rdquo;"
+&ldquo;Jesu preserve thee! Welcome, Bolingbroke!&rdquo;
 Whilst he, from the one side to the other turning,
 Bareheaded, lower than his proud steed&rsquo;s neck,
-Bespake them thus: "&ldquo;I thank you, countrymen.&rdquo;"
+Bespake them thus: &ldquo;I thank you, countrymen.&rdquo;
 And thus still doing, thus he passed along.
 
 <speaker>DUCHESS</speaker>
@@ -3539,8 +3539,8 @@ After a well-graced actor leaves the stage,
 Are idly bent on him that enters next,
 Thinking his prattle to be tedious,
 Even so, or with much more contempt, men&rsquo;s eyes
-Did scowl on gentle Richard. No man cried "&ldquo;God
-save him!&rdquo;"
+Did scowl on gentle Richard. No man cried &ldquo;God
+save him!&rdquo;
 No joyful tongue gave him his welcome home,
 But dust was thrown upon his sacred head,
 Which with such gentle sorrow he shook off,
@@ -3879,7 +3879,7 @@ A beggar begs that never begged before.
 
 <speaker>KING HENRY</speaker>
 Our scene is altered from a serious thing
-And now changed to "&ldquo;The Beggar and the King."&mdash;
+And now changed to &ldquo;The Beggar and the King.&rdquo;&mdash;
 My dangerous cousin, let your mother in.
 I know she is come to pray for your foul sin.
 [<i>Aumerle opens the door.</i>]
@@ -3940,31 +3940,31 @@ That mercy which true prayer ought to have.
 Good aunt, stand up.
 
 <speaker>DUCHESS</speaker>
-Nay, do not say "&ldquo;stand up.&rdquo;"
-Say "&ldquo;pardon&rdquo;" first and afterwards "&ldquo;stand up.&rdquo;"
+Nay, do not say &ldquo;stand up.&rdquo;
+Say &ldquo;pardon&rdquo; first and afterwards &ldquo;stand up.&rdquo;
 An if I were thy nurse, thy tongue to teach,
-"&ldquo;Pardon&rdquo;" should be the first word of thy speech.
+&ldquo;Pardon&rdquo; should be the first word of thy speech.
 I never longed to hear a word till now.
-Say "&ldquo;pardon,&rdquo;" king; let pity teach thee how.
+Say &ldquo;pardon,&rdquo; king; let pity teach thee how.
 The word is short, but not so short as sweet.
-No word like "&ldquo;pardon&rdquo;" for kings&rsquo; mouths so meet.
+No word like &ldquo;pardon&rdquo; for kings&rsquo; mouths so meet.
 
 <speaker>YORK</speaker>
-Speak it in French, king. Say "&ldquo;pardonne moy.&rdquo;"
+Speak it in French, king. Say &ldquo;pardonne moy.&rdquo;
 
 <speaker>DUCHESS</speaker>
 Dost thou teach pardon pardon to destroy?
 Ah, my sour husband, my hard-hearted lord,
 That sets the word itself against the word!
 [<i>To King Henry.</i>]
- Speak "&ldquo;pardon&rdquo;" as &rsquo;tis current in
+ Speak &ldquo;pardon&rdquo; as &rsquo;tis current in
 our land;
 The chopping French we do not understand.
 Thine eye begins to speak; set thy tongue there,
 Or in thy piteous heart plant thou thine ear,
 That, hearing how our plaints and prayers do
 pierce,
-Pity may move thee "&ldquo;pardon&rdquo;" to rehearse.
+Pity may move thee &ldquo;pardon&rdquo; to rehearse.
 
 <speaker>KING HENRY</speaker>
 Good aunt, stand up.
@@ -3979,7 +3979,7 @@ I pardon him, as God shall pardon me.
 <speaker>DUCHESS</speaker>
 O, happy vantage of a kneeling knee!
 Yet am I sick for fear. Speak it again.
-Twice saying "&ldquo;pardon&rdquo;" doth not pardon twain,
+Twice saying &ldquo;pardon&rdquo; doth not pardon twain,
 But makes one pardon strong.
 
 <speaker>KING HENRY</speaker>
@@ -4011,14 +4011,14 @@ Come, my old son. I pray God make thee new.
 
 <speaker>EXTON</speaker>
 Didst thou not mark the King, what words he spake,
-"&ldquo;Have I no friend will rid me of this living fear?&rdquo;"
+&ldquo;Have I no friend will rid me of this living fear?&rdquo;
 Was it not so?
 
 <speaker>SERVINGMAN</speaker>
 These were his very words.
 
 <speaker>EXTON</speaker>
-"&ldquo;Have I no friend?&rdquo;" quoth he. He spake it twice
+&ldquo;Have I no friend?&rdquo; quoth he. He spake it twice
 And urged it twice together, did he not?
 
 <speaker>SERVINGMAN</speaker>
@@ -4026,8 +4026,8 @@ He did.
 
 <speaker>EXTON</speaker>
 And speaking it, he wishtly looked on me,
-As who should say "&ldquo;I would thou wert the man
-That would divorce this terror from my heart"&mdash;
+As who should say &ldquo;I would thou wert the man
+That would divorce this terror from my heart&rdquo;&mdash;
 Meaning the king at Pomfret. Come, let&rsquo;s go.
 I am the King&rsquo;s friend and will rid his foe.
 [<i>They exit.</i>]
@@ -4050,10 +4050,10 @@ In humors like the people of this world,
 For no thought is contented. The better sort,
 As thoughts of things divine, are intermixed
 With scruples, and do set the word itself
-Against the word, as thus: "&ldquo;Come, little ones,&rdquo;"
+Against the word, as thus: &ldquo;Come, little ones,&rdquo;
 And then again,
-"&ldquo;It is as hard to come as for a camel
-To thread the postern of a small needle&rsquo;s eye.&rdquo;"
+&ldquo;It is as hard to come as for a camel
+To thread the postern of a small needle&rsquo;s eye.&rdquo;
 Thoughts tending to ambition, they do plot
 Unlikely wonders: how these vain weak nails
 May tear a passage through the flinty ribs

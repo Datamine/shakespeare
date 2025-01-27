@@ -144,8 +144,8 @@ Do cream and mantle like a standing pond
 And do a willful stillness entertain
 With purpose to be dressed in an opinion
 Of wisdom, gravity, profound conceit,
-As who should say "&ldquo;I am Sir Oracle,
-And when I ope my lips, let no dog bark.&rdquo;"
+As who should say &ldquo;I am Sir Oracle,
+And when I ope my lips, let no dog bark.&rdquo;
 O my Antonio, I do know of these
 That therefore only are reputed wise
 For saying nothing, when, I am very sure,
@@ -300,7 +300,7 @@ may devise laws for the blood, but a hot temper
 leaps o&rsquo;er a cold decree: such a hare is madness the
 youth, to skip o&rsquo;er the meshes of good counsel the
 cripple. But this reasoning is not in the fashion to
-choose me a husband. O, me, the word "&ldquo;choose&rdquo;"! I
+choose me a husband. O, me, the word &ldquo;choose&rdquo;! I
 may neither choose who I would nor refuse who I
 dislike. So is the will of a living daughter curbed by
 the will of a dead father. Is it not hard, Nerissa, that
@@ -337,7 +337,7 @@ Then is there the County Palatine.
 
 <speaker>PORTIA</speaker>
 He doth nothing but frown, as who should say
-"&ldquo;An you will not have me, choose.&rdquo;" He hears
+&ldquo;An you will not have me, choose.&rdquo; He hears
 merry tales and smiles not. I fear he will prove the
 weeping philosopher when he grows old, being so
 full of unmannerly sadness in his youth. I had
@@ -557,7 +557,7 @@ I will feed fat the ancient grudge I bear him.
 He hates our sacred nation, and he rails,
 Even there where merchants most do congregate,
 On me, my bargains, and my well-won thrift,
-Which he calls "&ldquo;interest.&rdquo;" Cursed be my tribe
+Which he calls &ldquo;interest.&rdquo; Cursed be my tribe
 If I forgive him!
 
 <speaker>BASSANIO</speaker>
@@ -613,7 +613,7 @@ And what of him? Did he take interest?
 
 <speaker>SHYLOCK</speaker>
 No, not take interest, not, as you would say,
-Directly "&ldquo;interest.&rdquo;" Mark what Jacob did.
+Directly &ldquo;interest.&rdquo; Mark what Jacob did.
 When Laban and himself were compromised
 That all the eanlings which were streaked and pied
 Should fall as Jacob&rsquo;s hire, the ewes being rank
@@ -667,20 +667,20 @@ And spet upon my Jewish gaberdine,
 And all for use of that which is mine own.
 Well then, it now appears you need my help.
 Go to, then. You come to me and you say
-"&ldquo;Shylock, we would have moneys"&mdash;you say so,
+&ldquo;Shylock, we would have moneys&rdquo;&mdash;you say so,
 You, that did void your rheum upon my beard,
 And foot me as you spurn a stranger cur
 Over your threshold. Moneys is your suit.
 What should I say to you? Should I not say
-"&ldquo;Hath a dog money? Is it possible
-A cur can lend three thousand ducats?&rdquo;" Or
+&ldquo;Hath a dog money? Is it possible
+A cur can lend three thousand ducats?&rdquo; Or
 Shall I bend low, and in a bondman&rsquo;s key,
 With bated breath and whisp&rsquo;ring humbleness,
-Say this: "&ldquo;Fair sir, you spet on me on Wednesday
+Say this: &ldquo;Fair sir, you spet on me on Wednesday
 last;
 You spurned me such a day; another time
 You called me &rsquo;dog&rsquo;; and for these courtesies
-I&rsquo;ll lend you thus much moneys&rdquo;"?
+I&rsquo;ll lend you thus much moneys&rdquo;?
 
 <speaker>ANTONIO</speaker>
 I am as like to call thee so again,
@@ -843,25 +843,25 @@ To make me blest&mdash;or cursed&rsquo;st among men!
 <speaker>LANCELET</speaker>
 Certainly my conscience will serve me to
 run from this Jew my master. The fiend is at mine
-elbow and tempts me, saying to me "&ldquo;Gobbo,
-Lancelet Gobbo, good Lancelet,&rdquo;" or "&ldquo;good Gobbo,&rdquo;"
-or "&ldquo;good Lancelet Gobbo, use your legs, take
-the start, run away.&rdquo;" My conscience says "&ldquo;No. Take
-heed, honest Lancelet, take heed, honest Gobbo,&rdquo;"
-or, as aforesaid, "&ldquo;honest Lancelet Gobbo, do not
-run; scorn running with thy heels.&rdquo;" Well, the most
-courageous fiend bids me pack. "&ldquo;Fia!&rdquo;" says the
-fiend. "&ldquo;Away!&rdquo;" says the fiend. "&ldquo;For the heavens,
-rouse up a brave mind,&rdquo;" says the fiend, "&ldquo;and run!&rdquo;"
+elbow and tempts me, saying to me &ldquo;Gobbo,
+Lancelet Gobbo, good Lancelet,&rdquo; or &ldquo;good Gobbo,&rdquo;
+or &ldquo;good Lancelet Gobbo, use your legs, take
+the start, run away.&rdquo; My conscience says &ldquo;No. Take
+heed, honest Lancelet, take heed, honest Gobbo,&rdquo;
+or, as aforesaid, &ldquo;honest Lancelet Gobbo, do not
+run; scorn running with thy heels.&rdquo; Well, the most
+courageous fiend bids me pack. &ldquo;Fia!&rdquo; says the
+fiend. &ldquo;Away!&rdquo; says the fiend. &ldquo;For the heavens,
+rouse up a brave mind,&rdquo; says the fiend, &ldquo;and run!&rdquo;
 Well, my conscience, hanging about the neck of my
-heart, says very wisely to me "&ldquo;My honest friend
-Lancelet, being an honest man&rsquo;s son"&mdash;or rather,
+heart, says very wisely to me &ldquo;My honest friend
+Lancelet, being an honest man&rsquo;s son&rdquo;&mdash;or rather,
 an honest woman&rsquo;s son, for indeed my father did
 something smack, something grow to&mdash;he had a
-kind of taste&mdash;well, my conscience says "&ldquo;Lancelet,
-budge not.&rdquo;" "&ldquo;Budge,&rdquo;" says the fiend. "&ldquo;Budge not,&rdquo;"
-says my conscience. "&ldquo;Conscience,&rdquo;" say I, "&ldquo;you
-counsel well.&rdquo;" "&ldquo;Fiend,&rdquo;" say I, "&ldquo;you counsel well.&rdquo;"
+kind of taste&mdash;well, my conscience says &ldquo;Lancelet,
+budge not.&rdquo; &ldquo;Budge,&rdquo; says the fiend. &ldquo;Budge not,&rdquo;
+says my conscience. &ldquo;Conscience,&rdquo; say I, &ldquo;you
+counsel well.&rdquo; &ldquo;Fiend,&rdquo; say I, &ldquo;you counsel well.&rdquo;
 To be ruled by my conscience, I should stay with the
 Jew my master, who (God bless the mark) is a kind
 of devil; and to run away from the Jew, I should be
@@ -1086,8 +1086,8 @@ The follower of so poor a gentleman.
 
 <speaker>LANCELET</speaker>
 The old proverb is very well parted between
-my master Shylock and you, sir: you have "&ldquo;the
-grace of God,&rdquo;" sir, and he hath "&ldquo;enough.&rdquo;"
+my master Shylock and you, sir: you have &ldquo;the
+grace of God,&rdquo; sir, and he hath &ldquo;enough.&rdquo;
 
 <speaker>BASSANIO</speaker>
 Thou speak&rsquo;st it well.&mdash;Go, father, with thy son.&mdash;
@@ -1166,7 +1166,7 @@ If I do not put on a sober habit,
 Talk with respect, and swear but now and then,
 Wear prayer books in my pocket, look demurely,
 Nay more, while grace is saying, hood mine eyes
-Thus with my hat, and sigh and say "&ldquo;amen,&rdquo;"
+Thus with my hat, and sigh and say &ldquo;amen,&rdquo;
 Use all the observance of civility
 Like one well studied in a sad ostent
 To please his grandam, never trust me more.
@@ -1392,7 +1392,7 @@ Will be worth a Jewess&rsquo; eye.	[<i>He exits.</i>]
 What says that fool of Hagar&rsquo;s offspring, ha?
 
 <speaker>JESSICA</speaker>
-His words were "&ldquo;Farewell, mistress,&rdquo;" nothing else.
+His words were &ldquo;Farewell, mistress,&rdquo; nothing else.
 
 <speaker>SHYLOCK</speaker>
 The patch is kind enough, but a huge feeder,
@@ -1554,14 +1554,14 @@ Now make your choice.
 
 <speaker>MOROCCO</speaker>
 This first, of gold, who this inscription bears,
-"&ldquo;Who chooseth me shall gain what many men
-desire&rdquo;";
+&ldquo;Who chooseth me shall gain what many men
+desire&rdquo;;
 The second, silver, which this promise carries,
-"&ldquo;Who chooseth me shall get as much as he
-deserves&rdquo;";
+&ldquo;Who chooseth me shall get as much as he
+deserves&rdquo;;
 This third, dull lead, with warning all as blunt,
-"&ldquo;Who chooseth me must give and hazard all he
-hath.&rdquo;"
+&ldquo;Who chooseth me must give and hazard all he
+hath.&rdquo;
 How shall I know if I do choose the right?
 
 <speaker>PORTIA</speaker>
@@ -1572,16 +1572,16 @@ If you choose that, then I am yours withal.
 Some god direct my judgment! Let me see.
 I will survey th&rsquo; inscriptions back again.
 What says this leaden casket?
-"&ldquo;Who chooseth me must give and hazard all he
-hath.&rdquo;"
+&ldquo;Who chooseth me must give and hazard all he
+hath.&rdquo;
 Must give&mdash;for what? For lead? Hazard for lead?
 This casket threatens. Men that hazard all
 Do it in hope of fair advantages.
 A golden mind stoops not to shows of dross.
 I&rsquo;ll then nor give nor hazard aught for lead.
 What says the silver with her virgin hue?
-"&ldquo;Who chooseth me shall get as much as he
-deserves.&rdquo;"
+&ldquo;Who chooseth me shall get as much as he
+deserves.&rdquo;
 As much as he deserves&mdash;pause there, Morocco,
 And weigh thy value with an even hand.
 If thou beest rated by thy estimation,
@@ -1595,8 +1595,8 @@ In graces, and in qualities of breeding,
 But more than these, in love I do deserve.
 What if I strayed no farther, but chose here?
 Let&rsquo;s see once more this saying graved in gold:
-"&ldquo;Who chooseth me shall gain what many men
-desire.&rdquo;"
+&ldquo;Who chooseth me shall gain what many men
+desire.&rdquo;
 Why, that&rsquo;s the lady! All the world desires her.
 From the four corners of the Earth they come
 To kiss this shrine, this mortal, breathing saint.
@@ -1677,7 +1677,7 @@ They were not with Bassanio in his ship.
 I never heard a passion so confused,
 So strange, outrageous, and so variable
 As the dog Jew did utter in the streets.
-"&ldquo;My daughter, O my ducats, O my daughter!
+&ldquo;My daughter, O my ducats, O my daughter!
 Fled with a Christian! O my Christian ducats!
 Justice, the law, my ducats, and my daughter,
 A sealed bag, two sealed bags of ducats,
@@ -1685,11 +1685,11 @@ Of double ducats, stol&rsquo;n from me by my daughter,
 And jewels&mdash;two stones, two rich and precious
 stones&mdash;
 Stol&rsquo;n by my daughter! Justice! Find the girl!
-She hath the stones upon her, and the ducats.&rdquo;"
+She hath the stones upon her, and the ducats.&rdquo;
 
 <speaker>SALARINO</speaker>
 Why, all the boys in Venice follow him,
-Crying "&ldquo;His stones, his daughter, and his ducats.&rdquo;"
+Crying &ldquo;His stones, his daughter, and his ducats.&rdquo;
 
 <speaker>SOLANIO</speaker>
 Let good Antonio look he keep his day,
@@ -1712,14 +1712,14 @@ Yet do not suddenly, for it may grieve him.
 A kinder gentleman treads not the Earth.
 I saw Bassanio and Antonio part.
 Bassanio told him he would make some speed
-Of his return. He answered "&ldquo;Do not so.
+Of his return. He answered &ldquo;Do not so.
 Slubber not business for my sake, Bassanio,
 But stay the very riping of the time;
 And for the Jew&rsquo;s bond which he hath of me,
 Let it not enter in your mind of love.
 Be merry, and employ your chiefest thoughts
 To courtship and such fair ostents of love
-As shall conveniently become you there.&rdquo;"
+As shall conveniently become you there.&rdquo;
 And even there, his eye being big with tears,
 Turning his face, he put his hand behind him,
 And with affection wondrous sensible
@@ -1769,13 +1769,13 @@ That comes to hazard for my worthless self.
 <speaker>ARRAGON</speaker>
 And so have I addressed me. Fortune now
 To my heart&rsquo;s hope! Gold, silver, and base lead.
-"&ldquo;Who chooseth me must give and hazard all he
-hath.&rdquo;"
+&ldquo;Who chooseth me must give and hazard all he
+hath.&rdquo;
 You shall look fairer ere I give or hazard.
 What says the golden chest? Ha, let me see:
-"&ldquo;Who chooseth me shall gain what many men
-desire.&rdquo;"
-What many men desire&mdash;that "&ldquo;many&rdquo;" may be
+&ldquo;Who chooseth me shall gain what many men
+desire.&rdquo;
+What many men desire&mdash;that &ldquo;many&rdquo; may be
 meant
 By the fool multitude that choose by show,
 Not learning more than the fond eye doth teach,
@@ -1787,8 +1787,8 @@ Because I will not jump with common spirits
 And rank me with the barbarous multitudes.
 Why, then, to thee, thou silver treasure house.
 Tell me once more what title thou dost bear.
-"&ldquo;Who chooseth me shall get as much as he
-deserves.&rdquo;"
+&ldquo;Who chooseth me shall get as much as he
+deserves.&rdquo;
 And well said, too; for who shall go about
 To cozen fortune and be honorable
 Without the stamp of merit? Let none presume
@@ -1802,8 +1802,8 @@ How much low peasantry would then be gleaned
 From the true seed of honor? And how much honor
 Picked from the chaff and ruin of the times,
 To be new varnished? Well, but to my choice.
-"&ldquo;Who chooseth me shall get as much as he
-deserves.&rdquo;"
+&ldquo;Who chooseth me shall get as much as he
+deserves.&rdquo;
 I will assume desert. Give me a key for this,
 [<i>He is given a key.</i>]
 And instantly unlock my fortunes here.
@@ -1817,8 +1817,8 @@ What&rsquo;s here? The portrait of a blinking idiot
 Presenting me a schedule! I will read it.&mdash;
 How much unlike art thou to Portia!
 How much unlike my hopes and my deservings.
-"&ldquo;Who chooseth me shall have as much as he
-deserves&rdquo;"?
+&ldquo;Who chooseth me shall have as much as he
+deserves&rdquo;?
 Did I deserve no more than a fool&rsquo;s head?
 Is that my prize? Are my deserts no better?
 
@@ -1928,7 +1928,7 @@ hath lost a ship.
 I would it might prove the end of his losses.
 
 <speaker>SOLANIO</speaker>
-Let me say "&ldquo;amen&rdquo;" betimes, lest the devil
+Let me say &ldquo;amen&rdquo; betimes, lest the devil
 cross my prayer, for here he comes in the likeness
 of a Jew.
 
@@ -2168,7 +2168,7 @@ Promise me life and I&rsquo;ll confess the truth.
 Well, then, confess and live.
 
 <speaker>BASSANIO</speaker>
-"&ldquo;Confess and love&rdquo;"
+&ldquo;Confess and love&rdquo;
 Had been the very sum of my confession.
 O happy torment, when my torturer
 Doth teach me answers for deliverance!
@@ -2348,7 +2348,7 @@ O, then be bold to say Bassanio&rsquo;s dead!
 <speaker>NERISSA</speaker>
 My lord and lady, it is now our time,
 That have stood by and seen our wishes prosper,
-To cry "&ldquo;Good joy, good joy, my lord and lady!&rdquo;"
+To cry &ldquo;Good joy, good joy, my lord and lady!&rdquo;
 
 <speaker>GRATIANO</speaker>
 My Lord Bassanio, and my gentle lady,
@@ -2839,7 +2839,7 @@ Goodly Lord, what a wit-snapper are you!
 Then bid them prepare dinner.
 
 <speaker>LANCELET</speaker>
-That is done too, sir, only "&ldquo;cover&rdquo;" is the
+That is done too, sir, only &ldquo;cover&rdquo; is the
 word.
 
 <speaker>LORENZO</speaker>
@@ -3047,11 +3047,11 @@ You have among you many a purchased slave,
 Which, like your asses and your dogs and mules,
 You use in abject and in slavish parts
 Because you bought them. Shall I say to you
-"&ldquo;Let them be free! Marry them to your heirs!
+&ldquo;Let them be free! Marry them to your heirs!
 Why sweat they under burdens? Let their beds
 Be made as soft as yours, and let their palates
-Be seasoned with such viands&rdquo;"? You will answer
-"&ldquo;The slaves are ours!&rdquo;" So do I answer you:
+Be seasoned with such viands&rdquo;? You will answer
+&ldquo;The slaves are ours!&rdquo; So do I answer you:
 The pound of flesh which I demand of him
 Is dearly bought; &rsquo;tis mine and I will have it.
 If you deny me, fie upon your law:
@@ -3342,7 +3342,7 @@ Therefore lay bare your bosom&mdash;
 <speaker>SHYLOCK</speaker>
 Ay, his breast!
 So says the bond, doth it not, noble judge?
-"&ldquo;Nearest his heart.&rdquo;" Those are the very words.
+&ldquo;Nearest his heart.&rdquo; Those are the very words.
 
 <speaker>PORTIA</speaker>
 [<i>as Balthazar</i>]
@@ -3442,7 +3442,7 @@ Most learned judge! A sentence!&mdash;Come, prepare.
 [<i>as Balthazar</i>]
 Tarry a little. There is something else.
 This bond doth give thee here no jot of blood.
-The words expressly are "&ldquo;a pound of flesh.&rdquo;"
+The words expressly are &ldquo;a pound of flesh.&rdquo;
 Take then thy bond, take thou thy pound of flesh,
 But in the cutting it, if thou dost shed
 One drop of Christian blood, thy lands and goods
@@ -4055,7 +4055,7 @@ A quarrel ho, already! What&rsquo;s the matter?
 About a hoop of gold, a paltry ring
 That she did give me, whose posy was
 For all the world like cutler&rsquo;s poetry
-Upon a knife, "&ldquo;Love me, and leave me not.&rdquo;"
+Upon a knife, &ldquo;Love me, and leave me not.&rdquo;
 
 <speaker>NERISSA</speaker>
 What talk you of the posy or the value?

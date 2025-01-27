@@ -201,8 +201,8 @@ You&rsquo;re long about it.
 MENENIUS  Note me this, good friend;
 Your most grave belly was deliberate,
 Not rash like his accusers, and thus answered:
-"&ldquo;True is it, my incorporate friends,&rdquo;" quoth he,
-"&ldquo;That I receive the general food at first
+&ldquo;True is it, my incorporate friends,&rdquo; quoth he,
+&ldquo;That I receive the general food at first
 Which you do live upon; and fit it is,
 Because I am the storehouse and the shop
 Of the whole body. But, if you do remember,
@@ -212,17 +212,17 @@ And, through the cranks and offices of man,
 The strongest nerves and small inferior veins
 From me receive that natural competency
 Whereby they live. And though that all at once,
-You, my good friends"&mdash;this says the belly, mark
+You, my good friends&rdquo;&mdash;this says the belly, mark
 me&mdash;
 
 SECOND CITIZEN
 Ay, sir, well, well.
 
-MENENIUS  "&ldquo;Though all at once cannot
+MENENIUS  &ldquo;Though all at once cannot
 See what I do deliver out to each,
 Yet I can make my audit up, that all
 From me do back receive the flour of all,
-And leave me but the bran.&rdquo;" What say you to &rsquo;t?
+And leave me but the bran.&rdquo; What say you to &rsquo;t?
 
 SECOND CITIZEN
 It was an answer. How apply you this?
@@ -451,8 +451,8 @@ Better be held nor more attained than by
 A place below the first; for what miscarries
 Shall be the General&rsquo;s fault, though he perform
 To th&rsquo; utmost of a man, and giddy censure
-Will then cry out of Martius "&ldquo;O, if he
-Had borne the business!&rdquo;"
+Will then cry out of Martius &ldquo;O, if he
+Had borne the business!&rdquo;
 
 SICINIUS  Besides, if things go well,
 Opinion that so sticks on Martius shall
@@ -602,8 +602,8 @@ Methinks I hear hither your husband&rsquo;s drum,
 See him pluck Aufidius down by th&rsquo; hair;
 As children from a bear, the Volsces shunning him.
 Methinks I see him stamp thus and call thus:
-"&ldquo;Come on, you cowards! You were got in fear,
-Though you were born in Rome.&rdquo;" His bloody brow
+&ldquo;Come on, you cowards! You were got in fear,
+Though you were born in Rome.&rdquo; His bloody brow
 With his mailed hand then wiping, forth he goes
 Like to a harvestman that&rsquo;s tasked to mow
 Or all or lose his hire.
@@ -1238,8 +1238,8 @@ I&rsquo; th&rsquo; end admire; where ladies shall be frighted
 And, gladly quaked, hear more; where the dull
 tribunes,
 That with the fusty plebeians hate thine honors,
-Shall say against their hearts "&ldquo;We thank the gods
-Our Rome hath such a soldier.&rdquo;"
+Shall say against their hearts &ldquo;We thank the gods
+Our Rome hath such a soldier.&rdquo;
 Yet cam&rsquo;st thou to a morsel of this feast,
 Having fully dined before.
 
@@ -1290,7 +1290,7 @@ But cannot make my heart consent to take
 A bribe to pay my sword. I do refuse it
 And stand upon my common part with those
 That have beheld the doing.
-[<i>A long flourish. They all cry "&ldquo;Martius, Martius!&rdquo;"
+[<i>A long flourish. They all cry &ldquo;Martius, Martius!&rdquo;
 and cast up their caps and lances.
 Cominius and Lartius stand bare.</i>]
 May these same instruments, which you profane,
@@ -1740,7 +1740,7 @@ Captains and Soldiers and a Herald. Trumpets sound.</i>]
 Know, Rome, that all alone Martius did fight
 Within Corioles&rsquo; gates, where he hath won,
 With fame, a name to Martius Caius; these
-In honor follows "&ldquo;Coriolanus.&rdquo;"
+In honor follows &ldquo;Coriolanus.&rdquo;
 Welcome to Rome, renowned Coriolanus.
 [<i>Sound flourish.</i>]
 
@@ -2219,7 +2219,7 @@ Be taken from the people.
   Mark you that?
 
 <speaker>CORIOLANUS</speaker>
-To brag unto them "&ldquo;Thus I did, and thus!&rdquo;"
+To brag unto them &ldquo;Thus I did, and thus!&rdquo;
 Show them th&rsquo; unaching scars, which I should hide,
 As if I had received them for the hire
 Of their breath only!
@@ -2336,11 +2336,11 @@ The worthiest men have done &rsquo;t?
 
 <speaker>CORIOLANUS</speaker>
 What must I say?
-"&ldquo;I pray, sir?"&mdash;plague upon &rsquo;t! I cannot bring
-My tongue to such a pace. "&ldquo;Look, sir, my wounds!
+&ldquo;I pray, sir?&rdquo;&mdash;plague upon &rsquo;t! I cannot bring
+My tongue to such a pace. &ldquo;Look, sir, my wounds!
 I got them in my country&rsquo;s service when
 Some certain of your brethren roared and ran
-From th&rsquo; noise of our own drums.&rdquo;"
+From th&rsquo; noise of our own drums.&rdquo;
 
 <speaker>MENENIUS</speaker>
 O me, the gods!
@@ -2592,13 +2592,13 @@ No, no. No man saw &rsquo;em.
 He said he had wounds, which he could show in
 private,
 And with his hat, thus waving it in scorn,
-"&ldquo;I would be consul,&rdquo;" says he. "&ldquo;Aged custom,
+&ldquo;I would be consul,&rdquo; says he. &ldquo;Aged custom,
 But by your voices, will not so permit me;
-Your voices therefore.&rdquo;" When we granted that,
-Here was "&ldquo;I thank you for your voices. Thank you.
+Your voices therefore.&rdquo; When we granted that,
+Here was &ldquo;I thank you for your voices. Thank you.
 Your most sweet voices! Now you have left your
 voices,
-I have no further with you.&rdquo;" Was not this mockery?
+I have no further with you.&rdquo; Was not this mockery?
 
 <speaker>SICINIUS</speaker>
 Why either were you ignorant to see &rsquo;t
@@ -2967,19 +2967,19 @@ That shall remain a poison where it is,
 Not poison any further.
 
 <speaker>CORIOLANUS</speaker>
-"&ldquo;Shall remain&rdquo;"?
+&ldquo;Shall remain&rdquo;?
 Hear you this Triton of the minnows? Mark you
-His absolute "&ldquo;shall&rdquo;"?
+His absolute &ldquo;shall&rdquo;?
 
 <speaker>COMINIUS</speaker>
 &rsquo;Twas from the canon.
 
 <speaker>CORIOLANUS</speaker>
-"&ldquo;Shall&rdquo;"?
+&ldquo;Shall&rdquo;?
 O good but most unwise patricians, why,
 You grave but reckless senators, have you thus
 Given Hydra here to choose an officer,
-That with his peremptory "&ldquo;shall,&rdquo;" being but
+That with his peremptory &ldquo;shall,&rdquo; being but
 The horn and noise o&rsquo; th&rsquo; monster&rsquo;s, wants not spirit
 To say he&rsquo;ll turn your current in a ditch
 And make your channel his? If he have power,
@@ -2990,8 +2990,8 @@ Let them have cushions by you. You are plebeians,
 If they be senators; and they are no less
 When, both your voices blended, the great&rsquo;st taste
 Most palates theirs. They choose their magistrate,
-And such a one as he, who puts his "&ldquo;shall,&rdquo;"
-His popular "&ldquo;shall,&rdquo;" against a graver bench
+And such a one as he, who puts his &ldquo;shall,&rdquo;
+His popular &ldquo;shall,&rdquo; against a graver bench
 Than ever frowned in Greece. By Jove himself,
 It makes the consuls base! And my soul aches
 To know, when two authorities are up,
@@ -3036,9 +3036,9 @@ All cause unborn, could never be the native
 Of our so frank donation. Well, what then?
 How shall this bosom multiplied digest
 The Senate&rsquo;s courtesy? Let deeds express
-What&rsquo;s like to be their words: "&ldquo;We did request it;
+What&rsquo;s like to be their words: &ldquo;We did request it;
 We are the greater poll, and in true fear
-They gave us our demands.&rdquo;" Thus we debase
+They gave us our demands.&rdquo; Thus we debase
 The nature of our seats and make the rabble
 Call our cares fears, which will in time
 Break ope the locks o&rsquo; th&rsquo; Senate and bring in
@@ -3780,7 +3780,7 @@ With accusations, as I hear, more strong
 Than are upon you yet.
 
 <speaker>CORIOLANUS</speaker>
-The word is "&ldquo;mildly.&rdquo;" Pray you, let us go.
+The word is &ldquo;mildly.&rdquo; Pray you, let us go.
 Let them accuse me by invention, I
 Will answer in mine honor.
 
@@ -3832,10 +3832,10 @@ I have.
 
 <speaker>SICINIUS</speaker>
 Assemble presently the people hither;
-And when they hear me say "&ldquo;It shall be so
-I&rsquo; th&rsquo; right and strength o&rsquo; th&rsquo; commons,&rdquo;" be it either
+And when they hear me say &ldquo;It shall be so
+I&rsquo; th&rsquo; right and strength o&rsquo; th&rsquo; commons,&rdquo; be it either
 For death, for fine, or banishment, then let them
-If I say "&ldquo;Fine,&rdquo;" cry "&ldquo;Fine,&rdquo;" if "&ldquo;Death,&rdquo;" cry "&ldquo;Death,&rdquo;"
+If I say &ldquo;Fine,&rdquo; cry &ldquo;Fine,&rdquo; if &ldquo;Death,&rdquo; cry &ldquo;Death,&rdquo;
 Insisting on the old prerogative
 And power i&rsquo; th&rsquo; truth o&rsquo; th&rsquo; cause.
 
@@ -3972,7 +3972,7 @@ Call me their traitor? Thou injurious tribune!
 Within thine eyes sat twenty thousand deaths,
 In thy hands clutched as many millions, in
 Thy lying tongue both numbers, I would say
-"&ldquo;Thou liest&rdquo;" unto thee with a voice as free
+&ldquo;Thou liest&rdquo; unto thee with a voice as free
 As I do pray the gods.
 
 <speaker>SICINIUS</speaker>
@@ -4017,7 +4017,7 @@ Vagabond exile, flaying, pent to linger
 But with a grain a day, I would not buy
 Their mercy at the price of one fair word,
 Nor check my courage for what they can give,
-To have &rsquo;t with saying "&ldquo;Good morrow.&rdquo;"
+To have &rsquo;t with saying &ldquo;Good morrow.&rdquo;
 
 <speaker>SICINIUS</speaker>
 For that he has,
@@ -4301,7 +4301,7 @@ The noble knot he made.
 I would he had.
 
 <speaker>VOLUMNIA</speaker>
-"&ldquo;I would he had&rdquo;"? &rsquo;Twas you incensed the rabble.
+&ldquo;I would he had&rdquo;? &rsquo;Twas you incensed the rabble.
 Cats, that can judge as fitly of his worth
 As I can of those mysteries which heaven
 Will not have Earth to know.
@@ -4852,11 +4852,11 @@ Why, here&rsquo;s he that was wont to
 thwack our general, Caius Martius.
 
 <speaker>FIRST SERVINGMAN</speaker>
-Why do you say "&ldquo;thwack our
-general&rdquo;"?
+Why do you say &ldquo;thwack our
+general&rdquo;?
 
 <speaker>THIRD SERVINGMAN</speaker>
-I do not say "&ldquo;thwack our general,&rdquo;"
+I do not say &ldquo;thwack our general,&rdquo;
 but he was always good enough for him.
 
 <speaker>SECOND SERVINGMAN</speaker>
@@ -5220,7 +5220,7 @@ Who shall ask it?
 The Tribunes cannot do &rsquo;t for shame; the people
 Deserve such pity of him as the wolf
 Does of the shepherds. For his best friends, if they
-Should say "&ldquo;Be good to Rome,&rdquo;" they charged him
+Should say &ldquo;Be good to Rome,&rdquo; they charged him
 even
 As those should do that had deserved his hate
 And therein showed like enemies.
@@ -5229,7 +5229,7 @@ And therein showed like enemies.
 &rsquo;Tis true.
 If he were putting to my house the brand
 That should consume it, I have not the face
-To say "&ldquo;Beseech you, cease."&mdash;You have made fair
+To say &ldquo;Beseech you, cease.&rdquo;&mdash;You have made fair
 hands,
 You and your crafts! You have crafted fair!
 
@@ -5430,7 +5430,7 @@ Do you hear?
 <speaker>COMINIUS</speaker>
 Yet one time he did call me by my name.
 I urged our old acquaintance, and the drops
-That we have bled together. "&ldquo;Coriolanus&rdquo;"
+That we have bled together. &ldquo;Coriolanus&rdquo;
 He would not answer to, forbade all names.
 He was a kind of nothing, titleless,
 Till he had forged himself a name o&rsquo; th&rsquo; fire
@@ -5533,7 +5533,7 @@ Not?
 I tell you, he does sit in gold, his eye
 Red as &rsquo;twould burn Rome; and his injury
 The jailor to his pity. I kneeled before him;
-&rsquo;Twas very faintly he said "&ldquo;Rise&rdquo;"; dismissed me
+&rsquo;Twas very faintly he said &ldquo;Rise&rdquo;; dismissed me
 Thus with his speechless hand. What he would do
 He sent in writing after me; what he
 Would not, bound with an oath to yield to his
@@ -5792,7 +5792,7 @@ My mother bows,
 As if Olympus to a molehill should
 In supplication nod; and my young boy
 Hath an aspect of intercession which
-Great Nature cries "&ldquo;Deny not!&rdquo;" Let the Volsces
+Great Nature cries &ldquo;Deny not!&rdquo; Let the Volsces
 Plow Rome and harrow Italy, I&rsquo;ll never
 Be such a gosling to obey instinct, but stand
 As if a man were author of himself,
@@ -5813,7 +5813,7 @@ Like a dull actor now,
 I have forgot my part, and I am out,
 Even to a full disgrace. Best of my flesh,
 Forgive my tyranny, but do not say
-For that "&ldquo;Forgive our Romans.&rdquo;"	[<i>They kiss.</i>]
+For that &ldquo;Forgive our Romans.&rdquo;	[<i>They kiss.</i>]
 O, a kiss
 Long as my exile, sweet as my revenge!
 Now, by the jealous queen of heaven, that kiss
@@ -5963,18 +5963,18 @@ The Volsces whom you serve, you might condemn
 us
 As poisonous of your honor. No, our suit
 Is that you reconcile them, while the Volsces
-May say "&ldquo;This mercy we have showed,&rdquo;" the Romans
-"&ldquo;This we received,&rdquo;" and each in either side
-Give the all-hail to thee and cry "&ldquo;Be blest
-For making up this peace!&rdquo;" Thou know&rsquo;st, great son,
+May say &ldquo;This mercy we have showed,&rdquo; the Romans
+&ldquo;This we received,&rdquo; and each in either side
+Give the all-hail to thee and cry &ldquo;Be blest
+For making up this peace!&rdquo; Thou know&rsquo;st, great son,
 The end of war&rsquo;s uncertain, but this certain,
 That, if thou conquer Rome, the benefit
 Which thou shalt thereby reap is such a name
 Whose repetition will be dogged with curses,
-Whose chronicle thus writ: "&ldquo;The man was noble,
+Whose chronicle thus writ: &ldquo;The man was noble,
 But with his last attempt he wiped it out,
 Destroyed his country, and his name remains
-To th&rsquo; ensuing age abhorred.&rdquo;" Speak to me, son.
+To th&rsquo; ensuing age abhorred.&rdquo; Speak to me, son.
 Thou hast affected the fine strains of honor
 To imitate the graces of the gods,
 To tear with thunder the wide cheeks o&rsquo; th&rsquo; air
@@ -6196,7 +6196,7 @@ And make triumphant fires. Strew flowers before
 them,
 Unshout the noise that banished Martius,
 Repeal him with the welcome of his mother.
-Cry "&ldquo;Welcome, ladies, welcome!&rdquo;"
+Cry &ldquo;Welcome, ladies, welcome!&rdquo;
 
 <speaker>ALL</speaker>
 Welcome, ladies, welcome!
@@ -6368,7 +6368,7 @@ But tell the traitor in the highest degree
 He hath abused your powers.
 
 <speaker>CORIOLANUS</speaker>
-"&ldquo;Traitor&rdquo;"? How now?
+&ldquo;Traitor&rdquo;? How now?
 
 <speaker>AUFIDIUS</speaker>
 Ay, traitor, Martius.
@@ -6405,7 +6405,7 @@ No more.
 
 <speaker>CORIOLANUS</speaker>
 Measureless liar, thou hast made my heart
-Too great for what contains it. "&ldquo;Boy&rdquo;"? O slave!&mdash;
+Too great for what contains it. &ldquo;Boy&rdquo;? O slave!&mdash;
 Pardon me, lords, &rsquo;tis the first time that ever
 I was forced to scold. Your judgments, my grave
 lords,
@@ -6419,11 +6419,11 @@ Peace, both, and hear me speak.
 
 <speaker>CORIOLANUS</speaker>
 Cut me to pieces, Volsces. Men and lads,
-Stain all your edges on me. "&ldquo;Boy&rdquo;"? False hound!
+Stain all your edges on me. &ldquo;Boy&rdquo;? False hound!
 If you have writ your annals true, &rsquo;tis there
 That like an eagle in a dovecote, I
 Fluttered your Volscians in Corioles,
-Alone I did it. "&ldquo;Boy&rdquo;"!
+Alone I did it. &ldquo;Boy&rdquo;!
 
 <speaker>AUFIDIUS</speaker>
 Why, noble lords,

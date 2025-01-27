@@ -118,10 +118,10 @@ water swear against it and gape at wid&rsquo;st to glut him.
 
 
 [<i>A confused noise within:</i>]
-  "&ldquo;Mercy on us!"&mdash;"We split, we
-split!"&mdash;"Farewell, my wife and children!"&mdash;
-"&ldquo;Farewell, brother!"&mdash;"We split, we split, we
-split!&rdquo;"
+  &ldquo;Mercy on us!&rdquo;&mdash;&ldquo;We split, we
+split!&rdquo;&mdash;&ldquo;Farewell, my wife and children!&rdquo;&mdash;
+&ldquo;Farewell, brother!&rdquo;&mdash;&ldquo;We split, we split, we
+split!&rdquo;
 
 
 ANTONIO  Let&rsquo;s all sink wi&rsquo; th&rsquo; King.
@@ -197,7 +197,7 @@ For thou must now know farther.	[<i>They sit.</i>]
 You have often
 Begun to tell me what I am, but stopped
 And left me to a bootless inquisition,
-Concluding "&ldquo;Stay. Not yet.&rdquo;"
+Concluding &ldquo;Stay. Not yet.&rdquo;
 
 <speaker>PROSPERO</speaker>
 The hour&rsquo;s now come.
@@ -489,8 +489,8 @@ Some tricks of desperation. All but mariners
 Plunged in the foaming brine and quit the vessel,
 Then all afire with me. The King&rsquo;s son, Ferdinand,
 With hair up-staring&mdash;then like reeds, not hair&mdash;
-Was the first man that leaped; cried "&ldquo;Hell is empty,
-And all the devils are here.&rdquo;"
+Was the first man that leaped; cried &ldquo;Hell is empty,
+And all the devils are here.&rdquo;
 
 <speaker>PROSPERO</speaker>
 Why, that&rsquo;s my spirit!
@@ -1268,16 +1268,16 @@ paragon to their queen.
 Not since widow Dido&rsquo;s time.
 
 <speaker>ANTONIO</speaker>
-Widow? A pox o&rsquo; that! How came that "&ldquo;widow&rdquo;"
+Widow? A pox o&rsquo; that! How came that &ldquo;widow&rdquo;
 in? Widow Dido!
 
 <speaker>SEBASTIAN</speaker>
-What if he had said "&ldquo;widower Aeneas&rdquo;" too?
+What if he had said &ldquo;widower Aeneas&rdquo; too?
 Good Lord, how you take it!
 
 <speaker>ADRIAN</speaker>
 [<i>to Gonzalo</i>]
-  "&ldquo;Widow Dido,&rdquo;" said you? You
+  &ldquo;Widow Dido,&rdquo; said you? You
 make me study of that. She was of Carthage, not of
 Tunis.
 
@@ -1336,7 +1336,7 @@ O, widow Dido? Ay, widow Dido.
 the first day I wore it? I mean, in a sort.
 
 <speaker>ANTONIO</speaker>
-That "&ldquo;sort&rdquo;" was well fished for.
+That &ldquo;sort&rdquo; was well fished for.
 
 <speaker>GONZALO</speaker>
 [<i>to Alonso</i>]
@@ -1667,9 +1667,9 @@ There is some space.
 
 <speaker>ANTONIO</speaker>
 A space whose ev&rsquo;ry cubit
-Seems to cry out "&ldquo;How shall that Claribel
+Seems to cry out &ldquo;How shall that Claribel
 Measure us back to Naples? Keep in Tunis
-And let Sebastian wake.&rdquo;" Say this were death
+And let Sebastian wake.&rdquo; Say this were death
 That now hath seized them, why, they were no worse
 Than now they are. There be that can rule Naples
 As well as he that sleeps, lords that can prate
@@ -1877,7 +1877,7 @@ Well, here&rsquo;s my comfort.	[<i>Drinks.</i>]
 	Loved Mall, Meg, and Marian, and Margery,
 	   But none of us cared for Kate.
 	      For she had a tongue with a tang,
-	      Would cry to a sailor "&ldquo;Go hang!&rdquo;"
+	      Would cry to a sailor &ldquo;Go hang!&rdquo;
 	She loved not the savor of tar nor of pitch,
 	Yet a tailor might scratch her where&rsquo;er she did itch.
 	      Then to sea, boys, and let her go hang!
@@ -1891,9 +1891,9 @@ Do not torment me! O!
 What&rsquo;s the matter? Have we devils here? Do
 you put tricks upon &rsquo;s with savages and men of Ind?
 Ha? I have not scaped drowning to be afeard now
-of your four legs, for it hath been said "&ldquo;As proper a
+of your four legs, for it hath been said &ldquo;As proper a
 man as ever went on four legs cannot make him
-give ground,&rdquo;" and it shall be said so again while
+give ground,&rdquo; and it shall be said so again while
 Stephano breathes at&rsquo; nostrils.
 
 <speaker>CALIBAN</speaker>
@@ -2364,7 +2364,7 @@ Lo, how he mocks me! Wilt thou let him, my
 lord?
 
 <speaker>TRINCULO</speaker>
-"&ldquo;Lord,&rdquo;" quoth he? That a monster should be
+&ldquo;Lord,&rdquo; quoth he? That a monster should be
 such a natural!
 
 <speaker>CALIBAN</speaker>
@@ -2915,8 +2915,8 @@ Presently?
 Ay, with a twink.
 
 <speaker>ARIEL</speaker>
-	Before you can say "&ldquo;Come&rdquo;" and "&ldquo;Go,&rdquo;"
-	And breathe twice, and cry "&ldquo;So, so,&rdquo;"
+	Before you can say &ldquo;Come&rdquo; and &ldquo;Go,&rdquo;
+	And breathe twice, and cry &ldquo;So, so,&rdquo;
 	Each one, tripping on his toe,
 	Will be here with mop and mow.
 	Do you love me, master? No?
@@ -3279,7 +3279,7 @@ your Grace.
 <speaker>STEPHANO</speaker>
 I thank thee for that jest. Here&rsquo;s a garment
 for &rsquo;t. Wit shall not go unrewarded while I am king
-of this country. "&ldquo;Steal by line and level&rdquo;" is an excellent
+of this country. &ldquo;Steal by line and level&rdquo; is an excellent
 pass of pate. There&rsquo;s another garment for &rsquo;t.
 
 <speaker>TRINCULO</speaker>
@@ -3697,7 +3697,7 @@ For it is you that have chalked forth the way
 Which brought us hither.
 
 <speaker>ALONSO</speaker>
-I say "&ldquo;Amen,&rdquo;" Gonzalo.
+I say &ldquo;Amen,&rdquo; Gonzalo.
 
 <speaker>GONZALO</speaker>
 Was Milan thrust from Milan, that his issue

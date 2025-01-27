@@ -252,7 +252,7 @@ And proofs as clear as founts in July when
 We see each grain of gravel, I do know
 To be corrupt and treasonous.
 
-NORFOLK  Say not "&ldquo;treasonous.&rdquo;"
+NORFOLK  Say not &ldquo;treasonous.&rdquo;
 
 BUCKINGHAM
 To th&rsquo; King I&rsquo;ll say &rsquo;t, and make my vouch as strong
@@ -273,7 +273,7 @@ BUCKINGHAM
 Pray give me favor, sir. This cunning cardinal
 The articles o&rsquo; th&rsquo; combination drew
 As himself pleased; and they were ratified
-As he cried "&ldquo;Thus let be,&rdquo;" to as much end
+As he cried &ldquo;Thus let be,&rdquo; to as much end
 As give a crutch to th&rsquo; dead. But our Count Cardinal
 Has done this, and &rsquo;tis well, for worthy Wolsey,
 Who cannot err, he did it. Now this follows&mdash;
@@ -387,7 +387,7 @@ I&rsquo;ll hear him his confessions justify,
 And point by point the treasons of his master
 He shall again relate.
 
-[<i>A noise within crying "&ldquo;Room for the Queen!&rdquo;" Enter the
+[<i>A noise within crying &ldquo;Room for the Queen!&rdquo; Enter the
 Queen Katherine, ushered by the Duke of Norfolk, and
 the Duke of Suffolk. She kneels. The King riseth from
 his state.</i>]
@@ -429,7 +429,7 @@ The sides of loyalty and almost appears
 In loud rebellion.
 
 <speaker>NORFOLK</speaker>
-Not "&ldquo;almost appears"&mdash;
+Not &ldquo;almost appears&rdquo;&mdash;
 It doth appear. For, upon these taxations,
 The clothiers all, not able to maintain
 The many to them longing, have put off
@@ -628,8 +628,8 @@ Men fear the French would prove perfidious,
 To the King&rsquo;s danger. Presently the Duke
 Said &rsquo;twas the fear indeed, and that he doubted
 &rsquo;Twould prove the verity of certain words
-Spoke by a holy monk "&ldquo;that oft,&rdquo;" says he,
-"&ldquo;Hath sent to me, wishing me to permit
+Spoke by a holy monk &ldquo;that oft,&rdquo; says he,
+&ldquo;Hath sent to me, wishing me to permit
 John de la Car, my chaplain, a choice hour
 To hear from him a matter of some moment;
 Whom after under the confession&rsquo;s seal
@@ -639,7 +639,7 @@ To me should utter, with demure confidence
 This pausingly ensued: &rsquo;Neither the King, nor &rsquo;s heirs&mdash;
 Tell you the Duke&mdash;shall prosper. Bid him strive
 To gain the love o&rsquo; th&rsquo; commonalty; the Duke
-Shall govern England.&rsquo;&rdquo;"
+Shall govern England.&rsquo;&rdquo;
 
 <speaker>QUEEN KATHERINE</speaker>
 If I know you well,
@@ -659,8 +659,8 @@ I told my lord the Duke, by th&rsquo; devil&rsquo;s illusions
 The monk might be deceived, and that &rsquo;twas dangerous
 For him to ruminate on this so far until
 It forged him some design, which, being believed,
-It was much like to do. He answered "&ldquo;Tush,
-It can do me no damage,&rdquo;" adding further
+It was much like to do. He answered &ldquo;Tush,
+It can do me no damage,&rdquo; adding further
 That had the King in his last sickness failed,
 The Cardinal&rsquo;s and Sir Thomas Lovell&rsquo;s heads
 Should have gone off.
@@ -685,13 +685,13 @@ I remember of such a time, being my sworn servant,
 The Duke retained him his. But on. What hence?
 
 <speaker>SURVEYOR</speaker>
-"&ldquo;If,&rdquo;" quoth he, "&ldquo;I for this had been committed,&rdquo;"
-As to the Tower, I thought, "&ldquo;I would have played
+&ldquo;If,&rdquo; quoth he, &ldquo;I for this had been committed,&rdquo;
+As to the Tower, I thought, &ldquo;I would have played
 The part my father meant to act upon
 Th&rsquo; usurper Richard, who, being at Salisbury,
 Made suit to come in &rsquo;s presence; which if granted,
 As he made semblance of his duty, would
-Have put his knife into him.&rdquo;"
+Have put his knife into him.&rdquo;
 
 <speaker>KING</speaker>
 A giant traitor!
@@ -708,7 +708,7 @@ God mend all.
 There&rsquo;s something more would out of thee. What sayst?
 
 <speaker>SURVEYOR</speaker>
-After "&ldquo;the Duke his father&rdquo;" with "&ldquo;the knife,&rdquo;"
+After &ldquo;the Duke his father&rdquo; with &ldquo;the knife,&rdquo;
 He stretched him, and with one hand on his dagger,
 Another spread on &rsquo;s breast, mounting his eyes,
 He did discharge a horrible oath whose tenor
@@ -791,7 +791,7 @@ The faith they have in tennis and tall stockings,
 Short blistered breeches, and those types of travel,
 And understand again like honest men,
 Or pack to their old playfellows. There, I take it,
-They may cum privilegio "&ldquo;oui&rdquo;" away
+They may cum privilegio &ldquo;oui&rdquo; away
 The lag end of their lewdness and be laughed at.
 
 <speaker>SANDS</speaker>
@@ -1970,8 +1970,8 @@ You may then spare that time.
 Be &rsquo;t so. Proceed.
 
 <speaker>SCRIBE</speaker>
-Say "&ldquo;Henry King of England, come into the
-court.&rdquo;"
+Say &ldquo;Henry King of England, come into the
+court.&rdquo;
 
 <speaker>CRIER</speaker>
 Henry King of England, come into the court.
@@ -1980,8 +1980,8 @@ Henry King of England, come into the court.
 Here.
 
 <speaker>SCRIBE</speaker>
-Say "&ldquo;Katherine Queen of England, come into
-the court.&rdquo;"
+Say &ldquo;Katherine Queen of England, come into
+the court.&rdquo;
 
 <speaker>CRIER</speaker>
 Katherine Queen of England, come into the
@@ -2096,7 +2096,7 @@ For you or any. How far I have proceeded,
 Or how far further shall, is warranted
 By a commission from the Consistory,
 Yea, the whole Consistory of Rome. You charge me
-That I "&ldquo;have blown this coal.&rdquo;" I do deny it.
+That I &ldquo;have blown this coal.&rdquo; I do deny it.
 The King is present. If it be known to him
 That I gainsay my deed, how may he wound,
 And worthily, my falsehood, yea, as much
@@ -2651,9 +2651,9 @@ The Cardinal&rsquo;s letters to the Pope miscarried
 And came to th&rsquo; eye o&rsquo; th&rsquo; King, wherein was read
 How that the Cardinal did entreat his Holiness
 To stay the judgment o&rsquo; th&rsquo; divorce; for if
-It did take place, "&ldquo;I do,&rdquo;" quoth he, "&ldquo;perceive
+It did take place, &ldquo;I do,&rdquo; quoth he, &ldquo;perceive
 My king is tangled in affection to
-A creature of the Queen&rsquo;s, Lady Anne Bullen.&rdquo;"
+A creature of the Queen&rsquo;s, Lady Anne Bullen.&rdquo;
 
 <speaker>SURREY</speaker>
 Has the King this?
@@ -2713,11 +2713,11 @@ Is stol&rsquo;n away to Rome, hath ta&rsquo;en no leave,
 Has left the cause o&rsquo; th&rsquo; King unhandled, and
 Is posted as the agent of our cardinal
 To second all his plot. I do assure you
-The King cried "&ldquo;Ha!&rdquo;" at this.
+The King cried &ldquo;Ha!&rdquo; at this.
 
 <speaker>CHAMBERLAIN</speaker>
 Now God incense him,
-And let him cry "&ldquo;Ha!&rdquo;" louder.
+And let him cry &ldquo;Ha!&rdquo; louder.
 
 <speaker>NORFOLK</speaker>
 But, my lord,
@@ -3008,7 +3008,7 @@ No new device to beat this from his brains?
 I know &rsquo;twill stir him strongly; yet I know
 A way, if it take right, in spite of fortune
 Will bring me off again.	[<i>He looks at another paper.</i>]
-What&rsquo;s this? "&ldquo;To th&rsquo; Pope&rdquo;"?
+What&rsquo;s this? &ldquo;To th&rsquo; Pope&rdquo;?
 The letter, as I live, with all the business
 I writ to &rsquo;s Holiness. Nay then, farewell!
 I have touched the highest point of all my greatness,
@@ -3142,7 +3142,7 @@ When the King knows my truth.
 This cannot save you.
 I thank my memory I yet remember
 Some of these articles, and out they shall.
-Now, if you can blush and cry "&ldquo;Guilty,&rdquo;" cardinal,
+Now, if you can blush and cry &ldquo;Guilty,&rdquo; cardinal,
 You&rsquo;ll show a little honesty.
 
 <speaker>WOLSEY</speaker>
@@ -3158,7 +3158,7 @@ You maimed the jurisdiction of all bishops.
 
 <speaker>NORFOLK</speaker>
 Then, that in all you writ to Rome, or else
-To foreign princes, "&ldquo;ego et rex meus&rdquo;"
+To foreign princes, &ldquo;ego et rex meus&rdquo;
 Was still inscribed, in which you brought the King
 To be your servant.
 
@@ -3583,7 +3583,7 @@ I never saw before. Great-bellied women
 That had not half a week to go, like rams
 In the old time of war, would shake the press
 And make &rsquo;em reel before &rsquo;em. No man living
-Could say "&ldquo;This is my wife there,&rdquo;" all were woven
+Could say &ldquo;This is my wife there,&rdquo; all were woven
 So strangely in one piece.
 
 <speaker>SECOND GENTLEMAN</speaker>
@@ -3606,9 +3606,9 @@ To York Place, where the feast is held.
 
 <speaker>FIRST GENTLEMAN</speaker>
 Sir,
-You must no more call it "&ldquo;York Place&rdquo;"; that&rsquo;s past,
+You must no more call it &ldquo;York Place&rdquo;; that&rsquo;s past,
 For since the Cardinal fell, that title&rsquo;s lost.
-&rsquo;Tis now the King&rsquo;s and called "&ldquo;Whitehall.&rdquo;"
+&rsquo;Tis now the King&rsquo;s and called &ldquo;Whitehall.&rdquo;
 
 <speaker>THIRD GENTLEMAN</speaker>
 I know it,
@@ -3701,10 +3701,10 @@ Alas, poor man!
 At last, with easy roads, he came to Leicester,
 Lodged in the abbey, where the reverend abbot
 With all his convent honorably received him;
-To whom he gave these words: "&ldquo;O Father Abbot,
+To whom he gave these words: &ldquo;O Father Abbot,
 An old man, broken with the storms of state,
 Is come to lay his weary bones among you.
-Give him a little earth, for charity.&rdquo;"
+Give him a little earth, for charity.&rdquo;
 So went to bed, where eagerly his sickness
 Pursued him still; and three nights after this,
 About the hour of eight, which he himself
@@ -4292,7 +4292,7 @@ Under their blessed wings!
 <speaker>KING</speaker>
 Now by thy looks
 I guess thy message. Is the Queen delivered?
-Say "&ldquo;Ay, and of a boy.&rdquo;"
+Say &ldquo;Ay, and of a boy.&rdquo;
 
 <speaker>OLD LADY</speaker>
 Ay, ay, my liege,
@@ -4739,8 +4739,8 @@ Witness how dear I hold this confirmation.
 <speaker>KING</speaker>
 Good man, those joyful tears show thy true heart.
 The common voice, I see, is verified
-Of thee, which says thus: "&ldquo;Do my Lord of Canterbury
-A shrewd turn, and he&rsquo;s your friend forever."&mdash;
+Of thee, which says thus: &ldquo;Do my Lord of Canterbury
+A shrewd turn, and he&rsquo;s your friend forever.&rdquo;&mdash;
 Come, lords, we trifle time away. I long
 To have this young one made a Christian.
 As I have made you one, lords, one remain.
@@ -4828,7 +4828,7 @@ blow us. There was a haberdasher&rsquo;s wife of small
 wit near him that railed upon me till her pinked
 porringer fell off her head for kindling such a
 combustion in the state. I missed the meteor once
-and hit that woman, who cried out "&ldquo;Clubs!&rdquo;" when I
+and hit that woman, who cried out &ldquo;Clubs!&rdquo; when I
 might see from far some forty truncheoners draw to
 her succor, which were the hope o&rsquo; th&rsquo; Strand, where
 she was quartered. They fell on; I made good my
@@ -5025,7 +5025,7 @@ All that are here. Some come to take their ease
 And sleep an act or two&mdash;but those, we fear,
 We&rsquo;ve frighted with our trumpets; so, &rsquo;tis clear,
 They&rsquo;ll say &rsquo;tis naught&mdash;others, to hear the city
-Abused extremely and to cry "&ldquo;That&rsquo;s witty!"&mdash;
+Abused extremely and to cry &ldquo;That&rsquo;s witty!&rdquo;&mdash;
 Which we have not done neither&mdash;that I fear
 All the expected good we&rsquo;re like to hear
 For this play at this time is only in

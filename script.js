@@ -114,7 +114,6 @@ goButton.addEventListener('click', async () => {
         // LOCAL DEV ONLY const playModule = await import(`/plays/${playFile}.js`);
         // const playText = "Lorem Ipsum"; // playModule.text;
         const rawPlayText = `<b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter Theseus, Hippolyta, and Philostrate, with others.</i>]
@@ -329,7 +328,7 @@ Making it momentany as a sound,
 Swift as a shadow, short as any dream,
 Brief as the lightning in the collied night,
 That, in a spleen, unfolds both heaven and Earth,
-And, ere a man hath power to say "&ldquo;Behold!&rdquo;"
+And, ere a man hath power to say "&ldquo;Behold!&rdquo;
 The jaws of darkness do devour it up.
 So quick bright things come to confusion.
 
@@ -377,7 +376,7 @@ HERMIA
 Godspeed, fair Helena. Whither away?
 
 HELENA
-Call you me "&ldquo;fair&rdquo;"? That "&ldquo;fair&rdquo;" again unsay.
+Call you me "&ldquo;fair&rdquo;? That "&ldquo;fair&rdquo; again unsay.
 Demetrius loves your fair. O happy fair!
 Your eyes are lodestars and your tongue&rsquo;s sweet air
 More tunable than lark to shepherd&rsquo;s ear
@@ -507,7 +506,7 @@ grow to a point.
 <speaker>QUINCE</speaker>
 Marry, our play is "&ldquo;The most lamentable
 comedy and most cruel death of Pyramus and
-Thisbe.&rdquo;"
+Thisbe.&rdquo;
 
 <speaker>BOTTOM</speaker>
 A very good piece of work, I assure you, and a
@@ -578,7 +577,7 @@ you may speak as small as you will.
 An I may hide my face, let me play Thisbe too.
 I&rsquo;ll speak in a monstrous little voice: "&ldquo;Thisne,
 Thisne!"&mdash;"Ah Pyramus, my lover dear! Thy Thisbe
-dear and lady dear!&rdquo;"
+dear and lady dear!&rdquo;
 
 <speaker>QUINCE</speaker>
 No, no, you must play Pyramus&mdash;and, Flute,
@@ -617,7 +616,7 @@ roaring.
 Let me play the lion too. I will roar that I will
 do any man&rsquo;s heart good to hear me. I will roar that
 I will make the Duke say "&ldquo;Let him roar again. Let
-him roar again!&rdquo;"
+him roar again!&rdquo;
 
 <speaker>QUINCE</speaker>
 An you should do it too terribly, you would
@@ -732,7 +731,7 @@ Skim milk, and sometimes labor in the quern
 And bootless make the breathless huswife churn,
 And sometime make the drink to bear no barm,
 Mislead night wanderers, laughing at their harm?
-Those that "&ldquo;Hobgoblin&rdquo;" call you and "&ldquo;sweet Puck,&rdquo;"
+Those that "&ldquo;Hobgoblin&rdquo; call you and "&ldquo;sweet Puck,&rdquo;
 You do their work, and they shall have good luck.
 Are not you he?
 
@@ -749,7 +748,7 @@ And on her withered dewlap pour the ale.
 The wisest aunt, telling the saddest tale,
 Sometime for three-foot stool mistaketh me;
 Then slip I from her bum, down topples she
-And "&ldquo;Tailor!&rdquo;" cries and falls into a cough,
+And "&ldquo;Tailor!&rdquo; cries and falls into a cough,
 And then the whole choir hold their hips and loffe
 And waxen in their mirth and neeze and swear
 A merrier hour was never wasted there.
@@ -903,7 +902,7 @@ In maiden meditation, fancy-free.
 Yet marked I where the bolt of Cupid fell.
 It fell upon a little western flower,
 Before, milk-white, now purple with love&rsquo;s wound,
-And maidens call it "&ldquo;love-in-idleness.&rdquo;"
+And maidens call it "&ldquo;love-in-idleness.&rdquo;
 Fetch me that flower; the herb I showed thee once.
 The juice of it on sleeping eyelids laid
 Will make or man or woman madly dote
@@ -1158,7 +1157,7 @@ So far be distant; and good night, sweet friend.
 Thy love ne&rsquo;er alter till thy sweet life end!
 
 <speaker>LYSANDER</speaker>
-"&ldquo;Amen, amen&rdquo;" to that fair prayer, say I,
+"&ldquo;Amen, amen&rdquo; to that fair prayer, say I,
 And then end life when I end loyalty!
 Here is my bed. Sleep give thee all his rest!
 
@@ -1222,7 +1221,7 @@ But who is here? Lysander, on the ground!
 Dead or asleep? I see no blood, no wound.&mdash;
 Lysander, if you live, good sir, awake.
 
-<speaker>LYSANDER,</speaker>
+<speaker>LYSANDER</speaker>
 [<i>waking up</i>]
 And run through fire I will for thy sweet sake.
 Transparent Helena! Nature shows art,
@@ -1276,7 +1275,7 @@ Of all be hated, but the most of me!
 And, all my powers, address your love and might
 To honor Helen and to be her knight.	[<i>He exits.</i>]
 
-<speaker>HERMIA,</speaker>
+<speaker>HERMIA</speaker>
 [<i>waking up</i>]
 Help me, Lysander, help me! Do thy best
 To pluck this crawling serpent from my breast.
@@ -1338,119 +1337,7 @@ out of fear.
 
 <speaker>QUINCE</speaker>
 Well, we will have such a prologue, and it shall
-be written in eight and six.
-
-<speaker>BOTTOM</speaker>
-No, make it two more. Let it be written in
-eight and eight.
-
-<speaker>SNOUT</speaker>
-Will not the ladies be afeard of the lion?
-
-<speaker>STARVELING</speaker>
-I fear it, I promise you.
-
-<speaker>BOTTOM</speaker>
-Masters, you ought to consider with yourself,
-to bring in (God shield us!) a lion among ladies is a
-most dreadful thing. For there is not a more fearful
-wildfowl than your lion living, and we ought to look
-to &rsquo;t.
-
-<speaker>SNOUT</speaker>
-Therefore another prologue must tell he is not
-a lion.
-
-<speaker>BOTTOM</speaker>
-Nay, you must name his name, and half his
-face must be seen through the lion&rsquo;s neck, and he
-himself must speak through, saying thus, or to the
-same defect: "&ldquo;Ladies,&rdquo;" or "&ldquo;Fair ladies, I would
-wish you,&rdquo;" or "&ldquo;I would request you,&rdquo;" or "&ldquo;I would
-entreat you not to fear, not to tremble! My life for
-yours. If you think I come hither as a lion, it were
-pity of my life. No, I am no such thing. I am a man as
-other men are.&rdquo;" And there indeed let him name his
-name and tell them plainly he is Snug the joiner.
-
-<speaker>QUINCE</speaker>
-Well, it shall be so. But there is two hard
-things: that is, to bring the moonlight into a chamber,
-for you know Pyramus and Thisbe meet by
-moonlight.
-
-<speaker>SNOUT</speaker>
-Doth the moon shine that night we play our
-play?
-
-<speaker>BOTTOM</speaker>
-A calendar, a calendar! Look in the almanac.
-Find out moonshine, find out moonshine.
-[<i>Quince takes out a book.</i>]
-
-<speaker>QUINCE</speaker>
-Yes, it doth shine that night.
-
-<speaker>BOTTOM</speaker>
-Why, then, may you leave a casement of the
-great chamber window, where we play, open, and
-the moon may shine in at the casement.
-
-<speaker>QUINCE</speaker>
-Ay, or else one must come in with a bush of
-thorns and a lantern and say he comes to disfigure
-or to present the person of Moonshine. Then there
-is another thing: we must have a wall in the great
-chamber, for Pyramus and Thisbe, says the story,
-did talk through the chink of a wall.
-
-<speaker>SNOUT</speaker>
-You can never bring in a wall. What say you,
-Bottom?
-
-<speaker>BOTTOM</speaker>
-Some man or other must present Wall. And
-let him have some plaster, or some loam, or some
-roughcast about him to signify wall, or let him
-hold his fingers thus, and through that cranny shall
-Pyramus and Thisbe whisper.
-
-<speaker>QUINCE</speaker>
-If that may be, then all is well. Come, sit down,
-every mother&rsquo;s son, and rehearse your parts. Pyramus,
-you begin. When you have spoken your
-speech, enter into that brake, and so everyone
-according to his cue.
-
-[<i>Enter Robin invisible to those onstage.</i>]
-
-<speaker>ROBIN,</speaker>
-[<i>aside</i>]
-What hempen homespuns have we swagg&rsquo;ring here
-So near the cradle of the Fairy Queen?
-What, a play toward? I&rsquo;ll be an auditor&mdash;
-An actor too perhaps, if I see cause.
-
-<speaker>QUINCE</speaker>
-Speak, Pyramus.&mdash;Thisbe, stand forth.
-
-<speaker>BOTTOM,</speaker>
-[<i>as Pyramus</i>]
-	Thisbe, the flowers of odious savors sweet&mdash;
-
-<speaker>QUINCE</speaker>
-Odors, odors!
-
-<speaker>BOTTOM,</speaker>
-[<i>as Pyramus</i>]
-		...odors savors sweet.
-	So hath thy breath, my dearest Thisbe dear.&mdash;
-	But hark, a voice! Stay thou but here awhile,
-	And by and by I will to thee appear.	[<i>He exits.</i>]
-
-<speaker>ROBIN,</speaker>
-[<i>aside</i>]
-A stranger Pyramus than e&rsquo;er played here.	[<i>He exits.</i>]`;
+be written in eight and six.`;
 
         const characters = `<b class="characters-header">Characters in the Play</b><hr>
 <ul><li>Four lovers:</li><ul><li>HERMIA</li><li>LYSANDER</li><li>HELENA</li><li>DEMETRIUS</li></ul><li>THESEUS, duke of Athens</li><li>HIPPOLYTA, queen of the Amazons</li><li>EGEUS, father to Hermia</li><li>PHILOSTRATE, master of the revels to Theseus</li><li>NICK BOTTOM, weaver</li><li>PETER QUINCE, carpenter</li><li>FRANCIS FLUTE, bellows-mender</li><li>TOM SNOUT, tinker</li><li>SNUG, joiner</li><li>ROBIN STARVELING, tailor</li><li>OBERON, king of the Fairies</li><li>TITANIA, queen of the Fairies</li><li>ROBIN GOODFELLOW, a "puck," or hobgoblin, in Oberon's service</li><li>A FAIRY, in the service of Titania</li><li>Fairies attending upon Titania:</li><ul><li>PEASEBLOSSOM</li><li>COBWEB</li><li>MOTE</li><li>MUSTARDSEED</li></ul><li>Lords and Attendants on Theseus and Hippolyta</li><li>Other Fairies in the trains of Titania and Oberon</li></ul>`;
