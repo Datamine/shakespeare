@@ -7,7 +7,6 @@ https://shakespeare.folger.edu/shakespeares-works/coriolanus/
 Created on May 11, 2016, from FDT version 0.9.2.1`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter a company of mutinous Citizens with staves,

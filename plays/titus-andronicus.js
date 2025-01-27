@@ -7,7 +7,6 @@ https://shakespeare.folger.edu/shakespeares-works/titus-andronicus/
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Flourish. Enter the Tribunes (including Marcus

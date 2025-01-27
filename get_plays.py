@@ -170,6 +170,11 @@ def process_content(content):
                     r'\n\n\2\n\3', 
                     content)
     
+    # Ensure any remaining Act/Scene pairs have consistent spacing
+    content = re.sub(r'(<b [^>]*class="act-header"[^>]*>.*?</b>)\n+(<b [^>]*class="scene-header"[^>]*>.*?</b>)', 
+                    r'\1\n\2', 
+                    content)
+    
     # Now handle indented character names in the character list section
     lines = content.split('\n')
     processed_lines = []

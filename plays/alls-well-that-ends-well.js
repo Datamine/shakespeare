@@ -7,7 +7,6 @@ https://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/
 Created on Mar 14, 2018, from FDT version 0.9.2.2`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>
-
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
 [<i>Enter young Bertram Count of Rossillion, his mother
