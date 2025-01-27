@@ -263,7 +263,7 @@ body {
     padding-left: 3rem;
     font-size: 1.1rem;
     line-height: 1.6;
-    white-space: pre-wrap;
+    /* white-space: pre-wrap; */
     font-family: 'EB Garamond', serif;
     position: relative;
     counter-reset: lines;

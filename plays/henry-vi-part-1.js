@@ -7,4526 +7,4532 @@ Folger Shakespeare Library
 Created on Jul 31, 2015, from FDT version 0.9.2`;
 
 export const text = `<b id="act-1" class="act-header">Act 1</b>
+<br>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Dead March. Enter the funeral of King Henry the Fifth,
-attended on by the Duke of Bedford, Regent of France;
-the Duke of Gloucester, Protector; the Duke of Exeter;
-the Earl of Warwick; the Bishop of Winchester; and
-the Duke of Somerset, with Heralds and Attendants.</i>]
-
-BEDFORD
-Hung be the heavens with black, yield day to night!
-Comets, importing change of times and states,
-Brandish your crystal tresses in the sky,
-And with them scourge the bad revolting stars
-That have consented unto Henry&rsquo;s death:
-King Henry the Fifth, too famous to live long.
-England ne&rsquo;er lost a king of so much worth.
-
-GLOUCESTER
-England ne&rsquo;er had a king until his time.
-Virtue he had, deserving to command;
-His brandished sword did blind men with his beams;
-His arms spread wider than a dragon&rsquo;s wings;
-His sparkling eyes, replete with wrathful fire,
-More dazzled and drove back his enemies
-Than midday sun fierce bent against their faces.
-What should I say? His deeds exceed all speech.
-He ne&rsquo;er lift up his hand but conquered.
-
-EXETER
-We mourn in black; why mourn we not in blood?
-Henry is dead and never shall revive.
-Upon a wooden coffin we attend,
-And Death&rsquo;s dishonorable victory
-We with our stately presence glorify,
-Like captives bound to a triumphant car.
-What? Shall we curse the planets of mishap
-That plotted thus our glory&rsquo;s overthrow?
-Or shall we think the subtle-witted French
-Conjurers and sorcerers, that, afraid of him,
-By magic verses have contrived his end?
-
-WINCHESTER
-He was a king blest of the King of kings;
-Unto the French the dreadful Judgment Day
-So dreadful will not be as was his sight.
-The battles of the Lord of Hosts he fought;
-The Church&rsquo;s prayers made him so prosperous.
-
-GLOUCESTER
-The Church? Where is it? Had not churchmen prayed,
-His thread of life had not so soon decayed.
-None do you like but an effeminate prince
-Whom like a schoolboy you may overawe.
-
-WINCHESTER
-Gloucester, whate&rsquo;er we like, thou art Protector
-And lookest to command the Prince and realm.
-Thy wife is proud; she holdeth thee in awe
-More than God or religious churchmen may.
-
-GLOUCESTER
-Name not religion, for thou lov&rsquo;st the flesh,
-And ne&rsquo;er throughout the year to church thou go&rsquo;st,
-Except it be to pray against thy foes.
-
-BEDFORD
-Cease, cease these jars, and rest your minds in peace!
-Let&rsquo;s to the altar.&mdash;Heralds, wait on us.&mdash;
-Instead of gold, we&rsquo;ll offer up our arms,
-Since arms avail not, now that Henry&rsquo;s dead.
-Posterity, await for wretched years
-When at their mothers&rsquo; moistened eyes babes shall
-suck,
-Our isle be made a nourish of salt tears,
-And none but women left to wail the dead.
-Henry the Fifth, thy ghost I invocate:
-Prosper this realm, keep it from civil broils,
-Combat with adverse planets in the heavens.
-A far more glorious star thy soul will make
-Than Julius Caesar or bright&mdash;
-
-[<i>Enter a Messenger.</i>]
-
-MESSENGER
-My honorable lords, health to you all.
-Sad tidings bring I to you out of France,
-Of loss, of slaughter, and discomfiture:
-Guyen, Champaigne, Rheims, Roan, Orleance,
-Paris, Gisors, Poitiers, are all quite lost.
-
-BEDFORD
-What say&rsquo;st thou, man, before dead Henry&rsquo;s corse?
-Speak softly, or the loss of those great towns
-Will make him burst his lead and rise from death.
-
-GLOUCESTER
-Is Paris lost? Is Roan yielded up?
-If Henry were recalled to life again,
-These news would cause him once more yield the
-ghost.
-
-EXETER
-How were they lost? What treachery was used?
-
-MESSENGER
-No treachery, but want of men and money.
-Amongst the soldiers, this is muttered:
-That here you maintain several factions
-And, whilst a field should be dispatched and fought,
-You are disputing of your generals.
-One would have ling&rsquo;ring wars with little cost;
-Another would fly swift, but wanteth wings;
-A third thinks, without expense at all,
-By guileful fair words peace may be obtained.
-Awake, awake, English nobility!
-Let not sloth dim your honors new begot.
-Cropped are the flower-de-luces in your arms;
-Of England&rsquo;s coat, one half is cut away.	[<i>He exits.</i>]
-
-EXETER
-Were our tears wanting to this funeral,
-These tidings would call forth her flowing tides.
-
-BEDFORD
-Me they concern; regent I am of France.
-Give me my steeled coat, I&rsquo;ll fight for France.
-Away with these disgraceful wailing robes.
-Wounds will I lend the French instead of eyes
-To weep their intermissive miseries.
-
-[<i>Enter to them another Messenger, with papers.</i>]
-
-SECOND MESSENGER
-Lords, view these letters, full of bad mischance.
-France is revolted from the English quite,
-Except some petty towns of no import.
-The Dauphin Charles is crowned king in Rheims;
-The Bastard of Orleance with him is joined;
-Reignier, Duke of Anjou, doth take his part;
-The Duke of Alanson flieth to his side.	[<i>He exits.</i>]
-
-EXETER
-The Dauphin crowned king? All fly to him?
-O, whither shall we fly from this reproach?
-
-GLOUCESTER
-We will not fly but to our enemies&rsquo; throats.&mdash;
-Bedford, if thou be slack, I&rsquo;ll fight it out.
-
-BEDFORD
-Gloucester, why doubt&rsquo;st thou of my forwardness?
-An army have I mustered in my thoughts,
-Wherewith already France is overrun.
-
-[<i>Enter another Messenger.</i>]
-
-THIRD MESSENGER
-My gracious lords, to add to your laments,
-Wherewith you now bedew King Henry&rsquo;s hearse,
-I must inform you of a dismal fight
-Betwixt the stout Lord Talbot and the French.
-
-WINCHESTER
-What? Wherein Talbot overcame, is &rsquo;t so?
-
-THIRD MESSENGER
-O no, wherein Lord Talbot was o&rsquo;erthrown.
-The circumstance I&rsquo;ll tell you more at large.
-The tenth of August last, this dreadful lord,
-Retiring from the siege of Orleance,
-Having full scarce six thousand in his troop,
-By three and twenty thousand of the French
-Was round encompassed and set upon.
-No leisure had he to enrank his men.
-He wanted pikes to set before his archers,
-Instead whereof, sharp stakes plucked out of hedges
-They pitched in the ground confusedly
-To keep the horsemen off from breaking in.
-More than three hours the fight continued,
-Where valiant Talbot, above human thought,
-Enacted wonders with his sword and lance.
-Hundreds he sent to hell, and none durst stand him;
-Here, there, and everywhere, enraged, he slew.
-The French exclaimed the devil was in arms;
-All the whole army stood agazed on him.
-His soldiers, spying his undaunted spirit,
-&ldquo;A Talbot! A Talbot!&rdquo; cried out amain
-And rushed into the bowels of the battle.
-Here had the conquest fully been sealed up
-If Sir John Fastolf had not played the coward.
-He, being in the vaward, placed behind
-With purpose to relieve and follow them,
-Cowardly fled, not having struck one stroke.
-Hence grew the general wrack and massacre.
-Enclosed were they with their enemies.
-A base Walloon, to win the Dauphin&rsquo;s grace,
-Thrust Talbot with a spear into the back,
-Whom all France, with their chief assembled
-strength,
-Durst not presume to look once in the face.
-
-BEDFORD
-Is Talbot slain then? I will slay myself
-For living idly here, in pomp and ease,
-Whilst such a worthy leader, wanting aid,
-Unto his dastard foemen is betrayed.
-
-THIRD MESSENGER
-O, no, he lives, but is took prisoner,
-And Lord Scales with him, and Lord Hungerford;
-Most of the rest slaughtered or took likewise.
-
-BEDFORD
-His ransom there is none but I shall pay.
-I&rsquo;ll hale the Dauphin headlong from his throne;
-His crown shall be the ransom of my friend.
-Four of their lords I&rsquo;ll change for one of ours.
-Farewell, my masters; to my task will I.
-Bonfires in France forthwith I am to make,
-To keep our great Saint George&rsquo;s feast withal.
-Ten thousand soldiers with me I will take,
-Whose bloody deeds shall make all Europe quake.
-
-THIRD MESSENGER
-So you had need; &rsquo;fore Orleance besieged,
-The English army is grown weak and faint;
-The Earl of Salisbury craveth supply
-And hardly keeps his men from mutiny,
-Since they so few watch such a multitude.
-[<i>He exits.</i>]
-
-EXETER
-Remember, lords, your oaths to Henry sworn:
-Either to quell the Dauphin utterly
-Or bring him in obedience to your yoke.
-
-BEDFORD
-I do remember it, and here take my leave
-To go about my preparation.	[<i>Bedford exits.</i>]
-
-GLOUCESTER
-I&rsquo;ll to the Tower with all the haste I can
-To view th&rsquo; artillery and munition,
-And then I will proclaim young Henry king.
-[<i>Gloucester exits.</i>]
-
-EXETER
-To Eltham will I, where the young king is,
-Being ordained his special governor;
-And for his safety there I&rsquo;ll best devise.	[<i>He exits.</i>]
-
-WINCHESTER, [<i>aside</i>]
-Each hath his place and function to attend.
-I am left out; for me nothing remains.
-But long I will not be Jack-out-of-office.
-The King from Eltham I intend to steal,
-And sit at chiefest stern of public weal.
-[<i>He exits at one door; at another door,
-Warwick, Somerset, Attendants and
-Heralds exit with the coffin.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Dead March. Enter the funeral of King Henry the Fifth,</div>
+<div class="play-line" data-line-number="2">attended on by the Duke of Bedford, Regent of France;</div>
+<div class="play-line" data-line-number="3">the Duke of Gloucester, Protector; the Duke of Exeter;</div>
+<div class="play-line" data-line-number="4">the Earl of Warwick; the Bishop of Winchester; and</div>
+<div class="play-line" data-line-number="5">the Duke of Somerset, with Heralds and Attendants.</i>]</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="6">Hung be the heavens with black, yield day to night!</div>
+<div class="play-line" data-line-number="7">Comets, importing change of times and states,</div>
+<div class="play-line" data-line-number="8">Brandish your crystal tresses in the sky,</div>
+<div class="play-line" data-line-number="9">And with them scourge the bad revolting stars</div>
+<div class="play-line" data-line-number="10">That have consented unto Henry&rsquo;s death:</div>
+<div class="play-line" data-line-number="11">King Henry the Fifth, too famous to live long.</div>
+<div class="play-line" data-line-number="12">England ne&rsquo;er lost a king of so much worth.</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="13">England ne&rsquo;er had a king until his time.</div>
+<div class="play-line" data-line-number="14">Virtue he had, deserving to command;</div>
+<div class="play-line" data-line-number="15">His brandished sword did blind men with his beams;</div>
+<div class="play-line" data-line-number="16">His arms spread wider than a dragon&rsquo;s wings;</div>
+<div class="play-line" data-line-number="17">His sparkling eyes, replete with wrathful fire,</div>
+<div class="play-line" data-line-number="18">More dazzled and drove back his enemies</div>
+<div class="play-line" data-line-number="19">Than midday sun fierce bent against their faces.</div>
+<div class="play-line" data-line-number="20">What should I say? His deeds exceed all speech.</div>
+<div class="play-line" data-line-number="21">He ne&rsquo;er lift up his hand but conquered.</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="22">We mourn in black; why mourn we not in blood?</div>
+<div class="play-line" data-line-number="23">Henry is dead and never shall revive.</div>
+<div class="play-line" data-line-number="24">Upon a wooden coffin we attend,</div>
+<div class="play-line" data-line-number="25">And Death&rsquo;s dishonorable victory</div>
+<div class="play-line" data-line-number="26">We with our stately presence glorify,</div>
+<div class="play-line" data-line-number="27">Like captives bound to a triumphant car.</div>
+<div class="play-line" data-line-number="28">What? Shall we curse the planets of mishap</div>
+<div class="play-line" data-line-number="29">That plotted thus our glory&rsquo;s overthrow?</div>
+<div class="play-line" data-line-number="30">Or shall we think the subtle-witted French</div>
+<div class="play-line" data-line-number="31">Conjurers and sorcerers, that, afraid of him,</div>
+<div class="play-line" data-line-number="32">By magic verses have contrived his end?</div>
+<br>
+<speaker>WINCHESTER</speaker>
+<div class="play-line" data-line-number="33">He was a king blest of the King of kings;</div>
+<div class="play-line" data-line-number="34">Unto the French the dreadful Judgment Day</div>
+<div class="play-line" data-line-number="35">So dreadful will not be as was his sight.</div>
+<div class="play-line" data-line-number="36">The battles of the Lord of Hosts he fought;</div>
+<div class="play-line" data-line-number="37">The Church&rsquo;s prayers made him so prosperous.</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="38">The Church? Where is it? Had not churchmen prayed,</div>
+<div class="play-line" data-line-number="39">His thread of life had not so soon decayed.</div>
+<div class="play-line" data-line-number="40">None do you like but an effeminate prince</div>
+<div class="play-line" data-line-number="41">Whom like a schoolboy you may overawe.</div>
+<br>
+<speaker>WINCHESTER</speaker>
+<div class="play-line" data-line-number="42">Gloucester, whate&rsquo;er we like, thou art Protector</div>
+<div class="play-line" data-line-number="43">And lookest to command the Prince and realm.</div>
+<div class="play-line" data-line-number="44">Thy wife is proud; she holdeth thee in awe</div>
+<div class="play-line" data-line-number="45">More than God or religious churchmen may.</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="46">Name not religion, for thou lov&rsquo;st the flesh,</div>
+<div class="play-line" data-line-number="47">And ne&rsquo;er throughout the year to church thou go&rsquo;st,</div>
+<div class="play-line" data-line-number="48">Except it be to pray against thy foes.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="49">Cease, cease these jars, and rest your minds in peace!</div>
+<div class="play-line" data-line-number="50">Let&rsquo;s to the altar.&mdash;Heralds, wait on us.&mdash;</div>
+<div class="play-line" data-line-number="51">Instead of gold, we&rsquo;ll offer up our arms,</div>
+<div class="play-line" data-line-number="52">Since arms avail not, now that Henry&rsquo;s dead.</div>
+<div class="play-line" data-line-number="53">Posterity, await for wretched years</div>
+<div class="play-line" data-line-number="54">When at their mothers&rsquo; moistened eyes babes shall</div>
+<div class="play-line" data-line-number="55">suck,</div>
+<div class="play-line" data-line-number="56">Our isle be made a nourish of salt tears,</div>
+<div class="play-line" data-line-number="57">And none but women left to wail the dead.</div>
+<div class="play-line" data-line-number="58">Henry the Fifth, thy ghost I invocate:</div>
+<div class="play-line" data-line-number="59">Prosper this realm, keep it from civil broils,</div>
+<div class="play-line" data-line-number="60">Combat with adverse planets in the heavens.</div>
+<div class="play-line" data-line-number="61">A far more glorious star thy soul will make</div>
+<div class="play-line" data-line-number="62">Than Julius Caesar or bright&mdash;</div>
+<br>
+<div class="play-line" data-line-number="63">[<i>Enter a Messenger.</i>]</div>
+<br>
+<speaker>MESSENGER</speaker>
+<div class="play-line" data-line-number="64">My honorable lords, health to you all.</div>
+<div class="play-line" data-line-number="65">Sad tidings bring I to you out of France,</div>
+<div class="play-line" data-line-number="66">Of loss, of slaughter, and discomfiture:</div>
+<div class="play-line" data-line-number="67">Guyen, Champaigne, Rheims, Roan, Orleance,</div>
+<div class="play-line" data-line-number="68">Paris, Gisors, Poitiers, are all quite lost.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="69">What say&rsquo;st thou, man, before dead Henry&rsquo;s corse?</div>
+<div class="play-line" data-line-number="70">Speak softly, or the loss of those great towns</div>
+<div class="play-line" data-line-number="71">Will make him burst his lead and rise from death.</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="72">Is Paris lost? Is Roan yielded up?</div>
+<div class="play-line" data-line-number="73">If Henry were recalled to life again,</div>
+<div class="play-line" data-line-number="74">These news would cause him once more yield the</div>
+<div class="play-line" data-line-number="75">ghost.</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="76">How were they lost? What treachery was used?</div>
+<br>
+<speaker>MESSENGER</speaker>
+<div class="play-line" data-line-number="77">No treachery, but want of men and money.</div>
+<div class="play-line" data-line-number="78">Amongst the soldiers, this is muttered:</div>
+<div class="play-line" data-line-number="79">That here you maintain several factions</div>
+<div class="play-line" data-line-number="80">And, whilst a field should be dispatched and fought,</div>
+<div class="play-line" data-line-number="81">You are disputing of your generals.</div>
+<div class="play-line" data-line-number="82">One would have ling&rsquo;ring wars with little cost;</div>
+<div class="play-line" data-line-number="83">Another would fly swift, but wanteth wings;</div>
+<div class="play-line" data-line-number="84">A third thinks, without expense at all,</div>
+<div class="play-line" data-line-number="85">By guileful fair words peace may be obtained.</div>
+<div class="play-line" data-line-number="86">Awake, awake, English nobility!</div>
+<div class="play-line" data-line-number="87">Let not sloth dim your honors new begot.</div>
+<div class="play-line" data-line-number="88">Cropped are the flower-de-luces in your arms;</div>
+<div class="play-line" data-line-number="89">Of England&rsquo;s coat, one half is cut away.	[<i>He exits.</i>]</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="90">Were our tears wanting to this funeral,</div>
+<div class="play-line" data-line-number="91">These tidings would call forth her flowing tides.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="92">Me they concern; regent I am of France.</div>
+<div class="play-line" data-line-number="93">Give me my steeled coat, I&rsquo;ll fight for France.</div>
+<div class="play-line" data-line-number="94">Away with these disgraceful wailing robes.</div>
+<div class="play-line" data-line-number="95">Wounds will I lend the French instead of eyes</div>
+<div class="play-line" data-line-number="96">To weep their intermissive miseries.</div>
+<br>
+<div class="play-line" data-line-number="97">[<i>Enter to them another Messenger, with papers.</i>]</div>
+<br>
+<speaker>SECOND MESSENGER</speaker>
+<div class="play-line" data-line-number="98">Lords, view these letters, full of bad mischance.</div>
+<div class="play-line" data-line-number="99">France is revolted from the English quite,</div>
+<div class="play-line" data-line-number="100">Except some petty towns of no import.</div>
+<div class="play-line" data-line-number="101">The Dauphin Charles is crowned king in Rheims;</div>
+<div class="play-line" data-line-number="102">The Bastard of Orleance with him is joined;</div>
+<div class="play-line" data-line-number="103">Reignier, Duke of Anjou, doth take his part;</div>
+<div class="play-line" data-line-number="104">The Duke of Alanson flieth to his side.	[<i>He exits.</i>]</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="105">The Dauphin crowned king? All fly to him?</div>
+<div class="play-line" data-line-number="106">O, whither shall we fly from this reproach?</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="107">We will not fly but to our enemies&rsquo; throats.&mdash;</div>
+<div class="play-line" data-line-number="108">Bedford, if thou be slack, I&rsquo;ll fight it out.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="109">Gloucester, why doubt&rsquo;st thou of my forwardness?</div>
+<div class="play-line" data-line-number="110">An army have I mustered in my thoughts,</div>
+<div class="play-line" data-line-number="111">Wherewith already France is overrun.</div>
+<br>
+<div class="play-line" data-line-number="112">[<i>Enter another Messenger.</i>]</div>
+<br>
+<speaker>THIRD MESSENGER</speaker>
+<div class="play-line" data-line-number="113">My gracious lords, to add to your laments,</div>
+<div class="play-line" data-line-number="114">Wherewith you now bedew King Henry&rsquo;s hearse,</div>
+<div class="play-line" data-line-number="115">I must inform you of a dismal fight</div>
+<div class="play-line" data-line-number="116">Betwixt the stout Lord Talbot and the French.</div>
+<br>
+<speaker>WINCHESTER</speaker>
+<div class="play-line" data-line-number="117">What? Wherein Talbot overcame, is &rsquo;t so?</div>
+<br>
+<speaker>THIRD MESSENGER</speaker>
+<div class="play-line" data-line-number="118">O no, wherein Lord Talbot was o&rsquo;erthrown.</div>
+<div class="play-line" data-line-number="119">The circumstance I&rsquo;ll tell you more at large.</div>
+<div class="play-line" data-line-number="120">The tenth of August last, this dreadful lord,</div>
+<div class="play-line" data-line-number="121">Retiring from the siege of Orleance,</div>
+<div class="play-line" data-line-number="122">Having full scarce six thousand in his troop,</div>
+<div class="play-line" data-line-number="123">By three and twenty thousand of the French</div>
+<div class="play-line" data-line-number="124">Was round encompassed and set upon.</div>
+<div class="play-line" data-line-number="125">No leisure had he to enrank his men.</div>
+<div class="play-line" data-line-number="126">He wanted pikes to set before his archers,</div>
+<div class="play-line" data-line-number="127">Instead whereof, sharp stakes plucked out of hedges</div>
+<div class="play-line" data-line-number="128">They pitched in the ground confusedly</div>
+<div class="play-line" data-line-number="129">To keep the horsemen off from breaking in.</div>
+<div class="play-line" data-line-number="130">More than three hours the fight continued,</div>
+<div class="play-line" data-line-number="131">Where valiant Talbot, above human thought,</div>
+<div class="play-line" data-line-number="132">Enacted wonders with his sword and lance.</div>
+<div class="play-line" data-line-number="133">Hundreds he sent to hell, and none durst stand him;</div>
+<div class="play-line" data-line-number="134">Here, there, and everywhere, enraged, he slew.</div>
+<div class="play-line" data-line-number="135">The French exclaimed the devil was in arms;</div>
+<div class="play-line" data-line-number="136">All the whole army stood agazed on him.</div>
+<div class="play-line" data-line-number="137">His soldiers, spying his undaunted spirit,</div>
+<div class="play-line" data-line-number="138">&ldquo;A Talbot! A Talbot!&rdquo; cried out amain</div>
+<div class="play-line" data-line-number="139">And rushed into the bowels of the battle.</div>
+<div class="play-line" data-line-number="140">Here had the conquest fully been sealed up</div>
+<div class="play-line" data-line-number="141">If Sir John Fastolf had not played the coward.</div>
+<div class="play-line" data-line-number="142">He, being in the vaward, placed behind</div>
+<div class="play-line" data-line-number="143">With purpose to relieve and follow them,</div>
+<div class="play-line" data-line-number="144">Cowardly fled, not having struck one stroke.</div>
+<div class="play-line" data-line-number="145">Hence grew the general wrack and massacre.</div>
+<div class="play-line" data-line-number="146">Enclosed were they with their enemies.</div>
+<div class="play-line" data-line-number="147">A base Walloon, to win the Dauphin&rsquo;s grace,</div>
+<div class="play-line" data-line-number="148">Thrust Talbot with a spear into the back,</div>
+<div class="play-line" data-line-number="149">Whom all France, with their chief assembled</div>
+<div class="play-line" data-line-number="150">strength,</div>
+<div class="play-line" data-line-number="151">Durst not presume to look once in the face.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="152">Is Talbot slain then? I will slay myself</div>
+<div class="play-line" data-line-number="153">For living idly here, in pomp and ease,</div>
+<div class="play-line" data-line-number="154">Whilst such a worthy leader, wanting aid,</div>
+<div class="play-line" data-line-number="155">Unto his dastard foemen is betrayed.</div>
+<br>
+<speaker>THIRD MESSENGER</speaker>
+<div class="play-line" data-line-number="156">O, no, he lives, but is took prisoner,</div>
+<div class="play-line" data-line-number="157">And Lord Scales with him, and Lord Hungerford;</div>
+<div class="play-line" data-line-number="158">Most of the rest slaughtered or took likewise.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="159">His ransom there is none but I shall pay.</div>
+<div class="play-line" data-line-number="160">I&rsquo;ll hale the Dauphin headlong from his throne;</div>
+<div class="play-line" data-line-number="161">His crown shall be the ransom of my friend.</div>
+<div class="play-line" data-line-number="162">Four of their lords I&rsquo;ll change for one of ours.</div>
+<div class="play-line" data-line-number="163">Farewell, my masters; to my task will I.</div>
+<div class="play-line" data-line-number="164">Bonfires in France forthwith I am to make,</div>
+<div class="play-line" data-line-number="165">To keep our great Saint George&rsquo;s feast withal.</div>
+<div class="play-line" data-line-number="166">Ten thousand soldiers with me I will take,</div>
+<div class="play-line" data-line-number="167">Whose bloody deeds shall make all Europe quake.</div>
+<br>
+<speaker>THIRD MESSENGER</speaker>
+<div class="play-line" data-line-number="168">So you had need; &rsquo;fore Orleance besieged,</div>
+<div class="play-line" data-line-number="169">The English army is grown weak and faint;</div>
+<div class="play-line" data-line-number="170">The Earl of Salisbury craveth supply</div>
+<div class="play-line" data-line-number="171">And hardly keeps his men from mutiny,</div>
+<div class="play-line" data-line-number="172">Since they so few watch such a multitude.</div>
+<div class="play-line" data-line-number="173">[<i>He exits.</i>]</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="174">Remember, lords, your oaths to Henry sworn:</div>
+<div class="play-line" data-line-number="175">Either to quell the Dauphin utterly</div>
+<div class="play-line" data-line-number="176">Or bring him in obedience to your yoke.</div>
+<br>
+<speaker>BEDFORD</speaker>
+<div class="play-line" data-line-number="177">I do remember it, and here take my leave</div>
+<div class="play-line" data-line-number="178">To go about my preparation.	[<i>Bedford exits.</i>]</div>
+<br>
+<speaker>GLOUCESTER</speaker>
+<div class="play-line" data-line-number="179">I&rsquo;ll to the Tower with all the haste I can</div>
+<div class="play-line" data-line-number="180">To view th&rsquo; artillery and munition,</div>
+<div class="play-line" data-line-number="181">And then I will proclaim young Henry king.</div>
+<div class="play-line" data-line-number="182">[<i>Gloucester exits.</i>]</div>
+<br>
+<speaker>EXETER</speaker>
+<div class="play-line" data-line-number="183">To Eltham will I, where the young king is,</div>
+<div class="play-line" data-line-number="184">Being ordained his special governor;</div>
+<div class="play-line" data-line-number="185">And for his safety there I&rsquo;ll best devise.	[<i>He exits.</i>]</div>
+<br>
+<speaker>WINCHESTER</speaker>
+<div class="play-line" data-line-number="186">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="187">Each hath his place and function to attend.</div>
+<div class="play-line" data-line-number="188">I am left out; for me nothing remains.</div>
+<div class="play-line" data-line-number="189">But long I will not be Jack-out-of-office.</div>
+<div class="play-line" data-line-number="190">The King from Eltham I intend to steal,</div>
+<div class="play-line" data-line-number="191">And sit at chiefest stern of public weal.</div>
+<div class="play-line" data-line-number="192">[<i>He exits at one door; at another door,</div>
+<div class="play-line" data-line-number="193">Warwick, Somerset, Attendants and</div>
+<div class="play-line" data-line-number="194">Heralds exit with the coffin.</i>]</div>
+<br>
 <b id="act-1-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Sound a flourish. Enter Charles the Dauphin,
-Alanson, and Reignier, marching with Drum
-and Soldiers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Sound a flourish. Enter Charles the Dauphin,</div>
+<div class="play-line" data-line-number="2">Alanson, and Reignier, marching with Drum</div>
+<div class="play-line" data-line-number="3">and Soldiers.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Mars his true moving, even as in the heavens
-So in the Earth, to this day is not known.
-Late did he shine upon the English side;
-Now we are victors; upon us he smiles.
-What towns of any moment but we have?
-At pleasure here we lie, near Orleance.
-Otherwhiles, the famished English, like pale ghosts,
-Faintly besiege us one hour in a month.
-
+<div class="play-line" data-line-number="4">Mars his true moving, even as in the heavens</div>
+<div class="play-line" data-line-number="5">So in the Earth, to this day is not known.</div>
+<div class="play-line" data-line-number="6">Late did he shine upon the English side;</div>
+<div class="play-line" data-line-number="7">Now we are victors; upon us he smiles.</div>
+<div class="play-line" data-line-number="8">What towns of any moment but we have?</div>
+<div class="play-line" data-line-number="9">At pleasure here we lie, near Orleance.</div>
+<div class="play-line" data-line-number="10">Otherwhiles, the famished English, like pale ghosts,</div>
+<div class="play-line" data-line-number="11">Faintly besiege us one hour in a month.</div>
+<br>
 <speaker>ALANSON</speaker>
-They want their porridge and their fat bull beeves.
-Either they must be dieted like mules
-And have their provender tied to their mouths,
-Or piteous they will look, like drowned mice.
-
+<div class="play-line" data-line-number="12">They want their porridge and their fat bull beeves.</div>
+<div class="play-line" data-line-number="13">Either they must be dieted like mules</div>
+<div class="play-line" data-line-number="14">And have their provender tied to their mouths,</div>
+<div class="play-line" data-line-number="15">Or piteous they will look, like drowned mice.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Let&rsquo;s raise the siege. Why live we idly here?
-Talbot is taken, whom we wont to fear.
-Remaineth none but mad-brained Salisbury,
-And he may well in fretting spend his gall;
-Nor men nor money hath he to make war.
-
+<div class="play-line" data-line-number="16">Let&rsquo;s raise the siege. Why live we idly here?</div>
+<div class="play-line" data-line-number="17">Talbot is taken, whom we wont to fear.</div>
+<div class="play-line" data-line-number="18">Remaineth none but mad-brained Salisbury,</div>
+<div class="play-line" data-line-number="19">And he may well in fretting spend his gall;</div>
+<div class="play-line" data-line-number="20">Nor men nor money hath he to make war.</div>
+<br>
 <speaker>CHARLES</speaker>
-Sound, sound alarum! We will rush on them.
-Now for the honor of the forlorn French!
-Him I forgive my death that killeth me
-When he sees me go back one foot, or fly.
-[<i>They exit. Here alarum. They are beaten
-back by the English, with great loss.</i>]
-
-[<i>Enter Charles, Alanson, and Reignier.</i>]
-
+<div class="play-line" data-line-number="21">Sound, sound alarum! We will rush on them.</div>
+<div class="play-line" data-line-number="22">Now for the honor of the forlorn French!</div>
+<div class="play-line" data-line-number="23">Him I forgive my death that killeth me</div>
+<div class="play-line" data-line-number="24">When he sees me go back one foot, or fly.</div>
+<div class="play-line" data-line-number="25">[<i>They exit. Here alarum. They are beaten</div>
+<div class="play-line" data-line-number="26">back by the English, with great loss.</i>]</div>
+<br>
+<div class="play-line" data-line-number="27">[<i>Enter Charles, Alanson, and Reignier.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Whoever saw the like? What men have I!
-Dogs, cowards, dastards! I would ne&rsquo;er have fled
-But that they left me &rsquo;midst my enemies.
-
+<div class="play-line" data-line-number="28">Whoever saw the like? What men have I!</div>
+<div class="play-line" data-line-number="29">Dogs, cowards, dastards! I would ne&rsquo;er have fled</div>
+<div class="play-line" data-line-number="30">But that they left me &rsquo;midst my enemies.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Salisbury is a desperate homicide.
-He fighteth as one weary of his life.
-The other lords, like lions wanting food,
-Do rush upon us as their hungry prey.
-
+<div class="play-line" data-line-number="31">Salisbury is a desperate homicide.</div>
+<div class="play-line" data-line-number="32">He fighteth as one weary of his life.</div>
+<div class="play-line" data-line-number="33">The other lords, like lions wanting food,</div>
+<div class="play-line" data-line-number="34">Do rush upon us as their hungry prey.</div>
+<br>
 <speaker>ALANSON</speaker>
-Froissart, a countryman of ours, records
-England all Olivers and Rolands bred
-During the time Edward the Third did reign.
-More truly now may this be verified,
-For none but Samsons and Goliases
-It sendeth forth to skirmish. One to ten!
-Lean rawboned rascals! Who would e&rsquo;er suppose
-They had such courage and audacity?
-
+<div class="play-line" data-line-number="35">Froissart, a countryman of ours, records</div>
+<div class="play-line" data-line-number="36">England all Olivers and Rolands bred</div>
+<div class="play-line" data-line-number="37">During the time Edward the Third did reign.</div>
+<div class="play-line" data-line-number="38">More truly now may this be verified,</div>
+<div class="play-line" data-line-number="39">For none but Samsons and Goliases</div>
+<div class="play-line" data-line-number="40">It sendeth forth to skirmish. One to ten!</div>
+<div class="play-line" data-line-number="41">Lean rawboned rascals! Who would e&rsquo;er suppose</div>
+<div class="play-line" data-line-number="42">They had such courage and audacity?</div>
+<br>
 <speaker>CHARLES</speaker>
-Let&rsquo;s leave this town, for they are hare-brained slaves,
-And hunger will enforce them to be more eager.
-Of old I know them; rather with their teeth
-The walls they&rsquo;ll tear down than forsake the siege.
-
+<div class="play-line" data-line-number="43">Let&rsquo;s leave this town, for they are hare-brained slaves,</div>
+<div class="play-line" data-line-number="44">And hunger will enforce them to be more eager.</div>
+<div class="play-line" data-line-number="45">Of old I know them; rather with their teeth</div>
+<div class="play-line" data-line-number="46">The walls they&rsquo;ll tear down than forsake the siege.</div>
+<br>
 <speaker>REIGNIER</speaker>
-I think by some odd gimmers or device
-Their arms are set, like clocks, still to strike on;
-Else ne&rsquo;er could they hold out so as they do.
-By my consent, we&rsquo;ll even let them alone.
-
+<div class="play-line" data-line-number="47">I think by some odd gimmers or device</div>
+<div class="play-line" data-line-number="48">Their arms are set, like clocks, still to strike on;</div>
+<div class="play-line" data-line-number="49">Else ne&rsquo;er could they hold out so as they do.</div>
+<div class="play-line" data-line-number="50">By my consent, we&rsquo;ll even let them alone.</div>
+<br>
 <speaker>ALANSON</speaker>
-Be it so.
-
-[<i>Enter the Bastard of Orleance.</i>]
-
+<div class="play-line" data-line-number="51">Be it so.</div>
+<br>
+<div class="play-line" data-line-number="52">[<i>Enter the Bastard of Orleance.</i>]</div>
+<br>
 <speaker>BASTARD</speaker>
-Where&rsquo;s the Prince Dauphin? I have news for him.
-
+<div class="play-line" data-line-number="53">Where&rsquo;s the Prince Dauphin? I have news for him.</div>
+<br>
 <speaker>CHARLES</speaker>
-Bastard of Orleance, thrice welcome to us.
-
+<div class="play-line" data-line-number="54">Bastard of Orleance, thrice welcome to us.</div>
+<br>
 <speaker>BASTARD</speaker>
-Methinks your looks are sad, your cheer appalled.
-Hath the late overthrow wrought this offence?
-Be not dismayed, for succor is at hand.
-A holy maid hither with me I bring,
-Which, by a vision sent to her from heaven,
-Ordained is to raise this tedious siege
-And drive the English forth the bounds of France.
-The spirit of deep prophecy she hath,
-Exceeding the nine Sibyls of old Rome.
-What&rsquo;s past and what&rsquo;s to come she can descry.
-Speak, shall I call her in? Believe my words,
-For they are certain and unfallible.
-
+<div class="play-line" data-line-number="55">Methinks your looks are sad, your cheer appalled.</div>
+<div class="play-line" data-line-number="56">Hath the late overthrow wrought this offence?</div>
+<div class="play-line" data-line-number="57">Be not dismayed, for succor is at hand.</div>
+<div class="play-line" data-line-number="58">A holy maid hither with me I bring,</div>
+<div class="play-line" data-line-number="59">Which, by a vision sent to her from heaven,</div>
+<div class="play-line" data-line-number="60">Ordained is to raise this tedious siege</div>
+<div class="play-line" data-line-number="61">And drive the English forth the bounds of France.</div>
+<div class="play-line" data-line-number="62">The spirit of deep prophecy she hath,</div>
+<div class="play-line" data-line-number="63">Exceeding the nine Sibyls of old Rome.</div>
+<div class="play-line" data-line-number="64">What&rsquo;s past and what&rsquo;s to come she can descry.</div>
+<div class="play-line" data-line-number="65">Speak, shall I call her in? Believe my words,</div>
+<div class="play-line" data-line-number="66">For they are certain and unfallible.</div>
+<br>
 <speaker>CHARLES</speaker>
-Go call her in.	[<i>Bastard exits.</i>]
-But first, to try her skill,
-Reignier, stand thou as Dauphin in my place;
-Question her proudly; let thy looks be stern.
-By this means shall we sound what skill she hath.
-
-[<i>Enter Bastard, with Joan la Pucelle.</i>]
-
+<div class="play-line" data-line-number="67">Go call her in.	[<i>Bastard exits.</i>]</div>
+<div class="play-line" data-line-number="68">But first, to try her skill,</div>
+<div class="play-line" data-line-number="69">Reignier, stand thou as Dauphin in my place;</div>
+<div class="play-line" data-line-number="70">Question her proudly; let thy looks be stern.</div>
+<div class="play-line" data-line-number="71">By this means shall we sound what skill she hath.</div>
+<br>
+<div class="play-line" data-line-number="72">[<i>Enter Bastard, with Joan la Pucelle.</i>]</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>as Charles</i>]
-Fair maid, is &rsquo;t thou wilt do these wondrous feats?
-
+<div class="play-line" data-line-number="73">[<i>as Charles</i>]</div>
+<div class="play-line" data-line-number="74">Fair maid, is &rsquo;t thou wilt do these wondrous feats?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Reignier, is &rsquo;t thou that thinkest to beguile me?
-Where is the Dauphin?&mdash;Come, come from behind.
-I know thee well, though never seen before.
-Be not amazed; there&rsquo;s nothing hid from me.
-In private will I talk with thee apart.&mdash;
-Stand back, you lords, and give us leave a while.
-
+<div class="play-line" data-line-number="75">Reignier, is &rsquo;t thou that thinkest to beguile me?</div>
+<div class="play-line" data-line-number="76">Where is the Dauphin?&mdash;Come, come from behind.</div>
+<div class="play-line" data-line-number="77">I know thee well, though never seen before.</div>
+<div class="play-line" data-line-number="78">Be not amazed; there&rsquo;s nothing hid from me.</div>
+<div class="play-line" data-line-number="79">In private will I talk with thee apart.&mdash;</div>
+<div class="play-line" data-line-number="80">Stand back, you lords, and give us leave a while.</div>
+<br>
 <speaker>REIGNIER</speaker>
-She takes upon her bravely at first dash.
-[<i>Alanson, Reignier, and Bastard exit.</i>]
-
+<div class="play-line" data-line-number="81">She takes upon her bravely at first dash.</div>
+<div class="play-line" data-line-number="82">[<i>Alanson, Reignier, and Bastard exit.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-Dauphin, I am by birth a shepherd&rsquo;s daughter,
-My wit untrained in any kind of art.
-Heaven and Our Lady gracious hath it pleased
-To shine on my contemptible estate.
-Lo, whilst I waited on my tender lambs,
-And to sun&rsquo;s parching heat displayed my cheeks,
-God&rsquo;s Mother deigned to appear to me,
-And in a vision full of majesty
-Willed me to leave my base vocation
-And free my country from calamity.
-Her aid she promised and assured success.
-In complete glory she revealed herself;
-And whereas I was black and swart before,
-With those clear rays which she infused on me
-That beauty am I blest with, which you may see.
-Ask me what question thou canst possible,
-And I will answer unpremeditated.
-My courage try by combat, if thou dar&rsquo;st,
-And thou shalt find that I exceed my sex.
-Resolve on this: thou shalt be fortunate
-If thou receive me for thy warlike mate.
-
+<div class="play-line" data-line-number="83">Dauphin, I am by birth a shepherd&rsquo;s daughter,</div>
+<div class="play-line" data-line-number="84">My wit untrained in any kind of art.</div>
+<div class="play-line" data-line-number="85">Heaven and Our Lady gracious hath it pleased</div>
+<div class="play-line" data-line-number="86">To shine on my contemptible estate.</div>
+<div class="play-line" data-line-number="87">Lo, whilst I waited on my tender lambs,</div>
+<div class="play-line" data-line-number="88">And to sun&rsquo;s parching heat displayed my cheeks,</div>
+<div class="play-line" data-line-number="89">God&rsquo;s Mother deigned to appear to me,</div>
+<div class="play-line" data-line-number="90">And in a vision full of majesty</div>
+<div class="play-line" data-line-number="91">Willed me to leave my base vocation</div>
+<div class="play-line" data-line-number="92">And free my country from calamity.</div>
+<div class="play-line" data-line-number="93">Her aid she promised and assured success.</div>
+<div class="play-line" data-line-number="94">In complete glory she revealed herself;</div>
+<div class="play-line" data-line-number="95">And whereas I was black and swart before,</div>
+<div class="play-line" data-line-number="96">With those clear rays which she infused on me</div>
+<div class="play-line" data-line-number="97">That beauty am I blest with, which you may see.</div>
+<div class="play-line" data-line-number="98">Ask me what question thou canst possible,</div>
+<div class="play-line" data-line-number="99">And I will answer unpremeditated.</div>
+<div class="play-line" data-line-number="100">My courage try by combat, if thou dar&rsquo;st,</div>
+<div class="play-line" data-line-number="101">And thou shalt find that I exceed my sex.</div>
+<div class="play-line" data-line-number="102">Resolve on this: thou shalt be fortunate</div>
+<div class="play-line" data-line-number="103">If thou receive me for thy warlike mate.</div>
+<br>
 <speaker>CHARLES</speaker>
-Thou hast astonished me with thy high terms.
-Only this proof I&rsquo;ll of thy valor make:
-In single combat thou shalt buckle with me,
-And if thou vanquishest, thy words are true;
-Otherwise I renounce all confidence.
-
+<div class="play-line" data-line-number="104">Thou hast astonished me with thy high terms.</div>
+<div class="play-line" data-line-number="105">Only this proof I&rsquo;ll of thy valor make:</div>
+<div class="play-line" data-line-number="106">In single combat thou shalt buckle with me,</div>
+<div class="play-line" data-line-number="107">And if thou vanquishest, thy words are true;</div>
+<div class="play-line" data-line-number="108">Otherwise I renounce all confidence.</div>
+<br>
 <speaker>PUCELLE</speaker>
-I am prepared. Here is my keen-edged sword,
-Decked with fine flower-de-luces on each side&mdash;
-[<i>Aside.</i>]
- The which at Touraine, in Saint Katherine&rsquo;s
-churchyard,
-Out of a great deal of old iron I chose forth.
-
+<div class="play-line" data-line-number="109">I am prepared. Here is my keen-edged sword,</div>
+<div class="play-line" data-line-number="110">Decked with fine flower-de-luces on each side&mdash;</div>
+<div class="play-line" data-line-number="111">[<i>Aside.</i>]</div>
+<div class="play-line" data-line-number="112"> The which at Touraine, in Saint Katherine&rsquo;s</div>
+<div class="play-line" data-line-number="113">churchyard,</div>
+<div class="play-line" data-line-number="114">Out of a great deal of old iron I chose forth.</div>
+<br>
 <speaker>CHARLES</speaker>
-Then come, a&rsquo; God&rsquo;s name! I fear no woman.
-
+<div class="play-line" data-line-number="115">Then come, a&rsquo; God&rsquo;s name! I fear no woman.</div>
+<br>
 <speaker>PUCELLE</speaker>
-And while I live, I&rsquo;ll ne&rsquo;er fly from a man.
-[<i>Here they fight, and
-Joan la Pucelle overcomes.</i>]
-
+<div class="play-line" data-line-number="116">And while I live, I&rsquo;ll ne&rsquo;er fly from a man.</div>
+<div class="play-line" data-line-number="117">[<i>Here they fight, and</div>
+<div class="play-line" data-line-number="118">Joan la Pucelle overcomes.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Stay, stay thy hands! Thou art an Amazon,
-And fightest with the sword of Deborah.
-
+<div class="play-line" data-line-number="119">Stay, stay thy hands! Thou art an Amazon,</div>
+<div class="play-line" data-line-number="120">And fightest with the sword of Deborah.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Christ&rsquo;s mother helps me; else I were too weak.
-
+<div class="play-line" data-line-number="121">Christ&rsquo;s mother helps me; else I were too weak.</div>
+<br>
 <speaker>CHARLES</speaker>
-Whoe&rsquo;er helps thee, &rsquo;tis thou that must help me.
-Impatiently I burn with thy desire.
-My heart and hands thou hast at once subdued.
-Excellent Pucelle, if thy name be so,
-Let me thy servant and not sovereign be.
-&rsquo;Tis the French Dauphin sueth to thee thus.
-
+<div class="play-line" data-line-number="122">Whoe&rsquo;er helps thee, &rsquo;tis thou that must help me.</div>
+<div class="play-line" data-line-number="123">Impatiently I burn with thy desire.</div>
+<div class="play-line" data-line-number="124">My heart and hands thou hast at once subdued.</div>
+<div class="play-line" data-line-number="125">Excellent Pucelle, if thy name be so,</div>
+<div class="play-line" data-line-number="126">Let me thy servant and not sovereign be.</div>
+<div class="play-line" data-line-number="127">&rsquo;Tis the French Dauphin sueth to thee thus.</div>
+<br>
 <speaker>PUCELLE</speaker>
-I must not yield to any rights of love,
-For my profession&rsquo;s sacred from above.
-When I have chased all thy foes from hence,
-Then will I think upon a recompense.
-
+<div class="play-line" data-line-number="128">I must not yield to any rights of love,</div>
+<div class="play-line" data-line-number="129">For my profession&rsquo;s sacred from above.</div>
+<div class="play-line" data-line-number="130">When I have chased all thy foes from hence,</div>
+<div class="play-line" data-line-number="131">Then will I think upon a recompense.</div>
+<br>
 <speaker>CHARLES</speaker>
-Meantime look gracious on thy prostrate thrall.
-
-[<i>Enter Reignier and Alanson.</i>]
-
+<div class="play-line" data-line-number="132">Meantime look gracious on thy prostrate thrall.</div>
+<br>
+<div class="play-line" data-line-number="133">[<i>Enter Reignier and Alanson.</i>]</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>aside to Alanson</i>]
-My lord, methinks, is very long in talk.
-
+<div class="play-line" data-line-number="134">[<i>aside to Alanson</i>]</div>
+<div class="play-line" data-line-number="135">My lord, methinks, is very long in talk.</div>
+<br>
 <speaker>ALANSON</speaker>
-[<i>aside to Reignier</i>]
-Doubtless he shrives this woman to her smock,
-Else ne&rsquo;er could he so long protract his speech.
-
+<div class="play-line" data-line-number="136">[<i>aside to Reignier</i>]</div>
+<div class="play-line" data-line-number="137">Doubtless he shrives this woman to her smock,</div>
+<div class="play-line" data-line-number="138">Else ne&rsquo;er could he so long protract his speech.</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>aside to Alanson</i>]
-Shall we disturb him, since he keeps no mean?
-
+<div class="play-line" data-line-number="139">[<i>aside to Alanson</i>]</div>
+<div class="play-line" data-line-number="140">Shall we disturb him, since he keeps no mean?</div>
+<br>
 <speaker>ALANSON</speaker>
-[<i>aside to Reignier</i>]
-He may mean more than we poor men do know.
-These women are shrewd tempters with their
-tongues.
-
+<div class="play-line" data-line-number="141">[<i>aside to Reignier</i>]</div>
+<div class="play-line" data-line-number="142">He may mean more than we poor men do know.</div>
+<div class="play-line" data-line-number="143">These women are shrewd tempters with their</div>
+<div class="play-line" data-line-number="144">tongues.</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>to Charles</i>]
-My lord, where are you? What devise you on?
-Shall we give o&rsquo;er Orleance, or no?
-
+<div class="play-line" data-line-number="145">[<i>to Charles</i>]</div>
+<div class="play-line" data-line-number="146">My lord, where are you? What devise you on?</div>
+<div class="play-line" data-line-number="147">Shall we give o&rsquo;er Orleance, or no?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Why, no, I say. Distrustful recreants,
-Fight till the last gasp. I&rsquo;ll be your guard.
-
+<div class="play-line" data-line-number="148">Why, no, I say. Distrustful recreants,</div>
+<div class="play-line" data-line-number="149">Fight till the last gasp. I&rsquo;ll be your guard.</div>
+<br>
 <speaker>CHARLES</speaker>
-What she says I&rsquo;ll confirm: we&rsquo;ll fight it out.
-
+<div class="play-line" data-line-number="150">What she says I&rsquo;ll confirm: we&rsquo;ll fight it out.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Assigned am I to be the English scourge.
-This night the siege assuredly I&rsquo;ll raise.
-Expect Saint Martin&rsquo;s summer, halcyons&rsquo; days,
-Since I have entered into these wars.
-Glory is like a circle in the water,
-Which never ceaseth to enlarge itself
-Till by broad spreading it disperse to naught.
-With Henry&rsquo;s death, the English circle ends;
-Dispersed are the glories it included.
-Now am I like that proud insulting ship
-Which Caesar and his fortune bare at once.
-
+<div class="play-line" data-line-number="151">Assigned am I to be the English scourge.</div>
+<div class="play-line" data-line-number="152">This night the siege assuredly I&rsquo;ll raise.</div>
+<div class="play-line" data-line-number="153">Expect Saint Martin&rsquo;s summer, halcyons&rsquo; days,</div>
+<div class="play-line" data-line-number="154">Since I have entered into these wars.</div>
+<div class="play-line" data-line-number="155">Glory is like a circle in the water,</div>
+<div class="play-line" data-line-number="156">Which never ceaseth to enlarge itself</div>
+<div class="play-line" data-line-number="157">Till by broad spreading it disperse to naught.</div>
+<div class="play-line" data-line-number="158">With Henry&rsquo;s death, the English circle ends;</div>
+<div class="play-line" data-line-number="159">Dispersed are the glories it included.</div>
+<div class="play-line" data-line-number="160">Now am I like that proud insulting ship</div>
+<div class="play-line" data-line-number="161">Which Caesar and his fortune bare at once.</div>
+<br>
 <speaker>CHARLES</speaker>
-Was Mahomet inspired with a dove?
-Thou with an eagle art inspired then.
-Helen, the mother of great Constantine,
-Nor yet Saint Philip&rsquo;s daughters were like thee.
-Bright star of Venus, fall&rsquo;n down on the Earth,
-How may I reverently worship thee enough?
-
+<div class="play-line" data-line-number="162">Was Mahomet inspired with a dove?</div>
+<div class="play-line" data-line-number="163">Thou with an eagle art inspired then.</div>
+<div class="play-line" data-line-number="164">Helen, the mother of great Constantine,</div>
+<div class="play-line" data-line-number="165">Nor yet Saint Philip&rsquo;s daughters were like thee.</div>
+<div class="play-line" data-line-number="166">Bright star of Venus, fall&rsquo;n down on the Earth,</div>
+<div class="play-line" data-line-number="167">How may I reverently worship thee enough?</div>
+<br>
 <speaker>ALANSON</speaker>
-Leave off delays, and let us raise the siege.
-
+<div class="play-line" data-line-number="168">Leave off delays, and let us raise the siege.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Woman, do what thou canst to save our honors.
-Drive them from Orleance and be immortalized.
-
+<div class="play-line" data-line-number="169">Woman, do what thou canst to save our honors.</div>
+<div class="play-line" data-line-number="170">Drive them from Orleance and be immortalized.</div>
+<br>
 <speaker>CHARLES</speaker>
-Presently we&rsquo;ll try. Come, let&rsquo;s away about it.
-No prophet will I trust if she prove false.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="171">Presently we&rsquo;ll try. Come, let&rsquo;s away about it.</div>
+<div class="play-line" data-line-number="172">No prophet will I trust if she prove false.</div>
+<div class="play-line" data-line-number="173">[<i>They exit.</i>]</div>
+<br>
 <b id="act-1-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Enter Gloucester with his Servingmen in blue coats.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Gloucester with his Servingmen in blue coats.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-I am come to survey the Tower this day.
-Since Henry&rsquo;s death I fear there is conveyance.
-Where be these warders that they wait not here?&mdash;
-Open the gates! &rsquo;Tis Gloucester that calls.
-[<i>Servingmen knock at the gate.</i>]
-
+<div class="play-line" data-line-number="2">I am come to survey the Tower this day.</div>
+<div class="play-line" data-line-number="3">Since Henry&rsquo;s death I fear there is conveyance.</div>
+<div class="play-line" data-line-number="4">Where be these warders that they wait not here?&mdash;</div>
+<div class="play-line" data-line-number="5">Open the gates! &rsquo;Tis Gloucester that calls.</div>
+<div class="play-line" data-line-number="6">[<i>Servingmen knock at the gate.</i>]</div>
+<br>
 <speaker>FIRST WARDER</speaker>
-[<i>within</i>]
-Who&rsquo;s there that knocks so imperiously?
-
+<div class="play-line" data-line-number="7">[<i>within</i>]</div>
+<div class="play-line" data-line-number="8">Who&rsquo;s there that knocks so imperiously?</div>
+<br>
 <speaker>FIRST SERVINGMAN</speaker>
-It is the noble Duke of Gloucester.
-
+<div class="play-line" data-line-number="9">It is the noble Duke of Gloucester.</div>
+<br>
 <speaker>SECOND WARDER</speaker>
-[<i>within</i>]
-Whoe&rsquo;er he be, you may not be let in.
-
+<div class="play-line" data-line-number="10">[<i>within</i>]</div>
+<div class="play-line" data-line-number="11">Whoe&rsquo;er he be, you may not be let in.</div>
+<br>
 <speaker>FIRST SERVINGMAN</speaker>
-Villains, answer you so the Lord Protector?
-
+<div class="play-line" data-line-number="12">Villains, answer you so the Lord Protector?</div>
+<br>
 <speaker>FIRST WARDER</speaker>
-[<i>within</i>]
-The Lord protect him, so we answer him.
-We do no otherwise than we are willed.
-
+<div class="play-line" data-line-number="13">[<i>within</i>]</div>
+<div class="play-line" data-line-number="14">The Lord protect him, so we answer him.</div>
+<div class="play-line" data-line-number="15">We do no otherwise than we are willed.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Who willed you? Or whose will stands but mine?
-There&rsquo;s none Protector of the realm but I.&mdash;
-Break up the gates! I&rsquo;ll be your warrantize.
-Shall I be flouted thus by dunghill grooms?
-[<i>Gloucester&rsquo;s men rush at the Tower gates, and
-Woodville, the lieutenant, speaks within.</i>]
-
+<div class="play-line" data-line-number="16">Who willed you? Or whose will stands but mine?</div>
+<div class="play-line" data-line-number="17">There&rsquo;s none Protector of the realm but I.&mdash;</div>
+<div class="play-line" data-line-number="18">Break up the gates! I&rsquo;ll be your warrantize.</div>
+<div class="play-line" data-line-number="19">Shall I be flouted thus by dunghill grooms?</div>
+<div class="play-line" data-line-number="20">[<i>Gloucester&rsquo;s men rush at the Tower gates, and</div>
+<div class="play-line" data-line-number="21">Woodville, the lieutenant, speaks within.</i>]</div>
+<br>
 <speaker>WOODVILLE</speaker>
-What noise is this? What traitors have we here?
-
+<div class="play-line" data-line-number="22">What noise is this? What traitors have we here?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Lieutenant, is it you whose voice I hear?
-Open the gates. Here&rsquo;s Gloucester that would enter.
-
+<div class="play-line" data-line-number="23">Lieutenant, is it you whose voice I hear?</div>
+<div class="play-line" data-line-number="24">Open the gates. Here&rsquo;s Gloucester that would enter.</div>
+<br>
 <speaker>WOODVILLE</speaker>
-Have patience, noble duke, I may not open.
-The Cardinal of Winchester forbids.
-From him I have express commandment
-That thou nor none of thine shall be let in.
-
+<div class="play-line" data-line-number="25">Have patience, noble duke, I may not open.</div>
+<div class="play-line" data-line-number="26">The Cardinal of Winchester forbids.</div>
+<div class="play-line" data-line-number="27">From him I have express commandment</div>
+<div class="play-line" data-line-number="28">That thou nor none of thine shall be let in.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Fainthearted Woodville, prizest him &rsquo;fore me?
-Arrogant Winchester, that haughty prelate
-Whom Henry, our late sovereign, ne&rsquo;er could brook?
-Thou art no friend to God or to the King.
-Open the gates, or I&rsquo;ll shut thee out shortly.
-
+<div class="play-line" data-line-number="29">Fainthearted Woodville, prizest him &rsquo;fore me?</div>
+<div class="play-line" data-line-number="30">Arrogant Winchester, that haughty prelate</div>
+<div class="play-line" data-line-number="31">Whom Henry, our late sovereign, ne&rsquo;er could brook?</div>
+<div class="play-line" data-line-number="32">Thou art no friend to God or to the King.</div>
+<div class="play-line" data-line-number="33">Open the gates, or I&rsquo;ll shut thee out shortly.</div>
+<br>
 <speaker>SERVINGMEN</speaker>
-Open the gates unto the Lord Protector,
-Or we&rsquo;ll burst them open if that you come not quickly.
-
-[<i>Enter, to the Protector at the Tower gates, Winchester
-in cardinal&rsquo;s robes and his men in tawny coats.</i>]
-
+<div class="play-line" data-line-number="34">Open the gates unto the Lord Protector,</div>
+<div class="play-line" data-line-number="35">Or we&rsquo;ll burst them open if that you come not quickly.</div>
+<br>
+<div class="play-line" data-line-number="36">[<i>Enter, to the Protector at the Tower gates, Winchester</div>
+<div class="play-line" data-line-number="37">in cardinal&rsquo;s robes and his men in tawny coats.</i>]</div>
+<br>
 <speaker>WINCHESTER</speaker>
-How now, ambitious Humphrey, what means this?
-
+<div class="play-line" data-line-number="38">How now, ambitious Humphrey, what means this?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Peeled priest, dost thou command me to be shut out?
-
+<div class="play-line" data-line-number="39">Peeled priest, dost thou command me to be shut out?</div>
+<br>
 <speaker>WINCHESTER</speaker>
-I do, thou most usurping proditor&mdash;
-And not Protector&mdash;of the King or realm.
-
+<div class="play-line" data-line-number="40">I do, thou most usurping proditor&mdash;</div>
+<div class="play-line" data-line-number="41">And not Protector&mdash;of the King or realm.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Stand back, thou manifest conspirator,
-Thou that contrived&rsquo;st to murder our dead lord,
-Thou that giv&rsquo;st whores indulgences to sin!
-I&rsquo;ll canvass thee in thy broad cardinal&rsquo;s hat
-If thou proceed in this thy insolence.
-
+<div class="play-line" data-line-number="42">Stand back, thou manifest conspirator,</div>
+<div class="play-line" data-line-number="43">Thou that contrived&rsquo;st to murder our dead lord,</div>
+<div class="play-line" data-line-number="44">Thou that giv&rsquo;st whores indulgences to sin!</div>
+<div class="play-line" data-line-number="45">I&rsquo;ll canvass thee in thy broad cardinal&rsquo;s hat</div>
+<div class="play-line" data-line-number="46">If thou proceed in this thy insolence.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Nay, stand thou back. I will not budge a foot.
-This be Damascus; be thou cursed Cain
-To slay thy brother Abel, if thou wilt.
-
+<div class="play-line" data-line-number="47">Nay, stand thou back. I will not budge a foot.</div>
+<div class="play-line" data-line-number="48">This be Damascus; be thou cursed Cain</div>
+<div class="play-line" data-line-number="49">To slay thy brother Abel, if thou wilt.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-I will not slay thee, but I&rsquo;ll drive thee back.
-Thy scarlet robes, as a child&rsquo;s bearing-cloth,
-I&rsquo;ll use to carry thee out of this place.
-
+<div class="play-line" data-line-number="50">I will not slay thee, but I&rsquo;ll drive thee back.</div>
+<div class="play-line" data-line-number="51">Thy scarlet robes, as a child&rsquo;s bearing-cloth,</div>
+<div class="play-line" data-line-number="52">I&rsquo;ll use to carry thee out of this place.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Do what thou dar&rsquo;st, I beard thee to thy face.
-
+<div class="play-line" data-line-number="53">Do what thou dar&rsquo;st, I beard thee to thy face.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-What, am I dared and bearded to my face?&mdash;
-Draw, men, for all this privileged place.
-Blue coats to tawny coats!	[<i>All draw their swords.</i>]
-Priest, beware your beard.
-I mean to tug it and to cuff you soundly.
-Under my feet I&rsquo;ll stamp thy cardinal&rsquo;s hat;
-In spite of pope or dignities of Church,
-Here by the cheeks I&rsquo;ll drag thee up and down.
-
+<div class="play-line" data-line-number="54">What, am I dared and bearded to my face?&mdash;</div>
+<div class="play-line" data-line-number="55">Draw, men, for all this privileged place.</div>
+<div class="play-line" data-line-number="56">Blue coats to tawny coats!	[<i>All draw their swords.</i>]</div>
+<div class="play-line" data-line-number="57">Priest, beware your beard.</div>
+<div class="play-line" data-line-number="58">I mean to tug it and to cuff you soundly.</div>
+<div class="play-line" data-line-number="59">Under my feet I&rsquo;ll stamp thy cardinal&rsquo;s hat;</div>
+<div class="play-line" data-line-number="60">In spite of pope or dignities of Church,</div>
+<div class="play-line" data-line-number="61">Here by the cheeks I&rsquo;ll drag thee up and down.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Gloucester, thou wilt answer this before the Pope.
-
+<div class="play-line" data-line-number="62">Gloucester, thou wilt answer this before the Pope.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Winchester goose, I cry &ldquo;a rope, a rope!&rdquo;&mdash;
-Now beat them hence; why do you let them stay?&mdash;
-Thee I&rsquo;ll chase hence, thou wolf in sheep&rsquo;s array.&mdash;
-Out, tawny coats, out, scarlet hypocrite!
-
-[<i>Here Gloucester&rsquo;s men beat out the Cardinal&rsquo;s men,
-and enter in the hurly-burly the Mayor of London
-and his Officers.</i>]
-
+<div class="play-line" data-line-number="63">Winchester goose, I cry &ldquo;a rope, a rope!&rdquo;&mdash;</div>
+<div class="play-line" data-line-number="64">Now beat them hence; why do you let them stay?&mdash;</div>
+<div class="play-line" data-line-number="65">Thee I&rsquo;ll chase hence, thou wolf in sheep&rsquo;s array.&mdash;</div>
+<div class="play-line" data-line-number="66">Out, tawny coats, out, scarlet hypocrite!</div>
+<br>
+<div class="play-line" data-line-number="67">[<i>Here Gloucester&rsquo;s men beat out the Cardinal&rsquo;s men,</div>
+<div class="play-line" data-line-number="68">and enter in the hurly-burly the Mayor of London</div>
+<div class="play-line" data-line-number="69">and his Officers.</i>]</div>
+<br>
 <speaker>MAYOR</speaker>
-Fie, lords, that you, being supreme magistrates,
-Thus contumeliously should break the peace!
-
+<div class="play-line" data-line-number="70">Fie, lords, that you, being supreme magistrates,</div>
+<div class="play-line" data-line-number="71">Thus contumeliously should break the peace!</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Peace, Mayor? Thou know&rsquo;st little of my wrongs.
-Here&rsquo;s Beaufort, that regards nor God nor king,
-Hath here distrained the Tower to his use.
-
+<div class="play-line" data-line-number="72">Peace, Mayor? Thou know&rsquo;st little of my wrongs.</div>
+<div class="play-line" data-line-number="73">Here&rsquo;s Beaufort, that regards nor God nor king,</div>
+<div class="play-line" data-line-number="74">Hath here distrained the Tower to his use.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Here&rsquo;s Gloucester, a foe to citizens,
-One that still motions war and never peace,
-O&rsquo;ercharging your free purses with large fines;
-That seeks to overthrow religion
-Because he is Protector of the realm,
-And would have armor here out of the Tower
-To crown himself king and suppress the Prince.
-
+<div class="play-line" data-line-number="75">Here&rsquo;s Gloucester, a foe to citizens,</div>
+<div class="play-line" data-line-number="76">One that still motions war and never peace,</div>
+<div class="play-line" data-line-number="77">O&rsquo;ercharging your free purses with large fines;</div>
+<div class="play-line" data-line-number="78">That seeks to overthrow religion</div>
+<div class="play-line" data-line-number="79">Because he is Protector of the realm,</div>
+<div class="play-line" data-line-number="80">And would have armor here out of the Tower</div>
+<div class="play-line" data-line-number="81">To crown himself king and suppress the Prince.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-I will not answer thee with words, but blows.
-[<i>Here they skirmish again.</i>]
-
+<div class="play-line" data-line-number="82">I will not answer thee with words, but blows.</div>
+<div class="play-line" data-line-number="83">[<i>Here they skirmish again.</i>]</div>
+<br>
 <speaker>MAYOR</speaker>
-Naught rests for me in this tumultuous strife
-But to make open proclamation.
-Come, officer, as loud as e&rsquo;er thou canst, cry.
-[<i>He hands an Officer a paper.</i>]
-
+<div class="play-line" data-line-number="84">Naught rests for me in this tumultuous strife</div>
+<div class="play-line" data-line-number="85">But to make open proclamation.</div>
+<div class="play-line" data-line-number="86">Come, officer, as loud as e&rsquo;er thou canst, cry.</div>
+<div class="play-line" data-line-number="87">[<i>He hands an Officer a paper.</i>]</div>
+<br>
 <speaker>OFFICER</speaker>
-[<i>reads</i>]
-  All manner of men, assembled here in
-arms this day against God&rsquo;s peace and the King&rsquo;s, we
-charge and command you, in his Highness&rsquo; name, to
-repair to your several dwelling places, and not to
-wear, handle, or use any sword, weapon, or dagger
-henceforward, upon pain of death.
-
+<div class="play-line" data-line-number="88">[<i>reads</i>]</div>
+<div class="play-line" data-line-number="89">  All manner of men, assembled here in</div>
+<div class="play-line" data-line-number="90">arms this day against God&rsquo;s peace and the King&rsquo;s, we</div>
+<div class="play-line" data-line-number="91">charge and command you, in his Highness&rsquo; name, to</div>
+<div class="play-line" data-line-number="92">repair to your several dwelling places, and not to</div>
+<div class="play-line" data-line-number="93">wear, handle, or use any sword, weapon, or dagger</div>
+<div class="play-line" data-line-number="94">henceforward, upon pain of death.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Cardinal, I&rsquo;ll be no breaker of the law,
-But we shall meet and break our minds at large.
-
+<div class="play-line" data-line-number="95">Cardinal, I&rsquo;ll be no breaker of the law,</div>
+<div class="play-line" data-line-number="96">But we shall meet and break our minds at large.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Gloucester, we&rsquo;ll meet to thy cost, be sure.
-Thy heartblood I will have for this day&rsquo;s work.
-
+<div class="play-line" data-line-number="97">Gloucester, we&rsquo;ll meet to thy cost, be sure.</div>
+<div class="play-line" data-line-number="98">Thy heartblood I will have for this day&rsquo;s work.</div>
+<br>
 <speaker>MAYOR</speaker>
-I&rsquo;ll call for clubs if you will not away.
-[<i>(Aside.)</i>]
- This cardinal&rsquo;s more haughty than the devil!
-
+<div class="play-line" data-line-number="99">I&rsquo;ll call for clubs if you will not away.</div>
+<div class="play-line" data-line-number="100">[<i>(Aside.)</i>]</div>
+<div class="play-line" data-line-number="101"> This cardinal&rsquo;s more haughty than the devil!</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Mayor, farewell. Thou dost but what thou mayst.
-
+<div class="play-line" data-line-number="102">Mayor, farewell. Thou dost but what thou mayst.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Abominable Gloucester, guard thy head,
-For I intend to have it ere long.
-[<i>Gloucester and Winchester exit
-at separate doors, with their Servingmen.</i>]
-
+<div class="play-line" data-line-number="103">Abominable Gloucester, guard thy head,</div>
+<div class="play-line" data-line-number="104">For I intend to have it ere long.</div>
+<div class="play-line" data-line-number="105">[<i>Gloucester and Winchester exit</div>
+<div class="play-line" data-line-number="106">at separate doors, with their Servingmen.</i>]</div>
+<br>
 <speaker>MAYOR</speaker>
-[<i>to Officers</i>]
-See the coast cleared, and then we will depart.
-[<i>(Aside.)</i>]
- Good God, these nobles should such
-stomachs bear!
-I myself fight not once in forty year.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="107">[<i>to Officers</i>]</div>
+<div class="play-line" data-line-number="108">See the coast cleared, and then we will depart.</div>
+<div class="play-line" data-line-number="109">[<i>(Aside.)</i>]</div>
+<div class="play-line" data-line-number="110"> Good God, these nobles should such</div>
+<div class="play-line" data-line-number="111">stomachs bear!</div>
+<div class="play-line" data-line-number="112">I myself fight not once in forty year.</div>
+<div class="play-line" data-line-number="113">[<i>They exit.</i>]</div>
+<br>
 <b id="act-1-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Enter the Master Gunner of Orleance and his Boy.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter the Master Gunner of Orleance and his Boy.</i>]</div>
+<br>
 <speaker>MASTER GUNNER</speaker>
-Sirrah, thou know&rsquo;st how Orleance is besieged
-And how the English have the suburbs won.
-
+<div class="play-line" data-line-number="2">Sirrah, thou know&rsquo;st how Orleance is besieged</div>
+<div class="play-line" data-line-number="3">And how the English have the suburbs won.</div>
+<br>
 <speaker>BOY</speaker>
-Father, I know, and oft have shot at them;
-Howe&rsquo;er, unfortunate, I missed my aim.
-
+<div class="play-line" data-line-number="4">Father, I know, and oft have shot at them;</div>
+<div class="play-line" data-line-number="5">Howe&rsquo;er, unfortunate, I missed my aim.</div>
+<br>
 <speaker>MASTER GUNNER</speaker>
-But now thou shalt not. Be thou ruled by me.
-Chief master-gunner am I of this town;
-Something I must do to procure me grace.
-The Prince&rsquo;s espials have informed me
-How the English, in the suburbs close entrenched,
-Went through a secret grate of iron bars
-In yonder tower, to overpeer the city,
-And thence discover how with most advantage
-They may vex us with shot or with assault.
-To intercept this inconvenience,
-A piece of ordnance &rsquo;gainst it I have placed,
-And even these three days have I watched
-If I could see them. Now do thou watch,
-For I can stay no longer.
-If thou spy&rsquo;st any, run and bring me word;
-And thou shalt find me at the Governor&rsquo;s.	[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="6">But now thou shalt not. Be thou ruled by me.</div>
+<div class="play-line" data-line-number="7">Chief master-gunner am I of this town;</div>
+<div class="play-line" data-line-number="8">Something I must do to procure me grace.</div>
+<div class="play-line" data-line-number="9">The Prince&rsquo;s espials have informed me</div>
+<div class="play-line" data-line-number="10">How the English, in the suburbs close entrenched,</div>
+<div class="play-line" data-line-number="11">Went through a secret grate of iron bars</div>
+<div class="play-line" data-line-number="12">In yonder tower, to overpeer the city,</div>
+<div class="play-line" data-line-number="13">And thence discover how with most advantage</div>
+<div class="play-line" data-line-number="14">They may vex us with shot or with assault.</div>
+<div class="play-line" data-line-number="15">To intercept this inconvenience,</div>
+<div class="play-line" data-line-number="16">A piece of ordnance &rsquo;gainst it I have placed,</div>
+<div class="play-line" data-line-number="17">And even these three days have I watched</div>
+<div class="play-line" data-line-number="18">If I could see them. Now do thou watch,</div>
+<div class="play-line" data-line-number="19">For I can stay no longer.</div>
+<div class="play-line" data-line-number="20">If thou spy&rsquo;st any, run and bring me word;</div>
+<div class="play-line" data-line-number="21">And thou shalt find me at the Governor&rsquo;s.	[<i>He exits.</i>]</div>
+<br>
 <speaker>BOY</speaker>
-Father, I warrant you, take you no care;
-I&rsquo;ll never trouble you if I may spy them.	[<i>He exits.</i>]
-
-[<i>Enter Salisbury and Talbot on the turrets,
-with Sir William Glansdale, Sir Thomas Gargrave,
-Attendants and Others.</i>]
-
+<div class="play-line" data-line-number="22">Father, I warrant you, take you no care;</div>
+<div class="play-line" data-line-number="23">I&rsquo;ll never trouble you if I may spy them.	[<i>He exits.</i>]</div>
+<br>
+<div class="play-line" data-line-number="24">[<i>Enter Salisbury and Talbot on the turrets,</div>
+<div class="play-line" data-line-number="25">with Sir William Glansdale, Sir Thomas Gargrave,</div>
+<div class="play-line" data-line-number="26">Attendants and Others.</i>]</div>
+<br>
 <speaker>SALISBURY</speaker>
-Talbot, my life, my joy, again returned!
-How wert thou handled, being prisoner?
-Or by what means gott&rsquo;st thou to be released?
-Discourse, I prithee, on this turret&rsquo;s top.
-
+<div class="play-line" data-line-number="27">Talbot, my life, my joy, again returned!</div>
+<div class="play-line" data-line-number="28">How wert thou handled, being prisoner?</div>
+<div class="play-line" data-line-number="29">Or by what means gott&rsquo;st thou to be released?</div>
+<div class="play-line" data-line-number="30">Discourse, I prithee, on this turret&rsquo;s top.</div>
+<br>
 <speaker>TALBOT</speaker>
-The Duke of Bedford had a prisoner
-Called the brave Lord Ponton de Santrailles;
-For him was I exchanged and ransomed.
-But with a baser man-of-arms by far
-Once in contempt they would have bartered me,
-Which I disdaining, scorned, and craved death
-Rather than I would be so vile-esteemed.
-In fine, redeemed I was as I desired.
-But O, the treacherous Fastolf wounds my heart,
-Whom with my bare fists I would execute
-If I now had him brought into my power.
-
+<div class="play-line" data-line-number="31">The Duke of Bedford had a prisoner</div>
+<div class="play-line" data-line-number="32">Called the brave Lord Ponton de Santrailles;</div>
+<div class="play-line" data-line-number="33">For him was I exchanged and ransomed.</div>
+<div class="play-line" data-line-number="34">But with a baser man-of-arms by far</div>
+<div class="play-line" data-line-number="35">Once in contempt they would have bartered me,</div>
+<div class="play-line" data-line-number="36">Which I disdaining, scorned, and craved death</div>
+<div class="play-line" data-line-number="37">Rather than I would be so vile-esteemed.</div>
+<div class="play-line" data-line-number="38">In fine, redeemed I was as I desired.</div>
+<div class="play-line" data-line-number="39">But O, the treacherous Fastolf wounds my heart,</div>
+<div class="play-line" data-line-number="40">Whom with my bare fists I would execute</div>
+<div class="play-line" data-line-number="41">If I now had him brought into my power.</div>
+<br>
 <speaker>SALISBURY</speaker>
-Yet tell&rsquo;st thou not how thou wert entertained.
-
+<div class="play-line" data-line-number="42">Yet tell&rsquo;st thou not how thou wert entertained.</div>
+<br>
 <speaker>TALBOT</speaker>
-With scoffs and scorns and contumelious taunts.
-In open marketplace produced they me
-To be a public spectacle to all.
-&ldquo;Here,&rdquo; said they, &ldquo;is the terror of the French,
-The scarecrow that affrights our children so.&rdquo;
-Then broke I from the officers that led me,
-And with my nails digged stones out of the ground
-To hurl at the beholders of my shame.
-My grisly countenance made others fly;
-None durst come near for fear of sudden death.
-In iron walls they deemed me not secure:
-So great fear of my name &rsquo;mongst them were spread
-That they supposed I could rend bars of steel
-And spurn in pieces posts of adamant.
-Wherefore a guard of chosen shot I had
-That walked about me every minute-while;
-And if I did but stir out of my bed,
-Ready they were to shoot me to the heart.
-
-[<i>Enter the Boy with a linstock.
-He crosses the main stage and exits.</i>]
-
+<div class="play-line" data-line-number="43">With scoffs and scorns and contumelious taunts.</div>
+<div class="play-line" data-line-number="44">In open marketplace produced they me</div>
+<div class="play-line" data-line-number="45">To be a public spectacle to all.</div>
+<div class="play-line" data-line-number="46">&ldquo;Here,&rdquo; said they, &ldquo;is the terror of the French,</div>
+<div class="play-line" data-line-number="47">The scarecrow that affrights our children so.&rdquo;</div>
+<div class="play-line" data-line-number="48">Then broke I from the officers that led me,</div>
+<div class="play-line" data-line-number="49">And with my nails digged stones out of the ground</div>
+<div class="play-line" data-line-number="50">To hurl at the beholders of my shame.</div>
+<div class="play-line" data-line-number="51">My grisly countenance made others fly;</div>
+<div class="play-line" data-line-number="52">None durst come near for fear of sudden death.</div>
+<div class="play-line" data-line-number="53">In iron walls they deemed me not secure:</div>
+<div class="play-line" data-line-number="54">So great fear of my name &rsquo;mongst them were spread</div>
+<div class="play-line" data-line-number="55">That they supposed I could rend bars of steel</div>
+<div class="play-line" data-line-number="56">And spurn in pieces posts of adamant.</div>
+<div class="play-line" data-line-number="57">Wherefore a guard of chosen shot I had</div>
+<div class="play-line" data-line-number="58">That walked about me every minute-while;</div>
+<div class="play-line" data-line-number="59">And if I did but stir out of my bed,</div>
+<div class="play-line" data-line-number="60">Ready they were to shoot me to the heart.</div>
+<br>
+<div class="play-line" data-line-number="61">[<i>Enter the Boy with a linstock.</div>
+<div class="play-line" data-line-number="62">He crosses the main stage and exits.</i>]</div>
+<br>
 <speaker>SALISBURY</speaker>
-I grieve to hear what torments you endured,
-But we will be revenged sufficiently.
-Now it is supper time in Orleance.
-Here, through this grate, I count each one
-And view the Frenchmen how they fortify.
-Let us look in; the sight will much delight thee.
-Sir Thomas Gargrave and Sir William Glansdale,
-Let me have your express opinions
-Where is best place to make our batt&rsquo;ry next?
-
+<div class="play-line" data-line-number="63">I grieve to hear what torments you endured,</div>
+<div class="play-line" data-line-number="64">But we will be revenged sufficiently.</div>
+<div class="play-line" data-line-number="65">Now it is supper time in Orleance.</div>
+<div class="play-line" data-line-number="66">Here, through this grate, I count each one</div>
+<div class="play-line" data-line-number="67">And view the Frenchmen how they fortify.</div>
+<div class="play-line" data-line-number="68">Let us look in; the sight will much delight thee.</div>
+<div class="play-line" data-line-number="69">Sir Thomas Gargrave and Sir William Glansdale,</div>
+<div class="play-line" data-line-number="70">Let me have your express opinions</div>
+<div class="play-line" data-line-number="71">Where is best place to make our batt&rsquo;ry next?</div>
+<br>
 <speaker>GARGRAVE</speaker>
-I think at the north gate, for there stands lords.
-
+<div class="play-line" data-line-number="72">I think at the north gate, for there stands lords.</div>
+<br>
 <speaker>GLANSDALE</speaker>
-And I, here, at the bulwark of the bridge.
-
+<div class="play-line" data-line-number="73">And I, here, at the bulwark of the bridge.</div>
+<br>
 <speaker>TALBOT</speaker>
-For aught I see, this city must be famished
-Or with light skirmishes enfeebled.
-[<i>Here they shoot, and Salisbury
-and Gargrave fall down.</i>]
-
+<div class="play-line" data-line-number="74">For aught I see, this city must be famished</div>
+<div class="play-line" data-line-number="75">Or with light skirmishes enfeebled.</div>
+<div class="play-line" data-line-number="76">[<i>Here they shoot, and Salisbury</div>
+<div class="play-line" data-line-number="77">and Gargrave fall down.</i>]</div>
+<br>
 <speaker>SALISBURY</speaker>
-O Lord, have mercy on us, wretched sinners!
-
+<div class="play-line" data-line-number="78">O Lord, have mercy on us, wretched sinners!</div>
+<br>
 <speaker>GARGRAVE</speaker>
-O Lord, have mercy on me, woeful man!
-
+<div class="play-line" data-line-number="79">O Lord, have mercy on me, woeful man!</div>
+<br>
 <speaker>TALBOT</speaker>
-What chance is this that suddenly hath crossed us?&mdash;
-Speak, Salisbury&mdash;at least if thou canst, speak!
-How far&rsquo;st thou, mirror of all martial men?
-One of thy eyes and thy cheek&rsquo;s side struck off!&mdash;
-Accursed tower, accursed fatal hand
-That hath contrived this woeful tragedy!
-In thirteen battles Salisbury o&rsquo;ercame;
-Henry the Fifth he first trained to the wars.
-Whilst any trump did sound or drum struck up,
-His sword did ne&rsquo;er leave striking in the field.&mdash;
-Yet liv&rsquo;st thou, Salisbury? Though thy speech doth fail,
-One eye thou hast to look to heaven for grace.
-The sun with one eye vieweth all the world.
-Heaven, be thou gracious to none alive
-If Salisbury wants mercy at thy hands!&mdash;
-Sir Thomas Gargrave, hast thou any life?
-Speak unto Talbot. Nay, look up to him.&mdash;
-Bear hence his body; I will help to bury it.
-[<i>Attendants exit with body of Gargrave.</i>]
-Salisbury, cheer thy spirit with this comfort,
-Thou shalt not die whiles&mdash;
-He beckons with his hand and smiles on me
-As who should say &ldquo;When I am dead and gone,
-Remember to avenge me on the French.&rdquo;
-Plantagenet, I will; and, like thee, Nero,
-Play on the lute, beholding the towns burn.
-Wretched shall France be only in my name.
-[<i>Here an alarum, and it thunders and lightens.</i>]
-What stir is this? What tumult&rsquo;s in the heavens?
-Whence cometh this alarum and the noise?
-
-[<i>Enter a Messenger.</i>]
-
+<div class="play-line" data-line-number="80">What chance is this that suddenly hath crossed us?&mdash;</div>
+<div class="play-line" data-line-number="81">Speak, Salisbury&mdash;at least if thou canst, speak!</div>
+<div class="play-line" data-line-number="82">How far&rsquo;st thou, mirror of all martial men?</div>
+<div class="play-line" data-line-number="83">One of thy eyes and thy cheek&rsquo;s side struck off!&mdash;</div>
+<div class="play-line" data-line-number="84">Accursed tower, accursed fatal hand</div>
+<div class="play-line" data-line-number="85">That hath contrived this woeful tragedy!</div>
+<div class="play-line" data-line-number="86">In thirteen battles Salisbury o&rsquo;ercame;</div>
+<div class="play-line" data-line-number="87">Henry the Fifth he first trained to the wars.</div>
+<div class="play-line" data-line-number="88">Whilst any trump did sound or drum struck up,</div>
+<div class="play-line" data-line-number="89">His sword did ne&rsquo;er leave striking in the field.&mdash;</div>
+<div class="play-line" data-line-number="90">Yet liv&rsquo;st thou, Salisbury? Though thy speech doth fail,</div>
+<div class="play-line" data-line-number="91">One eye thou hast to look to heaven for grace.</div>
+<div class="play-line" data-line-number="92">The sun with one eye vieweth all the world.</div>
+<div class="play-line" data-line-number="93">Heaven, be thou gracious to none alive</div>
+<div class="play-line" data-line-number="94">If Salisbury wants mercy at thy hands!&mdash;</div>
+<div class="play-line" data-line-number="95">Sir Thomas Gargrave, hast thou any life?</div>
+<div class="play-line" data-line-number="96">Speak unto Talbot. Nay, look up to him.&mdash;</div>
+<div class="play-line" data-line-number="97">Bear hence his body; I will help to bury it.</div>
+<div class="play-line" data-line-number="98">[<i>Attendants exit with body of Gargrave.</i>]</div>
+<div class="play-line" data-line-number="99">Salisbury, cheer thy spirit with this comfort,</div>
+<div class="play-line" data-line-number="100">Thou shalt not die whiles&mdash;</div>
+<div class="play-line" data-line-number="101">He beckons with his hand and smiles on me</div>
+<div class="play-line" data-line-number="102">As who should say &ldquo;When I am dead and gone,</div>
+<div class="play-line" data-line-number="103">Remember to avenge me on the French.&rdquo;</div>
+<div class="play-line" data-line-number="104">Plantagenet, I will; and, like thee, Nero,</div>
+<div class="play-line" data-line-number="105">Play on the lute, beholding the towns burn.</div>
+<div class="play-line" data-line-number="106">Wretched shall France be only in my name.</div>
+<div class="play-line" data-line-number="107">[<i>Here an alarum, and it thunders and lightens.</i>]</div>
+<div class="play-line" data-line-number="108">What stir is this? What tumult&rsquo;s in the heavens?</div>
+<div class="play-line" data-line-number="109">Whence cometh this alarum and the noise?</div>
+<br>
+<div class="play-line" data-line-number="110">[<i>Enter a Messenger.</i>]</div>
+<br>
 <speaker>MESSENGER</speaker>
-My lord, my lord, the French have gathered head.
-The Dauphin, with one Joan la Pucelle joined,
-A holy prophetess new risen up,
-Is come with a great power to raise the siege.
-[<i>Here Salisbury lifteth himself up and groans.</i>]
-
+<div class="play-line" data-line-number="111">My lord, my lord, the French have gathered head.</div>
+<div class="play-line" data-line-number="112">The Dauphin, with one Joan la Pucelle joined,</div>
+<div class="play-line" data-line-number="113">A holy prophetess new risen up,</div>
+<div class="play-line" data-line-number="114">Is come with a great power to raise the siege.</div>
+<div class="play-line" data-line-number="115">[<i>Here Salisbury lifteth himself up and groans.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Hear, hear, how dying Salisbury doth groan;
-It irks his heart he cannot be revenged.
-Frenchmen, I&rsquo;ll be a Salisbury to you.
-Pucelle or puzel, dauphin or dogfish,
-Your hearts I&rsquo;ll stamp out with my horse&rsquo;s heels
-And make a quagmire of your mingled brains.
-Convey we Salisbury into his tent,
-And then try what these dastard Frenchmen dare.
-[<i>Alarum. They exit.</i>]
-
+<div class="play-line" data-line-number="116">Hear, hear, how dying Salisbury doth groan;</div>
+<div class="play-line" data-line-number="117">It irks his heart he cannot be revenged.</div>
+<div class="play-line" data-line-number="118">Frenchmen, I&rsquo;ll be a Salisbury to you.</div>
+<div class="play-line" data-line-number="119">Pucelle or puzel, dauphin or dogfish,</div>
+<div class="play-line" data-line-number="120">Your hearts I&rsquo;ll stamp out with my horse&rsquo;s heels</div>
+<div class="play-line" data-line-number="121">And make a quagmire of your mingled brains.</div>
+<div class="play-line" data-line-number="122">Convey we Salisbury into his tent,</div>
+<div class="play-line" data-line-number="123">And then try what these dastard Frenchmen dare.</div>
+<div class="play-line" data-line-number="124">[<i>Alarum. They exit.</i>]</div>
+<br>
 <b id="act-1-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[<i>Here an alarum again, and Talbot pursueth the
-Dauphin and driveth him; then enter Joan la Pucelle,
-driving Englishmen before her. They cross the stage
-and exit. Then enter Talbot.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Here an alarum again, and Talbot pursueth the</div>
+<div class="play-line" data-line-number="2">Dauphin and driveth him; then enter Joan la Pucelle,</div>
+<div class="play-line" data-line-number="3">driving Englishmen before her. They cross the stage</div>
+<div class="play-line" data-line-number="4">and exit. Then enter Talbot.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Where is my strength, my valor, and my force?
-Our English troops retire; I cannot stay them.
-A woman clad in armor chaseth them.
-
-[<i>Enter Pucelle, with Soldiers.</i>]
-
-Here, here she comes!&mdash;I&rsquo;ll have a bout with thee.
-Devil or devil&rsquo;s dam, I&rsquo;ll conjure thee.
-Blood will I draw on thee&mdash;thou art a witch&mdash;
-And straightway give thy soul to him thou serv&rsquo;st.
-
+<div class="play-line" data-line-number="5">Where is my strength, my valor, and my force?</div>
+<div class="play-line" data-line-number="6">Our English troops retire; I cannot stay them.</div>
+<div class="play-line" data-line-number="7">A woman clad in armor chaseth them.</div>
+<br>
+<div class="play-line" data-line-number="8">[<i>Enter Pucelle, with Soldiers.</i>]</div>
+<br>
+<div class="play-line" data-line-number="9">Here, here she comes!&mdash;I&rsquo;ll have a bout with thee.</div>
+<div class="play-line" data-line-number="10">Devil or devil&rsquo;s dam, I&rsquo;ll conjure thee.</div>
+<div class="play-line" data-line-number="11">Blood will I draw on thee&mdash;thou art a witch&mdash;</div>
+<div class="play-line" data-line-number="12">And straightway give thy soul to him thou serv&rsquo;st.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Come, come; &rsquo;tis only I that must disgrace thee.
-[<i>Here they fight.</i>]
-
+<div class="play-line" data-line-number="13">Come, come; &rsquo;tis only I that must disgrace thee.</div>
+<div class="play-line" data-line-number="14">[<i>Here they fight.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Heavens, can you suffer hell so to prevail?
-My breast I&rsquo;ll burst with straining of my courage,
-And from my shoulders crack my arms asunder,
-But I will chastise this high-minded strumpet.
-[<i>They fight again.</i>]
-
+<div class="play-line" data-line-number="15">Heavens, can you suffer hell so to prevail?</div>
+<div class="play-line" data-line-number="16">My breast I&rsquo;ll burst with straining of my courage,</div>
+<div class="play-line" data-line-number="17">And from my shoulders crack my arms asunder,</div>
+<div class="play-line" data-line-number="18">But I will chastise this high-minded strumpet.</div>
+<div class="play-line" data-line-number="19">[<i>They fight again.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-Talbot, farewell. Thy hour is not yet come.
-I must go victual Orleance forthwith.
-[<i>A short alarum. Then she prepares to
-enter the town with Soldiers.</i>]
-O&rsquo;ertake me if thou canst. I scorn thy strength.
-Go, go, cheer up thy hunger-starved men.
-Help Salisbury to make his testament.
-This day is ours, as many more shall be.
-[<i>She exits with Soldiers.</i>]
-
+<div class="play-line" data-line-number="20">Talbot, farewell. Thy hour is not yet come.</div>
+<div class="play-line" data-line-number="21">I must go victual Orleance forthwith.</div>
+<div class="play-line" data-line-number="22">[<i>A short alarum. Then she prepares to</div>
+<div class="play-line" data-line-number="23">enter the town with Soldiers.</i>]</div>
+<div class="play-line" data-line-number="24">O&rsquo;ertake me if thou canst. I scorn thy strength.</div>
+<div class="play-line" data-line-number="25">Go, go, cheer up thy hunger-starved men.</div>
+<div class="play-line" data-line-number="26">Help Salisbury to make his testament.</div>
+<div class="play-line" data-line-number="27">This day is ours, as many more shall be.</div>
+<div class="play-line" data-line-number="28">[<i>She exits with Soldiers.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-My thoughts are whirled like a potter&rsquo;s wheel.
-I know not where I am nor what I do.
-A witch by fear&mdash;not force, like Hannibal&mdash;
-Drives back our troops, and conquers as she lists.
-So bees with smoke and doves with noisome stench
-Are from their hives and houses driven away.
-They called us, for our fierceness, English dogs;
-Now like to whelps we crying run away.
-
-[<i>A short alarum. Enter English soldiers,
-chased by French soldiers.</i>]
-
-Hark, countrymen, either renew the fight,
-Or tear the lions out of England&rsquo;s coat.
-Renounce your soil; give sheep in lions&rsquo; stead.
-Sheep run not half so treacherous from the wolf,
-Or horse or oxen from the leopard,
-As you fly from your oft-subdued slaves.
-[<i>Alarum. Here another skirmish.</i>]
-It will not be! Retire into your trenches.
-You all consented unto Salisbury&rsquo;s death,
-For none would strike a stroke in his revenge.
-Pucelle is entered into Orleance
-In spite of us or aught that we could do.
-[<i>Soldiers exit.</i>]
-O, would I were to die with Salisbury!
-The shame hereof will make me hide my head.
-[<i>Talbot exits. Alarum. Retreat.</i>]
-
+<div class="play-line" data-line-number="29">My thoughts are whirled like a potter&rsquo;s wheel.</div>
+<div class="play-line" data-line-number="30">I know not where I am nor what I do.</div>
+<div class="play-line" data-line-number="31">A witch by fear&mdash;not force, like Hannibal&mdash;</div>
+<div class="play-line" data-line-number="32">Drives back our troops, and conquers as she lists.</div>
+<div class="play-line" data-line-number="33">So bees with smoke and doves with noisome stench</div>
+<div class="play-line" data-line-number="34">Are from their hives and houses driven away.</div>
+<div class="play-line" data-line-number="35">They called us, for our fierceness, English dogs;</div>
+<div class="play-line" data-line-number="36">Now like to whelps we crying run away.</div>
+<br>
+<div class="play-line" data-line-number="37">[<i>A short alarum. Enter English soldiers,</div>
+<div class="play-line" data-line-number="38">chased by French soldiers.</i>]</div>
+<br>
+<div class="play-line" data-line-number="39">Hark, countrymen, either renew the fight,</div>
+<div class="play-line" data-line-number="40">Or tear the lions out of England&rsquo;s coat.</div>
+<div class="play-line" data-line-number="41">Renounce your soil; give sheep in lions&rsquo; stead.</div>
+<div class="play-line" data-line-number="42">Sheep run not half so treacherous from the wolf,</div>
+<div class="play-line" data-line-number="43">Or horse or oxen from the leopard,</div>
+<div class="play-line" data-line-number="44">As you fly from your oft-subdued slaves.</div>
+<div class="play-line" data-line-number="45">[<i>Alarum. Here another skirmish.</i>]</div>
+<div class="play-line" data-line-number="46">It will not be! Retire into your trenches.</div>
+<div class="play-line" data-line-number="47">You all consented unto Salisbury&rsquo;s death,</div>
+<div class="play-line" data-line-number="48">For none would strike a stroke in his revenge.</div>
+<div class="play-line" data-line-number="49">Pucelle is entered into Orleance</div>
+<div class="play-line" data-line-number="50">In spite of us or aught that we could do.</div>
+<div class="play-line" data-line-number="51">[<i>Soldiers exit.</i>]</div>
+<div class="play-line" data-line-number="52">O, would I were to die with Salisbury!</div>
+<div class="play-line" data-line-number="53">The shame hereof will make me hide my head.</div>
+<div class="play-line" data-line-number="54">[<i>Talbot exits. Alarum. Retreat.</i>]</div>
+<br>
 <b id="act-1-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[<i>Flourish. Enter on the walls Pucelle, Charles the
-Dauphin, Reignier, Alanson, and Soldiers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Flourish. Enter on the walls Pucelle, Charles the</div>
+<div class="play-line" data-line-number="2">Dauphin, Reignier, Alanson, and Soldiers.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-Advance our waving colors on the walls.
-Rescued is Orleance from the English.
-Thus Joan la Pucelle hath performed her word.
-[<i>She exits.</i>]
-
+<div class="play-line" data-line-number="3">Advance our waving colors on the walls.</div>
+<div class="play-line" data-line-number="4">Rescued is Orleance from the English.</div>
+<div class="play-line" data-line-number="5">Thus Joan la Pucelle hath performed her word.</div>
+<div class="play-line" data-line-number="6">[<i>She exits.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Divinest creature, Astraea&rsquo;s daughter,
-How shall I honor thee for this success?
-Thy promises are like Adonis&rsquo; garden
-That one day bloomed and fruitful were the next.
-France, triumph in thy glorious prophetess.
-Recovered is the town of Orleance.
-More blessed hap did ne&rsquo;er befall our state.
-
+<div class="play-line" data-line-number="7">Divinest creature, Astraea&rsquo;s daughter,</div>
+<div class="play-line" data-line-number="8">How shall I honor thee for this success?</div>
+<div class="play-line" data-line-number="9">Thy promises are like Adonis&rsquo; garden</div>
+<div class="play-line" data-line-number="10">That one day bloomed and fruitful were the next.</div>
+<div class="play-line" data-line-number="11">France, triumph in thy glorious prophetess.</div>
+<div class="play-line" data-line-number="12">Recovered is the town of Orleance.</div>
+<div class="play-line" data-line-number="13">More blessed hap did ne&rsquo;er befall our state.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Why ring not bells aloud throughout the town?
-Dauphin, command the citizens make bonfires
-And feast and banquet in the open streets
-To celebrate the joy that God hath given us.
-
+<div class="play-line" data-line-number="14">Why ring not bells aloud throughout the town?</div>
+<div class="play-line" data-line-number="15">Dauphin, command the citizens make bonfires</div>
+<div class="play-line" data-line-number="16">And feast and banquet in the open streets</div>
+<div class="play-line" data-line-number="17">To celebrate the joy that God hath given us.</div>
+<br>
 <speaker>ALANSON</speaker>
-All France will be replete with mirth and joy
-When they shall hear how we have played the men.
-
+<div class="play-line" data-line-number="18">All France will be replete with mirth and joy</div>
+<div class="play-line" data-line-number="19">When they shall hear how we have played the men.</div>
+<br>
 <speaker>CHARLES</speaker>
-&rsquo;Tis Joan, not we, by whom the day is won;
-For which I will divide my crown with her,
-And all the priests and friars in my realm
-Shall in procession sing her endless praise.
-A statelier pyramis to her I&rsquo;ll rear
-Than Rhodophe&rsquo;s of Memphis ever was.
-In memory of her, when she is dead,
-Her ashes, in an urn more precious
-Than the rich-jeweled coffer of Darius,
-Transported shall be at high festivals
-Before the kings and queens of France.
-No longer on Saint Dennis will we cry,
-But Joan la Pucelle shall be France&rsquo;s saint.
-Come in, and let us banquet royally
-After this golden day of victory.
-[<i>Flourish. They exit.</i>]
-
+<div class="play-line" data-line-number="20">&rsquo;Tis Joan, not we, by whom the day is won;</div>
+<div class="play-line" data-line-number="21">For which I will divide my crown with her,</div>
+<div class="play-line" data-line-number="22">And all the priests and friars in my realm</div>
+<div class="play-line" data-line-number="23">Shall in procession sing her endless praise.</div>
+<div class="play-line" data-line-number="24">A statelier pyramis to her I&rsquo;ll rear</div>
+<div class="play-line" data-line-number="25">Than Rhodophe&rsquo;s of Memphis ever was.</div>
+<div class="play-line" data-line-number="26">In memory of her, when she is dead,</div>
+<div class="play-line" data-line-number="27">Her ashes, in an urn more precious</div>
+<div class="play-line" data-line-number="28">Than the rich-jeweled coffer of Darius,</div>
+<div class="play-line" data-line-number="29">Transported shall be at high festivals</div>
+<div class="play-line" data-line-number="30">Before the kings and queens of France.</div>
+<div class="play-line" data-line-number="31">No longer on Saint Dennis will we cry,</div>
+<div class="play-line" data-line-number="32">But Joan la Pucelle shall be France&rsquo;s saint.</div>
+<div class="play-line" data-line-number="33">Come in, and let us banquet royally</div>
+<div class="play-line" data-line-number="34">After this golden day of victory.</div>
+<div class="play-line" data-line-number="35">[<i>Flourish. They exit.</i>]</div>
+<br>
 <b id="act-2" class="act-header">Act 2</b>
+<br>
 <b id="act-2-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Enter on the walls a French Sergeant of a Band,
-with two Sentinels.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter on the walls a French Sergeant of a Band,</div>
+<div class="play-line" data-line-number="2">with two Sentinels.</i>]</div>
+<br>
 <speaker>SERGEANT</speaker>
-Sirs, take your places and be vigilant.
-If any noise or soldier you perceive
-Near to the walls, by some apparent sign
-Let us have knowledge at the court of guard.
-
+<div class="play-line" data-line-number="3">Sirs, take your places and be vigilant.</div>
+<div class="play-line" data-line-number="4">If any noise or soldier you perceive</div>
+<div class="play-line" data-line-number="5">Near to the walls, by some apparent sign</div>
+<div class="play-line" data-line-number="6">Let us have knowledge at the court of guard.</div>
+<br>
 <speaker>SENTINEL</speaker>
-Sergeant, you shall.	[<i>Sergeant exits.</i>]
-Thus are poor servitors,
-When others sleep upon their quiet beds,
-Constrained to watch in darkness, rain, and cold.
-
-[<i>Enter Talbot, Bedford, and Burgundy, below,
-with scaling ladders.</i>]
-
+<div class="play-line" data-line-number="7">Sergeant, you shall.	[<i>Sergeant exits.</i>]</div>
+<div class="play-line" data-line-number="8">Thus are poor servitors,</div>
+<div class="play-line" data-line-number="9">When others sleep upon their quiet beds,</div>
+<div class="play-line" data-line-number="10">Constrained to watch in darkness, rain, and cold.</div>
+<br>
+<div class="play-line" data-line-number="11">[<i>Enter Talbot, Bedford, and Burgundy, below,</div>
+<div class="play-line" data-line-number="12">with scaling ladders.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Lord Regent, and redoubted Burgundy,
-By whose approach the regions of Artois,
-Walloon, and Picardy are friends to us,
-This happy night the Frenchmen are secure,
-Having all day caroused and banqueted.
-Embrace we then this opportunity,
-As fitting best to quittance their deceit
-Contrived by art and baleful sorcery.
-
+<div class="play-line" data-line-number="13">Lord Regent, and redoubted Burgundy,</div>
+<div class="play-line" data-line-number="14">By whose approach the regions of Artois,</div>
+<div class="play-line" data-line-number="15">Walloon, and Picardy are friends to us,</div>
+<div class="play-line" data-line-number="16">This happy night the Frenchmen are secure,</div>
+<div class="play-line" data-line-number="17">Having all day caroused and banqueted.</div>
+<div class="play-line" data-line-number="18">Embrace we then this opportunity,</div>
+<div class="play-line" data-line-number="19">As fitting best to quittance their deceit</div>
+<div class="play-line" data-line-number="20">Contrived by art and baleful sorcery.</div>
+<br>
 <speaker>BEDFORD</speaker>
-Coward of France, how much he wrongs his fame,
-Despairing of his own arm&rsquo;s fortitude,
-To join with witches and the help of hell!
-
+<div class="play-line" data-line-number="21">Coward of France, how much he wrongs his fame,</div>
+<div class="play-line" data-line-number="22">Despairing of his own arm&rsquo;s fortitude,</div>
+<div class="play-line" data-line-number="23">To join with witches and the help of hell!</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Traitors have never other company.
-But what&rsquo;s that Pucelle whom they term so pure?
-
+<div class="play-line" data-line-number="24">Traitors have never other company.</div>
+<div class="play-line" data-line-number="25">But what&rsquo;s that Pucelle whom they term so pure?</div>
+<br>
 <speaker>TALBOT</speaker>
-A maid, they say.
-
+<div class="play-line" data-line-number="26">A maid, they say.</div>
+<br>
 <speaker>BEDFORD</speaker>
-A maid? And be so martial?
-
+<div class="play-line" data-line-number="27">A maid? And be so martial?</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Pray God she prove not masculine ere long,
-If underneath the standard of the French
-She carry armor as she hath begun.
-
+<div class="play-line" data-line-number="28">Pray God she prove not masculine ere long,</div>
+<div class="play-line" data-line-number="29">If underneath the standard of the French</div>
+<div class="play-line" data-line-number="30">She carry armor as she hath begun.</div>
+<br>
 <speaker>TALBOT</speaker>
-Well, let them practice and converse with spirits.
-God is our fortress, in whose conquering name
-Let us resolve to scale their flinty bulwarks.
-
+<div class="play-line" data-line-number="31">Well, let them practice and converse with spirits.</div>
+<div class="play-line" data-line-number="32">God is our fortress, in whose conquering name</div>
+<div class="play-line" data-line-number="33">Let us resolve to scale their flinty bulwarks.</div>
+<br>
 <speaker>BEDFORD</speaker>
-Ascend, brave Talbot. We will follow thee.
-
+<div class="play-line" data-line-number="34">Ascend, brave Talbot. We will follow thee.</div>
+<br>
 <speaker>TALBOT</speaker>
-Not all together. Better far, I guess,
-That we do make our entrance several ways,
-That if it chance the one of us do fail,
-The other yet may rise against their force.
-
+<div class="play-line" data-line-number="35">Not all together. Better far, I guess,</div>
+<div class="play-line" data-line-number="36">That we do make our entrance several ways,</div>
+<div class="play-line" data-line-number="37">That if it chance the one of us do fail,</div>
+<div class="play-line" data-line-number="38">The other yet may rise against their force.</div>
+<br>
 <speaker>BEDFORD</speaker>
-Agreed. I&rsquo;ll to yond corner.
-
+<div class="play-line" data-line-number="39">Agreed. I&rsquo;ll to yond corner.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-And I to this.
-
+<div class="play-line" data-line-number="40">And I to this.</div>
+<br>
 <speaker>TALBOT</speaker>
-And here will Talbot mount, or make his grave.
-Now, Salisbury, for thee and for the right
-Of English Henry, shall this night appear
-How much in duty I am bound to both.
-[<i>Scaling the walls, they cry
-&ldquo;Saint George! A Talbot!&rdquo;</i>]
-
+<div class="play-line" data-line-number="41">And here will Talbot mount, or make his grave.</div>
+<div class="play-line" data-line-number="42">Now, Salisbury, for thee and for the right</div>
+<div class="play-line" data-line-number="43">Of English Henry, shall this night appear</div>
+<div class="play-line" data-line-number="44">How much in duty I am bound to both.</div>
+<div class="play-line" data-line-number="45">[<i>Scaling the walls, they cry</div>
+<div class="play-line" data-line-number="46">&ldquo;Saint George! A Talbot!&rdquo;</i>]</div>
+<br>
 <speaker>SENTINEL</speaker>
-Arm, arm! The enemy doth make assault.
-[<i>The English, pursuing the Sentinels, exit aloft.</i>]
-[<i>The French leap o&rsquo;er the walls in their shirts.</i>]
-
-[<i>Enter several ways, Bastard, Alanson, Reignier,
-half ready, and half unready.</i>]
-
+<div class="play-line" data-line-number="47">Arm, arm! The enemy doth make assault.</div>
+<div class="play-line" data-line-number="48">[<i>The English, pursuing the Sentinels, exit aloft.</i>]</div>
+<div class="play-line" data-line-number="49">[<i>The French leap o&rsquo;er the walls in their shirts.</i>]</div>
+<br>
+<div class="play-line" data-line-number="50">[<i>Enter several ways, Bastard, Alanson, Reignier,</div>
+<div class="play-line" data-line-number="51">half ready, and half unready.</i>]</div>
+<br>
 <speaker>ALANSON</speaker>
-How now, my lords? What, all unready so?
-
+<div class="play-line" data-line-number="52">How now, my lords? What, all unready so?</div>
+<br>
 <speaker>BASTARD</speaker>
-Unready? Ay, and glad we scaped so well.
-
+<div class="play-line" data-line-number="53">Unready? Ay, and glad we scaped so well.</div>
+<br>
 <speaker>REIGNIER</speaker>
-&rsquo;Twas time, I trow, to wake and leave our beds,
-Hearing alarums at our chamber doors.
-
+<div class="play-line" data-line-number="54">&rsquo;Twas time, I trow, to wake and leave our beds,</div>
+<div class="play-line" data-line-number="55">Hearing alarums at our chamber doors.</div>
+<br>
 <speaker>ALANSON</speaker>
-Of all exploits since first I followed arms
-Ne&rsquo;er heard I of a warlike enterprise
-More venturous or desperate than this.
-
+<div class="play-line" data-line-number="56">Of all exploits since first I followed arms</div>
+<div class="play-line" data-line-number="57">Ne&rsquo;er heard I of a warlike enterprise</div>
+<div class="play-line" data-line-number="58">More venturous or desperate than this.</div>
+<br>
 <speaker>BASTARD</speaker>
-I think this Talbot be a fiend of hell.
-
+<div class="play-line" data-line-number="59">I think this Talbot be a fiend of hell.</div>
+<br>
 <speaker>REIGNIER</speaker>
-If not of hell, the heavens sure favor him.
-
+<div class="play-line" data-line-number="60">If not of hell, the heavens sure favor him.</div>
+<br>
 <speaker>ALANSON</speaker>
-Here cometh Charles. I marvel how he sped.
-
-[<i>Enter Charles and Joan la Pucelle.</i>]
-
+<div class="play-line" data-line-number="61">Here cometh Charles. I marvel how he sped.</div>
+<br>
+<div class="play-line" data-line-number="62">[<i>Enter Charles and Joan la Pucelle.</i>]</div>
+<br>
 <speaker>BASTARD</speaker>
-Tut, holy Joan was his defensive guard.
-
+<div class="play-line" data-line-number="63">Tut, holy Joan was his defensive guard.</div>
+<br>
 <speaker>CHARLES</speaker>
-Is this thy cunning, thou deceitful dame?
-Didst thou at first, to flatter us withal,
-Make us partakers of a little gain
-That now our loss might be ten times so much?
-
+<div class="play-line" data-line-number="64">Is this thy cunning, thou deceitful dame?</div>
+<div class="play-line" data-line-number="65">Didst thou at first, to flatter us withal,</div>
+<div class="play-line" data-line-number="66">Make us partakers of a little gain</div>
+<div class="play-line" data-line-number="67">That now our loss might be ten times so much?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Wherefore is Charles impatient with his friend?
-At all times will you have my power alike?
-Sleeping or waking, must I still prevail,
-Or will you blame and lay the fault on me?&mdash;
-Improvident soldiers, had your watch been good,
-This sudden mischief never could have fall&rsquo;n.
-
+<div class="play-line" data-line-number="68">Wherefore is Charles impatient with his friend?</div>
+<div class="play-line" data-line-number="69">At all times will you have my power alike?</div>
+<div class="play-line" data-line-number="70">Sleeping or waking, must I still prevail,</div>
+<div class="play-line" data-line-number="71">Or will you blame and lay the fault on me?&mdash;</div>
+<div class="play-line" data-line-number="72">Improvident soldiers, had your watch been good,</div>
+<div class="play-line" data-line-number="73">This sudden mischief never could have fall&rsquo;n.</div>
+<br>
 <speaker>CHARLES</speaker>
-Duke of Alanson, this was your default,
-That, being captain of the watch tonight,
-Did look no better to that weighty charge.
-
+<div class="play-line" data-line-number="74">Duke of Alanson, this was your default,</div>
+<div class="play-line" data-line-number="75">That, being captain of the watch tonight,</div>
+<div class="play-line" data-line-number="76">Did look no better to that weighty charge.</div>
+<br>
 <speaker>ALANSON</speaker>
-Had all your quarters been as safely kept
-As that whereof I had the government,
-We had not been thus shamefully surprised.
-
+<div class="play-line" data-line-number="77">Had all your quarters been as safely kept</div>
+<div class="play-line" data-line-number="78">As that whereof I had the government,</div>
+<div class="play-line" data-line-number="79">We had not been thus shamefully surprised.</div>
+<br>
 <speaker>BASTARD</speaker>
-Mine was secure.
-
+<div class="play-line" data-line-number="80">Mine was secure.</div>
+<br>
 <speaker>REIGNIER</speaker>
-And so was mine, my lord.
-
+<div class="play-line" data-line-number="81">And so was mine, my lord.</div>
+<br>
 <speaker>CHARLES</speaker>
-And for myself, most part of all this night
-Within her quarter and mine own precinct
-I was employed in passing to and fro
-About relieving of the sentinels.
-Then how or which way should they first break in?
-
+<div class="play-line" data-line-number="82">And for myself, most part of all this night</div>
+<div class="play-line" data-line-number="83">Within her quarter and mine own precinct</div>
+<div class="play-line" data-line-number="84">I was employed in passing to and fro</div>
+<div class="play-line" data-line-number="85">About relieving of the sentinels.</div>
+<div class="play-line" data-line-number="86">Then how or which way should they first break in?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Question, my lords, no further of the case,
-How or which way; &rsquo;tis sure they found some place
-But weakly guarded, where the breach was made.
-And now there rests no other shift but this:
-To gather our soldiers, scattered and dispersed,
-And lay new platforms to endamage them.
-
-[<i>Alarum. Enter an English Soldier, crying,
-&ldquo;A Talbot, A Talbot!&rdquo; The French fly,
-leaving their clothes behind.</i>]
-
+<div class="play-line" data-line-number="87">Question, my lords, no further of the case,</div>
+<div class="play-line" data-line-number="88">How or which way; &rsquo;tis sure they found some place</div>
+<div class="play-line" data-line-number="89">But weakly guarded, where the breach was made.</div>
+<div class="play-line" data-line-number="90">And now there rests no other shift but this:</div>
+<div class="play-line" data-line-number="91">To gather our soldiers, scattered and dispersed,</div>
+<div class="play-line" data-line-number="92">And lay new platforms to endamage them.</div>
+<br>
+<div class="play-line" data-line-number="93">[<i>Alarum. Enter an English Soldier, crying,</div>
+<div class="play-line" data-line-number="94">&ldquo;A Talbot, A Talbot!&rdquo; The French fly,</div>
+<div class="play-line" data-line-number="95">leaving their clothes behind.</i>]</div>
+<br>
 <speaker>SOLDIER</speaker>
-I&rsquo;ll be so bold to take what they have left.
-The cry of &ldquo;Talbot&rdquo; serves me for a sword,
-For I have loaden me with many spoils,
-Using no other weapon but his name.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="96">I&rsquo;ll be so bold to take what they have left.</div>
+<div class="play-line" data-line-number="97">The cry of &ldquo;Talbot&rdquo; serves me for a sword,</div>
+<div class="play-line" data-line-number="98">For I have loaden me with many spoils,</div>
+<div class="play-line" data-line-number="99">Using no other weapon but his name.</div>
+<div class="play-line" data-line-number="100">[<i>He exits.</i>]</div>
+<br>
 <b id="act-2-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Enter Talbot, Bedford, Burgundy, a Captain and Others.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Talbot, Bedford, Burgundy, a Captain and Others.</i>]</div>
+<br>
 <speaker>BEDFORD</speaker>
-The day begins to break and night is fled,
-Whose pitchy mantle over-veiled the Earth.
-Here sound retreat and cease our hot pursuit.
-[<i>Retreat sounded.</i>]
-
+<div class="play-line" data-line-number="2">The day begins to break and night is fled,</div>
+<div class="play-line" data-line-number="3">Whose pitchy mantle over-veiled the Earth.</div>
+<div class="play-line" data-line-number="4">Here sound retreat and cease our hot pursuit.</div>
+<div class="play-line" data-line-number="5">[<i>Retreat sounded.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Bring forth the body of old Salisbury,
-And here advance it in the marketplace,
-The middle center of this cursed town.
-
-[<i>Soldiers enter bearing the body of Salisbury,
-Drums beating a dead march.</i>]
-
-Now have I paid my vow unto his soul:
-For every drop of blood was drawn from him
-There hath at least five Frenchmen died tonight.
-And, that hereafter ages may behold
-What ruin happened in revenge of him,
-Within their chiefest temple I&rsquo;ll erect
-A tomb wherein his corpse shall be interred,
-Upon the which, that everyone may read,
-Shall be engraved the sack of Orleance,
-The treacherous manner of his mournful death,
-And what a terror he had been to France.
-[<i>Funeral exits.</i>]
-But, lords, in all our bloody massacre,
-I muse we met not with the Dauphin&rsquo;s grace,
-His new-come champion, virtuous Joan of Arc,
-Nor any of his false confederates.
-
+<div class="play-line" data-line-number="6">Bring forth the body of old Salisbury,</div>
+<div class="play-line" data-line-number="7">And here advance it in the marketplace,</div>
+<div class="play-line" data-line-number="8">The middle center of this cursed town.</div>
+<br>
+<div class="play-line" data-line-number="9">[<i>Soldiers enter bearing the body of Salisbury,</div>
+<div class="play-line" data-line-number="10">Drums beating a dead march.</i>]</div>
+<br>
+<div class="play-line" data-line-number="11">Now have I paid my vow unto his soul:</div>
+<div class="play-line" data-line-number="12">For every drop of blood was drawn from him</div>
+<div class="play-line" data-line-number="13">There hath at least five Frenchmen died tonight.</div>
+<div class="play-line" data-line-number="14">And, that hereafter ages may behold</div>
+<div class="play-line" data-line-number="15">What ruin happened in revenge of him,</div>
+<div class="play-line" data-line-number="16">Within their chiefest temple I&rsquo;ll erect</div>
+<div class="play-line" data-line-number="17">A tomb wherein his corpse shall be interred,</div>
+<div class="play-line" data-line-number="18">Upon the which, that everyone may read,</div>
+<div class="play-line" data-line-number="19">Shall be engraved the sack of Orleance,</div>
+<div class="play-line" data-line-number="20">The treacherous manner of his mournful death,</div>
+<div class="play-line" data-line-number="21">And what a terror he had been to France.</div>
+<div class="play-line" data-line-number="22">[<i>Funeral exits.</i>]</div>
+<div class="play-line" data-line-number="23">But, lords, in all our bloody massacre,</div>
+<div class="play-line" data-line-number="24">I muse we met not with the Dauphin&rsquo;s grace,</div>
+<div class="play-line" data-line-number="25">His new-come champion, virtuous Joan of Arc,</div>
+<div class="play-line" data-line-number="26">Nor any of his false confederates.</div>
+<br>
 <speaker>BEDFORD</speaker>
-&rsquo;Tis thought, Lord Talbot, when the fight began,
-Roused on the sudden from their drowsy beds,
-They did amongst the troops of armed men
-Leap o&rsquo;er the walls for refuge in the field.
-
+<div class="play-line" data-line-number="27">&rsquo;Tis thought, Lord Talbot, when the fight began,</div>
+<div class="play-line" data-line-number="28">Roused on the sudden from their drowsy beds,</div>
+<div class="play-line" data-line-number="29">They did amongst the troops of armed men</div>
+<div class="play-line" data-line-number="30">Leap o&rsquo;er the walls for refuge in the field.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Myself, as far as I could well discern
-For smoke and dusky vapors of the night,
-Am sure I scared the Dauphin and his trull,
-When arm-in-arm they both came swiftly running,
-Like to a pair of loving turtledoves
-That could not live asunder day or night.
-After that things are set in order here,
-We&rsquo;ll follow them with all the power we have.
-
-[<i>Enter a Messenger.</i>]
-
+<div class="play-line" data-line-number="31">Myself, as far as I could well discern</div>
+<div class="play-line" data-line-number="32">For smoke and dusky vapors of the night,</div>
+<div class="play-line" data-line-number="33">Am sure I scared the Dauphin and his trull,</div>
+<div class="play-line" data-line-number="34">When arm-in-arm they both came swiftly running,</div>
+<div class="play-line" data-line-number="35">Like to a pair of loving turtledoves</div>
+<div class="play-line" data-line-number="36">That could not live asunder day or night.</div>
+<div class="play-line" data-line-number="37">After that things are set in order here,</div>
+<div class="play-line" data-line-number="38">We&rsquo;ll follow them with all the power we have.</div>
+<br>
+<div class="play-line" data-line-number="39">[<i>Enter a Messenger.</i>]</div>
+<br>
 <speaker>MESSENGER</speaker>
-All hail, my lords. Which of this princely train
-Call you the warlike Talbot, for his acts
-So much applauded through the realm of France?
-
+<div class="play-line" data-line-number="40">All hail, my lords. Which of this princely train</div>
+<div class="play-line" data-line-number="41">Call you the warlike Talbot, for his acts</div>
+<div class="play-line" data-line-number="42">So much applauded through the realm of France?</div>
+<br>
 <speaker>TALBOT</speaker>
-Here is the Talbot. Who would speak with him?
-
+<div class="play-line" data-line-number="43">Here is the Talbot. Who would speak with him?</div>
+<br>
 <speaker>MESSENGER</speaker>
-The virtuous lady, Countess of Auvergne,
-With modesty admiring thy renown,
-By me entreats, great lord, thou wouldst vouchsafe
-To visit her poor castle where she lies,
-That she may boast she hath beheld the man
-Whose glory fills the world with loud report.
-
+<div class="play-line" data-line-number="44">The virtuous lady, Countess of Auvergne,</div>
+<div class="play-line" data-line-number="45">With modesty admiring thy renown,</div>
+<div class="play-line" data-line-number="46">By me entreats, great lord, thou wouldst vouchsafe</div>
+<div class="play-line" data-line-number="47">To visit her poor castle where she lies,</div>
+<div class="play-line" data-line-number="48">That she may boast she hath beheld the man</div>
+<div class="play-line" data-line-number="49">Whose glory fills the world with loud report.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Is it even so? Nay, then, I see our wars
-Will turn unto a peaceful comic sport,
-When ladies crave to be encountered with.
-You may not, my lord, despise her gentle suit.
-
+<div class="play-line" data-line-number="50">Is it even so? Nay, then, I see our wars</div>
+<div class="play-line" data-line-number="51">Will turn unto a peaceful comic sport,</div>
+<div class="play-line" data-line-number="52">When ladies crave to be encountered with.</div>
+<div class="play-line" data-line-number="53">You may not, my lord, despise her gentle suit.</div>
+<br>
 <speaker>TALBOT</speaker>
-Ne&rsquo;er trust me, then; for when a world of men
-Could not prevail with all their oratory,
-Yet hath a woman&rsquo;s kindness overruled.&mdash;
-And therefore tell her I return great thanks,
-And in submission will attend on her.&mdash;
-Will not your Honors bear me company?
-
+<div class="play-line" data-line-number="54">Ne&rsquo;er trust me, then; for when a world of men</div>
+<div class="play-line" data-line-number="55">Could not prevail with all their oratory,</div>
+<div class="play-line" data-line-number="56">Yet hath a woman&rsquo;s kindness overruled.&mdash;</div>
+<div class="play-line" data-line-number="57">And therefore tell her I return great thanks,</div>
+<div class="play-line" data-line-number="58">And in submission will attend on her.&mdash;</div>
+<div class="play-line" data-line-number="59">Will not your Honors bear me company?</div>
+<br>
 <speaker>BEDFORD</speaker>
-No, truly, &rsquo;tis more than manners will;
-And I have heard it said unbidden guests
-Are often welcomest when they are gone.
-
+<div class="play-line" data-line-number="60">No, truly, &rsquo;tis more than manners will;</div>
+<div class="play-line" data-line-number="61">And I have heard it said unbidden guests</div>
+<div class="play-line" data-line-number="62">Are often welcomest when they are gone.</div>
+<br>
 <speaker>TALBOT</speaker>
-Well then, alone, since there&rsquo;s no remedy,
-I mean to prove this lady&rsquo;s courtesy.&mdash;
-Come hither, captain.	[<i>Whispers.</i>]
-You perceive my mind?
-
+<div class="play-line" data-line-number="63">Well then, alone, since there&rsquo;s no remedy,</div>
+<div class="play-line" data-line-number="64">I mean to prove this lady&rsquo;s courtesy.&mdash;</div>
+<div class="play-line" data-line-number="65">Come hither, captain.	[<i>Whispers.</i>]</div>
+<div class="play-line" data-line-number="66">You perceive my mind?</div>
+<br>
 <speaker>CAPTAIN</speaker>
-I do, my lord, and mean accordingly.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="67">I do, my lord, and mean accordingly.</div>
+<div class="play-line" data-line-number="68">[<i>They exit.</i>]</div>
+<br>
 <b id="act-2-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Enter Countess of Auvergne, with Porter.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Countess of Auvergne, with Porter.</i>]</div>
+<br>
 <speaker>COUNTESS</speaker>
-Porter, remember what I gave in charge,
-And when you have done so, bring the keys to me.
-
+<div class="play-line" data-line-number="2">Porter, remember what I gave in charge,</div>
+<div class="play-line" data-line-number="3">And when you have done so, bring the keys to me.</div>
+<br>
 <speaker>PORTER</speaker>
-Madam, I will. [<i>He exits.</i>]
-
+<div class="play-line" data-line-number="4">Madam, I will. [<i>He exits.</i>]</div>
+<br>
 <speaker>COUNTESS</speaker>
-The plot is laid. If all things fall out right,
-I shall as famous be by this exploit
-As Scythian Tamyris by Cyrus&rsquo; death.
-Great is the rumor of this dreadful knight,
-And his achievements of no less account.
-Fain would mine eyes be witness with mine ears
-To give their censure of these rare reports.
-
-[<i>Enter Messenger and Talbot.</i>]
-
+<div class="play-line" data-line-number="5">The plot is laid. If all things fall out right,</div>
+<div class="play-line" data-line-number="6">I shall as famous be by this exploit</div>
+<div class="play-line" data-line-number="7">As Scythian Tamyris by Cyrus&rsquo; death.</div>
+<div class="play-line" data-line-number="8">Great is the rumor of this dreadful knight,</div>
+<div class="play-line" data-line-number="9">And his achievements of no less account.</div>
+<div class="play-line" data-line-number="10">Fain would mine eyes be witness with mine ears</div>
+<div class="play-line" data-line-number="11">To give their censure of these rare reports.</div>
+<br>
+<div class="play-line" data-line-number="12">[<i>Enter Messenger and Talbot.</i>]</div>
+<br>
 <speaker>MESSENGER</speaker>
-Madam, according as your Ladyship desired,
-By message craved, so is Lord Talbot come.
-
+<div class="play-line" data-line-number="13">Madam, according as your Ladyship desired,</div>
+<div class="play-line" data-line-number="14">By message craved, so is Lord Talbot come.</div>
+<br>
 <speaker>COUNTESS</speaker>
-And he is welcome. What, is this the man?
-
+<div class="play-line" data-line-number="15">And he is welcome. What, is this the man?</div>
+<br>
 <speaker>MESSENGER</speaker>
-Madam, it is.
-
+<div class="play-line" data-line-number="16">Madam, it is.</div>
+<br>
 <speaker>COUNTESS</speaker>
-Is this the scourge of France?
-Is this the Talbot, so much feared abroad
-That with his name the mothers still their babes?
-I see report is fabulous and false.
-I thought I should have seen some Hercules,
-A second Hector, for his grim aspect
-And large proportion of his strong-knit limbs.
-Alas, this is a child, a silly dwarf!
-It cannot be this weak and writhled shrimp
-Should strike such terror to his enemies.
-
+<div class="play-line" data-line-number="17">Is this the scourge of France?</div>
+<div class="play-line" data-line-number="18">Is this the Talbot, so much feared abroad</div>
+<div class="play-line" data-line-number="19">That with his name the mothers still their babes?</div>
+<div class="play-line" data-line-number="20">I see report is fabulous and false.</div>
+<div class="play-line" data-line-number="21">I thought I should have seen some Hercules,</div>
+<div class="play-line" data-line-number="22">A second Hector, for his grim aspect</div>
+<div class="play-line" data-line-number="23">And large proportion of his strong-knit limbs.</div>
+<div class="play-line" data-line-number="24">Alas, this is a child, a silly dwarf!</div>
+<div class="play-line" data-line-number="25">It cannot be this weak and writhled shrimp</div>
+<div class="play-line" data-line-number="26">Should strike such terror to his enemies.</div>
+<br>
 <speaker>TALBOT</speaker>
-Madam, I have been bold to trouble you.
-But since your Ladyship is not at leisure,
-I&rsquo;ll sort some other time to visit you.
-[<i>He begins to exit.</i>]
-
+<div class="play-line" data-line-number="27">Madam, I have been bold to trouble you.</div>
+<div class="play-line" data-line-number="28">But since your Ladyship is not at leisure,</div>
+<div class="play-line" data-line-number="29">I&rsquo;ll sort some other time to visit you.</div>
+<div class="play-line" data-line-number="30">[<i>He begins to exit.</i>]</div>
+<br>
 <speaker>COUNTESS</speaker>
-[<i>to Messenger</i>]
-What means he now? Go ask him whither he goes.
-
+<div class="play-line" data-line-number="31">[<i>to Messenger</i>]</div>
+<div class="play-line" data-line-number="32">What means he now? Go ask him whither he goes.</div>
+<br>
 <speaker>MESSENGER</speaker>
-Stay, my Lord Talbot, for my lady craves
-To know the cause of your abrupt departure.
-
+<div class="play-line" data-line-number="33">Stay, my Lord Talbot, for my lady craves</div>
+<div class="play-line" data-line-number="34">To know the cause of your abrupt departure.</div>
+<br>
 <speaker>TALBOT</speaker>
-Marry, for that she&rsquo;s in a wrong belief,
-I go to certify her Talbot&rsquo;s here.
-
-[<i>Enter Porter with keys.</i>]
-
+<div class="play-line" data-line-number="35">Marry, for that she&rsquo;s in a wrong belief,</div>
+<div class="play-line" data-line-number="36">I go to certify her Talbot&rsquo;s here.</div>
+<br>
+<div class="play-line" data-line-number="37">[<i>Enter Porter with keys.</i>]</div>
+<br>
 <speaker>COUNTESS</speaker>
-[<i>to Talbot</i>]
-If thou be he, then art thou prisoner.
-
+<div class="play-line" data-line-number="38">[<i>to Talbot</i>]</div>
+<div class="play-line" data-line-number="39">If thou be he, then art thou prisoner.</div>
+<br>
 <speaker>TALBOT</speaker>
-Prisoner? To whom?
-
+<div class="play-line" data-line-number="40">Prisoner? To whom?</div>
+<br>
 <speaker>COUNTESS</speaker>
-To me, bloodthirsty lord.
-And for that cause I trained thee to my house.
-Long time thy shadow hath been thrall to me,
-For in my gallery thy picture hangs.
-But now the substance shall endure the like,
-And I will chain these legs and arms of thine,
-That hast by tyranny these many years
-Wasted our country, slain our citizens,
-And sent our sons and husbands captivate.
-
+<div class="play-line" data-line-number="41">To me, bloodthirsty lord.</div>
+<div class="play-line" data-line-number="42">And for that cause I trained thee to my house.</div>
+<div class="play-line" data-line-number="43">Long time thy shadow hath been thrall to me,</div>
+<div class="play-line" data-line-number="44">For in my gallery thy picture hangs.</div>
+<div class="play-line" data-line-number="45">But now the substance shall endure the like,</div>
+<div class="play-line" data-line-number="46">And I will chain these legs and arms of thine,</div>
+<div class="play-line" data-line-number="47">That hast by tyranny these many years</div>
+<div class="play-line" data-line-number="48">Wasted our country, slain our citizens,</div>
+<div class="play-line" data-line-number="49">And sent our sons and husbands captivate.</div>
+<br>
 <speaker>TALBOT</speaker>
-Ha, ha, ha!
-
+<div class="play-line" data-line-number="50">Ha, ha, ha!</div>
+<br>
 <speaker>COUNTESS</speaker>
-Laughest thou, wretch? Thy mirth shall turn to moan.
-
+<div class="play-line" data-line-number="51">Laughest thou, wretch? Thy mirth shall turn to moan.</div>
+<br>
 <speaker>TALBOT</speaker>
-I laugh to see your Ladyship so fond
-To think that you have aught but Talbot&rsquo;s shadow
-Whereon to practice your severity.
-
+<div class="play-line" data-line-number="52">I laugh to see your Ladyship so fond</div>
+<div class="play-line" data-line-number="53">To think that you have aught but Talbot&rsquo;s shadow</div>
+<div class="play-line" data-line-number="54">Whereon to practice your severity.</div>
+<br>
 <speaker>COUNTESS</speaker>
-Why, art not thou the man?
-
+<div class="play-line" data-line-number="55">Why, art not thou the man?</div>
+<br>
 <speaker>TALBOT</speaker>
-I am, indeed.
-
+<div class="play-line" data-line-number="56">I am, indeed.</div>
+<br>
 <speaker>COUNTESS</speaker>
-Then have I substance too.
-
+<div class="play-line" data-line-number="57">Then have I substance too.</div>
+<br>
 <speaker>TALBOT</speaker>
-No, no, I am but shadow of myself.
-You are deceived; my substance is not here,
-For what you see is but the smallest part
-And least proportion of humanity.
-I tell you, madam, were the whole frame here,
-It is of such a spacious lofty pitch
-Your roof were not sufficient to contain &rsquo;t.
-
+<div class="play-line" data-line-number="58">No, no, I am but shadow of myself.</div>
+<div class="play-line" data-line-number="59">You are deceived; my substance is not here,</div>
+<div class="play-line" data-line-number="60">For what you see is but the smallest part</div>
+<div class="play-line" data-line-number="61">And least proportion of humanity.</div>
+<div class="play-line" data-line-number="62">I tell you, madam, were the whole frame here,</div>
+<div class="play-line" data-line-number="63">It is of such a spacious lofty pitch</div>
+<div class="play-line" data-line-number="64">Your roof were not sufficient to contain &rsquo;t.</div>
+<br>
 <speaker>COUNTESS</speaker>
-This is a riddling merchant for the nonce:
-He will be here and yet he is not here.
-How can these contrarieties agree?
-
+<div class="play-line" data-line-number="65">This is a riddling merchant for the nonce:</div>
+<div class="play-line" data-line-number="66">He will be here and yet he is not here.</div>
+<div class="play-line" data-line-number="67">How can these contrarieties agree?</div>
+<br>
 <speaker>TALBOT</speaker>
-That will I show you presently.
-[<i>Winds his horn. Drums strike up;
-a peal of ordnance.</i>]
-
-[<i>Enter Soldiers.</i>]
-
-How say you, madam? Are you now persuaded
-That Talbot is but shadow of himself?
-These are his substance, sinews, arms, and strength,
-With which he yoketh your rebellious necks,
-Razeth your cities, and subverts your towns,
-And in a moment makes them desolate.
-
+<div class="play-line" data-line-number="68">That will I show you presently.</div>
+<div class="play-line" data-line-number="69">[<i>Winds his horn. Drums strike up;</div>
+<div class="play-line" data-line-number="70">a peal of ordnance.</i>]</div>
+<br>
+<div class="play-line" data-line-number="71">[<i>Enter Soldiers.</i>]</div>
+<br>
+<div class="play-line" data-line-number="72">How say you, madam? Are you now persuaded</div>
+<div class="play-line" data-line-number="73">That Talbot is but shadow of himself?</div>
+<div class="play-line" data-line-number="74">These are his substance, sinews, arms, and strength,</div>
+<div class="play-line" data-line-number="75">With which he yoketh your rebellious necks,</div>
+<div class="play-line" data-line-number="76">Razeth your cities, and subverts your towns,</div>
+<div class="play-line" data-line-number="77">And in a moment makes them desolate.</div>
+<br>
 <speaker>COUNTESS</speaker>
-Victorious Talbot, pardon my abuse.
-I find thou art no less than fame hath bruited,
-And more than may be gathered by thy shape.
-Let my presumption not provoke thy wrath,
-For I am sorry that with reverence
-I did not entertain thee as thou art.
-
+<div class="play-line" data-line-number="78">Victorious Talbot, pardon my abuse.</div>
+<div class="play-line" data-line-number="79">I find thou art no less than fame hath bruited,</div>
+<div class="play-line" data-line-number="80">And more than may be gathered by thy shape.</div>
+<div class="play-line" data-line-number="81">Let my presumption not provoke thy wrath,</div>
+<div class="play-line" data-line-number="82">For I am sorry that with reverence</div>
+<div class="play-line" data-line-number="83">I did not entertain thee as thou art.</div>
+<br>
 <speaker>TALBOT</speaker>
-Be not dismayed, fair lady, nor misconster
-The mind of Talbot as you did mistake
-The outward composition of his body.
-What you have done hath not offended me,
-Nor other satisfaction do I crave
-But only, with your patience, that we may
-Taste of your wine and see what cates you have,
-For soldiers&rsquo; stomachs always serve them well.
-
+<div class="play-line" data-line-number="84">Be not dismayed, fair lady, nor misconster</div>
+<div class="play-line" data-line-number="85">The mind of Talbot as you did mistake</div>
+<div class="play-line" data-line-number="86">The outward composition of his body.</div>
+<div class="play-line" data-line-number="87">What you have done hath not offended me,</div>
+<div class="play-line" data-line-number="88">Nor other satisfaction do I crave</div>
+<div class="play-line" data-line-number="89">But only, with your patience, that we may</div>
+<div class="play-line" data-line-number="90">Taste of your wine and see what cates you have,</div>
+<div class="play-line" data-line-number="91">For soldiers&rsquo; stomachs always serve them well.</div>
+<br>
 <speaker>COUNTESS</speaker>
-With all my heart, and think me honored
-To feast so great a warrior in my house.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="92">With all my heart, and think me honored</div>
+<div class="play-line" data-line-number="93">To feast so great a warrior in my house.</div>
+<div class="play-line" data-line-number="94">[<i>They exit.</i>]</div>
+<br>
 <b id="act-2-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Enter Richard Plantagenet, Warwick, Somerset,
-William de la Pole the Earl of Suffolk,
-Vernon, a Lawyer, and Others.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Richard Plantagenet, Warwick, Somerset,</div>
+<div class="play-line" data-line-number="2">William de la Pole the Earl of Suffolk,</div>
+<div class="play-line" data-line-number="3">Vernon, a Lawyer, and Others.</i>]</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Great lords and gentlemen, what means this silence?
-Dare no man answer in a case of truth?
-
+<div class="play-line" data-line-number="4">Great lords and gentlemen, what means this silence?</div>
+<div class="play-line" data-line-number="5">Dare no man answer in a case of truth?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Within the Temple Hall we were too loud;
-The garden here is more convenient.
-
+<div class="play-line" data-line-number="6">Within the Temple Hall we were too loud;</div>
+<div class="play-line" data-line-number="7">The garden here is more convenient.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Then say at once if I maintained the truth,
-Or else was wrangling Somerset in th&rsquo; error?
-
+<div class="play-line" data-line-number="8">Then say at once if I maintained the truth,</div>
+<div class="play-line" data-line-number="9">Or else was wrangling Somerset in th&rsquo; error?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Faith, I have been a truant in the law
-And never yet could frame my will to it,
-And therefore frame the law unto my will.
-
+<div class="play-line" data-line-number="10">Faith, I have been a truant in the law</div>
+<div class="play-line" data-line-number="11">And never yet could frame my will to it,</div>
+<div class="play-line" data-line-number="12">And therefore frame the law unto my will.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Judge you, my Lord of Warwick, then, between us.
-
+<div class="play-line" data-line-number="13">Judge you, my Lord of Warwick, then, between us.</div>
+<br>
 <speaker>WARWICK</speaker>
-Between two hawks, which flies the higher pitch,
-Between two dogs, which hath the deeper mouth,
-Between two blades, which bears the better temper,
-Between two horses, which doth bear him best,
-Between two girls, which hath the merriest eye,
-I have perhaps some shallow spirit of judgment;
-But in these nice sharp quillets of the law,
-Good faith, I am no wiser than a daw.
-
+<div class="play-line" data-line-number="14">Between two hawks, which flies the higher pitch,</div>
+<div class="play-line" data-line-number="15">Between two dogs, which hath the deeper mouth,</div>
+<div class="play-line" data-line-number="16">Between two blades, which bears the better temper,</div>
+<div class="play-line" data-line-number="17">Between two horses, which doth bear him best,</div>
+<div class="play-line" data-line-number="18">Between two girls, which hath the merriest eye,</div>
+<div class="play-line" data-line-number="19">I have perhaps some shallow spirit of judgment;</div>
+<div class="play-line" data-line-number="20">But in these nice sharp quillets of the law,</div>
+<div class="play-line" data-line-number="21">Good faith, I am no wiser than a daw.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Tut, tut, here is a mannerly forbearance!
-The truth appears so naked on my side
-That any purblind eye may find it out.
-
+<div class="play-line" data-line-number="22">Tut, tut, here is a mannerly forbearance!</div>
+<div class="play-line" data-line-number="23">The truth appears so naked on my side</div>
+<div class="play-line" data-line-number="24">That any purblind eye may find it out.</div>
+<br>
 <speaker>SOMERSET</speaker>
-And on my side it is so well appareled,
-So clear, so shining, and so evident,
-That it will glimmer through a blind man&rsquo;s eye.
-
+<div class="play-line" data-line-number="25">And on my side it is so well appareled,</div>
+<div class="play-line" data-line-number="26">So clear, so shining, and so evident,</div>
+<div class="play-line" data-line-number="27">That it will glimmer through a blind man&rsquo;s eye.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Since you are tongue-tied and so loath to speak,
-In dumb significants proclaim your thoughts:
-Let him that is a trueborn gentleman
-And stands upon the honor of his birth,
-If he suppose that I have pleaded truth,
-From off this brier pluck a white rose with me.
-
+<div class="play-line" data-line-number="28">Since you are tongue-tied and so loath to speak,</div>
+<div class="play-line" data-line-number="29">In dumb significants proclaim your thoughts:</div>
+<div class="play-line" data-line-number="30">Let him that is a trueborn gentleman</div>
+<div class="play-line" data-line-number="31">And stands upon the honor of his birth,</div>
+<div class="play-line" data-line-number="32">If he suppose that I have pleaded truth,</div>
+<div class="play-line" data-line-number="33">From off this brier pluck a white rose with me.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Let him that is no coward nor no flatterer,
-But dare maintain the party of the truth,
-Pluck a red rose from off this thorn with me.
-
+<div class="play-line" data-line-number="34">Let him that is no coward nor no flatterer,</div>
+<div class="play-line" data-line-number="35">But dare maintain the party of the truth,</div>
+<div class="play-line" data-line-number="36">Pluck a red rose from off this thorn with me.</div>
+<br>
 <speaker>WARWICK</speaker>
-I love no colors; and, without all color
-Of base insinuating flattery,
-I pluck this white rose with Plantagenet.
-
+<div class="play-line" data-line-number="37">I love no colors; and, without all color</div>
+<div class="play-line" data-line-number="38">Of base insinuating flattery,</div>
+<div class="play-line" data-line-number="39">I pluck this white rose with Plantagenet.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-I pluck this red rose with young Somerset,
-And say withal I think he held the right.
-
+<div class="play-line" data-line-number="40">I pluck this red rose with young Somerset,</div>
+<div class="play-line" data-line-number="41">And say withal I think he held the right.</div>
+<br>
 <speaker>VERNON</speaker>
-Stay, lords and gentlemen, and pluck no more
-Till you conclude that he upon whose side
-The fewest roses are cropped from the tree
-Shall yield the other in the right opinion.
-
+<div class="play-line" data-line-number="42">Stay, lords and gentlemen, and pluck no more</div>
+<div class="play-line" data-line-number="43">Till you conclude that he upon whose side</div>
+<div class="play-line" data-line-number="44">The fewest roses are cropped from the tree</div>
+<div class="play-line" data-line-number="45">Shall yield the other in the right opinion.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Good Master Vernon, it is well objected:
-If I have fewest, I subscribe in silence.
-
+<div class="play-line" data-line-number="46">Good Master Vernon, it is well objected:</div>
+<div class="play-line" data-line-number="47">If I have fewest, I subscribe in silence.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-And I.
-
+<div class="play-line" data-line-number="48">And I.</div>
+<br>
 <speaker>VERNON</speaker>
-Then for the truth and plainness of the case,
-I pluck this pale and maiden blossom here,
-Giving my verdict on the white rose side.
-
+<div class="play-line" data-line-number="49">Then for the truth and plainness of the case,</div>
+<div class="play-line" data-line-number="50">I pluck this pale and maiden blossom here,</div>
+<div class="play-line" data-line-number="51">Giving my verdict on the white rose side.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Prick not your finger as you pluck it off,
-Lest, bleeding, you do paint the white rose red,
-And fall on my side so against your will.
-
+<div class="play-line" data-line-number="52">Prick not your finger as you pluck it off,</div>
+<div class="play-line" data-line-number="53">Lest, bleeding, you do paint the white rose red,</div>
+<div class="play-line" data-line-number="54">And fall on my side so against your will.</div>
+<br>
 <speaker>VERNON</speaker>
-If I, my lord, for my opinion bleed,
-Opinion shall be surgeon to my hurt
-And keep me on the side where still I am.
-
+<div class="play-line" data-line-number="55">If I, my lord, for my opinion bleed,</div>
+<div class="play-line" data-line-number="56">Opinion shall be surgeon to my hurt</div>
+<div class="play-line" data-line-number="57">And keep me on the side where still I am.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Well, well, come on, who else?
-
+<div class="play-line" data-line-number="58">Well, well, come on, who else?</div>
+<br>
 <speaker>LAWYER</speaker>
-Unless my study and my books be false,
-The argument you held was wrong in law,
-In sign whereof I pluck a white rose too.
-
+<div class="play-line" data-line-number="59">Unless my study and my books be false,</div>
+<div class="play-line" data-line-number="60">The argument you held was wrong in law,</div>
+<div class="play-line" data-line-number="61">In sign whereof I pluck a white rose too.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Now, Somerset, where is your argument?
-
+<div class="play-line" data-line-number="62">Now, Somerset, where is your argument?</div>
+<br>
 <speaker>SOMERSET</speaker>
-Here in my scabbard, meditating that
-Shall dye your white rose in a bloody red.
-
+<div class="play-line" data-line-number="63">Here in my scabbard, meditating that</div>
+<div class="play-line" data-line-number="64">Shall dye your white rose in a bloody red.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Meantime your cheeks do counterfeit our roses,
-For pale they look with fear, as witnessing
-The truth on our side.
-
+<div class="play-line" data-line-number="65">Meantime your cheeks do counterfeit our roses,</div>
+<div class="play-line" data-line-number="66">For pale they look with fear, as witnessing</div>
+<div class="play-line" data-line-number="67">The truth on our side.</div>
+<br>
 <speaker>SOMERSET</speaker>
-No, Plantagenet.
-&rsquo;Tis not for fear, but anger that thy cheeks
-Blush for pure shame to counterfeit our roses,
-And yet thy tongue will not confess thy error.
-
+<div class="play-line" data-line-number="68">No, Plantagenet.</div>
+<div class="play-line" data-line-number="69">&rsquo;Tis not for fear, but anger that thy cheeks</div>
+<div class="play-line" data-line-number="70">Blush for pure shame to counterfeit our roses,</div>
+<div class="play-line" data-line-number="71">And yet thy tongue will not confess thy error.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Hath not thy rose a canker, Somerset?
-
+<div class="play-line" data-line-number="72">Hath not thy rose a canker, Somerset?</div>
+<br>
 <speaker>SOMERSET</speaker>
-Hath not thy rose a thorn, Plantagenet?
-
+<div class="play-line" data-line-number="73">Hath not thy rose a thorn, Plantagenet?</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Ay, sharp and piercing, to maintain his truth,
-Whiles thy consuming canker eats his falsehood.
-
+<div class="play-line" data-line-number="74">Ay, sharp and piercing, to maintain his truth,</div>
+<div class="play-line" data-line-number="75">Whiles thy consuming canker eats his falsehood.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Well, I&rsquo;ll find friends to wear my bleeding roses
-That shall maintain what I have said is true,
-Where false Plantagenet dare not be seen.
-
+<div class="play-line" data-line-number="76">Well, I&rsquo;ll find friends to wear my bleeding roses</div>
+<div class="play-line" data-line-number="77">That shall maintain what I have said is true,</div>
+<div class="play-line" data-line-number="78">Where false Plantagenet dare not be seen.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Now, by this maiden blossom in my hand,
-I scorn thee and thy fashion, peevish boy.
-
+<div class="play-line" data-line-number="79">Now, by this maiden blossom in my hand,</div>
+<div class="play-line" data-line-number="80">I scorn thee and thy fashion, peevish boy.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Turn not thy scorns this way, Plantagenet.
-
+<div class="play-line" data-line-number="81">Turn not thy scorns this way, Plantagenet.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Proud Pole, I will, and scorn both him and thee.
-
+<div class="play-line" data-line-number="82">Proud Pole, I will, and scorn both him and thee.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-I&rsquo;ll turn my part thereof into thy throat.
-
+<div class="play-line" data-line-number="83">I&rsquo;ll turn my part thereof into thy throat.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Away, away, good William de la Pole!
-We grace the yeoman by conversing with him.
-
+<div class="play-line" data-line-number="84">Away, away, good William de la Pole!</div>
+<div class="play-line" data-line-number="85">We grace the yeoman by conversing with him.</div>
+<br>
 <speaker>WARWICK</speaker>
-Now, by God&rsquo;s will, thou wrong&rsquo;st him, Somerset.
-His grandfather was Lionel, Duke of Clarence,
-Third son to the third Edward, King of England.
-Spring crestless yeomen from so deep a root?
-
+<div class="play-line" data-line-number="86">Now, by God&rsquo;s will, thou wrong&rsquo;st him, Somerset.</div>
+<div class="play-line" data-line-number="87">His grandfather was Lionel, Duke of Clarence,</div>
+<div class="play-line" data-line-number="88">Third son to the third Edward, King of England.</div>
+<div class="play-line" data-line-number="89">Spring crestless yeomen from so deep a root?</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-He bears him on the place&rsquo;s privilege,
-Or durst not for his craven heart say thus.
-
+<div class="play-line" data-line-number="90">He bears him on the place&rsquo;s privilege,</div>
+<div class="play-line" data-line-number="91">Or durst not for his craven heart say thus.</div>
+<br>
 <speaker>SOMERSET</speaker>
-By Him that made me, I&rsquo;ll maintain my words
-On any plot of ground in Christendom.
-Was not thy father Richard, Earl of Cambridge,
-For treason executed in our late king&rsquo;s days?
-And, by his treason, stand&rsquo;st not thou attainted,
-Corrupted, and exempt from ancient gentry?
-His trespass yet lives guilty in thy blood,
-And, till thou be restored, thou art a yeoman.
-
+<div class="play-line" data-line-number="92">By Him that made me, I&rsquo;ll maintain my words</div>
+<div class="play-line" data-line-number="93">On any plot of ground in Christendom.</div>
+<div class="play-line" data-line-number="94">Was not thy father Richard, Earl of Cambridge,</div>
+<div class="play-line" data-line-number="95">For treason executed in our late king&rsquo;s days?</div>
+<div class="play-line" data-line-number="96">And, by his treason, stand&rsquo;st not thou attainted,</div>
+<div class="play-line" data-line-number="97">Corrupted, and exempt from ancient gentry?</div>
+<div class="play-line" data-line-number="98">His trespass yet lives guilty in thy blood,</div>
+<div class="play-line" data-line-number="99">And, till thou be restored, thou art a yeoman.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-My father was attached, not attainted,
-Condemned to die for treason, but no traitor;
-And that I&rsquo;ll prove on better men than Somerset,
-Were growing time once ripened to my will.
-For your partaker Pole and you yourself,
-I&rsquo;ll note you in my book of memory
-To scourge you for this apprehension.
-Look to it well, and say you are well warned.
-
+<div class="play-line" data-line-number="100">My father was attached, not attainted,</div>
+<div class="play-line" data-line-number="101">Condemned to die for treason, but no traitor;</div>
+<div class="play-line" data-line-number="102">And that I&rsquo;ll prove on better men than Somerset,</div>
+<div class="play-line" data-line-number="103">Were growing time once ripened to my will.</div>
+<div class="play-line" data-line-number="104">For your partaker Pole and you yourself,</div>
+<div class="play-line" data-line-number="105">I&rsquo;ll note you in my book of memory</div>
+<div class="play-line" data-line-number="106">To scourge you for this apprehension.</div>
+<div class="play-line" data-line-number="107">Look to it well, and say you are well warned.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Ah, thou shalt find us ready for thee still,
-And know us by these colors for thy foes,
-For these my friends in spite of thee shall wear.
-
+<div class="play-line" data-line-number="108">Ah, thou shalt find us ready for thee still,</div>
+<div class="play-line" data-line-number="109">And know us by these colors for thy foes,</div>
+<div class="play-line" data-line-number="110">For these my friends in spite of thee shall wear.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-And, by my soul, this pale and angry rose,
-As cognizance of my blood-drinking hate,
-Will I forever, and my faction, wear
-Until it wither with me to my grave
-Or flourish to the height of my degree.
-
+<div class="play-line" data-line-number="111">And, by my soul, this pale and angry rose,</div>
+<div class="play-line" data-line-number="112">As cognizance of my blood-drinking hate,</div>
+<div class="play-line" data-line-number="113">Will I forever, and my faction, wear</div>
+<div class="play-line" data-line-number="114">Until it wither with me to my grave</div>
+<div class="play-line" data-line-number="115">Or flourish to the height of my degree.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Go forward, and be choked with thy ambition!
-And so farewell, until I meet thee next.	[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="116">Go forward, and be choked with thy ambition!</div>
+<div class="play-line" data-line-number="117">And so farewell, until I meet thee next.	[<i>He exits.</i>]</div>
+<br>
 <speaker>SOMERSET</speaker>
-Have with thee, Pole.&mdash;Farewell, ambitious Richard.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="118">Have with thee, Pole.&mdash;Farewell, ambitious Richard.</div>
+<div class="play-line" data-line-number="119">[<i>He exits.</i>]</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-How I am braved, and must perforce endure it!
-
+<div class="play-line" data-line-number="120">How I am braved, and must perforce endure it!</div>
+<br>
 <speaker>WARWICK</speaker>
-This blot that they object against your house
-Shall be whipped out in the next parliament,
-Called for the truce of Winchester and Gloucester;
-And if thou be not then created York,
-I will not live to be accounted Warwick.
-Meantime, in signal of my love to thee,
-Against proud Somerset and William Pole
-Will I upon thy party wear this rose.
-And here I prophesy: this brawl today,
-Grown to this faction in the Temple garden,
-Shall send, between the red rose and the white,
-A thousand souls to death and deadly night.
-
+<div class="play-line" data-line-number="121">This blot that they object against your house</div>
+<div class="play-line" data-line-number="122">Shall be whipped out in the next parliament,</div>
+<div class="play-line" data-line-number="123">Called for the truce of Winchester and Gloucester;</div>
+<div class="play-line" data-line-number="124">And if thou be not then created York,</div>
+<div class="play-line" data-line-number="125">I will not live to be accounted Warwick.</div>
+<div class="play-line" data-line-number="126">Meantime, in signal of my love to thee,</div>
+<div class="play-line" data-line-number="127">Against proud Somerset and William Pole</div>
+<div class="play-line" data-line-number="128">Will I upon thy party wear this rose.</div>
+<div class="play-line" data-line-number="129">And here I prophesy: this brawl today,</div>
+<div class="play-line" data-line-number="130">Grown to this faction in the Temple garden,</div>
+<div class="play-line" data-line-number="131">Shall send, between the red rose and the white,</div>
+<div class="play-line" data-line-number="132">A thousand souls to death and deadly night.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Good Master Vernon, I am bound to you,
-That you on my behalf would pluck a flower.
-
+<div class="play-line" data-line-number="133">Good Master Vernon, I am bound to you,</div>
+<div class="play-line" data-line-number="134">That you on my behalf would pluck a flower.</div>
+<br>
 <speaker>VERNON</speaker>
-In your behalf still will I wear the same.
-
+<div class="play-line" data-line-number="135">In your behalf still will I wear the same.</div>
+<br>
 <speaker>LAWYER</speaker>
-And so will I.
-
+<div class="play-line" data-line-number="136">And so will I.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Thanks, gentle sir.
-Come, let us four to dinner. I dare say
-This quarrel will drink blood another day.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="137">Thanks, gentle sir.</div>
+<div class="play-line" data-line-number="138">Come, let us four to dinner. I dare say</div>
+<div class="play-line" data-line-number="139">This quarrel will drink blood another day.</div>
+<div class="play-line" data-line-number="140">[<i>They exit.</i>]</div>
+<br>
 <b id="act-2-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[<i>Enter Edmund Mortimer, brought in a chair,
-and Jailers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Edmund Mortimer, brought in a chair,</div>
+<div class="play-line" data-line-number="2">and Jailers.</i>]</div>
+<br>
 <speaker>MORTIMER</speaker>
-Kind keepers of my weak decaying age,
-Let dying Mortimer here rest himself.
-Even like a man new-haled from the rack,
-So fare my limbs with long imprisonment;
-And these gray locks, the pursuivants of death,
-Nestor-like aged in an age of care,
-Argue the end of Edmund Mortimer;
-These eyes, like lamps whose wasting oil is spent,
-Wax dim, as drawing to their exigent;
-Weak shoulders, overborne with burdening grief,
-And pithless arms, like to a withered vine
-That droops his sapless branches to the ground;
-Yet are these feet, whose strengthless stay is numb,
-Unable to support this lump of clay,
-Swift-winged with desire to get a grave,
-As witting I no other comfort have.
-But tell me, keeper, will my nephew come?
-
+<div class="play-line" data-line-number="3">Kind keepers of my weak decaying age,</div>
+<div class="play-line" data-line-number="4">Let dying Mortimer here rest himself.</div>
+<div class="play-line" data-line-number="5">Even like a man new-haled from the rack,</div>
+<div class="play-line" data-line-number="6">So fare my limbs with long imprisonment;</div>
+<div class="play-line" data-line-number="7">And these gray locks, the pursuivants of death,</div>
+<div class="play-line" data-line-number="8">Nestor-like aged in an age of care,</div>
+<div class="play-line" data-line-number="9">Argue the end of Edmund Mortimer;</div>
+<div class="play-line" data-line-number="10">These eyes, like lamps whose wasting oil is spent,</div>
+<div class="play-line" data-line-number="11">Wax dim, as drawing to their exigent;</div>
+<div class="play-line" data-line-number="12">Weak shoulders, overborne with burdening grief,</div>
+<div class="play-line" data-line-number="13">And pithless arms, like to a withered vine</div>
+<div class="play-line" data-line-number="14">That droops his sapless branches to the ground;</div>
+<div class="play-line" data-line-number="15">Yet are these feet, whose strengthless stay is numb,</div>
+<div class="play-line" data-line-number="16">Unable to support this lump of clay,</div>
+<div class="play-line" data-line-number="17">Swift-winged with desire to get a grave,</div>
+<div class="play-line" data-line-number="18">As witting I no other comfort have.</div>
+<div class="play-line" data-line-number="19">But tell me, keeper, will my nephew come?</div>
+<br>
 <speaker>KEEPER</speaker>
-Richard Plantagenet, my lord, will come.
-We sent unto the Temple, unto his chamber,
-And answer was returned that he will come.
-
+<div class="play-line" data-line-number="20">Richard Plantagenet, my lord, will come.</div>
+<div class="play-line" data-line-number="21">We sent unto the Temple, unto his chamber,</div>
+<div class="play-line" data-line-number="22">And answer was returned that he will come.</div>
+<br>
 <speaker>MORTIMER</speaker>
-Enough. My soul shall then be satisfied.
-Poor gentleman, his wrong doth equal mine.
-Since Henry Monmouth first began to reign,
-Before whose glory I was great in arms,
-This loathsome sequestration have I had;
-And even since then hath Richard been obscured,
-Deprived of honor and inheritance.
-But now the arbitrator of despairs,
-Just Death, kind umpire of men&rsquo;s miseries,
-With sweet enlargement doth dismiss me hence.
-I would his troubles likewise were expired,
-That so he might recover what was lost.
-
-[<i>Enter Richard Plantagenet.</i>]
-
+<div class="play-line" data-line-number="23">Enough. My soul shall then be satisfied.</div>
+<div class="play-line" data-line-number="24">Poor gentleman, his wrong doth equal mine.</div>
+<div class="play-line" data-line-number="25">Since Henry Monmouth first began to reign,</div>
+<div class="play-line" data-line-number="26">Before whose glory I was great in arms,</div>
+<div class="play-line" data-line-number="27">This loathsome sequestration have I had;</div>
+<div class="play-line" data-line-number="28">And even since then hath Richard been obscured,</div>
+<div class="play-line" data-line-number="29">Deprived of honor and inheritance.</div>
+<div class="play-line" data-line-number="30">But now the arbitrator of despairs,</div>
+<div class="play-line" data-line-number="31">Just Death, kind umpire of men&rsquo;s miseries,</div>
+<div class="play-line" data-line-number="32">With sweet enlargement doth dismiss me hence.</div>
+<div class="play-line" data-line-number="33">I would his troubles likewise were expired,</div>
+<div class="play-line" data-line-number="34">That so he might recover what was lost.</div>
+<br>
+<div class="play-line" data-line-number="35">[<i>Enter Richard Plantagenet.</i>]</div>
+<br>
 <speaker>KEEPER</speaker>
-My lord, your loving nephew now is come.
-
+<div class="play-line" data-line-number="36">My lord, your loving nephew now is come.</div>
+<br>
 <speaker>MORTIMER</speaker>
-Richard Plantagenet, my friend, is he come?
-
+<div class="play-line" data-line-number="37">Richard Plantagenet, my friend, is he come?</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Ay, noble uncle, thus ignobly used,
-Your nephew, late despised Richard, comes.
-
+<div class="play-line" data-line-number="38">Ay, noble uncle, thus ignobly used,</div>
+<div class="play-line" data-line-number="39">Your nephew, late despised Richard, comes.</div>
+<br>
 <speaker>MORTIMER</speaker>
-[<i>to Jailer</i>]
-Direct mine arms I may embrace his neck
-And in his bosom spend my latter gasp.
-O, tell me when my lips do touch his cheeks,
-That I may kindly give one fainting kiss.
-[<i>He embraces Richard.</i>]
-And now declare, sweet stem from York&rsquo;s great stock,
-Why didst thou say of late thou wert despised?
-
+<div class="play-line" data-line-number="40">[<i>to Jailer</i>]</div>
+<div class="play-line" data-line-number="41">Direct mine arms I may embrace his neck</div>
+<div class="play-line" data-line-number="42">And in his bosom spend my latter gasp.</div>
+<div class="play-line" data-line-number="43">O, tell me when my lips do touch his cheeks,</div>
+<div class="play-line" data-line-number="44">That I may kindly give one fainting kiss.</div>
+<div class="play-line" data-line-number="45">[<i>He embraces Richard.</i>]</div>
+<div class="play-line" data-line-number="46">And now declare, sweet stem from York&rsquo;s great stock,</div>
+<div class="play-line" data-line-number="47">Why didst thou say of late thou wert despised?</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-First, lean thine aged back against mine arm,
-And in that ease I&rsquo;ll tell thee my disease.
-This day, in argument upon a case,
-Some words there grew &rsquo;twixt Somerset and me,
-Among which terms he used his lavish tongue
-And did upbraid me with my father&rsquo;s death;
-Which obloquy set bars before my tongue,
-Else with the like I had requited him.
-Therefore, good uncle, for my father&rsquo;s sake,
-In honor of a true Plantagenet,
-And for alliance&rsquo; sake, declare the cause
-My father, Earl of Cambridge, lost his head.
-
+<div class="play-line" data-line-number="48">First, lean thine aged back against mine arm,</div>
+<div class="play-line" data-line-number="49">And in that ease I&rsquo;ll tell thee my disease.</div>
+<div class="play-line" data-line-number="50">This day, in argument upon a case,</div>
+<div class="play-line" data-line-number="51">Some words there grew &rsquo;twixt Somerset and me,</div>
+<div class="play-line" data-line-number="52">Among which terms he used his lavish tongue</div>
+<div class="play-line" data-line-number="53">And did upbraid me with my father&rsquo;s death;</div>
+<div class="play-line" data-line-number="54">Which obloquy set bars before my tongue,</div>
+<div class="play-line" data-line-number="55">Else with the like I had requited him.</div>
+<div class="play-line" data-line-number="56">Therefore, good uncle, for my father&rsquo;s sake,</div>
+<div class="play-line" data-line-number="57">In honor of a true Plantagenet,</div>
+<div class="play-line" data-line-number="58">And for alliance&rsquo; sake, declare the cause</div>
+<div class="play-line" data-line-number="59">My father, Earl of Cambridge, lost his head.</div>
+<br>
 <speaker>MORTIMER</speaker>
-That cause, fair nephew, that imprisoned me
-And hath detained me all my flow&rsquo;ring youth
-Within a loathsome dungeon, there to pine,
-Was cursed instrument of his decease.
-
+<div class="play-line" data-line-number="60">That cause, fair nephew, that imprisoned me</div>
+<div class="play-line" data-line-number="61">And hath detained me all my flow&rsquo;ring youth</div>
+<div class="play-line" data-line-number="62">Within a loathsome dungeon, there to pine,</div>
+<div class="play-line" data-line-number="63">Was cursed instrument of his decease.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Discover more at large what cause that was,
-For I am ignorant and cannot guess.
-
+<div class="play-line" data-line-number="64">Discover more at large what cause that was,</div>
+<div class="play-line" data-line-number="65">For I am ignorant and cannot guess.</div>
+<br>
 <speaker>MORTIMER</speaker>
-I will, if that my fading breath permit
-And death approach not ere my tale be done.
-Henry the Fourth, grandfather to this king,
-Deposed his nephew Richard, Edward&rsquo;s son,
-The first begotten and the lawful heir
-Of Edward king, the third of that descent;
-During whose reign the Percies of the north,
-Finding his usurpation most unjust,
-Endeavored my advancement to the throne.
-The reason moved these warlike lords to this
-Was, for that&mdash;young Richard thus removed,
-Leaving no heir begotten of his body&mdash;
-I was the next by birth and parentage;
-For by my mother I derived am
-From Lionel, Duke of Clarence, third son
-To King Edward the Third; whereas he
-From John of Gaunt doth bring his pedigree,
-Being but fourth of that heroic line.
-But mark: as in this haughty great attempt
-They labored to plant the rightful heir,
-I lost my liberty and they their lives.
-Long after this, when Henry the Fifth,
-Succeeding his father Bolingbroke, did reign,
-Thy father, Earl of Cambridge then, derived
-From famous Edmund Langley, Duke of York,
-Marrying my sister that thy mother was,
-Again, in pity of my hard distress,
-Levied an army, weening to redeem
-And have installed me in the diadem.
-But, as the rest, so fell that noble earl
-And was beheaded. Thus the Mortimers,
-In whom the title rested, were suppressed.
-
+<div class="play-line" data-line-number="66">I will, if that my fading breath permit</div>
+<div class="play-line" data-line-number="67">And death approach not ere my tale be done.</div>
+<div class="play-line" data-line-number="68">Henry the Fourth, grandfather to this king,</div>
+<div class="play-line" data-line-number="69">Deposed his nephew Richard, Edward&rsquo;s son,</div>
+<div class="play-line" data-line-number="70">The first begotten and the lawful heir</div>
+<div class="play-line" data-line-number="71">Of Edward king, the third of that descent;</div>
+<div class="play-line" data-line-number="72">During whose reign the Percies of the north,</div>
+<div class="play-line" data-line-number="73">Finding his usurpation most unjust,</div>
+<div class="play-line" data-line-number="74">Endeavored my advancement to the throne.</div>
+<div class="play-line" data-line-number="75">The reason moved these warlike lords to this</div>
+<div class="play-line" data-line-number="76">Was, for that&mdash;young Richard thus removed,</div>
+<div class="play-line" data-line-number="77">Leaving no heir begotten of his body&mdash;</div>
+<div class="play-line" data-line-number="78">I was the next by birth and parentage;</div>
+<div class="play-line" data-line-number="79">For by my mother I derived am</div>
+<div class="play-line" data-line-number="80">From Lionel, Duke of Clarence, third son</div>
+<div class="play-line" data-line-number="81">To King Edward the Third; whereas he</div>
+<div class="play-line" data-line-number="82">From John of Gaunt doth bring his pedigree,</div>
+<div class="play-line" data-line-number="83">Being but fourth of that heroic line.</div>
+<div class="play-line" data-line-number="84">But mark: as in this haughty great attempt</div>
+<div class="play-line" data-line-number="85">They labored to plant the rightful heir,</div>
+<div class="play-line" data-line-number="86">I lost my liberty and they their lives.</div>
+<div class="play-line" data-line-number="87">Long after this, when Henry the Fifth,</div>
+<div class="play-line" data-line-number="88">Succeeding his father Bolingbroke, did reign,</div>
+<div class="play-line" data-line-number="89">Thy father, Earl of Cambridge then, derived</div>
+<div class="play-line" data-line-number="90">From famous Edmund Langley, Duke of York,</div>
+<div class="play-line" data-line-number="91">Marrying my sister that thy mother was,</div>
+<div class="play-line" data-line-number="92">Again, in pity of my hard distress,</div>
+<div class="play-line" data-line-number="93">Levied an army, weening to redeem</div>
+<div class="play-line" data-line-number="94">And have installed me in the diadem.</div>
+<div class="play-line" data-line-number="95">But, as the rest, so fell that noble earl</div>
+<div class="play-line" data-line-number="96">And was beheaded. Thus the Mortimers,</div>
+<div class="play-line" data-line-number="97">In whom the title rested, were suppressed.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Of which, my lord, your Honor is the last.
-
+<div class="play-line" data-line-number="98">Of which, my lord, your Honor is the last.</div>
+<br>
 <speaker>MORTIMER</speaker>
-True, and thou seest that I no issue have
-And that my fainting words do warrant death.
-Thou art my heir; the rest I wish thee gather.
-But yet be wary in thy studious care.
-
+<div class="play-line" data-line-number="99">True, and thou seest that I no issue have</div>
+<div class="play-line" data-line-number="100">And that my fainting words do warrant death.</div>
+<div class="play-line" data-line-number="101">Thou art my heir; the rest I wish thee gather.</div>
+<div class="play-line" data-line-number="102">But yet be wary in thy studious care.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Thy grave admonishments prevail with me.
-But yet methinks my father&rsquo;s execution
-Was nothing less than bloody tyranny.
-
+<div class="play-line" data-line-number="103">Thy grave admonishments prevail with me.</div>
+<div class="play-line" data-line-number="104">But yet methinks my father&rsquo;s execution</div>
+<div class="play-line" data-line-number="105">Was nothing less than bloody tyranny.</div>
+<br>
 <speaker>MORTIMER</speaker>
-With silence, nephew, be thou politic;
-Strong-fixed is the house of Lancaster,
-And, like a mountain, not to be removed.
-But now thy uncle is removing hence,
-As princes do their courts when they are cloyed
-With long continuance in a settled place.
-
+<div class="play-line" data-line-number="106">With silence, nephew, be thou politic;</div>
+<div class="play-line" data-line-number="107">Strong-fixed is the house of Lancaster,</div>
+<div class="play-line" data-line-number="108">And, like a mountain, not to be removed.</div>
+<div class="play-line" data-line-number="109">But now thy uncle is removing hence,</div>
+<div class="play-line" data-line-number="110">As princes do their courts when they are cloyed</div>
+<div class="play-line" data-line-number="111">With long continuance in a settled place.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-O uncle, would some part of my young years
-Might but redeem the passage of your age.
-
+<div class="play-line" data-line-number="112">O uncle, would some part of my young years</div>
+<div class="play-line" data-line-number="113">Might but redeem the passage of your age.</div>
+<br>
 <speaker>MORTIMER</speaker>
-Thou dost then wrong me, as that slaughterer doth
-Which giveth many wounds when one will kill.
-Mourn not, except thou sorrow for my good;
-Only give order for my funeral.
-And so farewell, and fair be all thy hopes,
-And prosperous be thy life in peace and war.
-[<i>Dies.</i>]
-
+<div class="play-line" data-line-number="114">Thou dost then wrong me, as that slaughterer doth</div>
+<div class="play-line" data-line-number="115">Which giveth many wounds when one will kill.</div>
+<div class="play-line" data-line-number="116">Mourn not, except thou sorrow for my good;</div>
+<div class="play-line" data-line-number="117">Only give order for my funeral.</div>
+<div class="play-line" data-line-number="118">And so farewell, and fair be all thy hopes,</div>
+<div class="play-line" data-line-number="119">And prosperous be thy life in peace and war.</div>
+<div class="play-line" data-line-number="120">[<i>Dies.</i>]</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-And peace, no war, befall thy parting soul.
-In prison hast thou spent a pilgrimage,
-And like a hermit overpassed thy days.&mdash;
-Well, I will lock his counsel in my breast,
-And what I do imagine, let that rest.&mdash;
-Keepers, convey him hence, and I myself
-Will see his burial better than his life.
-[<i>Jailers exit carrying Mortimer&rsquo;s body.</i>]
-Here dies the dusky torch of Mortimer,
-Choked with ambition of the meaner sort.
-And for those wrongs, those bitter injuries,
-Which Somerset hath offered to my house,
-I doubt not but with honor to redress.
-And therefore haste I to the Parliament,
-Either to be restored to my blood,
-Or make mine ill th&rsquo; advantage of my good.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="121">And peace, no war, befall thy parting soul.</div>
+<div class="play-line" data-line-number="122">In prison hast thou spent a pilgrimage,</div>
+<div class="play-line" data-line-number="123">And like a hermit overpassed thy days.&mdash;</div>
+<div class="play-line" data-line-number="124">Well, I will lock his counsel in my breast,</div>
+<div class="play-line" data-line-number="125">And what I do imagine, let that rest.&mdash;</div>
+<div class="play-line" data-line-number="126">Keepers, convey him hence, and I myself</div>
+<div class="play-line" data-line-number="127">Will see his burial better than his life.</div>
+<div class="play-line" data-line-number="128">[<i>Jailers exit carrying Mortimer&rsquo;s body.</i>]</div>
+<div class="play-line" data-line-number="129">Here dies the dusky torch of Mortimer,</div>
+<div class="play-line" data-line-number="130">Choked with ambition of the meaner sort.</div>
+<div class="play-line" data-line-number="131">And for those wrongs, those bitter injuries,</div>
+<div class="play-line" data-line-number="132">Which Somerset hath offered to my house,</div>
+<div class="play-line" data-line-number="133">I doubt not but with honor to redress.</div>
+<div class="play-line" data-line-number="134">And therefore haste I to the Parliament,</div>
+<div class="play-line" data-line-number="135">Either to be restored to my blood,</div>
+<div class="play-line" data-line-number="136">Or make mine ill th&rsquo; advantage of my good.</div>
+<div class="play-line" data-line-number="137">[<i>He exits.</i>]</div>
+<br>
 <b id="act-3" class="act-header">Act 3</b>
+<br>
 <b id="act-3-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Flourish. Enter King Henry, Exeter, Gloucester, and
-Winchester; Richard Plantagenet and Warwick,
-with white roses; Somerset and Suffolk, with red
-roses; and Others. Gloucester offers to put up a bill.
-Winchester snatches it, tears it.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Flourish. Enter King Henry, Exeter, Gloucester, and</div>
+<div class="play-line" data-line-number="2">Winchester; Richard Plantagenet and Warwick,</div>
+<div class="play-line" data-line-number="3">with white roses; Somerset and Suffolk, with red</div>
+<div class="play-line" data-line-number="4">roses; and Others. Gloucester offers to put up a bill.</div>
+<div class="play-line" data-line-number="5">Winchester snatches it, tears it.</i>]</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Com&rsquo;st thou with deep premeditated lines,
-With written pamphlets studiously devised?
-Humphrey of Gloucester, if thou canst accuse
-Or aught intend&rsquo;st to lay unto my charge,
-Do it without invention, suddenly,
-As I with sudden and extemporal speech
-Purpose to answer what thou canst object.
-
+<div class="play-line" data-line-number="6">Com&rsquo;st thou with deep premeditated lines,</div>
+<div class="play-line" data-line-number="7">With written pamphlets studiously devised?</div>
+<div class="play-line" data-line-number="8">Humphrey of Gloucester, if thou canst accuse</div>
+<div class="play-line" data-line-number="9">Or aught intend&rsquo;st to lay unto my charge,</div>
+<div class="play-line" data-line-number="10">Do it without invention, suddenly,</div>
+<div class="play-line" data-line-number="11">As I with sudden and extemporal speech</div>
+<div class="play-line" data-line-number="12">Purpose to answer what thou canst object.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Presumptuous priest, this place commands my
-patience,
-Or thou shouldst find thou hast dishonored me.
-Think not, although in writing I preferred
-The manner of thy vile outrageous crimes,
-That therefore I have forged or am not able
-Verbatim to rehearse the method of my pen.
-No, prelate, such is thy audacious wickedness,
-Thy lewd, pestiferous, and dissentious pranks,
-As very infants prattle of thy pride.
-Thou art a most pernicious usurer,
-Froward by nature, enemy to peace,
-Lascivious, wanton, more than well beseems
-A man of thy profession and degree.
-And for thy treachery, what&rsquo;s more manifest,
-In that thou laid&rsquo;st a trap to take my life
-As well at London Bridge as at the Tower?
-Besides, I fear me, if thy thoughts were sifted,
-The King, thy sovereign, is not quite exempt
-From envious malice of thy swelling heart.
-
+<div class="play-line" data-line-number="13">Presumptuous priest, this place commands my</div>
+<div class="play-line" data-line-number="14">patience,</div>
+<div class="play-line" data-line-number="15">Or thou shouldst find thou hast dishonored me.</div>
+<div class="play-line" data-line-number="16">Think not, although in writing I preferred</div>
+<div class="play-line" data-line-number="17">The manner of thy vile outrageous crimes,</div>
+<div class="play-line" data-line-number="18">That therefore I have forged or am not able</div>
+<div class="play-line" data-line-number="19">Verbatim to rehearse the method of my pen.</div>
+<div class="play-line" data-line-number="20">No, prelate, such is thy audacious wickedness,</div>
+<div class="play-line" data-line-number="21">Thy lewd, pestiferous, and dissentious pranks,</div>
+<div class="play-line" data-line-number="22">As very infants prattle of thy pride.</div>
+<div class="play-line" data-line-number="23">Thou art a most pernicious usurer,</div>
+<div class="play-line" data-line-number="24">Froward by nature, enemy to peace,</div>
+<div class="play-line" data-line-number="25">Lascivious, wanton, more than well beseems</div>
+<div class="play-line" data-line-number="26">A man of thy profession and degree.</div>
+<div class="play-line" data-line-number="27">And for thy treachery, what&rsquo;s more manifest,</div>
+<div class="play-line" data-line-number="28">In that thou laid&rsquo;st a trap to take my life</div>
+<div class="play-line" data-line-number="29">As well at London Bridge as at the Tower?</div>
+<div class="play-line" data-line-number="30">Besides, I fear me, if thy thoughts were sifted,</div>
+<div class="play-line" data-line-number="31">The King, thy sovereign, is not quite exempt</div>
+<div class="play-line" data-line-number="32">From envious malice of thy swelling heart.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Gloucester, I do defy thee.&mdash;Lords, vouchsafe
-To give me hearing what I shall reply.
-If I were covetous, ambitious, or perverse,
-As he will have me, how am I so poor?
-Or how haps it I seek not to advance
-Or raise myself, but keep my wonted calling?
-And for dissension, who preferreth peace
-More than I do, except I be provoked?
-No, my good lords, it is not that offends;
-It is not that that hath incensed the Duke.
-It is because no one should sway but he,
-No one but he should be about the King;
-And that engenders thunder in his breast
-And makes him roar these accusations forth.
-But he shall know I am as good&mdash;
-
+<div class="play-line" data-line-number="33">Gloucester, I do defy thee.&mdash;Lords, vouchsafe</div>
+<div class="play-line" data-line-number="34">To give me hearing what I shall reply.</div>
+<div class="play-line" data-line-number="35">If I were covetous, ambitious, or perverse,</div>
+<div class="play-line" data-line-number="36">As he will have me, how am I so poor?</div>
+<div class="play-line" data-line-number="37">Or how haps it I seek not to advance</div>
+<div class="play-line" data-line-number="38">Or raise myself, but keep my wonted calling?</div>
+<div class="play-line" data-line-number="39">And for dissension, who preferreth peace</div>
+<div class="play-line" data-line-number="40">More than I do, except I be provoked?</div>
+<div class="play-line" data-line-number="41">No, my good lords, it is not that offends;</div>
+<div class="play-line" data-line-number="42">It is not that that hath incensed the Duke.</div>
+<div class="play-line" data-line-number="43">It is because no one should sway but he,</div>
+<div class="play-line" data-line-number="44">No one but he should be about the King;</div>
+<div class="play-line" data-line-number="45">And that engenders thunder in his breast</div>
+<div class="play-line" data-line-number="46">And makes him roar these accusations forth.</div>
+<div class="play-line" data-line-number="47">But he shall know I am as good&mdash;</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-As good!
-Thou bastard of my grandfather!
-
+<div class="play-line" data-line-number="48">As good!</div>
+<div class="play-line" data-line-number="49">Thou bastard of my grandfather!</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Ay, lordly sir; for what are you, I pray,
-But one imperious in another&rsquo;s throne?
-
+<div class="play-line" data-line-number="50">Ay, lordly sir; for what are you, I pray,</div>
+<div class="play-line" data-line-number="51">But one imperious in another&rsquo;s throne?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Am I not Protector, saucy priest?
-
+<div class="play-line" data-line-number="52">Am I not Protector, saucy priest?</div>
+<br>
 <speaker>WINCHESTER</speaker>
-And am not I a prelate of the Church?
-
+<div class="play-line" data-line-number="53">And am not I a prelate of the Church?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Yes, as an outlaw in a castle keeps,
-And useth it to patronage his theft.
-
+<div class="play-line" data-line-number="54">Yes, as an outlaw in a castle keeps,</div>
+<div class="play-line" data-line-number="55">And useth it to patronage his theft.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Unreverent Gloucester!
-
+<div class="play-line" data-line-number="56">Unreverent Gloucester!</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Thou art reverend
-Touching thy spiritual function, not thy life.
-
+<div class="play-line" data-line-number="57">Thou art reverend</div>
+<div class="play-line" data-line-number="58">Touching thy spiritual function, not thy life.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Rome shall remedy this.
-
+<div class="play-line" data-line-number="59">Rome shall remedy this.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Roam thither then.
-
+<div class="play-line" data-line-number="60">Roam thither then.</div>
+<br>
 <speaker>WARWICK</speaker>
-[<i>to Winchester</i>]
-My lord, it were your duty to forbear.
-
+<div class="play-line" data-line-number="61">[<i>to Winchester</i>]</div>
+<div class="play-line" data-line-number="62">My lord, it were your duty to forbear.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Ay, so the Bishop be not overborne.
-Methinks my lord should be religious,
-And know the office that belongs to such.
-
+<div class="play-line" data-line-number="63">Ay, so the Bishop be not overborne.</div>
+<div class="play-line" data-line-number="64">Methinks my lord should be religious,</div>
+<div class="play-line" data-line-number="65">And know the office that belongs to such.</div>
+<br>
 <speaker>WARWICK</speaker>
-Methinks his Lordship should be humbler.
-It fitteth not a prelate so to plead.
-
+<div class="play-line" data-line-number="66">Methinks his Lordship should be humbler.</div>
+<div class="play-line" data-line-number="67">It fitteth not a prelate so to plead.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Yes, when his holy state is touched so near.
-
+<div class="play-line" data-line-number="68">Yes, when his holy state is touched so near.</div>
+<br>
 <speaker>WARWICK</speaker>
-State holy, or unhallowed, what of that?
-Is not his Grace Protector to the King?
-
+<div class="play-line" data-line-number="69">State holy, or unhallowed, what of that?</div>
+<div class="play-line" data-line-number="70">Is not his Grace Protector to the King?</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-[<i>aside</i>]
-Plantagenet, I see, must hold his tongue,
-Lest it be said &ldquo;Speak, sirrah, when you should;
-Must your bold verdict enter talk with lords?&rdquo;
-Else would I have a fling at Winchester.
-
+<div class="play-line" data-line-number="71">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="72">Plantagenet, I see, must hold his tongue,</div>
+<div class="play-line" data-line-number="73">Lest it be said &ldquo;Speak, sirrah, when you should;</div>
+<div class="play-line" data-line-number="74">Must your bold verdict enter talk with lords?&rdquo;</div>
+<div class="play-line" data-line-number="75">Else would I have a fling at Winchester.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Uncles of Gloucester and of Winchester,
-The special watchmen of our English weal,
-I would prevail, if prayers might prevail,
-To join your hearts in love and amity.
-O, what a scandal is it to our crown
-That two such noble peers as you should jar!
-Believe me, lords, my tender years can tell
-Civil dissension is a viperous worm
-That gnaws the bowels of the commonwealth.
-
-[<i>A noise within: &ldquo;Down with the tawny coats!&rdquo;</i>]
-What tumult &rsquo;s this?
-
+<div class="play-line" data-line-number="76">Uncles of Gloucester and of Winchester,</div>
+<div class="play-line" data-line-number="77">The special watchmen of our English weal,</div>
+<div class="play-line" data-line-number="78">I would prevail, if prayers might prevail,</div>
+<div class="play-line" data-line-number="79">To join your hearts in love and amity.</div>
+<div class="play-line" data-line-number="80">O, what a scandal is it to our crown</div>
+<div class="play-line" data-line-number="81">That two such noble peers as you should jar!</div>
+<div class="play-line" data-line-number="82">Believe me, lords, my tender years can tell</div>
+<div class="play-line" data-line-number="83">Civil dissension is a viperous worm</div>
+<div class="play-line" data-line-number="84">That gnaws the bowels of the commonwealth.</div>
+<br>
+<div class="play-line" data-line-number="85">[<i>A noise within: &ldquo;Down with the tawny coats!&rdquo;</i>]</div>
+<div class="play-line" data-line-number="86">What tumult &rsquo;s this?</div>
+<br>
 <speaker>WARWICK</speaker>
-An uproar, I dare warrant,
-Begun through malice of the Bishop&rsquo;s men.
-[<i>A noise again: &ldquo;Stones! Stones!&rdquo;</i>]
-
-[<i>Enter Mayor.</i>]
-
+<div class="play-line" data-line-number="87">An uproar, I dare warrant,</div>
+<div class="play-line" data-line-number="88">Begun through malice of the Bishop&rsquo;s men.</div>
+<div class="play-line" data-line-number="89">[<i>A noise again: &ldquo;Stones! Stones!&rdquo;</i>]</div>
+<br>
+<div class="play-line" data-line-number="90">[<i>Enter Mayor.</i>]</div>
+<br>
 <speaker>MAYOR</speaker>
-O, my good lords, and virtuous Henry,
-Pity the city of London, pity us!
-The Bishop and the Duke of Gloucester&rsquo;s men,
-Forbidden late to carry any weapon,
-Have filled their pockets full of pebble stones
-And, banding themselves in contrary parts,
-Do pelt so fast at one another&rsquo;s pate
-That many have their giddy brains knocked out;
-Our windows are broke down in every street,
-And we, for fear, compelled to shut our shops.
-
-[<i>Enter Servingmen in skirmish with bloody pates.</i>]
-
+<div class="play-line" data-line-number="91">O, my good lords, and virtuous Henry,</div>
+<div class="play-line" data-line-number="92">Pity the city of London, pity us!</div>
+<div class="play-line" data-line-number="93">The Bishop and the Duke of Gloucester&rsquo;s men,</div>
+<div class="play-line" data-line-number="94">Forbidden late to carry any weapon,</div>
+<div class="play-line" data-line-number="95">Have filled their pockets full of pebble stones</div>
+<div class="play-line" data-line-number="96">And, banding themselves in contrary parts,</div>
+<div class="play-line" data-line-number="97">Do pelt so fast at one another&rsquo;s pate</div>
+<div class="play-line" data-line-number="98">That many have their giddy brains knocked out;</div>
+<div class="play-line" data-line-number="99">Our windows are broke down in every street,</div>
+<div class="play-line" data-line-number="100">And we, for fear, compelled to shut our shops.</div>
+<br>
+<div class="play-line" data-line-number="101">[<i>Enter Servingmen in skirmish with bloody pates.</i>]</div>
+<br>
 <speaker>KING HENRY</speaker>
-We charge you, on allegiance to ourself,
-To hold your slaught&rsquo;ring hands and keep the peace.&mdash;
-Pray, Uncle Gloucester, mitigate this strife.
-
+<div class="play-line" data-line-number="102">We charge you, on allegiance to ourself,</div>
+<div class="play-line" data-line-number="103">To hold your slaught&rsquo;ring hands and keep the peace.&mdash;</div>
+<div class="play-line" data-line-number="104">Pray, Uncle Gloucester, mitigate this strife.</div>
+<br>
 <speaker>FIRST SERVINGMAN</speaker>
-Nay, if we be forbidden stones, we&rsquo;ll
-fall to it with our teeth.
-
+<div class="play-line" data-line-number="105">Nay, if we be forbidden stones, we&rsquo;ll</div>
+<div class="play-line" data-line-number="106">fall to it with our teeth.</div>
+<br>
 <speaker>SECOND SERVINGMAN</speaker>
-Do what you dare, we are as
-resolute.	[<i>Skirmish again.</i>]
-
+<div class="play-line" data-line-number="107">Do what you dare, we are as</div>
+<div class="play-line" data-line-number="108">resolute.	[<i>Skirmish again.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-You of my household, leave this peevish broil,
-And set this unaccustomed fight aside.
-
+<div class="play-line" data-line-number="109">You of my household, leave this peevish broil,</div>
+<div class="play-line" data-line-number="110">And set this unaccustomed fight aside.</div>
+<br>
 <speaker>THIRD SERVINGMAN</speaker>
-My lord, we know your Grace to be a man
-Just and upright, and, for your royal birth,
-Inferior to none but to his Majesty;
-And ere that we will suffer such a prince,
-So kind a father of the commonweal,
-To be disgraced by an inkhorn mate,
-We and our wives and children all will fight
-And have our bodies slaughtered by thy foes.
-
+<div class="play-line" data-line-number="111">My lord, we know your Grace to be a man</div>
+<div class="play-line" data-line-number="112">Just and upright, and, for your royal birth,</div>
+<div class="play-line" data-line-number="113">Inferior to none but to his Majesty;</div>
+<div class="play-line" data-line-number="114">And ere that we will suffer such a prince,</div>
+<div class="play-line" data-line-number="115">So kind a father of the commonweal,</div>
+<div class="play-line" data-line-number="116">To be disgraced by an inkhorn mate,</div>
+<div class="play-line" data-line-number="117">We and our wives and children all will fight</div>
+<div class="play-line" data-line-number="118">And have our bodies slaughtered by thy foes.</div>
+<br>
 <speaker>FIRST SERVINGMAN</speaker>
-Ay, and the very parings of our nails
-Shall pitch a field when we are dead.
-[<i>Begin again.</i>]
-
+<div class="play-line" data-line-number="119">Ay, and the very parings of our nails</div>
+<div class="play-line" data-line-number="120">Shall pitch a field when we are dead.</div>
+<div class="play-line" data-line-number="121">[<i>Begin again.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Stay, stay, I say!
-And if you love me, as you say you do,
-Let me persuade you to forbear awhile.
-
+<div class="play-line" data-line-number="122">Stay, stay, I say!</div>
+<div class="play-line" data-line-number="123">And if you love me, as you say you do,</div>
+<div class="play-line" data-line-number="124">Let me persuade you to forbear awhile.</div>
+<br>
 <speaker>KING HENRY</speaker>
-O, how this discord doth afflict my soul!
-Can you, my Lord of Winchester, behold
-My sighs and tears, and will not once relent?
-Who should be pitiful if you be not?
-Or who should study to prefer a peace
-If holy churchmen take delight in broils?
-
+<div class="play-line" data-line-number="125">O, how this discord doth afflict my soul!</div>
+<div class="play-line" data-line-number="126">Can you, my Lord of Winchester, behold</div>
+<div class="play-line" data-line-number="127">My sighs and tears, and will not once relent?</div>
+<div class="play-line" data-line-number="128">Who should be pitiful if you be not?</div>
+<div class="play-line" data-line-number="129">Or who should study to prefer a peace</div>
+<div class="play-line" data-line-number="130">If holy churchmen take delight in broils?</div>
+<br>
 <speaker>WARWICK</speaker>
-Yield, my Lord Protector&mdash;yield, Winchester&mdash;
-Except you mean with obstinate repulse
-To slay your sovereign and destroy the realm.
-You see what mischief, and what murder too,
-Hath been enacted through your enmity.
-Then be at peace, except you thirst for blood.
-
+<div class="play-line" data-line-number="131">Yield, my Lord Protector&mdash;yield, Winchester&mdash;</div>
+<div class="play-line" data-line-number="132">Except you mean with obstinate repulse</div>
+<div class="play-line" data-line-number="133">To slay your sovereign and destroy the realm.</div>
+<div class="play-line" data-line-number="134">You see what mischief, and what murder too,</div>
+<div class="play-line" data-line-number="135">Hath been enacted through your enmity.</div>
+<div class="play-line" data-line-number="136">Then be at peace, except you thirst for blood.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-He shall submit, or I will never yield.
-
+<div class="play-line" data-line-number="137">He shall submit, or I will never yield.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Compassion on the King commands me stoop,
-Or I would see his heart out ere the priest
-Should ever get that privilege of me.
-
+<div class="play-line" data-line-number="138">Compassion on the King commands me stoop,</div>
+<div class="play-line" data-line-number="139">Or I would see his heart out ere the priest</div>
+<div class="play-line" data-line-number="140">Should ever get that privilege of me.</div>
+<br>
 <speaker>WARWICK</speaker>
-Behold, my Lord of Winchester, the Duke
-Hath banished moody discontented fury,
-As by his smoothed brows it doth appear.
-Why look you still so stern and tragical?
-
+<div class="play-line" data-line-number="141">Behold, my Lord of Winchester, the Duke</div>
+<div class="play-line" data-line-number="142">Hath banished moody discontented fury,</div>
+<div class="play-line" data-line-number="143">As by his smoothed brows it doth appear.</div>
+<div class="play-line" data-line-number="144">Why look you still so stern and tragical?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Here, Winchester, I offer thee my hand.
-[<i>Winchester refuses Gloucester&rsquo;s hand.</i>]
-
+<div class="play-line" data-line-number="145">Here, Winchester, I offer thee my hand.</div>
+<div class="play-line" data-line-number="146">[<i>Winchester refuses Gloucester&rsquo;s hand.</i>]</div>
+<br>
 <speaker>KING HENRY</speaker>
-Fie, Uncle Beaufort! I have heard you preach
-That malice was a great and grievous sin;
-And will not you maintain the thing you teach,
-But prove a chief offender in the same?
-
+<div class="play-line" data-line-number="147">Fie, Uncle Beaufort! I have heard you preach</div>
+<div class="play-line" data-line-number="148">That malice was a great and grievous sin;</div>
+<div class="play-line" data-line-number="149">And will not you maintain the thing you teach,</div>
+<div class="play-line" data-line-number="150">But prove a chief offender in the same?</div>
+<br>
 <speaker>WARWICK</speaker>
-Sweet king! The Bishop hath a kindly gird.&mdash;
-For shame, my Lord of Winchester, relent;
-What, shall a child instruct you what to do?
-
+<div class="play-line" data-line-number="151">Sweet king! The Bishop hath a kindly gird.&mdash;</div>
+<div class="play-line" data-line-number="152">For shame, my Lord of Winchester, relent;</div>
+<div class="play-line" data-line-number="153">What, shall a child instruct you what to do?</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Well, Duke of Gloucester, I will yield to thee;
-Love for thy love and hand for hand I give.
-[<i>They take each other&rsquo;s hand.</i>]
-
+<div class="play-line" data-line-number="154">Well, Duke of Gloucester, I will yield to thee;</div>
+<div class="play-line" data-line-number="155">Love for thy love and hand for hand I give.</div>
+<div class="play-line" data-line-number="156">[<i>They take each other&rsquo;s hand.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-[<i>aside</i>]
-Ay, but I fear me with a hollow heart.&mdash;
-See here, my friends and loving countrymen,
-This token serveth for a flag of truce
-Betwixt ourselves and all our followers,
-So help me God, as I dissemble not.
-
+<div class="play-line" data-line-number="157">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="158">Ay, but I fear me with a hollow heart.&mdash;</div>
+<div class="play-line" data-line-number="159">See here, my friends and loving countrymen,</div>
+<div class="play-line" data-line-number="160">This token serveth for a flag of truce</div>
+<div class="play-line" data-line-number="161">Betwixt ourselves and all our followers,</div>
+<div class="play-line" data-line-number="162">So help me God, as I dissemble not.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-[<i>aside</i>]
-So help me God, as I intend it not.
-
+<div class="play-line" data-line-number="163">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="164">So help me God, as I intend it not.</div>
+<br>
 <speaker>KING HENRY</speaker>
-O, loving uncle&mdash;kind Duke of Gloucester&mdash;
-How joyful am I made by this contract.
-[<i>To the Servingmen.</i>]
- Away, my masters, trouble us
-no more,
-But join in friendship as your lords have done.
-
+<div class="play-line" data-line-number="165">O, loving uncle&mdash;kind Duke of Gloucester&mdash;</div>
+<div class="play-line" data-line-number="166">How joyful am I made by this contract.</div>
+<div class="play-line" data-line-number="167">[<i>To the Servingmen.</i>]</div>
+<div class="play-line" data-line-number="168"> Away, my masters, trouble us</div>
+<div class="play-line" data-line-number="169">no more,</div>
+<div class="play-line" data-line-number="170">But join in friendship as your lords have done.</div>
+<br>
 <speaker>FIRST SERVINGMAN</speaker>
-Content. I&rsquo;ll to the surgeon&rsquo;s.
-
+<div class="play-line" data-line-number="171">Content. I&rsquo;ll to the surgeon&rsquo;s.</div>
+<br>
 <speaker>SECOND SERVINGMAN</speaker>
-And so will I.
-
+<div class="play-line" data-line-number="172">And so will I.</div>
+<br>
 <speaker>THIRD SERVINGMAN</speaker>
-And I will see what physic the tavern
-affords.
-[<i>They exit with Mayor and Others.</i>]
-
+<div class="play-line" data-line-number="173">And I will see what physic the tavern</div>
+<div class="play-line" data-line-number="174">affords.</div>
+<div class="play-line" data-line-number="175">[<i>They exit with Mayor and Others.</i>]</div>
+<br>
 <speaker>WARWICK</speaker>
-[<i>presenting a scroll</i>]
-Accept this scroll, most gracious sovereign,
-Which in the right of Richard Plantagenet
-We do exhibit to your Majesty.
-
+<div class="play-line" data-line-number="176">[<i>presenting a scroll</i>]</div>
+<div class="play-line" data-line-number="177">Accept this scroll, most gracious sovereign,</div>
+<div class="play-line" data-line-number="178">Which in the right of Richard Plantagenet</div>
+<div class="play-line" data-line-number="179">We do exhibit to your Majesty.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Well urged, my Lord of Warwick.&mdash;For, sweet prince,
-An if your Grace mark every circumstance,
-You have great reason to do Richard right,
-Especially for those occasions
-At Eltham Place I told your Majesty.
-
+<div class="play-line" data-line-number="180">Well urged, my Lord of Warwick.&mdash;For, sweet prince,</div>
+<div class="play-line" data-line-number="181">An if your Grace mark every circumstance,</div>
+<div class="play-line" data-line-number="182">You have great reason to do Richard right,</div>
+<div class="play-line" data-line-number="183">Especially for those occasions</div>
+<div class="play-line" data-line-number="184">At Eltham Place I told your Majesty.</div>
+<br>
 <speaker>KING HENRY</speaker>
-And those occasions, uncle, were of force.&mdash;
-Therefore, my loving lords, our pleasure is
-That Richard be restored to his blood.
-
+<div class="play-line" data-line-number="185">And those occasions, uncle, were of force.&mdash;</div>
+<div class="play-line" data-line-number="186">Therefore, my loving lords, our pleasure is</div>
+<div class="play-line" data-line-number="187">That Richard be restored to his blood.</div>
+<br>
 <speaker>WARWICK</speaker>
-Let Richard be restored to his blood;
-So shall his father&rsquo;s wrongs be recompensed.
-
+<div class="play-line" data-line-number="188">Let Richard be restored to his blood;</div>
+<div class="play-line" data-line-number="189">So shall his father&rsquo;s wrongs be recompensed.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-As will the rest, so willeth Winchester.
-
+<div class="play-line" data-line-number="190">As will the rest, so willeth Winchester.</div>
+<br>
 <speaker>KING HENRY</speaker>
-If Richard will be true, not that alone
-But all the whole inheritance I give
-That doth belong unto the house of York,
-From whence you spring by lineal descent.
-
+<div class="play-line" data-line-number="191">If Richard will be true, not that alone</div>
+<div class="play-line" data-line-number="192">But all the whole inheritance I give</div>
+<div class="play-line" data-line-number="193">That doth belong unto the house of York,</div>
+<div class="play-line" data-line-number="194">From whence you spring by lineal descent.</div>
+<br>
 <speaker>PLANTAGENET</speaker>
-Thy humble servant vows obedience
-And humble service till the point of death.
-
+<div class="play-line" data-line-number="195">Thy humble servant vows obedience</div>
+<div class="play-line" data-line-number="196">And humble service till the point of death.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Stoop then, and set your knee against my foot;
-[<i>Plantagenet kneels.</i>]
-And in reguerdon of that duty done
-I girt thee with the valiant sword of York.
-Rise, Richard, like a true Plantagenet,
-And rise created princely Duke of York.
-
+<div class="play-line" data-line-number="197">Stoop then, and set your knee against my foot;</div>
+<div class="play-line" data-line-number="198">[<i>Plantagenet kneels.</i>]</div>
+<div class="play-line" data-line-number="199">And in reguerdon of that duty done</div>
+<div class="play-line" data-line-number="200">I girt thee with the valiant sword of York.</div>
+<div class="play-line" data-line-number="201">Rise, Richard, like a true Plantagenet,</div>
+<div class="play-line" data-line-number="202">And rise created princely Duke of York.</div>
+<br>
 <speaker>YORK</speaker>
-[<i>formerly PLANTAGENET, standing</i>]
-And so thrive Richard as thy foes may fall!
-And as my duty springs, so perish they
-That grudge one thought against your Majesty.
-
+<div class="play-line" data-line-number="203">[<i>formerly PLANTAGENET, standing</i>]</div>
+<div class="play-line" data-line-number="204">And so thrive Richard as thy foes may fall!</div>
+<div class="play-line" data-line-number="205">And as my duty springs, so perish they</div>
+<div class="play-line" data-line-number="206">That grudge one thought against your Majesty.</div>
+<br>
 <speaker>ALL</speaker>
-Welcome, high prince, the mighty Duke of York.
-
+<div class="play-line" data-line-number="207">Welcome, high prince, the mighty Duke of York.</div>
+<br>
 <speaker>SOMERSET</speaker>
-[<i>aside</i>]
-Perish, base prince, ignoble Duke of York.
-
+<div class="play-line" data-line-number="208">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="209">Perish, base prince, ignoble Duke of York.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Now will it best avail your Majesty
-To cross the seas and to be crowned in France.
-The presence of a king engenders love
-Amongst his subjects and his loyal friends,
-As it disanimates his enemies.
-
+<div class="play-line" data-line-number="210">Now will it best avail your Majesty</div>
+<div class="play-line" data-line-number="211">To cross the seas and to be crowned in France.</div>
+<div class="play-line" data-line-number="212">The presence of a king engenders love</div>
+<div class="play-line" data-line-number="213">Amongst his subjects and his loyal friends,</div>
+<div class="play-line" data-line-number="214">As it disanimates his enemies.</div>
+<br>
 <speaker>KING HENRY</speaker>
-When Gloucester says the word, King Henry goes,
-For friendly counsel cuts off many foes.
-
+<div class="play-line" data-line-number="215">When Gloucester says the word, King Henry goes,</div>
+<div class="play-line" data-line-number="216">For friendly counsel cuts off many foes.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Your ships already are in readiness.
-[<i>Sennet. Flourish. All but Exeter exit.</i>]
-
+<div class="play-line" data-line-number="217">Your ships already are in readiness.</div>
+<div class="play-line" data-line-number="218">[<i>Sennet. Flourish. All but Exeter exit.</i>]</div>
+<br>
 <speaker>EXETER</speaker>
-Ay, we may march in England or in France,
-Not seeing what is likely to ensue.
-This late dissension grown betwixt the peers
-Burns under feigned ashes of forged love
-And will at last break out into a flame.
-As festered members rot but by degree
-Till bones and flesh and sinews fall away,
-So will this base and envious discord breed.
-And now I fear that fatal prophecy
-Which in the time of Henry named the Fifth
-Was in the mouth of every sucking babe:
-That Henry born at Monmouth should win all,
-And Henry born at Windsor should lose all,
-Which is so plain that Exeter doth wish
-His days may finish ere that hapless time.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="219">Ay, we may march in England or in France,</div>
+<div class="play-line" data-line-number="220">Not seeing what is likely to ensue.</div>
+<div class="play-line" data-line-number="221">This late dissension grown betwixt the peers</div>
+<div class="play-line" data-line-number="222">Burns under feigned ashes of forged love</div>
+<div class="play-line" data-line-number="223">And will at last break out into a flame.</div>
+<div class="play-line" data-line-number="224">As festered members rot but by degree</div>
+<div class="play-line" data-line-number="225">Till bones and flesh and sinews fall away,</div>
+<div class="play-line" data-line-number="226">So will this base and envious discord breed.</div>
+<div class="play-line" data-line-number="227">And now I fear that fatal prophecy</div>
+<div class="play-line" data-line-number="228">Which in the time of Henry named the Fifth</div>
+<div class="play-line" data-line-number="229">Was in the mouth of every sucking babe:</div>
+<div class="play-line" data-line-number="230">That Henry born at Monmouth should win all,</div>
+<div class="play-line" data-line-number="231">And Henry born at Windsor should lose all,</div>
+<div class="play-line" data-line-number="232">Which is so plain that Exeter doth wish</div>
+<div class="play-line" data-line-number="233">His days may finish ere that hapless time.</div>
+<div class="play-line" data-line-number="234">[<i>He exits.</i>]</div>
+<br>
 <b id="act-3-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Enter Pucelle disguised, with four Soldiers with sacks
-upon their backs.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Pucelle disguised, with four Soldiers with sacks</div>
+<div class="play-line" data-line-number="2">upon their backs.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-These are the city gates, the gates of Roan,
-Through which our policy must make a breach.
-Take heed. Be wary how you place your words;
-Talk like the vulgar sort of market men
-That come to gather money for their corn.
-If we have entrance, as I hope we shall,
-And that we find the slothful watch but weak,
-I&rsquo;ll by a sign give notice to our friends,
-That Charles the Dauphin may encounter them.
-
+<div class="play-line" data-line-number="3">These are the city gates, the gates of Roan,</div>
+<div class="play-line" data-line-number="4">Through which our policy must make a breach.</div>
+<div class="play-line" data-line-number="5">Take heed. Be wary how you place your words;</div>
+<div class="play-line" data-line-number="6">Talk like the vulgar sort of market men</div>
+<div class="play-line" data-line-number="7">That come to gather money for their corn.</div>
+<div class="play-line" data-line-number="8">If we have entrance, as I hope we shall,</div>
+<div class="play-line" data-line-number="9">And that we find the slothful watch but weak,</div>
+<div class="play-line" data-line-number="10">I&rsquo;ll by a sign give notice to our friends,</div>
+<div class="play-line" data-line-number="11">That Charles the Dauphin may encounter them.</div>
+<br>
 <speaker>SOLDIER</speaker>
-Our sacks shall be a mean to sack the city,
-And we be lords and rulers over Roan;
-Therefore we&rsquo;ll knock.
-[<i>Knock.</i>]
-
+<div class="play-line" data-line-number="12">Our sacks shall be a mean to sack the city,</div>
+<div class="play-line" data-line-number="13">And we be lords and rulers over Roan;</div>
+<div class="play-line" data-line-number="14">Therefore we&rsquo;ll knock.</div>
+<div class="play-line" data-line-number="15">[<i>Knock.</i>]</div>
+<br>
 <speaker>WATCH</speaker>
-[<i>within</i>]
-Qui la?
-
+<div class="play-line" data-line-number="16">[<i>within</i>]</div>
+<div class="play-line" data-line-number="17">Qui la?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Paysans la pauvre gens de France:
-Poor market folks that come to sell their corn.
-
+<div class="play-line" data-line-number="18">Paysans la pauvre gens de France:</div>
+<div class="play-line" data-line-number="19">Poor market folks that come to sell their corn.</div>
+<br>
 <speaker>WATCH</speaker>
-Enter, go in. The market bell is rung.
-
+<div class="play-line" data-line-number="20">Enter, go in. The market bell is rung.</div>
+<br>
 <speaker>PUCELLE</speaker>
-[<i>aside</i>]
-Now, Roan, I&rsquo;ll shake thy bulwarks to the ground.
-[<i>They exit.</i>]
-
-[<i>Enter Charles, Bastard, Alanson, Reignier,
-and Soldiers.</i>]
-
+<div class="play-line" data-line-number="21">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="22">Now, Roan, I&rsquo;ll shake thy bulwarks to the ground.</div>
+<div class="play-line" data-line-number="23">[<i>They exit.</i>]</div>
+<br>
+<div class="play-line" data-line-number="24">[<i>Enter Charles, Bastard, Alanson, Reignier,</div>
+<div class="play-line" data-line-number="25">and Soldiers.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Saint Dennis bless this happy stratagem
-And once again we&rsquo;ll sleep secure in Roan.
-
+<div class="play-line" data-line-number="26">Saint Dennis bless this happy stratagem</div>
+<div class="play-line" data-line-number="27">And once again we&rsquo;ll sleep secure in Roan.</div>
+<br>
 <speaker>BASTARD</speaker>
-Here entered Pucelle and her practisants.
-Now she is there, how will she specify
-&ldquo;Here is the best and safest passage in&rdquo;?
-
+<div class="play-line" data-line-number="28">Here entered Pucelle and her practisants.</div>
+<div class="play-line" data-line-number="29">Now she is there, how will she specify</div>
+<div class="play-line" data-line-number="30">&ldquo;Here is the best and safest passage in&rdquo;?</div>
+<br>
 <speaker>REIGNIER</speaker>
-By thrusting out a torch from yonder tower,
-Which, once discerned, shows that her meaning is:
-No way to that, for weakness, which she entered.
-
-[<i>Enter Pucelle on the top, thrusting out a torch burning.</i>]
-
+<div class="play-line" data-line-number="31">By thrusting out a torch from yonder tower,</div>
+<div class="play-line" data-line-number="32">Which, once discerned, shows that her meaning is:</div>
+<div class="play-line" data-line-number="33">No way to that, for weakness, which she entered.</div>
+<br>
+<div class="play-line" data-line-number="34">[<i>Enter Pucelle on the top, thrusting out a torch burning.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-Behold, this is the happy wedding torch
-That joineth Roan unto her countrymen,
-But burning fatal to the Talbonites.
-
+<div class="play-line" data-line-number="35">Behold, this is the happy wedding torch</div>
+<div class="play-line" data-line-number="36">That joineth Roan unto her countrymen,</div>
+<div class="play-line" data-line-number="37">But burning fatal to the Talbonites.</div>
+<br>
 <speaker>BASTARD</speaker>
-See, noble Charles, the beacon of our friend;
-The burning torch, in yonder turret stands.
-
+<div class="play-line" data-line-number="38">See, noble Charles, the beacon of our friend;</div>
+<div class="play-line" data-line-number="39">The burning torch, in yonder turret stands.</div>
+<br>
 <speaker>CHARLES</speaker>
-Now shine it like a comet of revenge,
-A prophet to the fall of all our foes!
-
+<div class="play-line" data-line-number="40">Now shine it like a comet of revenge,</div>
+<div class="play-line" data-line-number="41">A prophet to the fall of all our foes!</div>
+<br>
 <speaker>REIGNIER</speaker>
-Defer no time; delays have dangerous ends.
-Enter and cry &ldquo;The Dauphin!&rdquo; presently,
-And then do execution on the watch.
-[<i>Alarum. They exit.</i>]
-
-[<i>An Alarum. Enter Talbot in an excursion.</i>]
-
+<div class="play-line" data-line-number="42">Defer no time; delays have dangerous ends.</div>
+<div class="play-line" data-line-number="43">Enter and cry &ldquo;The Dauphin!&rdquo; presently,</div>
+<div class="play-line" data-line-number="44">And then do execution on the watch.</div>
+<div class="play-line" data-line-number="45">[<i>Alarum. They exit.</i>]</div>
+<br>
+<div class="play-line" data-line-number="46">[<i>An Alarum. Enter Talbot in an excursion.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-France, thou shalt rue this treason with thy tears,
-If Talbot but survive thy treachery.
-Pucelle, that witch, that damned sorceress,
-Hath wrought this hellish mischief unawares,
-That hardly we escaped the pride of France.
-[<i>He exits.</i>]
-
-[<i>An alarum. Excursions. Bedford brought in sick in
-a chair, carried by two Attendants. Enter Talbot
-and Burgundy without; within, Pucelle with a sack
-of grain, Charles, Bastard, Alanson, and Reignier
-on the walls.</i>]
-
+<div class="play-line" data-line-number="47">France, thou shalt rue this treason with thy tears,</div>
+<div class="play-line" data-line-number="48">If Talbot but survive thy treachery.</div>
+<div class="play-line" data-line-number="49">Pucelle, that witch, that damned sorceress,</div>
+<div class="play-line" data-line-number="50">Hath wrought this hellish mischief unawares,</div>
+<div class="play-line" data-line-number="51">That hardly we escaped the pride of France.</div>
+<div class="play-line" data-line-number="52">[<i>He exits.</i>]</div>
+<br>
+<div class="play-line" data-line-number="53">[<i>An alarum. Excursions. Bedford brought in sick in</div>
+<div class="play-line" data-line-number="54">a chair, carried by two Attendants. Enter Talbot</div>
+<div class="play-line" data-line-number="55">and Burgundy without; within, Pucelle with a sack</div>
+<div class="play-line" data-line-number="56">of grain, Charles, Bastard, Alanson, and Reignier</div>
+<div class="play-line" data-line-number="57">on the walls.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-[<i>to those below</i>]
-Good morrow, gallants. Want you corn for bread?
-[<i>She scatters grain on those below.</i>]
-I think the Duke of Burgundy will fast
-Before he&rsquo;ll buy again at such a rate.
-&rsquo;Twas full of darnel. Do you like the taste?
-
+<div class="play-line" data-line-number="58">[<i>to those below</i>]</div>
+<div class="play-line" data-line-number="59">Good morrow, gallants. Want you corn for bread?</div>
+<div class="play-line" data-line-number="60">[<i>She scatters grain on those below.</i>]</div>
+<div class="play-line" data-line-number="61">I think the Duke of Burgundy will fast</div>
+<div class="play-line" data-line-number="62">Before he&rsquo;ll buy again at such a rate.</div>
+<div class="play-line" data-line-number="63">&rsquo;Twas full of darnel. Do you like the taste?</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Scoff on, vile fiend and shameless courtesan!
-I trust ere long to choke thee with thine own,
-And make thee curse the harvest of that corn.
-
+<div class="play-line" data-line-number="64">Scoff on, vile fiend and shameless courtesan!</div>
+<div class="play-line" data-line-number="65">I trust ere long to choke thee with thine own,</div>
+<div class="play-line" data-line-number="66">And make thee curse the harvest of that corn.</div>
+<br>
 <speaker>CHARLES</speaker>
-Your Grace may starve, perhaps, before that time.
-
+<div class="play-line" data-line-number="67">Your Grace may starve, perhaps, before that time.</div>
+<br>
 <speaker>BEDFORD</speaker>
-O, let no words, but deeds, revenge this treason.
-
+<div class="play-line" data-line-number="68">O, let no words, but deeds, revenge this treason.</div>
+<br>
 <speaker>PUCELLE</speaker>
-What will you do, good graybeard? Break a lance
-And run a-tilt at Death within a chair?
-
+<div class="play-line" data-line-number="69">What will you do, good graybeard? Break a lance</div>
+<div class="play-line" data-line-number="70">And run a-tilt at Death within a chair?</div>
+<br>
 <speaker>TALBOT</speaker>
-Foul fiend of France and hag of all despite,
-Encompassed with thy lustful paramours,
-Becomes it thee to taunt his valiant age
-And twit with cowardice a man half dead?
-Damsel, I&rsquo;ll have a bout with you again,
-Or else let Talbot perish with this shame.
-
+<div class="play-line" data-line-number="71">Foul fiend of France and hag of all despite,</div>
+<div class="play-line" data-line-number="72">Encompassed with thy lustful paramours,</div>
+<div class="play-line" data-line-number="73">Becomes it thee to taunt his valiant age</div>
+<div class="play-line" data-line-number="74">And twit with cowardice a man half dead?</div>
+<div class="play-line" data-line-number="75">Damsel, I&rsquo;ll have a bout with you again,</div>
+<div class="play-line" data-line-number="76">Or else let Talbot perish with this shame.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Are you so hot, sir? Yet, Pucelle, hold thy peace,
-If Talbot do but thunder, rain will follow.
-[<i>Those below whisper together in council.</i>]
-God speed the Parliament! Who shall be the Speaker?
-
+<div class="play-line" data-line-number="77">Are you so hot, sir? Yet, Pucelle, hold thy peace,</div>
+<div class="play-line" data-line-number="78">If Talbot do but thunder, rain will follow.</div>
+<div class="play-line" data-line-number="79">[<i>Those below whisper together in council.</i>]</div>
+<div class="play-line" data-line-number="80">God speed the Parliament! Who shall be the Speaker?</div>
+<br>
 <speaker>TALBOT</speaker>
-Dare you come forth and meet us in the field?
-
+<div class="play-line" data-line-number="81">Dare you come forth and meet us in the field?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Belike your Lordship takes us then for fools,
-To try if that our own be ours or no.
-
+<div class="play-line" data-line-number="82">Belike your Lordship takes us then for fools,</div>
+<div class="play-line" data-line-number="83">To try if that our own be ours or no.</div>
+<br>
 <speaker>TALBOT</speaker>
-I speak not to that railing Hecate,
-But unto thee, Alanson, and the rest.
-Will you, like soldiers, come and fight it out?
-
+<div class="play-line" data-line-number="84">I speak not to that railing Hecate,</div>
+<div class="play-line" data-line-number="85">But unto thee, Alanson, and the rest.</div>
+<div class="play-line" data-line-number="86">Will you, like soldiers, come and fight it out?</div>
+<br>
 <speaker>ALANSON</speaker>
-Seigneur, no.
-
+<div class="play-line" data-line-number="87">Seigneur, no.</div>
+<br>
 <speaker>TALBOT</speaker>
-Seigneur, hang! Base muleteers of France,
-Like peasant footboys do they keep the walls
-And dare not take up arms like gentlemen.
-
+<div class="play-line" data-line-number="88">Seigneur, hang! Base muleteers of France,</div>
+<div class="play-line" data-line-number="89">Like peasant footboys do they keep the walls</div>
+<div class="play-line" data-line-number="90">And dare not take up arms like gentlemen.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Away, captains. Let&rsquo;s get us from the walls,
-For Talbot means no goodness by his looks.&mdash;
-Goodbye, my lord. We came but to tell you
-That we are here.	[<i>They exit from the walls.</i>]
-
+<div class="play-line" data-line-number="91">Away, captains. Let&rsquo;s get us from the walls,</div>
+<div class="play-line" data-line-number="92">For Talbot means no goodness by his looks.&mdash;</div>
+<div class="play-line" data-line-number="93">Goodbye, my lord. We came but to tell you</div>
+<div class="play-line" data-line-number="94">That we are here.	[<i>They exit from the walls.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-And there will we be too, ere it be long,
-Or else reproach be Talbot&rsquo;s greatest fame.&mdash;
-Vow, Burgundy, by honor of thy house,
-Pricked on by public wrongs sustained in France,
-Either to get the town again or die.
-And I, as sure as English Henry lives,
-And as his father here was conqueror,
-As sure as in this late-betrayed town
-Great Coeur-de-lion&rsquo;s heart was buried,
-So sure I swear to get the town or die.
-
+<div class="play-line" data-line-number="95">And there will we be too, ere it be long,</div>
+<div class="play-line" data-line-number="96">Or else reproach be Talbot&rsquo;s greatest fame.&mdash;</div>
+<div class="play-line" data-line-number="97">Vow, Burgundy, by honor of thy house,</div>
+<div class="play-line" data-line-number="98">Pricked on by public wrongs sustained in France,</div>
+<div class="play-line" data-line-number="99">Either to get the town again or die.</div>
+<div class="play-line" data-line-number="100">And I, as sure as English Henry lives,</div>
+<div class="play-line" data-line-number="101">And as his father here was conqueror,</div>
+<div class="play-line" data-line-number="102">As sure as in this late-betrayed town</div>
+<div class="play-line" data-line-number="103">Great Coeur-de-lion&rsquo;s heart was buried,</div>
+<div class="play-line" data-line-number="104">So sure I swear to get the town or die.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-My vows are equal partners with thy vows.
-
+<div class="play-line" data-line-number="105">My vows are equal partners with thy vows.</div>
+<br>
 <speaker>TALBOT</speaker>
-But, ere we go, regard this dying prince,
-The valiant Duke of Bedford.&mdash;Come, my lord,
-We will bestow you in some better place,
-Fitter for sickness and for crazy age.
-
+<div class="play-line" data-line-number="106">But, ere we go, regard this dying prince,</div>
+<div class="play-line" data-line-number="107">The valiant Duke of Bedford.&mdash;Come, my lord,</div>
+<div class="play-line" data-line-number="108">We will bestow you in some better place,</div>
+<div class="play-line" data-line-number="109">Fitter for sickness and for crazy age.</div>
+<br>
 <speaker>BEDFORD</speaker>
-Lord Talbot, do not so dishonor me.
-Here will I sit, before the walls of Roan,
-And will be partner of your weal or woe.
-
+<div class="play-line" data-line-number="110">Lord Talbot, do not so dishonor me.</div>
+<div class="play-line" data-line-number="111">Here will I sit, before the walls of Roan,</div>
+<div class="play-line" data-line-number="112">And will be partner of your weal or woe.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Courageous Bedford, let us now persuade you&mdash;
-
+<div class="play-line" data-line-number="113">Courageous Bedford, let us now persuade you&mdash;</div>
+<br>
 <speaker>BEDFORD</speaker>
-Not to be gone from hence, for once I read
-That stout Pendragon, in his litter sick,
-Came to the field and vanquished his foes.
-Methinks I should revive the soldiers&rsquo; hearts
-Because I ever found them as myself.
-
+<div class="play-line" data-line-number="114">Not to be gone from hence, for once I read</div>
+<div class="play-line" data-line-number="115">That stout Pendragon, in his litter sick,</div>
+<div class="play-line" data-line-number="116">Came to the field and vanquished his foes.</div>
+<div class="play-line" data-line-number="117">Methinks I should revive the soldiers&rsquo; hearts</div>
+<div class="play-line" data-line-number="118">Because I ever found them as myself.</div>
+<br>
 <speaker>TALBOT</speaker>
-Undaunted spirit in a dying breast,
-Then be it so. Heavens keep old Bedford safe!&mdash;
-And now no more ado, brave Burgundy,
-But gather we our forces out of hand
-And set upon our boasting enemy.
-[<i>He exits with Burgundy.
-Bedford and Attendants remain.</i>]
-
-[<i>An alarum. Excursions. Enter Sir John Fastolf
-and a Captain.</i>]
-
+<div class="play-line" data-line-number="119">Undaunted spirit in a dying breast,</div>
+<div class="play-line" data-line-number="120">Then be it so. Heavens keep old Bedford safe!&mdash;</div>
+<div class="play-line" data-line-number="121">And now no more ado, brave Burgundy,</div>
+<div class="play-line" data-line-number="122">But gather we our forces out of hand</div>
+<div class="play-line" data-line-number="123">And set upon our boasting enemy.</div>
+<div class="play-line" data-line-number="124">[<i>He exits with Burgundy.</div>
+<div class="play-line" data-line-number="125">Bedford and Attendants remain.</i>]</div>
+<br>
+<div class="play-line" data-line-number="126">[<i>An alarum. Excursions. Enter Sir John Fastolf</div>
+<div class="play-line" data-line-number="127">and a Captain.</i>]</div>
+<br>
 <speaker>CAPTAIN</speaker>
-Whither away, Sir John Fastolf, in such haste?
-
+<div class="play-line" data-line-number="128">Whither away, Sir John Fastolf, in such haste?</div>
+<br>
 <speaker>FASTOLF</speaker>
-Whither away? To save myself by flight.
-We are like to have the overthrow again.
-
+<div class="play-line" data-line-number="129">Whither away? To save myself by flight.</div>
+<div class="play-line" data-line-number="130">We are like to have the overthrow again.</div>
+<br>
 <speaker>CAPTAIN</speaker>
-What, will you fly and leave Lord Talbot?
-
+<div class="play-line" data-line-number="131">What, will you fly and leave Lord Talbot?</div>
+<br>
 <speaker>FASTOLF</speaker>
-Ay,
-All the Talbots in the world, to save my life.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="132">Ay,</div>
+<div class="play-line" data-line-number="133">All the Talbots in the world, to save my life.</div>
+<div class="play-line" data-line-number="134">[<i>He exits.</i>]</div>
+<br>
 <speaker>CAPTAIN</speaker>
-Cowardly knight, ill fortune follow thee.
-[<i>He exits.</i>]
-
-[<i>Retreat. Excursions. Pucelle, Alanson, and Charles
-enter, pursued by English Soldiers, and fly.</i>]
-
+<div class="play-line" data-line-number="135">Cowardly knight, ill fortune follow thee.</div>
+<div class="play-line" data-line-number="136">[<i>He exits.</i>]</div>
+<br>
+<div class="play-line" data-line-number="137">[<i>Retreat. Excursions. Pucelle, Alanson, and Charles</div>
+<div class="play-line" data-line-number="138">enter, pursued by English Soldiers, and fly.</i>]</div>
+<br>
 <speaker>BEDFORD</speaker>
-Now, quiet soul, depart when heaven please,
-For I have seen our enemies&rsquo; overthrow.
-What is the trust or strength of foolish man?
-They that of late were daring with their scoffs
-Are glad and fain by flight to save themselves.
-[<i>Bedford dies, and is carried
-in by two in his chair.</i>]
-
-[<i>An alarum. Enter Talbot, Burgundy, and the rest.</i>]
-
+<div class="play-line" data-line-number="139">Now, quiet soul, depart when heaven please,</div>
+<div class="play-line" data-line-number="140">For I have seen our enemies&rsquo; overthrow.</div>
+<div class="play-line" data-line-number="141">What is the trust or strength of foolish man?</div>
+<div class="play-line" data-line-number="142">They that of late were daring with their scoffs</div>
+<div class="play-line" data-line-number="143">Are glad and fain by flight to save themselves.</div>
+<div class="play-line" data-line-number="144">[<i>Bedford dies, and is carried</div>
+<div class="play-line" data-line-number="145">in by two in his chair.</i>]</div>
+<br>
+<div class="play-line" data-line-number="146">[<i>An alarum. Enter Talbot, Burgundy, and the rest.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Lost and recovered in a day again!
-This is a double honor, Burgundy.
-Yet heavens have glory for this victory.
-
+<div class="play-line" data-line-number="147">Lost and recovered in a day again!</div>
+<div class="play-line" data-line-number="148">This is a double honor, Burgundy.</div>
+<div class="play-line" data-line-number="149">Yet heavens have glory for this victory.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Warlike and martial Talbot, Burgundy
-Enshrines thee in his heart, and there erects
-Thy noble deeds as valor&rsquo;s monuments.
-
+<div class="play-line" data-line-number="150">Warlike and martial Talbot, Burgundy</div>
+<div class="play-line" data-line-number="151">Enshrines thee in his heart, and there erects</div>
+<div class="play-line" data-line-number="152">Thy noble deeds as valor&rsquo;s monuments.</div>
+<br>
 <speaker>TALBOT</speaker>
-Thanks, gentle duke. But where is Pucelle now?
-I think her old familiar is asleep.
-Now where&rsquo;s the Bastard&rsquo;s braves and Charles his
-gleeks?
-What, all amort? Roan hangs her head for grief
-That such a valiant company are fled.
-Now will we take some order in the town,
-Placing therein some expert officers,
-And then depart to Paris to the King,
-For there young Henry with his nobles lie.
-
+<div class="play-line" data-line-number="153">Thanks, gentle duke. But where is Pucelle now?</div>
+<div class="play-line" data-line-number="154">I think her old familiar is asleep.</div>
+<div class="play-line" data-line-number="155">Now where&rsquo;s the Bastard&rsquo;s braves and Charles his</div>
+<div class="play-line" data-line-number="156">gleeks?</div>
+<div class="play-line" data-line-number="157">What, all amort? Roan hangs her head for grief</div>
+<div class="play-line" data-line-number="158">That such a valiant company are fled.</div>
+<div class="play-line" data-line-number="159">Now will we take some order in the town,</div>
+<div class="play-line" data-line-number="160">Placing therein some expert officers,</div>
+<div class="play-line" data-line-number="161">And then depart to Paris to the King,</div>
+<div class="play-line" data-line-number="162">For there young Henry with his nobles lie.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-What wills Lord Talbot pleaseth Burgundy.
-
+<div class="play-line" data-line-number="163">What wills Lord Talbot pleaseth Burgundy.</div>
+<br>
 <speaker>TALBOT</speaker>
-But yet, before we go, let&rsquo;s not forget
-The noble Duke of Bedford late-deceased,
-But see his exequies fulfilled in Roan.
-A braver soldier never couched lance,
-A gentler heart did never sway in court.
-But kings and mightiest potentates must die,
-For that&rsquo;s the end of human misery.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="164">But yet, before we go, let&rsquo;s not forget</div>
+<div class="play-line" data-line-number="165">The noble Duke of Bedford late-deceased,</div>
+<div class="play-line" data-line-number="166">But see his exequies fulfilled in Roan.</div>
+<div class="play-line" data-line-number="167">A braver soldier never couched lance,</div>
+<div class="play-line" data-line-number="168">A gentler heart did never sway in court.</div>
+<div class="play-line" data-line-number="169">But kings and mightiest potentates must die,</div>
+<div class="play-line" data-line-number="170">For that&rsquo;s the end of human misery.</div>
+<div class="play-line" data-line-number="171">[<i>They exit.</i>]</div>
+<br>
 <b id="act-3-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-Dismay not, princes, at this accident,
-Nor grieve that Roan is so recovered.
-Care is no cure, but rather corrosive
-For things that are not to be remedied.
-Let frantic Talbot triumph for a while,
-And like a peacock sweep along his tail;
-We&rsquo;ll pull his plumes and take away his train,
-If dauphin and the rest will be but ruled.
-
+<div class="play-line" data-line-number="2">Dismay not, princes, at this accident,</div>
+<div class="play-line" data-line-number="3">Nor grieve that Roan is so recovered.</div>
+<div class="play-line" data-line-number="4">Care is no cure, but rather corrosive</div>
+<div class="play-line" data-line-number="5">For things that are not to be remedied.</div>
+<div class="play-line" data-line-number="6">Let frantic Talbot triumph for a while,</div>
+<div class="play-line" data-line-number="7">And like a peacock sweep along his tail;</div>
+<div class="play-line" data-line-number="8">We&rsquo;ll pull his plumes and take away his train,</div>
+<div class="play-line" data-line-number="9">If dauphin and the rest will be but ruled.</div>
+<br>
 <speaker>CHARLES</speaker>
-We have been guided by thee hitherto,
-And of thy cunning had no diffidence.
-One sudden foil shall never breed distrust.
-
+<div class="play-line" data-line-number="10">We have been guided by thee hitherto,</div>
+<div class="play-line" data-line-number="11">And of thy cunning had no diffidence.</div>
+<div class="play-line" data-line-number="12">One sudden foil shall never breed distrust.</div>
+<br>
 <speaker>BASTARD</speaker>
-[<i>to Pucelle</i>]
-Search out thy wit for secret policies,
-And we will make thee famous through the world.
-
+<div class="play-line" data-line-number="13">[<i>to Pucelle</i>]</div>
+<div class="play-line" data-line-number="14">Search out thy wit for secret policies,</div>
+<div class="play-line" data-line-number="15">And we will make thee famous through the world.</div>
+<br>
 <speaker>ALANSON</speaker>
-[<i>to Pucelle</i>]
-We&rsquo;ll set thy statue in some holy place
-And have thee reverenced like a blessed saint.
-Employ thee then, sweet virgin, for our good.
-
+<div class="play-line" data-line-number="16">[<i>to Pucelle</i>]</div>
+<div class="play-line" data-line-number="17">We&rsquo;ll set thy statue in some holy place</div>
+<div class="play-line" data-line-number="18">And have thee reverenced like a blessed saint.</div>
+<div class="play-line" data-line-number="19">Employ thee then, sweet virgin, for our good.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Then thus it must be; this doth Joan devise:
-By fair persuasions mixed with sugared words
-We will entice the Duke of Burgundy
-To leave the Talbot and to follow us.
-
+<div class="play-line" data-line-number="20">Then thus it must be; this doth Joan devise:</div>
+<div class="play-line" data-line-number="21">By fair persuasions mixed with sugared words</div>
+<div class="play-line" data-line-number="22">We will entice the Duke of Burgundy</div>
+<div class="play-line" data-line-number="23">To leave the Talbot and to follow us.</div>
+<br>
 <speaker>CHARLES</speaker>
-Ay, marry, sweeting, if we could do that,
-France were no place for Henry&rsquo;s warriors,
-Nor should that nation boast it so with us,
-But be extirped from our provinces.
-
+<div class="play-line" data-line-number="24">Ay, marry, sweeting, if we could do that,</div>
+<div class="play-line" data-line-number="25">France were no place for Henry&rsquo;s warriors,</div>
+<div class="play-line" data-line-number="26">Nor should that nation boast it so with us,</div>
+<div class="play-line" data-line-number="27">But be extirped from our provinces.</div>
+<br>
 <speaker>ALANSON</speaker>
-Forever should they be expulsed from France,
-And not have title of an earldom here.
-
+<div class="play-line" data-line-number="28">Forever should they be expulsed from France,</div>
+<div class="play-line" data-line-number="29">And not have title of an earldom here.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Your honors shall perceive how I will work
-To bring this matter to the wished end.
-[<i>Drum sounds afar off.</i>]
-Hark! By the sound of drum you may perceive
-Their powers are marching unto Paris-ward.
-[<i>Here sound an English march.</i>]
-There goes the Talbot with his colors spread,
-And all the troops of English after him.
-[<i>French march.</i>]
-Now in the rearward comes the Duke and his.
-Fortune in favor makes him lag behind.
-Summon a parley; we will talk with him.
-[<i>Trumpets sound a parley.</i>]
-
+<div class="play-line" data-line-number="30">Your honors shall perceive how I will work</div>
+<div class="play-line" data-line-number="31">To bring this matter to the wished end.</div>
+<div class="play-line" data-line-number="32">[<i>Drum sounds afar off.</i>]</div>
+<div class="play-line" data-line-number="33">Hark! By the sound of drum you may perceive</div>
+<div class="play-line" data-line-number="34">Their powers are marching unto Paris-ward.</div>
+<div class="play-line" data-line-number="35">[<i>Here sound an English march.</i>]</div>
+<div class="play-line" data-line-number="36">There goes the Talbot with his colors spread,</div>
+<div class="play-line" data-line-number="37">And all the troops of English after him.</div>
+<div class="play-line" data-line-number="38">[<i>French march.</i>]</div>
+<div class="play-line" data-line-number="39">Now in the rearward comes the Duke and his.</div>
+<div class="play-line" data-line-number="40">Fortune in favor makes him lag behind.</div>
+<div class="play-line" data-line-number="41">Summon a parley; we will talk with him.</div>
+<div class="play-line" data-line-number="42">[<i>Trumpets sound a parley.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-A parley with the Duke of Burgundy!
-
-[<i>Enter Burgundy.</i>]
-
+<div class="play-line" data-line-number="43">A parley with the Duke of Burgundy!</div>
+<br>
+<div class="play-line" data-line-number="44">[<i>Enter Burgundy.</i>]</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Who craves a parley with the Burgundy?
-
+<div class="play-line" data-line-number="45">Who craves a parley with the Burgundy?</div>
+<br>
 <speaker>PUCELLE</speaker>
-The princely Charles of France, thy countryman.
-
+<div class="play-line" data-line-number="46">The princely Charles of France, thy countryman.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-What say&rsquo;st thou, Charles?&mdash;for I am marching hence.
-
+<div class="play-line" data-line-number="47">What say&rsquo;st thou, Charles?&mdash;for I am marching hence.</div>
+<br>
 <speaker>CHARLES</speaker>
-[<i>aside to Pucelle</i>]
-Speak, Pucelle, and enchant him with thy words.
-
+<div class="play-line" data-line-number="48">[<i>aside to Pucelle</i>]</div>
+<div class="play-line" data-line-number="49">Speak, Pucelle, and enchant him with thy words.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Brave Burgundy, undoubted hope of France,
-Stay; let thy humble handmaid speak to thee.
-
+<div class="play-line" data-line-number="50">Brave Burgundy, undoubted hope of France,</div>
+<div class="play-line" data-line-number="51">Stay; let thy humble handmaid speak to thee.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Speak on, but be not over-tedious.
-
+<div class="play-line" data-line-number="52">Speak on, but be not over-tedious.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Look on thy country, look on fertile France,
-And see the cities and the towns defaced
-By wasting ruin of the cruel foe.
-As looks the mother on her lowly babe
-When death doth close his tender-dying eyes,
-See, see the pining malady of France:
-Behold the wounds, the most unnatural wounds,
-Which thou thyself hast given her woeful breast.
-O, turn thy edged sword another way;
-Strike those that hurt, and hurt not those that help.
-One drop of blood drawn from thy country&rsquo;s bosom
-Should grieve thee more than streams of foreign gore.
-Return thee therefore with a flood of tears,
-And wash away thy country&rsquo;s stained spots.
-
+<div class="play-line" data-line-number="53">Look on thy country, look on fertile France,</div>
+<div class="play-line" data-line-number="54">And see the cities and the towns defaced</div>
+<div class="play-line" data-line-number="55">By wasting ruin of the cruel foe.</div>
+<div class="play-line" data-line-number="56">As looks the mother on her lowly babe</div>
+<div class="play-line" data-line-number="57">When death doth close his tender-dying eyes,</div>
+<div class="play-line" data-line-number="58">See, see the pining malady of France:</div>
+<div class="play-line" data-line-number="59">Behold the wounds, the most unnatural wounds,</div>
+<div class="play-line" data-line-number="60">Which thou thyself hast given her woeful breast.</div>
+<div class="play-line" data-line-number="61">O, turn thy edged sword another way;</div>
+<div class="play-line" data-line-number="62">Strike those that hurt, and hurt not those that help.</div>
+<div class="play-line" data-line-number="63">One drop of blood drawn from thy country&rsquo;s bosom</div>
+<div class="play-line" data-line-number="64">Should grieve thee more than streams of foreign gore.</div>
+<div class="play-line" data-line-number="65">Return thee therefore with a flood of tears,</div>
+<div class="play-line" data-line-number="66">And wash away thy country&rsquo;s stained spots.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-[<i>aside</i>]
-Either she hath bewitched me with her words,
-Or nature makes me suddenly relent.
-
+<div class="play-line" data-line-number="67">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="68">Either she hath bewitched me with her words,</div>
+<div class="play-line" data-line-number="69">Or nature makes me suddenly relent.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Besides, all French and France exclaims on thee,
-Doubting thy birth and lawful progeny.
-Who join&rsquo;st thou with but with a lordly nation
-That will not trust thee but for profit&rsquo;s sake?
-When Talbot hath set footing once in France
-And fashioned thee that instrument of ill,
-Who then but English Henry will be lord,
-And thou be thrust out like a fugitive?
-Call we to mind, and mark but this for proof:
-Was not the Duke of Orleance thy foe?
-And was he not in England prisoner?
-But when they heard he was thine enemy,
-They set him free, without his ransom paid,
-In spite of Burgundy and all his friends.
-See then, thou fight&rsquo;st against thy countrymen,
-And join&rsquo;st with them will be thy slaughtermen.
-Come, come, return; return, thou wandering lord.
-Charles and the rest will take thee in their arms.
-
+<div class="play-line" data-line-number="70">Besides, all French and France exclaims on thee,</div>
+<div class="play-line" data-line-number="71">Doubting thy birth and lawful progeny.</div>
+<div class="play-line" data-line-number="72">Who join&rsquo;st thou with but with a lordly nation</div>
+<div class="play-line" data-line-number="73">That will not trust thee but for profit&rsquo;s sake?</div>
+<div class="play-line" data-line-number="74">When Talbot hath set footing once in France</div>
+<div class="play-line" data-line-number="75">And fashioned thee that instrument of ill,</div>
+<div class="play-line" data-line-number="76">Who then but English Henry will be lord,</div>
+<div class="play-line" data-line-number="77">And thou be thrust out like a fugitive?</div>
+<div class="play-line" data-line-number="78">Call we to mind, and mark but this for proof:</div>
+<div class="play-line" data-line-number="79">Was not the Duke of Orleance thy foe?</div>
+<div class="play-line" data-line-number="80">And was he not in England prisoner?</div>
+<div class="play-line" data-line-number="81">But when they heard he was thine enemy,</div>
+<div class="play-line" data-line-number="82">They set him free, without his ransom paid,</div>
+<div class="play-line" data-line-number="83">In spite of Burgundy and all his friends.</div>
+<div class="play-line" data-line-number="84">See then, thou fight&rsquo;st against thy countrymen,</div>
+<div class="play-line" data-line-number="85">And join&rsquo;st with them will be thy slaughtermen.</div>
+<div class="play-line" data-line-number="86">Come, come, return; return, thou wandering lord.</div>
+<div class="play-line" data-line-number="87">Charles and the rest will take thee in their arms.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-[<i>aside</i>]
-I am vanquished. These haughty words of hers
-Have battered me like roaring cannon-shot,
-And made me almost yield upon my knees.&mdash;
-Forgive me, country, and sweet countrymen;
-And, lords, accept this hearty kind embrace.
-[<i>He embraces Charles, Bastard, and Alanson.</i>]
-My forces and my power of men are yours.
-So, farewell, Talbot. I&rsquo;ll no longer trust thee.
-
+<div class="play-line" data-line-number="88">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="89">I am vanquished. These haughty words of hers</div>
+<div class="play-line" data-line-number="90">Have battered me like roaring cannon-shot,</div>
+<div class="play-line" data-line-number="91">And made me almost yield upon my knees.&mdash;</div>
+<div class="play-line" data-line-number="92">Forgive me, country, and sweet countrymen;</div>
+<div class="play-line" data-line-number="93">And, lords, accept this hearty kind embrace.</div>
+<div class="play-line" data-line-number="94">[<i>He embraces Charles, Bastard, and Alanson.</i>]</div>
+<div class="play-line" data-line-number="95">My forces and my power of men are yours.</div>
+<div class="play-line" data-line-number="96">So, farewell, Talbot. I&rsquo;ll no longer trust thee.</div>
+<br>
 <speaker>PUCELLE</speaker>
-[<i>aside</i>]
-Done like a Frenchman: turn and turn again.
-
+<div class="play-line" data-line-number="97">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="98">Done like a Frenchman: turn and turn again.</div>
+<br>
 <speaker>CHARLES</speaker>
-Welcome, brave duke. Thy friendship makes us fresh.
-
+<div class="play-line" data-line-number="99">Welcome, brave duke. Thy friendship makes us fresh.</div>
+<br>
 <speaker>BASTARD</speaker>
-And doth beget new courage in our breasts.
-
+<div class="play-line" data-line-number="100">And doth beget new courage in our breasts.</div>
+<br>
 <speaker>ALANSON</speaker>
-Pucelle hath bravely played her part in this
-And doth deserve a coronet of gold.
-
+<div class="play-line" data-line-number="101">Pucelle hath bravely played her part in this</div>
+<div class="play-line" data-line-number="102">And doth deserve a coronet of gold.</div>
+<br>
 <speaker>CHARLES</speaker>
-Now let us on, my lords, and join our powers,
-And seek how we may prejudice the foe.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="103">Now let us on, my lords, and join our powers,</div>
+<div class="play-line" data-line-number="104">And seek how we may prejudice the foe.</div>
+<div class="play-line" data-line-number="105">[<i>They exit.</i>]</div>
+<br>
 <b id="act-3-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Flourish. Enter the King, Gloucester, Winchester,
-Exeter; York, Warwick, and Vernon, with white roses;
-Somerset, Suffolk, and Basset, with red roses.
-To them, with his Soldiers, Talbot.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Flourish. Enter the King, Gloucester, Winchester,</div>
+<div class="play-line" data-line-number="2">Exeter; York, Warwick, and Vernon, with white roses;</div>
+<div class="play-line" data-line-number="3">Somerset, Suffolk, and Basset, with red roses.</div>
+<div class="play-line" data-line-number="4">To them, with his Soldiers, Talbot.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-My gracious prince and honorable peers,
-Hearing of your arrival in this realm,
-I have awhile given truce unto my wars
-To do my duty to my sovereign;
-In sign whereof, this arm, that hath reclaimed
-To your obedience fifty fortresses,
-Twelve cities, and seven walled towns of strength,
-Besides five hundred prisoners of esteem,
-Lets fall his sword before your Highness&rsquo; feet,
-And with submissive loyalty of heart
-Ascribes the glory of his conquest got
-First to my God, and next unto your Grace.
-[<i>He kneels.</i>]
-
+<div class="play-line" data-line-number="5">My gracious prince and honorable peers,</div>
+<div class="play-line" data-line-number="6">Hearing of your arrival in this realm,</div>
+<div class="play-line" data-line-number="7">I have awhile given truce unto my wars</div>
+<div class="play-line" data-line-number="8">To do my duty to my sovereign;</div>
+<div class="play-line" data-line-number="9">In sign whereof, this arm, that hath reclaimed</div>
+<div class="play-line" data-line-number="10">To your obedience fifty fortresses,</div>
+<div class="play-line" data-line-number="11">Twelve cities, and seven walled towns of strength,</div>
+<div class="play-line" data-line-number="12">Besides five hundred prisoners of esteem,</div>
+<div class="play-line" data-line-number="13">Lets fall his sword before your Highness&rsquo; feet,</div>
+<div class="play-line" data-line-number="14">And with submissive loyalty of heart</div>
+<div class="play-line" data-line-number="15">Ascribes the glory of his conquest got</div>
+<div class="play-line" data-line-number="16">First to my God, and next unto your Grace.</div>
+<div class="play-line" data-line-number="17">[<i>He kneels.</i>]</div>
+<br>
 <speaker>KING HENRY</speaker>
-Is this the Lord Talbot, Uncle Gloucester,
-That hath so long been resident in France?
-
+<div class="play-line" data-line-number="18">Is this the Lord Talbot, Uncle Gloucester,</div>
+<div class="play-line" data-line-number="19">That hath so long been resident in France?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Yes, if it please your Majesty, my liege.
-
+<div class="play-line" data-line-number="20">Yes, if it please your Majesty, my liege.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Welcome, brave captain and victorious lord.
-When I was young&mdash;as yet I am not old&mdash;
-I do remember how my father said
-A stouter champion never handled sword.
-Long since we were resolved of your truth,
-Your faithful service, and your toil in war;
-Yet never have you tasted our reward
-Or been reguerdoned with so much as thanks,
-Because till now we never saw your face.
-Therefore stand up; and for these good deserts
-We here create you Earl of Shrewsbury;
-And in our coronation take your place.	[<i>Talbot rises.</i>]
-[<i>Sennet. Flourish. All except
-Vernon and Basset exit.</i>]
-
+<div class="play-line" data-line-number="21">Welcome, brave captain and victorious lord.</div>
+<div class="play-line" data-line-number="22">When I was young&mdash;as yet I am not old&mdash;</div>
+<div class="play-line" data-line-number="23">I do remember how my father said</div>
+<div class="play-line" data-line-number="24">A stouter champion never handled sword.</div>
+<div class="play-line" data-line-number="25">Long since we were resolved of your truth,</div>
+<div class="play-line" data-line-number="26">Your faithful service, and your toil in war;</div>
+<div class="play-line" data-line-number="27">Yet never have you tasted our reward</div>
+<div class="play-line" data-line-number="28">Or been reguerdoned with so much as thanks,</div>
+<div class="play-line" data-line-number="29">Because till now we never saw your face.</div>
+<div class="play-line" data-line-number="30">Therefore stand up; and for these good deserts</div>
+<div class="play-line" data-line-number="31">We here create you Earl of Shrewsbury;</div>
+<div class="play-line" data-line-number="32">And in our coronation take your place.	[<i>Talbot rises.</i>]</div>
+<div class="play-line" data-line-number="33">[<i>Sennet. Flourish. All except</div>
+<div class="play-line" data-line-number="34">Vernon and Basset exit.</i>]</div>
+<br>
 <speaker>VERNON</speaker>
-Now, sir, to you that were so hot at sea,
-Disgracing of these colors that I wear
-In honor of my noble Lord of York,
-Dar&rsquo;st thou maintain the former words thou spak&rsquo;st?
-
+<div class="play-line" data-line-number="35">Now, sir, to you that were so hot at sea,</div>
+<div class="play-line" data-line-number="36">Disgracing of these colors that I wear</div>
+<div class="play-line" data-line-number="37">In honor of my noble Lord of York,</div>
+<div class="play-line" data-line-number="38">Dar&rsquo;st thou maintain the former words thou spak&rsquo;st?</div>
+<br>
 <speaker>BASSET</speaker>
-Yes, sir, as well as you dare patronage
-The envious barking of your saucy tongue
-Against my lord the Duke of Somerset.
-
+<div class="play-line" data-line-number="39">Yes, sir, as well as you dare patronage</div>
+<div class="play-line" data-line-number="40">The envious barking of your saucy tongue</div>
+<div class="play-line" data-line-number="41">Against my lord the Duke of Somerset.</div>
+<br>
 <speaker>VERNON</speaker>
-Sirrah, thy lord I honor as he is.
-
+<div class="play-line" data-line-number="42">Sirrah, thy lord I honor as he is.</div>
+<br>
 <speaker>BASSET</speaker>
-Why, what is he? As good a man as York.
-
+<div class="play-line" data-line-number="43">Why, what is he? As good a man as York.</div>
+<br>
 <speaker>VERNON</speaker>
-Hark you, not so; in witness, take you that.
-[<i>Strikes him.</i>]
-
+<div class="play-line" data-line-number="44">Hark you, not so; in witness, take you that.</div>
+<div class="play-line" data-line-number="45">[<i>Strikes him.</i>]</div>
+<br>
 <speaker>BASSET</speaker>
-Villain, thou knowest the law of arms is such
-That whoso draws a sword &rsquo;tis present death,
-Or else this blow should broach thy dearest blood.
-But I&rsquo;ll unto his Majesty, and crave
-I may have liberty to venge this wrong,
-When thou shalt see I&rsquo;ll meet thee to thy cost.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="46">Villain, thou knowest the law of arms is such</div>
+<div class="play-line" data-line-number="47">That whoso draws a sword &rsquo;tis present death,</div>
+<div class="play-line" data-line-number="48">Or else this blow should broach thy dearest blood.</div>
+<div class="play-line" data-line-number="49">But I&rsquo;ll unto his Majesty, and crave</div>
+<div class="play-line" data-line-number="50">I may have liberty to venge this wrong,</div>
+<div class="play-line" data-line-number="51">When thou shalt see I&rsquo;ll meet thee to thy cost.</div>
+<div class="play-line" data-line-number="52">[<i>He exits.</i>]</div>
+<br>
 <speaker>VERNON</speaker>
-Well, miscreant, I&rsquo;ll be there as soon as you,
-And after meet you sooner than you would.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="53">Well, miscreant, I&rsquo;ll be there as soon as you,</div>
+<div class="play-line" data-line-number="54">And after meet you sooner than you would.</div>
+<div class="play-line" data-line-number="55">[<i>He exits.</i>]</div>
+<br>
 <b id="act-4" class="act-header">Act 4</b>
+<br>
 <b id="act-4-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Flourish. Enter King, Gloucester, Winchester, Talbot,
-Exeter; York and Warwick, with white roses; Suffolk
-and Somerset, with red roses; Governor of Paris,
-and Others.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Flourish. Enter King, Gloucester, Winchester, Talbot,</div>
+<div class="play-line" data-line-number="2">Exeter; York and Warwick, with white roses; Suffolk</div>
+<div class="play-line" data-line-number="3">and Somerset, with red roses; Governor of Paris,</div>
+<div class="play-line" data-line-number="4">and Others.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Lord Bishop, set the crown upon his head.
-
+<div class="play-line" data-line-number="5">Lord Bishop, set the crown upon his head.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-[<i>crowning King Henry</i>]
-God save King Henry, of that name the Sixth!
-
+<div class="play-line" data-line-number="6">[<i>crowning King Henry</i>]</div>
+<div class="play-line" data-line-number="7">God save King Henry, of that name the Sixth!</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Now, Governor of Paris, take your oath.
-[<i>Governor kneels.</i>]
-That you elect no other king but him;
-Esteem none friends but such as are his friends,
-And none your foes but such as shall pretend
-Malicious practices against his state:
-This shall you do, so help you righteous God.
-[<i>Governor rises.</i>]
-
-[<i>Enter Fastolf.</i>]
-
+<div class="play-line" data-line-number="8">Now, Governor of Paris, take your oath.</div>
+<div class="play-line" data-line-number="9">[<i>Governor kneels.</i>]</div>
+<div class="play-line" data-line-number="10">That you elect no other king but him;</div>
+<div class="play-line" data-line-number="11">Esteem none friends but such as are his friends,</div>
+<div class="play-line" data-line-number="12">And none your foes but such as shall pretend</div>
+<div class="play-line" data-line-number="13">Malicious practices against his state:</div>
+<div class="play-line" data-line-number="14">This shall you do, so help you righteous God.</div>
+<div class="play-line" data-line-number="15">[<i>Governor rises.</i>]</div>
+<br>
+<div class="play-line" data-line-number="16">[<i>Enter Fastolf.</i>]</div>
+<br>
 <speaker>FASTOLF</speaker>
-My gracious sovereign, as I rode from Callice
-To haste unto your coronation,
-A letter was delivered to my hands,
-Writ to your Grace from th&rsquo; Duke of Burgundy.
-[<i>He hands the King a paper.</i>]
-
+<div class="play-line" data-line-number="17">My gracious sovereign, as I rode from Callice</div>
+<div class="play-line" data-line-number="18">To haste unto your coronation,</div>
+<div class="play-line" data-line-number="19">A letter was delivered to my hands,</div>
+<div class="play-line" data-line-number="20">Writ to your Grace from th&rsquo; Duke of Burgundy.</div>
+<div class="play-line" data-line-number="21">[<i>He hands the King a paper.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Shame to the Duke of Burgundy and thee!
-I vowed, base knight, when I did meet thee next,
-To tear the Garter from thy craven&rsquo;s leg,
-[<i>tearing it off</i>]
-Which I have done, because unworthily
-Thou wast installed in that high degree.&mdash;
-Pardon me, princely Henry and the rest.
-This dastard, at the battle of Patay,
-When but in all I was six thousand strong
-And that the French were almost ten to one,
-Before we met or that a stroke was given,
-Like to a trusty squire did run away;
-In which assault we lost twelve hundred men.
-Myself and divers gentlemen besides
-Were there surprised and taken prisoners.
-Then judge, great lords, if I have done amiss,
-Or whether that such cowards ought to wear
-This ornament of knighthood&mdash;yea or no?
-
+<div class="play-line" data-line-number="22">Shame to the Duke of Burgundy and thee!</div>
+<div class="play-line" data-line-number="23">I vowed, base knight, when I did meet thee next,</div>
+<div class="play-line" data-line-number="24">To tear the Garter from thy craven&rsquo;s leg,</div>
+<div class="play-line" data-line-number="25">[<i>tearing it off</i>]</div>
+<div class="play-line" data-line-number="26">Which I have done, because unworthily</div>
+<div class="play-line" data-line-number="27">Thou wast installed in that high degree.&mdash;</div>
+<div class="play-line" data-line-number="28">Pardon me, princely Henry and the rest.</div>
+<div class="play-line" data-line-number="29">This dastard, at the battle of Patay,</div>
+<div class="play-line" data-line-number="30">When but in all I was six thousand strong</div>
+<div class="play-line" data-line-number="31">And that the French were almost ten to one,</div>
+<div class="play-line" data-line-number="32">Before we met or that a stroke was given,</div>
+<div class="play-line" data-line-number="33">Like to a trusty squire did run away;</div>
+<div class="play-line" data-line-number="34">In which assault we lost twelve hundred men.</div>
+<div class="play-line" data-line-number="35">Myself and divers gentlemen besides</div>
+<div class="play-line" data-line-number="36">Were there surprised and taken prisoners.</div>
+<div class="play-line" data-line-number="37">Then judge, great lords, if I have done amiss,</div>
+<div class="play-line" data-line-number="38">Or whether that such cowards ought to wear</div>
+<div class="play-line" data-line-number="39">This ornament of knighthood&mdash;yea or no?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-To say the truth, this fact was infamous
-And ill beseeming any common man,
-Much more a knight, a captain, and a leader.
-
+<div class="play-line" data-line-number="40">To say the truth, this fact was infamous</div>
+<div class="play-line" data-line-number="41">And ill beseeming any common man,</div>
+<div class="play-line" data-line-number="42">Much more a knight, a captain, and a leader.</div>
+<br>
 <speaker>TALBOT</speaker>
-When first this Order was ordained, my lords,
-Knights of the Garter were of noble birth,
-Valiant and virtuous, full of haughty courage,
-Such as were grown to credit by the wars;
-Not fearing death nor shrinking for distress,
-But always resolute in most extremes.
-He then that is not furnished in this sort
-Doth but usurp the sacred name of knight,
-Profaning this most honorable Order,
-And should, if I were worthy to be judge,
-Be quite degraded, like a hedge-born swain
-That doth presume to boast of gentle blood.
-
+<div class="play-line" data-line-number="43">When first this Order was ordained, my lords,</div>
+<div class="play-line" data-line-number="44">Knights of the Garter were of noble birth,</div>
+<div class="play-line" data-line-number="45">Valiant and virtuous, full of haughty courage,</div>
+<div class="play-line" data-line-number="46">Such as were grown to credit by the wars;</div>
+<div class="play-line" data-line-number="47">Not fearing death nor shrinking for distress,</div>
+<div class="play-line" data-line-number="48">But always resolute in most extremes.</div>
+<div class="play-line" data-line-number="49">He then that is not furnished in this sort</div>
+<div class="play-line" data-line-number="50">Doth but usurp the sacred name of knight,</div>
+<div class="play-line" data-line-number="51">Profaning this most honorable Order,</div>
+<div class="play-line" data-line-number="52">And should, if I were worthy to be judge,</div>
+<div class="play-line" data-line-number="53">Be quite degraded, like a hedge-born swain</div>
+<div class="play-line" data-line-number="54">That doth presume to boast of gentle blood.</div>
+<br>
 <speaker>KING HENRY</speaker>
-[<i>to Fastolf</i>]
-Stain to thy countrymen, thou hear&rsquo;st thy doom.
-Be packing therefore, thou that wast a knight.
-Henceforth we banish thee on pain of death.
-[<i>Fastolf exits.</i>]
-And now, my lord protector, view the letter
-Sent from our uncle, Duke of Burgundy.
-[<i>He hands the paper to Gloucester.</i>]
-
+<div class="play-line" data-line-number="55">[<i>to Fastolf</i>]</div>
+<div class="play-line" data-line-number="56">Stain to thy countrymen, thou hear&rsquo;st thy doom.</div>
+<div class="play-line" data-line-number="57">Be packing therefore, thou that wast a knight.</div>
+<div class="play-line" data-line-number="58">Henceforth we banish thee on pain of death.</div>
+<div class="play-line" data-line-number="59">[<i>Fastolf exits.</i>]</div>
+<div class="play-line" data-line-number="60">And now, my lord protector, view the letter</div>
+<div class="play-line" data-line-number="61">Sent from our uncle, Duke of Burgundy.</div>
+<div class="play-line" data-line-number="62">[<i>He hands the paper to Gloucester.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-What means his Grace that he hath changed his style?
-No more but, plain and bluntly, &ldquo;To the King&rdquo;!
-Hath he forgot he is his sovereign?
-Or doth this churlish superscription
-Pretend some alteration in good will?
-What&rsquo;s here? [<i>(Reads.)</i>]
-I have upon especial cause,
-Moved with compassion of my country&rsquo;s wrack,
-Together with the pitiful complaints
-Of such as your oppression feeds upon,
-Forsaken your pernicious faction
-And joined with Charles, the rightful king of France.
-O monstrous treachery! Can this be so?
-That in alliance, amity, and oaths
-There should be found such false dissembling guile?
-
+<div class="play-line" data-line-number="63">What means his Grace that he hath changed his style?</div>
+<div class="play-line" data-line-number="64">No more but, plain and bluntly, &ldquo;To the King&rdquo;!</div>
+<div class="play-line" data-line-number="65">Hath he forgot he is his sovereign?</div>
+<div class="play-line" data-line-number="66">Or doth this churlish superscription</div>
+<div class="play-line" data-line-number="67">Pretend some alteration in good will?</div>
+<div class="play-line" data-line-number="68">What&rsquo;s here? [<i>(Reads.)</i>]</div>
+<div class="play-line" data-line-number="69">I have upon especial cause,</div>
+<div class="play-line" data-line-number="70">Moved with compassion of my country&rsquo;s wrack,</div>
+<div class="play-line" data-line-number="71">Together with the pitiful complaints</div>
+<div class="play-line" data-line-number="72">Of such as your oppression feeds upon,</div>
+<div class="play-line" data-line-number="73">Forsaken your pernicious faction</div>
+<div class="play-line" data-line-number="74">And joined with Charles, the rightful king of France.</div>
+<div class="play-line" data-line-number="75">O monstrous treachery! Can this be so?</div>
+<div class="play-line" data-line-number="76">That in alliance, amity, and oaths</div>
+<div class="play-line" data-line-number="77">There should be found such false dissembling guile?</div>
+<br>
 <speaker>KING HENRY</speaker>
-What? Doth my Uncle Burgundy revolt?
-
+<div class="play-line" data-line-number="78">What? Doth my Uncle Burgundy revolt?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-He doth, my lord, and is become your foe.
-
+<div class="play-line" data-line-number="79">He doth, my lord, and is become your foe.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Is that the worst this letter doth contain?
-
+<div class="play-line" data-line-number="80">Is that the worst this letter doth contain?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-It is the worst, and all, my lord, he writes.
-
+<div class="play-line" data-line-number="81">It is the worst, and all, my lord, he writes.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Why, then, Lord Talbot there shall talk with him
-And give him chastisement for this abuse.&mdash;
-How say you, my lord, are you not content?
-
+<div class="play-line" data-line-number="82">Why, then, Lord Talbot there shall talk with him</div>
+<div class="play-line" data-line-number="83">And give him chastisement for this abuse.&mdash;</div>
+<div class="play-line" data-line-number="84">How say you, my lord, are you not content?</div>
+<br>
 <speaker>TALBOT</speaker>
-Content, my liege? Yes. But that I am prevented,
-I should have begged I might have been employed.
-
+<div class="play-line" data-line-number="85">Content, my liege? Yes. But that I am prevented,</div>
+<div class="play-line" data-line-number="86">I should have begged I might have been employed.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Then gather strength and march unto him straight;
-Let him perceive how ill we brook his treason
-And what offense it is to flout his friends.
-
+<div class="play-line" data-line-number="87">Then gather strength and march unto him straight;</div>
+<div class="play-line" data-line-number="88">Let him perceive how ill we brook his treason</div>
+<div class="play-line" data-line-number="89">And what offense it is to flout his friends.</div>
+<br>
 <speaker>TALBOT</speaker>
-I go, my lord, in heart desiring still
-You may behold confusion of your foes.	[<i>He exits.</i>]
-
-[<i>Enter Vernon, with a white rose, and Basset,
-with a red rose.</i>]
-
+<div class="play-line" data-line-number="90">I go, my lord, in heart desiring still</div>
+<div class="play-line" data-line-number="91">You may behold confusion of your foes.	[<i>He exits.</i>]</div>
+<br>
+<div class="play-line" data-line-number="92">[<i>Enter Vernon, with a white rose, and Basset,</div>
+<div class="play-line" data-line-number="93">with a red rose.</i>]</div>
+<br>
 <speaker>VERNON</speaker>
-Grant me the combat, gracious sovereign.
-
+<div class="play-line" data-line-number="94">Grant me the combat, gracious sovereign.</div>
+<br>
 <speaker>BASSET</speaker>
-And me, my lord, grant me the combat too.
-
+<div class="play-line" data-line-number="95">And me, my lord, grant me the combat too.</div>
+<br>
 <speaker>YORK</speaker>
-[<i>indicating Vernon</i>]
-This is my servant; hear him, noble prince.
-
+<div class="play-line" data-line-number="96">[<i>indicating Vernon</i>]</div>
+<div class="play-line" data-line-number="97">This is my servant; hear him, noble prince.</div>
+<br>
 <speaker>SOMERSET</speaker>
-[<i>indicating Basset</i>]
-And this is mine, sweet Henry; favor him.
-
+<div class="play-line" data-line-number="98">[<i>indicating Basset</i>]</div>
+<div class="play-line" data-line-number="99">And this is mine, sweet Henry; favor him.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Be patient, lords, and give them leave to speak.&mdash;
-Say, gentlemen, what makes you thus exclaim,
-And wherefore crave you combat, or with whom?
-
+<div class="play-line" data-line-number="100">Be patient, lords, and give them leave to speak.&mdash;</div>
+<div class="play-line" data-line-number="101">Say, gentlemen, what makes you thus exclaim,</div>
+<div class="play-line" data-line-number="102">And wherefore crave you combat, or with whom?</div>
+<br>
 <speaker>VERNON</speaker>
-With him, my lord, for he hath done me wrong.
-
+<div class="play-line" data-line-number="103">With him, my lord, for he hath done me wrong.</div>
+<br>
 <speaker>BASSET</speaker>
-And I with him, for he hath done me wrong.
-
+<div class="play-line" data-line-number="104">And I with him, for he hath done me wrong.</div>
+<br>
 <speaker>KING HENRY</speaker>
-What is that wrong whereof you both complain?
-First let me know, and then I&rsquo;ll answer you.
-
+<div class="play-line" data-line-number="105">What is that wrong whereof you both complain?</div>
+<div class="play-line" data-line-number="106">First let me know, and then I&rsquo;ll answer you.</div>
+<br>
 <speaker>BASSET</speaker>
-Crossing the sea from England into France,
-This fellow here with envious carping tongue
-Upbraided me about the rose I wear,
-Saying the sanguine color of the leaves
-Did represent my master&rsquo;s blushing cheeks
-When stubbornly he did repugn the truth
-About a certain question in the law
-Argued betwixt the Duke of York and him,
-With other vile and ignominious terms.
-In confutation of which rude reproach,
-And in defense of my lord&rsquo;s worthiness,
-I crave the benefit of law of arms.
-
+<div class="play-line" data-line-number="107">Crossing the sea from England into France,</div>
+<div class="play-line" data-line-number="108">This fellow here with envious carping tongue</div>
+<div class="play-line" data-line-number="109">Upbraided me about the rose I wear,</div>
+<div class="play-line" data-line-number="110">Saying the sanguine color of the leaves</div>
+<div class="play-line" data-line-number="111">Did represent my master&rsquo;s blushing cheeks</div>
+<div class="play-line" data-line-number="112">When stubbornly he did repugn the truth</div>
+<div class="play-line" data-line-number="113">About a certain question in the law</div>
+<div class="play-line" data-line-number="114">Argued betwixt the Duke of York and him,</div>
+<div class="play-line" data-line-number="115">With other vile and ignominious terms.</div>
+<div class="play-line" data-line-number="116">In confutation of which rude reproach,</div>
+<div class="play-line" data-line-number="117">And in defense of my lord&rsquo;s worthiness,</div>
+<div class="play-line" data-line-number="118">I crave the benefit of law of arms.</div>
+<br>
 <speaker>VERNON</speaker>
-And that is my petition, noble lord;
-For though he seem with forged quaint conceit
-To set a gloss upon his bold intent,
-Yet know, my lord, I was provoked by him,
-And he first took exceptions at this badge,
-Pronouncing that the paleness of this flower
-Bewrayed the faintness of my master&rsquo;s heart.
-
+<div class="play-line" data-line-number="119">And that is my petition, noble lord;</div>
+<div class="play-line" data-line-number="120">For though he seem with forged quaint conceit</div>
+<div class="play-line" data-line-number="121">To set a gloss upon his bold intent,</div>
+<div class="play-line" data-line-number="122">Yet know, my lord, I was provoked by him,</div>
+<div class="play-line" data-line-number="123">And he first took exceptions at this badge,</div>
+<div class="play-line" data-line-number="124">Pronouncing that the paleness of this flower</div>
+<div class="play-line" data-line-number="125">Bewrayed the faintness of my master&rsquo;s heart.</div>
+<br>
 <speaker>YORK</speaker>
-Will not this malice, Somerset, be left?
-
+<div class="play-line" data-line-number="126">Will not this malice, Somerset, be left?</div>
+<br>
 <speaker>SOMERSET</speaker>
-Your private grudge, my Lord of York, will out,
-Though ne&rsquo;er so cunningly you smother it.
-
+<div class="play-line" data-line-number="127">Your private grudge, my Lord of York, will out,</div>
+<div class="play-line" data-line-number="128">Though ne&rsquo;er so cunningly you smother it.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Good Lord, what madness rules in brainsick men
-When for so slight and frivolous a cause
-Such factious emulations shall arise!
-Good cousins both, of York and Somerset,
-Quiet yourselves, I pray, and be at peace.
-
+<div class="play-line" data-line-number="129">Good Lord, what madness rules in brainsick men</div>
+<div class="play-line" data-line-number="130">When for so slight and frivolous a cause</div>
+<div class="play-line" data-line-number="131">Such factious emulations shall arise!</div>
+<div class="play-line" data-line-number="132">Good cousins both, of York and Somerset,</div>
+<div class="play-line" data-line-number="133">Quiet yourselves, I pray, and be at peace.</div>
+<br>
 <speaker>YORK</speaker>
-Let this dissension first be tried by fight,
-And then your Highness shall command a peace.
-
+<div class="play-line" data-line-number="134">Let this dissension first be tried by fight,</div>
+<div class="play-line" data-line-number="135">And then your Highness shall command a peace.</div>
+<br>
 <speaker>SOMERSET</speaker>
-The quarrel toucheth none but us alone;
-Betwixt ourselves let us decide it then.
-
+<div class="play-line" data-line-number="136">The quarrel toucheth none but us alone;</div>
+<div class="play-line" data-line-number="137">Betwixt ourselves let us decide it then.</div>
+<br>
 <speaker>YORK</speaker>
-[<i>throwing down a gage</i>]
-There is my pledge; accept it, Somerset.
-
+<div class="play-line" data-line-number="138">[<i>throwing down a gage</i>]</div>
+<div class="play-line" data-line-number="139">There is my pledge; accept it, Somerset.</div>
+<br>
 <speaker>VERNON</speaker>
-[<i>to Somerset</i>]
-Nay, let it rest where it began at first.
-
+<div class="play-line" data-line-number="140">[<i>to Somerset</i>]</div>
+<div class="play-line" data-line-number="141">Nay, let it rest where it began at first.</div>
+<br>
 <speaker>BASSET</speaker>
-[<i>to Somerset</i>]
-Confirm it so, mine honorable lord.
-
+<div class="play-line" data-line-number="142">[<i>to Somerset</i>]</div>
+<div class="play-line" data-line-number="143">Confirm it so, mine honorable lord.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Confirm it so? Confounded be your strife,
-And perish you with your audacious prate!
-Presumptuous vassals, are you not ashamed
-With this immodest clamorous outrage
-To trouble and disturb the King and us?&mdash;
-And you, my lords, methinks you do not well
-To bear with their perverse objections,
-Much less to take occasion from their mouths
-To raise a mutiny betwixt yourselves.
-Let me persuade you take a better course.
-
+<div class="play-line" data-line-number="144">Confirm it so? Confounded be your strife,</div>
+<div class="play-line" data-line-number="145">And perish you with your audacious prate!</div>
+<div class="play-line" data-line-number="146">Presumptuous vassals, are you not ashamed</div>
+<div class="play-line" data-line-number="147">With this immodest clamorous outrage</div>
+<div class="play-line" data-line-number="148">To trouble and disturb the King and us?&mdash;</div>
+<div class="play-line" data-line-number="149">And you, my lords, methinks you do not well</div>
+<div class="play-line" data-line-number="150">To bear with their perverse objections,</div>
+<div class="play-line" data-line-number="151">Much less to take occasion from their mouths</div>
+<div class="play-line" data-line-number="152">To raise a mutiny betwixt yourselves.</div>
+<div class="play-line" data-line-number="153">Let me persuade you take a better course.</div>
+<br>
 <speaker>EXETER</speaker>
-It grieves his Highness. Good my lords, be friends.
-
+<div class="play-line" data-line-number="154">It grieves his Highness. Good my lords, be friends.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Come hither, you that would be combatants:
-Henceforth I charge you, as you love our favor,
-Quite to forget this quarrel and the cause.&mdash;
-And you, my lords, remember where we are:
-In France, amongst a fickle wavering nation.
-If they perceive dissension in our looks,
-And that within ourselves we disagree,
-How will their grudging stomachs be provoked
-To willful disobedience and rebel!
-Besides, what infamy will there arise
-When foreign princes shall be certified
-That for a toy, a thing of no regard,
-King Henry&rsquo;s peers and chief nobility
-Destroyed themselves and lost the realm of France!
-O, think upon the conquest of my father,
-My tender years, and let us not forgo
-That for a trifle that was bought with blood.
-Let me be umpire in this doubtful strife.
-I see no reason if I wear this rose
-That anyone should therefore be suspicious
-I more incline to Somerset than York.
-[<i>He puts on a red rose.</i>]
-Both are my kinsmen, and I love them both.
-As well they may upbraid me with my crown
-Because, forsooth, the King of Scots is crowned.
-But your discretions better can persuade
-Than I am able to instruct or teach;
-And therefore, as we hither came in peace,
-So let us still continue peace and love.
-Cousin of York, we institute your Grace
-To be our regent in these parts of France;&mdash;
-And good my Lord of Somerset, unite
-Your troops of horsemen with his bands of foot;
-And like true subjects, sons of your progenitors,
-Go cheerfully together and digest
-Your angry choler on your enemies.
-Ourself, my lord protector, and the rest,
-After some respite, will return to Callice;
-From thence to England, where I hope ere long
-To be presented, by your victories,
-With Charles, Alanson, and that traitorous rout.
-[<i>Flourish. All but York, Warwick, Exeter, Vernon exit.</i>]
-
+<div class="play-line" data-line-number="155">Come hither, you that would be combatants:</div>
+<div class="play-line" data-line-number="156">Henceforth I charge you, as you love our favor,</div>
+<div class="play-line" data-line-number="157">Quite to forget this quarrel and the cause.&mdash;</div>
+<div class="play-line" data-line-number="158">And you, my lords, remember where we are:</div>
+<div class="play-line" data-line-number="159">In France, amongst a fickle wavering nation.</div>
+<div class="play-line" data-line-number="160">If they perceive dissension in our looks,</div>
+<div class="play-line" data-line-number="161">And that within ourselves we disagree,</div>
+<div class="play-line" data-line-number="162">How will their grudging stomachs be provoked</div>
+<div class="play-line" data-line-number="163">To willful disobedience and rebel!</div>
+<div class="play-line" data-line-number="164">Besides, what infamy will there arise</div>
+<div class="play-line" data-line-number="165">When foreign princes shall be certified</div>
+<div class="play-line" data-line-number="166">That for a toy, a thing of no regard,</div>
+<div class="play-line" data-line-number="167">King Henry&rsquo;s peers and chief nobility</div>
+<div class="play-line" data-line-number="168">Destroyed themselves and lost the realm of France!</div>
+<div class="play-line" data-line-number="169">O, think upon the conquest of my father,</div>
+<div class="play-line" data-line-number="170">My tender years, and let us not forgo</div>
+<div class="play-line" data-line-number="171">That for a trifle that was bought with blood.</div>
+<div class="play-line" data-line-number="172">Let me be umpire in this doubtful strife.</div>
+<div class="play-line" data-line-number="173">I see no reason if I wear this rose</div>
+<div class="play-line" data-line-number="174">That anyone should therefore be suspicious</div>
+<div class="play-line" data-line-number="175">I more incline to Somerset than York.</div>
+<div class="play-line" data-line-number="176">[<i>He puts on a red rose.</i>]</div>
+<div class="play-line" data-line-number="177">Both are my kinsmen, and I love them both.</div>
+<div class="play-line" data-line-number="178">As well they may upbraid me with my crown</div>
+<div class="play-line" data-line-number="179">Because, forsooth, the King of Scots is crowned.</div>
+<div class="play-line" data-line-number="180">But your discretions better can persuade</div>
+<div class="play-line" data-line-number="181">Than I am able to instruct or teach;</div>
+<div class="play-line" data-line-number="182">And therefore, as we hither came in peace,</div>
+<div class="play-line" data-line-number="183">So let us still continue peace and love.</div>
+<div class="play-line" data-line-number="184">Cousin of York, we institute your Grace</div>
+<div class="play-line" data-line-number="185">To be our regent in these parts of France;&mdash;</div>
+<div class="play-line" data-line-number="186">And good my Lord of Somerset, unite</div>
+<div class="play-line" data-line-number="187">Your troops of horsemen with his bands of foot;</div>
+<div class="play-line" data-line-number="188">And like true subjects, sons of your progenitors,</div>
+<div class="play-line" data-line-number="189">Go cheerfully together and digest</div>
+<div class="play-line" data-line-number="190">Your angry choler on your enemies.</div>
+<div class="play-line" data-line-number="191">Ourself, my lord protector, and the rest,</div>
+<div class="play-line" data-line-number="192">After some respite, will return to Callice;</div>
+<div class="play-line" data-line-number="193">From thence to England, where I hope ere long</div>
+<div class="play-line" data-line-number="194">To be presented, by your victories,</div>
+<div class="play-line" data-line-number="195">With Charles, Alanson, and that traitorous rout.</div>
+<div class="play-line" data-line-number="196">[<i>Flourish. All but York, Warwick, Exeter, Vernon exit.</i>]</div>
+<br>
 <speaker>WARWICK</speaker>
-My Lord of York, I promise you the King
-Prettily, methought, did play the orator.
-
+<div class="play-line" data-line-number="197">My Lord of York, I promise you the King</div>
+<div class="play-line" data-line-number="198">Prettily, methought, did play the orator.</div>
+<br>
 <speaker>YORK</speaker>
-And so he did, but yet I like it not
-In that he wears the badge of Somerset.
-
+<div class="play-line" data-line-number="199">And so he did, but yet I like it not</div>
+<div class="play-line" data-line-number="200">In that he wears the badge of Somerset.</div>
+<br>
 <speaker>WARWICK</speaker>
-Tush, that was but his fancy; blame him not.
-I dare presume, sweet prince, he thought no harm.
-
+<div class="play-line" data-line-number="201">Tush, that was but his fancy; blame him not.</div>
+<div class="play-line" data-line-number="202">I dare presume, sweet prince, he thought no harm.</div>
+<br>
 <speaker>YORK</speaker>
-And if iwis he did&mdash;but let it rest.
-Other affairs must now be managed.
-
-[<i>York, Warwick and Vernon exit.
-Exeter remains.</i>]
-
+<div class="play-line" data-line-number="203">And if iwis he did&mdash;but let it rest.</div>
+<div class="play-line" data-line-number="204">Other affairs must now be managed.</div>
+<br>
+<div class="play-line" data-line-number="205">[<i>York, Warwick and Vernon exit.</div>
+<div class="play-line" data-line-number="206">Exeter remains.</i>]</div>
+<br>
 <speaker>EXETER</speaker>
-Well didst thou, Richard, to suppress thy voice,
-For had the passions of thy heart burst out,
-I fear we should have seen deciphered there
-More rancorous spite, more furious raging broils,
-Than yet can be imagined or supposed.
-But howsoe&rsquo;er, no simple man that sees
-This jarring discord of nobility,
-This shouldering of each other in the court,
-This factious bandying of their favorites,
-But sees it doth presage some ill event.
-&rsquo;Tis much when scepters are in children&rsquo;s hands,
-But more when envy breeds unkind division:
-There comes the ruin; there begins confusion.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="207">Well didst thou, Richard, to suppress thy voice,</div>
+<div class="play-line" data-line-number="208">For had the passions of thy heart burst out,</div>
+<div class="play-line" data-line-number="209">I fear we should have seen deciphered there</div>
+<div class="play-line" data-line-number="210">More rancorous spite, more furious raging broils,</div>
+<div class="play-line" data-line-number="211">Than yet can be imagined or supposed.</div>
+<div class="play-line" data-line-number="212">But howsoe&rsquo;er, no simple man that sees</div>
+<div class="play-line" data-line-number="213">This jarring discord of nobility,</div>
+<div class="play-line" data-line-number="214">This shouldering of each other in the court,</div>
+<div class="play-line" data-line-number="215">This factious bandying of their favorites,</div>
+<div class="play-line" data-line-number="216">But sees it doth presage some ill event.</div>
+<div class="play-line" data-line-number="217">&rsquo;Tis much when scepters are in children&rsquo;s hands,</div>
+<div class="play-line" data-line-number="218">But more when envy breeds unkind division:</div>
+<div class="play-line" data-line-number="219">There comes the ruin; there begins confusion.</div>
+<div class="play-line" data-line-number="220">[<i>He exits.</i>]</div>
+<br>
 <b id="act-4-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Enter Talbot with Soldiers and Trump and Drum
-before Bordeaux.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Talbot with Soldiers and Trump and Drum</div>
+<div class="play-line" data-line-number="2">before Bordeaux.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Go to the gates of Bordeaux, trumpeter.
-Summon their general unto the wall.
-
-[<i>Trumpet sounds. Enter General and Others aloft.</i>]
-
-English John Talbot, captains, calls you forth,
-Servant-in-arms to Harry, King of England,
-And thus he would: open your city gates,
-Be humble to us, call my sovereign yours,
-And do him homage as obedient subjects,
-And I&rsquo;ll withdraw me and my bloody power.
-But if you frown upon this proffered peace,
-You tempt the fury of my three attendants,
-Lean Famine, quartering Steel, and climbing Fire,
-Who, in a moment, even with the earth
-Shall lay your stately and air-braving towers,
-If you forsake the offer of their love.
-
+<div class="play-line" data-line-number="3">Go to the gates of Bordeaux, trumpeter.</div>
+<div class="play-line" data-line-number="4">Summon their general unto the wall.</div>
+<br>
+<div class="play-line" data-line-number="5">[<i>Trumpet sounds. Enter General and Others aloft.</i>]</div>
+<br>
+<div class="play-line" data-line-number="6">English John Talbot, captains, calls you forth,</div>
+<div class="play-line" data-line-number="7">Servant-in-arms to Harry, King of England,</div>
+<div class="play-line" data-line-number="8">And thus he would: open your city gates,</div>
+<div class="play-line" data-line-number="9">Be humble to us, call my sovereign yours,</div>
+<div class="play-line" data-line-number="10">And do him homage as obedient subjects,</div>
+<div class="play-line" data-line-number="11">And I&rsquo;ll withdraw me and my bloody power.</div>
+<div class="play-line" data-line-number="12">But if you frown upon this proffered peace,</div>
+<div class="play-line" data-line-number="13">You tempt the fury of my three attendants,</div>
+<div class="play-line" data-line-number="14">Lean Famine, quartering Steel, and climbing Fire,</div>
+<div class="play-line" data-line-number="15">Who, in a moment, even with the earth</div>
+<div class="play-line" data-line-number="16">Shall lay your stately and air-braving towers,</div>
+<div class="play-line" data-line-number="17">If you forsake the offer of their love.</div>
+<br>
 <speaker>GENERAL</speaker>
-Thou ominous and fearful owl of death,
-Our nation&rsquo;s terror and their bloody scourge,
-The period of thy tyranny approacheth.
-On us thou canst not enter but by death;
-For I protest we are well fortified
-And strong enough to issue out and fight.
-If thou retire, the Dauphin, well appointed,
-Stands with the snares of war to tangle thee.
-On either hand thee, there are squadrons pitched
-To wall thee from the liberty of flight;
-And no way canst thou turn thee for redress
-But Death doth front thee with apparent spoil,
-And pale Destruction meets thee in the face.
-Ten thousand French have ta&rsquo;en the Sacrament
-To rive their dangerous artillery
-Upon no Christian soul but English Talbot.
-Lo, there thou stand&rsquo;st, a breathing valiant man
-Of an invincible unconquered spirit.
-This is the latest glory of thy praise
-That I, thy enemy, due thee withal;
-For ere the glass that now begins to run
-Finish the process of his sandy hour,
-These eyes, that see thee now well-colored,
-Shall see thee withered, bloody, pale, and dead.
-[<i>Drum afar off.</i>]
-Hark, hark, the Dauphin&rsquo;s drum, a warning bell,
-Sings heavy music to thy timorous soul,
-And mine shall ring thy dire departure out.
-[<i>He exits, aloft, with Others.</i>]
-
+<div class="play-line" data-line-number="18">Thou ominous and fearful owl of death,</div>
+<div class="play-line" data-line-number="19">Our nation&rsquo;s terror and their bloody scourge,</div>
+<div class="play-line" data-line-number="20">The period of thy tyranny approacheth.</div>
+<div class="play-line" data-line-number="21">On us thou canst not enter but by death;</div>
+<div class="play-line" data-line-number="22">For I protest we are well fortified</div>
+<div class="play-line" data-line-number="23">And strong enough to issue out and fight.</div>
+<div class="play-line" data-line-number="24">If thou retire, the Dauphin, well appointed,</div>
+<div class="play-line" data-line-number="25">Stands with the snares of war to tangle thee.</div>
+<div class="play-line" data-line-number="26">On either hand thee, there are squadrons pitched</div>
+<div class="play-line" data-line-number="27">To wall thee from the liberty of flight;</div>
+<div class="play-line" data-line-number="28">And no way canst thou turn thee for redress</div>
+<div class="play-line" data-line-number="29">But Death doth front thee with apparent spoil,</div>
+<div class="play-line" data-line-number="30">And pale Destruction meets thee in the face.</div>
+<div class="play-line" data-line-number="31">Ten thousand French have ta&rsquo;en the Sacrament</div>
+<div class="play-line" data-line-number="32">To rive their dangerous artillery</div>
+<div class="play-line" data-line-number="33">Upon no Christian soul but English Talbot.</div>
+<div class="play-line" data-line-number="34">Lo, there thou stand&rsquo;st, a breathing valiant man</div>
+<div class="play-line" data-line-number="35">Of an invincible unconquered spirit.</div>
+<div class="play-line" data-line-number="36">This is the latest glory of thy praise</div>
+<div class="play-line" data-line-number="37">That I, thy enemy, due thee withal;</div>
+<div class="play-line" data-line-number="38">For ere the glass that now begins to run</div>
+<div class="play-line" data-line-number="39">Finish the process of his sandy hour,</div>
+<div class="play-line" data-line-number="40">These eyes, that see thee now well-colored,</div>
+<div class="play-line" data-line-number="41">Shall see thee withered, bloody, pale, and dead.</div>
+<div class="play-line" data-line-number="42">[<i>Drum afar off.</i>]</div>
+<div class="play-line" data-line-number="43">Hark, hark, the Dauphin&rsquo;s drum, a warning bell,</div>
+<div class="play-line" data-line-number="44">Sings heavy music to thy timorous soul,</div>
+<div class="play-line" data-line-number="45">And mine shall ring thy dire departure out.</div>
+<div class="play-line" data-line-number="46">[<i>He exits, aloft, with Others.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-He fables not; I hear the enemy.
-Out, some light horsemen, and peruse their wings.
-[<i>Some Soldiers exit.</i>]
-O, negligent and heedless discipline,
-How are we parked and bounded in a pale,
-A little herd of England&rsquo;s timorous deer
-Mazed with a yelping kennel of French curs.
-If we be English deer, be then in blood,
-Not rascal-like to fall down with a pinch,
-But rather, moody-mad and desperate stags,
-Turn on the bloody hounds with heads of steel
-And make the cowards stand aloof at bay.
-Sell every man his life as dear as mine
-And they shall find dear deer of us, my friends.
-God and Saint George, Talbot and England&rsquo;s right,
-Prosper our colors in this dangerous fight!
-[<i>He exits with Soldiers, Drum and Trumpet.</i>]
-
+<div class="play-line" data-line-number="47">He fables not; I hear the enemy.</div>
+<div class="play-line" data-line-number="48">Out, some light horsemen, and peruse their wings.</div>
+<div class="play-line" data-line-number="49">[<i>Some Soldiers exit.</i>]</div>
+<div class="play-line" data-line-number="50">O, negligent and heedless discipline,</div>
+<div class="play-line" data-line-number="51">How are we parked and bounded in a pale,</div>
+<div class="play-line" data-line-number="52">A little herd of England&rsquo;s timorous deer</div>
+<div class="play-line" data-line-number="53">Mazed with a yelping kennel of French curs.</div>
+<div class="play-line" data-line-number="54">If we be English deer, be then in blood,</div>
+<div class="play-line" data-line-number="55">Not rascal-like to fall down with a pinch,</div>
+<div class="play-line" data-line-number="56">But rather, moody-mad and desperate stags,</div>
+<div class="play-line" data-line-number="57">Turn on the bloody hounds with heads of steel</div>
+<div class="play-line" data-line-number="58">And make the cowards stand aloof at bay.</div>
+<div class="play-line" data-line-number="59">Sell every man his life as dear as mine</div>
+<div class="play-line" data-line-number="60">And they shall find dear deer of us, my friends.</div>
+<div class="play-line" data-line-number="61">God and Saint George, Talbot and England&rsquo;s right,</div>
+<div class="play-line" data-line-number="62">Prosper our colors in this dangerous fight!</div>
+<div class="play-line" data-line-number="63">[<i>He exits with Soldiers, Drum and Trumpet.</i>]</div>
+<br>
 <b id="act-4-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Enter a Messenger that meets York. Enter York
-with Trumpet and many Soldiers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter a Messenger that meets York. Enter York</div>
+<div class="play-line" data-line-number="2">with Trumpet and many Soldiers.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-Are not the speedy scouts returned again
-That dogged the mighty army of the Dauphin?
-
+<div class="play-line" data-line-number="3">Are not the speedy scouts returned again</div>
+<div class="play-line" data-line-number="4">That dogged the mighty army of the Dauphin?</div>
+<br>
 <speaker>MESSENGER</speaker>
-They are returned, my lord, and give it out
-That he is marched to Bordeaux with his power
-To fight with Talbot. As he marched along,
-By your espials were discovered
-Two mightier troops than that the Dauphin led,
-Which joined with him and made their march for
-Bordeaux.	[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="5">They are returned, my lord, and give it out</div>
+<div class="play-line" data-line-number="6">That he is marched to Bordeaux with his power</div>
+<div class="play-line" data-line-number="7">To fight with Talbot. As he marched along,</div>
+<div class="play-line" data-line-number="8">By your espials were discovered</div>
+<div class="play-line" data-line-number="9">Two mightier troops than that the Dauphin led,</div>
+<div class="play-line" data-line-number="10">Which joined with him and made their march for</div>
+<div class="play-line" data-line-number="11">Bordeaux.	[<i>He exits.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-A plague upon that villain Somerset
-That thus delays my promised supply
-Of horsemen that were levied for this siege!
-Renowned Talbot doth expect my aid,
-And I am louted by a traitor villain
-And cannot help the noble chevalier.
-God comfort him in this necessity.
-If he miscarry, farewell wars in France.
-
-[<i>Enter Sir William Lucy.</i>]
-
+<div class="play-line" data-line-number="12">A plague upon that villain Somerset</div>
+<div class="play-line" data-line-number="13">That thus delays my promised supply</div>
+<div class="play-line" data-line-number="14">Of horsemen that were levied for this siege!</div>
+<div class="play-line" data-line-number="15">Renowned Talbot doth expect my aid,</div>
+<div class="play-line" data-line-number="16">And I am louted by a traitor villain</div>
+<div class="play-line" data-line-number="17">And cannot help the noble chevalier.</div>
+<div class="play-line" data-line-number="18">God comfort him in this necessity.</div>
+<div class="play-line" data-line-number="19">If he miscarry, farewell wars in France.</div>
+<br>
+<div class="play-line" data-line-number="20">[<i>Enter Sir William Lucy.</i>]</div>
+<br>
 <speaker>LUCY</speaker>
-Thou princely leader of our English strength,
-Never so needful on the earth of France,
-Spur to the rescue of the noble Talbot,
-Who now is girdled with a waist of iron
-And hemmed about with grim destruction.
-To Bordeaux, warlike duke! To Bordeaux, York!
-Else farewell Talbot, France, and England&rsquo;s honor.
-
+<div class="play-line" data-line-number="21">Thou princely leader of our English strength,</div>
+<div class="play-line" data-line-number="22">Never so needful on the earth of France,</div>
+<div class="play-line" data-line-number="23">Spur to the rescue of the noble Talbot,</div>
+<div class="play-line" data-line-number="24">Who now is girdled with a waist of iron</div>
+<div class="play-line" data-line-number="25">And hemmed about with grim destruction.</div>
+<div class="play-line" data-line-number="26">To Bordeaux, warlike duke! To Bordeaux, York!</div>
+<div class="play-line" data-line-number="27">Else farewell Talbot, France, and England&rsquo;s honor.</div>
+<br>
 <speaker>YORK</speaker>
-O God, that Somerset, who in proud heart
-Doth stop my cornets, were in Talbot&rsquo;s place!
-So should we save a valiant gentleman
-By forfeiting a traitor and a coward.
-Mad ire and wrathful fury makes me weep
-That thus we die while remiss traitors sleep.
-
+<div class="play-line" data-line-number="28">O God, that Somerset, who in proud heart</div>
+<div class="play-line" data-line-number="29">Doth stop my cornets, were in Talbot&rsquo;s place!</div>
+<div class="play-line" data-line-number="30">So should we save a valiant gentleman</div>
+<div class="play-line" data-line-number="31">By forfeiting a traitor and a coward.</div>
+<div class="play-line" data-line-number="32">Mad ire and wrathful fury makes me weep</div>
+<div class="play-line" data-line-number="33">That thus we die while remiss traitors sleep.</div>
+<br>
 <speaker>LUCY</speaker>
-O, send some succor to the distressed lord!
-
+<div class="play-line" data-line-number="34">O, send some succor to the distressed lord!</div>
+<br>
 <speaker>YORK</speaker>
-He dies, we lose; I break my warlike word;
-We mourn, France smiles; we lose, they daily get,
-All long of this vile traitor Somerset.
-
+<div class="play-line" data-line-number="35">He dies, we lose; I break my warlike word;</div>
+<div class="play-line" data-line-number="36">We mourn, France smiles; we lose, they daily get,</div>
+<div class="play-line" data-line-number="37">All long of this vile traitor Somerset.</div>
+<br>
 <speaker>LUCY</speaker>
-Then God take mercy on brave Talbot&rsquo;s soul,
-And on his son, young John, who two hours since
-I met in travel toward his warlike father.
-This seven years did not Talbot see his son,
-And now they meet where both their lives are done.
-
+<div class="play-line" data-line-number="38">Then God take mercy on brave Talbot&rsquo;s soul,</div>
+<div class="play-line" data-line-number="39">And on his son, young John, who two hours since</div>
+<div class="play-line" data-line-number="40">I met in travel toward his warlike father.</div>
+<div class="play-line" data-line-number="41">This seven years did not Talbot see his son,</div>
+<div class="play-line" data-line-number="42">And now they meet where both their lives are done.</div>
+<br>
 <speaker>YORK</speaker>
-Alas, what joy shall noble Talbot have
-To bid his young son welcome to his grave?
-Away! Vexation almost stops my breath,
-That sundered friends greet in the hour of death.
-Lucy, farewell. No more my fortune can
-But curse the cause I cannot aid the man.
-Maine, Blois, Poictiers, and Tours are won away,
-Long all of Somerset and his delay.
-[<i>York and his Soldiers exit.</i>]
-
+<div class="play-line" data-line-number="43">Alas, what joy shall noble Talbot have</div>
+<div class="play-line" data-line-number="44">To bid his young son welcome to his grave?</div>
+<div class="play-line" data-line-number="45">Away! Vexation almost stops my breath,</div>
+<div class="play-line" data-line-number="46">That sundered friends greet in the hour of death.</div>
+<div class="play-line" data-line-number="47">Lucy, farewell. No more my fortune can</div>
+<div class="play-line" data-line-number="48">But curse the cause I cannot aid the man.</div>
+<div class="play-line" data-line-number="49">Maine, Blois, Poictiers, and Tours are won away,</div>
+<div class="play-line" data-line-number="50">Long all of Somerset and his delay.</div>
+<div class="play-line" data-line-number="51">[<i>York and his Soldiers exit.</i>]</div>
+<br>
 <speaker>LUCY</speaker>
-Thus while the vulture of sedition
-Feeds in the bosom of such great commanders,
-Sleeping neglection doth betray to loss
-The conquest of our scarce-cold conqueror,
-That ever-living man of memory,
-Henry the Fifth. Whiles they each other cross,
-Lives, honors, lands, and all hurry to loss.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="52">Thus while the vulture of sedition</div>
+<div class="play-line" data-line-number="53">Feeds in the bosom of such great commanders,</div>
+<div class="play-line" data-line-number="54">Sleeping neglection doth betray to loss</div>
+<div class="play-line" data-line-number="55">The conquest of our scarce-cold conqueror,</div>
+<div class="play-line" data-line-number="56">That ever-living man of memory,</div>
+<div class="play-line" data-line-number="57">Henry the Fifth. Whiles they each other cross,</div>
+<div class="play-line" data-line-number="58">Lives, honors, lands, and all hurry to loss.</div>
+<div class="play-line" data-line-number="59">[<i>He exits.</i>]</div>
+<br>
 <b id="act-4-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Enter Somerset with his army and a Captain
-from Talbot&rsquo;s army.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Somerset with his army and a Captain</div>
+<div class="play-line" data-line-number="2">from Talbot&rsquo;s army.</i>]</div>
+<br>
 <speaker>SOMERSET</speaker>
-It is too late; I cannot send them now.
-This expedition was by York and Talbot
-Too rashly plotted. All our general force
-Might with a sally of the very town
-Be buckled with. The overdaring Talbot
-Hath sullied all his gloss of former honor
-By this unheedful, desperate, wild adventure.
-York set him on to fight and die in shame
-That, Talbot dead, great York might bear the name.
-
-[<i>Enter Sir William Lucy.</i>]
-
+<div class="play-line" data-line-number="3">It is too late; I cannot send them now.</div>
+<div class="play-line" data-line-number="4">This expedition was by York and Talbot</div>
+<div class="play-line" data-line-number="5">Too rashly plotted. All our general force</div>
+<div class="play-line" data-line-number="6">Might with a sally of the very town</div>
+<div class="play-line" data-line-number="7">Be buckled with. The overdaring Talbot</div>
+<div class="play-line" data-line-number="8">Hath sullied all his gloss of former honor</div>
+<div class="play-line" data-line-number="9">By this unheedful, desperate, wild adventure.</div>
+<div class="play-line" data-line-number="10">York set him on to fight and die in shame</div>
+<div class="play-line" data-line-number="11">That, Talbot dead, great York might bear the name.</div>
+<br>
+<div class="play-line" data-line-number="12">[<i>Enter Sir William Lucy.</i>]</div>
+<br>
 <speaker>CAPTAIN</speaker>
-Here is Sir William Lucy, who with me
-Set from our o&rsquo;er-matched forces forth for aid.
-
+<div class="play-line" data-line-number="13">Here is Sir William Lucy, who with me</div>
+<div class="play-line" data-line-number="14">Set from our o&rsquo;er-matched forces forth for aid.</div>
+<br>
 <speaker>SOMERSET</speaker>
-How now, Sir William, whither were you sent?
-
+<div class="play-line" data-line-number="15">How now, Sir William, whither were you sent?</div>
+<br>
 <speaker>LUCY</speaker>
-Whither, my lord? From bought and sold Lord Talbot,
-Who, ringed about with bold adversity,
-Cries out for noble York and Somerset
-To beat assailing Death from his weak regions;
-And whiles the honorable captain there
-Drops bloody sweat from his war-wearied limbs
-And, in advantage ling&rsquo;ring, looks for rescue,
-You, his false hopes, the trust of England&rsquo;s honor,
-Keep off aloof with worthless emulation.
-Let not your private discord keep away
-The levied succors that should lend him aid,
-While he, renowned noble gentleman,
-Yield up his life unto a world of odds.
-Orleance the Bastard, Charles, Burgundy,
-Alanson, Reignier compass him about,
-And Talbot perisheth by your default.
-
+<div class="play-line" data-line-number="16">Whither, my lord? From bought and sold Lord Talbot,</div>
+<div class="play-line" data-line-number="17">Who, ringed about with bold adversity,</div>
+<div class="play-line" data-line-number="18">Cries out for noble York and Somerset</div>
+<div class="play-line" data-line-number="19">To beat assailing Death from his weak regions;</div>
+<div class="play-line" data-line-number="20">And whiles the honorable captain there</div>
+<div class="play-line" data-line-number="21">Drops bloody sweat from his war-wearied limbs</div>
+<div class="play-line" data-line-number="22">And, in advantage ling&rsquo;ring, looks for rescue,</div>
+<div class="play-line" data-line-number="23">You, his false hopes, the trust of England&rsquo;s honor,</div>
+<div class="play-line" data-line-number="24">Keep off aloof with worthless emulation.</div>
+<div class="play-line" data-line-number="25">Let not your private discord keep away</div>
+<div class="play-line" data-line-number="26">The levied succors that should lend him aid,</div>
+<div class="play-line" data-line-number="27">While he, renowned noble gentleman,</div>
+<div class="play-line" data-line-number="28">Yield up his life unto a world of odds.</div>
+<div class="play-line" data-line-number="29">Orleance the Bastard, Charles, Burgundy,</div>
+<div class="play-line" data-line-number="30">Alanson, Reignier compass him about,</div>
+<div class="play-line" data-line-number="31">And Talbot perisheth by your default.</div>
+<br>
 <speaker>SOMERSET</speaker>
-York set him on; York should have sent him aid.
-
+<div class="play-line" data-line-number="32">York set him on; York should have sent him aid.</div>
+<br>
 <speaker>LUCY</speaker>
-And York as fast upon your Grace exclaims,
-Swearing that you withhold his levied host
-Collected for this expedition.
-
+<div class="play-line" data-line-number="33">And York as fast upon your Grace exclaims,</div>
+<div class="play-line" data-line-number="34">Swearing that you withhold his levied host</div>
+<div class="play-line" data-line-number="35">Collected for this expedition.</div>
+<br>
 <speaker>SOMERSET</speaker>
-York lies. He might have sent and had the horse.
-I owe him little duty and less love,
-And take foul scorn to fawn on him by sending.
-
+<div class="play-line" data-line-number="36">York lies. He might have sent and had the horse.</div>
+<div class="play-line" data-line-number="37">I owe him little duty and less love,</div>
+<div class="play-line" data-line-number="38">And take foul scorn to fawn on him by sending.</div>
+<br>
 <speaker>LUCY</speaker>
-The fraud of England, not the force of France,
-Hath now entrapped the noble-minded Talbot.
-Never to England shall he bear his life,
-But dies betrayed to fortune by your strife.
-
+<div class="play-line" data-line-number="39">The fraud of England, not the force of France,</div>
+<div class="play-line" data-line-number="40">Hath now entrapped the noble-minded Talbot.</div>
+<div class="play-line" data-line-number="41">Never to England shall he bear his life,</div>
+<div class="play-line" data-line-number="42">But dies betrayed to fortune by your strife.</div>
+<br>
 <speaker>SOMERSET</speaker>
-Come, go. I will dispatch the horsemen straight.
-Within six hours they will be at his aid.
-
+<div class="play-line" data-line-number="43">Come, go. I will dispatch the horsemen straight.</div>
+<div class="play-line" data-line-number="44">Within six hours they will be at his aid.</div>
+<br>
 <speaker>LUCY</speaker>
-Too late comes rescue; he is ta&rsquo;en or slain,
-For fly he could not if he would have fled;
-And fly would Talbot never, though he might.
-
+<div class="play-line" data-line-number="45">Too late comes rescue; he is ta&rsquo;en or slain,</div>
+<div class="play-line" data-line-number="46">For fly he could not if he would have fled;</div>
+<div class="play-line" data-line-number="47">And fly would Talbot never, though he might.</div>
+<br>
 <speaker>SOMERSET</speaker>
-If he be dead, brave Talbot, then adieu.
-
+<div class="play-line" data-line-number="48">If he be dead, brave Talbot, then adieu.</div>
+<br>
 <speaker>LUCY</speaker>
-His fame lives in the world, his shame in you.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="49">His fame lives in the world, his shame in you.</div>
+<div class="play-line" data-line-number="50">[<i>They exit.</i>]</div>
+<br>
 <b id="act-4-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[<i>Enter Talbot and John Talbot, his son.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Talbot and John Talbot, his son.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-O young John Talbot, I did send for thee
-To tutor thee in stratagems of war,
-That Talbot&rsquo;s name might be in thee revived
-When sapless age and weak unable limbs
-Should bring thy father to his drooping chair.
-But&mdash;O, malignant and ill-boding stars!&mdash;
-Now thou art come unto a feast of Death,
-A terrible and unavoided danger.
-Therefore, dear boy, mount on my swiftest horse,
-And I&rsquo;ll direct thee how thou shalt escape
-By sudden flight. Come, dally not, be gone.
-
+<div class="play-line" data-line-number="2">O young John Talbot, I did send for thee</div>
+<div class="play-line" data-line-number="3">To tutor thee in stratagems of war,</div>
+<div class="play-line" data-line-number="4">That Talbot&rsquo;s name might be in thee revived</div>
+<div class="play-line" data-line-number="5">When sapless age and weak unable limbs</div>
+<div class="play-line" data-line-number="6">Should bring thy father to his drooping chair.</div>
+<div class="play-line" data-line-number="7">But&mdash;O, malignant and ill-boding stars!&mdash;</div>
+<div class="play-line" data-line-number="8">Now thou art come unto a feast of Death,</div>
+<div class="play-line" data-line-number="9">A terrible and unavoided danger.</div>
+<div class="play-line" data-line-number="10">Therefore, dear boy, mount on my swiftest horse,</div>
+<div class="play-line" data-line-number="11">And I&rsquo;ll direct thee how thou shalt escape</div>
+<div class="play-line" data-line-number="12">By sudden flight. Come, dally not, be gone.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-Is my name Talbot? And am I your son?
-And shall I fly? O, if you love my mother,
-Dishonor not her honorable name
-To make a bastard and a slave of me!
-The world will say &ldquo;He is not Talbot&rsquo;s blood,
-That basely fled when noble Talbot stood.&rdquo;
-
+<div class="play-line" data-line-number="13">Is my name Talbot? And am I your son?</div>
+<div class="play-line" data-line-number="14">And shall I fly? O, if you love my mother,</div>
+<div class="play-line" data-line-number="15">Dishonor not her honorable name</div>
+<div class="play-line" data-line-number="16">To make a bastard and a slave of me!</div>
+<div class="play-line" data-line-number="17">The world will say &ldquo;He is not Talbot&rsquo;s blood,</div>
+<div class="play-line" data-line-number="18">That basely fled when noble Talbot stood.&rdquo;</div>
+<br>
 <speaker>TALBOT</speaker>
-Fly, to revenge my death if I be slain.
-
+<div class="play-line" data-line-number="19">Fly, to revenge my death if I be slain.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-He that flies so will ne&rsquo;er return again.
-
+<div class="play-line" data-line-number="20">He that flies so will ne&rsquo;er return again.</div>
+<br>
 <speaker>TALBOT</speaker>
-If we both stay, we both are sure to die.
-
+<div class="play-line" data-line-number="21">If we both stay, we both are sure to die.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-Then let me stay and, father, do you fly.
-Your loss is great; so your regard should be.
-My worth unknown, no loss is known in me.
-Upon my death, the French can little boast;
-In yours they will; in you all hopes are lost.
-Flight cannot stain the honor you have won,
-But mine it will, that no exploit have done.
-You fled for vantage, everyone will swear;
-But if I bow, they&rsquo;ll say it was for fear.
-There is no hope that ever I will stay
-If the first hour I shrink and run away.	[<i>He kneels.</i>]
-Here on my knee I beg mortality,
-Rather than life preserved with infamy.
-
+<div class="play-line" data-line-number="22">Then let me stay and, father, do you fly.</div>
+<div class="play-line" data-line-number="23">Your loss is great; so your regard should be.</div>
+<div class="play-line" data-line-number="24">My worth unknown, no loss is known in me.</div>
+<div class="play-line" data-line-number="25">Upon my death, the French can little boast;</div>
+<div class="play-line" data-line-number="26">In yours they will; in you all hopes are lost.</div>
+<div class="play-line" data-line-number="27">Flight cannot stain the honor you have won,</div>
+<div class="play-line" data-line-number="28">But mine it will, that no exploit have done.</div>
+<div class="play-line" data-line-number="29">You fled for vantage, everyone will swear;</div>
+<div class="play-line" data-line-number="30">But if I bow, they&rsquo;ll say it was for fear.</div>
+<div class="play-line" data-line-number="31">There is no hope that ever I will stay</div>
+<div class="play-line" data-line-number="32">If the first hour I shrink and run away.	[<i>He kneels.</i>]</div>
+<div class="play-line" data-line-number="33">Here on my knee I beg mortality,</div>
+<div class="play-line" data-line-number="34">Rather than life preserved with infamy.</div>
+<br>
 <speaker>TALBOT</speaker>
-Shall all thy mother&rsquo;s hopes lie in one tomb?
-
+<div class="play-line" data-line-number="35">Shall all thy mother&rsquo;s hopes lie in one tomb?</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-Ay, rather than I&rsquo;ll shame my mother&rsquo;s womb.
-
+<div class="play-line" data-line-number="36">Ay, rather than I&rsquo;ll shame my mother&rsquo;s womb.</div>
+<br>
 <speaker>TALBOT</speaker>
-Upon my blessing I command thee go.
-
+<div class="play-line" data-line-number="37">Upon my blessing I command thee go.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-To fight I will, but not to fly the foe.
-
+<div class="play-line" data-line-number="38">To fight I will, but not to fly the foe.</div>
+<br>
 <speaker>TALBOT</speaker>
-Part of thy father may be saved in thee.
-
+<div class="play-line" data-line-number="39">Part of thy father may be saved in thee.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-No part of him but will be shame in me.
-
+<div class="play-line" data-line-number="40">No part of him but will be shame in me.</div>
+<br>
 <speaker>TALBOT</speaker>
-Thou never hadst renown, nor canst not lose it.
-
+<div class="play-line" data-line-number="41">Thou never hadst renown, nor canst not lose it.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-Yes, your renowned name; shall flight abuse it?
-
+<div class="play-line" data-line-number="42">Yes, your renowned name; shall flight abuse it?</div>
+<br>
 <speaker>TALBOT</speaker>
-Thy father&rsquo;s charge shall clear thee from that stain.
-
+<div class="play-line" data-line-number="43">Thy father&rsquo;s charge shall clear thee from that stain.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-You cannot witness for me, being slain.
-If death be so apparent, then both fly.
-
+<div class="play-line" data-line-number="44">You cannot witness for me, being slain.</div>
+<div class="play-line" data-line-number="45">If death be so apparent, then both fly.</div>
+<br>
 <speaker>TALBOT</speaker>
-And leave my followers here to fight and die?
-My age was never tainted with such shame.
-
+<div class="play-line" data-line-number="46">And leave my followers here to fight and die?</div>
+<div class="play-line" data-line-number="47">My age was never tainted with such shame.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-And shall my youth be guilty of such blame?
-[<i>He rises.</i>]
-No more can I be severed from your side
-Than can yourself yourself in twain divide.
-Stay, go, do what you will; the like do I,
-For live I will not, if my father die.
-
+<div class="play-line" data-line-number="48">And shall my youth be guilty of such blame?</div>
+<div class="play-line" data-line-number="49">[<i>He rises.</i>]</div>
+<div class="play-line" data-line-number="50">No more can I be severed from your side</div>
+<div class="play-line" data-line-number="51">Than can yourself yourself in twain divide.</div>
+<div class="play-line" data-line-number="52">Stay, go, do what you will; the like do I,</div>
+<div class="play-line" data-line-number="53">For live I will not, if my father die.</div>
+<br>
 <speaker>TALBOT</speaker>
-Then here I take my leave of thee, fair son,
-Born to eclipse thy life this afternoon.
-Come, side by side, together live and die,
-And soul with soul from France to heaven fly.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="54">Then here I take my leave of thee, fair son,</div>
+<div class="play-line" data-line-number="55">Born to eclipse thy life this afternoon.</div>
+<div class="play-line" data-line-number="56">Come, side by side, together live and die,</div>
+<div class="play-line" data-line-number="57">And soul with soul from France to heaven fly.</div>
+<div class="play-line" data-line-number="58">[<i>They exit.</i>]</div>
+<br>
 <b id="act-4-scene-6" class="scene-header">Scene 6</b>
 <hr>
-[<i>Alarum. Excursions, wherein Talbot&rsquo;s son John
-is hemmed about, and Talbot rescues him.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Alarum. Excursions, wherein Talbot&rsquo;s son John</div>
+<div class="play-line" data-line-number="2">is hemmed about, and Talbot rescues him.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Saint George, and victory! Fight, soldiers, fight!
-The Regent hath with Talbot broke his word
-And left us to the rage of France his sword.
-Where is John Talbot?&mdash;Pause, and take thy breath;
-I gave thee life and rescued thee from death.
-
+<div class="play-line" data-line-number="3">Saint George, and victory! Fight, soldiers, fight!</div>
+<div class="play-line" data-line-number="4">The Regent hath with Talbot broke his word</div>
+<div class="play-line" data-line-number="5">And left us to the rage of France his sword.</div>
+<div class="play-line" data-line-number="6">Where is John Talbot?&mdash;Pause, and take thy breath;</div>
+<div class="play-line" data-line-number="7">I gave thee life and rescued thee from death.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-O, twice my father, twice am I thy son!
-The life thou gav&rsquo;st me first was lost and done
-Till with thy warlike sword, despite of fate,
-To my determined time thou gav&rsquo;st new date.
-
+<div class="play-line" data-line-number="8">O, twice my father, twice am I thy son!</div>
+<div class="play-line" data-line-number="9">The life thou gav&rsquo;st me first was lost and done</div>
+<div class="play-line" data-line-number="10">Till with thy warlike sword, despite of fate,</div>
+<div class="play-line" data-line-number="11">To my determined time thou gav&rsquo;st new date.</div>
+<br>
 <speaker>TALBOT</speaker>
-When from the Dauphin&rsquo;s crest thy sword struck fire,
-It warmed thy father&rsquo;s heart with proud desire
-Of bold-faced victory. Then leaden age,
-Quickened with youthful spleen and warlike rage,
-Beat down Alanson, Orleance, Burgundy,
-And from the pride of Gallia rescued thee.
-The ireful Bastard Orleance, that drew blood
-From thee, my boy, and had the maidenhood
-Of thy first fight, I soon encountered,
-And, interchanging blows, I quickly shed
-Some of his bastard blood, and in disgrace
-Bespoke him thus: &ldquo;Contaminated, base,
-And misbegotten blood I spill of thine,
-Mean and right poor, for that pure blood of mine
-Which thou didst force from Talbot, my brave boy.&rdquo;
-Here, purposing the Bastard to destroy,
-Came in strong rescue. Speak, thy father&rsquo;s care:
-Art thou not weary, John? How dost thou fare?
-Wilt thou yet leave the battle, boy, and fly,
-Now thou art sealed the son of chivalry?
-Fly, to revenge my death when I am dead;
-The help of one stands me in little stead.
-O, too much folly is it, well I wot,
-To hazard all our lives in one small boat.
-If I today die not with Frenchmen&rsquo;s rage,
-Tomorrow I shall die with mickle age.
-By me they nothing gain, and, if I stay,
-&rsquo;Tis but the short&rsquo;ning of my life one day.
-In thee thy mother dies, our household&rsquo;s name,
-My death&rsquo;s revenge, thy youth, and England&rsquo;s fame.
-All these and more we hazard by thy stay;
-All these are saved if thou wilt fly away.
-
+<div class="play-line" data-line-number="12">When from the Dauphin&rsquo;s crest thy sword struck fire,</div>
+<div class="play-line" data-line-number="13">It warmed thy father&rsquo;s heart with proud desire</div>
+<div class="play-line" data-line-number="14">Of bold-faced victory. Then leaden age,</div>
+<div class="play-line" data-line-number="15">Quickened with youthful spleen and warlike rage,</div>
+<div class="play-line" data-line-number="16">Beat down Alanson, Orleance, Burgundy,</div>
+<div class="play-line" data-line-number="17">And from the pride of Gallia rescued thee.</div>
+<div class="play-line" data-line-number="18">The ireful Bastard Orleance, that drew blood</div>
+<div class="play-line" data-line-number="19">From thee, my boy, and had the maidenhood</div>
+<div class="play-line" data-line-number="20">Of thy first fight, I soon encountered,</div>
+<div class="play-line" data-line-number="21">And, interchanging blows, I quickly shed</div>
+<div class="play-line" data-line-number="22">Some of his bastard blood, and in disgrace</div>
+<div class="play-line" data-line-number="23">Bespoke him thus: &ldquo;Contaminated, base,</div>
+<div class="play-line" data-line-number="24">And misbegotten blood I spill of thine,</div>
+<div class="play-line" data-line-number="25">Mean and right poor, for that pure blood of mine</div>
+<div class="play-line" data-line-number="26">Which thou didst force from Talbot, my brave boy.&rdquo;</div>
+<div class="play-line" data-line-number="27">Here, purposing the Bastard to destroy,</div>
+<div class="play-line" data-line-number="28">Came in strong rescue. Speak, thy father&rsquo;s care:</div>
+<div class="play-line" data-line-number="29">Art thou not weary, John? How dost thou fare?</div>
+<div class="play-line" data-line-number="30">Wilt thou yet leave the battle, boy, and fly,</div>
+<div class="play-line" data-line-number="31">Now thou art sealed the son of chivalry?</div>
+<div class="play-line" data-line-number="32">Fly, to revenge my death when I am dead;</div>
+<div class="play-line" data-line-number="33">The help of one stands me in little stead.</div>
+<div class="play-line" data-line-number="34">O, too much folly is it, well I wot,</div>
+<div class="play-line" data-line-number="35">To hazard all our lives in one small boat.</div>
+<div class="play-line" data-line-number="36">If I today die not with Frenchmen&rsquo;s rage,</div>
+<div class="play-line" data-line-number="37">Tomorrow I shall die with mickle age.</div>
+<div class="play-line" data-line-number="38">By me they nothing gain, and, if I stay,</div>
+<div class="play-line" data-line-number="39">&rsquo;Tis but the short&rsquo;ning of my life one day.</div>
+<div class="play-line" data-line-number="40">In thee thy mother dies, our household&rsquo;s name,</div>
+<div class="play-line" data-line-number="41">My death&rsquo;s revenge, thy youth, and England&rsquo;s fame.</div>
+<div class="play-line" data-line-number="42">All these and more we hazard by thy stay;</div>
+<div class="play-line" data-line-number="43">All these are saved if thou wilt fly away.</div>
+<br>
 <speaker>JOHN TALBOT</speaker>
-The sword of Orleance hath not made me smart;
-These words of yours draw lifeblood from my heart.
-On that advantage, bought with such a shame,
-To save a paltry life and slay bright fame,
-Before young Talbot from old Talbot fly,
-The coward horse that bears me fall and die!
-And like me to the peasant boys of France,
-To be shame&rsquo;s scorn and subject of mischance!
-Surely, by all the glory you have won,
-An if I fly, I am not Talbot&rsquo;s son.
-Then talk no more of flight, it is no boot;
-If son to Talbot, die at Talbot&rsquo;s foot.
-
+<div class="play-line" data-line-number="44">The sword of Orleance hath not made me smart;</div>
+<div class="play-line" data-line-number="45">These words of yours draw lifeblood from my heart.</div>
+<div class="play-line" data-line-number="46">On that advantage, bought with such a shame,</div>
+<div class="play-line" data-line-number="47">To save a paltry life and slay bright fame,</div>
+<div class="play-line" data-line-number="48">Before young Talbot from old Talbot fly,</div>
+<div class="play-line" data-line-number="49">The coward horse that bears me fall and die!</div>
+<div class="play-line" data-line-number="50">And like me to the peasant boys of France,</div>
+<div class="play-line" data-line-number="51">To be shame&rsquo;s scorn and subject of mischance!</div>
+<div class="play-line" data-line-number="52">Surely, by all the glory you have won,</div>
+<div class="play-line" data-line-number="53">An if I fly, I am not Talbot&rsquo;s son.</div>
+<div class="play-line" data-line-number="54">Then talk no more of flight, it is no boot;</div>
+<div class="play-line" data-line-number="55">If son to Talbot, die at Talbot&rsquo;s foot.</div>
+<br>
 <speaker>TALBOT</speaker>
-Then follow thou thy desp&rsquo;rate sire of Crete,
-Thou Icarus; thy life to me is sweet.
-If thou wilt fight, fight by thy father&rsquo;s side,
-And commendable proved, let&rsquo;s die in pride.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="56">Then follow thou thy desp&rsquo;rate sire of Crete,</div>
+<div class="play-line" data-line-number="57">Thou Icarus; thy life to me is sweet.</div>
+<div class="play-line" data-line-number="58">If thou wilt fight, fight by thy father&rsquo;s side,</div>
+<div class="play-line" data-line-number="59">And commendable proved, let&rsquo;s die in pride.</div>
+<div class="play-line" data-line-number="60">[<i>They exit.</i>]</div>
+<br>
 <b id="act-4-scene-7" class="scene-header">Scene 7</b>
 <hr>
-[<i>Alarum. Excursions. Enter old Talbot
-led by a Servant.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Alarum. Excursions. Enter old Talbot</div>
+<div class="play-line" data-line-number="2">led by a Servant.</i>]</div>
+<br>
 <speaker>TALBOT</speaker>
-Where is my other life? Mine own is gone.
-O, where&rsquo;s young Talbot? Where is valiant John?
-Triumphant Death, smeared with captivity,
-Young Talbot&rsquo;s valor makes me smile at thee.
-When he perceived me shrink and on my knee,
-His bloody sword he brandished over me,
-And like a hungry lion did commence
-Rough deeds of rage and stern impatience;
-But when my angry guardant stood alone,
-Tend&rsquo;ring my ruin and assailed of none,
-Dizzy-eyed fury and great rage of heart
-Suddenly made him from my side to start
-Into the clust&rsquo;ring battle of the French;
-And in that sea of blood, my boy did drench
-His over-mounting spirit; and there died
-My Icarus, my blossom, in his pride.
-
-[<i>Enter Soldiers with John Talbot, borne.</i>]
-
+<div class="play-line" data-line-number="3">Where is my other life? Mine own is gone.</div>
+<div class="play-line" data-line-number="4">O, where&rsquo;s young Talbot? Where is valiant John?</div>
+<div class="play-line" data-line-number="5">Triumphant Death, smeared with captivity,</div>
+<div class="play-line" data-line-number="6">Young Talbot&rsquo;s valor makes me smile at thee.</div>
+<div class="play-line" data-line-number="7">When he perceived me shrink and on my knee,</div>
+<div class="play-line" data-line-number="8">His bloody sword he brandished over me,</div>
+<div class="play-line" data-line-number="9">And like a hungry lion did commence</div>
+<div class="play-line" data-line-number="10">Rough deeds of rage and stern impatience;</div>
+<div class="play-line" data-line-number="11">But when my angry guardant stood alone,</div>
+<div class="play-line" data-line-number="12">Tend&rsquo;ring my ruin and assailed of none,</div>
+<div class="play-line" data-line-number="13">Dizzy-eyed fury and great rage of heart</div>
+<div class="play-line" data-line-number="14">Suddenly made him from my side to start</div>
+<div class="play-line" data-line-number="15">Into the clust&rsquo;ring battle of the French;</div>
+<div class="play-line" data-line-number="16">And in that sea of blood, my boy did drench</div>
+<div class="play-line" data-line-number="17">His over-mounting spirit; and there died</div>
+<div class="play-line" data-line-number="18">My Icarus, my blossom, in his pride.</div>
+<br>
+<div class="play-line" data-line-number="19">[<i>Enter Soldiers with John Talbot, borne.</i>]</div>
+<br>
 <speaker>SERVINGMAN</speaker>
-O, my dear lord, lo where your son is borne!
-
+<div class="play-line" data-line-number="20">O, my dear lord, lo where your son is borne!</div>
+<br>
 <speaker>TALBOT</speaker>
-Thou antic Death, which laugh&rsquo;st us here to scorn,
-Anon from thy insulting tyranny,
-Coupled in bonds of perpetuity,
-Two Talbots, winged through the lither sky,
-In thy despite shall scape mortality.&mdash;
-O, thou whose wounds become hard-favored Death,
-Speak to thy father ere thou yield thy breath!
-Brave Death by speaking, whither he will or no.
-Imagine him a Frenchman and thy foe.&mdash;
-Poor boy, he smiles, methinks, as who should say
-&ldquo;Had Death been French, then Death had died
-today.&rdquo;&mdash;
-Come, come, and lay him in his father&rsquo;s arms;
-My spirit can no longer bear these harms.
-Soldiers, adieu! I have what I would have,
-Now my old arms are young John Talbot&rsquo;s grave.
-[<i>Dies.</i>]
-[<i>Alarums. Soldiers exit.</i>]
-
-[<i>Enter Charles, Alanson, Burgundy, Bastard,
-and Pucelle, with Forces.</i>]
-
+<div class="play-line" data-line-number="21">Thou antic Death, which laugh&rsquo;st us here to scorn,</div>
+<div class="play-line" data-line-number="22">Anon from thy insulting tyranny,</div>
+<div class="play-line" data-line-number="23">Coupled in bonds of perpetuity,</div>
+<div class="play-line" data-line-number="24">Two Talbots, winged through the lither sky,</div>
+<div class="play-line" data-line-number="25">In thy despite shall scape mortality.&mdash;</div>
+<div class="play-line" data-line-number="26">O, thou whose wounds become hard-favored Death,</div>
+<div class="play-line" data-line-number="27">Speak to thy father ere thou yield thy breath!</div>
+<div class="play-line" data-line-number="28">Brave Death by speaking, whither he will or no.</div>
+<div class="play-line" data-line-number="29">Imagine him a Frenchman and thy foe.&mdash;</div>
+<div class="play-line" data-line-number="30">Poor boy, he smiles, methinks, as who should say</div>
+<div class="play-line" data-line-number="31">&ldquo;Had Death been French, then Death had died</div>
+<div class="play-line" data-line-number="32">today.&rdquo;&mdash;</div>
+<div class="play-line" data-line-number="33">Come, come, and lay him in his father&rsquo;s arms;</div>
+<div class="play-line" data-line-number="34">My spirit can no longer bear these harms.</div>
+<div class="play-line" data-line-number="35">Soldiers, adieu! I have what I would have,</div>
+<div class="play-line" data-line-number="36">Now my old arms are young John Talbot&rsquo;s grave.</div>
+<div class="play-line" data-line-number="37">[<i>Dies.</i>]</div>
+<div class="play-line" data-line-number="38">[<i>Alarums. Soldiers exit.</i>]</div>
+<br>
+<div class="play-line" data-line-number="39">[<i>Enter Charles, Alanson, Burgundy, Bastard,</div>
+<div class="play-line" data-line-number="40">and Pucelle, with Forces.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Had York and Somerset brought rescue in,
-We should have found a bloody day of this.
-
+<div class="play-line" data-line-number="41">Had York and Somerset brought rescue in,</div>
+<div class="play-line" data-line-number="42">We should have found a bloody day of this.</div>
+<br>
 <speaker>BASTARD</speaker>
-How the young whelp of Talbot&rsquo;s, raging wood,
-Did flesh his puny sword in Frenchmen&rsquo;s blood!
-
+<div class="play-line" data-line-number="43">How the young whelp of Talbot&rsquo;s, raging wood,</div>
+<div class="play-line" data-line-number="44">Did flesh his puny sword in Frenchmen&rsquo;s blood!</div>
+<br>
 <speaker>PUCELLE</speaker>
-Once I encountered him, and thus I said:
-&ldquo;Thou maiden youth, be vanquished by a maid.&rdquo;
-But with a proud majestical high scorn
-He answered thus: &ldquo;Young Talbot was not born
-To be the pillage of a giglot wench.&rdquo;
-So, rushing in the bowels of the French,
-He left me proudly, as unworthy fight.
-
+<div class="play-line" data-line-number="45">Once I encountered him, and thus I said:</div>
+<div class="play-line" data-line-number="46">&ldquo;Thou maiden youth, be vanquished by a maid.&rdquo;</div>
+<div class="play-line" data-line-number="47">But with a proud majestical high scorn</div>
+<div class="play-line" data-line-number="48">He answered thus: &ldquo;Young Talbot was not born</div>
+<div class="play-line" data-line-number="49">To be the pillage of a giglot wench.&rdquo;</div>
+<div class="play-line" data-line-number="50">So, rushing in the bowels of the French,</div>
+<div class="play-line" data-line-number="51">He left me proudly, as unworthy fight.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-Doubtless he would have made a noble knight.
-See where he lies inhearsed in the arms
-Of the most bloody nurser of his harms.
-
+<div class="play-line" data-line-number="52">Doubtless he would have made a noble knight.</div>
+<div class="play-line" data-line-number="53">See where he lies inhearsed in the arms</div>
+<div class="play-line" data-line-number="54">Of the most bloody nurser of his harms.</div>
+<br>
 <speaker>BASTARD</speaker>
-Hew them to pieces, hack their bones asunder,
-Whose life was England&rsquo;s glory, Gallia&rsquo;s wonder.
-
+<div class="play-line" data-line-number="55">Hew them to pieces, hack their bones asunder,</div>
+<div class="play-line" data-line-number="56">Whose life was England&rsquo;s glory, Gallia&rsquo;s wonder.</div>
+<br>
 <speaker>CHARLES</speaker>
-O, no, forbear! For that which we have fled
-During the life, let us not wrong it dead.
-
-[<i>Enter Lucy with Attendants and a French Herald.</i>]
-
+<div class="play-line" data-line-number="57">O, no, forbear! For that which we have fled</div>
+<div class="play-line" data-line-number="58">During the life, let us not wrong it dead.</div>
+<br>
+<div class="play-line" data-line-number="59">[<i>Enter Lucy with Attendants and a French Herald.</i>]</div>
+<br>
 <speaker>LUCY</speaker>
-Herald, conduct me to the Dauphin&rsquo;s tent,
-To know who hath obtained the glory of the day.
-
+<div class="play-line" data-line-number="60">Herald, conduct me to the Dauphin&rsquo;s tent,</div>
+<div class="play-line" data-line-number="61">To know who hath obtained the glory of the day.</div>
+<br>
 <speaker>CHARLES</speaker>
-On what submissive message art thou sent?
-
+<div class="play-line" data-line-number="62">On what submissive message art thou sent?</div>
+<br>
 <speaker>LUCY</speaker>
-Submission, dauphin? &rsquo;Tis a mere French word.
-We English warriors wot not what it means.
-I come to know what prisoners thou hast ta&rsquo;en,
-And to survey the bodies of the dead.
-
+<div class="play-line" data-line-number="63">Submission, dauphin? &rsquo;Tis a mere French word.</div>
+<div class="play-line" data-line-number="64">We English warriors wot not what it means.</div>
+<div class="play-line" data-line-number="65">I come to know what prisoners thou hast ta&rsquo;en,</div>
+<div class="play-line" data-line-number="66">And to survey the bodies of the dead.</div>
+<br>
 <speaker>CHARLES</speaker>
-For prisoners askst thou? Hell our prison is.
-But tell me whom thou seek&rsquo;st.
-
+<div class="play-line" data-line-number="67">For prisoners askst thou? Hell our prison is.</div>
+<div class="play-line" data-line-number="68">But tell me whom thou seek&rsquo;st.</div>
+<br>
 <speaker>LUCY</speaker>
-But where&rsquo;s the great Alcides of the field,
-Valiant Lord Talbot, Earl of Shrewsbury,
-Created for his rare success in arms
-Great Earl of Washford, Waterford, and Valence,
-Lord Talbot of Goodrich and Urchinfield,
-Lord Strange of Blackmere, Lord Verdon of Alton,
-Lord Cromwell of Wingfield, Lord Furnival of
-Sheffield,
-The thrice victorious Lord of Falconbridge,
-Knight of the noble Order of Saint George,
-Worthy Saint Michael, and the Golden Fleece,
-Great Marshal to Henry the Sixth
-Of all his wars within the realm of France?
-
+<div class="play-line" data-line-number="69">But where&rsquo;s the great Alcides of the field,</div>
+<div class="play-line" data-line-number="70">Valiant Lord Talbot, Earl of Shrewsbury,</div>
+<div class="play-line" data-line-number="71">Created for his rare success in arms</div>
+<div class="play-line" data-line-number="72">Great Earl of Washford, Waterford, and Valence,</div>
+<div class="play-line" data-line-number="73">Lord Talbot of Goodrich and Urchinfield,</div>
+<div class="play-line" data-line-number="74">Lord Strange of Blackmere, Lord Verdon of Alton,</div>
+<div class="play-line" data-line-number="75">Lord Cromwell of Wingfield, Lord Furnival of</div>
+<div class="play-line" data-line-number="76">Sheffield,</div>
+<div class="play-line" data-line-number="77">The thrice victorious Lord of Falconbridge,</div>
+<div class="play-line" data-line-number="78">Knight of the noble Order of Saint George,</div>
+<div class="play-line" data-line-number="79">Worthy Saint Michael, and the Golden Fleece,</div>
+<div class="play-line" data-line-number="80">Great Marshal to Henry the Sixth</div>
+<div class="play-line" data-line-number="81">Of all his wars within the realm of France?</div>
+<br>
 <speaker>PUCELLE</speaker>
-Here&rsquo;s a silly stately style indeed.
-The Turk, that two-and-fifty kingdoms hath,
-Writes not so tedious a style as this.
-Him that thou magnifi&rsquo;st with all these titles
-Stinking and flyblown lies here at our feet.
-
+<div class="play-line" data-line-number="82">Here&rsquo;s a silly stately style indeed.</div>
+<div class="play-line" data-line-number="83">The Turk, that two-and-fifty kingdoms hath,</div>
+<div class="play-line" data-line-number="84">Writes not so tedious a style as this.</div>
+<div class="play-line" data-line-number="85">Him that thou magnifi&rsquo;st with all these titles</div>
+<div class="play-line" data-line-number="86">Stinking and flyblown lies here at our feet.</div>
+<br>
 <speaker>LUCY</speaker>
-Is Talbot slain, the Frenchmen&rsquo;s only scourge,
-Your kingdom&rsquo;s terror and black Nemesis?
-O, were mine eyeballs into bullets turned
-That I in rage might shoot them at your faces!
-O, that I could but call these dead to life,
-It were enough to fright the realm of France.
-Were but his picture left amongst you here,
-It would amaze the proudest of you all.
-Give me their bodies, that I may bear them hence
-And give them burial as beseems their worth.
-
+<div class="play-line" data-line-number="87">Is Talbot slain, the Frenchmen&rsquo;s only scourge,</div>
+<div class="play-line" data-line-number="88">Your kingdom&rsquo;s terror and black Nemesis?</div>
+<div class="play-line" data-line-number="89">O, were mine eyeballs into bullets turned</div>
+<div class="play-line" data-line-number="90">That I in rage might shoot them at your faces!</div>
+<div class="play-line" data-line-number="91">O, that I could but call these dead to life,</div>
+<div class="play-line" data-line-number="92">It were enough to fright the realm of France.</div>
+<div class="play-line" data-line-number="93">Were but his picture left amongst you here,</div>
+<div class="play-line" data-line-number="94">It would amaze the proudest of you all.</div>
+<div class="play-line" data-line-number="95">Give me their bodies, that I may bear them hence</div>
+<div class="play-line" data-line-number="96">And give them burial as beseems their worth.</div>
+<br>
 <speaker>PUCELLE</speaker>
-I think this upstart is old Talbot&rsquo;s ghost,
-He speaks with such a proud commanding spirit.
-For God&rsquo;s sake, let him have him. To keep them here,
-They would but stink and putrefy the air.
-
+<div class="play-line" data-line-number="97">I think this upstart is old Talbot&rsquo;s ghost,</div>
+<div class="play-line" data-line-number="98">He speaks with such a proud commanding spirit.</div>
+<div class="play-line" data-line-number="99">For God&rsquo;s sake, let him have him. To keep them here,</div>
+<div class="play-line" data-line-number="100">They would but stink and putrefy the air.</div>
+<br>
 <speaker>CHARLES</speaker>
-Go, take their bodies hence.
-
+<div class="play-line" data-line-number="101">Go, take their bodies hence.</div>
+<br>
 <speaker>LUCY</speaker>
-I&rsquo;ll bear them hence.
-But from their ashes shall be reared
-A phoenix that shall make all France afeard.
-
+<div class="play-line" data-line-number="102">I&rsquo;ll bear them hence.</div>
+<div class="play-line" data-line-number="103">But from their ashes shall be reared</div>
+<div class="play-line" data-line-number="104">A phoenix that shall make all France afeard.</div>
+<br>
 <speaker>CHARLES</speaker>
-So we be rid of them, do with him what thou wilt.
-[<i>Lucy, Servant, and Attendants exit,
-bearing the bodies.</i>]
-And now to Paris in this conquering vein.
-All will be ours, now bloody Talbot&rsquo;s slain.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="105">So we be rid of them, do with him what thou wilt.</div>
+<div class="play-line" data-line-number="106">[<i>Lucy, Servant, and Attendants exit,</div>
+<div class="play-line" data-line-number="107">bearing the bodies.</i>]</div>
+<div class="play-line" data-line-number="108">And now to Paris in this conquering vein.</div>
+<div class="play-line" data-line-number="109">All will be ours, now bloody Talbot&rsquo;s slain.</div>
+<div class="play-line" data-line-number="110">[<i>They exit.</i>]</div>
+<br>
 <b id="act-5" class="act-header">Act 5</b>
+<br>
 <b id="act-5-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Sennet. Enter King, Gloucester, and Exeter,
-with Attendants.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Sennet. Enter King, Gloucester, and Exeter,</div>
+<div class="play-line" data-line-number="2">with Attendants.</i>]</div>
+<br>
 <speaker>KING HENRY</speaker>
-[<i>to Gloucester</i>]
-Have you perused the letters from the Pope,
-The Emperor, and the Earl of Armagnac?
-
+<div class="play-line" data-line-number="3">[<i>to Gloucester</i>]</div>
+<div class="play-line" data-line-number="4">Have you perused the letters from the Pope,</div>
+<div class="play-line" data-line-number="5">The Emperor, and the Earl of Armagnac?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-I have, my lord, and their intent is this:
-They humbly sue unto your Excellence
-To have a godly peace concluded of
-Between the realms of England and of France.
-
+<div class="play-line" data-line-number="6">I have, my lord, and their intent is this:</div>
+<div class="play-line" data-line-number="7">They humbly sue unto your Excellence</div>
+<div class="play-line" data-line-number="8">To have a godly peace concluded of</div>
+<div class="play-line" data-line-number="9">Between the realms of England and of France.</div>
+<br>
 <speaker>KING HENRY</speaker>
-How doth your Grace affect their motion?
-
+<div class="play-line" data-line-number="10">How doth your Grace affect their motion?</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Well, my good lord, and as the only means
-To stop effusion of our Christian blood
-And stablish quietness on every side.
-
+<div class="play-line" data-line-number="11">Well, my good lord, and as the only means</div>
+<div class="play-line" data-line-number="12">To stop effusion of our Christian blood</div>
+<div class="play-line" data-line-number="13">And stablish quietness on every side.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Ay, marry, uncle, for I always thought
-It was both impious and unnatural
-That such immanity and bloody strife
-Should reign among professors of one faith.
-
+<div class="play-line" data-line-number="14">Ay, marry, uncle, for I always thought</div>
+<div class="play-line" data-line-number="15">It was both impious and unnatural</div>
+<div class="play-line" data-line-number="16">That such immanity and bloody strife</div>
+<div class="play-line" data-line-number="17">Should reign among professors of one faith.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Besides, my lord, the sooner to effect
-And surer bind this knot of amity,
-The Earl of Armagnac, near knit to Charles,
-A man of great authority in France,
-Proffers his only daughter to your Grace
-In marriage, with a large and sumptuous dowry.
-
+<div class="play-line" data-line-number="18">Besides, my lord, the sooner to effect</div>
+<div class="play-line" data-line-number="19">And surer bind this knot of amity,</div>
+<div class="play-line" data-line-number="20">The Earl of Armagnac, near knit to Charles,</div>
+<div class="play-line" data-line-number="21">A man of great authority in France,</div>
+<div class="play-line" data-line-number="22">Proffers his only daughter to your Grace</div>
+<div class="play-line" data-line-number="23">In marriage, with a large and sumptuous dowry.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Marriage, uncle? Alas, my years are young;
-And fitter is my study and my books
-Than wanton dalliance with a paramour.
-Yet call th&rsquo; Ambassadors and, as you please,
-So let them have their answers every one.
-[<i>An Attendant exits.</i>]
-I shall be well content with any choice
-Tends to God&rsquo;s glory and my country&rsquo;s weal.
-
-[<i>Enter Winchester, dressed in cardinal&rsquo;s robes,
-and the Ambassador of Armagnac, a Papal Legate,
-and another Ambassador.</i>]
-
+<div class="play-line" data-line-number="24">Marriage, uncle? Alas, my years are young;</div>
+<div class="play-line" data-line-number="25">And fitter is my study and my books</div>
+<div class="play-line" data-line-number="26">Than wanton dalliance with a paramour.</div>
+<div class="play-line" data-line-number="27">Yet call th&rsquo; Ambassadors and, as you please,</div>
+<div class="play-line" data-line-number="28">So let them have their answers every one.</div>
+<div class="play-line" data-line-number="29">[<i>An Attendant exits.</i>]</div>
+<div class="play-line" data-line-number="30">I shall be well content with any choice</div>
+<div class="play-line" data-line-number="31">Tends to God&rsquo;s glory and my country&rsquo;s weal.</div>
+<br>
+<div class="play-line" data-line-number="32">[<i>Enter Winchester, dressed in cardinal&rsquo;s robes,</div>
+<div class="play-line" data-line-number="33">and the Ambassador of Armagnac, a Papal Legate,</div>
+<div class="play-line" data-line-number="34">and another Ambassador.</i>]</div>
+<br>
 <speaker>EXETER</speaker>
-[<i>aside</i>]
-What, is my Lord of Winchester installed
-And called unto a cardinal&rsquo;s degree?
-Then I perceive that will be verified
-Henry the Fifth did sometime prophesy:
-&ldquo;If once he come to be a cardinal,
-He&rsquo;ll make his cap coequal with the crown.&rdquo;
-
+<div class="play-line" data-line-number="35">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="36">What, is my Lord of Winchester installed</div>
+<div class="play-line" data-line-number="37">And called unto a cardinal&rsquo;s degree?</div>
+<div class="play-line" data-line-number="38">Then I perceive that will be verified</div>
+<div class="play-line" data-line-number="39">Henry the Fifth did sometime prophesy:</div>
+<div class="play-line" data-line-number="40">&ldquo;If once he come to be a cardinal,</div>
+<div class="play-line" data-line-number="41">He&rsquo;ll make his cap coequal with the crown.&rdquo;</div>
+<br>
 <speaker>KING HENRY</speaker>
-My Lords Ambassadors, your several suits
-Have been considered and debated on;
-Your purpose is both good and reasonable,
-And therefore are we certainly resolved
-To draw conditions of a friendly peace,
-Which by my Lord of Winchester we mean
-Shall be transported presently to France.
-
+<div class="play-line" data-line-number="42">My Lords Ambassadors, your several suits</div>
+<div class="play-line" data-line-number="43">Have been considered and debated on;</div>
+<div class="play-line" data-line-number="44">Your purpose is both good and reasonable,</div>
+<div class="play-line" data-line-number="45">And therefore are we certainly resolved</div>
+<div class="play-line" data-line-number="46">To draw conditions of a friendly peace,</div>
+<div class="play-line" data-line-number="47">Which by my Lord of Winchester we mean</div>
+<div class="play-line" data-line-number="48">Shall be transported presently to France.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-[<i>to the Ambassador of Armagnac</i>]
-And for the proffer of my lord your master,
-I have informed his Highness so at large
-As, liking of the lady&rsquo;s virtuous gifts,
-Her beauty, and the value of her dower,
-He doth intend she shall be England&rsquo;s queen.
-
+<div class="play-line" data-line-number="49">[<i>to the Ambassador of Armagnac</i>]</div>
+<div class="play-line" data-line-number="50">And for the proffer of my lord your master,</div>
+<div class="play-line" data-line-number="51">I have informed his Highness so at large</div>
+<div class="play-line" data-line-number="52">As, liking of the lady&rsquo;s virtuous gifts,</div>
+<div class="play-line" data-line-number="53">Her beauty, and the value of her dower,</div>
+<div class="play-line" data-line-number="54">He doth intend she shall be England&rsquo;s queen.</div>
+<br>
 <speaker>KING HENRY</speaker>
-[<i>handing a jewel to the Ambassador</i>]
-In argument and proof of which contract,
-Bear her this jewel, pledge of my affection.&mdash;
-And so, my Lord Protector, see them guarded
-And safely brought to Dover, where, inshipped,
-Commit them to the fortune of the sea.
-[<i>All except Winchester and Legate exit.</i>]
-
+<div class="play-line" data-line-number="55">[<i>handing a jewel to the Ambassador</i>]</div>
+<div class="play-line" data-line-number="56">In argument and proof of which contract,</div>
+<div class="play-line" data-line-number="57">Bear her this jewel, pledge of my affection.&mdash;</div>
+<div class="play-line" data-line-number="58">And so, my Lord Protector, see them guarded</div>
+<div class="play-line" data-line-number="59">And safely brought to Dover, where, inshipped,</div>
+<div class="play-line" data-line-number="60">Commit them to the fortune of the sea.</div>
+<div class="play-line" data-line-number="61">[<i>All except Winchester and Legate exit.</i>]</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Stay, my Lord Legate; you shall first receive
-The sum of money which I promised
-Should be delivered to his Holiness
-For clothing me in these grave ornaments.
-
+<div class="play-line" data-line-number="62">Stay, my Lord Legate; you shall first receive</div>
+<div class="play-line" data-line-number="63">The sum of money which I promised</div>
+<div class="play-line" data-line-number="64">Should be delivered to his Holiness</div>
+<div class="play-line" data-line-number="65">For clothing me in these grave ornaments.</div>
+<br>
 <speaker>LEGATE</speaker>
-I will attend upon your Lordship&rsquo;s leisure.	[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="66">I will attend upon your Lordship&rsquo;s leisure.	[<i>He exits.</i>]</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Now Winchester will not submit, I trow,
-Or be inferior to the proudest peer.
-Humphrey of Gloucester, thou shalt well perceive
-That neither in birth or for authority
-The Bishop will be overborne by thee.
-I&rsquo;ll either make thee stoop and bend thy knee,
-Or sack this country with a mutiny.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="67">Now Winchester will not submit, I trow,</div>
+<div class="play-line" data-line-number="68">Or be inferior to the proudest peer.</div>
+<div class="play-line" data-line-number="69">Humphrey of Gloucester, thou shalt well perceive</div>
+<div class="play-line" data-line-number="70">That neither in birth or for authority</div>
+<div class="play-line" data-line-number="71">The Bishop will be overborne by thee.</div>
+<div class="play-line" data-line-number="72">I&rsquo;ll either make thee stoop and bend thy knee,</div>
+<div class="play-line" data-line-number="73">Or sack this country with a mutiny.</div>
+<div class="play-line" data-line-number="74">[<i>He exits.</i>]</div>
+<br>
 <b id="act-5-scene-2" class="scene-header">Scene 2</b>
 <hr>
-[<i>Enter Charles, Burgundy, Alanson, Bastard,
-Reignier, and Joan la Pucelle, with Soldiers.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Charles, Burgundy, Alanson, Bastard,</div>
+<div class="play-line" data-line-number="2">Reignier, and Joan la Pucelle, with Soldiers.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-These news, my lords, may cheer our drooping spirits:
-&rsquo;Tis said the stout Parisians do revolt
-And turn again unto the warlike French.
-
+<div class="play-line" data-line-number="3">These news, my lords, may cheer our drooping spirits:</div>
+<div class="play-line" data-line-number="4">&rsquo;Tis said the stout Parisians do revolt</div>
+<div class="play-line" data-line-number="5">And turn again unto the warlike French.</div>
+<br>
 <speaker>ALANSON</speaker>
-Then march to Paris, royal Charles of France,
-And keep not back your powers in dalliance.
-
+<div class="play-line" data-line-number="6">Then march to Paris, royal Charles of France,</div>
+<div class="play-line" data-line-number="7">And keep not back your powers in dalliance.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Peace be amongst them if they turn to us;
-Else ruin combat with their palaces!
-
-[<i>Enter Scout.</i>]
-
+<div class="play-line" data-line-number="8">Peace be amongst them if they turn to us;</div>
+<div class="play-line" data-line-number="9">Else ruin combat with their palaces!</div>
+<br>
+<div class="play-line" data-line-number="10">[<i>Enter Scout.</i>]</div>
+<br>
 <speaker>SCOUT</speaker>
-Success unto our valiant general,
-And happiness to his accomplices.
-
+<div class="play-line" data-line-number="11">Success unto our valiant general,</div>
+<div class="play-line" data-line-number="12">And happiness to his accomplices.</div>
+<br>
 <speaker>CHARLES</speaker>
-What tidings send our scouts? I prithee speak.
-
+<div class="play-line" data-line-number="13">What tidings send our scouts? I prithee speak.</div>
+<br>
 <speaker>SCOUT</speaker>
-The English army that divided was
-Into two parties is now conjoined in one,
-And means to give you battle presently.
-
+<div class="play-line" data-line-number="14">The English army that divided was</div>
+<div class="play-line" data-line-number="15">Into two parties is now conjoined in one,</div>
+<div class="play-line" data-line-number="16">And means to give you battle presently.</div>
+<br>
 <speaker>CHARLES</speaker>
-Somewhat too sudden, sirs, the warning is,
-But we will presently provide for them.
-
+<div class="play-line" data-line-number="17">Somewhat too sudden, sirs, the warning is,</div>
+<div class="play-line" data-line-number="18">But we will presently provide for them.</div>
+<br>
 <speaker>BURGUNDY</speaker>
-I trust the ghost of Talbot is not there.
-Now he is gone, my lord, you need not fear.
-
+<div class="play-line" data-line-number="19">I trust the ghost of Talbot is not there.</div>
+<div class="play-line" data-line-number="20">Now he is gone, my lord, you need not fear.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Of all base passions, fear is most accursed.
-Command the conquest, Charles, it shall be thine;
-Let Henry fret and all the world repine.
-
+<div class="play-line" data-line-number="21">Of all base passions, fear is most accursed.</div>
+<div class="play-line" data-line-number="22">Command the conquest, Charles, it shall be thine;</div>
+<div class="play-line" data-line-number="23">Let Henry fret and all the world repine.</div>
+<br>
 <speaker>CHARLES</speaker>
-Then on, my lords, and France be fortunate!
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="24">Then on, my lords, and France be fortunate!</div>
+<div class="play-line" data-line-number="25">[<i>They exit.</i>]</div>
+<br>
 <b id="act-5-scene-3" class="scene-header">Scene 3</b>
 <hr>
-[<i>Alarum. Excursions. Enter Joan la Pucelle.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Alarum. Excursions. Enter Joan la Pucelle.</i>]</div>
+<br>
 <speaker>PUCELLE</speaker>
-The Regent conquers and the Frenchmen fly.
-Now help, you charming spells and periapts,
-And you choice spirits that admonish me,
-And give me signs of future accidents.	[<i>Thunder.</i>]
-You speedy helpers, that are substitutes
-Under the lordly monarch of the north,
-Appear, and aid me in this enterprise.
-
-[<i>Enter Fiends.</i>]
-
-This speed and quick appearance argues proof
-Of your accustomed diligence to me.
-Now, you familiar spirits that are culled
-Out of the powerful regions under earth,
-Help me this once, that France may get the field.
-[<i>They walk, and speak not.</i>]
-O, hold me not with silence overlong!
-Where I was wont to feed you with my blood,
-I&rsquo;ll lop a member off and give it you
-In earnest of a further benefit,
-So you do condescend to help me now.
-[<i>They hang their heads.</i>]
-No hope to have redress? My body shall
-Pay recompense if you will grant my suit.
-[<i>They shake their heads.</i>]
-Cannot my body nor blood-sacrifice
-Entreat you to your wonted furtherance?
-Then take my soul&mdash;my body, soul, and all&mdash;
-Before that England give the French the foil.
-[<i>They depart.</i>]
-See, they forsake me. Now the time is come
-That France must vail her lofty-plumed crest
-And let her head fall into England&rsquo;s lap.
-My ancient incantations are too weak,
-And hell too strong for me to buckle with.
-Now, France, thy glory droopeth to the dust.
-[<i>She exits.</i>]
-
-[<i>Excursions. Burgundy and York fight hand to hand.
-Burgundy and the French fly as York and English
-soldiers capture Joan la Pucelle.</i>]
-
+<div class="play-line" data-line-number="2">The Regent conquers and the Frenchmen fly.</div>
+<div class="play-line" data-line-number="3">Now help, you charming spells and periapts,</div>
+<div class="play-line" data-line-number="4">And you choice spirits that admonish me,</div>
+<div class="play-line" data-line-number="5">And give me signs of future accidents.	[<i>Thunder.</i>]</div>
+<div class="play-line" data-line-number="6">You speedy helpers, that are substitutes</div>
+<div class="play-line" data-line-number="7">Under the lordly monarch of the north,</div>
+<div class="play-line" data-line-number="8">Appear, and aid me in this enterprise.</div>
+<br>
+<div class="play-line" data-line-number="9">[<i>Enter Fiends.</i>]</div>
+<br>
+<div class="play-line" data-line-number="10">This speed and quick appearance argues proof</div>
+<div class="play-line" data-line-number="11">Of your accustomed diligence to me.</div>
+<div class="play-line" data-line-number="12">Now, you familiar spirits that are culled</div>
+<div class="play-line" data-line-number="13">Out of the powerful regions under earth,</div>
+<div class="play-line" data-line-number="14">Help me this once, that France may get the field.</div>
+<div class="play-line" data-line-number="15">[<i>They walk, and speak not.</i>]</div>
+<div class="play-line" data-line-number="16">O, hold me not with silence overlong!</div>
+<div class="play-line" data-line-number="17">Where I was wont to feed you with my blood,</div>
+<div class="play-line" data-line-number="18">I&rsquo;ll lop a member off and give it you</div>
+<div class="play-line" data-line-number="19">In earnest of a further benefit,</div>
+<div class="play-line" data-line-number="20">So you do condescend to help me now.</div>
+<div class="play-line" data-line-number="21">[<i>They hang their heads.</i>]</div>
+<div class="play-line" data-line-number="22">No hope to have redress? My body shall</div>
+<div class="play-line" data-line-number="23">Pay recompense if you will grant my suit.</div>
+<div class="play-line" data-line-number="24">[<i>They shake their heads.</i>]</div>
+<div class="play-line" data-line-number="25">Cannot my body nor blood-sacrifice</div>
+<div class="play-line" data-line-number="26">Entreat you to your wonted furtherance?</div>
+<div class="play-line" data-line-number="27">Then take my soul&mdash;my body, soul, and all&mdash;</div>
+<div class="play-line" data-line-number="28">Before that England give the French the foil.</div>
+<div class="play-line" data-line-number="29">[<i>They depart.</i>]</div>
+<div class="play-line" data-line-number="30">See, they forsake me. Now the time is come</div>
+<div class="play-line" data-line-number="31">That France must vail her lofty-plumed crest</div>
+<div class="play-line" data-line-number="32">And let her head fall into England&rsquo;s lap.</div>
+<div class="play-line" data-line-number="33">My ancient incantations are too weak,</div>
+<div class="play-line" data-line-number="34">And hell too strong for me to buckle with.</div>
+<div class="play-line" data-line-number="35">Now, France, thy glory droopeth to the dust.</div>
+<div class="play-line" data-line-number="36">[<i>She exits.</i>]</div>
+<br>
+<div class="play-line" data-line-number="37">[<i>Excursions. Burgundy and York fight hand to hand.</div>
+<div class="play-line" data-line-number="38">Burgundy and the French fly as York and English</div>
+<div class="play-line" data-line-number="39">soldiers capture Joan la Pucelle.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-Damsel of France, I think I have you fast.
-Unchain your spirits now with spelling charms,
-And try if they can gain your liberty.
-A goodly prize, fit for the devil&rsquo;s grace!
-See how the ugly witch doth bend her brows
-As if with Circe she would change my shape.
-
+<div class="play-line" data-line-number="40">Damsel of France, I think I have you fast.</div>
+<div class="play-line" data-line-number="41">Unchain your spirits now with spelling charms,</div>
+<div class="play-line" data-line-number="42">And try if they can gain your liberty.</div>
+<div class="play-line" data-line-number="43">A goodly prize, fit for the devil&rsquo;s grace!</div>
+<div class="play-line" data-line-number="44">See how the ugly witch doth bend her brows</div>
+<div class="play-line" data-line-number="45">As if with Circe she would change my shape.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Changed to a worser shape thou canst not be.
-
+<div class="play-line" data-line-number="46">Changed to a worser shape thou canst not be.</div>
+<br>
 <speaker>YORK</speaker>
-O, Charles the Dauphin is a proper man;
-No shape but his can please your dainty eye.
-
+<div class="play-line" data-line-number="47">O, Charles the Dauphin is a proper man;</div>
+<div class="play-line" data-line-number="48">No shape but his can please your dainty eye.</div>
+<br>
 <speaker>PUCELLE</speaker>
-A plaguing mischief light on Charles and thee,
-And may you both be suddenly surprised
-By bloody hands in sleeping on your beds!
-
+<div class="play-line" data-line-number="49">A plaguing mischief light on Charles and thee,</div>
+<div class="play-line" data-line-number="50">And may you both be suddenly surprised</div>
+<div class="play-line" data-line-number="51">By bloody hands in sleeping on your beds!</div>
+<br>
 <speaker>YORK</speaker>
-Fell banning hag! Enchantress, hold thy tongue.
-
+<div class="play-line" data-line-number="52">Fell banning hag! Enchantress, hold thy tongue.</div>
+<br>
 <speaker>PUCELLE</speaker>
-I prithee give me leave to curse awhile.
-
+<div class="play-line" data-line-number="53">I prithee give me leave to curse awhile.</div>
+<br>
 <speaker>YORK</speaker>
-Curse, miscreant, when thou com&rsquo;st to the stake.
-[<i>They exit.</i>]
-
-[<i>Alarum. Enter Suffolk with Margaret in his hand.</i>]
-
+<div class="play-line" data-line-number="54">Curse, miscreant, when thou com&rsquo;st to the stake.</div>
+<div class="play-line" data-line-number="55">[<i>They exit.</i>]</div>
+<br>
+<div class="play-line" data-line-number="56">[<i>Alarum. Enter Suffolk with Margaret in his hand.</i>]</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Be what thou wilt, thou art my prisoner.
-[<i>Gazes on her.</i>]
-O fairest beauty, do not fear nor fly,
-For I will touch thee but with reverent hands.
-I kiss these fingers for eternal peace
-And lay them gently on thy tender side.
-Who art thou? Say, that I may honor thee.
-
+<div class="play-line" data-line-number="57">Be what thou wilt, thou art my prisoner.</div>
+<div class="play-line" data-line-number="58">[<i>Gazes on her.</i>]</div>
+<div class="play-line" data-line-number="59">O fairest beauty, do not fear nor fly,</div>
+<div class="play-line" data-line-number="60">For I will touch thee but with reverent hands.</div>
+<div class="play-line" data-line-number="61">I kiss these fingers for eternal peace</div>
+<div class="play-line" data-line-number="62">And lay them gently on thy tender side.</div>
+<div class="play-line" data-line-number="63">Who art thou? Say, that I may honor thee.</div>
+<br>
 <speaker>MARGARET</speaker>
-Margaret my name, and daughter to a king,
-The King of Naples, whosoe&rsquo;er thou art.
-
+<div class="play-line" data-line-number="64">Margaret my name, and daughter to a king,</div>
+<div class="play-line" data-line-number="65">The King of Naples, whosoe&rsquo;er thou art.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-An earl I am, and Suffolk am I called.
-Be not offended, nature&rsquo;s miracle;
-Thou art allotted to be ta&rsquo;en by me.
-So doth the swan her downy cygnets save,
-Keeping them prisoner underneath her wings.
-Yet if this servile usage once offend,
-Go and be free again as Suffolk&rsquo;s friend.
-[<i>She is going.</i>]
-O, stay! [<i>(Aside.)</i>]
- I have no power to let her pass.
-My hand would free her, but my heart says no.
-As plays the sun upon the glassy streams,
-Twinkling another counterfeited beam,
-So seems this gorgeous beauty to mine eyes.
-Fain would I woo her, yet I dare not speak.
-I&rsquo;ll call for pen and ink and write my mind.
-Fie, de la Pole, disable not thyself!
-Hast not a tongue? Is she not here?
-Wilt thou be daunted at a woman&rsquo;s sight?
-Ay. Beauty&rsquo;s princely majesty is such
-Confounds the tongue and makes the senses rough.
-
+<div class="play-line" data-line-number="66">An earl I am, and Suffolk am I called.</div>
+<div class="play-line" data-line-number="67">Be not offended, nature&rsquo;s miracle;</div>
+<div class="play-line" data-line-number="68">Thou art allotted to be ta&rsquo;en by me.</div>
+<div class="play-line" data-line-number="69">So doth the swan her downy cygnets save,</div>
+<div class="play-line" data-line-number="70">Keeping them prisoner underneath her wings.</div>
+<div class="play-line" data-line-number="71">Yet if this servile usage once offend,</div>
+<div class="play-line" data-line-number="72">Go and be free again as Suffolk&rsquo;s friend.</div>
+<div class="play-line" data-line-number="73">[<i>She is going.</i>]</div>
+<div class="play-line" data-line-number="74">O, stay! [<i>(Aside.)</i>]</div>
+<div class="play-line" data-line-number="75"> I have no power to let her pass.</div>
+<div class="play-line" data-line-number="76">My hand would free her, but my heart says no.</div>
+<div class="play-line" data-line-number="77">As plays the sun upon the glassy streams,</div>
+<div class="play-line" data-line-number="78">Twinkling another counterfeited beam,</div>
+<div class="play-line" data-line-number="79">So seems this gorgeous beauty to mine eyes.</div>
+<div class="play-line" data-line-number="80">Fain would I woo her, yet I dare not speak.</div>
+<div class="play-line" data-line-number="81">I&rsquo;ll call for pen and ink and write my mind.</div>
+<div class="play-line" data-line-number="82">Fie, de la Pole, disable not thyself!</div>
+<div class="play-line" data-line-number="83">Hast not a tongue? Is she not here?</div>
+<div class="play-line" data-line-number="84">Wilt thou be daunted at a woman&rsquo;s sight?</div>
+<div class="play-line" data-line-number="85">Ay. Beauty&rsquo;s princely majesty is such</div>
+<div class="play-line" data-line-number="86">Confounds the tongue and makes the senses rough.</div>
+<br>
 <speaker>MARGARET</speaker>
-Say, Earl of Suffolk, if thy name be so,
-What ransom must I pay before I pass?
-For I perceive I am thy prisoner.
-
+<div class="play-line" data-line-number="87">Say, Earl of Suffolk, if thy name be so,</div>
+<div class="play-line" data-line-number="88">What ransom must I pay before I pass?</div>
+<div class="play-line" data-line-number="89">For I perceive I am thy prisoner.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-How canst thou tell she will deny thy suit
-Before thou make a trial of her love?
-
+<div class="play-line" data-line-number="90">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="91">How canst thou tell she will deny thy suit</div>
+<div class="play-line" data-line-number="92">Before thou make a trial of her love?</div>
+<br>
 <speaker>MARGARET</speaker>
-Why speak&rsquo;st thou not? What ransom must I pay?
-
+<div class="play-line" data-line-number="93">Why speak&rsquo;st thou not? What ransom must I pay?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-She&rsquo;s beautiful, and therefore to be wooed;
-She is a woman, therefore to be won.
-
+<div class="play-line" data-line-number="94">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="95">She&rsquo;s beautiful, and therefore to be wooed;</div>
+<div class="play-line" data-line-number="96">She is a woman, therefore to be won.</div>
+<br>
 <speaker>MARGARET</speaker>
-Wilt thou accept of ransom, yea or no?
-
+<div class="play-line" data-line-number="97">Wilt thou accept of ransom, yea or no?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-Fond man, remember that thou hast a wife;
-Then how can Margaret be thy paramour?
-
+<div class="play-line" data-line-number="98">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="99">Fond man, remember that thou hast a wife;</div>
+<div class="play-line" data-line-number="100">Then how can Margaret be thy paramour?</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-I were best to leave him, for he will not hear.
-
+<div class="play-line" data-line-number="101">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="102">I were best to leave him, for he will not hear.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-There all is marred; there lies a cooling card.
-
+<div class="play-line" data-line-number="103">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="104">There all is marred; there lies a cooling card.</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-He talks at random; sure the man is mad.
-
+<div class="play-line" data-line-number="105">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="106">He talks at random; sure the man is mad.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-And yet a dispensation may be had.
-
+<div class="play-line" data-line-number="107">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="108">And yet a dispensation may be had.</div>
+<br>
 <speaker>MARGARET</speaker>
-And yet I would that you would answer me.
-
+<div class="play-line" data-line-number="109">And yet I would that you would answer me.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-I&rsquo;ll win this Lady Margaret. For whom?
-Why, for my king. Tush, that&rsquo;s a wooden thing!
-
+<div class="play-line" data-line-number="110">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="111">I&rsquo;ll win this Lady Margaret. For whom?</div>
+<div class="play-line" data-line-number="112">Why, for my king. Tush, that&rsquo;s a wooden thing!</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-He talks of wood. It is some carpenter.
-
+<div class="play-line" data-line-number="113">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="114">He talks of wood. It is some carpenter.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-Yet so my fancy may be satisfied,
-And peace established between these realms.
-But there remains a scruple in that, too;
-For though her father be the King of Naples,
-Duke of Anjou and Maine, yet is he poor,
-And our nobility will scorn the match.
-
+<div class="play-line" data-line-number="115">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="116">Yet so my fancy may be satisfied,</div>
+<div class="play-line" data-line-number="117">And peace established between these realms.</div>
+<div class="play-line" data-line-number="118">But there remains a scruple in that, too;</div>
+<div class="play-line" data-line-number="119">For though her father be the King of Naples,</div>
+<div class="play-line" data-line-number="120">Duke of Anjou and Maine, yet is he poor,</div>
+<div class="play-line" data-line-number="121">And our nobility will scorn the match.</div>
+<br>
 <speaker>MARGARET</speaker>
-Hear you, captain? Are you not at leisure?
-
+<div class="play-line" data-line-number="122">Hear you, captain? Are you not at leisure?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-[<i>aside</i>]
-It shall be so, disdain they ne&rsquo;er so much.
-Henry is youthful, and will quickly yield.&mdash;
-Madam, I have a secret to reveal.
-
+<div class="play-line" data-line-number="123">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="124">It shall be so, disdain they ne&rsquo;er so much.</div>
+<div class="play-line" data-line-number="125">Henry is youthful, and will quickly yield.&mdash;</div>
+<div class="play-line" data-line-number="126">Madam, I have a secret to reveal.</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-What though I be enthralled, he seems a knight,
-And will not any way dishonor me.
-
+<div class="play-line" data-line-number="127">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="128">What though I be enthralled, he seems a knight,</div>
+<div class="play-line" data-line-number="129">And will not any way dishonor me.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Lady, vouchsafe to listen what I say.
-
+<div class="play-line" data-line-number="130">Lady, vouchsafe to listen what I say.</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-Perhaps I shall be rescued by the French,
-And then I need not crave his courtesy.
-
+<div class="play-line" data-line-number="131">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="132">Perhaps I shall be rescued by the French,</div>
+<div class="play-line" data-line-number="133">And then I need not crave his courtesy.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Sweet madam, give me hearing in a cause.
-
+<div class="play-line" data-line-number="134">Sweet madam, give me hearing in a cause.</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>aside</i>]
-Tush, women have been captivate ere now.
-
+<div class="play-line" data-line-number="135">[<i>aside</i>]</div>
+<div class="play-line" data-line-number="136">Tush, women have been captivate ere now.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Lady, wherefore talk you so?
-
+<div class="play-line" data-line-number="137">Lady, wherefore talk you so?</div>
+<br>
 <speaker>MARGARET</speaker>
-I cry you mercy, &rsquo;tis but quid for quo.
-
+<div class="play-line" data-line-number="138">I cry you mercy, &rsquo;tis but quid for quo.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Say, gentle princess, would you not suppose
-Your bondage happy, to be made a queen?
-
+<div class="play-line" data-line-number="139">Say, gentle princess, would you not suppose</div>
+<div class="play-line" data-line-number="140">Your bondage happy, to be made a queen?</div>
+<br>
 <speaker>MARGARET</speaker>
-To be a queen in bondage is more vile
-Than is a slave in base servility,
-For princes should be free.
-
+<div class="play-line" data-line-number="141">To be a queen in bondage is more vile</div>
+<div class="play-line" data-line-number="142">Than is a slave in base servility,</div>
+<div class="play-line" data-line-number="143">For princes should be free.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-And so shall you,
-If happy England&rsquo;s royal king be free.
-
+<div class="play-line" data-line-number="144">And so shall you,</div>
+<div class="play-line" data-line-number="145">If happy England&rsquo;s royal king be free.</div>
+<br>
 <speaker>MARGARET</speaker>
-Why, what concerns his freedom unto me?
-
+<div class="play-line" data-line-number="146">Why, what concerns his freedom unto me?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-I&rsquo;ll undertake to make thee Henry&rsquo;s queen,
-To put a golden scepter in thy hand
-And set a precious crown upon thy head,
-If thou wilt condescend to be my&mdash;
-
+<div class="play-line" data-line-number="147">I&rsquo;ll undertake to make thee Henry&rsquo;s queen,</div>
+<div class="play-line" data-line-number="148">To put a golden scepter in thy hand</div>
+<div class="play-line" data-line-number="149">And set a precious crown upon thy head,</div>
+<div class="play-line" data-line-number="150">If thou wilt condescend to be my&mdash;</div>
+<br>
 <speaker>MARGARET</speaker>
-What?
-
+<div class="play-line" data-line-number="151">What?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-His love.
-
+<div class="play-line" data-line-number="152">His love.</div>
+<br>
 <speaker>MARGARET</speaker>
-I am unworthy to be Henry&rsquo;s wife.
-
+<div class="play-line" data-line-number="153">I am unworthy to be Henry&rsquo;s wife.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-No, gentle madam, I unworthy am
-To woo so fair a dame to be his wife,
-And have no portion in the choice myself.
-How say you, madam? Are you so content?
-
+<div class="play-line" data-line-number="154">No, gentle madam, I unworthy am</div>
+<div class="play-line" data-line-number="155">To woo so fair a dame to be his wife,</div>
+<div class="play-line" data-line-number="156">And have no portion in the choice myself.</div>
+<div class="play-line" data-line-number="157">How say you, madam? Are you so content?</div>
+<br>
 <speaker>MARGARET</speaker>
-An if my father please, I am content.
-
+<div class="play-line" data-line-number="158">An if my father please, I am content.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Then call our captains and our colors forth!
-[<i>A Soldier exits.</i>]
-And, madam, at your father&rsquo;s castle walls
-We&rsquo;ll crave a parley to confer with him.
-
-[<i>Enter Captains and Trumpets. Sound a parley.</i>]
-[<i>Enter Reignier on the walls.</i>]
-
-See, Reignier, see thy daughter prisoner!
-
+<div class="play-line" data-line-number="159">Then call our captains and our colors forth!</div>
+<div class="play-line" data-line-number="160">[<i>A Soldier exits.</i>]</div>
+<div class="play-line" data-line-number="161">And, madam, at your father&rsquo;s castle walls</div>
+<div class="play-line" data-line-number="162">We&rsquo;ll crave a parley to confer with him.</div>
+<br>
+<div class="play-line" data-line-number="163">[<i>Enter Captains and Trumpets. Sound a parley.</i>]</div>
+<div class="play-line" data-line-number="164">[<i>Enter Reignier on the walls.</i>]</div>
+<br>
+<div class="play-line" data-line-number="165">See, Reignier, see thy daughter prisoner!</div>
+<br>
 <speaker>REIGNIER</speaker>
-To whom?
-
+<div class="play-line" data-line-number="166">To whom?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-To me.
-
+<div class="play-line" data-line-number="167">To me.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Suffolk, what remedy?
-I am a soldier and unapt to weep
-Or to exclaim on Fortune&rsquo;s fickleness.
-
+<div class="play-line" data-line-number="168">Suffolk, what remedy?</div>
+<div class="play-line" data-line-number="169">I am a soldier and unapt to weep</div>
+<div class="play-line" data-line-number="170">Or to exclaim on Fortune&rsquo;s fickleness.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Yes, there is remedy enough, my lord:
-Consent, and, for thy Honor give consent,
-Thy daughter shall be wedded to my king,
-Whom I with pain have wooed and won thereto;
-And this her easy-held imprisonment
-Hath gained thy daughter princely liberty.
-
+<div class="play-line" data-line-number="171">Yes, there is remedy enough, my lord:</div>
+<div class="play-line" data-line-number="172">Consent, and, for thy Honor give consent,</div>
+<div class="play-line" data-line-number="173">Thy daughter shall be wedded to my king,</div>
+<div class="play-line" data-line-number="174">Whom I with pain have wooed and won thereto;</div>
+<div class="play-line" data-line-number="175">And this her easy-held imprisonment</div>
+<div class="play-line" data-line-number="176">Hath gained thy daughter princely liberty.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Speaks Suffolk as he thinks?
-
+<div class="play-line" data-line-number="177">Speaks Suffolk as he thinks?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Fair Margaret knows
-That Suffolk doth not flatter, face, or feign.
-
+<div class="play-line" data-line-number="178">Fair Margaret knows</div>
+<div class="play-line" data-line-number="179">That Suffolk doth not flatter, face, or feign.</div>
+<br>
 <speaker>REIGNIER</speaker>
-Upon thy princely warrant, I descend
-To give thee answer of thy just demand.
-[<i>He exits from the walls.</i>]
-
+<div class="play-line" data-line-number="180">Upon thy princely warrant, I descend</div>
+<div class="play-line" data-line-number="181">To give thee answer of thy just demand.</div>
+<div class="play-line" data-line-number="182">[<i>He exits from the walls.</i>]</div>
+<br>
 <speaker>SUFFOLK</speaker>
-And here I will expect thy coming.
-
-[<i>Trumpets sound. Enter Reignier, below.</i>]
-
+<div class="play-line" data-line-number="183">And here I will expect thy coming.</div>
+<br>
+<div class="play-line" data-line-number="184">[<i>Trumpets sound. Enter Reignier, below.</i>]</div>
+<br>
 <speaker>REIGNIER</speaker>
-Welcome, brave earl, into our territories.
-Command in Anjou what your Honor pleases.
-
+<div class="play-line" data-line-number="185">Welcome, brave earl, into our territories.</div>
+<div class="play-line" data-line-number="186">Command in Anjou what your Honor pleases.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Thanks, Reignier, happy for so sweet a child,
-Fit to be made companion with a king.
-What answer makes your Grace unto my suit?
-
+<div class="play-line" data-line-number="187">Thanks, Reignier, happy for so sweet a child,</div>
+<div class="play-line" data-line-number="188">Fit to be made companion with a king.</div>
+<div class="play-line" data-line-number="189">What answer makes your Grace unto my suit?</div>
+<br>
 <speaker>REIGNIER</speaker>
-Since thou dost deign to woo her little worth
-To be the princely bride of such a lord,
-Upon condition I may quietly
-Enjoy mine own, the country Maine and Anjou,
-Free from oppression or the stroke of war,
-My daughter shall be Henry&rsquo;s, if he please.
-
+<div class="play-line" data-line-number="190">Since thou dost deign to woo her little worth</div>
+<div class="play-line" data-line-number="191">To be the princely bride of such a lord,</div>
+<div class="play-line" data-line-number="192">Upon condition I may quietly</div>
+<div class="play-line" data-line-number="193">Enjoy mine own, the country Maine and Anjou,</div>
+<div class="play-line" data-line-number="194">Free from oppression or the stroke of war,</div>
+<div class="play-line" data-line-number="195">My daughter shall be Henry&rsquo;s, if he please.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-That is her ransom; I deliver her,
-And those two counties I will undertake
-Your Grace shall well and quietly enjoy.
-
+<div class="play-line" data-line-number="196">That is her ransom; I deliver her,</div>
+<div class="play-line" data-line-number="197">And those two counties I will undertake</div>
+<div class="play-line" data-line-number="198">Your Grace shall well and quietly enjoy.</div>
+<br>
 <speaker>REIGNIER</speaker>
-And I, again in Henry&rsquo;s royal name
-As deputy unto that gracious king,
-Give thee her hand for sign of plighted faith.
-
+<div class="play-line" data-line-number="199">And I, again in Henry&rsquo;s royal name</div>
+<div class="play-line" data-line-number="200">As deputy unto that gracious king,</div>
+<div class="play-line" data-line-number="201">Give thee her hand for sign of plighted faith.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Reignier of France, I give thee kingly thanks
-Because this is in traffic of a king.
-[<i>Aside.</i>]
- And yet methinks I could be well content
-To be mine own attorney in this case.&mdash;
-I&rsquo;ll over then to England with this news,
-And make this marriage to be solemnized.
-So farewell, Reignier; set this diamond safe
-In golden palaces, as it becomes.
-
+<div class="play-line" data-line-number="202">Reignier of France, I give thee kingly thanks</div>
+<div class="play-line" data-line-number="203">Because this is in traffic of a king.</div>
+<div class="play-line" data-line-number="204">[<i>Aside.</i>]</div>
+<div class="play-line" data-line-number="205"> And yet methinks I could be well content</div>
+<div class="play-line" data-line-number="206">To be mine own attorney in this case.&mdash;</div>
+<div class="play-line" data-line-number="207">I&rsquo;ll over then to England with this news,</div>
+<div class="play-line" data-line-number="208">And make this marriage to be solemnized.</div>
+<div class="play-line" data-line-number="209">So farewell, Reignier; set this diamond safe</div>
+<div class="play-line" data-line-number="210">In golden palaces, as it becomes.</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>embracing Suffolk</i>]
-I do embrace thee, as I would embrace
-The Christian prince King Henry, were he here.
-
+<div class="play-line" data-line-number="211">[<i>embracing Suffolk</i>]</div>
+<div class="play-line" data-line-number="212">I do embrace thee, as I would embrace</div>
+<div class="play-line" data-line-number="213">The Christian prince King Henry, were he here.</div>
+<br>
 <speaker>MARGARET</speaker>
-[<i>to Suffolk</i>]
-Farewell, my lord; good wishes, praise, and prayers
-Shall Suffolk ever have of Margaret.
-[<i>She is going, as Reignier exits.</i>]
-
+<div class="play-line" data-line-number="214">[<i>to Suffolk</i>]</div>
+<div class="play-line" data-line-number="215">Farewell, my lord; good wishes, praise, and prayers</div>
+<div class="play-line" data-line-number="216">Shall Suffolk ever have of Margaret.</div>
+<div class="play-line" data-line-number="217">[<i>She is going, as Reignier exits.</i>]</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Farewell, sweet madam. But, hark you, Margaret,
-No princely commendations to my king?
-
+<div class="play-line" data-line-number="218">Farewell, sweet madam. But, hark you, Margaret,</div>
+<div class="play-line" data-line-number="219">No princely commendations to my king?</div>
+<br>
 <speaker>MARGARET</speaker>
-Such commendations as becomes a maid,
-A virgin, and his servant, say to him.
-
+<div class="play-line" data-line-number="220">Such commendations as becomes a maid,</div>
+<div class="play-line" data-line-number="221">A virgin, and his servant, say to him.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Words sweetly placed and modestly directed.
-But, madam, I must trouble you again:
-No loving token to his Majesty?
-
+<div class="play-line" data-line-number="222">Words sweetly placed and modestly directed.</div>
+<div class="play-line" data-line-number="223">But, madam, I must trouble you again:</div>
+<div class="play-line" data-line-number="224">No loving token to his Majesty?</div>
+<br>
 <speaker>MARGARET</speaker>
-Yes, my good lord: a pure unspotted heart,
-Never yet taint with love, I send the King.
-
+<div class="play-line" data-line-number="225">Yes, my good lord: a pure unspotted heart,</div>
+<div class="play-line" data-line-number="226">Never yet taint with love, I send the King.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-And this withal. [<i>Kiss her.</i>]
-
+<div class="play-line" data-line-number="227">And this withal. [<i>Kiss her.</i>]</div>
+<br>
 <speaker>MARGARET</speaker>
-That for thyself. I will not so presume
-To send such peevish tokens to a king.	[<i>She exits.</i>]
-
+<div class="play-line" data-line-number="228">That for thyself. I will not so presume</div>
+<div class="play-line" data-line-number="229">To send such peevish tokens to a king.	[<i>She exits.</i>]</div>
+<br>
 <speaker>SUFFOLK</speaker>
-O, wert thou for myself! But, Suffolk, stay.
-Thou mayst not wander in that labyrinth.
-There Minotaurs and ugly treasons lurk.
-Solicit Henry with her wondrous praise;
-Bethink thee on her virtues that surmount
-And natural graces that extinguish art;
-Repeat their semblance often on the seas,
-That, when thou com&rsquo;st to kneel at Henry&rsquo;s feet,
-Thou mayst bereave him of his wits with wonder.
-[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="230">O, wert thou for myself! But, Suffolk, stay.</div>
+<div class="play-line" data-line-number="231">Thou mayst not wander in that labyrinth.</div>
+<div class="play-line" data-line-number="232">There Minotaurs and ugly treasons lurk.</div>
+<div class="play-line" data-line-number="233">Solicit Henry with her wondrous praise;</div>
+<div class="play-line" data-line-number="234">Bethink thee on her virtues that surmount</div>
+<div class="play-line" data-line-number="235">And natural graces that extinguish art;</div>
+<div class="play-line" data-line-number="236">Repeat their semblance often on the seas,</div>
+<div class="play-line" data-line-number="237">That, when thou com&rsquo;st to kneel at Henry&rsquo;s feet,</div>
+<div class="play-line" data-line-number="238">Thou mayst bereave him of his wits with wonder.</div>
+<div class="play-line" data-line-number="239">[<i>He exits.</i>]</div>
+<br>
 <b id="act-5-scene-4" class="scene-header">Scene 4</b>
 <hr>
-[<i>Enter York, Warwick, Shepherd,
-and Pucelle, guarded.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter York, Warwick, Shepherd,</div>
+<div class="play-line" data-line-number="2">and Pucelle, guarded.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-Bring forth that sorceress condemned to burn.
-
+<div class="play-line" data-line-number="3">Bring forth that sorceress condemned to burn.</div>
+<br>
 <speaker>SHEPHERD</speaker>
-Ah, Joan, this kills thy father&rsquo;s heart outright.
-Have I sought every country far and near,
-And, now it is my chance to find thee out,
-Must I behold thy timeless cruel death?
-Ah, Joan, sweet daughter Joan, I&rsquo;ll die with thee.
-
+<div class="play-line" data-line-number="4">Ah, Joan, this kills thy father&rsquo;s heart outright.</div>
+<div class="play-line" data-line-number="5">Have I sought every country far and near,</div>
+<div class="play-line" data-line-number="6">And, now it is my chance to find thee out,</div>
+<div class="play-line" data-line-number="7">Must I behold thy timeless cruel death?</div>
+<div class="play-line" data-line-number="8">Ah, Joan, sweet daughter Joan, I&rsquo;ll die with thee.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Decrepit miser, base ignoble wretch!
-I am descended of a gentler blood.
-Thou art no father nor no friend of mine.
-
+<div class="play-line" data-line-number="9">Decrepit miser, base ignoble wretch!</div>
+<div class="play-line" data-line-number="10">I am descended of a gentler blood.</div>
+<div class="play-line" data-line-number="11">Thou art no father nor no friend of mine.</div>
+<br>
 <speaker>SHEPHERD</speaker>
-Out, out!&mdash;My lords, an please you, &rsquo;tis not so!
-I did beget her, all the parish knows;
-Her mother liveth yet, can testify
-She was the first fruit of my bach&rsquo;lorship.
-
+<div class="play-line" data-line-number="12">Out, out!&mdash;My lords, an please you, &rsquo;tis not so!</div>
+<div class="play-line" data-line-number="13">I did beget her, all the parish knows;</div>
+<div class="play-line" data-line-number="14">Her mother liveth yet, can testify</div>
+<div class="play-line" data-line-number="15">She was the first fruit of my bach&rsquo;lorship.</div>
+<br>
 <speaker>WARWICK</speaker>
-Graceless, wilt thou deny thy parentage?
-
+<div class="play-line" data-line-number="16">Graceless, wilt thou deny thy parentage?</div>
+<br>
 <speaker>YORK</speaker>
-This argues what her kind of life hath been,
-Wicked and vile; and so her death concludes.
-
+<div class="play-line" data-line-number="17">This argues what her kind of life hath been,</div>
+<div class="play-line" data-line-number="18">Wicked and vile; and so her death concludes.</div>
+<br>
 <speaker>SHEPHERD</speaker>
-Fie, Joan, that thou wilt be so obstacle!
-God knows thou art a collop of my flesh,
-And for thy sake have I shed many a tear.
-Deny me not, I prithee, gentle Joan.
-
+<div class="play-line" data-line-number="19">Fie, Joan, that thou wilt be so obstacle!</div>
+<div class="play-line" data-line-number="20">God knows thou art a collop of my flesh,</div>
+<div class="play-line" data-line-number="21">And for thy sake have I shed many a tear.</div>
+<div class="play-line" data-line-number="22">Deny me not, I prithee, gentle Joan.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Peasant, avaunt!&mdash;You have suborned this man
-Of purpose to obscure my noble birth.
-
+<div class="play-line" data-line-number="23">Peasant, avaunt!&mdash;You have suborned this man</div>
+<div class="play-line" data-line-number="24">Of purpose to obscure my noble birth.</div>
+<br>
 <speaker>SHEPHERD</speaker>
-&rsquo;Tis true, I gave a noble to the priest
-The morn that I was wedded to her mother.&mdash;
-Kneel down and take my blessing, good my girl.
-Wilt thou not stoop? Now cursed be the time
-Of thy nativity! I would the milk
-Thy mother gave thee when thou suck&rsquo;dst her
-breast
-Had been a little ratsbane for thy sake!
-Or else, when thou didst keep my lambs afield,
-I wish some ravenous wolf had eaten thee!
-Dost thou deny thy father, cursed drab?
-O burn her, burn her! Hanging is too good.	[<i>He exits.</i>]
-
+<div class="play-line" data-line-number="25">&rsquo;Tis true, I gave a noble to the priest</div>
+<div class="play-line" data-line-number="26">The morn that I was wedded to her mother.&mdash;</div>
+<div class="play-line" data-line-number="27">Kneel down and take my blessing, good my girl.</div>
+<div class="play-line" data-line-number="28">Wilt thou not stoop? Now cursed be the time</div>
+<div class="play-line" data-line-number="29">Of thy nativity! I would the milk</div>
+<div class="play-line" data-line-number="30">Thy mother gave thee when thou suck&rsquo;dst her</div>
+<div class="play-line" data-line-number="31">breast</div>
+<div class="play-line" data-line-number="32">Had been a little ratsbane for thy sake!</div>
+<div class="play-line" data-line-number="33">Or else, when thou didst keep my lambs afield,</div>
+<div class="play-line" data-line-number="34">I wish some ravenous wolf had eaten thee!</div>
+<div class="play-line" data-line-number="35">Dost thou deny thy father, cursed drab?</div>
+<div class="play-line" data-line-number="36">O burn her, burn her! Hanging is too good.	[<i>He exits.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-Take her away, for she hath lived too long
-To fill the world with vicious qualities.
-
+<div class="play-line" data-line-number="37">Take her away, for she hath lived too long</div>
+<div class="play-line" data-line-number="38">To fill the world with vicious qualities.</div>
+<br>
 <speaker>PUCELLE</speaker>
-First, let me tell you whom you have condemned:
-Not one begotten of a shepherd swain,
-But issued from the progeny of kings,
-Virtuous and holy, chosen from above
-By inspiration of celestial grace
-To work exceeding miracles on earth.
-I never had to do with wicked spirits.
-But you, that are polluted with your lusts,
-Stained with the guiltless blood of innocents,
-Corrupt and tainted with a thousand vices,
-Because you want the grace that others have,
-You judge it straight a thing impossible
-To compass wonders but by help of devils.
-No, misconceived! Joan of Arc hath been
-A virgin from her tender infancy,
-Chaste and immaculate in very thought,
-Whose maiden blood, thus rigorously effused,
-Will cry for vengeance at the gates of heaven.
-
+<div class="play-line" data-line-number="39">First, let me tell you whom you have condemned:</div>
+<div class="play-line" data-line-number="40">Not one begotten of a shepherd swain,</div>
+<div class="play-line" data-line-number="41">But issued from the progeny of kings,</div>
+<div class="play-line" data-line-number="42">Virtuous and holy, chosen from above</div>
+<div class="play-line" data-line-number="43">By inspiration of celestial grace</div>
+<div class="play-line" data-line-number="44">To work exceeding miracles on earth.</div>
+<div class="play-line" data-line-number="45">I never had to do with wicked spirits.</div>
+<div class="play-line" data-line-number="46">But you, that are polluted with your lusts,</div>
+<div class="play-line" data-line-number="47">Stained with the guiltless blood of innocents,</div>
+<div class="play-line" data-line-number="48">Corrupt and tainted with a thousand vices,</div>
+<div class="play-line" data-line-number="49">Because you want the grace that others have,</div>
+<div class="play-line" data-line-number="50">You judge it straight a thing impossible</div>
+<div class="play-line" data-line-number="51">To compass wonders but by help of devils.</div>
+<div class="play-line" data-line-number="52">No, misconceived! Joan of Arc hath been</div>
+<div class="play-line" data-line-number="53">A virgin from her tender infancy,</div>
+<div class="play-line" data-line-number="54">Chaste and immaculate in very thought,</div>
+<div class="play-line" data-line-number="55">Whose maiden blood, thus rigorously effused,</div>
+<div class="play-line" data-line-number="56">Will cry for vengeance at the gates of heaven.</div>
+<br>
 <speaker>YORK</speaker>
-Ay, ay.&mdash;Away with her to execution.
-
+<div class="play-line" data-line-number="57">Ay, ay.&mdash;Away with her to execution.</div>
+<br>
 <speaker>WARWICK</speaker>
-And hark you, sirs: because she is a maid,
-Spare for no faggots; let there be enow.
-Place barrels of pitch upon the fatal stake
-That so her torture may be shortened.
-
+<div class="play-line" data-line-number="58">And hark you, sirs: because she is a maid,</div>
+<div class="play-line" data-line-number="59">Spare for no faggots; let there be enow.</div>
+<div class="play-line" data-line-number="60">Place barrels of pitch upon the fatal stake</div>
+<div class="play-line" data-line-number="61">That so her torture may be shortened.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Will nothing turn your unrelenting hearts?
-Then, Joan, discover thine infirmity,
-That warranteth by law to be thy privilege:
-I am with child, you bloody homicides.
-Murder not then the fruit within my womb,
-Although you hale me to a violent death.
-
+<div class="play-line" data-line-number="62">Will nothing turn your unrelenting hearts?</div>
+<div class="play-line" data-line-number="63">Then, Joan, discover thine infirmity,</div>
+<div class="play-line" data-line-number="64">That warranteth by law to be thy privilege:</div>
+<div class="play-line" data-line-number="65">I am with child, you bloody homicides.</div>
+<div class="play-line" data-line-number="66">Murder not then the fruit within my womb,</div>
+<div class="play-line" data-line-number="67">Although you hale me to a violent death.</div>
+<br>
 <speaker>YORK</speaker>
-Now heaven forfend, the holy maid with child?
-
+<div class="play-line" data-line-number="68">Now heaven forfend, the holy maid with child?</div>
+<br>
 <speaker>WARWICK</speaker>
-[<i>to Pucelle</i>]
-The greatest miracle that e&rsquo;er you wrought!
-Is all your strict preciseness come to this?
-
+<div class="play-line" data-line-number="69">[<i>to Pucelle</i>]</div>
+<div class="play-line" data-line-number="70">The greatest miracle that e&rsquo;er you wrought!</div>
+<div class="play-line" data-line-number="71">Is all your strict preciseness come to this?</div>
+<br>
 <speaker>YORK</speaker>
-She and the Dauphin have been juggling.
-I did imagine what would be her refuge.
-
+<div class="play-line" data-line-number="72">She and the Dauphin have been juggling.</div>
+<div class="play-line" data-line-number="73">I did imagine what would be her refuge.</div>
+<br>
 <speaker>WARWICK</speaker>
-Well, go to, we&rsquo;ll have no bastards live,
-Especially since Charles must father it.
-
+<div class="play-line" data-line-number="74">Well, go to, we&rsquo;ll have no bastards live,</div>
+<div class="play-line" data-line-number="75">Especially since Charles must father it.</div>
+<br>
 <speaker>PUCELLE</speaker>
-You are deceived; my child is none of his.
-It was Alanson that enjoyed my love.
-
+<div class="play-line" data-line-number="76">You are deceived; my child is none of his.</div>
+<div class="play-line" data-line-number="77">It was Alanson that enjoyed my love.</div>
+<br>
 <speaker>YORK</speaker>
-Alanson, that notorious Machiavel?
-It dies an if it had a thousand lives!
-
+<div class="play-line" data-line-number="78">Alanson, that notorious Machiavel?</div>
+<div class="play-line" data-line-number="79">It dies an if it had a thousand lives!</div>
+<br>
 <speaker>PUCELLE</speaker>
-O, give me leave! I have deluded you.
-&rsquo;Twas neither Charles nor yet the Duke I named,
-But Reignier, King of Naples, that prevailed.
-
+<div class="play-line" data-line-number="80">O, give me leave! I have deluded you.</div>
+<div class="play-line" data-line-number="81">&rsquo;Twas neither Charles nor yet the Duke I named,</div>
+<div class="play-line" data-line-number="82">But Reignier, King of Naples, that prevailed.</div>
+<br>
 <speaker>WARWICK</speaker>
-A married man? That&rsquo;s most intolerable.
-
+<div class="play-line" data-line-number="83">A married man? That&rsquo;s most intolerable.</div>
+<br>
 <speaker>YORK</speaker>
-Why, here&rsquo;s a girl! I think she knows not well&mdash;
-There were so many&mdash;whom she may accuse.
-
+<div class="play-line" data-line-number="84">Why, here&rsquo;s a girl! I think she knows not well&mdash;</div>
+<div class="play-line" data-line-number="85">There were so many&mdash;whom she may accuse.</div>
+<br>
 <speaker>WARWICK</speaker>
-It&rsquo;s sign she hath been liberal and free.
-
+<div class="play-line" data-line-number="86">It&rsquo;s sign she hath been liberal and free.</div>
+<br>
 <speaker>YORK</speaker>
-And yet, forsooth, she is a virgin pure!&mdash;
-Strumpet, thy words condemn thy brat and thee.
-Use no entreaty, for it is in vain.
-
+<div class="play-line" data-line-number="87">And yet, forsooth, she is a virgin pure!&mdash;</div>
+<div class="play-line" data-line-number="88">Strumpet, thy words condemn thy brat and thee.</div>
+<div class="play-line" data-line-number="89">Use no entreaty, for it is in vain.</div>
+<br>
 <speaker>PUCELLE</speaker>
-Then lead me hence, with whom I leave my curse:
-May never glorious sun reflex his beams
-Upon the country where you make abode,
-But darkness and the gloomy shade of death
-Environ you, till mischief and despair
-Drive you to break your necks or hang yourselves.
-[<i>She exits, led by Guards.</i>]
-
+<div class="play-line" data-line-number="90">Then lead me hence, with whom I leave my curse:</div>
+<div class="play-line" data-line-number="91">May never glorious sun reflex his beams</div>
+<div class="play-line" data-line-number="92">Upon the country where you make abode,</div>
+<div class="play-line" data-line-number="93">But darkness and the gloomy shade of death</div>
+<div class="play-line" data-line-number="94">Environ you, till mischief and despair</div>
+<div class="play-line" data-line-number="95">Drive you to break your necks or hang yourselves.</div>
+<div class="play-line" data-line-number="96">[<i>She exits, led by Guards.</i>]</div>
+<br>
 <speaker>YORK</speaker>
-Break thou in pieces, and consume to ashes,
-Thou foul accursed minister of hell!
-
-[<i>Enter Winchester, as Cardinal.</i>]
-
+<div class="play-line" data-line-number="97">Break thou in pieces, and consume to ashes,</div>
+<div class="play-line" data-line-number="98">Thou foul accursed minister of hell!</div>
+<br>
+<div class="play-line" data-line-number="99">[<i>Enter Winchester, as Cardinal.</i>]</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Lord Regent, I do greet your Excellence
-With letters of commission from the King.
-For know, my lords, the states of Christendom,
-Moved with remorse of these outrageous broils,
-Have earnestly implored a general peace
-Betwixt our nation and the aspiring French;
-And here at hand the Dauphin and his train
-Approacheth to confer about some matter.
-
+<div class="play-line" data-line-number="100">Lord Regent, I do greet your Excellence</div>
+<div class="play-line" data-line-number="101">With letters of commission from the King.</div>
+<div class="play-line" data-line-number="102">For know, my lords, the states of Christendom,</div>
+<div class="play-line" data-line-number="103">Moved with remorse of these outrageous broils,</div>
+<div class="play-line" data-line-number="104">Have earnestly implored a general peace</div>
+<div class="play-line" data-line-number="105">Betwixt our nation and the aspiring French;</div>
+<div class="play-line" data-line-number="106">And here at hand the Dauphin and his train</div>
+<div class="play-line" data-line-number="107">Approacheth to confer about some matter.</div>
+<br>
 <speaker>YORK</speaker>
-Is all our travail turned to this effect?
-After the slaughter of so many peers,
-So many captains, gentlemen, and soldiers
-That in this quarrel have been overthrown
-And sold their bodies for their country&rsquo;s benefit,
-Shall we at last conclude effeminate peace?
-Have we not lost most part of all the towns&mdash;
-By treason, falsehood, and by treachery&mdash;
-Our great progenitors had conquered?
-O, Warwick, Warwick, I foresee with grief
-The utter loss of all the realm of France!
-
+<div class="play-line" data-line-number="108">Is all our travail turned to this effect?</div>
+<div class="play-line" data-line-number="109">After the slaughter of so many peers,</div>
+<div class="play-line" data-line-number="110">So many captains, gentlemen, and soldiers</div>
+<div class="play-line" data-line-number="111">That in this quarrel have been overthrown</div>
+<div class="play-line" data-line-number="112">And sold their bodies for their country&rsquo;s benefit,</div>
+<div class="play-line" data-line-number="113">Shall we at last conclude effeminate peace?</div>
+<div class="play-line" data-line-number="114">Have we not lost most part of all the towns&mdash;</div>
+<div class="play-line" data-line-number="115">By treason, falsehood, and by treachery&mdash;</div>
+<div class="play-line" data-line-number="116">Our great progenitors had conquered?</div>
+<div class="play-line" data-line-number="117">O, Warwick, Warwick, I foresee with grief</div>
+<div class="play-line" data-line-number="118">The utter loss of all the realm of France!</div>
+<br>
 <speaker>WARWICK</speaker>
-Be patient, York; if we conclude a peace
-It shall be with such strict and severe covenants
-As little shall the Frenchmen gain thereby.
-
-[<i>Enter Charles, Alanson, Bastard,
-Reignier, with Attendants.</i>]
-
+<div class="play-line" data-line-number="119">Be patient, York; if we conclude a peace</div>
+<div class="play-line" data-line-number="120">It shall be with such strict and severe covenants</div>
+<div class="play-line" data-line-number="121">As little shall the Frenchmen gain thereby.</div>
+<br>
+<div class="play-line" data-line-number="122">[<i>Enter Charles, Alanson, Bastard,</div>
+<div class="play-line" data-line-number="123">Reignier, with Attendants.</i>]</div>
+<br>
 <speaker>CHARLES</speaker>
-Since, lords of England, it is thus agreed
-That peaceful truce shall be proclaimed in France,
-We come to be informed by yourselves
-What the conditions of that league must be.
-
+<div class="play-line" data-line-number="124">Since, lords of England, it is thus agreed</div>
+<div class="play-line" data-line-number="125">That peaceful truce shall be proclaimed in France,</div>
+<div class="play-line" data-line-number="126">We come to be informed by yourselves</div>
+<div class="play-line" data-line-number="127">What the conditions of that league must be.</div>
+<br>
 <speaker>YORK</speaker>
-Speak, Winchester, for boiling choler chokes
-The hollow passage of my poisoned voice
-By sight of these our baleful enemies.
-
+<div class="play-line" data-line-number="128">Speak, Winchester, for boiling choler chokes</div>
+<div class="play-line" data-line-number="129">The hollow passage of my poisoned voice</div>
+<div class="play-line" data-line-number="130">By sight of these our baleful enemies.</div>
+<br>
 <speaker>WINCHESTER</speaker>
-Charles and the rest, it is enacted thus:
-That, in regard King Henry gives consent,
-Of mere compassion and of lenity,
-To ease your country of distressful war
-And suffer you to breathe in fruitful peace,
-You shall become true liegemen to his crown.
-And, Charles, upon condition thou wilt swear
-To pay him tribute and submit thyself,
-Thou shalt be placed as viceroy under him,
-And still enjoy thy regal dignity.
-
+<div class="play-line" data-line-number="131">Charles and the rest, it is enacted thus:</div>
+<div class="play-line" data-line-number="132">That, in regard King Henry gives consent,</div>
+<div class="play-line" data-line-number="133">Of mere compassion and of lenity,</div>
+<div class="play-line" data-line-number="134">To ease your country of distressful war</div>
+<div class="play-line" data-line-number="135">And suffer you to breathe in fruitful peace,</div>
+<div class="play-line" data-line-number="136">You shall become true liegemen to his crown.</div>
+<div class="play-line" data-line-number="137">And, Charles, upon condition thou wilt swear</div>
+<div class="play-line" data-line-number="138">To pay him tribute and submit thyself,</div>
+<div class="play-line" data-line-number="139">Thou shalt be placed as viceroy under him,</div>
+<div class="play-line" data-line-number="140">And still enjoy thy regal dignity.</div>
+<br>
 <speaker>ALANSON</speaker>
-Must he be then as shadow of himself&mdash;
-Adorn his temples with a coronet,
-And yet, in substance and authority,
-Retain but privilege of a private man?
-This proffer is absurd and reasonless.
-
+<div class="play-line" data-line-number="141">Must he be then as shadow of himself&mdash;</div>
+<div class="play-line" data-line-number="142">Adorn his temples with a coronet,</div>
+<div class="play-line" data-line-number="143">And yet, in substance and authority,</div>
+<div class="play-line" data-line-number="144">Retain but privilege of a private man?</div>
+<div class="play-line" data-line-number="145">This proffer is absurd and reasonless.</div>
+<br>
 <speaker>CHARLES</speaker>
-&rsquo;Tis known already that I am possessed
-With more than half the Gallian territories,
-And therein reverenced for their lawful king.
-Shall I, for lucre of the rest unvanquished,
-Detract so much from that prerogative
-As to be called but viceroy of the whole?
-No, lord ambassador, I&rsquo;ll rather keep
-That which I have than, coveting for more,
-Be cast from possibility of all.
-
+<div class="play-line" data-line-number="146">&rsquo;Tis known already that I am possessed</div>
+<div class="play-line" data-line-number="147">With more than half the Gallian territories,</div>
+<div class="play-line" data-line-number="148">And therein reverenced for their lawful king.</div>
+<div class="play-line" data-line-number="149">Shall I, for lucre of the rest unvanquished,</div>
+<div class="play-line" data-line-number="150">Detract so much from that prerogative</div>
+<div class="play-line" data-line-number="151">As to be called but viceroy of the whole?</div>
+<div class="play-line" data-line-number="152">No, lord ambassador, I&rsquo;ll rather keep</div>
+<div class="play-line" data-line-number="153">That which I have than, coveting for more,</div>
+<div class="play-line" data-line-number="154">Be cast from possibility of all.</div>
+<br>
 <speaker>YORK</speaker>
-Insulting Charles, hast thou by secret means
-Used intercession to obtain a league
-And, now the matter grows to compromise,
-Stand&rsquo;st thou aloof upon comparison?
-Either accept the title thou usurp&rsquo;st,
-Of benefit proceeding from our king
-And not of any challenge of desert,
-Or we will plague thee with incessant wars.
-
+<div class="play-line" data-line-number="155">Insulting Charles, hast thou by secret means</div>
+<div class="play-line" data-line-number="156">Used intercession to obtain a league</div>
+<div class="play-line" data-line-number="157">And, now the matter grows to compromise,</div>
+<div class="play-line" data-line-number="158">Stand&rsquo;st thou aloof upon comparison?</div>
+<div class="play-line" data-line-number="159">Either accept the title thou usurp&rsquo;st,</div>
+<div class="play-line" data-line-number="160">Of benefit proceeding from our king</div>
+<div class="play-line" data-line-number="161">And not of any challenge of desert,</div>
+<div class="play-line" data-line-number="162">Or we will plague thee with incessant wars.</div>
+<br>
 <speaker>REIGNIER</speaker>
-[<i>aside to Charles</i>]
-My lord, you do not well in obstinacy
-To cavil in the course of this contract.
-If once it be neglected, ten to one
-We shall not find like opportunity.
-
+<div class="play-line" data-line-number="163">[<i>aside to Charles</i>]</div>
+<div class="play-line" data-line-number="164">My lord, you do not well in obstinacy</div>
+<div class="play-line" data-line-number="165">To cavil in the course of this contract.</div>
+<div class="play-line" data-line-number="166">If once it be neglected, ten to one</div>
+<div class="play-line" data-line-number="167">We shall not find like opportunity.</div>
+<br>
 <speaker>ALANSON</speaker>
-[<i>aside to Charles</i>]
-To say the truth, it is your policy
-To save your subjects from such massacre
-And ruthless slaughters as are daily seen
-By our proceeding in hostility;
-And therefore take this compact of a truce
-Although you break it when your pleasure serves.
-
+<div class="play-line" data-line-number="168">[<i>aside to Charles</i>]</div>
+<div class="play-line" data-line-number="169">To say the truth, it is your policy</div>
+<div class="play-line" data-line-number="170">To save your subjects from such massacre</div>
+<div class="play-line" data-line-number="171">And ruthless slaughters as are daily seen</div>
+<div class="play-line" data-line-number="172">By our proceeding in hostility;</div>
+<div class="play-line" data-line-number="173">And therefore take this compact of a truce</div>
+<div class="play-line" data-line-number="174">Although you break it when your pleasure serves.</div>
+<br>
 <speaker>WARWICK</speaker>
-How say&rsquo;st thou, Charles? Shall our condition stand?
-
+<div class="play-line" data-line-number="175">How say&rsquo;st thou, Charles? Shall our condition stand?</div>
+<br>
 <speaker>CHARLES</speaker>
-It shall&mdash;only reserved you claim no interest
-In any of our towns of garrison.
-
+<div class="play-line" data-line-number="176">It shall&mdash;only reserved you claim no interest</div>
+<div class="play-line" data-line-number="177">In any of our towns of garrison.</div>
+<br>
 <speaker>YORK</speaker>
-Then swear allegiance to his Majesty,
-As thou art knight, never to disobey
-Nor be rebellious to the crown of England,
-Thou nor thy nobles, to the crown of England.
-[<i>Charles, Alanson, Bastard, and Reignier
-swear allegiance to Henry.</i>]
-So, now dismiss your army when you please;
-Hang up your ensigns, let your drums be still,
-For here we entertain a solemn peace.
-[<i>They exit.</i>]
-
+<div class="play-line" data-line-number="178">Then swear allegiance to his Majesty,</div>
+<div class="play-line" data-line-number="179">As thou art knight, never to disobey</div>
+<div class="play-line" data-line-number="180">Nor be rebellious to the crown of England,</div>
+<div class="play-line" data-line-number="181">Thou nor thy nobles, to the crown of England.</div>
+<div class="play-line" data-line-number="182">[<i>Charles, Alanson, Bastard, and Reignier</div>
+<div class="play-line" data-line-number="183">swear allegiance to Henry.</i>]</div>
+<div class="play-line" data-line-number="184">So, now dismiss your army when you please;</div>
+<div class="play-line" data-line-number="185">Hang up your ensigns, let your drums be still,</div>
+<div class="play-line" data-line-number="186">For here we entertain a solemn peace.</div>
+<div class="play-line" data-line-number="187">[<i>They exit.</i>]</div>
+<br>
 <b id="act-5-scene-5" class="scene-header">Scene 5</b>
 <hr>
-[<i>Enter Suffolk in conference with the King,
-Gloucester, and Exeter, with Attendants.</i>]
-
+<div class="play-line" data-line-number="1">[<i>Enter Suffolk in conference with the King,</div>
+<div class="play-line" data-line-number="2">Gloucester, and Exeter, with Attendants.</i>]</div>
+<br>
 <speaker>KING HENRY</speaker>
-Your wondrous rare description, noble earl,
-Of beauteous Margaret hath astonished me.
-Her virtues graced with external gifts
-Do breed love&rsquo;s settled passions in my heart,
-And like as rigor of tempestuous gusts
-Provokes the mightiest hulk against the tide,
-So am I driven by breath of her renown
-Either to suffer shipwrack, or arrive
-Where I may have fruition of her love.
-
+<div class="play-line" data-line-number="3">Your wondrous rare description, noble earl,</div>
+<div class="play-line" data-line-number="4">Of beauteous Margaret hath astonished me.</div>
+<div class="play-line" data-line-number="5">Her virtues graced with external gifts</div>
+<div class="play-line" data-line-number="6">Do breed love&rsquo;s settled passions in my heart,</div>
+<div class="play-line" data-line-number="7">And like as rigor of tempestuous gusts</div>
+<div class="play-line" data-line-number="8">Provokes the mightiest hulk against the tide,</div>
+<div class="play-line" data-line-number="9">So am I driven by breath of her renown</div>
+<div class="play-line" data-line-number="10">Either to suffer shipwrack, or arrive</div>
+<div class="play-line" data-line-number="11">Where I may have fruition of her love.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Tush, my good lord, this superficial tale
-Is but a preface of her worthy praise.
-The chief perfections of that lovely dame,
-Had I sufficient skill to utter them,
-Would make a volume of enticing lines
-Able to ravish any dull conceit;
-And, which is more, she is not so divine,
-So full replete with choice of all delights,
-But with as humble lowliness of mind
-She is content to be at your command&mdash;
-Command, I mean, of virtuous chaste intents&mdash;
-To love and honor Henry as her lord.
-
+<div class="play-line" data-line-number="12">Tush, my good lord, this superficial tale</div>
+<div class="play-line" data-line-number="13">Is but a preface of her worthy praise.</div>
+<div class="play-line" data-line-number="14">The chief perfections of that lovely dame,</div>
+<div class="play-line" data-line-number="15">Had I sufficient skill to utter them,</div>
+<div class="play-line" data-line-number="16">Would make a volume of enticing lines</div>
+<div class="play-line" data-line-number="17">Able to ravish any dull conceit;</div>
+<div class="play-line" data-line-number="18">And, which is more, she is not so divine,</div>
+<div class="play-line" data-line-number="19">So full replete with choice of all delights,</div>
+<div class="play-line" data-line-number="20">But with as humble lowliness of mind</div>
+<div class="play-line" data-line-number="21">She is content to be at your command&mdash;</div>
+<div class="play-line" data-line-number="22">Command, I mean, of virtuous chaste intents&mdash;</div>
+<div class="play-line" data-line-number="23">To love and honor Henry as her lord.</div>
+<br>
 <speaker>KING HENRY</speaker>
-And otherwise will Henry ne&rsquo;er presume.&mdash;
-Therefore, my Lord Protector, give consent
-That Margaret may be England&rsquo;s royal queen.
-
+<div class="play-line" data-line-number="24">And otherwise will Henry ne&rsquo;er presume.&mdash;</div>
+<div class="play-line" data-line-number="25">Therefore, my Lord Protector, give consent</div>
+<div class="play-line" data-line-number="26">That Margaret may be England&rsquo;s royal queen.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-So should I give consent to flatter sin.
-You know, my lord, your Highness is betrothed
-Unto another lady of esteem.
-How shall we then dispense with that contract
-And not deface your honor with reproach?
-
+<div class="play-line" data-line-number="27">So should I give consent to flatter sin.</div>
+<div class="play-line" data-line-number="28">You know, my lord, your Highness is betrothed</div>
+<div class="play-line" data-line-number="29">Unto another lady of esteem.</div>
+<div class="play-line" data-line-number="30">How shall we then dispense with that contract</div>
+<div class="play-line" data-line-number="31">And not deface your honor with reproach?</div>
+<br>
 <speaker>SUFFOLK</speaker>
-As doth a ruler with unlawful oaths;
-Or one that, at a triumph having vowed
-To try his strength, forsaketh yet the lists
-By reason of his adversary&rsquo;s odds.
-A poor earl&rsquo;s daughter is unequal odds,
-And therefore may be broke without offense.
-
+<div class="play-line" data-line-number="32">As doth a ruler with unlawful oaths;</div>
+<div class="play-line" data-line-number="33">Or one that, at a triumph having vowed</div>
+<div class="play-line" data-line-number="34">To try his strength, forsaketh yet the lists</div>
+<div class="play-line" data-line-number="35">By reason of his adversary&rsquo;s odds.</div>
+<div class="play-line" data-line-number="36">A poor earl&rsquo;s daughter is unequal odds,</div>
+<div class="play-line" data-line-number="37">And therefore may be broke without offense.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Why, what, I pray, is Margaret more than that?
-Her father is no better than an earl,
-Although in glorious titles he excel.
-
+<div class="play-line" data-line-number="38">Why, what, I pray, is Margaret more than that?</div>
+<div class="play-line" data-line-number="39">Her father is no better than an earl,</div>
+<div class="play-line" data-line-number="40">Although in glorious titles he excel.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Yes, my lord, her father is a king,
-The King of Naples and Jerusalem,
-And of such great authority in France
-As his alliance will confirm our peace,
-And keep the Frenchmen in allegiance.
-
+<div class="play-line" data-line-number="41">Yes, my lord, her father is a king,</div>
+<div class="play-line" data-line-number="42">The King of Naples and Jerusalem,</div>
+<div class="play-line" data-line-number="43">And of such great authority in France</div>
+<div class="play-line" data-line-number="44">As his alliance will confirm our peace,</div>
+<div class="play-line" data-line-number="45">And keep the Frenchmen in allegiance.</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-And so the Earl of Armagnac may do,
-Because he is near kinsman unto Charles.
-
+<div class="play-line" data-line-number="46">And so the Earl of Armagnac may do,</div>
+<div class="play-line" data-line-number="47">Because he is near kinsman unto Charles.</div>
+<br>
 <speaker>EXETER</speaker>
-Besides, his wealth doth warrant a liberal dower,
-Where Reignier sooner will receive than give.
-
+<div class="play-line" data-line-number="48">Besides, his wealth doth warrant a liberal dower,</div>
+<div class="play-line" data-line-number="49">Where Reignier sooner will receive than give.</div>
+<br>
 <speaker>SUFFOLK</speaker>
-A dower, my lords? Disgrace not so your king
-That he should be so abject, base, and poor,
-To choose for wealth and not for perfect love.
-Henry is able to enrich his queen,
-And not to seek a queen to make him rich;
-So worthless peasants bargain for their wives,
-As market men for oxen, sheep, or horse.
-Marriage is a matter of more worth
-Than to be dealt in by attorneyship.
-Not whom we will, but whom his Grace affects,
-Must be companion of his nuptial bed.
-And therefore, lords, since he affects her most,
-Most of all these reasons bindeth us
-In our opinions she should be preferred.
-For what is wedlock forced but a hell,
-An age of discord and continual strife?
-Whereas the contrary bringeth bliss
-And is a pattern of celestial peace.
-Whom should we match with Henry, being a king,
-But Margaret, that is daughter to a king?
-Her peerless feature, joined with her birth,
-Approves her fit for none but for a king.
-Her valiant courage and undaunted spirit,
-More than in women commonly is seen,
-Will answer our hope in issue of a king.
-For Henry, son unto a conqueror,
-Is likely to beget more conquerors,
-If with a lady of so high resolve
-As is fair Margaret he be linked in love.
-Then yield, my lords, and here conclude with me
-That Margaret shall be queen, and none but she.
-
+<div class="play-line" data-line-number="50">A dower, my lords? Disgrace not so your king</div>
+<div class="play-line" data-line-number="51">That he should be so abject, base, and poor,</div>
+<div class="play-line" data-line-number="52">To choose for wealth and not for perfect love.</div>
+<div class="play-line" data-line-number="53">Henry is able to enrich his queen,</div>
+<div class="play-line" data-line-number="54">And not to seek a queen to make him rich;</div>
+<div class="play-line" data-line-number="55">So worthless peasants bargain for their wives,</div>
+<div class="play-line" data-line-number="56">As market men for oxen, sheep, or horse.</div>
+<div class="play-line" data-line-number="57">Marriage is a matter of more worth</div>
+<div class="play-line" data-line-number="58">Than to be dealt in by attorneyship.</div>
+<div class="play-line" data-line-number="59">Not whom we will, but whom his Grace affects,</div>
+<div class="play-line" data-line-number="60">Must be companion of his nuptial bed.</div>
+<div class="play-line" data-line-number="61">And therefore, lords, since he affects her most,</div>
+<div class="play-line" data-line-number="62">Most of all these reasons bindeth us</div>
+<div class="play-line" data-line-number="63">In our opinions she should be preferred.</div>
+<div class="play-line" data-line-number="64">For what is wedlock forced but a hell,</div>
+<div class="play-line" data-line-number="65">An age of discord and continual strife?</div>
+<div class="play-line" data-line-number="66">Whereas the contrary bringeth bliss</div>
+<div class="play-line" data-line-number="67">And is a pattern of celestial peace.</div>
+<div class="play-line" data-line-number="68">Whom should we match with Henry, being a king,</div>
+<div class="play-line" data-line-number="69">But Margaret, that is daughter to a king?</div>
+<div class="play-line" data-line-number="70">Her peerless feature, joined with her birth,</div>
+<div class="play-line" data-line-number="71">Approves her fit for none but for a king.</div>
+<div class="play-line" data-line-number="72">Her valiant courage and undaunted spirit,</div>
+<div class="play-line" data-line-number="73">More than in women commonly is seen,</div>
+<div class="play-line" data-line-number="74">Will answer our hope in issue of a king.</div>
+<div class="play-line" data-line-number="75">For Henry, son unto a conqueror,</div>
+<div class="play-line" data-line-number="76">Is likely to beget more conquerors,</div>
+<div class="play-line" data-line-number="77">If with a lady of so high resolve</div>
+<div class="play-line" data-line-number="78">As is fair Margaret he be linked in love.</div>
+<div class="play-line" data-line-number="79">Then yield, my lords, and here conclude with me</div>
+<div class="play-line" data-line-number="80">That Margaret shall be queen, and none but she.</div>
+<br>
 <speaker>KING HENRY</speaker>
-Whether it be through force of your report,
-My noble Lord of Suffolk, or for that
-My tender youth was never yet attaint
-With any passion of inflaming love,
-I cannot tell; but this I am assured:
-I feel such sharp dissension in my breast,
-Such fierce alarums both of hope and fear,
-As I am sick with working of my thoughts.
-Take therefore shipping; post, my lord, to France;
-Agree to any covenants, and procure
-That Lady Margaret do vouchsafe to come
-To cross the seas to England and be crowned
-King Henry&rsquo;s faithful and anointed queen.
-For your expenses and sufficient charge,
-Among the people gather up a tenth.
-Be gone, I say, for till you do return,
-I rest perplexed with a thousand cares.&mdash;
-And you, good uncle, banish all offense.
-If you do censure me by what you were,
-Not what you are, I know it will excuse
-This sudden execution of my will.
-And so conduct me where, from company,
-I may revolve and ruminate my grief.
-[<i>He exits with Attendants.</i>]
-
+<div class="play-line" data-line-number="81">Whether it be through force of your report,</div>
+<div class="play-line" data-line-number="82">My noble Lord of Suffolk, or for that</div>
+<div class="play-line" data-line-number="83">My tender youth was never yet attaint</div>
+<div class="play-line" data-line-number="84">With any passion of inflaming love,</div>
+<div class="play-line" data-line-number="85">I cannot tell; but this I am assured:</div>
+<div class="play-line" data-line-number="86">I feel such sharp dissension in my breast,</div>
+<div class="play-line" data-line-number="87">Such fierce alarums both of hope and fear,</div>
+<div class="play-line" data-line-number="88">As I am sick with working of my thoughts.</div>
+<div class="play-line" data-line-number="89">Take therefore shipping; post, my lord, to France;</div>
+<div class="play-line" data-line-number="90">Agree to any covenants, and procure</div>
+<div class="play-line" data-line-number="91">That Lady Margaret do vouchsafe to come</div>
+<div class="play-line" data-line-number="92">To cross the seas to England and be crowned</div>
+<div class="play-line" data-line-number="93">King Henry&rsquo;s faithful and anointed queen.</div>
+<div class="play-line" data-line-number="94">For your expenses and sufficient charge,</div>
+<div class="play-line" data-line-number="95">Among the people gather up a tenth.</div>
+<div class="play-line" data-line-number="96">Be gone, I say, for till you do return,</div>
+<div class="play-line" data-line-number="97">I rest perplexed with a thousand cares.&mdash;</div>
+<div class="play-line" data-line-number="98">And you, good uncle, banish all offense.</div>
+<div class="play-line" data-line-number="99">If you do censure me by what you were,</div>
+<div class="play-line" data-line-number="100">Not what you are, I know it will excuse</div>
+<div class="play-line" data-line-number="101">This sudden execution of my will.</div>
+<div class="play-line" data-line-number="102">And so conduct me where, from company,</div>
+<div class="play-line" data-line-number="103">I may revolve and ruminate my grief.</div>
+<div class="play-line" data-line-number="104">[<i>He exits with Attendants.</i>]</div>
+<br>
 <speaker>GLOUCESTER</speaker>
-Ay, grief, I fear me, both at first and last.
-[<i>Gloucester exits with Exeter.</i>]
-
+<div class="play-line" data-line-number="105">Ay, grief, I fear me, both at first and last.</div>
+<div class="play-line" data-line-number="106">[<i>Gloucester exits with Exeter.</i>]</div>
+<br>
 <speaker>SUFFOLK</speaker>
-Thus Suffolk hath prevailed, and thus he goes
-As did the youthful Paris once to Greece,
-With hope to find the like event in love,
-But prosper better than the Trojan did.
-Margaret shall now be queen, and rule the King,
-But I will rule both her, the King, and realm.
-[<i>He exits.</i>]
-`;
+<div class="play-line" data-line-number="107">Thus Suffolk hath prevailed, and thus he goes</div>
+<div class="play-line" data-line-number="108">As did the youthful Paris once to Greece,</div>
+<div class="play-line" data-line-number="109">With hope to find the like event in love,</div>
+<div class="play-line" data-line-number="110">But prosper better than the Trojan did.</div>
+<div class="play-line" data-line-number="111">Margaret shall now be queen, and rule the King,</div>
+<div class="play-line" data-line-number="112">But I will rule both her, the King, and realm.</div>
+<div class="play-line" data-line-number="113">[<i>He exits.</i>]</div>
+<br>`;

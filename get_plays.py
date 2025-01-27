@@ -10,126 +10,106 @@ def clone_repo():
 def ensure_plays_dir():
     os.makedirs("plays", exist_ok=True)
 
-def process_content(content):
-    # Split content into credits and main text
+def replace_quotes(text):
+    """Replace straight quotes with smart quotes using string manipulation."""
+    result = []
+    in_quote = False
+    
+    # Split into lines to preserve line breaks
+    lines = text.split('\n')
+    for line in lines:
+        chars = list(line)
+        i = 0
+        while i < len(chars):
+            if chars[i] == '"':
+                # Opening quote if: at start of line, or preceded by space/punctuation/em dash
+                if (i == 0 or 
+                    chars[i-1].isspace() or 
+                    chars[i-1] in '([{' or 
+                    (i >= 2 and chars[i-2:i] == ['-', '-'])):  # Check for em dash
+                    chars[i] = '&ldquo;'
+                else:  # Closing quote
+                    chars[i] = '&rdquo;'
+            elif chars[i] == "'":
+                chars[i] = '&rsquo;'
+            i += 1
+        result.append(''.join(chars))
+    
+    return '\n'.join(result)
+
+def extract_credits(content):
+    """Extract the credits section from the play text.
+    
+    Args:
+        content (str): The full play text
+        
+    Returns:
+        tuple[str, str]: A tuple of (credits, remaining_content)
+    """
     credits_match = re.search(r'^(.*?)(Characters in the Play|CHARACTERS|DRAMATIS PERSONAE)', content, re.DOTALL)
     if credits_match:
         credits = credits_match.group(1).strip()
         content = content[credits_match.start(2):]  # Start from characters section
     else:
         credits = ""
+    return credits, content
+
+def process_credits(credits):
+    """Process the credits section of a play text.
     
-    # Find the start of Act 1 (case and spacing insensitive)
-    act1_match = re.search(r'\b[Aa][Cc][Tt]\s*[1I]\b', content)
-    if act1_match:
-        # Keep only content from Act 1 onwards
-        content = content[act1_match.start():]
-    
-    def replace_quotes(text):
-        """Replace straight quotes with smart quotes using string manipulation."""
-        result = []
-        in_quote = False
+    Args:
+        credits (str): The raw credits text
         
-        # Split into lines to preserve line breaks
-        lines = text.split('\n')
-        for line in lines:
-            chars = list(line)
-            i = 0
-            while i < len(chars):
-                if chars[i] == '"':
-                    # Opening quote if: at start of line, or preceded by space/punctuation/em dash
-                    if (i == 0 or 
-                        chars[i-1].isspace() or 
-                        chars[i-1] in '([{' or 
-                        (i >= 2 and chars[i-2:i] == ['-', '-'])):  # Check for em dash
-                        chars[i] = '&ldquo;'
-                    else:  # Closing quote
-                        chars[i] = '&rdquo;'
-                elif chars[i] == "'":
-                    chars[i] = '&rsquo;'
-                i += 1
-            result.append(''.join(chars))
-        
-        return '\n'.join(result)
-    
-    # Replace quotes before any other processing
-    content = replace_quotes(content)
-    
-    # Replace em dashes
-    content = content.replace("--", "&mdash;")
-    
-    # Replace special characters in both parts
+    Returns:
+        str: The processed credits text with escaped characters and formatted links
+    """
+    # Replace special characters
     credits = credits.replace('`', '\\`').replace('$', '\\$')
     
-    # Add link formatting to credits section
+    # Add link formatting
     credits = re.sub(
         r'(https?://[^\s]+)',
         r'<a href="\1" target="_blank">\1</a>',
         credits
     )
     
-    content = content.replace('`', '\\`').replace('$', '\\$')
+    return credits
+
+def process_text_formatting(text):
+    """Process text formatting including quotes, dashes, and stage directions.
+    
+    Args:
+        text (str): The raw text to process
+        
+    Returns:
+        str: The processed text with formatted characters and markup
+    """
+    # Replace quotes before any other processing
+    text = replace_quotes(text)
+    
+    # Replace em dashes
+    text = text.replace("--", "&mdash;")
     
     # Process square brackets - make content italic with <i> tags
-    content = re.sub(r'\[(.*?)\]', r'[<i>\1</i>]', content, flags=re.DOTALL)
+    text = re.sub(r'\[(.*?)\]', r'[<i>\1</i>]', text, flags=re.DOTALL)
     
     # Add newline after right square bracket if not already present
-    content = re.sub(r'\](?!\n)', ']\n', content)
+    text = re.sub(r'\](?!\n)', ']\n', text)
     
     # Reduce multiple newlines between ] and next text to max 2
-    content = re.sub(r'\]\n{3,}', ']\n\n', content)
+    text = re.sub(r'\]\n{3,}', ']\n\n', text)
     
-    lines = content.split('\n')
-    processed_lines = []
-    i = 0
-    seen_first_hr = False
+    return text
+
+def process_acts_and_scenes(content):
+    """Process act and scene headers, adding proper formatting and spacing.
     
-    while i < len(lines):
-        line = lines[i]
+    Args:
+        content (str): The play content to process
         
-        # Check if this is the first hr that marks the start of the play proper
-        if '<hr>' in line:
-            seen_first_hr = True
-            processed_lines.append(line)
-            i += 1
-            continue
-            
-        # Only process speakers if we're past the first hr
-        if seen_first_hr:
-            # Skip empty lines
-            if not line:
-                processed_lines.append(line)
-                i += 1
-                continue
-                
-            words = line.split()
-            if words:
-                # Find the speaker portion (all uppercase words)
-                speaker_end = 0
-                for j, word in enumerate(words):
-                    stripped_word = word.rstrip(',.!?:;')
-                    if not stripped_word.isupper() or len(stripped_word) == 1:
-                        break
-                    speaker_end = j + 1
-                
-                # If we found a speaker (at least one uppercase word)
-                if speaker_end > 0:
-                    speaker = ' '.join(words[:speaker_end])
-                    rest = ' '.join(words[speaker_end:])
-                    # Clean speaker text of punctuation and normalize whitespace
-                    speaker = re.sub(r'[,.!?:;\s]+', ' ', speaker).strip()
-                    # Add more visible formatting for speaker and dialogue
-                    if rest.strip():
-                        line = f"<speaker>{speaker}</speaker>\n{rest}"
-                    else:
-                        line = f"<speaker>{speaker}</speaker>"
-        
-        processed_lines.append(line)
-        i += 1
-    
-    content = '\n'.join(processed_lines)
-    
-    # First process acts and scenes and add <hr> tags
+    Returns:
+        str: Content with formatted act/scene headers and proper spacing
+    """
     act = 0
     scene = 0
     after_act = False
@@ -152,13 +132,35 @@ def process_content(content):
         elif line.startswith('=='):
             if not after_act:
                 processed_lines.append('<hr>')
+        elif not line.strip():  # Empty line
+            processed_lines.append('<br>')
         else:
             after_act = False
             processed_lines.append(line)
     
     content = '\n'.join(processed_lines)
     
-    # Now process the speakers after structure is established
+    # Handle Act/Scene spacing (replace empty lines with <br>)
+    content = re.sub(r'(\n\n+)(<b [^>]*class="act-header"[^>]*>.*?</b>)\n+(<b [^>]*class="scene-header"[^>]*>.*?</b>)', 
+                    r'<br>\2\n\3', 
+                    content)
+    
+    # Ensure any remaining Act/Scene pairs have consistent spacing
+    content = re.sub(r'(<b [^>]*class="act-header"[^>]*>.*?</b>)\n+(<b [^>]*class="scene-header"[^>]*>.*?</b>)', 
+                    r'\1\n\2', 
+                    content)
+    
+    return content
+
+def process_speakers(content):
+    """Process speaker names in the play content, adding proper formatting.
+    
+    Args:
+        content (str): The play content to process
+        
+    Returns:
+        str: Content with formatted speaker names
+    """
     processed_lines = []
     seen_hr_count = 0
     
@@ -169,11 +171,11 @@ def process_content(content):
             processed_lines.append(line)
             continue
             
-        # Only process speakers if we're past the second hr
-        if seen_hr_count >= 2:
-            # Skip empty lines
-            if not line:
-                processed_lines.append(line)
+        # Only process speakers if we're past the first hr
+        if seen_hr_count >= 1:
+            # Handle empty lines
+            if not line.strip():
+                processed_lines.append('<br>')
                 continue
                 
             words = line.split()
@@ -200,22 +202,64 @@ def process_content(content):
         
         processed_lines.append(line)
     
-    content = '\n'.join(processed_lines)
+    return '\n'.join(processed_lines)
+
+def enumerate_play_lines(content):
+    """Wrap play lines in numbered div elements, excluding speaker names and headers.
+    Line numbers reset at the start of each scene.
     
-    # After all other processing, handle Act/Scene spacing
-    content = re.sub(r'(\n\n+)(<b [^>]*class="act-header"[^>]*>.*?</b>)\n+(<b [^>]*class="scene-header"[^>]*>.*?</b>)', 
-                    r'\n\n\2\n\3', 
-                    content)
-    
-    # Ensure any remaining Act/Scene pairs have consistent spacing
-    content = re.sub(r'(<b [^>]*class="act-header"[^>]*>.*?</b>)\n+(<b [^>]*class="scene-header"[^>]*>.*?</b>)', 
-                    r'\1\n\2', 
-                    content)
-    
-    # Now handle indented character names in the character list section
-    lines = content.split('\n')
+    Args:
+        content (str): The processed play content
+        
+    Returns:
+        str: Content with enumerated line divs
+    """
     processed_lines = []
-    content = '\n'.join(lines)
+    line_number = 1
+    
+    for line in content.split('\n'):
+        # Reset line number at the start of each scene
+        if line.startswith('<b') and 'class="scene-header"' in line:
+            line_number = 1
+            processed_lines.append(line)
+            continue
+            
+        # Skip empty lines, speakers, headers, and horizontal rules
+        if (not line.strip() or 
+            line.startswith('<speaker>') or 
+            line.startswith('<b') or 
+            '<hr>' in line):
+            processed_lines.append(line)
+            continue
+            
+        # Wrap the line in a numbered div
+        processed_lines.append(f'<div class="play-line" data-line-number="{line_number}">{line}</div>')
+        line_number += 1
+    
+    return '\n'.join(processed_lines)
+
+def process_content(content):
+    # Extract and process credits
+    credits, content = extract_credits(content)
+    credits = process_credits(credits)
+    
+    # Find the start of Act 1 (case and spacing insensitive)
+    act1_match = re.search(r'\b[Aa][Cc][Tt]\s*[1I]\b', content)
+    if act1_match:
+        # Keep only content from Act 1 onwards
+        content = content[act1_match.start():]
+    
+    # Apply text formatting
+    content = process_text_formatting(content)
+    
+    # Process acts and scenes
+    content = process_acts_and_scenes(content)
+    
+    # Process speakers
+    content = process_speakers(content)
+    
+    # Enumerate play lines
+    content = enumerate_play_lines(content)
     
     return credits, content
 

@@ -127,44 +127,165 @@ goButton.addEventListener('click', async () => {
         // LOCAL DEV ONLY const playModule = await import(`/plays/${playFile}.js`);
         // const playText = "Lorem Ipsum"; // playModule.text;
         const rawPlayText = `<b id="act-1" class="act-header">Act 1</b>
+<br>
 <b id="act-1-scene-1" class="scene-header">Scene 1</b>
 <hr>
-[<i>Enter Theseus, Hippolyta, and Philostrate, with others.</i>]
-
-THESEUS
-Now, fair Hippolyta, our nuptial hour
-Draws on apace. Four happy days bring in
-Another moon. But, O, methinks how slow
-This old moon wanes! She lingers my desires
-Like to a stepdame or a dowager
-Long withering out a young man&rsquo;s revenue.
-
-HIPPOLYTA
-Four days will quickly steep themselves in night;
-Four nights will quickly dream away the time;
-And then the moon, like to a silver bow
-New-bent in heaven, shall behold the night
-Of our solemnities.
-
-THESEUS  Go, Philostrate,
-Stir up the Athenian youth to merriments.
-Awake the pert and nimble spirit of mirth.
-Turn melancholy forth to funerals;
-The pale companion is not for our pomp.
-[<i>Philostrate exits.</i>]
-Hippolyta, I wooed thee with my sword
-And won thy love doing thee injuries,
-But I will wed thee in another key,
-With pomp, with triumph, and with reveling.
-
-[<i>Enter Egeus and his daughter Hermia, and Lysander 
- and Demetrius.</i>]
-
-EGEUS
-Happy be Theseus, our renowned duke!
-
-THESEUS
-Thanks, good Egeus. What&rsquo;s the news with thee?`;
+<div class="play-line" data-line-number="1">[<i>Enter Theseus, Hippolyta, and Philostrate, with others.</i>]</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="2">Now, fair Hippolyta, our nuptial hour</div>
+<div class="play-line" data-line-number="3">Draws on apace. Four happy days bring in</div>
+<div class="play-line" data-line-number="4">Another moon. But, O, methinks how slow</div>
+<div class="play-line" data-line-number="5">This old moon wanes! She lingers my desires</div>
+<div class="play-line" data-line-number="6">Like to a stepdame or a dowager</div>
+<div class="play-line" data-line-number="7">Long withering out a young man&rsquo;s revenue.</div>
+<br>
+<speaker>HIPPOLYTA</speaker>
+<div class="play-line" data-line-number="8">Four days will quickly steep themselves in night;</div>
+<div class="play-line" data-line-number="9">Four nights will quickly dream away the time;</div>
+<div class="play-line" data-line-number="10">And then the moon, like to a silver bow</div>
+<div class="play-line" data-line-number="11">New-bent in heaven, shall behold the night</div>
+<div class="play-line" data-line-number="12">Of our solemnities.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="13">Go, Philostrate,</div>
+<div class="play-line" data-line-number="14">Stir up the Athenian youth to merriments.</div>
+<div class="play-line" data-line-number="15">Awake the pert and nimble spirit of mirth.</div>
+<div class="play-line" data-line-number="16">Turn melancholy forth to funerals;</div>
+<div class="play-line" data-line-number="17">The pale companion is not for our pomp.</div>
+<div class="play-line" data-line-number="18">[<i>Philostrate exits.</i>]</div>
+<div class="play-line" data-line-number="19">Hippolyta, I wooed thee with my sword</div>
+<div class="play-line" data-line-number="20">And won thy love doing thee injuries,</div>
+<div class="play-line" data-line-number="21">But I will wed thee in another key,</div>
+<div class="play-line" data-line-number="22">With pomp, with triumph, and with reveling.</div>
+<br>
+<div class="play-line" data-line-number="23">[<i>Enter Egeus and his daughter Hermia, and Lysander </div>
+<div class="play-line" data-line-number="24"> and Demetrius.</i>]</div>
+<br>
+<speaker>EGEUS</speaker>
+<div class="play-line" data-line-number="25">Happy be Theseus, our renowned duke!</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="26">Thanks, good Egeus. What&rsquo;s the news with thee?</div>
+<br>
+<speaker>EGEUS</speaker>
+<div class="play-line" data-line-number="27">Full of vexation come I, with complaint</div>
+<div class="play-line" data-line-number="28">Against my child, my daughter Hermia.&mdash;</div>
+<div class="play-line" data-line-number="29">Stand forth, Demetrius.&mdash;My noble lord,</div>
+<div class="play-line" data-line-number="30">This man hath my consent to marry her.&mdash;</div>
+<div class="play-line" data-line-number="31">Stand forth, Lysander.&mdash;And, my gracious duke,</div>
+<div class="play-line" data-line-number="32">This man hath bewitched the bosom of my child.&mdash;</div>
+<div class="play-line" data-line-number="33">Thou, thou, Lysander, thou hast given her rhymes</div>
+<div class="play-line" data-line-number="34">And interchanged love tokens with my child.</div>
+<div class="play-line" data-line-number="35">Thou hast by moonlight at her window sung</div>
+<div class="play-line" data-line-number="36">With feigning voice verses of feigning love</div>
+<div class="play-line" data-line-number="37">And stol&rsquo;n the impression of her fantasy</div>
+<div class="play-line" data-line-number="38">With bracelets of thy hair, rings, gauds, conceits,</div>
+<div class="play-line" data-line-number="39">Knacks, trifles, nosegays, sweetmeats&mdash;messengers</div>
+<div class="play-line" data-line-number="40">Of strong prevailment in unhardened youth.</div>
+<div class="play-line" data-line-number="41">With cunning hast thou filched my daughter&rsquo;s heart,</div>
+<div class="play-line" data-line-number="42">Turned her obedience (which is due to me)</div>
+<div class="play-line" data-line-number="43">To stubborn harshness.&mdash;And, my gracious duke,</div>
+<div class="play-line" data-line-number="44">Be it so she will not here before your Grace</div>
+<div class="play-line" data-line-number="45">Consent to marry with Demetrius,</div>
+<div class="play-line" data-line-number="46">I beg the ancient privilege of Athens:</div>
+<div class="play-line" data-line-number="47">As she is mine, I may dispose of her,</div>
+<div class="play-line" data-line-number="48">Which shall be either to this gentleman</div>
+<div class="play-line" data-line-number="49">Or to her death, according to our law</div>
+<div class="play-line" data-line-number="50">Immediately provided in that case.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="51">What say you, Hermia? Be advised, fair maid.</div>
+<div class="play-line" data-line-number="52">To you, your father should be as a god,</div>
+<div class="play-line" data-line-number="53">One that composed your beauties, yea, and one</div>
+<div class="play-line" data-line-number="54">To whom you are but as a form in wax</div>
+<div class="play-line" data-line-number="55">By him imprinted, and within his power</div>
+<div class="play-line" data-line-number="56">To leave the figure or disfigure it.</div>
+<div class="play-line" data-line-number="57">Demetrius is a worthy gentleman.</div>
+<br>
+<speaker>HERMIA</speaker>
+<div class="play-line" data-line-number="58">So is Lysander.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="59">In himself he is,</div>
+<div class="play-line" data-line-number="60">But in this kind, wanting your father&rsquo;s voice,</div>
+<div class="play-line" data-line-number="61">The other must be held the worthier.</div>
+<br>
+<speaker>HERMIA</speaker>
+<div class="play-line" data-line-number="62">I would my father looked but with my eyes.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="63">Rather your eyes must with his judgment look.</div>
+<br>
+<speaker>HERMIA</speaker>
+<div class="play-line" data-line-number="64">I do entreat your Grace to pardon me.</div>
+<div class="play-line" data-line-number="65">I know not by what power I am made bold,</div>
+<div class="play-line" data-line-number="66">Nor how it may concern my modesty</div>
+<div class="play-line" data-line-number="67">In such a presence here to plead my thoughts;</div>
+<div class="play-line" data-line-number="68">But I beseech your Grace that I may know</div>
+<div class="play-line" data-line-number="69">The worst that may befall me in this case</div>
+<div class="play-line" data-line-number="70">If I refuse to wed Demetrius.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="71">Either to die the death or to abjure</div>
+<div class="play-line" data-line-number="72">Forever the society of men.</div>
+<div class="play-line" data-line-number="73">Therefore, fair Hermia, question your desires,</div>
+<div class="play-line" data-line-number="74">Know of your youth, examine well your blood,</div>
+<div class="play-line" data-line-number="75">Whether (if you yield not to your father&rsquo;s choice)</div>
+<div class="play-line" data-line-number="76">You can endure the livery of a nun,</div>
+<div class="play-line" data-line-number="77">For aye to be in shady cloister mewed,</div>
+<div class="play-line" data-line-number="78">To live a barren sister all your life,</div>
+<div class="play-line" data-line-number="79">Chanting faint hymns to the cold fruitless moon.</div>
+<div class="play-line" data-line-number="80">Thrice-blessed they that master so their blood</div>
+<div class="play-line" data-line-number="81">To undergo such maiden pilgrimage,</div>
+<div class="play-line" data-line-number="82">But earthlier happy is the rose distilled</div>
+<div class="play-line" data-line-number="83">Than that which, withering on the virgin thorn,</div>
+<div class="play-line" data-line-number="84">Grows, lives, and dies in single blessedness.</div>
+<br>
+<speaker>HERMIA</speaker>
+<div class="play-line" data-line-number="85">So will I grow, so live, so die, my lord,</div>
+<div class="play-line" data-line-number="86">Ere I will yield my virgin patent up</div>
+<div class="play-line" data-line-number="87">Unto his Lordship whose unwished yoke</div>
+<div class="play-line" data-line-number="88">My soul consents not to give sovereignty.</div>
+<br>
+<speaker>THESEUS</speaker>
+<div class="play-line" data-line-number="89">Take time to pause, and by the next new moon</div>
+<div class="play-line" data-line-number="90">(The sealing day betwixt my love and me</div>
+<div class="play-line" data-line-number="91">For everlasting bond of fellowship),</div>
+<div class="play-line" data-line-number="92">Upon that day either prepare to die</div>
+<div class="play-line" data-line-number="93">For disobedience to your father&rsquo;s will,</div>
+<div class="play-line" data-line-number="94">Or else to wed Demetrius, as he would,</div>
+<div class="play-line" data-line-number="95">Or on Diana&rsquo;s altar to protest</div>
+<div class="play-line" data-line-number="96">For aye austerity and single life.</div>
+<br>
+<speaker>DEMETRIUS</speaker>
+<div class="play-line" data-line-number="97">Relent, sweet Hermia, and, Lysander, yield</div>
+<div class="play-line" data-line-number="98">Thy crazed title to my certain right.</div>
+<br>
+<speaker>LYSANDER</speaker>
+<div class="play-line" data-line-number="99">You have her father&rsquo;s love, Demetrius.</div>
+<div class="play-line" data-line-number="100">Let me have Hermia&rsquo;s. Do you marry him.</div>
+<br>
+<speaker>EGEUS</speaker>
+<div class="play-line" data-line-number="101">Scornful Lysander, true, he hath my love;</div>
+<div class="play-line" data-line-number="102">And what is mine my love shall render him.</div>
+<div class="play-line" data-line-number="103">And she is mine, and all my right of her</div>
+<div class="play-line" data-line-number="104">I do estate unto Demetrius.</div>
+<br>
+<speaker>LYSANDER</speaker>
+<div class="play-line" data-line-number="105">[<i>to Theseus</i>]</div>
+<div class="play-line" data-line-number="106">I am, my lord, as well derived as he,</div>
+<div class="play-line" data-line-number="107">As well possessed. My love is more than his;</div>
+<div class="play-line" data-line-number="108">My fortunes every way as fairly ranked</div>
+<div class="play-line" data-line-number="109">(If not with vantage) as Demetrius&rsquo;;</div>
+<div class="play-line" data-line-number="110">And (which is more than all these boasts can be)</div>
+<div class="play-line" data-line-number="111">I am beloved of beauteous Hermia.</div>
+<div class="play-line" data-line-number="112">Why should not I then prosecute my right?</div>
+<div class="play-line" data-line-number="113">Demetrius, I&rsquo;ll avouch it to his head,</div>
+<div class="play-line" data-line-number="114">Made love to Nedar&rsquo;s daughter, Helena,</div>
+<div class="play-line" data-line-number="115">And won her soul; and she, sweet lady, dotes,</div>
+<div class="play-line" data-line-number="116">Devoutly dotes, dotes in idolatry,</div>
+<div class="play-line" data-line-number="117">Upon this spotted and inconstant man.</div>`;
 
         const characters = `<b class="characters-header">Characters in the Play</b><hr>
 <ul><li>Four lovers:</li><ul><li>HERMIA</li><li>LYSANDER</li><li>HELENA</li><li>DEMETRIUS</li></ul><li>THESEUS, duke of Athens</li><li>HIPPOLYTA, queen of the Amazons</li><li>EGEUS, father to Hermia</li><li>PHILOSTRATE, master of the revels to Theseus</li><li>NICK BOTTOM, weaver</li><li>PETER QUINCE, carpenter</li><li>FRANCIS FLUTE, bellows-mender</li><li>TOM SNOUT, tinker</li><li>SNUG, joiner</li><li>ROBIN STARVELING, tailor</li><li>OBERON, king of the Fairies</li><li>TITANIA, queen of the Fairies</li><li>ROBIN GOODFELLOW, a "puck," or hobgoblin, in Oberon's service</li><li>A FAIRY, in the service of Titania</li><li>Fairies attending upon Titania:</li><ul><li>PEASEBLOSSOM</li><li>COBWEB</li><li>MOTE</li><li>MUSTARDSEED</li></ul><li>Lords and Attendants on Theseus and Hippolyta</li><li>Other Fairies in the trains of Titania and Oberon</li></ul>`;
@@ -577,59 +698,22 @@ function updateActiveActFromScroll(acts) {
 }
 
 function addLineNumbers(playText) {
-    const lines = playText.split('\n');
-    let currentLineNumber = 0;
-    let inScene = false;
-    let processedLines = [];
-    
-    for (let line of lines) {
-        // Preserve empty lines by pushing them directly
-        if (!line.trim()) {
-            processedLines.push('\n');
-            continue;
+    // Since the text is already formatted with data-line-number attributes,
+    // we just need to add the 'numbered' class to every 5th line
+    return playText.split('\n').map(line => {
+        // If it's a play-line, process it
+        if (line.includes('data-line-number="')) {
+            const lineNumberMatch = line.match(/data-line-number="(\d+)"/);
+            if (lineNumberMatch) {
+                const lineNumber = parseInt(lineNumberMatch[1]);
+                if (lineNumber % 5 === 0) {
+                    // Add 'numbered' class to every 5th line
+                    return line.replace('class="play-line"', 'class="play-line numbered"');
+                }
+                return line;
+            }
         }
-
-        if (line.includes('class="act-header"')) {
-            processedLines.push(`${line}\n`);  // Act header with newline
-            continue;
-        }
-
-        if (line.includes('class="scene-header"')) {
-            currentLineNumber = 0;
-            inScene = true;
-            processedLines.push(`${line}\n`);  // Scene header with newline
-            continue;
-        }
-        
-        if (line.includes('<hr>') ||
-            line.trim().startsWith('[') ||
-            line.includes('<speaker>')) {
-            processedLines.push(line + '\n');
-            continue;
-        }
-        
-        // Check for character name with dialogue pattern (NAME  dialogue)
-        const speakerMatch = line.match(/^([A-Z][A-Z\s]+?)  (.*)/);
-        if (speakerMatch) {
-            const [_, speaker, dialogue] = speakerMatch;
-            processedLines.push(`<speaker>${speaker.trim()}</speaker>\n${dialogue}\n`);
-            continue;
-        }
-        
-        // Check for standalone character names
-        if (line.trim().toUpperCase() === line.trim() && line.trim().length > 0 && !line.includes('<')) {
-            processedLines.push(`<speaker>${line.trim()}</speaker>\n`);
-            continue;
-        }
-        
-        if (inScene && line.trim()) {
-            currentLineNumber++;
-            const lineClass = currentLineNumber % 5 === 0 ? 'numbered' : '';
-            processedLines.push(`<div class="play-line ${lineClass}">${line}</div>`);
-        } else {
-            processedLines.push(line);
-        }
-    }
-    
-    return processedLines.join('');
+        // For other lines (speakers, headers, etc.), preserve them
+        return line;
+    }).join('');
 }
