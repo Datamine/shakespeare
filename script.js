@@ -47,13 +47,14 @@ const options = [
   {"name": "Venus and Adonis", "filename": "venus-and-adonis"}
 ]
 
-const credits = `All's Well That Ends Well
-        by William Shakespeare
-        Edited by Barbara A. Mowat and Paul Werstine
-          with Michael Poston and Rebecca Niles
-        Folger Shakespeare Library
-        https://shakespeare.folger.edu/shakespeares-works/alls-well-that-ends-well/
-        Created on Mar 14, 2018, from FDT version 0.9.2.2`;
+const credits = `A Midsummer Night's Dream
+by William Shakespeare
+Edited by Barbara A. Mowat and Paul Werstine
+  with Michael Poston and Rebecca Niles
+Folger Shakespeare Library
+<a href="https://shakespeare.folger.edu/shakespeares-works/a-midsummer-nights-dream/" target="_blank">https://shakespeare.folger.edu/shakespeares-works/a-midsummer-nights-dream/</a>
+Created on Jul 31, 2015, from FDT version 0.9.2`;
+;
 
 const input = document.getElementById('typeahead-input');
 const suggestionsList = document.getElementById('suggestions-list');
@@ -362,29 +363,6 @@ function updateSidebar(playText, selectedPlay) {
     playTitle.textContent = selectedPlay;
     sidebar.appendChild(playTitle);
     
-    // Add Credits tab
-    const creditsTab = document.createElement('div');
-    creditsTab.className = 'act-item';
-    creditsTab.textContent = 'Credits';
-    creditsTab.onclick = () => {
-        // Remove active state from all items
-        document.querySelectorAll('.act-item, .scene-item').forEach(item => {
-            item.classList.remove('active');
-        });
-        // Hide all scenes containers
-        document.querySelectorAll('.scenes-container').forEach(container => {
-            container.style.display = 'none';
-        });
-        // Add active state to credits tab
-        creditsTab.classList.add('active');
-        // Scroll to credits section
-        const textContent = document.querySelector('.text-content');
-        const creditsElement = document.createElement('div');
-        creditsElement.innerHTML = credits.split('\n').map(line => `<div>${line.trim()}</div>`).join('');
-        textContent.innerHTML = creditsElement.innerHTML;
-    };
-    sidebar.appendChild(creditsTab);
-    
     // Create acts container
     const actsContainer = document.createElement('div');
     actsContainer.className = 'sidebar-acts';
@@ -462,6 +440,30 @@ function updateSidebar(playText, selectedPlay) {
     if (firstScenesContainer) {
         firstScenesContainer.style.display = 'block';
     }
+
+    // Add credits link above version number
+    const creditsLink = document.createElement('div');
+    creditsLink.className = 'credits-link';
+    creditsLink.textContent = 'Credits';
+    creditsLink.onclick = () => {
+        // Remove active state from all items
+        document.querySelectorAll('.act-item, .scene-item').forEach(item => {
+            item.classList.remove('active');
+        });
+        // Hide all scenes containers
+        document.querySelectorAll('.scenes-container').forEach(container => {
+            container.style.display = 'none';
+        });
+        // Scroll to credits section
+        const textContent = document.querySelector('.text-content');
+        const creditsElement = document.createElement('div');
+        creditsElement.innerHTML = credits.split('\n').map(line => `<div>${line.trim()}</div>`).join('');
+        textContent.innerHTML = creditsElement.innerHTML;
+    };
+    
+    // Insert credits link before version number
+    const versionNumber = document.querySelector('.version-number');
+    versionNumber.parentNode.insertBefore(creditsLink, versionNumber);
 }
 
 function selectAct(actCount, sceneCount = null) {

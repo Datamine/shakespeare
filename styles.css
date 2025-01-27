@@ -287,13 +287,15 @@ body {
 }
 
 .version-number {
-    position: fixed;
-    bottom: 1rem;
+    position: absolute;
+    bottom: 5px;
     left: 1rem;
+    width: auto;
+    text-align: left;
     font-size: 0.75rem;
     color: #6b7280;
     opacity: 0.8;
-} 
+}
 
 .sidebar-acts {
     display: flex;
@@ -392,4 +394,33 @@ body {
 
 .text-content {
     counter-reset: lines;
+}
+
+.credits-link {
+    position: absolute;
+    bottom: 25px;
+    left: 1rem;
+    width: auto;
+    text-align: left;
+    font-size: 0.75rem;
+    color: #6b7280;
+    opacity: 0.8;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 100;
+}
+
+.credits-link:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+a {
+    color: #1e40af;  /* Dark blue color */
+    text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #1d4ed8;  /* Slightly lighter blue on hover */
 }
