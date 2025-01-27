@@ -216,13 +216,26 @@ def enumerate_play_lines(content):
     """
     processed_lines = []
     line_number = 1
+    current_act = 1
+    current_scene = 1
     
     for line in content.split('\n'):
-        # Reset line number at the start of each scene
+        # Update act number when we hit an act header
+        if line.startswith('<b') and 'class="act-header"' in line:
+            act_match = re.search(r'Act (\d+)', line)
+            if act_match:
+                current_act = int(act_match.group(1))
+                processed_lines.append(line)
+                continue
+        
+        # Update scene number and reset line count when we hit a scene header
         if line.startswith('<b') and 'class="scene-header"' in line:
-            line_number = 1
-            processed_lines.append(line)
-            continue
+            scene_match = re.search(r'Scene (\d+)', line)
+            if scene_match:
+                current_scene = int(scene_match.group(1))
+                line_number = 1
+                processed_lines.append(line)
+                continue
             
         # Skip empty lines, speakers, headers, and horizontal rules
         if (not line.strip() or 
@@ -232,8 +245,11 @@ def enumerate_play_lines(content):
             processed_lines.append(line)
             continue
             
-        # Wrap the line in a numbered div
-        processed_lines.append(f'<div class="play-line" data-line-number="{line_number}">{line}</div>')
+        # Wrap the line in a numbered div with act and scene data
+        processed_lines.append(
+            f'<div class="play-line" data-line-number="{line_number}" '
+            f'data-as="a{current_act}s{current_scene}">{line}</div>'
+        )
         line_number += 1
     
     return '\n'.join(processed_lines)
