@@ -1186,9 +1186,9 @@ goButton.addEventListener('click', async () => {
                             <!-- Top white pane content -->
                         </div>
                         <div class="white-pane-bottom">
-                            <div class="line-numbers">
-                                <div class="top-line">Line: --</div>
-                                <div class="bottom-line">Line: --</div>
+                            <div class="white-pane-header">What's Going On?</div>
+                            <div class="white-pane-content">
+                                Scroll to see summaries as-you-go...
                             </div>
                         </div>
                     </div>
@@ -1220,8 +1220,7 @@ goButton.addEventListener('click', async () => {
         // Add this new function after the addLineNumbers function:
         function updateVisibleLineNumbers() {
             const textContent = document.querySelector('.text-content');
-            const topLine = document.querySelector('.top-line');
-            const bottomLine = document.querySelector('.bottom-line');
+            const whitePaneContent = document.querySelector('.white-pane-content');
             
             // Get all play-line elements
             const playLines = textContent.querySelectorAll('.play-line');
@@ -1231,6 +1230,8 @@ goButton.addEventListener('click', async () => {
             const containerRect = textContent.getBoundingClientRect();
             let firstVisibleLine = null;
             let lastVisibleLine = null;
+            let firstVisibleAs = null;
+            let lastVisibleAs = null;
 
             // Find first and last visible lines
             playLines.forEach(line => {
@@ -1238,18 +1239,55 @@ goButton.addEventListener('click', async () => {
                 // Check if line is visible (partially or fully)
                 if (lineRect.top < containerRect.bottom && lineRect.bottom > containerRect.top) {
                     const lineNumber = line.getAttribute('data-line-number');
-                    if (!firstVisibleLine) firstVisibleLine = lineNumber;
+                    const actScene = line.getAttribute('data-as');
+                    if (!firstVisibleLine) {
+                        firstVisibleLine = lineNumber;
+                        firstVisibleAs = actScene;
+                    }
                     lastVisibleLine = lineNumber;
+                    lastVisibleAs = actScene;
                 }
             });
 
-            // Update the line number display
-            topLine.textContent = `Line: ${firstVisibleLine || '--'}`;
-            bottomLine.textContent = `Line: ${lastVisibleLine || '--'}`;
+            // Only make the API call if we have valid line numbers and act/scene info
+            if (firstVisibleLine && lastVisibleLine && firstVisibleAs && lastVisibleAs) {
+                // Add loading state before making the API call
+                whitePaneContent.innerHTML = 'Loading summary...';
+
+                const requestData = {
+                    start_line: parseInt(firstVisibleLine),
+                    start_as: firstVisibleAs,
+                    end_line: parseInt(lastVisibleLine),
+                    end_as: lastVisibleAs,
+                    file: "a-midsummer-nights-dream"
+                };
+
+                // Make the API call
+                fetch('https://api.johnloeber.com/plot-by-line-numbers', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(requestData)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    // Update the white pane content with the response
+                    if (data && data.response) {
+                        whitePaneContent.innerHTML = data.response;
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching plot summary:', error);
+                    whitePaneContent.innerHTML = 'Unable to load plot summary at this time.';
+                });
+            }
         }
 
-        // Add scroll event listener to update line numbers
-        document.querySelector('.text-content').addEventListener('scroll', _.throttle(updateVisibleLineNumbers, 100));
+        // Add debounced scroll event listener to update line numbers and fetch plot summary
+        document.querySelector('.text-content').addEventListener('scroll', 
+            _.debounce(updateVisibleLineNumbers, 500)  // Increased debounce time to 500ms to reduce API calls
+        );
 
         // Call initially to set starting values
         setTimeout(updateVisibleLineNumbers, 100);
