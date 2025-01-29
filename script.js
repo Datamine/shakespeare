@@ -1187,6 +1187,7 @@ goButton.addEventListener('click', async () => {
                         </div>
                         <div class="white-pane-bottom">
                             <div class="white-pane-header">What's Going On?</div>
+                            <div class="white-pane-subheader"></div>
                             <div class="white-pane-content">
                                 Scroll to see summaries as-you-go...
                             </div>
@@ -1221,6 +1222,7 @@ goButton.addEventListener('click', async () => {
         function updateVisibleLineNumbers() {
             const textContent = document.querySelector('.text-content');
             const whitePaneContent = document.querySelector('.white-pane-content');
+            const whitePaneSubheader = document.querySelector('.white-pane-subheader');
             
             // Get all play-line elements
             const playLines = textContent.querySelectorAll('.play-line');
@@ -1251,6 +1253,18 @@ goButton.addEventListener('click', async () => {
 
             // Only make the API call if we have valid line numbers and act/scene info
             if (firstVisibleLine && lastVisibleLine && firstVisibleAs && lastVisibleAs) {
+                // Update the subheader with act/scene/line information
+                const startMatch = firstVisibleAs.match(/a(\d+)s(\d+)/);
+                const endMatch = lastVisibleAs.match(/a(\d+)s(\d+)/);
+                
+                if (startMatch && endMatch) {
+                    const [, startAct, startScene] = startMatch;
+                    const [, endAct, endScene] = endMatch;
+                    whitePaneSubheader.textContent = 
+                        `Act ${startAct} Scene ${startScene} Line ${firstVisibleLine} - Act ${endAct} Scene ${endScene} Line ${lastVisibleLine}`;
+                    whitePaneSubheader.style.display = 'block';
+                }
+
                 // Add loading state before making the API call
                 whitePaneContent.innerHTML = 'Loading summary...';
 
@@ -1281,6 +1295,9 @@ goButton.addEventListener('click', async () => {
                     console.error('Error fetching plot summary:', error);
                     whitePaneContent.innerHTML = 'Unable to load plot summary at this time.';
                 });
+            } else {
+                // Hide the subheader if we don't have valid act/scene info
+                whitePaneSubheader.style.display = 'none';
             }
         }
 
