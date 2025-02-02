@@ -447,8 +447,7 @@ goButton.addEventListener('click', async () => {
 <div class="play-line" data-line-number="221" data-as="a1s1">Tomorrow night when Phoebe doth behold</div>
 <div class="play-line" data-line-number="222" data-as="a1s1">Her silver visage in the wat&rsquo;ry glass,</div>
 <div class="play-line" data-line-number="223" data-as="a1s1">Decking with liquid pearl the bladed grass</div>
-<speaker>(A</speaker>
-<div class="play-line" data-line-number="224" data-as="a1s1">time that lovers&rsquo; flights doth still conceal),</div>
+<div class="play-line" data-line-number="224" data-as="a1s1">(A time that lovers&rsquo; flights doth still conceal),</div>
 <div class="play-line" data-line-number="225" data-as="a1s1">Through Athens&rsquo; gates have we devised to steal.</div>
 <br>
 <speaker>HERMIA</speaker>
@@ -1067,94 +1066,7 @@ goButton.addEventListener('click', async () => {
 <div class="play-line" data-line-number="284" data-as="a2s1">More fond on her than she upon her love.</div>
 <div class="play-line" data-line-number="285" data-as="a2s1">And look thou meet me ere the first cock crow.</div>
 <br>
-<speaker>ROBIN</speaker>
-<div class="play-line" data-line-number="286" data-as="a2s1">Fear not, my lord. Your servant shall do so.</div>
-<div class="play-line" data-line-number="287" data-as="a2s1">[<i>They exit.</i>]</div>
-<br>
-<b id="act-2-scene-2" class="scene-header">Scene 2</b>
-<hr>
-<div class="play-line" data-line-number="1" data-as="a2s2">[<i>Enter Titania, Queen of Fairies, with her train.</i>]</div>
-<br>
-<speaker>TITANIA</speaker>
-<div class="play-line" data-line-number="2" data-as="a2s2">Come, now a roundel and a fairy song;</div>
-<div class="play-line" data-line-number="3" data-as="a2s2">Then, for the third part of a minute, hence&mdash;</div>
-<div class="play-line" data-line-number="4" data-as="a2s2">Some to kill cankers in the muskrose buds,</div>
-<div class="play-line" data-line-number="5" data-as="a2s2">Some war with reremice for their leathern wings</div>
-<div class="play-line" data-line-number="6" data-as="a2s2">To make my small elves coats, and some keep back</div>
-<div class="play-line" data-line-number="7" data-as="a2s2">The clamorous owl that nightly hoots and wonders</div>
-<div class="play-line" data-line-number="8" data-as="a2s2">At our quaint spirits. Sing me now asleep.</div>
-<div class="play-line" data-line-number="9" data-as="a2s2">Then to your offices and let me rest.	[<i>She lies down.</i>]</div>
-<br>
-<div class="play-line" data-line-number="10" data-as="a2s2">[<i>Fairies sing.</i>]</div>
-<br>
-<speaker>FIRST FAIRY</speaker>
-<div class="play-line" data-line-number="11" data-as="a2s2">	You spotted snakes with double tongue,</div>
-<div class="play-line" data-line-number="12" data-as="a2s2">	   Thorny hedgehogs, be not seen.</div>
-<div class="play-line" data-line-number="13" data-as="a2s2">	Newts and blindworms, do no wrong,</div>
-<div class="play-line" data-line-number="14" data-as="a2s2">	   Come not near our Fairy Queen.</div>
-<br>
-<speaker>CHORUS</speaker>
-<div class="play-line" data-line-number="15" data-as="a2s2">	   Philomel, with melody</div>
-<div class="play-line" data-line-number="16" data-as="a2s2">	   Sing in our sweet lullaby.</div>
-<div class="play-line" data-line-number="17" data-as="a2s2">	Lulla, lulla, lullaby, lulla, lulla, lullaby.</div>
-<div class="play-line" data-line-number="18" data-as="a2s2">	   Never harm</div>
-<div class="play-line" data-line-number="19" data-as="a2s2">	   Nor spell nor charm</div>
-<div class="play-line" data-line-number="20" data-as="a2s2">	Come our lovely lady nigh.</div>
-<div class="play-line" data-line-number="21" data-as="a2s2">	So good night, with lullaby.</div>
-<br>
-<speaker>FIRST FAIRY</speaker>
-<div class="play-line" data-line-number="22" data-as="a2s2">	Weaving spiders, come not here.</div>
-<div class="play-line" data-line-number="23" data-as="a2s2">	   Hence, you long-legged spinners, hence.</div>
-<div class="play-line" data-line-number="24" data-as="a2s2">	Beetles black, approach not near.</div>
-<div class="play-line" data-line-number="25" data-as="a2s2">	   Worm nor snail, do no offence.</div>
-<br>
-<speaker>CHORUS</speaker>
-<div class="play-line" data-line-number="26" data-as="a2s2">	   Philomel, with melody</div>
-<div class="play-line" data-line-number="27" data-as="a2s2">	   Sing in our sweet lullaby.</div>
-<div class="play-line" data-line-number="28" data-as="a2s2">	Lulla, lulla, lullaby, lulla, lulla, lullaby.</div>
-<div class="play-line" data-line-number="29" data-as="a2s2">	   Never harm</div>
-<div class="play-line" data-line-number="30" data-as="a2s2">	   Nor spell nor charm</div>
-<div class="play-line" data-line-number="31" data-as="a2s2">	Come our lovely lady nigh.</div>
-<div class="play-line" data-line-number="32" data-as="a2s2">	So good night, with lullaby.</div>
-<div class="play-line" data-line-number="33" data-as="a2s2">[<i>Titania sleeps.</i>]</div>
-<br>
-<speaker>SECOND FAIRY</speaker>
-<div class="play-line" data-line-number="34" data-as="a2s2">Hence, away! Now all is well.</div>
-<div class="play-line" data-line-number="35" data-as="a2s2">One aloof stand sentinel.	[<i> Fairies exit.</i>]</div>
-<br>
-<div class="play-line" data-line-number="36" data-as="a2s2">[<i>Enter Oberon, who anoints Titania&rsquo;s eyelids with the</div>
-<div class="play-line" data-line-number="37" data-as="a2s2">nectar.</i>]</div>
-<br>
-<speaker>OBERON</speaker>
-<div class="play-line" data-line-number="38" data-as="a2s2">	What thou seest when thou dost wake</div>
-<div class="play-line" data-line-number="39" data-as="a2s2">	Do it for thy true love take.</div>
-<div class="play-line" data-line-number="40" data-as="a2s2">	Love and languish for his sake.</div>
-<div class="play-line" data-line-number="41" data-as="a2s2">	Be it ounce, or cat, or bear,</div>
-<div class="play-line" data-line-number="42" data-as="a2s2">	Pard, or boar with bristled hair,</div>
-<div class="play-line" data-line-number="43" data-as="a2s2">	In thy eye that shall appear</div>
-<div class="play-line" data-line-number="44" data-as="a2s2">	When thou wak&rsquo;st, it is thy dear.</div>
-<div class="play-line" data-line-number="45" data-as="a2s2">	Wake when some vile thing is near.	[<i>He exits.</i>]</div>
-<br>
-<div class="play-line" data-line-number="46" data-as="a2s2">[<i>Enter Lysander and Hermia.</i>]</div>
-<br>
-<speaker>LYSANDER</speaker>
-<div class="play-line" data-line-number="47" data-as="a2s2">Fair love, you faint with wand&rsquo;ring in the wood.</div>
-<div class="play-line" data-line-number="48" data-as="a2s2">   And, to speak troth, I have forgot our way.</div>
-<div class="play-line" data-line-number="49" data-as="a2s2">We&rsquo;ll rest us, Hermia, if you think it good,</div>
-<div class="play-line" data-line-number="50" data-as="a2s2">   And tarry for the comfort of the day.</div>
-<br>
-<speaker>HERMIA</speaker>
-<div class="play-line" data-line-number="51" data-as="a2s2">Be it so, Lysander. Find you out a bed,</div>
-<div class="play-line" data-line-number="52" data-as="a2s2">For I upon this bank will rest my head.</div>
-<br>
-<speaker>LYSANDER</speaker>
-<div class="play-line" data-line-number="53" data-as="a2s2">One turf shall serve as pillow for us both;</div>
-<div class="play-line" data-line-number="54" data-as="a2s2">One heart, one bed, two bosoms, and one troth.</div>
-<br>
-<speaker>HERMIA</speaker>
-<div class="play-line" data-line-number="55" data-as="a2s2">Nay, good Lysander. For my sake, my dear,</div>
-<div class="play-line" data-line-number="56" data-as="a2s2">Lie further off yet. Do not lie so near.</div>
-<br>`;
+<speaker>ROBIN</speaker>`;
 
         const characters = `<b class="characters-header">Characters in the Play</b><hr>
 <ul><li>Four lovers:</li><ul><li>HERMIA</li><li>LYSANDER</li><li>HELENA</li><li>DEMETRIUS</li></ul><li>THESEUS, duke of Athens</li><li>HIPPOLYTA, queen of the Amazons</li><li>EGEUS, father to Hermia</li><li>PHILOSTRATE, master of the revels to Theseus</li><li>NICK BOTTOM, weaver</li><li>PETER QUINCE, carpenter</li><li>FRANCIS FLUTE, bellows-mender</li><li>TOM SNOUT, tinker</li><li>SNUG, joiner</li><li>ROBIN STARVELING, tailor</li><li>OBERON, king of the Fairies</li><li>TITANIA, queen of the Fairies</li><li>ROBIN GOODFELLOW, a "puck," or hobgoblin, in Oberon's service</li><li>A FAIRY, in the service of Titania</li><li>Fairies attending upon Titania:</li><ul><li>PEASEBLOSSOM</li><li>COBWEB</li><li>MOTE</li><li>MUSTARDSEED</li></ul><li>Lords and Attendants on Theseus and Hippolyta</li><li>Other Fairies in the trains of Titania and Oberon</li></ul>`;
@@ -1240,13 +1152,14 @@ goButton.addEventListener('click', async () => {
             .then(response => response.json())
             .then(data => {
                 if (data && data.response) {
-                    document.querySelector('.white-pane-content').innerHTML = data.response;
+                    const formattedResponse = formatTypography(data.response);
+                    document.querySelector('.white-pane-bottom .white-pane-content').innerHTML = formattedResponse;
                 }
             })
             .catch(error => {
                 if (error.name !== 'AbortError') {
                     console.error('Error fetching plot summary:', error);
-                    document.querySelector('.white-pane-content').innerHTML = 'Unable to load plot summary at this time.';
+                    document.querySelector('.white-pane-bottom .white-pane-content').innerHTML = 'Unable to load plot summary at this time.';
                 }
             });
         }, 250);
@@ -1259,8 +1172,17 @@ goButton.addEventListener('click', async () => {
 
         function updateVisibleLineNumbers() {
             const textContent = document.querySelector('.text-content');
-            const whitePaneContent = document.querySelector('.white-pane-content');
+            const whitePaneContent = document.querySelector('.white-pane-bottom .white-pane-content');
             const whitePaneSubheader = document.querySelector('.white-pane-subheader');
+            const whitePaneTop = document.querySelector('.white-pane-top');
+            
+            // Initialize the top white pane with placeholder
+            if (!whitePaneTop.querySelector('.white-pane-header')) {
+                whitePaneTop.innerHTML = `
+                    <div class="white-pane-header">Passage Analysis</div>
+                    <div class="white-pane-content">Select any text in the play to see an explanation...</div>
+                `;
+            }
             
             // Get all play-line elements
             const playLines = textContent.querySelectorAll('.play-line');
@@ -1305,11 +1227,11 @@ goButton.addEventListener('click', async () => {
                         lastVisibleLine !== prevLastLine || 
                         firstVisibleAs !== prevFirstAs || 
                         lastVisibleAs !== prevLastAs) {
-                        whitePaneContent.innerHTML = 'Loading...';
+                        whitePaneContent.innerHTML = 'Loading...';  // This now correctly targets bottom pane
                     }
                 }
 
-                // Call debounced API function
+                // Call debounced API function for plot summaries in bottom pane
                 debouncedFetchSummary({
                     start_line: parseInt(firstVisibleLine),
                     start_as: firstVisibleAs,
@@ -1333,6 +1255,29 @@ goButton.addEventListener('click', async () => {
 
         // Call initially to set starting values
         setTimeout(updateVisibleLineNumbers, 100);
+
+        // Add selection handler to the cream pane
+        const creamPane = document.querySelector('.cream-pane');
+        creamPane.addEventListener('mouseup', () => {
+            const selection = window.getSelection();
+            const selectedText = selection.toString().trim();
+            
+            if (selectedText.length > 0) {
+                // Get the current filename from the options
+                const selectedPlay = window.currentPlayTitle;
+                const playFile = options.find(opt => opt.name === selectedPlay)?.filename;
+                
+                if (playFile) {
+                    const whitePaneTopContent = document.querySelector('.white-pane-top .white-pane-content');
+                    whitePaneTopContent.innerHTML = 'Loading explanation...';
+                    
+                    debouncedFetchSubstringExplanation({
+                        substring: selectedText,
+                        file: playFile
+                    });
+                }
+            }
+        });
     }
 });
 
@@ -1711,3 +1656,47 @@ function addLineNumbers(playText) {
         return line;
     }).join('');
 }
+
+function formatTypography(text) {
+    return text
+        .replace(/(\W|^)"(\w)/g, '$1&ldquo;$2')  // Opening quotes
+        .replace(/(\w)"(\W|$)/g, '$1&rdquo;$2')  // Closing quotes
+        .replace(/(\W|^)'(\w)/g, '$1&lsquo;$2')  // Opening single quotes
+        .replace(/(\w)'(\W|$)/g, '$1&rsquo;$2')  // Closing single quotes/apostrophes
+        .replace(/(\w)'(\w)/g, '$1&rsquo;$2');   // Apostrophes between words
+}
+
+// Add these variables at the top level
+let currentSubstringAbortController = null;
+const debouncedFetchSubstringExplanation = _.debounce((requestData) => {
+    if (currentSubstringAbortController) {
+        currentSubstringAbortController.abort();
+    }
+    
+    currentSubstringAbortController = new AbortController();
+    
+    const whitePaneTopContent = document.querySelector('.white-pane-top .white-pane-content');
+    whitePaneTopContent.innerHTML = 'Loading explanation...';
+    
+    fetch('https://api.johnloeber.com/substring-explanation', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(requestData),
+        signal: currentSubstringAbortController.signal
+    })
+    .then(response => response.json())
+    .then(data => {
+        if (data && data.response) {
+            const formattedResponse = formatTypography(data.response);
+            whitePaneTopContent.innerHTML = formattedResponse;
+        }
+    })
+    .catch(error => {
+        if (error.name !== 'AbortError') {
+            console.error('Error fetching explanation:', error);
+            whitePaneTopContent.innerHTML = 'Unable to load explanation at this time.';
+        }
+    });
+}, 250);

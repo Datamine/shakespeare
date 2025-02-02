@@ -9,6 +9,7 @@ The [https://shakespeare.pizza](https://shakespeare.pizza) AI Shakespeare Tutor 
 2. easiest to start with shakespeare, known formats, and a pick-a-play format, rather than an upload-your-own
 
 ### TODO
+- should tie in a line-by-line reference, o3-mini is not quite good enough. see e.g. https://myshakespeare.com/midsummer-nights-dream/act-1-scene-1-popup-note-index-item-i-wooed-thee
 - fix www.shakespeare.pizza DNS
 - return shakespeare head to original position during rotation
 - maybe bother with more correctly enumerating stage directions: https://internetshakespeare.uvic.ca/Foyer/guidelines/lineation/index.html#:~:text=Stage%20directions%20should%20be%20assigned,who%20a%20speaker%20is%20addressing).
