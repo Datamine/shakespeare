@@ -183,7 +183,8 @@ def process_speakers(content):
                 # Find the speaker portion (all uppercase words)
                 speaker_end = 0
                 for j, word in enumerate(words):
-                    stripped_word = word.rstrip(',.!?:;')
+                    # Strip both leading and trailing punctuation
+                    stripped_word = word.strip(',.!?:;()[]{}')
                     if not stripped_word.isupper() or len(stripped_word) == 1:
                         break
                     speaker_end = j + 1

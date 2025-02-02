@@ -4744,8 +4744,7 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 <speaker>PARIS</speaker>
 <div class="play-line" data-line-number="15" data-as="a5s3">[<i>scattering flowers</i>]</div>
 <div class="play-line" data-line-number="16" data-as="a5s3">Sweet flower, with flowers thy bridal bed I strew</div>
-<speaker>(O</speaker>
-<div class="play-line" data-line-number="17" data-as="a5s3">woe, thy canopy is dust and stones!)</div>
+<div class="play-line" data-line-number="17" data-as="a5s3">(O woe, thy canopy is dust and stones!)</div>
 <div class="play-line" data-line-number="18" data-as="a5s3">Which with sweet water nightly I will dew,</div>
 <div class="play-line" data-line-number="19" data-as="a5s3">Or, wanting that, with tears distilled by moans.</div>
 <div class="play-line" data-line-number="20" data-as="a5s3">The obsequies that I for thee will keep</div>

@@ -142,8 +142,7 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 <div class="play-line" data-line-number="92" data-as="a1s1">Sit like his grandsire cut in alabaster?</div>
 <div class="play-line" data-line-number="93" data-as="a1s1">Sleep when he wakes? And creep into the jaundice</div>
 <div class="play-line" data-line-number="94" data-as="a1s1">By being peevish? I tell thee what, Antonio</div>
-<speaker>(I</speaker>
-<div class="play-line" data-line-number="95" data-as="a1s1">love thee, and &rsquo;tis my love that speaks):</div>
+<div class="play-line" data-line-number="95" data-as="a1s1">(I love thee, and &rsquo;tis my love that speaks):</div>
 <div class="play-line" data-line-number="96" data-as="a1s1">There are a sort of men whose visages</div>
 <div class="play-line" data-line-number="97" data-as="a1s1">Do cream and mantle like a standing pond</div>
 <div class="play-line" data-line-number="98" data-as="a1s1">And do a willful stillness entertain</div>

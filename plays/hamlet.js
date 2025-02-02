@@ -536,8 +536,7 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 <div class="play-line" data-line-number="159" data-as="a1s2">A little month, or ere those shoes were old</div>
 <div class="play-line" data-line-number="160" data-as="a1s2">With which she followed my poor father&rsquo;s body,</div>
 <div class="play-line" data-line-number="161" data-as="a1s2">Like Niobe, all tears&mdash;why she, even she</div>
-<speaker>(O</speaker>
-<div class="play-line" data-line-number="162" data-as="a1s2">God, a beast that wants discourse of reason</div>
+<div class="play-line" data-line-number="162" data-as="a1s2">(O God, a beast that wants discourse of reason</div>
 <div class="play-line" data-line-number="163" data-as="a1s2">Would have mourned longer!), married with my</div>
 <div class="play-line" data-line-number="164" data-as="a1s2">uncle,</div>
 <div class="play-line" data-line-number="165" data-as="a1s2">My father&rsquo;s brother, but no more like my father</div>
@@ -4673,8 +4672,7 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 <div class="play-line" data-line-number="44" data-as="a4s4">To fust in us unused. Now whether it be</div>
 <div class="play-line" data-line-number="45" data-as="a4s4">Bestial oblivion or some craven scruple</div>
 <div class="play-line" data-line-number="46" data-as="a4s4">Of thinking too precisely on th&rsquo; event</div>
-<speaker>(A</speaker>
-<div class="play-line" data-line-number="47" data-as="a4s4">thought which, quartered, hath but one part</div>
+<div class="play-line" data-line-number="47" data-as="a4s4">(A thought which, quartered, hath but one part</div>
 <div class="play-line" data-line-number="48" data-as="a4s4">wisdom</div>
 <div class="play-line" data-line-number="49" data-as="a4s4">And ever three parts coward), I do not know</div>
 <div class="play-line" data-line-number="50" data-as="a4s4">Why yet I live to say &ldquo;This thing&rsquo;s to do,&rdquo;</div>

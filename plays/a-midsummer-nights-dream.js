@@ -327,8 +327,7 @@ export const text = `<b id="act-1" class="act-header">Act 1</b>
 <div class="play-line" data-line-number="221" data-as="a1s1">Tomorrow night when Phoebe doth behold</div>
 <div class="play-line" data-line-number="222" data-as="a1s1">Her silver visage in the wat&rsquo;ry glass,</div>
 <div class="play-line" data-line-number="223" data-as="a1s1">Decking with liquid pearl the bladed grass</div>
-<speaker>(A</speaker>
-<div class="play-line" data-line-number="224" data-as="a1s1">time that lovers&rsquo; flights doth still conceal),</div>
+<div class="play-line" data-line-number="224" data-as="a1s1">(A time that lovers&rsquo; flights doth still conceal),</div>
 <div class="play-line" data-line-number="225" data-as="a1s1">Through Athens&rsquo; gates have we devised to steal.</div>
 <br>
 <speaker>HERMIA</speaker>
